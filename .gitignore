@@ -1,0 +1,28 @@
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Test, lint, and coverage caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Runtime LLM cache
+cache/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# Local secrets and macOS files
+.env
+.env.*
+.DS_Store

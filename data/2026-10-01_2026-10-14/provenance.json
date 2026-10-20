@@ -1,0 +1,390 @@
+{
+  "company": {
+    "evidence_count_after_deduplication": 24,
+    "gdelt_query_note": "GDELT is discovery only; article timestamps and bodies are revalidated.",
+    "provider": "SEC EDGAR, verified official newsrooms, and GDELT-discovered web articles",
+    "retrieved_at": "2026-10-20 03:50:06.142772+00:00",
+    "source_counts": {
+      "sec": 11,
+      "web_news": 13
+    },
+    "window_end": "2026-10-14 09:00:00-04:00",
+    "window_start": "2026-09-24 09:00:00-04:00"
+  },
+  "created_at": "2026-10-20 03:50:06.142772+00:00",
+  "decision_cutoff": "2026-10-14 09:00:00-04:00",
+  "evaluation_end": "2026-10-14",
+  "evaluation_sessions": [
+    "2026-10-01",
+    "2026-10-02",
+    "2026-10-05",
+    "2026-10-06",
+    "2026-10-07",
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14"
+  ],
+  "evaluation_start": "2026-10-01",
+  "files": {
+    "company/documents/official_aapl_373921b96a1395d9.txt": {
+      "sha256": "4f06b45e40bf8fd35567c3e4eae6e2dabcc0316b7cb2fea0289b66a512835ff6",
+      "size_bytes": 29859
+    },
+    "company/documents/official_aapl_e8f5bd2da63e49ed.txt": {
+      "sha256": "16e1eb37102e5e151179160471ccf30be877d70b7c016ff91599af95c56c8246",
+      "size_bytes": 39148
+    },
+    "company/documents/official_amzn_410a68943732a53c.txt": {
+      "sha256": "57a4038a0e7d38eceee993b3126edaac5153d8d646cded1fdcc51b6355516f4d",
+      "size_bytes": 9651
+    },
+    "company/documents/official_bac_b4ebc0963059fe9f.txt": {
+      "sha256": "4ee88994f19c548cf4692a3e065f6250ac1284a5ef7185f11d7fed1bcaba6ccb",
+      "size_bytes": 22253
+    },
+    "company/documents/official_googl_ef24d58765c7c3eb.txt": {
+      "sha256": "e82e0c30689be90d825655d204135d3680d33c580352ba8d8ec1830bf28a8c2b",
+      "size_bytes": 8954
+    },
+    "company/documents/official_jnj_678fa951e1bde21a.txt": {
+      "sha256": "0804fdef39aad8a86369f5d33b917783e3c3c13982b26e1df1045278b0ae888f",
+      "size_bytes": 21053
+    },
+    "company/documents/official_jnj_f5258baa159b9831.txt": {
+      "sha256": "9ccf85b7a3e24fc957d58291f502a90ea28f23c76759b9c9ffa472ce3474898b",
+      "size_bytes": 25562
+    },
+    "company/documents/official_jpm_1c0b9274c63fd1cb.txt": {
+      "sha256": "88667d5c96f6c535da468fdc1a32f96eecaf012f497aeadace14b1618c8208ed",
+      "size_bytes": 8129
+    },
+    "company/documents/official_jpm_e445301ff4776f79.txt": {
+      "sha256": "f060580379829334c86649d8d89460604f3bb8dcd3179a8d17ec08ddbbc210e4",
+      "size_bytes": 9530
+    },
+    "company/documents/official_nvda_867a207ed4448ee0.txt": {
+      "sha256": "f01e5c5c21d79666d16956b053d0e50e9710c53e90320b52886f355e36604a27",
+      "size_bytes": 11222
+    },
+    "company/documents/official_wmt_3de042f3e2173d38.txt": {
+      "sha256": "5fc63dca919a3056b8302d5de76626f58e9e266fc12d04bd5c6887f082e79c70",
+      "size_bytes": 12291
+    },
+    "company/documents/official_wmt_3ec1877ae7929695.txt": {
+      "sha256": "de944e28761e79cf7379e46c258dcc16e92496ed50be1345d25f0fbaa13d0715",
+      "size_bytes": 9632
+    },
+    "company/documents/official_wmt_82f07c144f9e1b22.txt": {
+      "sha256": "04bf14533fb9cdc4d13a1e7ac4f578343bb0cac17232c4e51362e6251ce18bfa",
+      "size_bytes": 12038
+    },
+    "company/documents/sec_cost_000090983226000084.txt": {
+      "sha256": "b9575cc5021beaef63836b0c6b4a0ea0c6ca38d965d892be70373450df249bc0",
+      "size_bytes": 3014
+    },
+    "company/documents/sec_cost_000090983226000093.txt": {
+      "sha256": "b9e374fd07b4fc86df6273bbfbe10b1d4e931cebce52a39ad4eb918374cdc373",
+      "size_bytes": 222594
+    },
+    "company/documents/sec_cvx_000009341026000188.txt": {
+      "sha256": "c6ce667715e9b473ab238f0e4ee3b9830e52240719f630f8422288d94222458d",
+      "size_bytes": 4666
+    },
+    "company/documents/sec_cvx_000009341026000192.txt": {
+      "sha256": "de5eaf0671138af7a5813d2a180a6778eaaf85260c0150fb4c8b88fbc55acb53",
+      "size_bytes": 6213
+    },
+    "company/documents/sec_gs_000088698226000529.txt": {
+      "sha256": "5df7d23eeedea5129e7cb1e05fe1d6169656e807c70c23dca2840924a16036ea",
+      "size_bytes": 5853
+    },
+    "company/documents/sec_jnj_000020040626000189.txt": {
+      "sha256": "005225eaf5dc3e8ddd6f7b7fe33b22d6283c269f83a3ccb9b71800fad1a13571",
+      "size_bytes": 4307
+    },
+    "company/documents/sec_jpm_000162828026065582.txt": {
+      "sha256": "a85c5d337274fce1aa2be72c91913b363dd087f3382a7718bb1b79eed1900742",
+      "size_bytes": 7176
+    },
+    "company/documents/sec_jpm_000162828026065616.txt": {
+      "sha256": "b2774f05445b7e8531062874f5020d72022e259d2a7041ccd7d4012b052e02ed",
+      "size_bytes": 7211
+    },
+    "company/documents/sec_tsla_000162828026063820.txt": {
+      "sha256": "daec28c7e755033038dfbf7a68987d15d91cf99fb7c8916b4b767475e286c2ab",
+      "size_bytes": 9929
+    },
+    "company/documents/sec_tsla_000162828026064366.txt": {
+      "sha256": "2dd160a770c855a8fa2651b241e30505a2d13d1a8137c48b796c696ef101c238",
+      "size_bytes": 3068
+    },
+    "company/documents/sec_unh_000073176626000255.txt": {
+      "sha256": "997a2274462cae32b3ca7e63ea02b6cf31d88499ac63fdf4c0a475beddfa3c82",
+      "size_bytes": 3666
+    },
+    "company/evidence.jsonl": {
+      "sha256": "05072ca60cb50df24c23b3282ae0ff62343a0d3f3c4c6e41a17621f4e58e773a",
+      "size_bytes": 35548
+    },
+    "evaluation/labels.parquet": {
+      "sha256": "b69ac91c064c4cd24af347c9911c59b405e0780c312182617580cd99cfa4da3b",
+      "size_bytes": 3148
+    },
+    "macro/documents/bls_cpi_2026-10-14.txt": {
+      "sha256": "caf65c6793a3cf6ad4e1c435702414a14b6d7eaab3eafa472ba47ea3ad44de0c",
+      "size_bytes": 115919
+    },
+    "macro/documents/bls_payrolls_2026-10-02.txt": {
+      "sha256": "abd6a6ef9a8b2b1041088a324b77985663f5f59cd1185ee7ef283b6221a6d9b6",
+      "size_bytes": 114720
+    },
+    "macro/documents/cnbc_cpi_consensus_2026-10-13.txt": {
+      "sha256": "729cc671552980bdd1f53131de07b93e17db71ea0bf10208ea7a6e727261d2f3",
+      "size_bytes": 5894
+    },
+    "macro/documents/cnbc_payrolls_consensus_2026-10-01.txt": {
+      "sha256": "610683528bdfd7493721bbbb6d19d83ccca1a69a83cc80225389756b4badb76f",
+      "size_bytes": 7080
+    },
+    "macro/events.jsonl": {
+      "sha256": "37563d2376e510fc92fb3f4fb3197457f64a004472887cbbe1b53dcc10cb3831",
+      "size_bytes": 2824
+    },
+    "market/corporate_actions.jsonl": {
+      "sha256": "78bbc83bb7a6199f3188fefbdbb43d6ae3ce3166439fee4f8f9b06ba5ef1b5e3",
+      "size_bytes": 5746
+    },
+    "market/daily_bars.parquet": {
+      "sha256": "c856819b063139f4c3d44efdc6a3415a3f85b8e7e4cdfe77d5211060b74e58d3",
+      "size_bytes": 33727
+    },
+    "raw/gdelt/aapl.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/amzn.json": {
+      "sha256": "c72aeeea3a61db4a2f27e74a604f295b313b0a80e531d0dc4c204ab0882a6fda",
+      "size_bytes": 13800
+    },
+    "raw/gdelt/bac.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/cat.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/cop.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/cost.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/cvx.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/ge.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/googl.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/gs.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/hd.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/jnj.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/jpm.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/meta.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/msft.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/nvda.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/tsla.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/unh.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/wmt.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/gdelt/xom.json": {
+      "sha256": "6fe101247f66e266034673df4a9b9553b41108bbbe6b5535853304a53f614ce0",
+      "size_bytes": 48
+    },
+    "raw/sec/aapl_submissions.json": {
+      "sha256": "3b2da1e3bf442b8211e99faba66a0e7d46f83680d0ace1c412653d0210c08c4d",
+      "size_bytes": 308981
+    },
+    "raw/sec/amzn_submissions.json": {
+      "sha256": "0564fb5733d57ea3b2f1a44e14c60c9cc9b7667975806a621bba29d44310dcc2",
+      "size_bytes": 304720
+    },
+    "raw/sec/bac_submissions.json": {
+      "sha256": "5153d3f36e2bfb00400093e2a9de02a9e5978180201f48abac92b6948bbaa6b6",
+      "size_bytes": 3432502
+    },
+    "raw/sec/cat_submissions.json": {
+      "sha256": "e1ee254d5096a930994089e4e0c7c58d0cae4a66a7e472c97e969ff724818ae2",
+      "size_bytes": 312630
+    },
+    "raw/sec/cop_submissions.json": {
+      "sha256": "42984f5ceb1a77dbcbdf713d6619689a7dbed1f1395a59dbb9e8464d02b90ff1",
+      "size_bytes": 300606
+    },
+    "raw/sec/cost_submissions.json": {
+      "sha256": "a8b91ea1044a50920e3eed0786c80d9a2d1f58b63273774ee5f0127a5e0beca7",
+      "size_bytes": 303339
+    },
+    "raw/sec/cvx_submissions.json": {
+      "sha256": "6c381771a477188159a5342e67ba52ffe102dd6e00f6c54ebfadbf8a76d94135",
+      "size_bytes": 302668
+    },
+    "raw/sec/ge_submissions.json": {
+      "sha256": "c8d0635187da7637d0a191800eb45d826b4e5e7d2e29e308bd751842e54280f8",
+      "size_bytes": 312747
+    },
+    "raw/sec/googl_submissions.json": {
+      "sha256": "5228dbc6fdf08a040ad14f80bddb7d0f8369fb13b08d9f9872f76ef2399d502f",
+      "size_bytes": 297049
+    },
+    "raw/sec/gs_submissions.json": {
+      "sha256": "1150b7b0317900f8c60a2499b0d8a0a681727cade28b58bce23e36038cefea06",
+      "size_bytes": 5016204
+    },
+    "raw/sec/hd_submissions.json": {
+      "sha256": "605501bfe1b1a9300d669c3d45dcf6514abd97d5d1625b2136e6d926d5bbbac9",
+      "size_bytes": 306514
+    },
+    "raw/sec/jnj_submissions.json": {
+      "sha256": "d652acb18a5e08063f68456d21c7adbee0ef459f0e504c270e7c6e9fd8084849",
+      "size_bytes": 298956
+    },
+    "raw/sec/jpm_submissions.json": {
+      "sha256": "42b0784338ab836512b6779b5090496cba6b91ccf25950cab64748ab46b5a705",
+      "size_bytes": 8471615
+    },
+    "raw/sec/meta_submissions.json": {
+      "sha256": "ca6767c47cdc52287872ac88bb89a20b605142fc6f3d47880a1223367f679f6c",
+      "size_bytes": 302379
+    },
+    "raw/sec/msft_submissions.json": {
+      "sha256": "fd4abdd4dfc9e6d3334c4347b1fe09c1513be21e5c888f0e7325a0ac2b6630a9",
+      "size_bytes": 329696
+    },
+    "raw/sec/nvda_submissions.json": {
+      "sha256": "b9124bc48cfeb00cc554a45ec903a4ed987145be8ae2067946a38fb4a7995647",
+      "size_bytes": 304416
+    },
+    "raw/sec/tsla_submissions.json": {
+      "sha256": "01cbc8e8756219aecde392f42ea71c6fd9056b76b5b220fc79dcdf9f8a36faf7",
+      "size_bytes": 308484
+    },
+    "raw/sec/unh_submissions.json": {
+      "sha256": "ae0e79325516036cb3fe83cbfec315fa64113476029873dac09b1f69559d8fe0",
+      "size_bytes": 302431
+    },
+    "raw/sec/wmt_submissions.json": {
+      "sha256": "2bd5467ae69ab9306df2936083ad8cbe5c652a5ab0163678fa429471493c5b31",
+      "size_bytes": 305042
+    },
+    "raw/sec/xom_submissions.json": {
+      "sha256": "7cea04795972c795a3ac24a0027c504381584adb3c9cf5def535438266e80313",
+      "size_bytes": 307224
+    },
+    "universe/symbols.json": {
+      "sha256": "79eedd88d4b6fcfc483458742486072de234240728f5567616072a50eb29f01a",
+      "size_bytes": 7888
+    }
+  },
+  "limitations": [
+    "Yahoo Finance is an unofficial source and may revise historical data.",
+    "Yahoo OHLC is split-adjusted; the gateway must not adjust it again.",
+    "Corporate-action availability is conservatively set to effective time.",
+    "GDELT is used only for discovery; accepted articles are independently validated.",
+    "Official pages with date-only publication metadata are conservatively treated as available at 00:00 ET the next day.",
+    "This ten-session snapshot is an integration example, not a performance study."
+  ],
+  "macro": {
+    "events": [
+      {
+        "actual": 29.0,
+        "actual_source_url": "https://www.bls.gov/news.release/archives/empsit_10022026.htm",
+        "consensus": 84.0,
+        "consensus_published_at": "2026-10-01 18:55:00+00:00",
+        "consensus_source_url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
+        "event_time": "2026-10-02 12:30:00+00:00",
+        "event_type": "nonfarm_payrolls"
+      },
+      {
+        "actual": 3.7,
+        "actual_source_url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm",
+        "consensus": 3.6,
+        "consensus_published_at": "2026-10-13 18:05:00+00:00",
+        "consensus_source_url": "https://www.cnbc.com/2026/10/13/september-consumer-price-index-inflation.html",
+        "event_time": "2026-10-14 12:30:00+00:00",
+        "event_type": "cpi_yoy"
+      }
+    ],
+    "retrieved_at": "2026-10-20 03:50:06.142772+00:00"
+  },
+  "market": {
+    "adjustment_policy": "split_adjusted",
+    "auto_adjust": false,
+    "availability_policy": "XNYS session close plus five minutes",
+    "bar_count": 1380,
+    "corporate_action_count": 20,
+    "evaluation_sessions": [
+      "2026-10-01",
+      "2026-10-02",
+      "2026-10-05",
+      "2026-10-06",
+      "2026-10-07",
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "label_count": 200,
+    "lookback_sessions_per_evaluation": 60,
+    "package_version": "1.7.0",
+    "provider": "Yahoo Finance via yfinance",
+    "repair": true,
+    "repaired_row_count": 0,
+    "request_end_exclusive": "2026-10-15",
+    "request_start": "2026-07-01",
+    "retrieved_at": "2026-10-20 03:50:06.142772+00:00",
+    "source_session_count": 69
+  },
+  "snapshot_id": "2026-10-01_2026-10-14_v1",
+  "target_session": "2026-10-14"
+}

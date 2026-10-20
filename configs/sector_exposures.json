@@ -1,0 +1,47 @@
+{
+  "sectors": {
+    "banks": {
+      "inflation": 0.6,
+      "interest_rates": 0.9,
+      "oil_prices": 0.1,
+      "usd": 0.3
+    },
+    "communication": {
+      "inflation": 0.4,
+      "interest_rates": 0.6,
+      "oil_prices": 0.1,
+      "usd": 0.5
+    },
+    "consumer": {
+      "inflation": 0.7,
+      "interest_rates": 0.5,
+      "oil_prices": 0.4,
+      "usd": 0.3
+    },
+    "energy": {
+      "inflation": 0.5,
+      "interest_rates": 0.3,
+      "oil_prices": 0.9,
+      "usd": 0.5
+    },
+    "healthcare": {
+      "inflation": 0.3,
+      "interest_rates": 0.4,
+      "oil_prices": 0.2,
+      "usd": 0.3
+    },
+    "industrial": {
+      "inflation": 0.5,
+      "interest_rates": 0.5,
+      "oil_prices": 0.5,
+      "usd": 0.4
+    },
+    "technology": {
+      "inflation": 0.3,
+      "interest_rates": 0.7,
+      "oil_prices": 0.1,
+      "usd": 0.6
+    }
+  },
+  "version": "sector_heuristic_v1"
+}

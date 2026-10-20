@@ -1,0 +1,32 @@
+screening_config: configs/screening_2026-10-14.yaml
+
+evaluation:
+  sessions:
+    - "2026-10-01"
+    - "2026-10-02"
+    - "2026-10-05"
+    - "2026-10-06"
+    - "2026-10-07"
+    - "2026-10-08"
+    - "2026-10-09"
+    - "2026-10-12"
+    - "2026-10-13"
+    - "2026-10-14"
+  cutoff_time: "09:00:00"
+  timezone: America/New_York
+  labels: data/2026-10-01_2026-10-14/evaluation/labels.parquet
+  large_move_threshold: 0.02
+  variants:
+    - historical_volatility
+    - historical_abs_oc
+    - fixed_earnings_rule
+    - no_agent_ranker
+    - full_system
+    - no_company_event
+    - no_macro
+    - no_semantic_verifier
+  ndcg:
+    relevance: absolute_open_to_close_return
+    gain: linear
+    discount: log2
+    zero_idcg: null
