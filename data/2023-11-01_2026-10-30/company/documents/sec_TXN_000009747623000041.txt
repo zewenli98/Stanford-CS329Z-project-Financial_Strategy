@@ -1,0 +1,720 @@
+txn-20230930
+0000097476  --12-31  2023  Q3  FALSE          0000097476    2023-01-01  2023-09-30      0000097476    2023-10-17     xbrli:shares     0000097476    2023-07-01  2023-09-30     iso4217:USD     0000097476    2022-07-01  2022-09-30      0000097476    2022-01-01  2022-09-30       iso4217:USD    xbrli:shares       0000097476    2023-09-30      0000097476    2022-12-31      0000097476    2021-12-31      0000097476    2022-09-30     txn:reportable_segment     0000097476   txn:AnalogMember     2023-07-01  2023-09-30      0000097476   txn:AnalogMember     2022-07-01  2022-09-30      0000097476   txn:AnalogMember     2023-01-01  2023-09-30      0000097476   txn:AnalogMember     2022-01-01  2022-09-30      0000097476   txn:EmbeddedProcessingMember     2023-07-01  2023-09-30      0000097476   txn:EmbeddedProcessingMember     2022-07-01  2022-09-30      0000097476   txn:EmbeddedProcessingMember     2023-01-01  2023-09-30      0000097476   txn:EmbeddedProcessingMember     2022-01-01  2022-09-30      0000097476   us-gaap:AllOtherSegmentsMember     2023-07-01  2023-09-30      0000097476   us-gaap:AllOtherSegmentsMember     2022-07-01  2022-09-30      0000097476   us-gaap:AllOtherSegmentsMember     2023-01-01  2023-09-30      0000097476   us-gaap:AllOtherSegmentsMember     2022-01-01  2022-09-30      0000097476   country:US  txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2023-07-01  2023-09-30     xbrli:pure     0000097476   country:US  txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2022-07-01  2022-09-30      0000097476   country:US  txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2023-01-01  2023-09-30      0000097476   country:US  txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2022-01-01  2022-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  country:CN  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2023-07-01  2023-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  country:CN  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2022-07-01  2022-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  country:CN  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2023-01-01  2023-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  country:CN  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2022-01-01  2022-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:RestOfAsiaMember     2023-07-01  2023-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:RestOfAsiaMember     2022-07-01  2022-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:RestOfAsiaMember     2023-01-01  2023-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:RestOfAsiaMember     2022-01-01  2022-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  us-gaap:EMEAMember     2023-07-01  2023-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  us-gaap:EMEAMember     2022-07-01  2022-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  us-gaap:EMEAMember     2023-01-01  2023-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  us-gaap:EMEAMember     2022-01-01  2022-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  country:JP     2023-07-01  2023-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  country:JP     2022-07-01  2022-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  country:JP     2023-01-01  2023-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  country:JP     2022-01-01  2022-09-30      0000097476   txn:RestOfWorldMember  txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2023-07-01  2023-09-30      0000097476   txn:RestOfWorldMember  txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2022-07-01  2022-09-30      0000097476   txn:RestOfWorldMember  txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2023-01-01  2023-09-30      0000097476   txn:RestOfWorldMember  txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2022-01-01  2022-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2023-07-01  2023-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2022-07-01  2022-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2023-01-01  2023-09-30      0000097476   txn:GeographicConcentrationRiskShipmentDestinationMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember     2022-01-01  2022-09-30      0000097476   country:US  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-07-01  2023-09-30      0000097476   country:US  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-07-01  2022-09-30      0000097476   country:US  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-01-01  2023-09-30      0000097476   country:US  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-01-01  2022-09-30      0000097476   country:CN  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-07-01  2023-09-30      0000097476   country:CN  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-07-01  2022-09-30      0000097476   country:CN  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-01-01  2023-09-30      0000097476   country:CN  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-01-01  2022-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:RestOfAsiaMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-07-01  2023-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:RestOfAsiaMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-07-01  2022-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:RestOfAsiaMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-01-01  2023-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:RestOfAsiaMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-01-01  2022-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  us-gaap:EMEAMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-07-01  2023-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  us-gaap:EMEAMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-07-01  2022-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  us-gaap:EMEAMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-01-01  2023-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  us-gaap:EMEAMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-01-01  2022-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  country:JP  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-07-01  2023-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  country:JP  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-07-01  2022-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  country:JP  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-01-01  2023-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  country:JP  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-01-01  2022-09-30      0000097476   txn:RestOfWorldMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-07-01  2023-09-30      0000097476   txn:RestOfWorldMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-07-01  2022-09-30      0000097476   txn:RestOfWorldMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-01-01  2023-09-30      0000097476   txn:RestOfWorldMember  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-01-01  2022-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-07-01  2023-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-07-01  2022-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-01-01  2023-09-30      0000097476   us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-01-01  2022-09-30      0000097476   country:DE  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-07-01  2023-09-30      0000097476   country:DE  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-07-01  2022-09-30      0000097476   country:DE  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2023-01-01  2023-09-30      0000097476   country:DE  us-gaap:RevenueFromContractWithCustomerProductAndServiceBenchmarkMember  txn:GeographicConcentrationRiskCustomersHeadquartersMember     2022-01-01  2022-09-30      0000097476   us-gaap:FairValueInputsLevel2Member     2023-09-30      0000097476   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:MoneyMarketFundsMember     2023-09-30      0000097476   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:MoneyMarketFundsMember     2022-12-31      0000097476   us-gaap:CorporateDebtSecuritiesMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-09-30      0000097476   us-gaap:CorporateDebtSecuritiesMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2022-12-31      0000097476   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:USTreasuryAndGovernmentMember     2023-09-30      0000097476   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:USTreasuryAndGovernmentMember     2022-12-31      0000097476   us-gaap:ForeignGovernmentDebtSecuritiesMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-09-30      0000097476   us-gaap:ForeignGovernmentDebtSecuritiesMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2022-12-31      0000097476   us-gaap:MutualFundMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-09-30      0000097476   us-gaap:MutualFundMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2022-12-31      0000097476   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-09-30      0000097476   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2022-12-31      0000097476   us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember  us-gaap:EquityMethodInvestmentsMember     2023-09-30      0000097476   us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember  us-gaap:EquityMethodInvestmentsMember     2022-12-31      0000097476   us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember  txn:NonMarketableInvestmentsMember     2023-09-30      0000097476   us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember  txn:NonMarketableInvestmentsMember     2022-12-31      0000097476   us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember  us-gaap:CashMember     2023-09-30      0000097476   us-gaap:PortionAtOtherThanFairValueFairValueDisclosureMember  us-gaap:CashMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel3Member     2022-12-31      0000097476   us-gaap:FairValueInputsLevel3Member     2023-09-30      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel2Member  us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel2Member  us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel2Member  us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel2Member  us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel2Member  us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel2Member  us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:ForeignGovernmentDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:ForeignGovernmentDebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:ForeignGovernmentDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:ForeignGovernmentDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:ForeignGovernmentDebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:ForeignGovernmentDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:MutualFundMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel2Member  us-gaap:MutualFundMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:MutualFundMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:MutualFundMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel2Member  us-gaap:MutualFundMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:MutualFundMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel1Member  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel1Member  txn:DeferredCompensationMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel2Member  txn:DeferredCompensationMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   txn:DeferredCompensationMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0000097476   us-gaap:FairValueInputsLevel1Member  txn:DeferredCompensationMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   us-gaap:FairValueInputsLevel2Member  txn:DeferredCompensationMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   txn:DeferredCompensationMember  us-gaap:FairValueMeasurementsRecurringMember     2022-12-31      0000097476   country:US  us-gaap:PensionPlansDefinedBenefitMember     2023-07-01  2023-09-30      0000097476   country:US  us-gaap:PensionPlansDefinedBenefitMember     2022-07-01  2022-09-30      0000097476   country:US  us-gaap:DefinedBenefitPostretirementHealthCoverageMember     2023-07-01  2023-09-30      0000097476   country:US  us-gaap:DefinedBenefitPostretirementHealthCoverageMember     2022-07-01  2022-09-30      0000097476   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2023-07-01  2023-09-30      0000097476   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2022-07-01  2022-09-30      0000097476   country:US  us-gaap:PensionPlansDefinedBenefitMember     2023-01-01  2023-09-30      0000097476   country:US  us-gaap:PensionPlansDefinedBenefitMember     2022-01-01  2022-09-30      0000097476   country:US  us-gaap:DefinedBenefitPostretirementHealthCoverageMember     2023-01-01  2023-09-30      0000097476   country:US  us-gaap:DefinedBenefitPostretirementHealthCoverageMember     2022-01-01  2022-09-30      0000097476   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2023-01-01  2023-09-30      0000097476   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2022-01-01  2022-09-30      0000097476   us-gaap:RevolvingCreditFacilityMember     2023-09-30      0000097476   us-gaap:SeniorNotesMember     2023-05-31     txn:series     0000097476   us-gaap:SeniorNotesMember  txn:FixedFourPointSixZeroPercentNotesDueTwoThousandTwentyEightMember     2023-05-31      0000097476   us-gaap:SeniorNotesMember  txn:FixedFourPointNineZeroPercentNotesDue2033Member     2023-05-31      0000097476   txn:FixedFivePointZeroFivePercentNotesDue2063Member  us-gaap:SeniorNotesMember     2023-05-31      0000097476   us-gaap:SeniorNotesMember     2023-05-01  2023-05-31      0000097476   txn:FixedTwoPointTwoFivePercentNotesDueTwoThousandAndTwentyThreeMember     2023-05-01  2023-05-31      0000097476   us-gaap:SeniorNotesMember     2023-03-31      0000097476   us-gaap:SeniorNotesMember  txn:FixedFourPointNineZeroPercentNotesDue2033Member     2023-03-31      0000097476   us-gaap:SeniorNotesMember  txn:FixedFivePointZeroZeroPercentNotesDue2053Member     2023-03-31      0000097476   us-gaap:SeniorNotesMember     2023-03-01  2023-03-31      0000097476   txn:FixedTwoPointTwoFivePercentNotesDueTwoThousandAndTwentyThreeMember     2023-09-30      0000097476   txn:FixedTwoPointTwoFivePercentNotesDueTwoThousandAndTwentyThreeMember     2022-12-31      0000097476   txn:FixedTwoPointSixTwoFivePercentNotesDueTwoThousandAndTwentyFourMember     2023-09-30      0000097476   txn:FixedTwoPointSixTwoFivePercentNotesDueTwoThousandAndTwentyFourMember     2022-12-31      0000097476   txn:FixedFourPointSevenZeroPercentNotesDueTwoThousandAndTwentyFourMember     2023-09-30      0000097476   txn:FixedFourPointSevenZeroPercentNotesDueTwoThousandAndTwentyFourMember     2022-12-31      0000097476   txn:FixedOnePointThreeSevenFivePercentNotesDueTwoThousandTwentyFiveMember     2023-09-30      0000097476   txn:FixedOnePointThreeSevenFivePercentNotesDueTwoThousandTwentyFiveMember     2022-12-31      0000097476   txn:FixedOnePointOneTwoFivePercentNotesDue2026Member     2023-09-30      0000097476   txn:FixedOnePointOneTwoFivePercentNotesDue2026Member     2022-12-31      0000097476   txn:FixedTwoPointNineZeroPercentNotesDueTwoThousandAndTwentySevenMember     2023-09-30      0000097476   txn:FixedTwoPointNineZeroPercentNotesDueTwoThousandAndTwentySevenMember     2022-12-31      0000097476   txn:FixedFourPointSixZeroPercentNotesDueTwoThousandTwentyEightMember     2023-09-30      0000097476   txn:FixedFourPointSixZeroPercentNotesDueTwoThousandTwentyEightMember     2022-12-31      0000097476   txn:FixedRate225Due2029Member     2023-09-30      0000097476   txn:FixedRate225Due2029Member     2022-12-31      0000097476   txn:FixedRate175Due2030Member     2023-09-30      0000097476   txn:FixedRate175Due2030Member     2022-12-31      0000097476   txn:FixedOnePointNinePercentNotesDue2031Member     2023-09-30      0000097476   txn:FixedOnePointNinePercentNotesDue2031Member     2022-12-31      0000097476   txn:FixedThreePointSixFivePercentNotesDue2032Member     2023-09-30      0000097476   txn:FixedThreePointSixFivePercentNotesDue2032Member     2022-12-31      0000097476   txn:FixedFourPointNineZeroPercentNotesDue2033Member     2023-09-30      0000097476   txn:FixedFourPointNineZeroPercentNotesDue2033Member     2022-12-31      0000097476   txn:FixedThreePointEightSevenFivePercentNotesDueTwoThousandAndThirtyNineMember     2023-09-30      0000097476   txn:FixedThreePointEightSevenFivePercentNotesDueTwoThousandAndThirtyNineMember     2022-12-31      0000097476   txn:FixedFourPointOneFivePercentNotesDueTwoThousandAndFortyEightMember     2023-09-30      0000097476   txn:FixedFourPointOneFivePercentNotesDueTwoThousandAndFortyEightMember     2022-12-31      0000097476   txn:FixedTwoPointSevenPercentNotesDue2051Member     2023-09-30      0000097476   txn:FixedTwoPointSevenPercentNotesDue2051Member     2022-12-31      0000097476   txn:FixedFourPointOnePercentNotesDue2052Member     2023-09-30      0000097476   txn:FixedFourPointOnePercentNotesDue2052Member     2022-12-31      0000097476   txn:FixedFivePointZeroZeroPercentNotesDue2053Member     2023-09-30      0000097476   txn:FixedFivePointZeroZeroPercentNotesDue2053Member     2022-12-31      0000097476   txn:FixedFivePointZeroFivePercentNotesDue2063Member     2023-09-30      0000097476   txn:FixedFivePointZeroFivePercentNotesDue2063Member     2022-12-31      0000097476   us-gaap:CommonStockMember     2022-12-31      0000097476   us-gaap:AdditionalPaidInCapitalMember     2022-12-31      0000097476   us-gaap:RetainedEarningsMember     2022-12-31      0000097476   us-gaap:TreasuryStockCommonMember     2022-12-31      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-12-31      0000097476   us-gaap:RetainedEarningsMember     2023-01-01  2023-03-31      0000097476    2023-01-01  2023-03-31      0000097476   us-gaap:AdditionalPaidInCapitalMember     2023-01-01  2023-03-31      0000097476   us-gaap:TreasuryStockCommonMember     2023-01-01  2023-03-31      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-01-01  2023-03-31      0000097476   us-gaap:CommonStockMember     2023-03-31      0000097476   us-gaap:AdditionalPaidInCapitalMember     2023-03-31      0000097476   us-gaap:RetainedEarningsMember     2023-03-31      0000097476   us-gaap:TreasuryStockCommonMember     2023-03-31      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-03-31      0000097476   us-gaap:RetainedEarningsMember     2023-04-01  2023-06-30      0000097476    2023-04-01  2023-06-30      0000097476   us-gaap:AdditionalPaidInCapitalMember     2023-04-01  2023-06-30      0000097476   us-gaap:TreasuryStockCommonMember     2023-04-01  2023-06-30      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-04-01  2023-06-30      0000097476   us-gaap:CommonStockMember     2023-06-30      0000097476   us-gaap:AdditionalPaidInCapitalMember     2023-06-30      0000097476   us-gaap:RetainedEarningsMember     2023-06-30      0000097476   us-gaap:TreasuryStockCommonMember     2023-06-30      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-06-30      0000097476   us-gaap:RetainedEarningsMember     2023-07-01  2023-09-30      0000097476   us-gaap:AdditionalPaidInCapitalMember     2023-07-01  2023-09-30      0000097476   us-gaap:TreasuryStockCommonMember     2023-07-01  2023-09-30      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-07-01  2023-09-30      0000097476   us-gaap:CommonStockMember     2023-09-30      0000097476   us-gaap:AdditionalPaidInCapitalMember     2023-09-30      0000097476   us-gaap:RetainedEarningsMember     2023-09-30      0000097476   us-gaap:TreasuryStockCommonMember     2023-09-30      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-09-30      0000097476   us-gaap:CommonStockMember     2021-12-31      0000097476   us-gaap:AdditionalPaidInCapitalMember     2021-12-31      0000097476   us-gaap:RetainedEarningsMember     2021-12-31      0000097476   us-gaap:TreasuryStockCommonMember     2021-12-31      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2021-12-31      0000097476   us-gaap:RetainedEarningsMember     2022-01-01  2022-03-31      0000097476    2022-01-01  2022-03-31      0000097476   us-gaap:AdditionalPaidInCapitalMember     2022-01-01  2022-03-31      0000097476   us-gaap:TreasuryStockCommonMember     2022-01-01  2022-03-31      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-01-01  2022-03-31      0000097476   us-gaap:CommonStockMember     2022-03-31      0000097476   us-gaap:AdditionalPaidInCapitalMember     2022-03-31      0000097476   us-gaap:RetainedEarningsMember     2022-03-31      0000097476   us-gaap:TreasuryStockCommonMember     2022-03-31      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-03-31      0000097476   us-gaap:RetainedEarningsMember     2022-04-01  2022-06-30      0000097476    2022-04-01  2022-06-30      0000097476   us-gaap:AdditionalPaidInCapitalMember     2022-04-01  2022-06-30      0000097476   us-gaap:TreasuryStockCommonMember     2022-04-01  2022-06-30      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-04-01  2022-06-30      0000097476   us-gaap:CommonStockMember     2022-06-30      0000097476   us-gaap:AdditionalPaidInCapitalMember     2022-06-30      0000097476   us-gaap:RetainedEarningsMember     2022-06-30      0000097476   us-gaap:TreasuryStockCommonMember     2022-06-30      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-06-30      0000097476   us-gaap:RetainedEarningsMember     2022-07-01  2022-09-30      0000097476   us-gaap:AdditionalPaidInCapitalMember     2022-07-01  2022-09-30      0000097476   us-gaap:TreasuryStockCommonMember     2022-07-01  2022-09-30      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-07-01  2022-09-30      0000097476   us-gaap:CommonStockMember     2022-09-30      0000097476   us-gaap:AdditionalPaidInCapitalMember     2022-09-30      0000097476   us-gaap:RetainedEarningsMember     2022-09-30      0000097476   us-gaap:TreasuryStockCommonMember     2022-09-30      0000097476   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-09-30      0000097476   us-gaap:AllOtherSegmentsMember  txn:LehiUtahMember     2022-07-01  2022-09-30      0000097476   us-gaap:AllOtherSegmentsMember  txn:LehiUtahMember     2022-01-01  2022-09-30      0000097476   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember  us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2023-07-01  2023-09-30      0000097476   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember  us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2022-07-01  2022-09-30      0000097476   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember  us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2023-01-01  2023-09-30      0000097476   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember  us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2022-01-01  2022-09-30      0000097476   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetPriorServiceCostCreditMember     2023-07-01  2023-09-30      0000097476   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetPriorServiceCostCreditMember     2022-07-01  2022-09-30      0000097476   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetPriorServiceCostCreditMember     2023-01-01  2023-09-30      0000097476   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetPriorServiceCostCreditMember     2022-01-01  2022-09-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  September 30, 2023
+☐     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ___________ to ___________
+Commission File Number  001-03761
+TEXAS INSTRUMENTS INCORPORATED
+(Exact Name of Registrant as Specified in Its Charter)
+Delaware        75-0289970
+(State of Incorporation)      (I.R.S. Employer Identification No.)
+12500 TI Boulevard ,  Dallas ,  Texas
+75243
+(Address of principal executive offices)      (Zip Code)
+Registrant’s telephone number, including area code  214 - 479-3773
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol(s)    Name of each exchange on which registered
+Common Stock, par value $1.00      TXN      The Nasdaq Global Select Market
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   Yes  ☒ No ☐
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).   Yes    ☒   No   ☐
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer     ☒      Accelerated filer    ☐
+Non-accelerated filer    ☐      Smaller reporting company     ☐
+Emerging growth company     ☐
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act    ☐
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes    ☐    No   ☒
+908,204,093
+Number of shares of Registrant’s common stock outstanding as of
+October 17, 2023
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+PART I - FINANCIAL INFORMATION
+ITEM 1. Financial statements
+For Three Months Ended      For Nine Months Ended
+Consolidated Statements of Income      September 30,      September 30,
+(In millions, except per-share amounts)      2023      2022      2023      2022
+Revenue      $     4,532            $     5,241          $     13,442            $     15,358
+Cost of revenue (COR)       1,717             1,624           4,854             4,674
+Gross profit       2,815             3,617           8,588             10,684
+Research and development (R&D)       471             431           1,403             1,236
+Selling, general and administrative (SG&A)       452             431           1,387             1,275
+Restructuring charges/other       —             77           —             209
+Operating profit       1,892             2,678           5,798             7,964
+Other income (expense), net (OI&E)       128             33           327             55
+Interest and debt expense       98             53           255             154
+Income before income taxes       1,922             2,658           5,870             7,865
+Provision for income taxes       213             363           731             1,078
+Net income      $     1,709            $     2,295          $     5,139            $     6,787
+Earnings per common share (EPS):
+Basic      $     1.87            $     2.50          $     5.63            $     7.35
+Diluted      $     1.85            $     2.47          $     5.58            $     7.27
+Average shares outstanding:
+Basic       908             913           908             919
+Diluted       916             923           916             929
+A portion of net income is allocated to unvested restricted stock units (RSUs) on which we pay dividend equivalents. Diluted EPS is calculated using the following:
+Net income      $     1,709            $     2,295          $     5,139            $     6,787
+Income allocated to RSUs      ( 10 )        ( 11 )        ( 26 )        ( 30 )
+Income allocated to common stock for diluted EPS      $     1,699            $     2,284          $     5,113            $     6,757
+See accompanying notes.
+2
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+For Three Months Ended      For Nine Months Ended
+Consolidated Statements of Comprehensive Income      September 30,      September 30,
+(In millions)      2023      2022      2023      2022
+Net income      $     1,709            $     2,295          $     5,139            $     6,787
+Other comprehensive income (loss)
+Net actuarial losses of defined benefit plans:
+Adjustments, net of tax effect of ($ 3 ) and ($ 4 ); ($ 4 ) and $ 2
+6             11           6            ( 23 )
+Recognized within net income, net of tax effect of ($ 1 ) and ($ 4 ); ($ 3 ) and ($ 9 )
+3             15           9             33
+Prior service cost (credit) of defined benefit plans:
+Adjustments, net of tax effect of $ 0  and $ 0 ; $ 0  and $ 0
+—             1           —             1
+Recognized within net income, net of tax effect of $ 0  and $ 0 ; $ 0  and $ 0
+1            ( 1 )         1            ( 1 )
+Derivative instruments:
+Change in fair value, net of tax effect of $ 0  and $ 0 ; $ 0  and $ 0
+—             1           1             1
+Available-for-sale investments:
+Unrealized gains (losses), net of tax effect of $ 0  and $ 0 ; $ 0  and $ 2
+1            ( 1 )         2            ( 8 )
+Other comprehensive income (loss), net of taxes       11             26           19             3
+Total comprehensive income      $     1,720            $     2,321          $     5,158            $     6,790
+See accompanying notes.
+3
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+September 30,      December 31,
+Consolidated Balance Sheets      2023      2022
+(In millions, except par value)
+Assets
+Current assets:
+Cash and cash equivalents      $     2,566            $     3,050
+Short-term investments       6,382             6,017
+Accounts receivable, net of allowances of ($ 15 ) and ($ 13 )
+1,976             1,895
+Raw materials       401             353
+Work in process       2,147             1,546
+Finished goods       1,360             858
+Inventories       3,908             2,757
+Prepaid expenses and other current assets       265             302
+Total current assets       15,097             14,021
+Property, plant and equipment at cost       12,528             9,950
+Accumulated depreciation      ( 3,208 )        ( 3,074 )
+Property, plant and equipment       9,320             6,876
+Goodwill       4,362             4,362
+Deferred tax assets       632             473
+Capitalized software licenses       138             152
+Overfunded retirement plans       166             188
+Other long-term assets       1,923             1,135
+Total assets      $     31,638            $     27,207
+Liabilities and stockholders’ equity
+Current liabilities:
+Current portion of long-term debt      $     300            $     500
+Accounts payable       713             851
+Accrued compensation       707             799
+Income taxes payable       108             189
+Accrued expenses and other liabilities       824             646
+Total current liabilities       2,652             2,985
+Long-term debt       10,922             8,235
+Underfunded retirement plans       141             118
+Deferred tax liabilities       66             66
+Other long-term liabilities       1,226             1,226
+Total liabilities       15,007             12,630
+Stockholders’ equity:
+Preferred stock, $  25   par value. Shares authorized –   10  ;   none   issued
+—             —
+Common stock, $  1   par value. Shares authorized –   2,400  ; shares issued –   1,741
+1,741             1,741
+Paid-in capital       3,280             2,951
+Retained earnings       52,098             50,353
+Treasury common stock at cost
+Shares: September 30, 2023 –  833 ; December 31, 2022 –  835
+( 40,253 )        ( 40,214 )
+Accumulated other comprehensive income (loss), net of taxes (AOCI)      ( 235 )        ( 254 )
+Total stockholders’ equity       16,631             14,577
+Total liabilities and stockholders’ equity      $     31,638            $     27,207
+See accompanying notes.
+4
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+For Nine Months Ended
+Consolidated Statements of Cash Flows      September 30,
+(In millions)      2023      2022
+Cash flows from operating activities
+Net income      $     5,139            $     6,787
+Adjustments to net income:
+Depreciation       853             676
+Amortization of capitalized software       48             40
+Stock compensation       294             227
+Gains on sales of assets      ( 1 )        ( 3 )
+Deferred taxes      ( 159 )        ( 18 )
+Increase (decrease) from changes in:
+Accounts receivable      ( 81 )        ( 339 )
+Inventories      ( 1,151 )        ( 494 )
+Prepaid expenses and other current assets       38             45
+Accounts payable and accrued expenses      ( 23 )         72
+Accrued compensation      ( 97 )        ( 114 )
+Income taxes payable      ( 65 )         26
+Changes in funded status of retirement plans       49             126
+Other      ( 348 )        ( 353 )
+Cash flows from operating activities       4,496             6,678
+Cash flows from investing activities
+Capital expenditures      ( 3,923 )        ( 1,830 )
+Proceeds from asset sales       3             3
+Purchases of short-term investments      ( 10,140 )        ( 10,795 )
+Proceeds from short-term investments       9,976             10,007
+Other       33             59
+Cash flows from investing activities      ( 4,051 )        ( 2,556 )
+Cash flows from financing activities
+Proceeds from issuance of long-term debt       3,000             695
+Repayment of debt      ( 500 )        ( 500 )
+Dividends paid      ( 3,376 )        ( 3,174 )
+Stock repurchases      ( 228 )        ( 2,767 )
+Proceeds from common stock transactions       218             191
+Other      ( 43 )        ( 29 )
+Cash flows from financing activities      ( 929 )        ( 5,584 )
+Net change in cash and cash equivalents      ( 484 )        ( 1,462 )
+Cash and cash equivalents at beginning of period       3,050             4,631
+Cash and cash equivalents at end of period      $     2,566            $     3,169
+See accompanying notes.
+5
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+Notes to financial statements
+1.    Description of business, including segment and geographic area information
+We design and manufacture semiconductors that we sell to electronics designers and manufacturers all over the world. We have  two  reportable segments, Analog and Embedded Processing, each of which represents groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels. Our segments also reflect how management allocates resources and measures results.
+•  Analog semiconductors change real-world signals, such as sound, temperature, pressure or images, by conditioning them, amplifying them and often converting them to a stream of digital data that can be processed by other semiconductors, such as embedded processors. Analog semiconductors are also used to manage power in all electronic equipment by converting, distributing, storing, discharging, isolating and measuring electrical energy, whether the equipment is plugged into a wall or using a battery. Our Analog segment consists of two major product lines: Power and Signal Chain.
+•  Embedded Processing products are the digital “brains” of many types of electronic equipment. They are designed to handle specific tasks and can be optimized for various combinations of performance, power and cost, depending on the application.
+We report the results of our remaining business activities in Other. Other includes operating segments that do not meet the quantitative thresholds for individually reportable segments and cannot be aggregated with other operating segments. Other includes DLP  ®   products, calculators and custom ASIC products.
+Our centralized manufacturing and support organizations, such as facilities, procurement and logistics, provide support to our operating segments, including those in Other. Costs incurred by these organizations, including depreciation, are charged to the segments on a per-unit basis. Consequently, depreciation expense is not an independently identifiable component within the segments’ results and, therefore, is not provided.
+Segment information
+For Three Months Ended      For Nine Months Ended
+September 30,      September 30,
+2023      2022      2023      2022
+Revenue:
+Analog    $     3,353            $     3,993          $     9,920            $     11,801
+Embedded Processing     890             821           2,616             2,424
+Other     289             427           906             1,133
+Total revenue    $     4,532            $     5,241          $     13,442            $     15,358
+Operating profit:
+Analog    $     1,504            $     2,185          $     4,541            $     6,561
+Embedded Processing     258             321           813             960
+Other (a)     130             172           444             443
+Total operating profit    $     1,892            $     2,678          $     5,798            $     7,964
+(a)   Includes restructuring charges/other
+6
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+Geographic area information
+The following geographic area information is based on product shipment destination, which does not reflect end demand by geography.
+For Three Months Ended      For Nine Months Ended
+September 30,      September 30,
+2023      2022      2023      2022
+Revenue:
+United States    $     630             14        %      $     694           13      %      $     1,900             14        %      $     1,765           11      %
+China (a)     1,880             41             2,441           47           5,531             41             7,740           50
+Rest of Asia     571             13             694           13           1,654             12             1,993           13
+Europe, Middle East and Africa     952             21             942           18           2,894             22             2,578           17
+Japan     338             7             310           6           976             7             849           6
+Rest of world     161             4             160           3           487             4             433           3
+Total revenue    $     4,532             100        %      $     5,241           100      %      $     13,442             100        %      $     15,358           100      %
+(a)   Revenue from products shipped into China includes shipments to customers that manufacture in China and then export end products to their customers around the world, as well as distributors that transship inventory through China to service other countries.
+The following additional geographic information includes our estimate for revenue based on the location of our end customers’ headquarters, providing a better representation of the geographic profile for where critical decisions are made.
+For Three Months Ended      For Nine Months Ended
+September 30,      September 30,
+2023      2022      2023    2022
+Revenue:
+United States    $     1,541             34        %      $     1,782           34      %      $     4,391             33        %      $     5,058           33      %
+China     813             18             1,143           22           2,561             19             3,758           24
+Rest of Asia     434             10             534           10           1,263             10             1,643           11
+Europe, Middle East and Africa (a)     1,193             26             1,281           24           3,657             27             3,480           23
+Japan     455             10             446           9           1,373             10             1,252           8
+Rest of world     96             2             55           1           197             1             167           1
+Total revenue    $     4,532             100        %      $     5,241           100      %      $     13,442             100        %      $     15,358           100      %
+(a)   Revenue from end customers headquartered in Germany was  13 % and  11 % in the third quarters of 2023 and 2022, respectively, and  13 % and  10 % in the first nine months of 2023 and 2022, respectively.
+7
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+2.    Basis of presentation and significant accounting policies and practices
+Basis of presentation
+The consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States (GAAP) and on the same basis as the audited financial statements included in our annual report on Form 10-K for the year ended December 31, 2022. The Consolidated Statements of Income, Comprehensive Income and Cash Flows for the periods ended September 30, 2023 and 2022, and the Consolidated Balance Sheet as of September 30, 2023, are not audited but reflect all adjustments that are of a normal recurring nature and are necessary for a fair statement of the results of the periods shown. Certain information and note disclosures normally included in annual consolidated financial statements have been omitted pursuant to the rules and regulations of the U.S. Securities and Exchange Commission. Because the consolidated interim financial statements do not include all of the information and notes required by GAAP for a complete set of financial statements, they should be read in conjunction with the audited consolidated financial statements and notes included in our annual report on Form 10-K for the year ended December 31, 2022. The results for the three- and nine-month periods are not necessarily indicative of a full year’s results.
+Significant accounting policies and practices
+Earnings per share (EPS)
+We use the two-class method for calculating EPS because the restricted stock units (RSUs) we grant are participating securities containing non-forfeitable rights to receive dividend equivalents. Under the two-class method, a portion of net income is allocated to RSUs and excluded from the calculation of income allocated to common stock.
+8
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+Computation and reconciliation of earnings per common share are as follows:
+For Three Months Ended September 30,
+2023      2022
+Net Income      Shares      EPS      Net Income      Shares      EPS
+Basic EPS:
+Net income    $     1,709                          $     2,295
+Income allocated to RSUs    ( 9 )                      ( 11 )
+Income allocated to common stock    $     1,700             908            $     1.87            $     2,284           913          $     2.50
+Dilutive effect of stock compensation plans         8                        10
+Diluted EPS:
+Net income    $     1,709                       $     2,295
+Income allocated to RSUs    ( 10 )                   ( 11 )
+Income allocated to common stock    $     1,699             916            $     1.85            $     2,284           923          $     2.47
+For Nine Months Ended September 30,
+2023      2022
+Net Income      Shares      EPS      Net Income      Shares      EPS
+Basic EPS:
+Net income    $     5,139                    $     6,787
+Income allocated to RSUs    ( 27 )                ( 30 )
+Income allocated to common stock    $     5,112             908            $     5.63            $     6,757           919          $     7.35
+Dilutive effect of stock compensation plans         8                     10
+Diluted EPS:
+Net income    $     5,139                    $     6,787
+Income allocated to RSUs    ( 26 )                ( 30 )
+Income allocated to common stock    $     5,113             916            $     5.58            $     6,757           929          $     7.27
+Potentially dilutive securities representing  9  million and  6  million shares of common stock that were outstanding during the third quarters of 2023 and 2022, respectively, and  9  million and  5  million shares outstanding during the first nine months of 2023 and 2022, respectively, were excluded from the computation of diluted earnings per common share during these periods because their effect would have been anti-dilutive.
+Derivatives and hedging
+We use derivative financial instruments to manage exposure to foreign exchange risk. These instruments are primarily forward foreign currency exchange contracts, which are used as economic hedges to reduce the earnings impact that exchange rate fluctuations may have on our non-U.S. dollar net balance sheet exposures. Gains and losses from changes in the fair value of these forward foreign currency exchange contracts are credited or charged to OI&E. We do not apply hedge accounting to our foreign currency derivative instruments.
+We are exposed to variability in compensation charges related to certain deferred compensation obligations to employees. We use total return swaps to economically hedge this exposure and offset the related compensation expense, recognizing changes in the value of the swaps and the related deferred compensation liabilities in SG&A.
+In connection with the issuance of long-term debt, we may use financial derivatives such as treasury-rate lock agreements that are recognized in AOCI and amortized over the life of the related debt.
+The results of these derivative transactions have not been material. We do not use derivatives for speculative or trading purposes.
+9
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+Fair values of financial instruments
+The fair values of our derivative financial instruments were not material as of September 30, 2023. Our investments in cash equivalents, short-term investments and certain long-term investments, as well as our deferred compensation liabilities, are carried at fair value. The carrying values for other current financial assets and liabilities, such as accounts receivable and accounts payable, approximate fair value due to the short maturity of such instruments.  As of September 30, 2023, the carrying value of long-term debt, including the current portion, was $ 11.22  billion, and the estimated fair value was $ 9.82  billion. The estimated fair value is measured using broker-dealer quotes, which are Level 2 inputs. See Note 4 for a description of fair value and the definition of Level 2 inputs.
+3.    Income taxes
+Provision for income taxes is based on the following:
+For Three Months Ended      For Nine Months Ended
+September 30,      September 30,
+2023      2022      2023      2022
+Taxes calculated using the estimated annual effective tax rate    $     229            $     391          $     794            $     1,147
+Discrete tax items    ( 16 )        ( 28 )        ( 63 )        ( 69 )
+Provision for income taxes    $     213            $     363          $     731            $     1,078
+Effective tax rate     11        %       14      %       12        %       14      %
+The effective tax rate differs from the  21 % U.S. statutory corporate tax rate due to the effect of U.S. tax benefits.
+4.    Valuation of debt and equity investments and certain liabilities
+Investments measured at fair value
+Money market funds, debt investments and mutual funds are stated at fair value, which is generally based on market prices or broker quotes. We classify all debt investments as available-for-sale. See   Fair-value considerations  . Unrealized gains and losses are recorded as an increase or decrease, net of taxes, in AOCI on our Consolidated Balance Sheets, and any credit losses are recorded as an allowance for credit losses with an offset recognized in OI&E in our Consolidated Statements of Income.
+Our mutual funds hold a variety of debt and equity investments intended to generate returns that offset changes in certain deferred compensation liabilities. We record changes in the fair value of these mutual funds and the related deferred compensation liabilities in SG&A.
+Other investments
+Our other investments include equity-method investments and non-marketable investments, which are not measured at fair value. These investments consist of interests in venture capital funds and other non-marketable securities. Gains and losses from equity-method investments are recognized in OI&E based on our ownership share of the investee’s financial results.
+Non-marketable securities are measured at cost with adjustments for observable changes in price or impairments. Gains and losses on non-marketable investments are recognized in OI&E.
+10
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+Details of our investments are as follows:
+September 30, 2023      December 31, 2022
+Cash and Cash Equivalents      Short-Term Investments      Long-Term Investments      Cash and Cash Equivalents      Short-Term Investments      Long-Term Investments
+Measured at fair value:
+Money market funds    $     1,141            $     —            $     —            $     1,238          $     —          $     —
+Corporate obligations     280             1,519             —             276           1,535           —
+U.S. government and agency securities     398             4,467             —             680           4,234           —
+Non-U.S. government and agency securities     100             396             —             149           248           —
+Mutual funds     —             —             11             —           —           11
+Total     1,919             6,382             11             2,343           6,017           11
+Other measurement basis:
+Equity-method investments     —             —             16             —           —           18
+Non-marketable investments     —             —             5             —           —           5
+Cash on hand     647             —             —             707           —           —
+Total    $     2,566            $     6,382            $     32            $     3,050          $     6,017          $     34
+As of September 30, 2023, and December 31, 2022, unrealized gains and losses associated with our debt investments were not material. We did   no  t recognize any credit losses related to debt investments for the first nine months of 2023 and 2022.
+The following table presents the aggregate maturities of our available-for-sale debt investments as of September 30, 2023:
+Fair Value
+One year or less              $     6,775
+One to two years               385
+Proceeds from sales, redemptions and maturities of short-term available-for-sale investments were $ 2.89  billion and $ 3.03  billion for the third quarters of 2023 and 2022, respectively, and $ 9.98  billion and $ 10.01  billion for the first nine months of 2023 and 2022, respectively. Gross realized gains and losses from these sales were not material.
+Fair-value considerations
+We measure and report certain financial assets and liabilities at fair value on a recurring basis. Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date.
+The three-level hierarchy described below indicates the extent and level of judgment used to estimate fair-value measurements.
+•  Level 1   – Uses unadjusted quoted prices that are available in active markets for identical assets or liabilities as of the reporting date.
+11
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+•  Level 2   – Uses inputs other than Level 1 that are either directly or indirectly observable as of the reporting date through correlation with market data, including quoted prices for similar assets and liabilities in active markets and quoted prices in markets that are not active. Level 2 also includes assets and liabilities that are valued using models or other pricing methodologies that do not require significant judgment since the input assumptions used in the models, such as interest rates and volatility factors, are corroborated by readily observable data. We utilize a third-party data service to provide Level 2 valuations. We verify these valuations for reasonableness relative to unadjusted quotes obtained from brokers or dealers based on observable prices for similar assets in active markets.
+•  Level 3   – Uses inputs that are unobservable, supported by little or no market activity and reflect the use of significant management judgment. These values are generally determined using pricing models that utilize management estimates of market participant assumptions. As of September 30, 2023, and December 31, 2022, we had     no     Level 3 assets or liabilities.
+The following are our assets and liabilities that were accounted for at fair value on a recurring basis. These tables do not include cash on hand, assets held by our postretirement plans, or assets and liabilities that are measured at historical cost or any basis other than fair value.
+September 30, 2023      December 31, 2022
+Level 1      Level 2      Total      Level 1      Level 2      Total
+Assets:
+Money market funds    $     1,141            $     —            $     1,141            $     1,238          $     —          $     1,238
+Corporate obligations     —             1,799             1,799             —           1,811           1,811
+U.S. government and agency securities     4,161             704             4,865             4,914           —           4,914
+Non-U.S. government and agency securities     —             496             496             —           397           397
+Mutual funds     11             —             11             11           —           11
+Total assets    $     5,313            $     2,999            $     8,312            $     6,163          $     2,208          $     8,371
+Liabilities:
+Deferred compensation    $     352            $     —            $     352            $     326          $     —          $     326
+Total liabilities    $     352            $     —            $     352            $     326          $     —          $     326
+12
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+5.    Postretirement benefit plans
+Expenses related to defined benefit and retiree health care benefit plans are as follows:
+U.S. Defined Benefit      U.S. Retiree Health Care      Non-U.S. Defined Benefit
+For Three Months Ended September 30,    2023      2022      2023      2022      2023      2022
+Service cost    $     2            $     4          $     —            $     1          $     4            $     6
+Interest cost     7             8           4             3           14             7
+Expected return on plan assets    ( 6 )        ( 6 )        ( 4 )        ( 3 )        ( 16 )        ( 15 )
+Recognized net actuarial losses (gains)     2             1          ( 1 )         —           3             1
+Amortization of prior service cost (credit)     —             —           —            ( 1 )         1             —
+Net periodic benefit costs (credits)     5             7          ( 1 )         —           6            ( 1 )
+Settlement losses     —             16           —             —           —             1
+Total, including other postretirement losses (gains)    $     5            $     23          $    ( 1 )        $     —          $     6            $     —
+U.S. Defined Benefit      U.S. Retiree Health Care      Non-U.S. Defined Benefit
+For Nine Months Ended September 30,    2023      2022      2023      2022      2023      2022
+Service cost    $     6            $     12          $     1            $     2          $     12            $     19
+Interest cost     21             20           11             8           43             26
+Expected return on plan assets    ( 17 )        ( 22 )        ( 13 )        ( 9 )        ( 48 )        ( 50 )
+Recognized net actuarial losses (gains)     5             2          ( 4 )         —           9             1
+Amortization of prior service cost (credit)     —             —           —            ( 1 )         1             —
+Net periodic benefit costs (credits)     15             12          ( 5 )         —           17            ( 4 )
+Settlement losses     1             29           —             —           1             10
+Total, including other postretirement losses (gains)    $     16            $     41          $    ( 5 )        $     —          $     18            $     6
+6.    Debt and lines of credit
+Short-term borrowings
+We maintain a line of credit to provide additional liquidity through bank loans and, if necessary, to support commercial paper borrowings. As of September 30, 2023, the aforementioned line of credit was a variable-rate, revolving credit facility from a consortium of investment-grade banks that allows us to borrow up to $ 1  billion until March 2024. The interest rate on borrowings under this credit facility, if drawn, is indexed to the applicable Term Secured Overnight Financing Rate (Term SOFR). As of September 30, 2023, our credit facility was undrawn, and we had  no  commercial paper outstanding.
+Long-term debt
+In May 2023, we issued  three  series of senior unsecured notes for an aggregate principal amount of $ 1.60  billion, consisting of:
+•  $ 200  million further issuance of existing  4.60 % notes due in 2028;
+•  $ 200  million further issuance of existing  4.90 % notes due in 2033; and
+•  $ 1.20  billion of  5.05 % notes due in 2063.
+We incurred $ 7  million of issuance cost and other related costs. The proceeds of the offering were $ 1.60  billion, net of the original issuance discounts and premiums, which will be used for general corporate purposes.
+In May 2023, we retired $ 500  million of maturing debt.
+13
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+In March 2023, we issued  two  series of senior unsecured notes for an aggregate principal amount of $ 1.40  billion, consisting of $ 750  million of  4.90 % notes due in 2033 and $ 650  million of  5.00 % notes due in 2053. We incurred $ 11  million of issuance and other related costs. The proceeds of the offering were $ 1.40  billion, net of the original issuance discounts, which will be used for general corporate purposes.
+Long-term debt outstanding is as follows:
+September 30,      December 31,
+2023      2022
+Notes due 2023 at  2.25 %
+$     —            $     500
+Notes due 2024 at  2.625 %
+300             300
+Notes due 2024 at  4.70 %
+300             300
+Notes due 2025 at  1.375 %
+750             750
+Notes due 2026 at  1.125 %
+500             500
+Notes due 2027 at  2.90 %
+500             500
+Notes due 2028 at  4.60 %
+700             500
+Notes due 2029 at  2.25 %
+750             750
+Notes due 2030 at  1.75 %
+750             750
+Notes due 2031 at  1.90 %
+500             500
+Notes due 2032 at  3.65 %
+400             400
+Notes due 2033 at  4.90 %
+950             —
+Notes due 2039 at  3.875 %
+750             750
+Notes due 2048 at  4.15 %
+1,500             1,500
+Notes due 2051 at  2.70 %
+500             500
+Notes due 2052 at  4.10 %
+300             300
+Notes due 2053 at  5.00 %
+650             —
+Notes due 2063 at  5.05 %
+1,200             —
+Total debt     11,300             8,800
+Net unamortized discounts, premiums and issuance costs    ( 78 )        ( 65 )
+Total debt, including net unamortized discounts, premiums and issuance costs     11,222             8,735
+Current portion of long-term debt    ( 300 )        ( 500 )
+Long-term debt    $     10,922            $     8,235
+Interest and debt expense was $ 98  million and $ 53  million for the third quarters of 2023 and 2022, respectively, and $ 255  million and $ 154  million for the first nine months of 2023 and 2022, respectively. This was net of the amortized discounts, premiums, issuance and other related costs. Capitalized interest was not mater ial.
+14
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+7.    Stockholders’ equity
+Changes in equity are as follows:
+Common Stock      Paid-in Capital      Retained Earnings      Treasury Common Stock      AOCI
+Balance, December 31, 2022    $     1,741          $     2,951          $     50,353          $    ( 40,214 )        $    ( 254 )
+2023
+Net income    —         —          1,708          —         —
+Dividends declared and paid ($  1.24   per share)
+—         —         ( 1,125 )        —         —
+Common stock issued for stock-based awards    —         ( 37 )        —          118          —
+Stock repurchases    —         —         —         ( 96 )        —
+Stock compensation    —          104          —         —         —
+Other comprehensive income (loss), net of taxes    —         —         —         —          2
+Dividend equivalents on RSUs    —         —         ( 6 )        —         —
+Other    —         ( 2 )        —         —         —
+Balance, March 31, 2023     1,741           3,016           50,930          ( 40,192 )        ( 252 )
+Net income    —         —          1,722          —         —
+Dividends declared and paid ($  1.24   per share)
+—         —         ( 1,125 )        —         —
+Common stock issued for stock-based awards    —          36          —          29          —
+Stock repurchases    —         —         —         ( 77 )        —
+Stock compensation    —          111          —         —         —
+Other comprehensive income (loss), net of taxes    —         —         —         —          6
+Dividend equivalents on RSUs    —         —         ( 5 )        —         —
+Balance, June 30, 2023     1,741           3,163           51,522          ( 40,240 )        ( 246 )
+Net income    —           —            1,709            —           —
+Dividends declared and paid ($  1.24   per share)
+—           —           ( 1,126 )        —           —
+Common stock issued for stock-based awards    —            38            —            35            —
+Stock repurchases    —           —           —           ( 48 )        —
+Stock compensation    —            79            —           —           —
+Other comprehensive income (loss), net of taxes    —           —           —           —            11
+Dividend equivalents on RSUs    —           —           ( 6 )        —           —
+Other    —            —            ( 1 )        —           —
+Balance, September 30, 2023    $     1,741            $     3,280            $     52,098            $    ( 40,253 )        $    ( 235 )
+15
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+Common Stock      Paid-in Capital      Retained Earnings      Treasury Common Stock      AOCI
+Balance, December 31, 2021    $     1,741          $     2,630          $     45,919          $    ( 36,800 )        $    ( 157 )
+2022
+Net income    —         —          2,201          —         —
+Dividends declared and paid ($  1.15   per share)
+—         —         ( 1,063 )        —         —
+Common stock issued for stock-based awards    —         ( 36 )        —          93          —
+Stock repurchases    —         —         —         ( 584 )        —
+Stock compensation    —          74          —         —         —
+Other comprehensive income (loss), net of taxes    —         —         —         —          4
+Dividend equivalents on RSUs    —         —         ( 5 )        —         —
+Other    —         ( 1 )         1          —         —
+Balance, March 31, 2022     1,741           2,667           47,053          ( 37,291 )        ( 153 )
+Net income    —         —          2,291          —         —
+Dividends declared and paid ($  1.15   per share)
+—         —         ( 1,060 )        —         —
+Common stock issued for stock-based awards    —          31          —          25          —
+Stock repurchases    —         —         —         ( 1,266 )        —
+Stock compensation    —          85          —         —         —
+Other comprehensive income (loss), net of taxes    —         —         —         —         ( 27 )
+Dividend equivalents on RSUs    —         —         ( 4 )        —         —
+Balance, June 30, 2022     1,741           2,783           48,280          ( 38,532 )        ( 180 )
+Net income    —         —          2,295          —         —
+Dividends declared and paid ($  1.15   per share)
+—         —         ( 1,051 )        —         —
+Common stock issued for stock-based awards    —          26          —          52          —
+Stock repurchases    —         —         —         ( 996 )        —
+Stock compensation    —          68          —         —         —
+Other comprehensive income (loss), net of taxes    —         —         —         —          26
+Dividend equivalents on RSUs    —         —         ( 5 )        —         —
+Balance, September 30, 2022    $     1,741          $     2,877          $     49,519          $    ( 39,476 )        $    ( 154 )
+8.    Contingencies
+Indemnification guarantees
+We routinely sell products with an intellectual property indemnification included in the terms of sale. Historically, we have had only minimal, infrequent losses associated with these indemnities. Consequently, we cannot reasonably estimate any future liabilities that may result.
+Warranty costs/product liabilities
+Our stated warranties for semiconductor products obligate us to repair, replace or credit the purchase price of a covered product back to the buyer. Product claim consideration may exceed the price of our products. Historically, we have experienced a low rate of payments on product claims. Although we cannot predict the likelihood or amount of any future claims, we do not believe they will have a material adverse effect on our consolidated financial statements. We accrue for known product-related claims if a loss is probable and can be reasonably estimated. During the periods presented, there have been no material accruals or payments regarding product warranty or product liability.
+16
+TEXAS INSTRUMENTS INCORPORATED AND SUBSIDIARIES
+General
+We are subject to various legal and administrative proceedings. Although it is not possible to predict the outcome of these matters, we believe that the results of these proceedings will not have a material adverse effect on our consolidated financial statements.
+9.    Supplemental financial information
+Restructuring charges/other
+During the third quarter and first nine months of 2022, restructuring charges/other included $ 77  million and $ 209  million, respectively, of preproduction costs at our Lehi, Utah, manufacturing facility, which were included in Other for segment reporting purposes. These costs transitioned primarily to cost of revenue after production began in December 2022.
+Other long-term assets
+September 30,      December 31,
+2023      2022
+U.S. CHIPS and Science Act investment tax credit    $     1,153            $     395
+Other     770             740
+Total    $     1,923            $     1,135
+Details on amounts reclassified out of accumulated other comprehensive income (loss), net of taxes, to net income
+Our Consolidated Statements of Comprehensive Income include items that have been recognized within net income during the third quarters and first nine months of 2023 and 2022.  The table below details where these transactions are recorded in our Consolidated Statements of Income.
+For Three Months Ended      For Nine Months Ended      Impact to Related Statement of Income Lines
+September 30,      September 30,
+2023      2022      2023      2022
+Net actuarial losses of defined benefit plans:
+Recognized net actuarial loss and settlement losses (a)    $     4            $     19          $     12            $     42          Decrease to OI&E
+Tax effect    ( 1 )        ( 4 )        ( 3 )        ( 9 )        Decrease to provision for income taxes
+Recognized within net income, net of taxes    $     3            $     15          $     9            $     33          Decrease to net income
+Prior service cost (credit) of defined benefit plans:
+Amortization of prior service cost (credit) (a)    $     1            $    ( 1 )        $     1            $    ( 1 )        Decrease (increase) to OI&E
+Tax effect     —             —           —             —          (Decrease) increase to provision for income taxes
+Recognized within net income, net of taxes    $     1            $    ( 1 )        $     1            $    ( 1 )        Decrease (increase) to net income
+(a)   Detailed in Note 5
+Stock compensation
+During the first nine months of 2023,  3  million shares were issued from treasury related to stock compensation. Shares issued from treasury during the third quarter of 2023 were less than  1  million.
+17
+ITEM 2. Management’s discussion and analysis of financial condition and results of operations
+Overview
+We design and manufacture semiconductors that we sell to electronics designers and manufacturers all over the world. Technology is the foundation of our company, but ultimately, our objective and the best metric for owners to measure our progress is through the growth of free cash flow per share over the long term.
+Our strategy to maximize long-term free cash flow per share growth has three elements:
+1.  A great business model that is focused on analog and embedded processing products and built around four sustainable competitive advantages. The four sustainable competitive advantages are powerful in combination and provide tangible benefits:
+i.  A strong foundation of manufacturing and technology that provides lower costs and greater control of our supply chain.
+ii.  A broad portfolio of analog and embedded processing products that offers more opportunity per customer and more value for our investments.
+iii.  The reach of our market channels that gives access to more customers and more of their design projects, leading to the opportunity to sell more of our products into each design and gives us better insight and knowledge of customer needs.
+iv.  Diversity and longevity of our products, markets and customer positions that provide less single point dependency and longer returns on our investments.
+Together, these competitive advantages help position TI in a unique class of companies capable of generating and returning significant amounts of cash for our owners. We make our investments with an eye towards long-term strengthening and leveraging of these advantages.
+2.  Discipline in allocating capital to the best opportunities. This spans how we select R&D projects, develop new capabilities like TI.com, invest in new manufacturing capacity or how we think about acquisitions and returning cash to our owners.
+3.  Efficiency, which means constantly striving for more output for every dollar spent.
+We believe that our business model with the combined effect of our four competitive advantages sets TI apart from our peers and will for a long time to come. We will invest to strengthen our competitive advantages, be disciplined in capital allocation and stay diligent in our pursuit of efficiencies. Finally, we will remain focused on the belief that long-term growth of free cash flow per share is the ultimate measure to generate value.
+Management’s discussion and analysis of financial condition and results of operations (MD&A) should be read in conjunction with the financial statements and the related notes that appear elsewhere in this document. In the following discussion of our results of operations:
+•  Our segments represent groups of similar products that are combined on the basis of similar design and development requirements, product characteristics, manufacturing processes and distribution channels, and how management allocates resources and measures results. See Note 1 to the financial statements for more information regarding our segments.
+•  When we discuss our results:
+◦  Unless otherwise noted, changes in our revenue are attributable to changes in customer demand, which are evidenced by fluctuations in shipment volumes.
+◦  New products do not tend to have a significant impact on our revenue in any given period because we sell such a large number of products.
+◦  From time to time, our revenue and gross profit are affected by changes in demand for higher-priced or lower-priced products, which we refer to as changes in the “mix” of products shipped.
+18
+◦  Because we own much of our manufacturing capacity, a significant portion of our operating cost is fixed. When factory loadings decrease, our fixed costs are spread over reduced output and, absent other circumstances, our profit margins decrease. Conversely, as factory loadings increase, our fixed costs are spread over increased output and, absent other circumstances, our profit margins increase.
+•  For an explanation of free cash flow, see the Non-GAAP financial information section.
+•  All dollar amounts in the tables are stated in millions of U.S. dollars.
+Performance summary
+Our third quarter revenue was $4.53 billion, net income was $1.71 billion and earnings per share (EPS) were $1.85.
+Revenue was flat sequentially and decreased 14% from the same quarter a year ago. During the quarter, automotive growth continued and industrial weakness broadened.
+Our cash flow from operations of $6.5 billion for the trailing 12 months again underscored the strength of our business model, the quality of our product portfolio and the benefit of 300-mm production. Free cash flow for the same period was $1.6 billion and 9% of revenue.
+Over the past 12 months we invested $3.7 billion in R&D and SG&A, invested $4.9 billion in capital expenditures and returned $5.6 billion to shareholders.
+Results of operations – third quarter 2023 compared with third quarter 2022
+Revenue of $4.53 billion decreased $709 million, or 14%, primarily due to lower revenue from Analog, partially offset by higher revenue from Embedded Processing.
+Gross profit of $2.82 billion was down $802 million, or 22%, primarily due to lower revenue and, to a lesser extent, higher manufacturing costs associated with planned capacity expansion and reduced factory loadings. As a percentage of revenue, gross profit decreased to 62.1% from 69.0%.
+Operating expenses (R&D and SG&A) were $923 million compared with $862 million. This increase was due to higher employee-related costs as we invest to strengthen our competitive advantages.
+Restructuring charges/other in the year-ago period was $77 million due to preproduction costs at our Lehi, Utah, manufacturing facility. These costs transitioned primarily to cost of revenue after production began in December 2022.
+Operating profit was $1.89 billion, or 41.7% of revenue, compared with $2.68 billion, or 51.1% of revenue.
+OI&E was $128 million of income compared with $33 million of income, primarily due to higher interest income.
+Interest and debt expense of $98 million increased $45 million due to the issuance of additional long-term debt. See Note 6 to the financial statements.
+Our provision for income taxes was $213 million compared with $363 million. This decrease was primarily due to lower income before income taxes.
+Net income was $1.71 billion compared with $2.30 billion. EPS was $1.85 compared with $2.47.
+19
+Third quarter 2023 segment results
+Our segment results compared with the year-ago quarter are as follows:
+Analog (includes Power and Signal Chain product lines)
+Q3 2023      Q3 2022      Change
+Revenue    $    3,353           $    3,993         (16)    %
+Operating profit    1,504           2,185         (31)    %
+Operating profit % of revenue    44.9       %      54.7     %
+Analog revenue decreased in both product lines at about the same rate. Operating profit decreased primarily due to lower revenue and higher manufacturing costs.
+Embedded Processing (includes microcontrollers and processors)
+Q3 2023      Q3 2022      Change
+Revenue    $    890           $    821         8     %
+Operating profit    258           321         (20)    %
+Operating profit % of revenue    29.0       %      39.1     %
+Embedded Processing revenue increased due to the mix of products shipped. Operating profit decreased primarily due to higher manufacturing costs, partially offset by higher revenue.
+Other (includes DLP  ®   products, calculators and custom ASIC products)
+Q3 2023      Q3 2022      Change
+Revenue    $    289           $    427         (32)    %
+Operating profit*    130           172         (24)    %
+Operating profit % of revenue    45.0       %      40.3     %
+* Includes restructuring charges/other
+Other revenue decreased $138 million, and operating profit decreased $42 million.
+Results of operations – first nine months of 2023 compared with first nine months of 2022
+Revenue of $13.44 billion decreased $1.92 billion, or 12%, primarily due to lower revenue from Analog, partially offset by higher revenue from Embedded Processing.
+Gross profit of $8.59 billion was down $2.10 billion, or 20%, due to lower revenue and, to a lesser extent, higher manufacturing costs associated with planned capacity expansion and reduced factory loadings. As a percentage of revenue, gross profit decreased to 63.9% from 69.6%.
+Operating expenses were $2.79 billion compared with $2.51 billion. This increase was due to higher employee-related costs as we invest to strengthen our competitive advantages.
+Restructuring charges/other in the year-ago period was $209 million due to preproduction costs at our Lehi, Utah, manufacturing facility. These costs transitioned primarily to cost of revenue after production began in December 2022.
+Operating profit was $5.80 billion, or 43.1% of revenue, compared with $7.96 billion, or 51.9% of revenue.
+OI&E was $327 million of income compared with $55 million of income, due to higher interest income.
+Interest and debt expense of $255 million increased $101 million due to the issuance of additional long-term debt.
+20
+Our provision for income taxes was $731 million compared with $1.08 billion. This decrease was due to lower income before income taxes.
+Net income was $5.14 billion compared with $6.79 billion. EPS was $5.58 compared with $7.27.
+Year-to-date segment results
+Our segment results compared with the year-ago period are as follows:
+Analog
+YTD 2023      YTD 2022      Change
+Revenue    $    9,920           $    11,801         (16)    %
+Operating profit    4,541           6,561         (31)    %
+Operating profit % of revenue    45.8       %      55.6     %
+Analog revenue decreased in both product lines, led by Power. Operating profit decreased primarily due to lower revenue and higher manufacturing costs.
+Embedded Processing
+YTD 2023      YTD 2022      Change
+Revenue    $    2,616           $    2,424         8     %
+Operating profit    813           960         (15)    %
+Operating profit % of revenue    31.1       %      39.6     %
+Embedded Processing revenue increased due to the mix of products shipped. Operating profit decreased primarily due to higher manufacturing costs, partially offset by higher revenue.
+Other
+YTD 2023      YTD 2022      Change
+Revenue    $    906           $    1,133         (20)    %
+Operating profit*    444           443         —     %
+Operating profit % of revenue    49.0       %      39.1     %
+* Includes restructuring charges/other
+Other revenue decreased $227 million, and operating profit increased $1 million.
+Financial condition
+At the end of the third quarter of 2023, total cash (cash and cash equivalents plus short-term investments) was $8.95 billion, a decrease of $119 million from the end of 2022.
+Accounts receivable were $1.98 billion, an increase of $81 million compared with the end of 2022. Days sales outstanding for the third quarter of 2023 were 39 compared with 37 at the end of 2022.
+Inventory was $3.91 billion, an increase of $1.15 billion from the end of 2022. Days of inventory for the third quarter of 2023 were 205 compared with 157 at the end of 2022.
+21
+Liquidity and capital resources
+Our primary source of liquidity is cash flow from operations. Additional sources of liquidity are cash and cash equivalents, short-term investments and access to debt markets. We also have a variable-rate, revolving credit facility. As of September 30, 2023, our credit facility was undrawn, and we had no commercial paper outstanding. Cash flows from operating activities for the first nine months of 2023 were $4.50 billion, a decrease of $2.18 billion from the year-ago period due to lower net income and higher cash used for working capital, as we continued to strategically build inventory.
+Investing activities for the first nine months of 2023 used $4.05 billion compared with $2.56 billion in the year-ago period. Capital expenditures were $3.92 billion compared with $1.83 billion in the year-ago period and were primarily for semiconductor manufacturing equipment and facilities in both periods. Short-term investments used cash of $164 million compared with $788 million in the year-ago period.
+As we continue to invest to strengthen our competitive advantage in manufacturing and technology as part of our long-term capacity planning, our capital expenditures are expected to be higher than historical levels. In August 2022, the U.S. government enacted the U.S. CHIPS and Science Act, which provides funding for manufacturing grants and research investments and establishes a 25% investment tax credit for certain investments in U.S. semiconductor manufacturing. We expect to receive the cash benefit associated with the investment tax credit for qualifying capital expenditures in future periods. See Note 9 to the financial statements.
+Financing activities for the first nine months of 2023 used $929 million compared with $5.58 billion in the year-ago period. In 2023, we received net proceeds of $3.00 billion from the issuance of fixed-rate, long-term debt, and we retired maturing debt of $500 million. In the year-ago period, we received net proceeds of $695 million from the issuance of fixed-rate, long-term debt, and we retired maturing debt of $500 million. Dividends paid were $3.38 billion compared with $3.17 billion in the year-ago period, reflecting an increased dividend rate, partially offset by fewer shares outstanding. We used $228 million to repurchase 1.3 million shares of our common stock compared with $2.77 billion used in the year-ago period to repurchase 16.8 million shares. Employee exercises of stock options provided cash proceeds of $218 million compared with $191 million in the year-ago period.
+In September 2023, we announced we would increase our dividend by 5%, marking 20 consecutive years of dividend increases.
+We had $2.57 billion of cash and cash equivalents and $6.38 billion of short-term investments as of September 30, 2023. We believe we have the necessary financial resources and operating plans to fund our working capital needs, capital expenditures, dividend and debt-related payments, and other business requirements for at least the next 12 months.
+22
+Non-GAAP financial information
+This MD&A includes references to free cash flow and ratios based on that measure. These are financial measures that were not prepared in accordance with generally accepted accounting principles in the United States (GAAP). Free cash flow was calculated by subtracting capital expenditures from the most directly comparable GAAP measure, cash flows from operating activities (also referred to as cash flow from operations).
+We believe that free cash flow and the associated ratios provide insight into our liquidity, our cash-generating capability and the amount of cash potentially available to return to shareholders, as well as insight into our financial performance. These non-GAAP measures are supplemental to the comparable GAAP measures.
+Reconciliation to the most directly comparable GAAP measures is provided in the table below.
+For 12 Months Ended
+September 30,
+2023      2022      Change
+Cash flow from operations (GAAP)    $    6,538           $    9,035         (28)    %
+Capital expenditures    (4,890)        (3,112)
+Free cash flow (non-GAAP)    $    1,648           $    5,923         (72)    %
+Revenue    $    18,112           $    20,190
+Cash flow from operations as a percentage of revenue (GAAP)    36.1       %      44.7     %
+Free cash flow as a percentage of revenue (non-GAAP)    9.1       %      29.3     %
+23
+ITEM 4. Controls and procedures
+An evaluation as of the end of the period covered by this report was carried out under the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934). Based upon that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that those disclosure controls and procedures were effective. In addition, there has been no change in our internal control over financial reporting (as defined in Rule 13a-15(f) and 15d-15(f) under the Securities Exchange Act of 1934) that occurred during the period covered by this report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+24
+PART II – OTHER INFORMATION
+ITEM 1A. Risk factors
+Information concerning our risk factors is contained in Item 1A of our Form 10-K for the year ended December 31, 2022, and is incorporated by reference herein.
+ITEM 2. Unregistered sales of equity securities and use of proceeds
+The following table contains information regarding our purchases of our common stock during the quarter.
+ISSUER PURCHASES OF EQUITY SECURITIES
+Period      Total Number of Shares Purchased      Average Price Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (a)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (a)
+July 1, 2023 through July 31, 2023      61,656           $    177.82              50,020           $    21.30       billion
+August 1, 2023 through August 31, 2023      109,035           168.59              109,035           21.28       billion
+September 1, 2023 through September 30, 2023      126,201           162.42              126,201           21.26       billion
+Total      296,892       (b)      $    167.89       (b)      285,256           $    21.26       billion (c)
+(a)  All open-market purchases during the quarter were made under the authorizations from our board of directors to purchase up to $12.0 billion and $15.0 billion of additional shares of TI common stock announced September 20, 2018, and September 15, 2022, respectively.
+(b)  In addition to open-market purchases, 11,636 shares of common stock were surrendered by employees to satisfy tax withholding obligations in connection with the vesting of restricted stock units.
+(c)  As of September 30, 2023, this amount consisted of the remaining portion of the $12.0 billion authorized in September 2018 and the $15.0 billion authorized in September 2022. No expiration date has been specified for these authorizations.
+25
+ITEM 6. Exhibits
+Designation of Exhibits in This Report      Description of Exhibit
+3(a)
+Restated Certificate of Incorporation of the Registrant, dated April 18, 1985, as amended (incorporated by reference to Exhibit 3(a) of the Registrant’s Annual Report on Form 10-K for the year ended December 31, 2014).
+3(b)
+By-Laws of the Registrant (incorporated by reference to Exhibit 3 of the Registrant’s Current Report on Form 8-K filed January 26, 2022).
+31(a)
+Certification of Chief Executive Officer of Periodic Report Pursuant to Rule 13a-14(a) or Rule 15d-14(a).†
+31(b)
+Certification of Chief Financial Officer of Periodic Report Pursuant to Rule 13a-14(a) or Rule 15d-14(a).†
+32(a)
+Certification by Chief Executive Officer of Periodic Report Pursuant to 18 U.S.C. Section 1350.†
+32(b)
+Certification by Chief Financial Officer of Periodic Report Pursuant to 18 U.S.C. Section 1350.†
+101.ins      XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.†
+101.def      XBRL Taxonomy Extension Definition Linkbase Document.†
+101.sch      XBRL Taxonomy Extension Schema Document.†
+101.cal      XBRL Taxonomy Extension Calculation Linkbase Document.†
+101.lab      XBRL Taxonomy Extension Label Linkbase Document.†
+101.pre      XBRL Taxonomy Extension Presentation Linkbase Document.†
+104      Cover Page Interactive Data File (embedded within the Inline XBRL document).†
+† Filed or furnished herewith.
+26
+Notice regarding forward-looking statements
+This report includes forward-looking statements intended to qualify for the safe harbor from liability established by the Private Securities Litigation Reform Act of 1995. These forward-looking statements generally can be identified by phrases such as TI or its management “believes,” “expects,” “anticipates,” “foresees,” “forecasts,” “estimates” or other words or phrases of similar import. Similarly, statements herein that describe TI’s business strategy, outlook, objectives, plans, intentions or goals also are forward-looking statements. All such forward-looking statements are subject to certain risks and uncertainties that could cause actual results to differ materially from those in forward-looking statements.
+We urge you to carefully consider the following important factors that could cause actual results to differ materially from the expectations of TI or our management:
+•  Economic, social and political conditions, and natural events in the countries in which we, our customers or our suppliers operate, including global trade policies;
+•  Market demand for semiconductors, particularly in the industrial and automotive markets, and customer demand that differs from forecasts;
+•  Our ability to compete in products and prices in an intensely competitive industry;
+•  Evolving cybersecurity and other threats relating to our information technology systems or those of our customers, suppliers and other third parties;
+•  Our ability to successfully implement and realize opportunities from strategic, business and organizational changes, or our ability to realize our expectations regarding the amount and timing of associated restructuring charges and cost savings;
+•  Our ability to develop, manufacture and market innovative products in a rapidly changing technological environment, our timely implementation of new manufacturing technologies and installation of manufacturing equipment, and our ability to realize expected returns on significant investments in manufacturing capacity;
+•  The duration and scope of the COVID-19 pandemic, government and other third-party responses to it and the consequences for the global economy, including to our business and the businesses of our suppliers, customers and distributors;
+•  Availability and cost of key materials, utilities, manufacturing equipment, third-party manufacturing services and manufacturing technology;
+•  Our ability to recruit and retain skilled personnel, and effectively manage key employee succession;
+•  Product liability, warranty or other claims relating to our products, software, manufacturing, delivery, services, design or communications, or recalls by our customers for a product containing one of our parts;
+•  Compliance with or changes in the complex laws, rules and regulations to which we are or may become subject, or actions of enforcement authorities, that restrict our ability to operate our business or subject us to fines, penalties or other legal liability;
+•  Changes in tax law and accounting standards that impact the tax rate applicable to us, the jurisdictions in which profits are determined to be earned and taxed, adverse resolution of tax audits, increases in tariff rates, and the ability to realize deferred tax assets;
+•  Financial difficulties of our distributors or semiconductor distributors’ promotion of competing product lines to our detriment; or disputes with current or former distributors;
+•  Losses or curtailments of purchases from key customers or the timing and amount of customer inventory adjustments;
+•  Our ability to maintain or improve profit margins, including our ability to utilize our manufacturing facilities at sufficient levels to cover our fixed operating costs, in an intensely competitive and cyclical industry and changing regulatory environment;
+•  Our ability to maintain and enforce a strong intellectual property portfolio and maintain freedom of operation in all jurisdictions where we conduct business; or our exposure to infringement claims;
+•  Instability in the global credit and financial markets; and
+27
+•  Impairments of our non-financial assets.
+For a more detailed discussion of these factors, see the Risk factors discussion in Item 1A of our most recent Form 10-K. The forward-looking statements included in this report are made only as of the date of this report, and we undertake no obligation to update the forward-looking statements to reflect subsequent events or circumstances. If we do update any forward-looking statement, you should not infer that we will make additional updates with respect to that statement or any other forward-looking statement.
+28
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+TEXAS INSTRUMENTS INCORPORATED
+By:    /s/    Rafael R. Lizardi
+Rafael R. Lizardi,   Senior Vice President and Chief Financial Officer
+Date: October 25, 2023

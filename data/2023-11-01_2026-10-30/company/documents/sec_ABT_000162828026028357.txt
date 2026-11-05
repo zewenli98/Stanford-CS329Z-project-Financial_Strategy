@@ -1,0 +1,923 @@
+abt-20260331
+0000001800  12-31  2026  Q1  false  false  false  false  false  0.50  P12M        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      abt:segment    xbrli:pure     0000001800    2026-01-01  2026-03-31      0000001800   exch:XCHI     2026-01-01  2026-03-31      0000001800   exch:XNYS     2026-01-01  2026-03-31      0000001800    2026-03-31      0000001800    2025-01-01  2025-03-31      0000001800    2025-12-31      0000001800   us-gaap:CommonStockMember     2025-12-31      0000001800   us-gaap:CommonStockMember     2024-12-31      0000001800   us-gaap:CommonStockMember     2026-01-01  2026-03-31      0000001800   us-gaap:CommonStockMember     2025-01-01  2025-03-31      0000001800   us-gaap:CommonStockMember     2026-03-31      0000001800   us-gaap:CommonStockMember     2025-03-31      0000001800   us-gaap:TreasuryStockCommonMember     2025-12-31      0000001800   us-gaap:TreasuryStockCommonMember     2024-12-31      0000001800   us-gaap:TreasuryStockCommonMember     2026-01-01  2026-03-31      0000001800   us-gaap:TreasuryStockCommonMember     2025-01-01  2025-03-31      0000001800   us-gaap:TreasuryStockCommonMember     2026-03-31      0000001800   us-gaap:TreasuryStockCommonMember     2025-03-31      0000001800   us-gaap:RetainedEarningsMember     2025-12-31      0000001800   us-gaap:RetainedEarningsMember     2024-12-31      0000001800   us-gaap:RetainedEarningsMember     2026-01-01  2026-03-31      0000001800   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-31      0000001800   us-gaap:RetainedEarningsMember     2026-03-31      0000001800   us-gaap:RetainedEarningsMember     2025-03-31      0000001800   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-12-31      0000001800   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0000001800   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-01  2026-03-31      0000001800   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-03-31      0000001800   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-03-31      0000001800   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-31      0000001800   us-gaap:NoncontrollingInterestMember     2025-12-31      0000001800   us-gaap:NoncontrollingInterestMember     2024-12-31      0000001800   us-gaap:NoncontrollingInterestMember     2026-01-01  2026-03-31      0000001800   us-gaap:NoncontrollingInterestMember     2025-01-01  2025-03-31      0000001800   us-gaap:NoncontrollingInterestMember     2026-03-31      0000001800   us-gaap:NoncontrollingInterestMember     2025-03-31      0000001800    2024-12-31      0000001800    2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:KeyEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:KeyEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:KeyEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:KeyEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:KeyEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:KeyEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:OtherEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:OtherEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:OtherEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:OtherEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:OtherEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:OtherEmergingMarketsMember  abt:EstablishedPharmaceuticalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:EstablishedPharmaceuticalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:EstablishedPharmaceuticalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:EstablishedPharmaceuticalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:EstablishedPharmaceuticalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:EstablishedPharmaceuticalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:EstablishedPharmaceuticalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:PediatricNutritionalsMember  abt:NutritionalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:PediatricNutritionalsMember  abt:NutritionalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:PediatricNutritionalsMember  abt:NutritionalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:PediatricNutritionalsMember  abt:NutritionalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:PediatricNutritionalsMember  abt:NutritionalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:PediatricNutritionalsMember  abt:NutritionalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:AdultNutritionalsMember  abt:NutritionalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:AdultNutritionalsMember  abt:NutritionalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:AdultNutritionalsMember  abt:NutritionalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:AdultNutritionalsMember  abt:NutritionalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:AdultNutritionalsMember  abt:NutritionalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:AdultNutritionalsMember  abt:NutritionalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:NutritionalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:NutritionalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:NutritionalProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:NutritionalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:NutritionalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:NutritionalProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:CoreLaboratoryMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:CoreLaboratoryMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:CoreLaboratoryMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:CoreLaboratoryMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:CoreLaboratoryMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:CoreLaboratoryMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:RapidAndMolecularMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:RapidAndMolecularMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:RapidAndMolecularMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:RapidAndMolecularMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:RapidAndMolecularMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:RapidAndMolecularMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:CancerDiagnosticsMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:CancerDiagnosticsMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:CancerDiagnosticsMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:CancerDiagnosticsMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:CancerDiagnosticsMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:CancerDiagnosticsMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:DiagnosticProductsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:DiagnosticProductsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:RhythmManagementMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:RhythmManagementMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:RhythmManagementMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:RhythmManagementMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:RhythmManagementMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:RhythmManagementMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:ElectrophysiologyMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:ElectrophysiologyMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:ElectrophysiologyMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:ElectrophysiologyMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:ElectrophysiologyMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:ElectrophysiologyMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:HeartFailureMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:HeartFailureMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:HeartFailureMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:HeartFailureMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:HeartFailureMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:HeartFailureMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:VascularMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:VascularMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:VascularMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:VascularMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:VascularMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:VascularMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:StructuralHeartMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:StructuralHeartMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:StructuralHeartMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:StructuralHeartMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:StructuralHeartMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:StructuralHeartMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:NeuromodulationMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:NeuromodulationMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:NeuromodulationMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:NeuromodulationMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:NeuromodulationMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:NeuromodulationMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:DiabetesCareMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:DiabetesCareMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:DiabetesCareMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:DiabetesCareMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:DiabetesCareMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:DiabetesCareMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:MedicalDevicesMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  country:US  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  us-gaap:NonUsMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   us-gaap:CorporateNonSegmentMember  country:US     2026-01-01  2026-03-31      0000001800   us-gaap:CorporateNonSegmentMember  us-gaap:NonUsMember     2026-01-01  2026-03-31      0000001800   us-gaap:CorporateNonSegmentMember     2026-01-01  2026-03-31      0000001800   us-gaap:CorporateNonSegmentMember  country:US     2025-01-01  2025-03-31      0000001800   us-gaap:CorporateNonSegmentMember  us-gaap:NonUsMember     2025-01-01  2025-03-31      0000001800   us-gaap:CorporateNonSegmentMember     2025-01-01  2025-03-31      0000001800   country:US     2026-01-01  2026-03-31      0000001800   us-gaap:NonUsMember     2026-01-01  2026-03-31      0000001800   country:US     2025-01-01  2025-03-31      0000001800   us-gaap:NonUsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:ElectrophysiologyMember  us-gaap:ReclassificationSegmentationBasisChangeMember  abt:MedicalDevicesMember     2025-01-01  2025-03-31      0000001800   abt:DiagnosticProductsMember     2026-03-31      0000001800   abt:MedicalDevicesMember     2026-03-31      0000001800   abt:PharmaceuticalsMember     2026-03-31      0000001800    2026-04-01      2026-01-01  2026-03-31      0000001800    2026-04-01      2026-03-31      0000001800    2027-04-01      2026-01-01  2026-03-31      0000001800    2027-04-01      2026-03-31      0000001800   us-gaap:PensionPlansDefinedBenefitMember     2025-01-01  2025-03-31      0000001800   us-gaap:EquitySecuritiesMember     2026-03-31      0000001800   us-gaap:EquitySecuritiesMember     2025-12-31      0000001800   us-gaap:OtherInvestmentsMember     2026-03-31      0000001800   us-gaap:OtherInvestmentsMember     2025-12-31      0000001800   abt:StJudeMedicalMember  us-gaap:EquitySecuritiesMember     2026-03-31      0000001800   us-gaap:AccumulatedTranslationAdjustmentMember     2025-12-31      0000001800   us-gaap:AccumulatedTranslationAdjustmentMember     2024-12-31      0000001800   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-12-31      0000001800   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2024-12-31      0000001800   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-12-31      0000001800   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2024-12-31      0000001800   us-gaap:AccumulatedTranslationAdjustmentMember     2026-01-01  2026-03-31      0000001800   us-gaap:AccumulatedTranslationAdjustmentMember     2025-01-01  2025-03-31      0000001800   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-01-01  2026-03-31      0000001800   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-01-01  2025-03-31      0000001800   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-01-01  2026-03-31      0000001800   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-01-01  2025-03-31      0000001800   us-gaap:AccumulatedTranslationAdjustmentMember     2026-03-31      0000001800   us-gaap:AccumulatedTranslationAdjustmentMember     2025-03-31      0000001800   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-03-31      0000001800   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-03-31      0000001800   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-03-31      0000001800   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-03-31      0000001800   abt:ExactSciencesCorporationMember     2026-03-23  2026-03-23      0000001800   us-gaap:LongTermDebtMember  abt:ExactSciencesCorporationMember     2026-03-23  2026-03-23      0000001800   abt:ExactSciencesCorporationMember     2026-03-23      0000001800   abt:ExactSciencesCorporationMember     2025-01-01  2025-03-31      0000001800   abt:ExactSciencesCorporationMember     2026-01-01  2026-03-31      0000001800   abt:EstablishedPharmaceuticalProductsMember     2026-03-31      0000001800   abt:NutritionalProductsMember     2026-03-31      0000001800   abt:A2025RestructuringPlanRestructureVariousOperationsAndImproveEfficienciesMember     2025-01-01  2025-03-31      0000001800   abt:A2025RestructuringPlanRestructureVariousOperationsAndImproveEfficienciesMember     2025-12-31      0000001800   abt:A2025RestructuringPlanRestructureVariousOperationsAndImproveEfficienciesMember     2026-01-01  2026-03-31      0000001800   abt:A2025RestructuringPlanRestructureVariousOperationsAndImproveEfficienciesMember     2026-03-31      0000001800   us-gaap:EmployeeStockOptionMember     2026-01-01  2026-03-31      0000001800   abt:RestrictedStockAwardsMember     2026-01-01  2026-03-31      0000001800   us-gaap:RestrictedStockUnitsRSUMember     2026-01-01  2026-03-31      0000001800   us-gaap:EmployeeStockOptionMember     2026-03-31      0000001800   abt:SOFR50BpSeniorNotesDue2029Member  us-gaap:SeniorNotesMember     2026-03-31      0000001800   abt:A3.700SeniorNotesDue2029Member  us-gaap:SeniorNotesMember     2026-03-31      0000001800   abt:A4.000SeniorNotesDue2031Member  us-gaap:SeniorNotesMember     2026-03-31      0000001800   abt:A4.300SeniorNotesDue2033Member  us-gaap:SeniorNotesMember     2026-03-31      0000001800   abt:A4.650SeniorNotesDue2036Member  us-gaap:SeniorNotesMember     2026-03-31      0000001800   abt:A4.750SeniorNotesDue2038Member  us-gaap:SeniorNotesMember     2026-03-31      0000001800   abt:A5.500SeniorNotesDue2056Member  us-gaap:SeniorNotesMember     2026-03-31      0000001800   abt:A5.600SeniorNotesDue2066Member  us-gaap:SeniorNotesMember     2026-03-31      0000001800   abt:A3.875NotesDue2025Member     2025-09-15  2025-09-15      0000001800   abt:A3.875NotesDue2025Member     2025-09-15      0000001800   abt:A2.95NotesDue2025Member     2025-03-17  2025-03-17      0000001800   abt:A2.95NotesDue2025Member     2025-03-17      0000001800   abt:SOFR50BpSeniorNotesDue2029Member  us-gaap:SeniorNotesMember     2026-01-01  2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-12-31      0000001800   us-gaap:ForeignExchangeForwardMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2026-01-01  2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  us-gaap:NondesignatedMember     2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  us-gaap:NondesignatedMember     2025-12-31      0000001800   us-gaap:DesignatedAsHedgingInstrumentMember  abt:A2029FiveYearCreditAgreementMember  us-gaap:NetInvestmentHedgingMember     2026-01-01  2026-03-31      0000001800   us-gaap:DesignatedAsHedgingInstrumentMember  abt:A2029FiveYearCreditAgreementMember  us-gaap:NetInvestmentHedgingMember     2025-01-01  2025-12-31      0000001800   us-gaap:DesignatedAsHedgingInstrumentMember  abt:A2029FiveYearCreditAgreementMember  us-gaap:NetInvestmentHedgingMember     2026-03-31      0000001800   us-gaap:DesignatedAsHedgingInstrumentMember  abt:A2029FiveYearCreditAgreementMember  us-gaap:NetInvestmentHedgingMember     2025-12-31      0000001800   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember     2026-03-31      0000001800   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember     2025-12-31      0000001800   us-gaap:InterestRateSwapMember  abt:DeferredIncomeTaxesAndOtherAssetsNoncurrentMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember     2026-03-31      0000001800   us-gaap:InterestRateSwapMember  abt:DeferredIncomeTaxesAndOtherAssetsNoncurrentMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember     2025-12-31      0000001800   us-gaap:InterestRateSwapMember  abt:PostEmploymentObligationsDeferredIncomeTaxesAndOtherLongTermLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember     2026-03-31      0000001800   us-gaap:InterestRateSwapMember  abt:PostEmploymentObligationsDeferredIncomeTaxesAndOtherLongTermLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember     2025-12-31      0000001800   us-gaap:InterestRateSwapMember  abt:PrepaidExpenseAndOtherReceivablesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember     2026-03-31      0000001800   us-gaap:InterestRateSwapMember  abt:PrepaidExpenseAndOtherReceivablesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember     2025-12-31      0000001800   us-gaap:InterestRateSwapMember  abt:OtherAccruedLiabilitiesCurrentMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember     2026-03-31      0000001800   us-gaap:InterestRateSwapMember  abt:OtherAccruedLiabilitiesCurrentMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember     2025-12-31      0000001800   us-gaap:ForeignExchangeForwardMember  abt:PrepaidExpenseAndOtherReceivablesMember  us-gaap:DesignatedAsHedgingInstrumentMember     2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  abt:PrepaidExpenseAndOtherReceivablesMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-12-31      0000001800   us-gaap:ForeignExchangeForwardMember  abt:OtherAccruedLiabilitiesCurrentMember  us-gaap:DesignatedAsHedgingInstrumentMember     2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  abt:OtherAccruedLiabilitiesCurrentMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-12-31      0000001800   us-gaap:ForeignExchangeForwardMember  abt:PrepaidExpenseAndOtherReceivablesMember  us-gaap:NondesignatedMember     2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  abt:PrepaidExpenseAndOtherReceivablesMember  us-gaap:NondesignatedMember     2025-12-31      0000001800   us-gaap:ForeignExchangeForwardMember  abt:OtherAccruedLiabilitiesCurrentMember  us-gaap:NondesignatedMember     2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  abt:OtherAccruedLiabilitiesCurrentMember  us-gaap:NondesignatedMember     2025-12-31      0000001800   us-gaap:DebtMember  abt:LongTermDebtExcludingCurrentMaturitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2026-03-31      0000001800   us-gaap:DebtMember  abt:LongTermDebtExcludingCurrentMaturitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-12-31      0000001800   us-gaap:ForeignExchangeForwardMember  abt:CostOfGoodsAndServicesSoldMember     2026-01-01  2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  abt:CostOfGoodsAndServicesSoldMember     2025-01-01  2025-03-31      0000001800   us-gaap:DebtMember     2026-01-01  2026-03-31      0000001800   us-gaap:DebtMember     2025-01-01  2025-03-31      0000001800   us-gaap:InterestRateSwapMember  us-gaap:InterestExpenseMember     2026-01-01  2026-03-31      0000001800   us-gaap:InterestRateSwapMember  us-gaap:InterestExpenseMember     2025-01-01  2025-03-31      0000001800   us-gaap:ForeignExchangeForwardMember     2026-01-01  2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember     2025-01-01  2025-03-31      0000001800   us-gaap:CarryingReportedAmountFairValueDisclosureMember  us-gaap:EquitySecuritiesMember     2026-03-31      0000001800   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:EquitySecuritiesMember     2026-03-31      0000001800   us-gaap:CarryingReportedAmountFairValueDisclosureMember  us-gaap:EquitySecuritiesMember     2025-12-31      0000001800   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:EquitySecuritiesMember     2025-12-31      0000001800   us-gaap:CarryingReportedAmountFairValueDisclosureMember  us-gaap:OtherAggregatedInvestmentsMember     2026-03-31      0000001800   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:OtherAggregatedInvestmentsMember     2026-03-31      0000001800   us-gaap:CarryingReportedAmountFairValueDisclosureMember  us-gaap:OtherAggregatedInvestmentsMember     2025-12-31      0000001800   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:OtherAggregatedInvestmentsMember     2025-12-31      0000001800   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0000001800   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2026-03-31      0000001800   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0000001800   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-12-31      0000001800   us-gaap:ForeignExchangeForwardMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2026-03-31      0000001800   us-gaap:ForeignExchangeForwardMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0000001800   us-gaap:ForeignExchangeForwardMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-12-31      0000001800   us-gaap:InterestRateSwapMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0000001800   us-gaap:InterestRateSwapMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2026-03-31      0000001800   us-gaap:InterestRateSwapMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0000001800   us-gaap:InterestRateSwapMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-12-31      0000001800   us-gaap:FairValueInputsLevel1Member     2026-03-31      0000001800   us-gaap:FairValueInputsLevel2Member     2026-03-31      0000001800   us-gaap:FairValueInputsLevel3Member     2026-03-31      0000001800   us-gaap:FairValueInputsLevel1Member     2025-12-31      0000001800   us-gaap:FairValueInputsLevel2Member     2025-12-31      0000001800   us-gaap:FairValueInputsLevel3Member     2025-12-31      0000001800   abt:NecrotizingEnterocolitisNECMember     2026-01-01  2026-03-31      0000001800   abt:NecrotizingEnterocolitisNECMember     2026-03-31      0000001800   srt:MinimumMember  abt:LegalProceedingsAndEnvironmentalExposuresMember     2026-03-31      0000001800   srt:MaximumMember  abt:LegalProceedingsAndEnvironmentalExposuresMember     2026-03-31      0000001800   abt:LegalProceedingsAndEnvironmentalExposuresMember     2026-03-31      0000001800   us-gaap:PensionPlansDefinedBenefitMember     2026-01-01  2026-03-31      0000001800   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2026-01-01  2026-03-31      0000001800   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2025-01-01  2025-03-31      0000001800    2023-09-30      0000001800    2024-06-30      0000001800    2024-10-31      0000001800    2024-10-01  2024-10-31      0000001800    2024-07-01  2024-07-31      0000001800   us-gaap:OperatingSegmentsMember     2026-01-01  2026-03-31      0000001800   us-gaap:OperatingSegmentsMember     2025-01-01  2025-03-31      0000001800   us-gaap:MaterialReconcilingItemsMember     2026-01-01  2026-03-31      0000001800   us-gaap:MaterialReconcilingItemsMember     2025-01-01  2025-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:EstablishedPharmaceuticalProductsMember     2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:EstablishedPharmaceuticalProductsMember     2025-12-31      0000001800   us-gaap:OperatingSegmentsMember  abt:NutritionalProductsMember     2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:NutritionalProductsMember     2025-12-31      0000001800   us-gaap:OperatingSegmentsMember  abt:DiagnosticProductsMember     2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:DiagnosticProductsMember     2025-12-31      0000001800   us-gaap:OperatingSegmentsMember  abt:MedicalDevicesMember     2026-03-31      0000001800   us-gaap:OperatingSegmentsMember  abt:MedicalDevicesMember     2025-12-31      0000001800   us-gaap:OperatingSegmentsMember     2026-03-31      0000001800   us-gaap:OperatingSegmentsMember     2025-12-31      0000001800   us-gaap:MaterialReconcilingItemsMember     2026-03-31      0000001800   us-gaap:MaterialReconcilingItemsMember     2025-12-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM  10-Q
+(Mark One)
+x     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  March 31, 2026
+OR
+o     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from              to
+Commission File No.  1-2189
+ABBOTT LABORATORIES
+An  Illinois  Corporation
+I.R.S. Employer Identification No.
+36-0698440
+100 Abbott Park Road
+Abbott Park ,  Illinois   60064-6400
+Telephone:   ( 224 )  667-6100
+Securities Registered Pursuant to Section 12(b) of the Act:
+Title of Each Class    Trading Symbol(s)    Name of Each Exchange on Which Registered
+Common Shares, Without Par Value        ABT
+New York Stock Exchange
+NYSE Texas
+Indicate by check mark whether the registrant: (l) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of l934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes    x   No   o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 229.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes    x   No   o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer    x
+Accelerated Filer   o
+Non-Accelerated Filer   o
+Smaller reporting company   o
+Emerging growth company   o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes   o   No    x
+As of March 31, 2026, Abbott Laboratories had  1,741,812,429  common shares without par value outstanding.
+Table of Contents
+Abbott Laboratories
+Table of Contents
+Part I - Financial Information
+Page
+Item 1. Financial Statements and Supplementary Data
+Condensed Consolidated Statement of Earnings
+3
+Condensed Consolidated Statement of Comprehensive Income
+4
+Condensed Consolidated Balance Sheet
+5
+Condensed Consolidated Statement of Shareholders’ Investment
+6
+Condensed Consolidated Statement of Cash Flows
+7
+Notes to the Condensed Consolidated Financial Statements
+8
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+22
+Item 4. Controls and Procedures
+28
+Part II - Other Information
+28
+Item 1. Legal Proceedings
+28
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+29
+Item 6. Exhibits
+30
+Signature
+33
+2
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Condensed Consolidated Statement of Earnings
+(Unaudited)
+(dollars in millions except per share data; shares in thousands)
+Three Months Ended
+March 31
+2026     2025
+Net sales    $     11,164        $     10,358
+Cost of products sold, excluding amortization of intangible assets     4,890         4,468
+Amortization of intangible assets     422         420
+Research and development     767         716
+Selling, general, and administrative     3,740         3,061
+Total operating cost and expenses     9,819         8,665
+Operating earnings     1,345         1,693
+Interest expense     174         131
+Interest (income)    ( 106 )      ( 82 )
+Net foreign exchange (gain) loss    ( 13 )      ( 7 )
+Other (income) expense, net    ( 159 )      ( 127 )
+Earnings before taxes     1,449         1,778
+Taxes on earnings     372         453
+Net Earnings    $     1,077        $     1,325
+Basic Earnings Per Common Share    $     0.62        $     0.76
+Diluted Earnings Per Common Share    $     0.61        $     0.76
+Average Number of Common Shares Outstanding Used for Basic Earnings Per Common Share     1,742,480         1,739,206
+Dilutive Common Stock Options     4,593         8,014
+Average Number of Common Shares Outstanding Plus Dilutive Common Stock Options     1,747,073         1,747,220
+Outstanding Common Stock Options Having No Dilutive Effect     9,900         1,431
+The accompanying notes to the condensed consolidated financial statements are an integral part of this statement  .
+3
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Condensed Consolidated Statement of Comprehensive Income
+(Unaudited)
+(dollars in millions)
+Three Months Ended
+March 31
+2026     2025
+Net Earnings    $     1,077        $     1,325
+Foreign currency translation gain (loss) adjustments, net of taxes of $( 11 ) in 2026 and $ 32  in 2025
+( 400 )       550
+Net actuarial gains (losses) and amortization of net actuarial losses and prior service costs and credits, net of taxes of $ 1  in 2026 and $ —  in 2025
+( 13 )       30
+Net gains (losses) for derivative instruments designated as cash flow hedges, net of taxes of $ 32  in 2026 and $( 40 ) in 2025
+102        ( 91 )
+Other comprehensive income (loss)    ( 311 )       489
+Comprehensive Income    $     766        $     1,814
+March 31,
+2026     December 31,
+2025
+Supplemental Accumulated Other Comprehensive Income (Loss) Information, net of tax:
+Cumulative foreign currency translation (loss) adjustments    $    ( 6,331 )      $    ( 5,931 )
+Net actuarial (losses) and prior service (costs) and credits    ( 14 )      ( 1 )
+Cumulative gains (losses) on derivative instruments designated as cash flow hedges     33        ( 69 )
+Accumulated other comprehensive income (loss)    $    ( 6,312 )      $    ( 6,001 )
+The accompanying notes to the condensed consolidated financial statements are an integral part of this statement.
+4
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Condensed Consolidated Balance Sheet
+(Unaudited)
+(dollars in millions)
+March 31,
+2026     December 31,
+2025
+Assets
+Current Assets:
+Cash and cash equivalents    $     6,803        $     8,522
+Short-term investments     492         417
+Trade receivables, less allowances of $ 494  in 2026 and $ 490  in 2025
+8,210         7,929
+Inventories:
+Finished products     4,274         3,976
+Work in process     994         904
+Materials     1,721         1,608
+Total inventories     6,989         6,488
+Prepaid expenses and other receivables     3,014         2,640
+Total Current Assets     25,508         25,996
+Investments     1,090         918
+Property and equipment, at cost     25,737         25,222
+Less: accumulated depreciation and amortization     13,360         13,406
+Net property and equipment     12,377         11,816
+Intangible assets, net of amortization     17,875         5,526
+Goodwill     35,221         24,035
+Deferred income taxes and other assets     18,358         18,422
+$     110,429        $     86,713
+Liabilities and Shareholders’ Investment
+Current Liabilities:
+Trade accounts payable    $     4,679        $     4,240
+Salaries, wages, and commissions     1,212         1,745
+Other accrued liabilities     6,379         5,812
+Dividends payable     1,100         1,097
+Income taxes payable     598         569
+Current portion of long-term debt     4,409         3,033
+Total Current Liabilities     18,377         16,496
+Long-term debt     29,638         9,896
+Post-employment obligations, deferred income taxes, and other long-term liabilities     9,713         7,550
+Commitments and Contingencies
+Shareholders’ Investment:
+Preferred shares,   one   dollar par value Authorized —   1,000,000   shares,   none   issued
+—         —
+Common shares, without par value Authorized —   2,400,000,000   shares
+Issued at stated capital amount — Shares: 2026:  1,998,233,756 ; 2025:  1,996,795,525
+25,352         25,527
+Common shares held in treasury, at cost — Shares: 2026:  256,420,602 ; 2025:  260,196,074
+( 16,935 )      ( 17,177 )
+Earnings employed in the business     49,956         49,781
+Accumulated other comprehensive income (loss)    ( 6,312 )      ( 6,001 )
+Total Abbott Shareholders’ Investment     52,061         52,130
+Noncontrolling interests
+640         641
+Total Shareholders’ Investment     52,701         52,771
+$     110,429        $     86,713
+The accompanying notes to the condensed consolidated financial statements are an integral part of this statement.
+5
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Condensed Consolidated Statement of Shareholders’ Investment
+(Unaudited)
+(in millions except shares and per share data)
+Three Months Ended March 31
+2026     2025
+Common Shares:
+Balance at January 1
+Shares: 2026:  1,996,795,525 ; 2025:  1,991,472,630
+$     25,527        $     25,153
+Issued under incentive stock programs
+Shares: 2026:  1,438,231 ; 2025:  4,385,976
+59         239
+Share-based compensation     330         303
+Issuance of restricted stock awards    ( 564 )      ( 570 )
+Balance at March 31
+Shares: 2026:  1,998,233,756 ; 2025:  1,995,858,606
+$     25,352        $     25,125
+Common Shares Held in Treasury:
+Balance at January 1
+Shares: 2026:  260,196,074 ; 2025:  259,774,639
+$    ( 17,177 )      $    ( 16,844 )
+Issued under incentive stock programs
+Shares: 2026:  3,926,228 ; 2025:  3,935,939
+260         256
+Purchased
+Shares: 2026:  150,756 ; 2025:  182,716
+( 18 )      ( 24 )
+Balance at March 31
+Shares: 2026:  256,420,602 ; 2025:  256,021,416
+$    ( 16,935 )      $    ( 16,612 )
+Earnings Employed in the Business:
+Balance at January 1    $     49,781        $     47,261
+Net earnings     1,077         1,325
+Cash dividends declared on common shares (per share — 2026: $ 0.63 ; 2025: $ 0.59 )
+( 1,101 )      ( 1,033 )
+Effect of common and treasury share transactions     199         162
+Balance at March 31    $     49,956        $     47,715
+Accumulated Other Comprehensive Income (Loss):
+Balance at January 1    $    ( 6,001 )      $    ( 7,906 )
+Other comprehensive income (loss)    ( 311 )       489
+Balance at March 31    $    ( 6,312 )      $    ( 7,417 )
+Noncontrolling Interests in Subsidiaries:
+Balance at January 1    $     641        $     237
+Noncontrolling interests’ share of income (loss), net of distributions and share repurchases    ( 1 )       16
+Balance at March 31    $     640        $     253
+The accompanying notes to the condensed consolidated financial statements are an integral part of this statement.
+6
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Condensed Consolidated Statement of Cash Flows
+(Unaudited)
+(dollars in millions)
+Three Months Ended March 31
+2026     2025
+Cash Flow From (Used in) Operating Activities:
+Net earnings    $     1,077        $     1,325
+Adjustments to reconcile net earnings to net cash from operating activities —
+Depreciation     381         336
+Amortization of intangible assets     422         420
+Share-based compensation     317         289
+Trade receivables    ( 42 )      ( 262 )
+Inventories    ( 420 )      ( 255 )
+Other, net    ( 420 )      ( 436 )
+Net Cash From Operating Activities     1,315         1,417
+Cash Flow From (Used in) Investing Activities:
+Acquisitions of property and equipment    ( 399 )      ( 484 )
+Acquisitions of businesses and technologies, net of cash acquired    ( 19,798 )       —
+Sales (purchases) of other investment securities, net    ( 161 )       8
+Other     34         6
+Net Cash From (Used in) Investing Activities    ( 20,324 )      ( 470 )
+Cash Flow From (Used in) Financing Activities:
+Net borrowings (repayments) of short-term debt and other     31        ( 36 )
+Proceeds from issuance of long-term debt     19,860         1
+Repayments of long-term debt    ( 1,416 )      ( 1,001 )
+Purchases of common shares    ( 180 )      ( 280 )
+Proceeds from stock options exercised     116         287
+Dividends paid    ( 1,098 )      ( 1,026 )
+Net Cash From (Used in) Financing Activities     17,313        ( 2,055 )
+Effect of exchange rate changes on cash and cash equivalents    ( 23 )       24
+Net Increase (Decrease) in Cash and Cash Equivalents    ( 1,719 )      ( 1,084 )
+Cash and Cash Equivalents, Beginning of Year     8,522         7,616
+Cash and Cash Equivalents, End of Period    $     6,803        $     6,532
+The accompanying notes to the condensed consolidated financial statements are an integral part of this statement.
+7
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 1 — Basis of Presentation
+The accompanying unaudited, condensed consolidated financial statements have been prepared pursuant to rules and regulations of the Securities and Exchange Commission and, therefore, do not include all information and footnote disclosures normally included in audited financial statements. However, in the opinion of management, all adjustments (which include only normal adjustments) necessary to present fairly the results of operations, financial position, and cash flows have been made. These statements should be read in conjunction with the financial statements included in Abbott’s Annual Report on Form 10-K for the year ended December 31, 2025. The condensed consolidated financial statements include the accounts of the parent company and subsidiaries, after elimination of intercompany transactions.
+Note 2 — New Accounting Standards
+Recent Accounting Standards Not Yet Adopted
+In November 2024, the Financial Accounting Standards Board (FASB) issued ASU 2024-03,   Income Statement (Subtopic 220-40): Reporting Comprehensive Income - Expense Disaggregation Disclosures  , which requires an entity to disclose on an annual and interim basis, disaggregated information about specific income statement expense categories. The guidance should be applied prospectively with the option to apply the standard retrospectively. The standard becomes effective for Abbott for full year 2027 reporting. Abbott is currently evaluating the impact of this new standard on its consolidated financial statements.
+8
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 3 — Revenue
+Abbott’s revenues are derived primarily from the sale of a broad portfolio of healthcare products under short-term receivable arrangements. Abbott has  four  reportable segments: Established Pharmaceutical Products, Nutritional Products, Diagnostic Products, and Medical Devices.
+The following tables provide detail by sales category:
+Three Months Ended March 31, 2026     Three Months Ended March 31, 2025
+(in millions)     U.S.     Int’l     Total     U.S.     Int’l     Total
+Established Pharmaceutical Products —
+Key Emerging Markets     $     —        $     1,089        $     1,089        $     —        $     965        $     965
+Other      —         337         337         —         295         295
+Total      —         1,426         1,426         —         1,260         1,260
+Nutritional Products —
+Pediatric Nutritionals      511         442         953         588         453         1,041
+Adult Nutritionals      333         731         1,064         367         738         1,105
+Total      844         1,173         2,017         955         1,191         2,146
+Diagnostic Products —
+Core Laboratory      347         925         1,272         332         845         1,177
+Rapid and Molecular      465         347         812         539         338         877
+Cancer Diagnostics      93         3         96         —         —         —
+Total      905         1,275         2,180         871         1,183         2,054
+Medical Devices —
+Rhythm Management      339         345         684         304         281         585
+Electrophysiology      378         410         788         333         342         675
+Heart Failure      292         97         389         262         77         339
+Vascular      291         486         777         268         442         710
+Structural Heart      224         354         578         248         283         531
+Neuromodulation      177         66         243         176         52         228
+Diabetes Care       822         1,258         2,080         748         1,079         1,827
+Total      2,523         3,016         5,539         2,339         2,556         4,895
+Other      2         —         2         3         —         3
+Total     $     4,274        $     6,890        $     11,164        $     4,168        $     6,190        $     10,358
+___________________________________
+Notes:
+Abbott's Amplatzer Amulet Left Atrial Appendage Occluder device and related accessories were transferred from Structural Heart to Electrophysiology on January 1, 2026. As a result, $ 46  million of sales in the first quarter of 2025 were reclassified from Structural Heart to Electrophysiology.
+Beginning in 2026, Abbott aggregated its previously reported Rapid Diagnostics, Molecular Diagnostics, and Point of Care businesses into the Rapid and Molecular Diagnostics business.
+On March 23, 2026, Abbott completed the acquisition of Exact Sciences Corporation (Exact Sciences). Following the acquisition, the sales of Exact Sciences are presented as Abbott's Cancer Diagnostics business.
+9
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 3 — Revenue (Continued)
+Remaining Performance Obligations
+As of March 31, 2026, the estimated revenue expected to be recognized in the future related to performance obligations that are unsatisfied (or partially unsatisfied) was $ 6.2  billion in the Diagnostic Products segment, $ 429  million in the Medical Devices segment and $ 258  million in the Established Pharmaceuticals segment. Abbott expects to recognize revenue on approximately  52  percent of these remaining performance obligations over the next  24  months, approximately  18  percent over the subsequent  12  months, and the remainder thereafter.
+These performance obligations primarily reflect the future sale of products in contracts with minimum purchase obligations, extended warranty or service obligations related to previously sold equipment, and remote monitoring services related to previously implanted devices. Abbott has applied the practical expedient described in FASB Accounting Standards Codification (ASC) 606-10-50-14 and has not included remaining performance obligations related to contracts with original expected durations of one year or less in the amounts above.
+Other Contract Assets and Liabilities
+Abbott discloses Trade receivables separately in the Condensed Consolidated Balance Sheet at the net amount expected to be collected. Contract assets primarily relate to Abbott’s conditional right to consideration for work completed but not billed at the reporting date. Contract assets at the beginning and the end of the period, as well as the changes in the balance, were not significant.
+Contract liabilities primarily relate to payments received from customers in advance of performance under the contract. Abbott’s contract liabilities arise primarily in the Medical Devices segment when payment is received upfront for various multi-period extended service arrangements.
+Changes in the contract liabilities during the period are as follows:
+(in millions)
+Contract Liabilities:
+Balance at December 31, 2025     $     633
+Unearned revenue from cash received during the period      150
+Revenue recognized related to contract liability balance     ( 123 )
+Balance at March 31, 2026     $     660
+Note 4 — Supplemental Financial Information
+Shares of unvested restricted stock that contain non-forfeitable rights to dividends are treated as participating securities and are included in the computation of earnings per share under the two-class method. Under the two-class method, net earnings are allocated between common shares and participating securities. Net earnings allocated to common shares for the three months ended March 31, 2026, and 2025, were $ 1.1  billion and $ 1.3  billion, respectively.
+Other, net in Net Cash From Operating Activities in the Condensed Consolidated Statement of Cash Flows for the first three months of 2026 includes the payment of cash taxes of $ 266  million. The first three months of 2025 included $ 235  million of pension contributions and the payment of cash taxes of $ 255  million.
+10
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 4 — Supplemental Financial Information (Continued)
+The following summarizes the activity for the first three months of 2026 related to the allowance for doubtful accounts as of March 31, 2026:
+(in millions)
+Allowance for Doubtful Accounts:
+Balance at December 31, 2025     $     290
+Provisions/charges to income      26
+Amounts charged off and other deductions     ( 6 )
+Balance at March 31, 2026     $     310
+The allowance for doubtful accounts reflects the current estimate of credit losses expected to be incurred over the life of the accounts receivable. Abbott considers various factors in establishing, monitoring, and adjusting its allowance for doubtful accounts, including the aging of the accounts and aging trends, the historical level of charge-offs, and specific exposures related to particular customers. Abbott also monitors other risk factors and forward-looking information, such as country risk, when determining credit limits for customers and establishing adequate allowances.
+The components of long-term investments are as follows:
+(in millions)     March 31,
+2026     December 31,
+2025
+Long-term Investments:
+Equity securities     $     727        $     597
+Other      363         321
+Total     $     1,090        $     918
+The increase in Abbott’s long-term investments as of March 31, 2026, compared to December 31, 2025, primarily reflects  non-marketable securities acquired in the Exact Sciences acquisition, as well as additional investments.
+Abbott’s equity securities as of March 31, 2026, include $ 309  million of investments in mutual funds that are held in a rabbi trust. These investments, which are specifically designated as available for the purpose of paying benefits under a deferred compensation plan, are not available for general corporate purposes and are subject to creditor claims in the event of insolvency.
+Abbott holds certain investments as of March 31, 2026, including investments accounted for under the equity method with a carrying value of $ 151  million and other equity investments with a carrying value of $ 241  million that do not have a readily determinable fair value.
+11
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 5 — Changes In Accumulated Other Comprehensive Income (Loss)
+The changes in Accumulated other comprehensive income (loss), net of tax, are as follows:
+Three Months Ended March 31
+Cumulative Foreign
+Currency Translation
+(Loss) Adjustments     Net Actuarial (Losses) and
+Prior Service (Costs) and
+Credits     Cumulative Gains (Losses)
+on Derivative Instruments
+Designated as Cash Flow
+Hedges
+(in millions)     2026     2025     2026     2025     2026     2025
+Balance at January 1     $    ( 5,931 )      $    ( 7,505 )      $    ( 1 )      $    ( 611 )      $    ( 69 )      $     210
+Other comprehensive income (loss) before reclassifications     ( 400 )       550        ( 16 )       30         49        ( 64 )
+Amounts reclassified from accumulated other comprehensive income      —         —         3         —         53        ( 27 )
+Net current period comprehensive income (loss)     ( 400 )       550        ( 13 )       30         102        ( 91 )
+Balance at March 31     $    ( 6,331 )      $    ( 6,955 )      $    ( 14 )      $    ( 581 )      $     33        $     119
+Reclassified amounts for cash flow hedges are recorded as Cost of products sold. Net actuarial losses and prior service cost are included as a component of net periodic benefit costs; see Note 13 — Post-Employment Benefits for additional details.
+Note 6 — Business Acquisition
+On March 23, 2026, Abbott completed the acquisition of Exact Sciences for approximately $ 20.6  billion. The acquisition was funded primarily through the issuance of $ 20.0  billion of long-term debt in March 2026, with the remainder funded by cash on hand. Under the terms of the agreement, Abbott paid $ 105  per common share in cash. As part of the acquisition, Abbott assumed approximately $ 2.8  billion of Exact Sciences’ debt, of which $ 1.4  billion was repaid in March 2026. The remaining debt is expected to be repaid in 2026. The acquisition of Exact Sciences is expected to establish Abbott's position in the cancer diagnostics market and expands its portfolio to include products such as Cologuard  ®  , Oncotype DX  ®  , and Cancerguard  ®  .
+The preliminary allocation of the fair value of the Exact Sciences acquisition is shown in the table below. Allocation of the purchase price of the acquisition will be finalized when the valuation of assets and liabilities is completed and differences between the preliminary and final allocation could be material.
+(in billions)
+Acquired intangible assets, non-deductible     $     12.8
+Goodwill, non-deductible      11.4
+Acquired net tangible assets      0.4
+Deferred income taxes recorded at acquisition     ( 2.0 )
+Net debt     ( 2.0 )
+Total preliminary allocation of fair value     $     20.6
+The goodwill is primarily attributable to future growth opportunities, assembled workforce, potential future technologies, and other intangible assets that do not qualify for separate recognition, as well as expected synergies from combining operations. The acquired net tangible assets consist primarily of property, plant, and equipment; trade accounts receivable;  trade accounts payable; other current liabilities; and other non-current liabilities.
+12
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 6 — Business Acquisition (Continued)
+If the acquisition had occurred as of the beginning of 2025, unaudited pro forma consolidated net sales for the three months ended March 31, 2025, would have been approximately $ 11.1  billion. Unaudited pro forma earnings before taxes for the three months ended March 31, 2025, would have been approximately $ 0.7  billion, reflecting transaction-related costs of approximately $ 0.5  billion, interest expense of approximately $ 0.2  billion, and amortization expense related to acquired intangible assets of approximately $ 0.2  billion. Unaudited pro forma consolidated net sales for the three months ended March 31, 2026, would have been approximately $ 11.9  billion. Unaudited pro forma earnings before taxes for the three months ended March 31, 2026, would have been approximately $ 1.4  billion, reflecting interest expense of approximately $ 0.2  billion and amortization expense related to acquired intangible assets of approximately $ 0.2  billion, and excluding transaction-related expenses of $ 0.5  billion that were directly attributable to the acquisition. The unaudited pro forma information is not necessarily indicative of the consolidated results of operations that would have been realized had the Exact Sciences acquisition been completed as of the beginning of 2025, nor is it intended to be indicative of future results of operations of the combined entity.
+In the first quarter of 2026, Abbott's consolidated results include $ 96  million of net sales related to Exact Sciences. Earnings of Exact Sciences included in Abbott's consolidated financial statements since the acquisition date are not material to Abbott's consolidated earnings.
+Note 7 — Goodwill and Intangible Assets
+The total amount of goodwill reported was $ 35.2  billion at March 31, 2026, and $ 24.0  billion at December 31, 2025. Goodwill increased by $ 11.4  billion     during the quarter due to the completion of the Exact Sciences acquisition.   F  oreign currency translation adjustments decreased goodwill by $ 0.2  billion in the first three months of 2026. The amount of goodwill related to reportable segments at March 31, 2026, was $ 2.7  billion for the Established Pharmaceutical Products segment, $ 0.3  billion for the Nutritional Products segment, $ 14.9  billion for the Diagnostic Products segment, and $ 17.3  billion for the Medical Devices segment. The Diagnostic Products segment includes the amount of goodwill related to the Exact Sciences acquisition. There were  no  reductions of goodwill relating to impairments in the first three months of 2026.
+The gross amount of amortizable intangible assets, primarily product rights and technology, was $ 40.3  billion as of March 31, 2026, and $ 27.6  billion as of December 31, 2025. The gross amount of amortizable intangible assets increased by $ 12.8  billion     during the quarter due to the completion of the Exact Sciences acquisition. Accumulated amortization was $ 23.6  billion and $ 23.3  billion as of March 31, 2026, and December 31, 2025, respectively. Abbott’s estimated annual amortization expense for intangible assets is approximately $ 2.6  billion in 2026, $ 2.3  billion in 2027, $ 1.8  billion in 2028, $ 1.7  billion in 2029, and $ 1.5  billion in 2030.
+Indefinite-lived intangible assets, which relate to in-process research and development (IPR&D), were $  1.2   billion as of March 31, 2026, and December 31, 2025.
+Note 8 — Restructuring Plans
+In 2025, Abbott management approved plans to streamline operations in order to reduce costs and improve efficiencies in its diagnostics and medical devices businesses. In addition, Abbott recognized asset impairment charges of $ 12  million related to these restructuring plans in the first three months of 2025.  The following summarizes the activity related to these restructuring actions and the status of the related accruals as of March 31, 2026:
+(in millions)     Total
+Accrued balance at December 31, 2025     $     180
+Payments and other adjustments     ( 48 )
+Accrued balance at March 31, 2026     $     132
+13
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 9 — Incentive Stock Programs
+In the first three months of 2026, Abbott granted  1,985,475  stock options,  449,237  restricted stock awards, and  4,833,122  restricted stock units under its incentive stock program. At March 31, 2026,  37  million shares were reserved for future grants.  Information regarding the number of options outstanding and exercisable at March 31, 2026, is as follows:
+Outstanding     Exercisable
+Number of shares       23,009,310         19,466,463
+Weighted average remaining life   (years)
+4.9       4.2
+Weighted average exercise price      $     95.11        $     90.48
+Aggregate intrinsic value   (in millions)
+$     363        $     363
+In connection with the completion of the Exact Sciences acquisition, unvested Exact Sciences restricted stock units were converted into Abbott restricted stock units, in accordance with the merger agreement. The number of restricted stock units converted was  1,476,916      at a fair value of $ 105.62 .
+The total unrecognized share-based compensation cost at March 31, 2026, amounted to $ 914  million, which is expected to be recognized over approximately the next  three years .
+Note 10 — Debt and Lines of Credit
+In the first quarter of 2026, Abbott issued $ 20.0  billion of debt to finance the acquisition of Exact Sciences, as follows:
+(in millions)     Principal amount
+SOFR+ 50 bp Senior notes due 2029     $     1,000
+3.700 % Senior notes due 2029
+$     2,250
+4.000 % Senior notes due 2031
+$     2,500
+4.300 % Senior notes due 2033
+$     2,750
+4.650 % Senior notes due 2036
+$     3,750
+4.750 % Senior notes due 2038
+$     2,000
+5.500 % Senior notes due 2056
+$     3,750
+5.600 % Senior notes due 2066
+$     2,000
+As part of the acquisition, Abbott assumed approximately $ 2.8  billion of Exact Sciences’ debt, of which $ 1.4  billion was repaid in March 2026. The remaining debt is expected to be repaid in 2026.
+On September 15, 2025, Abbott repaid the $ 500  million outstanding principal amount of its  3.875 % Notes upon maturity. On March 17, 2025, Abbott repaid the $ 1.0  billion outstanding principal amount of its  2.95 % Notes upon maturity.
+Note 11 — Financial Instruments, Derivatives and Fair Value Measures
+Certain Abbott foreign subsidiaries enter into foreign currency forward exchange contracts to manage exposures to changes in foreign exchange rates, primarily for anticipated intercompany purchases by those subsidiaries whose functional currencies are not the U.S. dollar. These contracts, with gross notional amounts totaling $ 7.6  billion at March 31, 2026, and $ 7.4  billion at December 31, 2025, are designated as cash flow hedges of the variability of the cash flows due to changes in foreign exchange rates and are recorded at fair value. Accumulated gains and losses as of March 31, 2026, will be included in Cost of products sold at the time the products are sold, generally through the next  twelve  to  eighteen months .
+14
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 11 — Financial Instruments, Derivatives and Fair Value Measures (Continued)
+Abbott enters into foreign currency forward exchange contracts to manage currency exposures for foreign currency denominated third-party trade payables and receivables, and for intercompany loans and trade accounts payable where the receivable or payable is denominated in a currency other than the functional currency of the entity. For intercompany loans, the contracts require Abbott to sell or buy foreign currencies, primarily European currencies, in exchange for primarily U.S. dollars and other European currencies. For intercompany and trade payables and receivables, the currency exposures are primarily the U.S. dollar and European currencies. At March 31, 2026, and December 31, 2025, Abbott held the gross notional amounts of $ 12.6  billion and $ 13.1  billion, respectively, of such foreign currency forward exchange contracts.
+Abbott has designated a yen-denominated,   5  -year term loan of $ 577  million and $ 589  million as of March 31, 2026, and December 31, 2025, respectively, as a hedge of the net investment in certain foreign subsidiaries. The change in the value of the debt, which is due to changes in foreign exchange rates, is recorded in Accumulated other comprehensive income (loss), net of tax.
+Abbott is a party to interest rate hedge contracts to manage its exposure to changes in the fair value of fixed-rate debt. These contracts are designated as fair value hedges of the variability of the fair value of fixed-rate debt due to changes in the long-term benchmark interest rates. The effect of the hedge is to change a fixed-rate interest obligation to a variable rate for that portion of the debt. Abbott records the contracts at fair value and adjusts the carrying amount of the fixed-rate debt by an offsetting amount. At March 31, 2026, and December 31, 2025, Abbott had interest rate hedge contracts with a notional amount totaling $ 4.2  billion and $ 1.2  billion, respectively. The increase from December 31, 2025, was due to additional interest rate hedge contracts associated with fixed-rate debt issued as part of the Exact Sciences acquisition.
+The following table summarizes the amounts and location of certain derivative and non-derivative financial instruments as of March 31, 2026, and December 31, 2025:
+Fair Value - Assets     Fair Value - Liabilities
+(in millions)     March 31, 2026     December 31, 2025     Balance Sheet Caption     March 31, 2026     December 31, 2025     Balance Sheet Caption
+Interest rate swaps designated as fair value hedges:
+Non-current     $     —        $     —        Deferred income taxes and other assets     $     67        $     —        Post-employment obligations, deferred income taxes, and other long-term liabilities
+Current      —         —        Prepaid expenses and other receivables      22         19        Other accrued liabilities
+Foreign currency forward exchange contracts:
+Hedging instruments      153         57        Prepaid expenses and other receivables      117         231        Other accrued liabilities
+Others not designated as hedges      87         51        Prepaid expenses and other receivables      93         66        Other accrued liabilities
+Debt designated as a hedge of net investment in a foreign subsidiary      —         —        n/a      577         589        Long-term debt
+$     240        $     108          $     876        $     905
+15
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 11 — Financial Instruments, Derivatives and Fair Value Measures (Continued)
+The following table summarizes the activity for foreign currency forward exchange contracts designated as cash flow hedges and certain other derivative financial instruments, as well as the amounts and location of income (expense) and gain (loss) reclassified into income.
+Gain (loss) Recognized in Other Comprehensive Income (loss)
+Income (expense) and Gain (loss) Reclassified into Income
+Three Months Ended March 31,       Three Months Ended March 31,
+(in millions)     2026     2025         2026     2025         Income Statement Caption
+Foreign currency forward exchange contracts designated as cash flow hedges     $     58        $    ( 94 )          $    ( 70 )      $     39            Cost of products sold
+Debt designated as a hedge of net investment in a foreign subsidiary      12        ( 29 )          n/a     n/a         n/a
+Interest rate swaps designated as fair value hedges     n/a     n/a         ( 70 )       3            Interest expense
+Gains of $ 45  million and $ 34  million were recognized in the three months ended March 31, 2026, and 2025, respectively, related to foreign currency forward exchange contracts not designated as a hedge. These amounts are reported in the Condensed Consolidated Statement of Earnings on the Net foreign exchange (gain) loss line.
+The carrying values and fair values of certain financial instruments as of March 31, 2026, and December 31, 2025, are shown in the following table. The carrying values of all other financial instruments approximate their estimated fair values. The counterparties to financial instruments consist of select major international financial institutions. Abbott does not expect any losses from non-performance by these counterparties.
+March 31, 2026     December 31, 2025
+(in millions)
+Carrying Value
+Fair Value
+Carrying Value
+Fair Value
+Long-term Investment Securities:
+Equity securities     $     727        $     727        $     597        $     597
+Other      363         363         321         321
+Total Long-term Debt     ( 34,047 )      ( 33,329 )      ( 12,929 )      ( 12,772 )
+Foreign Currency Forward Exchange Contracts:
+Receivable position      240         240         108         108
+(Payable) position     ( 210 )      ( 210 )      ( 297 )      ( 297 )
+Interest Rate Hedge Contracts:
+Receivable position      —         —         —         —
+(Payable) position     ( 89 )      ( 89 )      ( 19 )      ( 19 )
+The fair value of the debt was determined based on significant other observable inputs, including current interest rates.
+16
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 11 — Financial Instruments, Derivatives and Fair Value Measures (Continued)
+The following table summarizes the bases used to measure certain assets and liabilities at fair value on a recurring basis in the balance sheet:
+Basis of Fair Value Measurement
+(in millions)
+Outstanding Balances
+Quoted Prices in Active Markets
+Significant Other Observable Inputs
+Significant Unobservable Inputs
+March 31, 2026:
+Equity securities     $     335        $     335        $     —        $     —
+Foreign currency forward exchange contracts      240         —         240         —
+Total Assets     $     575        $     335        $     240        $     —
+Fair value of hedged long-term debt     $     4,068        $     —        $     4,068        $     —
+Interest rate swap derivative financial instruments      89         —         89         —
+Foreign currency forward exchange contracts      210         —         210         —
+Contingent consideration related to business combinations      304         —         —         304
+Total Liabilities     $     4,671        $     —        $     4,367        $     304
+December 31, 2025:
+Equity securities     $     342        $     342        $     —        $     —
+Foreign currency forward exchange contracts      108         —         108         —
+Total Assets     $     450        $     342        $     108        $     —
+Fair value of hedged long-term debt     $     1,133        $     —        $     1,133        $     —
+Interest rate swap derivative financial instruments      19         —         19         —
+Foreign currency forward exchange contracts      297         —         297         —
+Contingent consideration related to business combinations      1         —         —         1
+Total Liabilities     $     1,450        $     —        $     1,449        $     1
+The fair value of foreign currency forward exchange contracts is determined using a market approach, which utilizes values for comparable derivative instruments. The fair value of debt was determined based on the face value of the debt adjusted for the fair value of the interest rate swaps, which is based on a discounted cash flow analysis using significant other observable inputs. The fair value of the contingent consideration was determined based on independent appraisals at the time of acquisition, adjusted for the time value of money and other changes in fair value. The increase in the amount of contingent consideration from December 31, 2025, reflects contingent consideration assumed with the acquisition of Exact Sciences.
+Note 12 — Litigation and Environmental Matters
+Abbott has been identified as a potentially responsible party for investigation and cleanup costs at a number of locations in the United States and Puerto Rico under federal and state remediation laws and is investigating potential contamination at a number of company-owned locations. Abbott has recorded an estimated cleanup cost for each site for which management believes Abbott has a probable loss exposure. No individual site cleanup exposure is expected to exceed $ 4  million, and the aggregate cleanup exposure is not expected to exceed $ 10  million.
+17
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 12 — Litigation and Environmental Matters (Continued)
+Abbott has been named as a defendant in a number of lawsuits alleging that its preterm infant formula and human milk fortifier products that contain cow’s milk ingredients cause an intestinal disease known as necrotizing enterocolitis (NEC) and inadequately warn about the risk of NEC. These lawsuits claim that certain preterm infants suffered injury or death as a result of contracting NEC. Several of these matters have progressed to a decision, with varying outcomes. In the first three federal Multidistrict Litigation (MDL) “bellwether” cases before the U.S. District Court for the Northern District of Illinois, Abbott prevailed on summary judgment. Outcomes in the state court cases have varied, ranging from a summary judgment ruling in Abbott’s favor to a plaintiff verdict awarding $ 495  million in damages. Several of these cases are at various stages of appeal.  Abbott stands by its products and the information it provided about them. Separately, Abbott is a defendant in a civil qui tam lawsuit related, in part, to Abbott’s manufacturing of powdered infant formula products at its facility in Sturgis, Michigan in which the U.S. Department of Justice and several states have partially intervened, alleging violations of certain federal and state laws, including the Federal False Claims Act. Given the uncertainty as to the possible outcome in each of these matters, Abbott is unable to reasonably estimate a range of possible loss related to these matters and, therefore,  no  reserves have been recorded.
+Abbott is involved in various claims and legal proceedings, and Abbott estimates the range of possible loss for its legal proceedings and environmental exposures to be from approximately $ 115  million to $ 140  million. The recorded accrual balance at March 31, 2026, for these proceedings and exposures was approximately $ 120  million.     This accrual represents management’s best estimate of probable loss, as defined by FASB ASC No. 450, “Contingencies.” Within the next year, legal proceedings may occur that may result in a change in the estimated loss accrued by Abbott. While it is not feasible to predict the outcome of all such proceedings and exposures with certainty, management believes that their ultimate disposition should not have a material adverse effect on Abbott’s financial position, cash flows, or results of operations, except for the matters discussed in the second paragraph of this note, the resolution of which could be material to Abbott's financial position, cash flows, or results of operations.
+Note 13 — Post-Employment Benefits
+Retirement plans consist of defined benefit, defined contribution, and medical and dental plans. Net periodic benefit costs, other than service costs, are recognized in the Other (income) expense, net line of the Condensed Consolidated Statement of Earnings.  Net costs recognized for Abbott’s major defined benefit plans and post-employment medical and dental benefit plans are as follows:
+Defined Benefit Plans     Medical and Dental Plans
+Three Months Ended March 31,       Three Months Ended March 31,
+(in millions)     2026     2025         2026     2025
+Service cost - benefits earned during the period     $     52        $     54            $     12        $     10
+Interest cost on projected benefit obligations      125         122             18         16
+Expected return on plan assets     ( 296 )      ( 278 )          ( 9 )      ( 7 )
+Net amortization of:
+Actuarial loss, net      1         2             2         —
+Prior service cost (credit)      —         —             —        ( 2 )
+Net cost (credit)     $    ( 118 )      $    ( 100 )          $     23        $     17
+Abbott funds its domestic defined benefit plans according to U.S. Internal Revenue Service (IRS) funding limitations. International pension plans are funded according to similar regulations. In the first three months of 2025, $ 235  million was contributed to defined benefit plans. In the first three months of 2026 and 2025, $ 110  million and $ 75  million were contributed, respectively, to the post-employment medical and dental plans.
+18
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 14 — Taxes on Earnings
+Taxes on earnings reflect the estimated annual effective rates and include charges for interest and penalties. In the first three months of 2026 and 2025, taxes on earnings include $ 17  million and $ 73  million, respectively, in excess tax benefits associated with share-based compensation. In the first three months of 2026 and 2025, taxes on earnings includes approximately $  200   million of tax expense related to a deferred tax asset that was recognized as a significant non-cash tax benefit in a prior year. In the first three months of 2026, taxes on earnings also included approximately $ 50  million of net tax benefit as the result of the resolution of various tax positions related to prior years.
+In September 2023, Abbott received a Statutory Notice of Deficiency (SNOD) from the IRS for the 2019 Federal tax year in the amount of $ 417  million. The primary adjustments proposed in the SNOD relate to the reallocation of income between Abbott’s U.S. entities and its foreign affiliates. Abbott believes that the income reallocation adjustments proposed in the SNOD are without merit, in part because certain adjustments contradict methods that were agreed to with the IRS in prior audit periods. The SNOD also contains other proposed adjustments that Abbott believes are erroneous and unsupported. Abbott filed a petition with the U.S. Tax Court contesting the SNOD in December 2023.
+In June 2024, Abbott received a SNOD from the IRS for the 2017 and 2018 Federal tax years in the amount of $ 192  million. The matters proposed in the 2017/2018 SNOD are substantially similar to the income allocation adjustments included in the 2019 SNOD. Abbott filed a petition in September 2024 with the U.S. Tax Court contesting the 2017/2018 SNOD in a manner consistent with its petition for the 2019 SNOD.
+In October 2024, Abbott received a SNOD from the IRS for the 2020 Federal tax year assessing an additional $ 443  million of income tax. The primary adjustments proposed in the SNOD are substantially similar to the income allocation adjustments included in the 2017/2018 and 2019 SNODs. Abbott believes that the income reallocation adjustments proposed in the SNOD are without merit. The SNOD also contains other proposed adjustments and omissions that Abbott believes are erroneous and unsupported. In addition to the tax assessment for the 2020 tax year, the 2020 SNOD also contested a deduction for which an estimated $ 440  million cash tax benefit would be available in a different taxable year as allowed under applicable U.S. tax law. Abbott filed a petition with the U.S. Tax Court contesting the SNOD in December 2024.
+Abbott and the IRS are in active discussions regarding several of the disputed items contained in the 2017 – 2020 SNODs.
+In July 2024, Abbott received a $ 413  million tax assessment from the Malaysian tax authorities for the 2023 tax year. The assessment applies a property capital gains tax on the value of the shares associated with the intercompany sale of an affiliate. Abbott believes the assessment of the Malaysian tax authority to be without merit. In October 2025, the Penang High Court upheld the assessment of the Malaysian tax authority. In October 2025, Abbott filed an appeal with the Malaysian Court of Appeals.
+There are numerous other income tax jurisdictions for which tax returns are not yet settled, none of which Abbott expects to be individually significant. Abbott intends to vigorously defend its filing positions in all jurisdictions in which it has unresolved tax matters through ongoing discussions with taxing administrations and/or through litigation as necessary. Abbott reserves for uncertain tax positions related to unresolved tax matters where Abbott’s tax filing position does not meet the standard for recognition of an income tax benefit. Abbott continues to believe that the amount of its recorded reserves for uncertain tax positions is appropriate. Reserves for interest and penalties are not significant.
+The Organization for Economic Cooperation & Development (OECD) has proposed a two-pillared plan for a revised international tax system. Pillar 1 proposes to reallocate taxing rights among the jurisdictions in which in-scope multinational corporations operate. Pillar 2 proposes to assess a 15 percent minimum tax on the earnings of in-scope multinational corporations on a country-by-country basis. Numerous countries have enacted legislation to adopt the Pillar 2 model rules. On January 5, 2026, the OECD released administrative guidance that, when enacted, exempts U.S.-parented groups from the Pillar 2 minimum tax. Abbott continues to monitor legislative developments and assess any potential impacts on Abbott's operations for both the Pillar 1 and Pillar 2 proposals.
+19
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 15 — Segment Information
+Abbott’s principal business is the discovery, development, manufacture, and sale of a broad portfolio of healthcare products. Abbott’s products are generally sold directly to retailers, wholesalers, consumers, hospitals, healthcare facilities, laboratories, health systems, and government agencies throughout the world. On March 23, 2026, Abbott completed its acquisition of Exact Sciences. From the acquisition date, Abbott's results include Exact Sciences' results, which are reported within the Diagnostic Products segment as Cancer Diagnostics.
+Abbott’s reportable segments are as follows:
+Established Pharmaceutical Products   — International sales of a broad line of branded generic pharmaceutical and biologic products.
+Nutritional Products   — Worldwide sales of a broad line of adult and pediatric nutritional products.
+Diagnostic Products   — Worldwide sales of diagnostic systems, tests, and automated solutions. For segment reporting purposes, the Core Laboratory Diagnostics, Rapid and Molecular Diagnostics, and Cancer Diagnostics businesses are aggregated and reported as the Diagnostic Products segment.
+Medical Devices   — Worldwide sales of rhythm management, electrophysiology, heart failure, vascular, structural heart, neuromodulation, and diabetes care products. For segment reporting purposes, the Rhythm Management, Electrophysiology, Heart Failure, Vascular, Structural Heart, Neuromodulation, and Diabetes Care businesses are aggregated and reported as the Medical Devices segment.
+Abbott’s underlying accounting records are maintained on a legal entity basis for government and public reporting requirements. Segment disclosures are on a performance basis consistent with internal management reporting. The chief operating decision maker (CODM) at Abbott is the Chief Executive Officer. The CODM primarily considers sales and operating margin to assess the performance of segments and to allocate resources, where segment operating margin profitability includes cost of products sold and operating expenses. The cost of some corporate functions and the cost of certain employee benefits are charged to segments at predetermined rates that approximate cost. Remaining costs, if any, are not allocated to segments. In addition, intangible asset amortization is not allocated to operating segments, and intangible assets and goodwill are not included in the measure of each segment’s assets.
+The following segment information has been prepared in accordance with the internal accounting policies of Abbott, as described above, and is not presented in accordance with generally accepted accounting principles applied to the consolidated financial statements.
+20
+Table of Contents
+Abbott Laboratories and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+March 31, 2026
+(Unaudited)
+Note 15 — Segment Information (Continued)
+Net Sales to External Customers     Cost of Products Sold     Research and Development     Selling, General, and Administrative     Operating Earnings
+Three Months Ended March 31,     Three Months Ended March 31,     Three Months Ended March 31,     Three Months Ended March 31,     Three Months Ended March 31,
+(in millions)     2026     2025     2026     2025     2026     2025     2026     2025     2026     2025
+Established Pharmaceuticals     $     1,426        $     1,260        $    ( 644 )      $    ( 569 )      $    ( 41 )      $    ( 42 )      $    ( 376 )      $    ( 351 )      $     365        $     298
+Nutritional Products      2,017         2,146        ( 1,089 )      ( 1,124 )      ( 54 )      ( 52 )      ( 563 )      ( 576 )       311         394
+Diagnostic Products      2,180         2,054        ( 1,242 )      ( 1,152 )      ( 155 )      ( 151 )      ( 448 )      ( 392 )       335         359
+Medical Devices       5,539         4,895        ( 1,814 )      ( 1,598 )      ( 444 )      ( 401 )      ( 1,388 )      ( 1,287 )       1,893         1,609
+Total     $     11,162        $     10,355        $    ( 4,789 )      $    ( 4,443 )      $    ( 694 )      $    ( 646 )      $    ( 2,775 )      $    ( 2,606 )      $     2,904        $     2,660
+Other      2         3
+Net sales     $     11,164        $     10,358
+Corporate functions and plan benefit costs                     ( 65 )      ( 28 )
+Net interest expense                     ( 68 )      ( 49 )
+Share-based compensation (a)                     ( 638 )      ( 289 )
+Amortization of Intangible assets                     ( 422 )      ( 420 )
+Other, net (b)                       ( 262 )      ( 96 )
+Earnings before Taxes                     $     1,449        $     1,778
+___________________________________
+(a)
+Approximately   45   percent of the annual net cost of share-based awards will typically be recognized in the first quarter due to the timing of the granting of share-based awards. The first quarter of 2026 included $ 321  million of stock compensation expense related to the cash out of equity awards in connection with the Exact Sciences acquisition, per the terms of the merger agreement.
+(b)
+Other, net for the three months ended March 31, 2026, includes costs related to the acquisition of Exact Sciences and restructuring charges. Other, net for the three months ended March 31, 2025, includes restructuring charges, investment impairments, and fair value adjustments to contingent consideration.
+Depreciation     Additions to Property and Equipment
+Three Months Ended March 31,     Three Months Ended March 31,
+(in millions)     2026     2025     2026     2025
+Established Pharmaceuticals     $     30        $     23        $     20        $     33
+Nutritional Products      50         42         40         79
+Diagnostic Products      144         126         128         135
+Medical Devices      100         88         147         156
+Total Reportable Segments      324         279         335         403
+Other      57         57         56         60
+Total     $     381        $     336        $     391        $     463
+Total Assets
+(in millions)     As of March 31, 2026     As of December 31, 2025
+Established Pharmaceuticals     $     3,665        $     3,540
+Nutritional Products      4,903         4,791
+Diagnostic Products      9,631         8,273
+Medical Devices      10,983         10,689
+Total Reportable Segment Assets     $     29,182        $     27,293
+Cash and investments      8,385         9,857
+Goodwill and intangible assets      53,096         29,561
+All other (c)      19,766         20,002
+Total Assets     $     110,429        $     86,713
+(c)    As of March 31, 2026, and December 31, 2025, all other includes the long-term assets associated with the defined benefit plans and certain deferred tax assets.
+21
+Table of Contents
+Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Financial Review — Results of Operations
+Abbott’s revenues are derived primarily from the sale of a broad portfolio of healthcare products under short-term receivable arrangements. Patent protection and licenses, technological and performance features, and inclusion of Abbott’s products under a contract most significantly impact which products are sold; price controls, competition, and rebates most significantly impact the net selling prices of products; and foreign currency translation impacts the measurement of net sales and costs. Abbott’s primary products are medical devices, diagnostic testing products, nutritional products, and branded generic pharmaceuticals.
+The following tables detail sales by reportable segment for the three months ended March 31. Percent changes are versus the prior year and are based on unrounded numbers.
+Net Sales to External Customers
+(in millions)     Three Months Ended
+March 31, 2026     Three Months Ended
+March 31, 2025     Total Change     Impact of Foreign Exchange     Total Change Excl. Foreign Exchange
+Established Pharmaceutical Products     $    1,426       $    1,260       13.2     %     4.2     %     9.0     %
+Nutritional Products     2,017       2,146       (6.0)      1.7      (7.7)
+Diagnostic Products     2,180       2,054       6.1      3.6      2.5
+Medical Devices     5,539       4,895       13.2      5.1      8.1
+Total Reportable Segments     11,162       10,355       7.8      4.0      3.8
+Other     2       3       n/m     n/m     n/m
+Net Sales     $    11,164       $    10,358       7.8      4.0      3.8
+Total U.S.     $    4,274       $    4,168       2.5      —      2.5
+Total International     $    6,890       $    6,190       11.3      6.7      4.6
+___________________________________
+Notes:    In order to compute results excluding the impact of exchange rates, current year U.S. dollar sales are multiplied or divided, as appropriate, by the current year average foreign exchange rates and then those amounts are multiplied or divided, as appropriate, by the prior year average foreign exchange rates.
+n/m = Percent change is not meaningful
+The 3.8 percent increase in total net sales during the first quarter of 2026, excluding the impact of foreign exchange, primarily reflected higher product sales in the Medical Devices and Established Pharmaceutical Products segments. Nutritional Products sales primarily declined due to lower sales volumes compared to the prior year. Diagnostic Products sales reflect the acquisition of Exact Sciences Corporation (Exact Sciences), which was completed on March 23, 2026, with sales from the acquisition reported in the Diagnostic Products segment as Cancer Diagnostics from the date of acquisition. On a reported basis, net sales were favorably impacted by foreign exchange as the relatively weaker U.S. dollar increased total international sales by 6.7 percent and total sales by 4.0 percent.
+22
+Table of Contents
+The table below provides detail by sales category for the three months ended March 31. Percent changes are versus the prior year and are based on unrounded numbers.
+(in millions)     March 31, 2026     March 31, 2025     Total Change     Impact of Foreign Exchange     Total Change Excl. Foreign Exchange
+Established Pharmaceutical Products —
+Key Emerging Markets     $    1,089       $    965       12.9     %     3.5     %     9.4     %
+Other Emerging Markets     337       295       14.1       6.2       7.9
+Nutritional Products —
+International Pediatric Nutritionals     442       453       (2.6)      2.7       (5.3)
+U.S. Pediatric Nutritionals     511       588       (13.0)      —       (13.0)
+International Adult Nutritionals     731       738       (0.9)      3.4       (4.3)
+U.S. Adult Nutritionals     333       367       (9.2)      —       (9.2)
+Diagnostic Products —
+Core Laboratory     1,272       1,177       8.1       4.8       3.3
+Rapid and Molecular     812       877       (7.4)      2.2       (9.6)
+Cancer Diagnostics     96       —       n/a     n/a     n/a
+Medical Devices —
+Rhythm Management     684       585       17.0       4.5       12.5
+Electrophysiology     788       675       16.7       4.2       12.5
+Heart Failure     389       339       14.6       2.4       12.2
+Vascular     777       710       9.5       4.6       4.9
+Structural Heart     578       531       9.0       5.4       3.6
+Neuromodulation     243       228       6.8       2.7       4.1
+Diabetes Care     2,080       1,827       13.8       6.4       7.4
+___________________________________
+Notes:
+Abbott's Amplatzer Amulet Left Atrial Appendage Occluder device and related accessories were transferred from Structural Heart to Electrophysiology on January 1, 2026. As a result, $46 million of sales in the first quarter of 2025 were reclassified from Structural Heart to Electrophysiology.
+Beginning in 2026, Abbott aggregated its previously reported Rapid Diagnostics, Molecular Diagnostics, and Point of Care businesses into the Rapid and Molecular Diagnostics business.
+On March 23, 2026, Abbott completed the acquisition of Exact Sciences. Following the acquisition, the sales of Exact Sciences are presented as Abbott's Cancer Diagnostics business.
+In the first three months of 2026, total Established Pharmaceutical Products sales, excluding the impact of foreign exchange, increased 9.0 percent. Excluding the favorable effect of foreign exchange, sales in Key Emerging Markets for Established Pharmaceutical Products increased 9.4 percent in the first three months of 2026, led by double-digit growth in several countries across the Latin America and Asia Pacific regions. Other Emerging Markets, excluding the effect of foreign exchange, increased 7.9 percent in the first three months of 2026.
+Excluding the impact of foreign exchange, total Nutritional Products sales in the first three months of 2026 decreased 7.7 percent. The decline primarily reflected lower sales volumes across both pediatric and adult nutritional product portfolios in the U.S. and internationally.
+In the first three months of 2026, Diagnostic Products sales increased 2.5 percent, excluding the impact of foreign exchange. Growth in Core Laboratory and the inclusion of Exact Sciences' results were partially offset by a decline in Rapid and Molecular Diagnostics. Cancer Diagnostics results include Exact Sciences' net sales of $96 million from the acquisition date of March 23, 2026.
+23
+Table of Contents
+In Core Laboratory, sales increased 3.3 percent in the first three months of 2026, excluding the impact of foreign exchange, reflecting continued growth of diagnostic test sales on the Alinity  ®   platform across the U.S., Europe, and Latin America, partially offset by lower sales in China due to continued challenging market conditions. In Rapid and Molecular Diagnostics, sales decreased 9.6 percent in the first three months of 2026, excluding the impact of foreign exchange, primarily reflecting lower demand for respiratory virus tests due to a weaker respiratory virus season compared to the prior year.
+Excluding the impact of foreign exchange, total Medical Devices sales increased 8.1 percent in the first three months of 2026, led by double‑digit growth in Rhythm Management, Electrophysiology, and Heart Failure. Diabetes Care sales increased 7.4 percent, excluding the impact of foreign exchange, driven by continued growth in Abbott’s continuous glucose monitoring (CGM) systems in the U.S. and internationally. CGM systems sales totaled $2.0 billion and $1.7 billion in the first three months of 2026 and 2025, respectively, and increased 7.6 percent excluding the impact of foreign exchange.
+In Rhythm Management, sales increased 12.5 percent in the first three months of 2026, excluding the impact of foreign exchange, primarily due to growth in Aveir  ®   leadless pacemakers. In Electrophysiology, sales increased 12.5 percent, excluding the impact of foreign exchange, primarily reflecting higher procedure volumes and increased demand for ablation catheters. In Heart Failure, sales increased 12.2 percent, excluding the impact of foreign exchange, primarily reflecting growth across the portfolio of ventricular assist devices and related accessories. In Structural Heart, sales increased 3.6 percent, excluding the impact of foreign exchange, primarily reflecting growth in Navitor  ®   and MitraClip  ®   products, partially offset by the completion of payments related to a multi‑year agreement with a competitor.
+The gross profit margin percentage was 52.4 percent for the first quarter of 2026, compared to 52.8 percent for the first quarter of 2025. The decrease in the first three months of 2026 reflects the unfavorable impact of higher costs and foreign exchange, partially offset by the impact of margin improvement initiatives.
+Research and development (R&D) expenses increased $51 million to $767 million, or 7.2 percent, in the first quarter of 2026 compared to the prior year. The increase in R&D expenses in the first three months of 2026 was primarily driven by higher spending on development programs across multiple businesses.
+Selling, general, and administrative (SG&A) expenses increased $679 million to $3.7 billion, or 22.2 percent, in the first quarter of 2026 primarily due to the acquisition and integration of Exact Sciences, including stock-based compensation expense resulting from the cash out of equity awards related to the acquisition. Higher SG&A expenses also reflect increased selling and marketing spending to drive growth across various businesses, as well as the unfavorable impact of foreign exchange.
+Business Acquisition
+On March 23, 2026, Abbott completed the acquisition of Exact Sciences for approximately $20.6 billion. The acquisition was funded primarily through the issuance of $20 billion of long-term debt in March 2026, with the remainder funded by cash on hand. Under the terms of the agreement, Abbott paid $105 per common share in cash. As part of the acquisition, Abbott assumed approximately $2.8 billion of Exact Sciences’ debt, of which $1.4 billion was repaid in March 2026. The remaining debt is expected to be repaid in 2026. The acquisition of Exact Sciences is expected to establish Abbott's position in the cancer diagnostics market and expands its portfolio to include products such as Cologuard  ®  , Oncotype DX  ®  , and Cancerguard  ®  .
+The preliminary allocation of the fair value of the Exact Sciences acquisition is shown in the table below. Allocation of the purchase price of the acquisition will be finalized when the valuation of assets and liabilities is completed and differences between the preliminary and final allocation could be material.
+(in billions)
+Acquired intangible assets, non-deductible     $    12.8
+Goodwill, non-deductible     11.4
+Acquired net tangible assets     0.4
+Deferred income taxes recorded at acquisition     (2.0)
+Net debt     (2.0)
+Total preliminary allocation of fair value     $    20.6
+24
+Table of Contents
+The goodwill is primarily attributable to future growth opportunities, assembled workforce, potential future technologies, and other intangible assets that do not qualify for separate recognition, as well as expected synergies from combining operations. The acquired net tangible assets consist primarily of property, plant, and equipment, trade accounts receivable, trade accounts payable, other current liabilities, and other non-current liabilities.
+If the acquisition had occurred as of the beginning of 2025, unaudited pro forma consolidated net sales for the three months ended March 31, 2025, would have been approximately $11.1 billion. Unaudited pro forma earnings before taxes for the three months ended March 31, 2025, would have been approximately $0.7 billion, reflecting transaction-related costs of approximately $0.5 billion, interest expense of approximately $0.2 billion, and amortization expense related to acquired intangible assets of approximately $0.2 billion. Unaudited pro forma consolidated net sales for the three months ended March 31, 2026, would have been approximately $11.9 billion. Unaudited pro forma earnings before taxes for the three months ended March 31, 2026, would have been approximately $1.4 billion, reflecting interest expense of approximately $0.2 billion and amortization expense related to acquired intangible assets of approximately $0.2 billion, and excluding transaction-related expenses of $0.5 billion that were directly attributable to the acquisition. The unaudited pro forma information is not necessarily indicative of the consolidated results of operations that would have been realized had the Exact Sciences acquisition been completed as of the beginning of 2025, nor is it intended to be indicative of future results of operations of the combined entity.
+In the first quarter of 2026, Abbott's consolidated results include $96 million of net sales related to Exact Sciences. Earnings of Exact Sciences included in Abbott's consolidated financial statements since the acquisition date are not material to Abbott's consolidated earnings.
+Other (Income) Expense, net
+Other (income) expense, net increased from $127 million of income in the first quarter of 2025 to $159 million of income in the first quarter of 2026. The increase in the first quarter of 2026 reflects a prior year change in fair value of contingent consideration liabilities that did not repeat, higher income associated with the non-service cost components of net pension, and post-retirement medical benefits costs.
+Interest Expense, net
+Interest expense, net increased by $19 million to $68 million in the first quarter of 2026 primarily due to interest on debt related to the acquisition of Exact Sciences, partially offset by interest income on bond proceeds and prior year debt repayments.
+Taxes on Earnings
+Taxes on earnings reflect the estimated annual effective rates and include charges for interest and penalties. In the first three months of 2026 and 2025, taxes on earnings include $17 million and $73 million, respectively, in excess tax benefits associated with share-based compensation. In the first three months of 2026 and 2025, taxes on earnings includes approximately $200 million of tax expense related to a deferred tax asset that was recognized as a significant non-cash tax benefit in a prior year. In the first three months of 2026, taxes on earnings also included approximately $50 million of net tax benefit as the result of the resolution of various tax positions related to prior years.
+In September 2023, Abbott received a Statutory Notice of Deficiency (SNOD) from the U.S. Internal Revenue Service (IRS) for the 2019 Federal tax year in the amount of $417 million. The primary adjustments proposed in the SNOD relate to the reallocation of income between Abbott’s U.S. entities and its foreign affiliates. Abbott believes that the income reallocation adjustments proposed in the SNOD are without merit, in part because certain adjustments contradict methods that were agreed to with the IRS in prior audit periods. The SNOD also contains other proposed adjustments that Abbott believes are erroneous and unsupported. Abbott filed a petition with the U.S. Tax Court contesting the SNOD in December 2023.
+In June 2024, Abbott received a SNOD from the IRS for the 2017 and 2018 Federal tax years in the amount of $192 million. The matters proposed in the 2017/2018 SNOD are substantially similar to the income allocation adjustments included in the 2019 SNOD. Abbott filed a petition in September 2024 with the U.S. Tax Court contesting the 2017/2018 SNOD in a manner consistent with its petition for the 2019 SNOD.
+25
+Table of Contents
+In October 2024, Abbott received a SNOD from the IRS for the 2020 Federal tax year assessing an additional $443 million of income tax. The primary adjustments proposed in the SNOD are substantially similar to the income allocation adjustments included in the 2017/2018 and 2019 SNODs. Abbott believes that the income reallocation adjustments proposed in the SNOD are without merit. The SNOD also contains other proposed adjustments and omissions that Abbott believes are erroneous and unsupported. In addition to the tax assessment for the 2020 tax year, the 2020 SNOD also contested a deduction for which an estimated $440 million cash tax benefit would be available in a different taxable year as allowed under applicable U.S. tax law. Abbott filed a petition with the U.S. Tax Court contesting the SNOD in December 2024.
+Abbott and the IRS are in active discussions regarding several of the disputed items contained in the 2017 – 2020 SNODs.
+In July 2024, Abbott received a $413 million tax assessment from the Malaysian tax authorities for the 2023 tax year. The assessment applies a property capital gains tax on the value of the shares associated with the intercompany sale of an affiliate. Abbott believes the assessment of the Malaysian tax authority to be without merit. In October 2025, the Penang High Court upheld the assessment of the Malaysian tax authority. In October 2025, Abbott filed an appeal with the Malaysian Court of Appeals.
+There are numerous other income tax jurisdictions for which tax returns are not yet settled, none of which Abbott expects to be individually significant. Abbott intends to vigorously defend its filing positions in all jurisdictions in which it has unresolved tax matters through ongoing discussions with taxing administrations and/or through litigation as necessary. Abbott reserves for uncertain tax positions related to unresolved tax matters where Abbott’s tax filing position does not meet the standard for recognition of an income tax benefit. Abbott continues to believe that the amount of its recorded reserves for uncertain tax positions is appropriate. Reserves for interest and penalties are not significant.
+The Organization for Economic Cooperation & Development (OECD) has proposed a two-pillared plan for a revised international tax system. Pillar 1 proposes to reallocate taxing rights among the jurisdictions in which in-scope multinational corporations operate. Pillar 2 proposes to assess a 15 percent minimum tax on the earnings of in-scope multinational corporations on a country-by-country basis. Numerous countries have enacted legislation to adopt the Pillar 2 model rules. On January 5, 2026, the OECD released administrative guidance that, when enacted, exempts U.S.-parented groups from the Pillar 2 minimum tax. Abbott continues to monitor legislative developments and assess any potential impacts on Abbott's operations for both the Pillar 1 and Pillar 2 proposals.
+Liquidity and Capital Resources
+The decrease in cash and cash equivalents from $8.5 billion at December 31, 2025, to $6.8 billion at March 31, 2026, reflects the use of cash to fund the cash portion of the acquisition of Exact Sciences and the repayment of $1.4 billion of debt assumed as part of the acquisition, as well as the payment of dividends and capital expenditures in the first three months of 2026, partially offset by cash generated from operations.
+Working capital was $7.1 billion at March 31, 2026, and $9.5 billion at December 31, 2025. The decrease in working capital in 2026 primarily reflects the reduction in cash to fund the cash portion of the Exact Sciences acquisition and the repayment of $1.4 billion of debt assumed as part of the acquisition, as well as an increase in the current portion of long-term debt.
+In the Condensed Consolidated Statement of Cash Flows, Net cash from operating activities for the first three months of 2026 totaled $1.3 billion, a decrease of $102 million from the prior year. Cash flow from operating activities decreased during the period, primarily due to the cash out of equity awards related to the acquisition of Exact Sciences, partially offset by a decrease in trade receivables. In the first three months of 2026, Net cash from operating activities included the payment of cash taxes of $266 million. Net cash from operating activities in the first three months of 2025 included $235 million of pension contributions and the payment of cash taxes of $255 million.
+At March 31, 2026, Abbott’s long-term debt rating was A+ by S&P Global Ratings and Aa3 by Moody’s Investors Service. Abbott expects to maintain an investment grade rating.
+As part of the acquisition, Abbott assumed approximately $2.8 billion of Exact Sciences’ debt, of which $1.4 billion was repaid in March 2026. The remaining debt is expected to be repaid in 2026.
+On September 15, 2025, Abbott repaid the $500 million outstanding principal amount of its 3.875% Notes upon maturity. On March 17, 2025, Abbott repaid the $1.0 billion outstanding principal amount of its 2.95% Notes upon maturity.
+26
+Table of Contents
+In October 2024, the board of directors authorized the repurchase of up to $7 billion of Abbott common shares, from time to time (the "2024 repurchase program"). As of March 31, 2026, $6.7 billion remains available for repurchase under the 2024 repurchase program.
+In the first quarter of   2026  , Abbott declared a quarterly dividend of $0.63 per share on its common shares, which represents an increase of 6.8 percent over the $0.59 per share dividend declared in the first quarter of   2025  .
+Legislative Issues
+Abbott’s primary markets are highly competitive and subject to substantial government regulations throughout the world. Abbott expects debate to continue over the availability, method of delivery, and payment for healthcare products and services. It is not possible to predict the extent to which Abbott or the healthcare industry in general might be adversely affected by these factors in the future. A more complete discussion of these factors is contained in Item 1, Business, and Item 1A, Risk Factors, in our Annual Report on Form 10-K for the year ended December 31, 2025.
+Private Securities Litigation Reform Act of 1995 — A Caution Concerning Forward-Looking Statements
+Under the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, Abbott cautions that any forward-looking statements made by Abbott are subject to risks and uncertainties that may cause actual results to differ materially from those indicated in the forward-looking statements. Economic, competitive, governmental, technological, and other factors that may affect Abbott's operations are discussed in Item 1A, "Risk Factors" in our Annual Report on Form 10-K for the year ended December 31, 2025, and are incorporated herein by reference. Abbott undertakes no obligation to release publicly any revisions to forward-looking statements as a result of subsequent events or developments, except as required by law.
+27
+Table of Contents
+PART I. FINANCIAL INFORMATION
+Item 4.         Controls and Procedures
+(a)  Evaluation of disclosure controls and procedures.   The Chief Executive Officer, Robert B. Ford, and Chief Financial Officer, Philip P. Boudreau, evaluated the effectiveness of Abbott Laboratories’ disclosure controls and procedures as of the end of the period covered by this report, and concluded that Abbott Laboratories’ disclosure controls and procedures were effective to ensure that information Abbott is required to disclose in the reports that it files or submits with the Securities and Exchange Commission (the “Commission”) under the Securities Exchange Act of 1934 (the “Exchange Act”) is recorded, processed, summarized, and reported, within the time periods specified in the Commission’s rules and forms, and to ensure that information required to be disclosed by Abbott in the reports that it files or submits under the Exchange Act is accumulated and communicated to Abbott’s management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+(b)  Changes in internal control over financial reporting.   On March 23, 2026, Abbott completed the acquisition of Exact Sciences. During the quarter ended March 31, 2026, there were no other changes in Abbott’s internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) that have materially affected, or are reasonably likely to materially affect, Abbott’s internal control over financial reporting.
+PART II. OTHER INFORMATION
+Item 1.         Legal Proceedings
+Abbott is involved in various claims, legal proceedings and investigations, including those described in its Annual Report on Form 10-K for the year ended December 31, 2025.
+28
+Table of Contents
+Item 2.         Unregistered Sales of Equity Securities and Use of Proceeds
+(c)  Issuer Purchases of Equity Securities
+Period     (a) Total
+Number of
+Shares (or
+Units)
+Purchased     (b) Average
+Price Paid per
+Share (or
+Unit)     (c) Total Number
+of Shares (or
+Units) Purchased
+as Part of
+Publicly
+Announced Plans
+or Programs     (d) Maximum
+Number (or
+Approximate
+Dollar Value) of
+Shares (or Units)
+that May Yet Be
+Purchased Under
+the Plans or
+Programs
+January 1, 2026 - January 31, 2026     —
+(1)
+$    —       —       $    6,689,557,187
+(2)
+February 1, 2026 - February 28, 2026     —
+(1)
+—       —       6,689,557,187
+(2)
+March 1, 2026 - March 31, 2026     —
+(1)
+—       —       6,689,557,187
+(2)
+Total     —
+(1)
+$    —       —       $    6,689,557,187
+(2)
+____________________________________
+1.  These shares do not include the shares surrendered to Abbott to satisfy tax withholding obligations in connection with the vesting of restricted stock or restricted stock units.
+2.  On October 11, 2024, the board of directors authorized the repurchase of up to $7 billion of Abbott common shares, from time to time.
+29
+Table of Contents
+Item 6.         Exhibits
+Exhibit No.     Exhibit
+3.1
+By-Laws of Abbott Laboratories, as amended and restated, effective April 24, 2026, filed as Exhibit 3.1 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+4.1
+Indenture, dated as of March 10, 2015, between Abbott Laboratories and U.S. Bank National Association (including form of security), filed as an exhibit to the Abbott Laboratories Current Report on Form 8-K filed on March 10, 2015, filed as Exhibit 4.1 to the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026.
+4.2
+Officers’ Certificate Pursuant to Sections 3.1 and 3.3 of the Indenture with respect to the Floating Rate Notes due 2029, the 3.700% Notes due 2029, the 4.000% Notes due 2031, the 4.300% Notes due 2033, the 4.650% Notes due 2036, the 4.750% Notes due 2038, the 5.500% Notes due 2056 and the 5.600% Notes due 2066, filed as Exhibit 4.2 to the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026.
+4.3
+Form of Floating Rate Notes due 2029, filed as Exhibit 4.3 to the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026 (included in Exhibit 4.2 of the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026).
+4.4
+Form of 3.700% Notes due 2029, filed as Exhibit 4.4 to the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026 (included in Exhibit 4.2 of the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026).
+4.5
+Form of 4.000% Notes due 2031, filed as Exhibit 4.5 to the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026 (included in Exhibit 4.2 of the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026).
+4.6
+Form of 4.300% Notes due 2033, filed as Exhibit 4.6 to the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026 (included in Exhibit 4.2 of the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026).
+4.7
+Form of 4.650% Notes due 2036, filed as Exhibit 4.7 to the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026 (included in Exhibit 4.2 of the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026).
+4.8
+Form of 4.750% Notes due 2038, filed as Exhibit 4.8 to the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026 (included in Exhibit 4.2 of the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026).
+4.9
+Form of 5.500% Notes due 2056, filed as Exhibit 4.9 to the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026 (included in Exhibit 4.2 of the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026).
+4.10
+Form of 5.600% Notes due 2066, filed as Exhibit 4.10 to the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026 (included in Exhibit 4.2 of the Abbott Laboratories Current Report on Form 8-K filed on March 9, 2026).
+10.1
+Abbott Laboratories 2026 Incentive Stock Program (incorporated by reference to Exhibit A of the Abbott Laboratories Definitive Proxy Statement on Schedule 14A filed on March 13, 2026).
+10.2
+Form of Restricted Stock Unit Agreement (time-based vested) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.2 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.3
+Form of Restricted Stock Unit Agreement for foreign employees (time-based vested) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.3 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+30
+Table of Contents
+10.4
+Form of Restricted Stock Unit Agreement (cliff vested) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.4 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.5
+Form of Restricted Stock Unit Agreement for foreign employees (cliff vested) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.5 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.6
+Form of Performance Restricted Stock Agreement (annual performance based) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.6 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.7
+Form of Performance Restricted Stock Unit Agreement for foreign employees (annual performance based) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.7 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.8
+Form of Performance Restricted Stock Agreement (interim performance based) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.8 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.9
+Form of Performance Restricted Stock Unit Agreement for foreign employees (interim performance based) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.9 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.10
+Form of Restricted Stock Agreement (time-based vested) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.10 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.11
+Form of Restricted Stock Agreement (cliff vested) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.11 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.12
+Form of Non-Qualified Stock Option Agreement under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.12 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.13
+Form of Non-Qualified Stock Option Agreement for foreign employees under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.13 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.14
+Form of Restricted Stock Unit Agreement for executive officers (cliff vested) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.14 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.15
+Form of Restricted Stock Unit Agreement for foreign executive officers (cliff vested) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.15 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.16
+Form of Performance Restricted Stock Agreement for executive officers (annual performance based) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.16 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.17
+Form of Performance Restricted Stock Agreement for executive officers (interim performance based) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.17 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.18
+Form of Performance Restricted Stock Unit Agreement for foreign executive officers (annual performance based) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.18 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+31
+Table of Contents
+10.19
+Form of Performance Restricted Stock Unit Agreement for foreign executive officers (interim performance based) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.19 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.20
+Form of Restricted Stock Agreement for executive officers (time-based vested) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.20 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.21
+Form of Restricted Stock Agreement for executive officers (cliff vested) under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.21 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.22
+Form of Non-Qualified Stock Option Agreement for executive officers under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.22 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.23
+Form of Non-Qualified Stock Option Agreement for foreign executive officers under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.23 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.24
+Form of Non-Employee Director Restricted Stock Unit Agreement under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.24 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.25
+Form of Non-Employee Director Restricted Stock Unit Agreement for foreign non-employee directors under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.25 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.26
+Form of Non-Employee Director Non-Qualified Stock Option Agreement under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.26 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+10.27
+Form of Non-Employee Director Non-Qualified Stock Option Agreement for foreign non-employee directors under the Abbott Laboratories 2026 Incentive Stock Program, filed as Exhibit 10.27 to the Abbott Laboratories Current Report on Form 8-K filed on April 27, 2026.
+31.1
+Certification of Chief Executive Officer Required by Rule 13a-14(a) (17 CFR 240.13a-14(a)).
+31.2
+Certification of Chief Financial Officer Required by Rule 13a-14(a) (17 CFR 240.13a-14(a)).
+Exhibits 32.1 and 32.2 are furnished herewith and should not be deemed to be “filed” under the Securities Exchange Act of 1934.
+32.1
+Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+32.2
+Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+101     The following financial statements and notes from the Abbott Laboratories Quarterly Report on Form 10-Q for the quarter ended March 31, 2026, formatted in Inline XBRL: (i) Condensed Consolidated Statement of Earnings; (ii) Condensed Consolidated Statement of Comprehensive Income; (iii) Condensed Consolidated Balance Sheet; (iv) Condensed Consolidated Statement of Shareholders’ Investment; (v) Condensed Consolidated Statement of Cash Flows; and (vi) Notes to the Condensed Consolidated Financial Statements.
+104     Cover Page Interactive Data File (the cover page XBRL tags are embedded in the Inline XBRL document and included in Exhibit 101).
+32
+Table of Contents
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ABBOTT LABORATORIES
+By:    /s/ PHILIP P. BOUDREAU
+Philip P. Boudreau
+Executive Vice President, Finance
+and Chief Financial Officer
+Date: April 29, 2026
+33

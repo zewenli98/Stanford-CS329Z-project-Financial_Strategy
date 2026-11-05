@@ -1,0 +1,48 @@
+nvda-20250113
+0001045810  false         0001045810    2025-01-13  2025-01-13
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+______________
+FORM  8-K
+CURRENT REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):    January 13, 2025
+NVIDIA CORP ORATION
+(Exact name of registrant as specified in its charter)
+Delaware      0-23985      94-3177549
+(State or other jurisdiction    (Commission    (IRS Employer
+of incorporation)    File Number)    Identification No.)
+2788 San Tomas Expressway ,  Santa Clara ,  CA   95051
+(Address of principal executive offices)   (Zip Code)
+Registrant’s telephone number, including area code:   ( 408 )  486-2000
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐  Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐  Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐  Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol(s)    Name of each exchange on which registered
+Common Stock, $0.001 par value per share      NVDA      The Nasdaq Global Select Market
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging Growth Company  ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 8.01 Other Events
+The “AI Diffusion” Rule
+On January 13, 2025, the U.S. Government announced that it submitted the Interim Final Rule, “Export Control Framework for Artificial Intelligence Diffusion,” or the IFR, for publication in the Federal Register. The rule published in the Federal Register on January 15, 2025 at 90 Fed. Reg. 4544.
+After a 120-day delayed compliance period, the IFR will, unless modified, impose a worldwide licensing requirement on all products classified under Export Control Classification Numbers, or ECCNs, 3A090.a, 4A090.a, or corresponding .z ECCNs, including all related software and technology. Any system that incorporates one or more of the covered integrated circuits, or ICs, (including but not limited to NVIDIA DGX, HGX, and MGX systems) will be covered by the new licensing requirement. The licensing requirement will include future NVIDIA ICs, boards, or systems classified with ECCN 3A090.a or 4A090.a, or corresponding .z ECCNs, achieving certain total processing performance and/or performance density.
+Unless one of the new license exceptions is available to specific transactions, the worldwide licensing requirements will apply to the following NVIDIA products, and any others we develop that meet the characteristics of 3A090.a or 4A090.a, including but not limited to: A100, A800, H100, H200, H800, B100, B200, GB200, L4, L40S, and RTX 6000 Ada.
+The IFR is subject to a notice and public comment period of 120 days from publication, i.e., by May 15, 2025. Unless the IFR is modified, in whole or in part, or withdrawn altogether by the incoming Trump Administration, exporters, reexports, and transferors are required to begin compliance with the IFR’s licensing, reporting, and other requirements on May 15, 2025.
+The Company supports U.S. leadership in innovation by providing cutting-edge solutions, working to make American advancements a global standard, and constantly pursuing rapid progress. The Company supports creating new datacenters in the United States and promotes efforts to develop the necessary infrastructure. The Company also supports the safe and responsible development and deployment of all AI-powered systems and will provide feedback on the IFR during the notice and comment period.
+The “Additional Due Diligence Measures” Rule
+On January 16, 2025, the Bureau of Industry and Security, Department of Commerce, published a rule entitled “Implementation of Additional Due Diligence Measures for Advanced Computing Integrated Circuits.” The rule is intended to reduce the diversion of ICs to unauthorized end uses or end users that meet the control parameters of ECCN 3A090 by end users who misrepresent the performance capabilities of their ICs to the foundries that manufacture them or the companies that assemble the ICs, or OSATs, into packages. The rule requires additional diligence for foundries and OSATs to verify technical parameters, although approved IC designers are considered a reliable source to verify technical parameters of the applicable advanced logic ICs. NVIDIA Corporation is an approved IC designer and thus the rule is not expected to have an impact on our operations or on product sales to China.
+Certain statements in this Current Report on Form 8-K including statements regarding the scope of the licensing requirement under the IFR; NVIDIA’s products that are subject to the IFR; the impact of the IFR on NVIDIA’s future products; the effectiveness and effective date of the IFR; NVIDIA providing feedback on the IFR during the notice and comment period; and the “Implementation of Additional Due Diligence Measures for Advanced Computing Integrated Circuits” rule unexpected to have an impact on NVIDIA’s operations or on product sales to China are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; NVIDIA’s reliance on third parties to manufacture, assemble, package and test NVIDIA’s products; the impact of technological development and competition; development of new products and technologies or enhancements to NVIDIA’s existing product and technologies; market acceptance of NVIDIA’s products or its partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of NVIDIA’s products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+NVIDIA Corporation
+Date: January 17, 2025    By:  /s/ Colette M. Kress
+Colette M. Kress
+Executive Vice President and Chief Financial Officer

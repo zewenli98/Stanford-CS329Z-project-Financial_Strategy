@@ -1,0 +1,883 @@
+ccl-20250228
+false  2025  Q1  0000815097  11/30  0001125259  11/30        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      xbrli:pure    iso4217:EUR    iso4217:GBP    ccl:cruise_ship    ccl:identity    ccl:classAction    ccl:segment    ccl:passenger     0000815097    2024-12-01  2025-02-28      0000815097   ccl:CarnivalPublicLimitedCompanyMember     2024-12-01  2025-02-28      0000815097   us-gaap:CommonStockMember     2024-12-01  2025-02-28      0000815097   ccl:OrdinarySharesMember  ccl:CarnivalPublicLimitedCompanyMember     2024-12-01  2025-02-28      0000815097   ccl:A1000SeniorNotesDue2029Member  ccl:CarnivalPublicLimitedCompanyMember     2024-12-01  2025-02-28      0000815097    2025-03-18      0000815097   ccl:CarnivalPublicLimitedCompanyMember     2025-03-18      0000815097   ccl:CruisePassengerTicketMember     2024-12-01  2025-02-28      0000815097   ccl:CruisePassengerTicketMember     2023-12-01  2024-02-29      0000815097   ccl:CruiseOnboardAndOtherMember     2024-12-01  2025-02-28      0000815097   ccl:CruiseOnboardAndOtherMember     2023-12-01  2024-02-29      0000815097    2023-12-01  2024-02-29      0000815097    2025-02-28      0000815097    2024-11-30      0000815097   us-gaap:CommonStockMember     2025-02-28      0000815097   us-gaap:CommonStockMember     2024-11-30      0000815097   ccl:OrdinarySharesMember  ccl:CarnivalPublicLimitedCompanyMember     2025-02-28      0000815097   ccl:OrdinarySharesMember  ccl:CarnivalPublicLimitedCompanyMember     2024-11-30      0000815097   ccl:OrdinarySharesMember     2025-02-28      0000815097   ccl:OrdinarySharesMember     2024-11-30      0000815097    2023-11-30      0000815097    2024-02-29      0000815097   us-gaap:CommonStockMember     2024-11-30      0000815097   ccl:OrdinarySharesMember     2024-11-30      0000815097   us-gaap:AdditionalPaidInCapitalMember     2024-11-30      0000815097   us-gaap:RetainedEarningsMember     2024-11-30      0000815097   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-11-30      0000815097   us-gaap:TreasuryStockCommonMember     2024-11-30      0000815097   us-gaap:RetainedEarningsMember     2024-12-01  2025-02-28      0000815097   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-01  2025-02-28      0000815097   us-gaap:TreasuryStockCommonMember     2024-12-01  2025-02-28      0000815097   us-gaap:AdditionalPaidInCapitalMember     2024-12-01  2025-02-28      0000815097   us-gaap:CommonStockMember     2025-02-28      0000815097   ccl:OrdinarySharesMember     2025-02-28      0000815097   us-gaap:AdditionalPaidInCapitalMember     2025-02-28      0000815097   us-gaap:RetainedEarningsMember     2025-02-28      0000815097   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-02-28      0000815097   us-gaap:TreasuryStockCommonMember     2025-02-28      0000815097   us-gaap:CommonStockMember     2023-11-30      0000815097   ccl:OrdinarySharesMember     2023-11-30      0000815097   us-gaap:AdditionalPaidInCapitalMember     2023-11-30      0000815097   us-gaap:RetainedEarningsMember     2023-11-30      0000815097   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-11-30      0000815097   us-gaap:TreasuryStockCommonMember     2023-11-30      0000815097   us-gaap:RetainedEarningsMember     2023-12-01  2024-02-29      0000815097   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-12-01  2024-02-29      0000815097   us-gaap:AdditionalPaidInCapitalMember     2023-12-01  2024-02-29      0000815097   us-gaap:TreasuryStockCommonMember     2023-12-01  2024-02-29      0000815097   us-gaap:CommonStockMember     2024-02-29      0000815097   ccl:OrdinarySharesMember     2024-02-29      0000815097   us-gaap:AdditionalPaidInCapitalMember     2024-02-29      0000815097   us-gaap:RetainedEarningsMember     2024-02-29      0000815097   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-02-29      0000815097   us-gaap:TreasuryStockCommonMember     2024-02-29      0000815097    2023-12-01  2024-11-30      0000815097   ccl:NotesPayableDueJune2027Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueJune2027Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2024-11-30      0000815097   ccl:NotesPayableDueAugust2028Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueAugust2028Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2024-11-30      0000815097   ccl:NotesPayableDueAugust2029Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueAugust2029Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2024-11-30      0000815097   ccl:FloatingRateBankLoanDueOctober2028Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember  us-gaap:SecuredOvernightFinancingRateSofrMember     2024-12-01  2025-02-28      0000815097   ccl:FloatingRateBankLoanDueOctober2028Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2025-02-28      0000815097   ccl:FloatingRateBankLoanDueOctober2028Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2024-11-30      0000815097   srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2025-02-28      0000815097   srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2024-11-30      0000815097   ccl:NotesPayableDueMay2028Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueMay2028Member  srt:GuarantorSubsidiariesMember  us-gaap:SecuredDebtMember     2024-11-30      0000815097   ccl:NotesPayableDueMarch2026Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueMarch2026Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:NotesPayableDueMarch2027Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueMarch2027Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:ConvertibleNotesPayableDueDecember2027Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:ConvertibleNotesPayableDueDecember2027Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:NotesPayableDueMay2029Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueMay2029Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:EuroDenominatedNotesPayableDueJanuary2030Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:EuroDenominatedNotesPayableDueJanuary2030Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:NotesPayableDueMarch2030Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueMarch2030Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:NotesPayableDueJune2030Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueJune2030Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:NotesPayableDueFebruary2033Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueFebruary2033Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:EuroDenominatedFloatingRateBankLoanDueMarch2026Member  us-gaap:UnsecuredDebtMember  us-gaap:EurodollarMember  srt:MaximumMember  srt:GuarantorSubsidiariesMember     2024-12-01  2025-02-28      0000815097   ccl:EuroDenominatedFloatingRateBankLoanDueMarch2026Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:EuroDenominatedFloatingRateBankLoanDueMarch2026Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:LineOfCreditFloatingRateDueDecember2031Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember  us-gaap:SecuredOvernightFinancingRateSofrMember     2024-12-01  2025-02-28      0000815097   ccl:LineOfCreditFloatingRateDueDecember2031Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:LineOfCreditFloatingRateDueDecember2031Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:LineOfCreditFixedRateDueDecember2032Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember  srt:MinimumMember     2025-02-28      0000815097   ccl:LineOfCreditFixedRateDueDecember2032Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember  srt:MaximumMember     2025-02-28      0000815097   ccl:LineOfCreditFixedRateDueDecember2032Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:LineOfCreditFixedRateDueDecember2032Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:LineOfCreditEuroDenominatedFloatingRateDueNovember2034Member  us-gaap:UnsecuredDebtMember  us-gaap:EurodollarMember  srt:MinimumMember  srt:GuarantorSubsidiariesMember     2024-12-01  2025-02-28      0000815097   ccl:LineOfCreditEuroDenominatedFloatingRateDueNovember2034Member  us-gaap:UnsecuredDebtMember  us-gaap:EurodollarMember  srt:MaximumMember  srt:GuarantorSubsidiariesMember     2024-12-01  2025-02-28      0000815097   ccl:LineOfCreditEuroDenominatedFloatingRateDueNovember2034Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:LineOfCreditEuroDenominatedFloatingRateDueNovember2034Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:LineOfCreditEuroDenominatedFixedRateDueSep2037Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember  srt:MinimumMember     2025-02-28      0000815097   ccl:LineOfCreditEuroDenominatedFixedRateDueSep2037Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember  srt:MaximumMember     2025-02-28      0000815097   ccl:LineOfCreditEuroDenominatedFixedRateDueSep2037Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:LineOfCreditEuroDenominatedFixedRateDueSep2037Member  srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   srt:GuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:NotesPayableDueJanuary2028Member  srt:NonGuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:NotesPayableDueJanuary2028Member  srt:NonGuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   ccl:EuroDenominatedNotesPayableDueOctober2029Member  srt:NonGuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:EuroDenominatedNotesPayableDueOctober2029Member  srt:NonGuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   srt:NonGuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   srt:NonGuarantorSubsidiariesMember  us-gaap:UnsecuredDebtMember     2024-11-30      0000815097   srt:MinimumMember  us-gaap:SecuredOvernightFinancingRateSofrMember     2024-12-01  2025-02-28      0000815097   srt:MaximumMember  us-gaap:SecuredOvernightFinancingRateSofrMember     2024-12-01  2025-02-28      0000815097   ccl:SeniorSecuredTermLoanMember  srt:MinimumMember     2024-12-01  2025-02-28      0000815097   ccl:SeniorSecuredTermLoanMember  srt:MaximumMember     2024-12-01  2025-02-28      0000815097   ccl:CarnivalHoldingsBermudaIILimitedMember  ccl:RevolvingFacilityMember     2025-02-28      0000815097   ccl:CarnivalHoldingsBermudaIILimitedMember  ccl:MultiCurrencyRevolvingFacilityMember     2025-02-28      0000815097   ccl:ExportCreditFacilityMember  ccl:SunPrincessLimitedMember  us-gaap:LineOfCreditMember     2025-02-28      0000815097   ccl:ExportCreditFacilityMember  ccl:SunPrincessIILimitedMember  us-gaap:LineOfCreditMember     2025-02-28      0000815097   ccl:RevolvingFacilityMember     2025-02-28      0000815097   ccl:A2027SecuredTermLoanFacilityMember  us-gaap:LineOfCreditMember  srt:MinimumMember     2025-01-01  2025-01-31      0000815097   ccl:A2027SecuredTermLoanFacilityMember  us-gaap:LineOfCreditMember  srt:MaximumMember     2025-01-01  2025-01-31      0000815097   ccl:SeniorUnsecuredNotesDue2030Member  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:SeniorUnsecuredNotesDue2033Member  us-gaap:UnsecuredDebtMember     2025-02-28      0000815097   ccl:ExportCreditFacilityDue2035Member  us-gaap:LineOfCreditMember     2025-02-28      0000815097   ccl:RevolvingFacilityNotesDue2028Member  ccl:CarnivalBermudaHoldingsLimitedMember     2025-02-28      0000815097   ccl:SeniorPriorityNotesDue2028Member  ccl:CarnivalBermudaHoldingsLimitedMember     2024-12-01  2025-02-28      0000815097   ccl:DebtInstrumentDebtCovenantPeriodOneMember  ccl:NewRevolvingFacilityMember     2024-12-01  2025-02-28      0000815097   ccl:DebtInstrumentDebtCovenantPeriodTwoMember  ccl:NewRevolvingFacilityMember     2024-12-01  2025-02-28      0000815097   ccl:DebtInstrumentDebtCovenantPeriodThreeMember  ccl:NewRevolvingFacilityMember     2024-12-01  2025-02-28      0000815097   ccl:DebtInstrumentDebtCovenantPeriodFourMember     2024-12-01  2025-02-28      0000815097    2022-12-30      0000815097    2022-12-30  2022-12-30      0000815097   ccl:FixedRateMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel1Member  ccl:FixedRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel2Member  ccl:FixedRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel3Member  ccl:FixedRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-02-28      0000815097   ccl:FixedRateMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel1Member  ccl:FixedRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel2Member  ccl:FixedRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel3Member  ccl:FixedRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-11-30      0000815097   ccl:FloatingRateMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel1Member  ccl:FloatingRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel2Member  ccl:FloatingRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel3Member  ccl:FloatingRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-02-28      0000815097   ccl:FloatingRateMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel1Member  ccl:FloatingRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel2Member  ccl:FloatingRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel3Member  ccl:FloatingRateMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel1Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel2Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel3Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-02-28      0000815097   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel1Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel2Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel3Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel1Member  us-gaap:FairValueMeasurementsRecurringMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsRecurringMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsRecurringMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel1Member  us-gaap:FairValueMeasurementsRecurringMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsRecurringMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsRecurringMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel1Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsAssetsMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsAssetsMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsAssetsMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel1Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsAssetsMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsAssetsMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsAssetsMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel1Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember     2025-02-28      0000815097   us-gaap:FairValueInputsLevel1Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember     2024-11-30      0000815097   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:DerivativeFinancialInstrumentsLiabilitiesMember     2024-11-30      0000815097   ccl:NorthAmericanSegmentMember     2025-02-28      0000815097   ccl:NorthAmericanSegmentMember     2024-11-30      0000815097   ccl:EuropeSegmentMember     2024-11-30      0000815097   ccl:NorthAmericanSegmentMember     2024-12-01  2025-02-28      0000815097   ccl:EuropeSegmentMember     2024-12-01  2025-02-28      0000815097   ccl:EuropeSegmentMember     2025-02-28      0000815097   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember     2025-02-28      0000815097   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember     2024-11-30      0000815097   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:OtherNoncurrentLiabilitiesMember     2025-02-28      0000815097   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:OtherNoncurrentLiabilitiesMember     2024-11-30      0000815097   us-gaap:CashFlowHedgingMember  us-gaap:InterestRateSwapMember     2025-02-28      0000815097   us-gaap:CashFlowHedgingMember  us-gaap:InterestRateSwapMember     2024-11-30      0000815097   us-gaap:CashFlowHedgingMember  us-gaap:InterestRateSwapMember     2024-12-01  2025-02-28      0000815097   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-12-01  2025-02-28      0000815097   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember     2023-12-01  2024-02-29      0000815097   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-12-01  2025-02-28      0000815097   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2023-12-01  2024-02-29      0000815097   ccl:CruiseMember     2024-12-01  2025-02-28      0000815097   ccl:TourAndOtherMember     2024-12-01  2025-02-28      0000815097   ccl:NorthAmericanSegmentMember     2023-12-01  2024-02-29      0000815097   ccl:EuropeSegmentMember     2023-12-01  2024-02-29      0000815097   ccl:CruiseMember     2023-12-01  2024-02-29      0000815097   ccl:TourAndOtherMember     2023-12-01  2024-02-29      0000815097   srt:NorthAmericaMember     2024-12-01  2025-02-28      0000815097   srt:NorthAmericaMember     2023-12-01  2024-02-29      0000815097   srt:EuropeMember     2024-12-01  2025-02-28      0000815097   srt:EuropeMember     2023-12-01  2024-02-29      0000815097   country:AU     2024-12-01  2025-02-28      0000815097   country:AU     2023-12-01  2024-02-29      0000815097   ccl:AllOtherGeographicAreasMember     2024-12-01  2025-02-28      0000815097   ccl:AllOtherGeographicAreasMember     2023-12-01  2024-02-29      0000815097   us-gaap:StockCompensationPlanMember     2024-12-01  2025-02-28      0000815097   us-gaap:StockCompensationPlanMember     2023-12-01  2024-02-29      0000815097   us-gaap:ConvertibleDebtSecuritiesMember     2024-12-01  2025-02-28      0000815097   us-gaap:ConvertibleDebtSecuritiesMember     2023-12-01  2024-02-29      0000815097   us-gaap:SubsequentEventMember  ccl:NorthAmericanSegmentMember     2025-03-01  2025-03-31      0000815097   us-gaap:SubsequentEventMember     2025-03-01  2025-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+(Mark One)
+☑     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  February 28, 2025
+OR
+☐     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                  to
+Commission file number:  001-9610
+Commission file number:  001-15136
+Carnival Corporation
+Carnival plc
+(Exact name of registrant as
+specified in its charter)    (Exact name of registrant as
+specified in its charter)
+Republic of  Panama
+England and Wales
+(State or other jurisdiction of
+incorporation or organization)    (State or other jurisdiction of
+incorporation or organization)
+59-1562976      98-0357772
+(I.R.S. Employer Identification No.)    (I.R.S. Employer Identification No.)
+3655 N.W. 87th Avenue      Carnival House, 100 Harbour Parade
+Miami,      Florida      33178-2428      Southampton      SO15 1ST      United Kingdom
+(Address of principal
+executive offices)
+(Zip Code)    (Address of principal
+executive offices)
+(Zip Code)
+(305)      599-2600       011      44 23 8065 5000
+(Registrant’s telephone number,
+including area code)     (Registrant’s telephone number,
+including area code)
+None     None
+(Former name, former address
+and former fiscal year, if
+changed since last report)     (Former name, former address
+and former fiscal year, if
+changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol(s)    Name of each exchange on which registered
+Common Stock ($0.01 par value)      CCL
+New York Stock Exchange , Inc.
+Ordinary Shares each represented by American Depositary Shares ($1.66 par value) , Special Voting Share, GBP 1.00 par value and Trust Shares of beneficial interest in the P&O Princess Special Voting Trust
+CUK
+New York Stock Exchange , Inc.
+1.000% Senior Notes due 2029      CUK29      New York Stock Exchange LLC
+Indicate by check mark whether the registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days.   Yes   ☑  No  ☐
+Indicate by check mark whether the registrants have submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrants were required to submit such files).   Yes   ☑  No  ☐
+Indicate by check mark whether the registrants are large accelerated filers, accelerated filers, non-accelerated filers, smaller reporting companies, or emerging growth companies. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer  s
+☑    Accelerated filers
+☐
+Non-accelerated filers
+☐
+Smaller reporting companies
+☐
+Emerging growth companies
+☐
+1
+If emerging growth companies, indicate by check mark if the registrants have elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrants are shell companies (as defined in Rule 12b-2 of the Exchange Act).  Yes    ☐    No  ☑
+At March 18, 2025, Carnival Corporation had outstanding  1,166,606,981  shares of Common Stock, $0.01 par value.
+At March 18, 2025, Carnival plc had outstanding  188,255,646  Ordinary Shares $1.66 par value, one Special Voting Share, GBP 1.00 par value and  1,166,606,981  Trust Shares of beneficial interest in the P&O Princess Special Voting Trust.
+2
+Table of Content
+CARNIVAL CORPORATION & PLC
+TABLE OF CONTENTS
+Page
+PART I - FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+4
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+20
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+26
+Item 4.
+Controls and Procedures
+26
+PART II - OTHER INFORMATION
+Item 1.
+Legal Proceedings
+27
+Item 1A.
+Risk Factors
+27
+Item 5.
+Other Information
+27
+Item 6.
+Exhibits
+28
+SIGNATURES
+30
+3
+Table of Content
+PART I - FINANCIAL INFORMATION
+Item 1.   Financial Statements  .
+CARNIVAL CORPORATION & PLC
+CONSOLIDATED STATEMENTS OF INCOME (LOSS)
+(UNAUDITED)
+(in millions, except per share data)
+Three Months Ended February 28/29,
+2025     2024
+Revenues
+Passenger ticket    $     3,832        $     3,617
+Onboard and other     1,978         1,790
+5,810         5,406
+Operating Expenses
+Commissions, transportation and other     850         819
+Onboard and other     599         550
+Payroll and related     640         623
+Fuel     465         505
+Food     354         346
+Other operating     858         862
+Cruise and tour operating expenses     3,766         3,705
+Selling and administrative     848         813
+Depreciation and amortization     654         613
+5,268         5,131
+Operating Income     543         276
+Nonoperating Income (Expense)
+Interest income     7         33
+Interest expense, net of capitalized interest    ( 377 )      ( 471 )
+Debt extinguishment and modification costs    ( 252 )      ( 33 )
+Other income (expense), net     8        ( 18 )
+( 614 )      ( 489 )
+Income (Loss) Before Income Taxes    ( 71 )      ( 214 )
+Income Tax Benefit (Expense), Net    ( 7 )       —
+Net Income (Loss)    $    ( 78 )      $    ( 214 )
+Earnings Per Share
+Basic    $    ( 0.06 )      $    ( 0.17 )
+Diluted    $    ( 0.06 )      $    ( 0.17 )
+The accompanying notes are an integral part of these consolidated financial statements.
+4
+Table of Content
+CARNIVAL CORPORATION & PLC
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(UNAUDITED)
+(in millions)
+Three Months Ended February 28/29,
+2025     2024
+Net Income (Loss)    $    ( 78 )      $    ( 214 )
+Items Included in Other Comprehensive Income (Loss)
+Change in foreign currency translation adjustment    ( 12 )       —
+Other     1         1
+Other Comprehensive Income (Loss)    ( 12 )       1
+Total Comprehensive Income (Loss)    $    ( 90 )      $    ( 213 )
+The accompanying notes are an integral part of these consolidated financial statements.
+5
+Table of Content
+CARNIVAL CORPORATION & PLC
+CONSOLIDATED BALANCE SHEETS
+(UNAUDITED)
+(in millions, except par values)
+February 28,
+2025     November 30, 2024
+ASSETS
+Current Assets
+Cash and cash equivalents    $     833        $     1,210
+Trade and other receivables, net     543         590
+Inventories     518         507
+Prepaid expenses and other     1,083         1,070
+Total current assets     2,977         3,378
+Property and Equipment, Net     41,654         41,795
+Operating Lease Right-of-Use Assets, Net      1,341         1,368
+Goodwill     579         579
+Other Intangibles     1,162         1,163
+Other Assets     822         775
+$     48,535        $     49,057
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+Current Liabilities
+Current portion of long-term debt    $     1,531        $     1,538
+Current portion of operating lease liabilities      164         163
+Accounts payable     1,091         1,133
+Accrued liabilities and other     1,939         2,358
+Customer deposits     6,853         6,425
+Total current liabilities     11,578         11,617
+Long-Term Debt     25,487         25,936
+Long-Term Operating Lease Liabilities
+1,209         1,239
+Other Long-Term Liabilities     1,078         1,012
+Contingencies and Commitments
+Shareholders’ Equity
+Carnival Corporation common stock, $  0.01   par value;   1,960   shares authorized;  1,297  shares issued at 2025 and  1,294  shares issued at 2024
+13         13
+Carnival plc ordinary shares, $  1.66   par value;   217   shares issued at 2025 and 2024
+361         361
+Additional paid-in capital     17,180         17,155
+Retained earnings     1,991         2,101
+Accumulated other comprehensive income (loss) (“AOCI”)    ( 1,986 )      ( 1,975 )
+Treasury stock,  131  shares at 2025 and  130  shares at 2024 of Carnival Corporation and  72  shares at 2025 and  73  shares at 2024 of Carnival plc, at cost
+( 8,376 )      ( 8,404 )
+Total shareholders’ equity     9,182         9,251
+$     48,535        $     49,057
+The accompanying notes are an integral part of these consolidated financial statements.
+6
+Table of Content
+CARNIVAL CORPORATION & PLC
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(UNAUDITED)
+(in millions)
+Three Months Ended February 28/29,
+2025     2024
+OPERATING ACTIVITIES
+Net income (loss)    $    ( 78 )      $    ( 214 )
+Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities
+Depreciation and amortization     654         613
+(Gain) loss on debt extinguishment     249         33
+(Income) loss from equity-method investments     2         3
+Share-based compensation     18         11
+Amortization of discounts and debt issue costs     30         36
+Non-cash lease expense     37         34
+Greenhouse gas regulatory expense     6         3
+Other     26         13
+944         531
+Changes in operating assets and liabilities
+Receivables     33        ( 106 )
+Inventories    ( 17 )      ( 7 )
+Prepaid expenses and other assets    ( 64 )       634
+Accounts payable    ( 31 )      ( 11 )
+Accrued liabilities and other    ( 443 )       108
+Customer deposits     503         619
+Net cash provided by (used in) operating activities     925         1,768
+INVESTING ACTIVITIES
+Purchases of property and equipment    ( 607 )      ( 2,138 )
+Proceeds from sales of ships and other     11         —
+Other    ( 9 )      ( 25 )
+Net cash provided by (used in) investing activities    ( 605 )      ( 2,163 )
+FINANCING ACTIVITIES
+Principal repayments of long-term debt    ( 3,448 )      ( 1,390 )
+Debt issuance costs    ( 24 )      ( 77 )
+Debt extinguishment costs    ( 197 )      ( 31 )
+Proceeds from issuance of long-term debt     2,980         1,735
+Other    ( 1 )       —
+Net cash provided by (used in) financing activities    ( 690 )       237
+Effect of exchange rate changes on cash, cash equivalents and restricted cash    ( 6 )      ( 3 )
+Net increase (decrease) in cash, cash equivalents and restricted cash    ( 376 )      ( 162 )
+Cash, cash equivalents and restricted cash at beginning of period     1,231         2,436
+Cash, cash equivalents and restricted cash at end of period    $     856        $     2,274
+The accompanying notes are an integral part of these consolidated financial statements.
+7
+Table of Content
+CARNIVAL CORPORATION & PLC
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+(UNAUDITED)
+(in millions)
+Three Months Ended
+Common
+stock     Ordinary
+shares     Additional
+paid-in
+capital     Retained
+earnings
+(accumulated deficit)     AOCI     Treasury
+stock     Total shareholders’ equity
+At November 30, 2024    $     13        $     361        $     17,155        $     2,101        $    ( 1,975 )      $    ( 8,404 )      $     9,251
+Net income (loss)    —       —       —       ( 78 )      —       —       ( 78 )
+Other comprehensive income (loss)    —       —       —       —       ( 12 )      —       ( 12 )
+Issuance of treasury shares for vested share-based awards    —       —       —       ( 31 )      —        31         —
+Share-based compensation and other    —       —        24        —       —       ( 4 )       21
+At February 28, 2025    $     13        $     361        $     17,180        $     1,991        $    ( 1,986 )      $    ( 8,376 )      $     9,182
+At November 30, 2023    $     12        $     361        $     16,712        $     185        $    ( 1,939 )      $    ( 8,449 )      $     6,882
+Net income (loss)    —       —       —       ( 214 )      —       —       ( 214 )
+Other comprehensive income (loss)    —       —       —       —        1        —        1
+Issuance of treasury shares for vested share-based awards    —       —       ( 47 )      —       —        47         —
+Share-based compensation and other    —       —        14        —       —       ( 2 )       13
+At February 29, 2024    $     13        $     361        $     16,679        $    ( 29 )      $    ( 1,938 )      $    ( 8,404 )      $     6,682
+The accompanying notes are an integral part of these consolidated financial statements.
+8
+Table of Content
+CARNIVAL CORPORATION & PLC
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+NOTE 1 –  General
+The consolidated financial statements include the accounts of Carnival Corporation and Carnival plc and their respective subsidiaries. Together with their consolidated subsidiaries, they are referred to collectively in these consolidated financial statements and elsewhere in this joint Quarterly Report on Form 10-Q as “Carnival Corporation & plc,” “our,” “us” and “we.”
+Basis of Presentation
+The consolidated financial statements are unaudited and, in the opinion of our management, contain all adjustments, consisting of only normal recurring adjustments, necessary for a fair statement. Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) have been condensed or omitted as permitted by such Securities and Exchange Commission rules and regulations. The preparation of our interim consolidated financial statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the amounts reported and disclosed. We have made reasonable estimates and judgments of such items within our financial statements and there may be changes to those estimates in future periods. Our operations are seasonal and results for interim periods are not necessarily indicative of the results for the entire year.
+Our interim consolidated financial statements should be read in conjunction with the audited consolidated financial statements and the related notes included in the Carnival Corporation & plc 2024 joint Annual Report on Form 10-K (“Form 10-K”) filed with the U.S. Securities and Exchange Commission (“SEC”) on January 27, 2025.
+For 2024, we reclassified $ 3  million from other to greenhouse gas regulatory expense in the     Consolidated Statements of Cash Flows to conform to the current year presentation.
+Accounting Pronouncements
+In November 2023, the FASB issued guidance,   Segment Reporting - Improvements to Reportable Segment Disclosures  . This guidance requires annual and interim disclosure of significant segment expenses that are provided to the chief operating decision maker (“CODM”) as well as interim disclosures for all reportable segments’ profit or loss and assets. This guidance also requires disclosure of the title and position of the CODM and an explanation of how the CODM uses the reported measures of segment profit or loss in assessing segment performance and deciding how to allocate resources. This guidance is effective for us for annual periods beginning in 2025 and interim periods beginning in 2026. While this guidance will not have an effect on our   Consolidated Statements of Income (Loss) or Consolidated Balance Sheets  , it will affect certain segment reporting disclosures.
+In December 2023, the FASB issued guidance,   Income Taxes - Improvements to Income Tax Disclosures  . This guidance requires disaggregation of rate reconciliation categories and income taxes paid by jurisdiction, as well as other amendments relating to income tax disclosures. This guidance is required to be adopted by us in 2026. We are currently evaluating the impact this guidance will have on our consolidated financial statements.
+In November 2024, the FASB issued guidance,   Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures - Disaggregation of Income Statement Expenses  . This guidance requires annual and interim disclosure of disaggregated information for certain costs and expenses. This guidance is required to be adopted by us in 2028. We are currently evaluating the impact this guidance will have on our consolidated financial statements.
+In November 2024, the FASB issued guidance,   Debt - Debt with Conversion and Other Options - Induced Conversions of Convertible Debt Instruments  . This guidance clarifies the requirements for determining whether certain settlements of convertible debt instruments should be accounted for as induced conversions or extinguishments. This guidance is required to be adopted by us in 2027. We are currently evaluating the impact this guidance will have on our consolidated financial statements.
+NOTE 2 –  Revenue and Expense Recognition
+Guest cruise deposits and advance onboard purchases are initially included in customer deposits when received. Customer deposits are subsequently recognized as cruise revenues, together with revenues from onboard and other activities, and all
+9
+Table of Content
+associated direct expenses of a voyage are recognized as cruise expenses, upon completion of voyages with durations of ten nights or less and on a pro rata basis for voyages in excess of ten nights. The impact of recognizing these shorter duration cruise revenues and expenses on a completed voyage basis versus on a pro rata basis is not material. Certain of our product offerings are bundled and we allocate the value of the bundled services and goods between passenger ticket revenues and onboard and other revenues based upon the estimated standalone selling prices of those goods and services. Future travel discount vouchers are included as a reduction of cruise passenger ticket revenues when such vouchers are utilized. Guest cancellation fees, when applicable, are recognized in passenger ticket revenues at the time of cancellation.
+Our sales to guests of air and other transportation to and from airports near the home ports of our ships are included in passenger ticket revenues, and the related expenses of these services are included in prepaid expenses and other when paid prior to the start of a voyage and are subsequently recognized in transportation expenses at the time of revenue recognition. The cost of prepaid air and other transportation expenses at February 28, 2025 and November 30, 2024 were $ 241  million and $ 219  million. The proceeds that we collect from the sales of third-party shore excursions are included in onboard and other revenues and the related expenses are included in onboard and other expenses. The amounts collected on behalf of our onboard concessionaires, net of the amounts remitted to them, are included in onboard and other revenues as concession revenues. All of these amounts are recognized on a completed voyage or pro rata basis as discussed above.
+Fees, taxes and charges that vary with guest head counts are expensed in commissions, transportation and other expenses when the corresponding revenues are recognized. The remaining portion of fees, taxes and charges are expensed in other operating expenses when the corresponding revenues are recognized.
+Revenues and expenses from our hotel and transportation operations, which are included in our Tour and Other segment, are recognized at the time the services are performed.
+Customer Deposits
+Our payment terms generally require an initial deposit to confirm a reservation, with the balance due prior to the voyage. Cash received from guests in advance of the cruise is recorded in customer deposits and in other long-term liabilities on our Consolidated Balance Sheets. These amounts include refundable deposits. We had total customer deposits of $ 7.3  billion as of February 28, 2025 and $ 6.8  billion as of November 30, 2024. During the three months ended February 28/29, 2025 and 2024, we recognized revenues of   $ 3.8  billion   and $ 3.5  billion related to our customer deposits as of November 30, 2024 and 2023. Our customer deposits balance changes due to the seasonal nature of cash collections, which typically results from higher ticket prices and occupancy levels during the third quarter, the recognition of revenue, refunds of customer deposits and foreign currency changes.
+Trade and Other Receivables
+Although we generally require full payment from our customers prior to or concurrently with their cruise, we grant credit terms to a relatively small portion of our revenue source. We have receivables from credit card merchants and travel agents for cruise ticket purchases and onboard revenue. These receivables are included within trade and other receivables, net and are less allowances for expected credit losses.
+Contract Costs
+We recognize incremental travel agent commissions and credit and debit card fees incurred as a result of obtaining the ticket contract as assets when paid prior to the start of a voyage. We record these amounts within prepaid expenses and other and subsequently recognize these amounts as commissions, transportation and other at the time of revenue recognition or at the time of voyage cancellation. We had incremental costs of obtaining contracts with customers recognized as assets of $ 354  million as of February 28, 2025 and $ 336  million as of   November 30, 2024  .
+10
+Table of Content
+NOTE 3 –  Debt
+February 28,     November 30,
+(in millions)    Maturity     Rate (a)     2025     2024
+Secured Subsidiary Guaranteed
+Notes
+Notes    Jun 2027      7.9 %     $     192        $     192
+Notes    Aug 2028      4.0 %      2,406         2,406
+Notes    Aug 2029      7.0 %      500         500
+Loans
+Floating rate    Aug 2027 - Oct 2028
+SOFR +  2.0 % (b)
+2,449         2,449
+Total Secured Subsidiary Guaranteed        5,547         5,547
+Senior Priority Subsidiary Guaranteed
+Notes (c)    May 2028      10.4 %      —         2,030
+Unsecured Subsidiary Guaranteed
+Notes
+Notes    Mar 2026      7.6 %      1,351         1,351
+Notes    Mar 2027      5.8 %      2,722         2,722
+Convertible Notes    Dec 2027      5.8 %      1,131         1,131
+Notes    May 2029      6.0 %      2,000         2,000
+EUR Notes    Jan 2030      5.8 %      524         528
+Notes    Mar 2030      5.8 %      1,000         —
+Notes (d)    Jun 2030      10.5 %      —         1,000
+Notes    Feb 2033      6.1 %      2,000         —
+Loans
+EUR floating rate    Apr 2025
+EURIBOR +  3.3 %
+210         211
+Export Credit Facilities
+Floating rate    Dec 2031
+SOFR +  1.2 % (e)
+480         514
+Fixed rate    Aug 2027 - Dec 2032
+2.4  -  3.4 %
+2,290         2,370
+EUR floating rate    Mar 2025 - Nov 2034
+EURIBOR +  0.2  -  0.8 %
+2,488         2,590
+EUR fixed rate    Feb 2031 - Sep 2037
+1.1  -  4.0 %
+5,139         5,386
+Total Unsecured Subsidiary Guaranteed        21,336         19,803
+Unsecured Notes (No Subsidiary Guarantee)
+Notes    Jan 2028      6.7 %      200         200
+EUR Notes    Oct 2029      1.0 %      629         633
+Total Unsecured Notes (No Subsidiary Guarantee)        829         833
+Total Debt         27,711         28,213
+Less: unamortized debt issuance costs and discounts        ( 693 )      ( 738 )
+Total Debt, net of unamortized debt issuance costs and discounts         27,018         27,475
+Less: current portion of long-term debt        ( 1,531 )      ( 1,538 )
+Long-Term Debt        $     25,487        $     25,936
+(a)  The reference rates, together with any applicable credit adjustment spread, for all of our variable debt have  0.0 % to  0.8 % floors.
+(b)  As part of the repricing of our senior secured term loans, we amended the loans’ margin from  2.8 % to  2.0 %. Se  e “Repricing of Senior Secured Term Loans” below.
+(c)  See “2033 Senior Unsecured Notes” below.
+(d)  See “  2030 Senior Unsecured Notes  ” below.
+(e)  Includes applicable credit adjustment spread.
+11
+Table of Content
+Carnival Corporation and/or Carnival plc is the primary obligor of all our outstanding debt excluding the following:
+•  $ 2.9  billion under an undrawn $ 1.9  billion, € 0.9  billion and £ 0.1  billion multi-currency revolving credit facility (“Revolving Facility”) of Carnival Holdings (Bermuda) II Limited (“Carnival Holdings II”), a subsidiary of Carnival Corporation
+•  $ 0.8  billion under an export credit facility of Sun Princess Limited, a subsidiary of Carnival Corporation
+•  $ 0.2  billion under an export credit facility of Sun Princess II Limited, a subsidiary of Carnival Corporation
+All of our outstanding debt is issued or guaranteed by substantially the same entities with the exception of the following:
+•  The Revolving Facility of Carnival Holdings II, which does not guarantee our other outstanding debt
+•  The export credit facilities of Sun Princess Limited and Sun Princess II Limited, which do not guarantee our other outstanding debt
+As of February 28, 2025, the scheduled maturities of our debt are as follows:
+(in millions)
+Year     Principal Payments
+Remainder of 2025
+$     1,122
+2026
+2,677
+2027
+4,889
+2028
+6,691
+2029
+4,318
+Thereafter      8,015
+Total     $     27,711
+Revolving Facility
+As of February 28, 2025, Carnival Holdings II had $ 2.9  billion available for borrowing under the Revolving Facility. Carnival Holdings II may continue to borrow or otherwise utilize available amounts under the Revolving Facility through August 2027, subject to the satisfaction of the conditions in the facility.
+Repricing of Senior Secured Term Loans
+In January 2025, we entered into amendments with the lender syndicate to reprice the outstanding principal amounts of our first-priority senior secured term loan facility maturing in 2027 and our first-priority senior secured term loan facility maturing in 2028 (“Repriced Loans”), which are included within the total Secured Subsidiary Guaranteed Loans balance in the debt table above. The Repriced Loans bear interest at a rate per annum equal to SOFR with a  0.8 % floor, plus a margin equal to  2.0 %.
+2030 Senior Unsecured Notes
+In February 2025, we issued $ 1.0  billion aggregate principal amount of  5.8 % senior unsecured notes due 2030. We used the net proceeds from the issuance, together with cash on hand, to redeem the outstanding principal amount of the  10.5 % senior unsecured notes due 2030.
+2033 Senior Unsecured Notes
+In February 2025, we issued $ 2.0  billion aggregate principal amount of  6.1 % senior unsecured notes due 2033. We used the net proceeds from the issuance, together with cash on hand, to redeem the outstanding principal amount of the  10.4 % senior priority notes due 2028.
+Debt Extinguishment and Modification Costs
+During the three months ended February 28, 2025, we recognized a total of $ 252  million of debt extinguishment and modification costs, including $ 197  million of premium paid on redemption, within our Consolidated Statements of Income (Loss) as a result of the above transactions.
+12
+Table of Content
+Export Credit Facility Borrowings
+Our export credit facilities are due in semi-annual installments through 2037. As of February 28, 2025, we had   $ 7.8  billion of undrawn export credit facilities to fund ship deliveries planned through 2033.   As of February 28, 2025, the net book value of our ships subject to negative pledges pursuant to export credit facilities was $ 18.5  billion.
+Collateral and Priority Pool
+As of February 28, 2025, the net book value of our ships and ship improvements, excluding ships under construction, is $ 39.0  billion. Our secured debt is secured on a first-priority basis by certain collateral, which includes ships and certain assets related to those ships and material intellectual property (combined net book value of approximately $ 22.1  billion, including $ 20.5  billion related to ships and certain assets related to those ships) as of February 28, 2025 and certain other assets.
+As of February 28, 2025, $ 2.8  billion in net book value of our ship and ship improvements relate to the priority pool ships included in the priority pool of  three  unencumbered ships (the “Revolving Facility Subject Ships”) for our Revolving Facility. As of February 28, 2025, there was  no  change in the identity of the Revolving Facility Subject Ships.
+Covenant Compliance
+As of February 28, 2025, our Revolving Facility, unsecured loans and export credit facilities contain certain covenants listed below:
+•  Maintain minimum interest coverage (adjusted EBITDA to consolidated net interest charges, as defined in the agreements) at a ratio of not less than  2.0  to 1.0 for each testing date until May 31, 2025, at a ratio of not less than  2.5  to 1.0 for the August 31, 2025 and November 30, 2025 testing dates, and at a ratio of not less than  3.0  to 1.0 for the February 28, 2026 testing date onwards and as applicable through their respective maturity dates
+•  For certain of our unsecured loans and export credit facilities, maintain minimum issued capital and consolidated reserves (as defined in the agreements) of $ 5.0  billion
+•  Limit our debt to capital (as defined in the agreements) percentage to a percentage not to exceed  65 %
+•  Maintain minimum liquidity of $ 1.5  billion
+•  Adhere to certain restrictive covenants through August 2027 (subject to such covenants terminating if we reach an investment grade credit rating in accordance with the agreement governing the Revolving Facility)
+•  Limit the amounts of our secured assets as well as secured and other indebtedness
+At   February 28, 2025  , we were in compliance with the applicable covenants under our debt agreements.   Generally, if an event of default under any debt agreement occurs, then, pursuant to cross-default and/or cross-acceleration clauses therein, substantially all of our outstanding debt and derivative contract payables could become due, and our debt and derivative contracts could be terminated. Any financial covenant amendment may lead to increased costs, increased interest rates, additional restrictive covenants and other available lender     protections that would be applicable.
+NOTE 4 –  Contingencies and Commitments
+Litigation
+We are routinely involved in legal proceedings, claims, disputes, regulatory matters and governmental inspections or investigations arising in the ordinary course of or incidental to our business. We have insurance coverage for certain of these claims and actions, or any settlement of these claims and actions, and historically the maximum amount of our liability, net of any insurance recoverables, has been limited to our self-insurance retention levels.
+We record provisions in the consolidated financial statements for pending litigation when we determine that an unfavorable outcome is probable and the amount of the loss can be reasonably estimated.
+Legal proceedings and government investigations are subject to inherent uncertainties, and unfavorable rulings or other events could occur. Unfavorable resolutions could involve substantial monetary damages. In addition, in matters for which conduct remedies are sought, unfavorable resolutions could include an injunction or other order prohibiting us from selling one or more products at all or in particular ways, precluding particular business practices or requiring other remedies. An unfavorable outcome might result in a material adverse impact on our business, results of operations, financial position or liquidity.
+13
+Table of Content
+As previously disclosed, on May 2, 2019, the Havana Docks Corporation filed a lawsuit against Carnival Corporation in the U.S. District Court for the Southern District of Florida under Title III of the Cuban Liberty and Democratic Solidarity Act, also known as the Helms-Burton Act, alleging that Carnival Corporation “trafficked” in confiscated Cuban property when certain ships docked at certain ports in Cuba, and that this alleged “trafficking” entitles the plaintiffs to treble damages. On March 21, 2022, the court granted summary judgment in favor of Havana Docks Corporation as to liability. On December 30, 2022, the court entered judgment against Carnival Corporation in the amount of $ 110  million plus $ 4  million in fees and costs. We appealed. On October 22, 2024, the Court of Appeals for the 11  th   Circuit reversed the District Court’s judgment against us. On March 6, 2025, Havana Docks filed a petition for certiorari with the Supreme Court of the United States. Following resolution of that petition, the case will be remanded to the District Court for further proceedings. We believe the ultimate outcome of this matter will not have a material impact on our consolidated financial statements.
+As of February 28, 2025,  two  purported class actions brought against us by former guests in the Federal Court in Australia and in Italy remain pending, as previously disclosed. These actions include claims based on a variety of theories, including negligence, gross negligence and failure to warn, physical injuries and severe emotional distress associated with being exposed to and/or contracting COVID-19 onboard our ships. On October 24, 2023, the court in the Australian matter held that we were liable for negligence and for breach of consumer protection warranties as it relates to the lead plaintiff. The court ruled that the lead plaintiff was not entitled to any pain and suffering or emotional distress damages on the negligence claim and awarded medical costs. In relation to the consumer protection warranties claim, the court found that distress and disappointment damages amounted to no more than the refund already provided to guests and therefore made no further award. Further proceedings will determine the applicability of this ruling to the remaining class participants. We continue to take actions to defend against the above claims. We believe the ultimate outcome of these matters will not have a material impact on our consolidated financial statements.
+Regulatory or Governmental Inquiries and Investigations
+We have been, and may continue to be, impacted by breaches in data security and lapses in data privacy, which occur from time to time. These can vary in scope and range from inadvertent events to malicious motivated attacks.
+We have incurred legal and other costs in connection with cyber incidents that have impacted us. The penalties and settlements paid in connection with cyber incidents over the last three years were not material. While these incidents did not have a material adverse effect on our business, results of operations, financial position or liquidity, no assurances can be given about the future and we may be subject to future attacks, incidents or litigation that could have such a material adverse effect.
+On March 14, 2022, the U.S. Department of Justice and the U.S. Environmental Protection Agency notified us of potential civil penalties and injunctive relief for alleged Clean Water Act violations by owned and operated vessels covered by the 2013 Vessel General Permit. We are working with these agencies to reach a resolution of this matter. We believe the ultimate outcome will not have a material impact on our consolidated financial statements.
+Under the European Union Treaty certain economic benefits that are provided under Italian law are subject to approval on a periodic basis by the European Commission, with the most recent approval granted through December 31, 2023. One of our subsidiaries continues to receive and recognize these benefits. The Italian Government has requested approval for these benefits to continue to be applied after December 31, 2023. The timing of the European Commission’s decision is uncertain and could take more than a year. If the European Commission were to deny a portion or all of the benefits, the Italian Government may be required to retroactively disallow these benefits and seek reimbursement from us which would result in a reversal of the recognition of such benefits, which depending on the timing of resolution, could have a material impact on our consolidated financial statements.
+Other Contingent Obligations
+Some of the debt contracts we enter into include indemnification provisions obligating us to make payments to the counterparty if certain events occur. These contingencies generally relate to changes in taxes or changes in laws which increase the lender’s costs. There are no stated or notional amounts included in the indemnification clauses, and we are not able to estimate the maximum potential amount of future payments, if any, under these indemnification clauses.
+We have agreements with a number of credit card processors that transact customer deposits related to our cruise vacations. Certain of these agreements allow the credit card processors to request, under certain circumstances, that we provide a capped reserve fund in cash. Although the agreements vary, these requirements may generally be satisfied either through a withheld percentage of customer payments or providing cash funds directly to the credit card processor.
+14
+Table of Content
+Ship Commitments
+As of February 28, 2025, our new ship growth capital commitments were $ 0.9  billion for the remainder of 2025 and $ 0.4  billion, $ 1.3  billion, $ 1.3  billion, $ 1.5  billion and $ 3.2  billion for the years ending November 30, 2026, 2027, 2028, 2029 and thereafter.
+NOTE 5 –  Fair Value Measurements, Derivative Instruments and Hedging Activities and Financial Risks
+Fair Value Measurements
+Fair value is defined as the amount that would be received for selling an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date and is measured using inputs in one of the following three categories:
+•  Level 1 measurements are based on unadjusted quoted prices in active markets for identical assets or liabilities that we have the ability to access. Valuation of these items does not entail a significant amount of judgment.
+•  Level 2 measurements are based on quoted prices for similar assets or liabilities in active markets, quoted prices for identical or similar assets or liabilities in markets that are not active or market data other than quoted prices that are observable for the assets or liabilities.
+•  Level 3 measurements are based on unobservable data that are supported by little or no market activity and are significant to the fair value of the assets or liabilities.
+Considerable judgment may be required in interpreting market data used to develop the estimates of fair value. Accordingly, certain estimates of fair value presented herein are not necessarily indicative of the amounts that could be realized in a current or future market exchange.
+Financial Instruments that are not Measured at Fair Value on a Recurring Basis
+February 28, 2025     November 30, 2024
+Carrying
+Value     Fair Value     Carrying
+Value     Fair Value
+(in millions)     Level 1     Level 2     Level 3     Level 1     Level 2     Level 3
+Liabilities
+Fixed rate debt (a)    $     22,084        $     —        $     22,610        $     —        $     22,449        $     —        $     23,241        $     —
+Floating rate debt (a)     5,627         —         5,550         —         5,764         —         5,685         —
+Total    $     27,711        $     —        $     28,159        $     —        $     28,213        $     —        $     28,927        $     —
+(a)  The debt amounts above do not include the impact of interest rate swaps or debt issuance costs and discounts. The fair values of our publicly-traded notes were based on their unadjusted quoted market prices in markets that are not sufficiently active to be Level 1 and, accordingly, are considered Level 2. The fair values of our other debt were estimated based on current market interest rates being applied to this debt.
+Financial Instruments that are Measured at Fair Value on a Recurring Basis
+February 28, 2025     November 30, 2024
+(in millions)    Level 1     Level 2     Level 3     Level 1     Level 2     Level 3
+Assets
+Cash equivalents (a)    $     375        $     —        $     —        $     404        $     —        $     —
+Derivative financial instruments     —         —         —         —         2         —
+Total    $     375        $     —        $     —        $     404        $     2        $     —
+Liabilities
+Derivative financial instruments    $     —        $     4        $     —        $     —        $     4        $     —
+Total    $     —        $     4        $     —        $     —        $     4        $     —
+(a)  Consists of money market funds and cash investments with original maturities of less than 90 days.
+15
+Table of Content
+Nonfinancial Instruments that are Measured at Fair Value on a Nonrecurring Basis
+Valuation of Goodwill and Trademarks
+As of February 28, 2025 and   November 30, 2024  , goodwill for our North America segment was $  579   million.
+Trademarks
+(in millions)    North America
+Segment     Europe
+Segment     Total
+November 30, 2024    $     927        $     234        $     1,161
+Exchange movements     —        ( 1 )      ( 1 )
+February 28, 2025    $     927        $     233        $     1,160
+Derivative Instruments and Hedging Activities
+(in millions)    Balance Sheet Location     February 28, 2025     November 30, 2024
+Derivative assets
+Derivatives designated as hedging instruments
+Interest rate swaps (a)    Prepaid expenses and other     $     —        $     2
+Total derivative assets      $     —        $     2
+Derivative liabilities
+Derivatives designated as hedging instruments
+Interest rate swaps (a)    Other long-term liabilities     $     4        $     4
+Total derivative liabilities      $     4        $     4
+(a)  We have interest rate swaps whereby we receive floating interest rate payments in exchange for making fixed interest rate payments. These interest rate swap agreements effectively changed $ 10  million at February 28, 2025 and $ 11  million at   November 30, 2024   of EURIBOR-based floating rate euro debt to fixed rate euro debt, and $ 1.0  billion at February 28, 2025 and   November 30, 2024   of SOFR-based variable rate debt to fixed rate debt. As of February 28, 2025 and   November 30, 2024  , the EURIBOR-based interest rate swaps settle through March 2025 and were not designated as cash flow hedges; the SOFR-based interest rate swaps settle through 2027 and were designated as cash flow hedges.
+Our derivative contracts include rights of offset with our counterparties. As of February 28, 2025 and   November 30, 2024  , we did not have any counterparties with multiple derivative contracts.
+The effect of our derivatives qualifying and designated as hedging instruments recognized in other comprehensive income (loss) and in net income (loss) was as follows:
+Three Months Ended
+February 28/29,
+(in millions)    2025     2024
+Gains (losses) recognized in AOCI:
+Interest rate swaps – cash flow hedges    $     —        $     13
+(Gains) losses reclassified from AOCI – cash flow hedges:
+Interest rate swaps – Interest expense, net of capitalized interest    $     2        $    ( 11 )
+Gains (losses) recognized on derivative instruments (amount excluded from effectiveness testing – net investment hedges)
+Cross currency swaps – Interest expense, net of capitalized interest
+$     —        $     2
+16
+Table of Content
+The amount of gains and losses on derivatives not designated as hedging instruments recognized in earnings during the three months ended February 28, 2025 and estimated cash flow hedges’ unrealized gains and losses that are expected to be reclassified to earnings in the next twelve months are not material.
+Financial Risks
+Fuel Price Risks
+We manage our exposure to fuel price risk by managing our consumption of fuel. Substantially all of our exposure to market risk for changes in fuel prices relates to the consumption of fuel on our ships. We manage fuel consumption through fleet optimization, energy efficiency, itinerary efficiency, and new technologies and alternative fuels.
+Foreign Currency Exchange Rate Risks
+Overall Strategy
+We manage our exposure to fluctuations in foreign currency exchange rates through our normal operating and financing activities, including netting certain exposures to take advantage of any natural offsets and, when considered appropriate, through the use of derivative and non-derivative financial instruments. Our primary focus is to monitor our exposure to, and manage, the economic foreign currency exchange risks faced by our operations and realized if we exchange one currency for another. We consider hedging certain of our ship commitments and net investments in foreign operations. The financial impacts of our hedging instruments generally offset the changes in the underlying exposures being hedged.
+Operational Currency Risks
+Our operations primarily utilize the U.S. dollar, Euro, Sterling or the Australian dollar as their functional currencies. Our operations also have revenue and expenses denominated in non-functional currencies. Movements in foreign currency exchange rates affect our consolidated financial statements.
+Investment Currency Risks
+We consider our investments in foreign operations to be denominated in stable currencies and of a long-term nature. We have euro-denominated debt which provides an economic offset for our operations with euro functional currency. In addition, we have in the past and may in the future utilize derivative financial instruments, such as cross currency swaps, to manage our exposure to investment currency risks.
+Newbuild Currency Risks
+Our shipbuilding contracts are typically denominated in euros. At February 28, 2025, our newbuild currency exchange rate risk relates to euro-denominated newbuild contract payments for non-euro functional currency brands. The cost of shipbuilding orders that we may place in the future that are denominated in a different currency than our cruise brands’ functional currency will be affected by foreign currency exchange rate fluctuations. These foreign currency exchange rate fluctuations may affect our decision to order new cruise ships. We have in the past and may in the future utilize derivative financial instruments, such as foreign currency derivatives, to manage our exposure to newbuild currency risks. Our decisions to hedge non-functional currency ship commitments for our cruise brands are made on a case-by-case basis, considering the amount and duration of the exposure, market volatility, economic trends, our overall expected net cash flows by currency and other offsetting risks.
+Interest Rate Risks
+We manage our exposure to fluctuations in interest rates through our debt portfolio management and investment strategies. We evaluate our debt portfolio to determine whether to make periodic adjustments to the mix of fixed and floating rate debt through the use of interest rate swaps, refinancing of existing debt and the issuance of new debt.
+17
+Table of Content
+Concentrations of Credit Risk
+As part of our ongoing control procedures, we monitor concentrations of credit risk associated with financial and other institutions with which we conduct significant business. We seek to manage these credit risk exposures, including counterparty nonperformance primarily associated with our cash and cash equivalents, investments, notes receivables, reserve funds related to customer deposits (when required), future financing facilities, contingent obligations, derivative instruments, insurance contracts and new ship progress payment guarantees, by:
+•  Conducting business with well-established financial institutions, insurance companies and export credit agencies
+•  Diversifying our counterparties
+•  Having guidelines regarding credit ratings and investment maturities that we follow to help safeguard liquidity and minimize risk
+•  Generally requiring collateral and/or guarantees to support notes receivable on significant asset sales and new ship progress payments to shipyards
+We also monitor the creditworthiness of travel agencies and tour operators in Australia and Europe and credit and debit card providers to which we extend credit in the normal course of our business. Our credit exposure also includes contingent obligations related to cash payments received directly by travel agents and tour operators for cash collected by them on cruise sales in Australia and most of Europe where we are obligated to honor our guests’ cruise payments made by them to their travel agents and tour operators regardless of whether we have received these payments.
+Concentrations of credit risk associated with trade receivables and other receivables, charter-hire agreements and contingent obligations are not considered to be material, principally due to the large number of unrelated accounts, the nature of these contingent obligations and their short maturities. Normally, we have not required collateral or other security to support normal credit sales and have not experienced significant credit losses.
+NOTE 6 –  Segment Information
+The chief operating decision maker, who is the President, Chief Executive Officer and Chief Climate Officer of Carnival Corporation and Carnival plc assesses performance and makes decisions to allocate resources for Carnival Corporation & plc based upon review of the results across all of our segments. The operating segments within each of our reportable segments have been aggregated based on the similarity of their economic and other characteristics, including geographic guest sourcing. Our  four  reportable segments are comprised of (1) North America cruise operations (“North America”), (2) Europe cruise operations (“Europe”), (3) Cruise Support and (4) Tour and Other.
+Our Cruise Support segment includes our portfolio of leading port destinations and exclusive islands as well as other services, all of which are operated for the benefit of our cruise brands. Our Tour and Other segment represents the hotel and transportation operations of Holland America Princess Alaska Tours and other operations.
+Three Months Ended February 28/29,
+(in millions)    Revenues     Operating
+expenses     Selling
+and
+administrative     Depreciation
+and
+amortization     Operating
+income (loss)
+2025
+North America (a)    $     3,906        $     2,436        $     521        $     434        $     516
+Europe     1,830         1,270         250         169         140
+Cruise Support     72         45         72         45        ( 91 )
+Tour and Other     2         15         4         6        ( 22 )
+$     5,810        $     3,766        $     848        $     654        $     543
+2024
+North America (a)    $     3,574        $     2,402        $     502        $     398        $     272
+Europe     1,769         1,251         234         164         119
+Cruise Support     59         36         73         45        ( 95 )
+Tour and Other     4         15         4         6        ( 21 )
+$     5,406        $     3,705        $     813        $     613        $     276
+18
+Table of Content
+(a)  Beginning in the first quarter of 2025, we renamed the North America and Australia segment to the North America segment.
+Revenue by geographic areas, which are based on where our guests are sourced, were as follows:
+Three Months Ended
+February 28/29,
+(in millions)    2025     2024
+North America    $     3,469        $     3,121
+Europe     1,626         1,567
+Australia     420         425
+Other      296         293
+$     5,810        $     5,406
+NOTE 7 –  Earnings Per Share
+Three Months Ended
+February 28/29,
+(in millions, except per share data)    2025     2024
+Net income (loss) for basic and diluted earnings per share    $    (  78  )      $    (  214  )
+Weighted-average shares outstanding     1,309         1,264
+Diluted weighted-average shares outstanding     1,309         1,264
+Basic earnings per share    $    ( 0.06 )      $    ( 0.17 )
+Diluted earnings per share    $    ( 0.06 )      $    ( 0.17 )
+Antidilutive shares excluded from diluted earnings per share computations were as follows:
+Three Months Ended
+February 28/29,
+(in millions)    2025     2024
+Equity awards     7         6
+Convertible Notes     84         127
+Total antidilutive securities     92         133
+NOTE 8 –  Supplemental Cash Flow Information
+(in millions)    February 28, 2025     November 30, 2024
+Cash and cash equivalents (Consolidated Balance Sheets)    $     833        $     1,210
+Restricted cash (included in prepaid expenses and other and other assets)     23         21
+Total cash, cash equivalents and restricted cash (Consolidated Statements
+of Cash Flows)    $     856        $     1,231
+NOTE 9 –  Property and Equipment
+Ship Sales
+In March 2025, we completed the sale of  one  North America segment ship for an expected gain which is not material and represents a passenger-capacity reduction of  460  berths. We will continue to operate the ship under a bareboat charter agreement through May 2026.
+19
+Table of Content
+Item 2.   Management’s Discussion and Analysis of Financial Condition and Results of Operations  .
+Cautionary Note Concerning Factors That May Affect Future Results
+Some of the statements, estimates or projections contained in this document are “forward-looking statements” that involve risks, uncertainties and assumptions with respect to us, including some statements concerning future results, operations, outlooks, plans, goals, reputation, cash flows, liquidity and other events which have not yet occurred. These statements are intended to qualify for the safe harbors from liability provided by Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, as amended. All statements other than statements of historical facts are statements that could be deemed forward-looking. These statements are based on current expectations, estimates, forecasts and projections about our business and the industry in which we operate and the beliefs and assumptions of our management. We have tried, whenever possible, to identify these statements by using words like “will,” “may,” “could,” “should,” “would,” “believe,” “depends,” “expect,” “goal,” “aspiration,” “anticipate,” “forecast,” “project,” “future,” “intend,” “plan,” “estimate,” “target,” “indicate,” “outlook,” and similar expressions of future intent or the negative of such terms.
+Because forward-looking statements involve risks and uncertainties, there are many factors that could cause our actual results, performance or achievements to differ materially from those expressed or implied by our forward-looking statements. This note contains important cautionary statements of the known factors that we consider could materially affect the accuracy of our forward-looking statements and adversely affect our business, results of operations and financial position. These factors include, but are not limited to, the following:
+•  Events and conditions around the world, including geopolitical uncertainty, war and other military actions, pandemics, inflation, higher fuel prices, higher interest rates and other general concerns impacting the ability or desire of people to travel could lead to a decline in demand for cruises as well as have significant negative impacts on our financial condition and operations.
+•  Incidents concerning our ships, guests or the cruise industry may negatively impact the satisfaction of our guests and crew and lead to reputational damage.
+•  Changes in and non-compliance with laws and regulations under which we operate, such as those relating to health, environment, safety and security, data privacy and protection, anti-money laundering, anti-corruption, economic sanctions, trade protection, labor and employment, and tax may be costly and lead to litigation, enforcement actions, fines, penalties and reputational damage.
+•  Factors associated with climate change, including evolving and increasing regulations, increasing concerns about climate change and the shift in climate conscious consumerism and stakeholder scrutiny, and increasing frequency and/or severity of adverse weather conditions could have a material impact on our business.
+•  Inability to meet or achieve our targets, goals, aspirations, initiatives, and our public statements and disclosures regarding them, including those related to sustainability matters, may expose us to risks that may adversely impact our business.
+•  Cybersecurity incidents and data privacy breaches, as well as disruptions and other damages to our principal offices, information technology operations and system networks and failure to keep pace with developments in technology have adversely impacted and may in the future materially adversely impact our business operations, the satisfaction of our guests and crew and may lead to fines, penalties and reputational damage.
+•  The loss of key team members, our inability to recruit or retain qualified shoreside and shipboard team members and increased labor costs could have an adverse effect on our business and results of operations.
+•  Increases in fuel prices, changes in the types of fuel consumed and availability of fuel supply may adversely impact our scheduled itineraries and costs.
+•  We rely on suppliers who are integral to the operations of our businesses. These suppliers and service providers may be unable to deliver on their commitments, which could negatively impact our business.
+•  Fluctuations in foreign currency exchange rates may adversely impact our financial results.
+•  Overcapacity and competition in the cruise and land-based vacation industry may negatively impact our cruise sales, pricing and destination options.
+•  Inability to implement our shipbuilding programs and ship repairs, maintenance and refurbishments may adversely impact our business operations and the satisfaction of our guests.
+•  We require a significant amount of cash to service our debt and sustain our operations. Our ability to generate cash depends on many factors, including those beyond our control, and we may not be able to generate cash required to service our debt and sustain our operations.
+•  Our substantial debt could adversely affect our financial health and operating flexibility.
+The ordering of the risk factors set forth above is not intended to reflect our indication of priority or likelihood. Additionally, many of these risks and uncertainties are currently, and in the future may continue to be, amplified by our substantial debt balance incurred during the pause of our guest cruise operations. There may be additional risks that we consider immaterial or
+20
+Table of Content
+which are unknown.
+Forward-looking statements should not be relied upon as a prediction of actual results. Subject to any continuing obligations under applicable law or any relevant stock exchange rules, we expressly disclaim any obligation to disseminate, after the date of this document, any updates or revisions to any such forward-looking statements to reflect any change in expectations or events, conditions or circumstances on which any such statements are based.
+Forward-looking and other statements in this document may also address our sustainability progress, plans, and goals (including climate change- and environmental-related matters). In addition, historical, current, and forward-looking sustainability- and climate-related statements may be based on standards and tools for measuring progress that are still developing, internal controls and processes that continue to evolve, and assumptions and predictions that are subject to change in the future and may not be generally shared.
+New Accounting Pronouncements
+Refer to Note 1 -   “  General, Accounting Pronouncements  ”   of the consolidated financial statements for additional discussion regarding   Accounting Pronouncements  .
+Critical Accounting Estimates
+For a discussion of our critical accounting estimates, see “Management’s Discussion and Analysis of Financial Condition and Results of Operations” that is included in the Form 10-K.
+Seasonality
+Our passenger ticket revenues are seasonal. Demand for cruises has been greatest during our third quarter, which includes the Northern Hemisphere summer months. This higher demand during the third quarter results in higher ticket prices and occupancy levels and, accordingly, the largest share of our operating income is typically earned during this period. Our results are also impacted by ships being taken out-of-service for planned maintenance, which we schedule during non-peak seasons. In addition, substantially all of Holland America Princess Alaska Tours’ revenue and operating income is generated from May through September in conjunction with Alaska’s cruise season.
+Known Trends and Uncertainties
+•  We believe the volatility in the cost of fuel is reasonably likely to impact our profitability in both the short and long-term.
+•  We believe the increasing focus on the reduction of greenhouse gas emissions and new and evolving related regulatory requirements, is reasonably likely to have a material negative impact on our future financial results. We became subject to the EU Emissions Trading System (“ETS”) on January 1, 2024, which includes a three-year phase-in period. The impact of this regulation in 2024 was $46 million, which represented costs associated with 40% of emissions under the ETS operational scope.  In 2025, 70% of emissions under the ETS scope will be impacted, and in 2026, all in scope emissions will be impacted.
+21
+Table of Content
+Statistical Information
+Three Months Ended
+February 28/29,
+2025     2024
+Passenger Cruise Days (“PCDs”)   (in millions)   (a)
+24.3       23.5
+Available Lower Berth Days (“ALBDs”)   (in millions)   (b) (c)
+23.6       23.0
+Occupancy percentage (d)    103     %     102     %
+Passengers carried   (in millions)
+3.2       3.0
+Fuel consumption in metric tons   (in millions)
+0.7       0.7
+Fuel consumption in metric tons per thousand ALBDs    30.3       31.8
+Fuel cost per metric ton consumed (excluding European Union Allowance)    $    643       $    686
+Currencies (USD to 1)
+AUD    $    0.63       $    0.66
+CAD    $    0.70       $    0.74
+EUR    $    1.04       $    1.09
+GBP    $    1.25       $    1.27
+Notes to Statistical Information
+(a)  PCD represents the number of cruise passengers on a voyage multiplied by the number of revenue-producing ship operating days for that voyage.
+(b)  ALBD is a standard measure of passenger capacity for the period that we use to approximate rate and capacity variances, based on consistently applied formulas that we use to perform analyses to determine the main non-capacity driven factors that cause our cruise revenues and expenses to vary. ALBDs assume that each cabin we offer for sale accommodates two passengers and is computed by multiplying passenger capacity by revenue-producing ship operating days in the period.
+(c)  For the three months ended February 28, 2025 compared to the three months ended February 29, 2024, we had a 2.5% capacity increase in ALBDs comprised of a 5.7% capacity increase in our North America segment and a 2.9% capacity decrease in our Europe segment.
+Our North America segment’s capacity increase was caused by the following:
+•  Carnival Cruise Line 5,360-passenger capacity ship that entered into service in December 2023
+•  Princess Cruises 4,310-passenger capacity ship that entered into service in February 2024
+•  Carnival Cruise Line 4,130-passenger capacity ship that transferred from Costa Cruises and entered into service in April 2024
+The increase in our North America segment’s capacity was partially offset by:
+•  Seabourn 460-passenger capacity ship that was removed from service in September 2024
+•  P&O Cruises (Australia) 2,000-passenger capacity that was removed from service in February 2025
+Our Europe segment’s capacity decrease was caused by a Costa Cruises 4,240-passenger capacity ship that transferred to Carnival Cruise Line in April 2024.
+The decrease in our Europe segment’s capacity was partially offset by a Cunard 2,960-passenger capacity ship that entered into service in May 2024.
+(d)  Occupancy, in accordance with cruise industry practice, is calculated using a numerator of PCDs and a denominator of ALBDs, which assumes two passengers per cabin even though some cabins can accommodate three or more passengers. Percentages in excess of 100% indicate that on average more than two passengers occupied some cabins.
+22
+Table of Content
+Three Months Ended February 28, 2025 (“2025”) Compared to February 29, 2024 (“2024”)
+Revenues
+Consolidated
+Passenger ticket revenues made up 66% of our 2025 total revenues. Passenger ticket revenues increased by $216 million, or 6.0%, to $3.8 billion in 2025 from $3.6 billion in 2024.
+This increase was caused by:
+•  $145 million - higher ticket prices driven by continued strength in demand
+•  $91 million - 2.5% capacity increase in ALBDs
+•  $32 million - 1.0 percentage point increase in occupancy
+These increases were partially offset by a net unfavorable foreign currency translation impact of $50 million.
+The remaining 34% of 2025 total revenues was comprised of onboard and other revenues, which increased by $189 million, or 11%, to $2.0 billion in 2025 from $1.8 billion in 2024.
+This increase was caused by:
+•  $126 million - higher onboard spending by our guests
+•  $63 million - 2.5% capacity increase in ALBDs
+North America Segment
+Passenger ticket revenues made up 62% of our North America segment’s 2025 total revenues. Passenger ticket revenues increased by $159 million, or 7.0%, to $2.4 billion in 2025 from $2.3 billion in 2024.
+This increase was caused by:
+•  $130 million - 5.7% capacity increase in ALBDs
+•  $46 million - higher ticket prices driven by continued strength in demand
+The remaining 38% of our North America segment’s 2025 total revenues were comprised of onboard and other revenues, which increased by $173 million, or 13%, to $1.5 billion in 2025 from $1.3 billion in 2024.
+This increase was caused by:
+•  $99 million - higher onboard spending by our guests
+•  $75 million - 5.7% capacity increase in ALBDs
+Europe Segment
+Passenger ticket revenues made up 77% of our Europe segment’s 2025 total revenues. Passenger ticket revenues increased by $52 million, or 3.8%, and were $1.4 billion in 2025 and 2024.
+This increase was caused by:
+•  $100 million - higher ticket prices driven by continued strength in demand
+•  $25 million - 1.8 percentage point increase in occupancy
+These increases were partially offset by:
+•  $46 million - net unfavorable foreign currency translation
+•  $39 million - 2.9% capacity decrease in ALBDs
+The remaining 23% of our Europe segment’s 2025 total revenues were comprised of onboard and other revenues, which increased by $9 million, or 2.2%, to $413 million in 2025 from $404 million in 2024. This increase was caused by $27 million of higher onboard spending by our guests, partially offset by a 2.9% capacity decrease in ALBDs, representing $12 million.
+23
+Table of Content
+Operating Expenses
+Consolidated
+Operating expenses increased by $62 million, or 1.7%, to $3.8 billion in 2025 from $3.7 billion in 2024.
+This increase was caused by:
+•  $102 million - 2.5% capacity increase in ALBDs
+•  $38 million - higher commissions, transportation costs, and other expenses driven by increased ticket pricing and an increase in the number of guests
+•  $33 million - higher onboard and other cost of sales driven by higher onboard revenues
+These increases were partially offset by:
+•  $40 million - net favorable foreign currency translation
+•  $28 million - lower fuel prices
+•  $27 million - lower fuel consumption per ALBD
+•  $24 million - lower repair and maintenance expenses (including dry-dock expenses)
+Selling and administrative expenses increased by $34 million, or 4.2%, to $848 million in 2025 from $813 million in 2024.
+Depreciation and amortization expenses increased by $41 million, or 6.7%, to $654 million in 2025 from $613 million in 2024.
+North America Segment
+Operating expenses increased by $34 million, or 1.4%, and were $2.4 billion in 2025 and 2024.
+This increase was caused by a 5.7% capacity increase in ALBDs, representing $138 million.
+This increase was partially offset by:
+•  $44 million - lower repair and maintenance expenses (including dry-dock expenses)
+•  $26 million - lower fuel consumption per ALBD
+•  $23 million - lower fuel prices
+Selling and administrative expenses increased by $19 million, or 3.8%, to $521 million in 2025 from $502 million in 2024.
+Depreciation and amortization expenses increased by $36 million, or 9.0%, to $434 million in 2025 from $398 million in 2024.
+Europe Segment
+Operating expenses were $1.3 billion in 2025 and 2024. The changes in operating expenses for the Europe segment were not material.
+Selling and administrative expenses increased by $16 million, or 6.9%, to $250 million in 2025 from $234 million in 2024.
+Depreciation and amortization expenses increased by $5 million, or 3.0%, to $169 million in 2025 from $164 million in 2024.
+Operating Income
+Our consolidated operating income increased by $267 million to $543 million in 2025 from $276 million in 2024. Our North America segment’s operating income increased by $244 million to $516 million in 2025 from $272 million in 2024, and our Europe segment’s operating income increased by $21 million to $140 million in 2025 from $119 million in 2024. These changes were primarily due to the reasons discussed above.
+Nonoperating Income (Expense)
+Interest expense, net of capitalized interest, decreased by $94 million, or 20%, to $377 million in 2025 from $471 million in 2024. The decrease was substantially all due to a decrease in total debt and lower average interest rates.
+24
+Table of Content
+Debt extinguishment and modification costs increased by $218 million to $252 million in 2025 from $33 million in 2024 as a result of debt transactions occurring during the respective periods.
+Liquidity, Financial Condition and Capital Resources
+As of February 28, 2025, we had $3.8 billion of liquidity including $0.8 billion of cash and cash equivalents and $2.9 billion of borrowings available under our multi-currency revolving credit facility.     In addition, we had   $7.8 billion   of undrawn export credit facilities to fund ship deliveries planned through   2033  .   We will continue to pursue various opportunities to repay portions of our existing indebtedness and refinance future debt maturities to extend maturity dates and reduce interest expense. Refer to Note   3   - “Debt” of the consolidated financial statements and Funding Sources below for additional details.
+We had a working capital deficit of $8.6 billion as of February 28, 2025 compared to a working capital deficit of $8.2 billion as of November 30, 2024. The increase in working capital deficit was caused by an increase in customer deposits and decreases in cash and cash equivalents as well as accrued liabilities and other. We operate with a substantial working capital deficit. This deficit is mainly attributable to the fact that, under our business model, substantially all of our passenger ticket receipts are collected in advance of the applicable sailing date. These advance passenger receipts generally remain a current liability on our balance sheet until the sailing date. The cash generated from these advance receipts is used interchangeably with cash on hand from other sources, such as our borrowings and other cash from operations. The cash received as advanced receipts can be used to fund operating expenses, pay down our debt, make long-term investments or any other use of cash. Included within our working capital are $6.9 billion and $6.4 billion of current customer deposits as of February 28, 2025 and November 30, 2024. We have agreements with a number of credit card processors that transact customer deposits related to our cruise vacations. Certain of these agreements allow the credit card processors to request, under certain circumstances, that we provide a capped reserve fund in cash. In addition, we have a relatively low level of accounts receivable and limited investment in inventories.
+We are not a party to any off-balance sheet arrangements, including guarantee contracts, retained or contingent interests, certain derivative instruments and variable interest entities that either have, or are reasonably likely to have, a current or future material effect on our consolidated financial statements.
+Sources and Uses of Cash
+Operating Activities
+Our business provided $0.9 billion of net cash flows from operating activities during the three months ended February 28, 2025, a decrease of $0.8 billion, compared to $1.8 billion provided for the same period in 2024. This was driven by the nonrecurrence of cash provided by the release of $0.8 billion in credit card reserves in 2024 (included in the change in prepaid expenses and other assets).
+Investing Activities
+During the three months ended February 28, 2025, net cash used in investing activities was $605 million. This was caused by capital expenditures of $607 million primarily attributable to ship improvements and developments in our port destinations and exclusive islands.
+During the three months ended February 29, 2024, net cash used in investing activities was $2.2 billion. This was driven by capital expenditures of $2.1 billion principally attributable to the delivery of two North America segment ships.
+Financing Activities
+During the three months ended February 28, 2025, net cash used in financing activities of $690 million was driven by:
+•  Repayments of $3.4 billion of long-term debt
+•  Debt issuance costs of $24 million
+•  Debt extinguishment costs of $197 million
+•  Issuances of $3.0 billion of long-term debt
+During the three months ended February 29, 2024, net cash provided by financing activities of $0.2 billion was caused by:
+•  Repayments of $1.4 billion of long-term debt
+•  Debt issuance costs of $77 million
+•  Debt extinguishment costs of $31 million
+•  Issuances of $1.7 billion of long-term debt
+25
+Table of Content
+Funding Sources
+We plan to use existing liquidity and future cash flows from operations to fund our cash requirements including capital expenditures not funded by our export credit facilities. We seek to manage our credit risk exposures, including counterparty nonperformance associated with our cash and cash equivalents, and future financing facilities by conducting business with well-established financial institutions, and export credit agencies and diversifying our counterparties.
+(in billions)
+2025     2026     2027     2028     2029     Thereafter
+Future export credit facilities at February 28, 2025
+$    0.7       $    —       $    1.2       $    1.2       $    1.6       $    3.1
+Our export credit facilities contain various financial covenants as described in Note 3 - “  Debt  ”. At   February 28, 2025  , we were in compliance with the applicable covenants under our debt agreements.
+Item 3.   Quantitative and Qualitative Disclosures About Market Risk  .
+For a discussion of our hedging strategies and market risks, see the discussion below and Note 10 - “Fair Value Measurements, Derivative Instruments and Hedging Activities and Financial Risks” in our consolidated financial statements and Management’s Discussion and Analysis of Financial Condition and Results of Operations within our Form 10-K. There have been no material changes to our exposure to market risks since the date of our 2024 Form 10-K.
+Interest Rate Risks
+The composition of our debt, after the effect of interest rate swaps, was as follows:
+February 28, 2025
+Fixed rate
+61     %
+EUR fixed rate
+23     %
+Floating rate    7     %
+EUR floating rate
+10     %
+Item 4.   Controls and Procedures  .
+A.   Evaluation of Disclosure Controls and Procedures
+Disclosure controls and procedures are designed to provide reasonable assurance that information required to be disclosed by us in the reports that we file or submit under the Securities Exchange Act of 1934, is recorded, processed, summarized and reported, within the time periods specified in the U.S. Securities and Exchange Commission’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us in our reports that we file or submit under the Securities Exchange Act of 1934 is accumulated and communicated to our management, including our principal executive and principal financial officers, or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosure.
+Our President, Chief Executive Officer and Chief Climate Officer and our Chief Financial Officer and Chief Accounting Officer have evaluated our disclosure controls and procedures and have concluded, as of February 28, 2025, that they are effective to provide a reasonable level of assurance, as described above.
+B.   Changes in Internal Control over Financial Reporting
+There have been no changes in our internal control over financial reporting during the quarter ended February 28, 2025 that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+26
+Table of Content
+PART II - OTHER INFORMATION
+Item 1.   Legal Proceedings  .
+The legal proceedings described in Note 4 – “Contingencies and Commitments” of our consolidated financial statements, including those described under “Regulatory or Governmental Inquiries and Investigations,” are incorporated in this “Legal Proceedings” section by reference. Additionally, SEC rules require disclosure of certain environmental matters when a governmental authority is a party to the proceedings and such proceedings involve potential monetary sanctions that we believe will exceed $1 million for such proceedings.
+On June 20, 2022, Princess Cruises notified the Australian Maritime Safety Authorization (“AMSA”) and the flag state, Bermuda, regarding approximately six cubic meters of comminuted food waste (liquid biodigester effluent) inadvertently released by Coral Princess inside the Great Barrier Reef Marine Park. On June 23, 2022, the UK P&I Club N.V. provided a letter of undertaking for approximately $1.9 million (being the estimated maximum combined penalty). On May 31, 2023, we received a summons from the Australia Federal Prosecution Service indicating that formal charges are being pursued against Princess Cruises and the captain of the vessel. At an arraignment held on February 18, 2025, Princess Cruises and the captain both entered pleas of not guilty. We believe the ultimate outcome will not have a material impact on our consolidated financial statements.
+Item 1A.   Risk Factors  .
+The risk factors that affect our business and financial results are discussed in “Item 1A. Risk Factors,” included in the Form 10-K, and there has been no material change to these risk factors since the Form 10-K filing. These risks should be carefully considered, and could materially and adversely affect our results, operations, outlooks, plans, goals, growth, reputation, cash flows, liquidity, and stock price. Our business also could be affected by risks that we are not presently aware of or that we currently consider immaterial to our operations.
+Item 5.   Other Information  .
+C.  Trading Plans
+During the quarter ended February 28, 2025, no director or Section 16 officer   adopted   or   terminated   any Rule 10b5-1 trading arrangements or non-Rule 10b5-1 trading arrangements (in each case, as defined in Item 408(a) of Regulation S-K).
+27
+Table of Content
+Item 6.   Exhibits  .
+INDEX TO EXHIBITS
+Incorporated by Reference     Filed/
+Furnished
+Herewith
+Exhibit
+Number      Exhibit Description     Form     Exhibit     Filing
+Date
+Articles of incorporation and by-laws
+3.1
+Third Amended and Restated Articles of Incorporation of Carnival Corporation .
+8-K     3.1     4/17/2003
+3.2
+Third Amended and Restated By-Laws of Carnival Corporation .
+8-K     3.1     4/20/2009
+3.3
+Articles of Association of Carnival plc .
+8-K     3.3     4/20/2009
+Material Contracts
+10.1
+Repricing Amendment No. 7, dated as of January 13, 2025, to Term Loan Agreement, dated as of June 30, 2020, among Carnival Finance, LLC and Carnival Corporation, as borrowers, Carnival plc, the other guarantors party thereto, the various financial institutions as are or shall become parties thereto, and JPMorgan Chase Bank, N.A., as administrative agent for the lenders.
+X
+10.2
+Repricing Amendment No. 2, dated as of January 13, 2025, to Term Loan Agreement, dated as of August 8, 2023, among Carnival Finance, LLC and Carnival Corporation, as borrowers, Carnival plc, the other guarantors party thereto, the various financial institutions as are or shall become parties thereto, and JPMorgan Chase Bank, N.A., as administrative agent for the lenders.
+X
+10.3
+Indenture, dated as of February 7, 2025, among Carnival Corporation, as issuer, Carnival plc, the guarantors party thereto and U.S. Bank Trust Company, National Association, as trustee, relating to the 6.125% Senior Unsecured Notes due 2033.
+X
+10.4
+Indenture, dated as of February 28, 2025, among Carnival Corporation, as issuer, Carnival plc, the guarantors party thereto and U.S. Bank Trust Company, National Association, as trustee, relating to the 5.750% Senior Unsecured Notes due 2030.
+X
+Rule 13a-14(a)/15d-14(a) certifications
+31.1
+Certification of President, Chief Executive Officer and Chief Climate Officer of Carnival Corporation pursuant to Rule 13a-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+X
+31.2
+Certification of Chief Financial Officer and Chief Accounting Officer of Carnival Corporation pursuant to Rule 13a-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+X
+31.3
+Certification of President, Chief Executive Officer and Chief Climate Officer of Carnival plc pursuant to Rule 13a-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+X
+31.4
+Certification of Chief Financial Officer and Chief Accounting Officer of Carnival plc pursuant to Rule 13a-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+X
+Section 1350 certifications
+32.1*
+Certification of President, Chief Executive Officer and Chief Climate Officer of Carnival Corporation pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+X
+28
+Table of Content
+INDEX TO EXHIBITS
+Incorporated by Reference     Filed/
+Furnished
+Herewith
+Exhibit
+Number      Exhibit Description     Form     Exhibit     Filing
+Date
+32.2*
+Certification of Chief Financial Officer and Chief Accounting Officer of Carnival Corporation pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+X
+32.3*
+Certification of President, Chief Executive Officer and Chief Climate Officer of Carnival plc pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+X
+32.4*
+Certification of Chief Financial Officer and Chief Accounting Officer of Carnival plc pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+X
+Interactive Data File
+101
+The consolidated financial statements from Carnival Corporation & plc’s joint Quarterly Report on Form 10-Q for the quarter ended February 28, 2025, as filed with the Securities and Exchange Commission on March 25, 2025, formatted in Inline XBRL, are as follows:
+(i) the Consolidated Statements of Income (Loss) for the three months ended February 28/29, 2025 and 2024;
+X
+(ii) the Consolidated Statements of Comprehensive Income (Loss) for the three months ended February 28/29, 2025 and 2024;
+X
+(iii) the Consolidated Balance Sheets at February 28, 2025 and   November 30, 2024  ;
+X
+(iv) the Consolidated Statements of Cash Flows for the three months ended February 28/29, 2025 and 2024;
+X
+(v) the Consolidated Statements of Shareholders’ Equity for the three months ended February 28/29, 2025 and 2024;
+X
+(vi) the notes to the consolidated financial statements, tagged in summary and detail.           X
+104
+The cover page from Carnival Corporation & plc’s joint Quarterly Report on Form 10-Q for the quarter ended February 28, 2025, as filed with the Securities and Exchange Commission on March 25, 2025, formatted in Inline XBRL (included as Exhibit 101).
+*    These items are furnished and not filed.
+29
+Table of Content
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, each of the registrants has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+CARNIVAL CORPORATION      CARNIVAL PLC
+/s/ Josh Weinstein      /s/ Josh Weinstein
+Josh Weinstein      Josh Weinstein
+President, Chief Executive Officer and Chief Climate Officer      President, Chief Executive Officer and Chief Climate Officer
+/s/ David Bernstein      /s/ David Bernstein
+David Bernstein      David Bernstein
+Chief Financial Officer and Chief Accounting Officer      Chief Financial Officer and Chief Accounting Officer
+Date: March 25, 2025      Date: March 25, 2025
+30

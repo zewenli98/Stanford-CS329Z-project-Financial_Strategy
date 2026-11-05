@@ -1,0 +1,992 @@
+tjx-20260502
+FALSE  2027  Q1  0000109198  --01-30  http://fasb.org/us-gaap/2025#CostOfGoodsAndServicesSold http://fasb.org/us-gaap/2025#SellingGeneralAndAdministrativeExpense  http://fasb.org/us-gaap/2025#CostOfGoodsAndServicesSold http://fasb.org/us-gaap/2025#SellingGeneralAndAdministrativeExpense        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      xbrli:pure    tjx:store    iso4217:EUR    iso4217:GBP    iso4217:AUD      utr:gal    utr:M      iso4217:CAD    iso4217:PLN    tjx:segment    tjx:facility     0000109198    2026-02-01  2026-05-02      0000109198    2026-05-22      0000109198    2025-02-02  2025-05-03      0000109198    2026-05-02      0000109198    2026-01-31      0000109198    2025-05-03      0000109198    2025-02-01      0000109198   us-gaap:CommonStockMember     2026-01-31      0000109198   us-gaap:AdditionalPaidInCapitalMember     2026-01-31      0000109198   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-31      0000109198   us-gaap:RetainedEarningsMember     2026-01-31      0000109198   us-gaap:RetainedEarningsMember     2026-02-01  2026-05-02      0000109198   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-02-01  2026-05-02      0000109198   us-gaap:AdditionalPaidInCapitalMember     2026-02-01  2026-05-02      0000109198   us-gaap:CommonStockMember     2026-02-01  2026-05-02      0000109198   us-gaap:CommonStockMember     2026-05-02      0000109198   us-gaap:AdditionalPaidInCapitalMember     2026-05-02      0000109198   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-05-02      0000109198   us-gaap:RetainedEarningsMember     2026-05-02      0000109198   us-gaap:CommonStockMember     2025-02-01      0000109198   us-gaap:AdditionalPaidInCapitalMember     2025-02-01      0000109198   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-02-01      0000109198   us-gaap:RetainedEarningsMember     2025-02-01      0000109198   us-gaap:RetainedEarningsMember     2025-02-02  2025-05-03      0000109198   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-02-02  2025-05-03      0000109198   us-gaap:AdditionalPaidInCapitalMember     2025-02-02  2025-05-03      0000109198   us-gaap:CommonStockMember     2025-02-02  2025-05-03      0000109198   us-gaap:CommonStockMember     2025-05-03      0000109198   us-gaap:AdditionalPaidInCapitalMember     2025-05-03      0000109198   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-05-03      0000109198   us-gaap:RetainedEarningsMember     2025-05-03      0000109198   tjx:GrupoAxoS.A.P.IDeC.V.Member     2026-05-02      0000109198   tjx:MultibrandOutletStoresS.A.P.I.DeC.V.Member     2026-05-02      0000109198   tjx:MultibrandOutletStoresS.A.P.I.DeC.V.Member     2025-05-03      0000109198   tjx:MultibrandOutletStoresS.A.P.I.DeC.V.Member  us-gaap:TradeNamesMember     2026-05-02      0000109198   tjx:BrandsForLessMember     2026-05-02      0000109198   tjx:BrandsForLessMember     2025-05-03      0000109198   tjx:BrandsForLessMember  us-gaap:TradeNamesMember     2026-05-02      0000109198   us-gaap:LandAndBuildingMember     2026-05-02      0000109198   us-gaap:LandAndBuildingMember     2026-01-31      0000109198   us-gaap:LandAndBuildingMember     2025-05-03      0000109198   tjx:LeaseholdCostsAndImprovementsMember     2026-05-02      0000109198   tjx:LeaseholdCostsAndImprovementsMember     2026-01-31      0000109198   tjx:LeaseholdCostsAndImprovementsMember     2025-05-03      0000109198   us-gaap:FurnitureAndFixturesMember     2026-05-02      0000109198   us-gaap:FurnitureAndFixturesMember     2026-01-31      0000109198   us-gaap:FurnitureAndFixturesMember     2025-05-03      0000109198   us-gaap:AccumulatedTranslationAdjustmentMember     2025-02-01      0000109198   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-02-01      0000109198   us-gaap:AccumulatedTranslationAdjustmentMember     2025-02-02  2026-01-31      0000109198    2025-02-02  2026-01-31      0000109198   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-02-02  2026-01-31      0000109198   us-gaap:AccumulatedTranslationAdjustmentMember     2026-01-31      0000109198   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-01-31      0000109198   us-gaap:AccumulatedTranslationAdjustmentMember     2026-02-01  2026-05-02      0000109198   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-02-01  2026-05-02      0000109198   us-gaap:AccumulatedTranslationAdjustmentMember     2026-05-02      0000109198   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-05-02      0000109198    2026-02-28      0000109198   us-gaap:ForeignExchangeContractMember     2026-02-01  2026-05-02      0000109198   tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-05-02      0000109198   tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-05-02      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:PrepaidExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfEuroToPoundMember     2026-05-02      0000109198   tjx:AccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-05-02      0000109198   tjx:AccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-05-02      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:AccruedExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfAustralianDollarToUsDollarMember     2026-05-02      0000109198   tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToUSDollarMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-05-02      0000109198   tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToUSDollarMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-05-02      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:PrepaidExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfEuroToUSDollarMember     2026-05-02      0000109198   us-gaap:CommodityContractMember  tjx:PrepaidExpenseMember  srt:MinimumMember  us-gaap:LongMember     2026-02-01  2026-05-02      0000109198   us-gaap:CommodityContractMember  tjx:PrepaidExpenseMember  srt:MaximumMember  us-gaap:LongMember     2026-02-01  2026-05-02      0000109198   us-gaap:CommodityContractMember  tjx:PrepaidExpenseMember  srt:MinimumMember  us-gaap:ShortMember     2026-02-01  2026-05-02      0000109198   us-gaap:CommodityContractMember  tjx:PrepaidExpenseMember  srt:MaximumMember  us-gaap:ShortMember     2026-02-01  2026-05-02      0000109198   us-gaap:CommodityContractMember  tjx:PrepaidExpenseMember     2026-05-02      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:LongMember     2026-05-02      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:ShortMember     2026-05-02      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToUsDollarMember  us-gaap:LongMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToUsDollarMember  us-gaap:ShortMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToUsDollarMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToEuroMember  us-gaap:LongMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToEuroMember  us-gaap:ShortMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToEuroMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember  us-gaap:LongMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember  us-gaap:ShortMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfZlotyToPoundMember  us-gaap:LongMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfZlotyToPoundMember  us-gaap:ShortMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfZlotyToPoundMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:LongMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:ShortMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfUsDollarToEuroMember  us-gaap:LongMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfUsDollarToEuroMember  us-gaap:ShortMember     2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfUsDollarToEuroMember     2026-05-02      0000109198   tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-01-31      0000109198   tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-01-31      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:PrepaidExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfEuroToPoundMember     2026-01-31      0000109198   tjx:AccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-01-31      0000109198   tjx:AccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-01-31      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:AccruedExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfAustralianDollarToUsDollarMember     2026-01-31      0000109198   tjx:AccruedExpenseMember  tjx:ConversionOfEuroToUSDollarMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-01-31      0000109198   tjx:AccruedExpenseMember  tjx:ConversionOfEuroToUSDollarMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-01-31      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:AccruedExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfEuroToUSDollarMember     2026-01-31      0000109198   us-gaap:CommodityContractMember  tjx:PrepaidExpenseMember  srt:MinimumMember  us-gaap:LongMember     2025-02-02  2026-01-31      0000109198   us-gaap:CommodityContractMember  tjx:PrepaidExpenseMember  srt:MaximumMember  us-gaap:LongMember     2025-02-02  2026-01-31      0000109198   us-gaap:CommodityContractMember  tjx:PrepaidExpenseMember  srt:MinimumMember  us-gaap:ShortMember     2025-02-02  2026-01-31      0000109198   us-gaap:CommodityContractMember  tjx:PrepaidExpenseMember  srt:MaximumMember  us-gaap:ShortMember     2025-02-02  2026-01-31      0000109198   us-gaap:CommodityContractMember  tjx:PrepaidExpenseMember     2026-01-31      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:LongMember     2026-01-31      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:ShortMember     2026-01-31      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember     2026-01-31      0000109198   tjx:IntercompanyBalancesPrimarilyInternationalMember  tjx:AccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember  us-gaap:LongMember     2026-01-31      0000109198   tjx:IntercompanyBalancesPrimarilyInternationalMember  tjx:AccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember  us-gaap:ShortMember     2026-01-31      0000109198   tjx:IntercompanyBalancesPrimarilyInternationalMember  tjx:AccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToUsDollarMember  us-gaap:LongMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToUsDollarMember  us-gaap:ShortMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToUsDollarMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToEuroMember  us-gaap:LongMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToEuroMember  us-gaap:ShortMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToEuroMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember  us-gaap:LongMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember  us-gaap:ShortMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfZlotyToPoundMember  us-gaap:LongMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfZlotyToPoundMember  us-gaap:ShortMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfZlotyToPoundMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:LongMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:ShortMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfUsDollarToEuroMember  us-gaap:LongMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfUsDollarToEuroMember  us-gaap:ShortMember     2026-01-31      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfUsDollarToEuroMember     2026-01-31      0000109198   tjx:AccruedExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-05-03      0000109198   tjx:AccruedExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-05-03      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:AccruedExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfEuroToPoundMember     2025-05-03      0000109198   tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-05-03      0000109198   tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-05-03      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:PrepaidExpenseAccruedExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfAustralianDollarToUsDollarMember     2025-05-03      0000109198   tjx:PrepaidExpenseMember  tjx:ConversionOfUsDollarToPoundMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-05-03      0000109198   tjx:PrepaidExpenseMember  tjx:ConversionOfUsDollarToPoundMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-05-03      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:PrepaidExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfUsDollarToPoundMember     2025-05-03      0000109198   tjx:AccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-05-03      0000109198   tjx:AccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-05-03      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:AccruedExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfPoundToUsDollarMember     2025-05-03      0000109198   tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfEuroToUSDollarMember  us-gaap:LongMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-05-03      0000109198   tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfEuroToUSDollarMember  us-gaap:ShortMember  tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-05-03      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  tjx:PrepaidExpenseAccruedExpenseMember  us-gaap:FairValueHedgingMember  tjx:ConversionOfEuroToUSDollarMember     2025-05-03      0000109198   us-gaap:CommodityContractMember  tjx:AccruedExpenseMember  srt:MinimumMember  us-gaap:LongMember     2025-02-02  2025-05-03      0000109198   us-gaap:CommodityContractMember  tjx:AccruedExpenseMember  srt:MaximumMember  us-gaap:LongMember     2025-02-02  2025-05-03      0000109198   us-gaap:CommodityContractMember  tjx:AccruedExpenseMember  srt:MinimumMember  us-gaap:ShortMember     2025-02-02  2025-05-03      0000109198   us-gaap:CommodityContractMember  tjx:AccruedExpenseMember  srt:MaximumMember  us-gaap:ShortMember     2025-02-02  2025-05-03      0000109198   us-gaap:CommodityContractMember  tjx:AccruedExpenseMember     2025-05-03      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:LongMember     2025-05-03      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember  us-gaap:ShortMember     2025-05-03      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  tjx:PrepaidExpenseMember  tjx:ConversionOfEuroToPoundMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfCanadianDollarToUsDollarMember  us-gaap:LongMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfCanadianDollarToUsDollarMember  us-gaap:ShortMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:AccruedExpenseMember  tjx:ConversionOfCanadianDollarToUsDollarMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToEuroMember  us-gaap:LongMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToEuroMember  us-gaap:ShortMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfCanadianDollarToEuroMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember  us-gaap:LongMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember  us-gaap:ShortMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfPoundToUsDollarMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfZlotyToPoundMember  us-gaap:LongMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfZlotyToPoundMember  us-gaap:ShortMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfZlotyToPoundMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:LongMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember  us-gaap:ShortMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfAustralianDollarToUsDollarMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfUsDollarToEuroMember  us-gaap:LongMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfUsDollarToEuroMember  us-gaap:ShortMember     2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  tjx:PrepaidExpenseAccruedExpenseMember  tjx:ConversionOfUsDollarToEuroMember     2025-05-03      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2026-02-01  2026-05-02      0000109198   tjx:IntercompanyBalancesPrimarilyDebtRelatedMember  us-gaap:FairValueHedgingMember     2025-02-02  2025-05-03      0000109198   tjx:IntercompanyBalancesPrimarilyInternationalMember  us-gaap:NondesignatedMember     2026-02-01  2026-05-02      0000109198   tjx:IntercompanyBalancesPrimarilyInternationalMember  us-gaap:NondesignatedMember     2025-02-02  2025-05-03      0000109198   us-gaap:CommodityContractMember  us-gaap:NondesignatedMember     2026-02-01  2026-05-02      0000109198   us-gaap:CommodityContractMember  us-gaap:NondesignatedMember     2025-02-02  2025-05-03      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  us-gaap:NondesignatedMember     2026-02-01  2026-05-02      0000109198   tjx:IntercompanyBillingsInEuropePrimarilyMerchandiseRelatedMember  us-gaap:NondesignatedMember     2025-02-02  2025-05-03      0000109198   tjx:MerchandisePurchaseCommitmentsMember  us-gaap:NondesignatedMember     2026-02-01  2026-05-02      0000109198   tjx:MerchandisePurchaseCommitmentsMember  us-gaap:NondesignatedMember     2025-02-02  2025-05-03      0000109198   tjx:ExecutiveSavingsPlanMember  us-gaap:FairValueInputsLevel1Member     2026-05-02      0000109198   tjx:ExecutiveSavingsPlanMember  us-gaap:FairValueInputsLevel1Member     2026-01-31      0000109198   tjx:ExecutiveSavingsPlanMember  us-gaap:FairValueInputsLevel1Member     2025-05-03      0000109198   us-gaap:ForeignExchangeContractMember  us-gaap:FairValueInputsLevel2Member     2026-05-02      0000109198   us-gaap:ForeignExchangeContractMember  us-gaap:FairValueInputsLevel2Member     2026-01-31      0000109198   us-gaap:ForeignExchangeContractMember  us-gaap:FairValueInputsLevel2Member     2025-05-03      0000109198   us-gaap:CommodityContractMember  us-gaap:FairValueInputsLevel2Member     2026-05-02      0000109198   us-gaap:CommodityContractMember  us-gaap:FairValueInputsLevel2Member     2026-01-31      0000109198   us-gaap:CommodityContractMember  us-gaap:FairValueInputsLevel2Member     2025-05-03      0000109198   us-gaap:OperatingSegmentsMember  tjx:MarmaxxMember     2026-02-01  2026-05-02      0000109198   us-gaap:OperatingSegmentsMember  tjx:MarmaxxMember     2025-02-02  2025-05-03      0000109198   us-gaap:OperatingSegmentsMember  tjx:HomeGoodsMember     2026-02-01  2026-05-02      0000109198   us-gaap:OperatingSegmentsMember  tjx:HomeGoodsMember     2025-02-02  2025-05-03      0000109198   us-gaap:OperatingSegmentsMember  tjx:TjxCanadaMember     2026-02-01  2026-05-02      0000109198   us-gaap:OperatingSegmentsMember  tjx:TjxCanadaMember     2025-02-02  2025-05-03      0000109198   us-gaap:OperatingSegmentsMember  tjx:TJXInternationalMember     2026-02-01  2026-05-02      0000109198   us-gaap:OperatingSegmentsMember  tjx:TJXInternationalMember     2025-02-02  2025-05-03      0000109198   us-gaap:OperatingSegmentsMember     2026-02-01  2026-05-02      0000109198   us-gaap:OperatingSegmentsMember     2025-02-02  2025-05-03      0000109198   us-gaap:CorporateNonSegmentMember     2026-02-01  2026-05-02      0000109198   us-gaap:CorporateNonSegmentMember     2025-02-02  2025-05-03      0000109198   us-gaap:MaterialReconcilingItemsMember     2026-02-01  2026-05-02      0000109198   us-gaap:MaterialReconcilingItemsMember     2025-02-02  2025-05-03      0000109198   us-gaap:OperatingSegmentsMember  tjx:MarmaxxMember     2026-05-02      0000109198   us-gaap:OperatingSegmentsMember  tjx:MarmaxxMember     2026-01-31      0000109198   us-gaap:OperatingSegmentsMember  tjx:MarmaxxMember     2025-05-03      0000109198   us-gaap:OperatingSegmentsMember  tjx:HomeGoodsMember     2026-05-02      0000109198   us-gaap:OperatingSegmentsMember  tjx:HomeGoodsMember     2026-01-31      0000109198   us-gaap:OperatingSegmentsMember  tjx:HomeGoodsMember     2025-05-03      0000109198   us-gaap:OperatingSegmentsMember  tjx:TjxCanadaMember     2026-05-02      0000109198   us-gaap:OperatingSegmentsMember  tjx:TjxCanadaMember     2026-01-31      0000109198   us-gaap:OperatingSegmentsMember  tjx:TjxCanadaMember     2025-05-03      0000109198   us-gaap:OperatingSegmentsMember  tjx:TJXInternationalMember     2026-05-02      0000109198   us-gaap:OperatingSegmentsMember  tjx:TJXInternationalMember     2026-01-31      0000109198   us-gaap:OperatingSegmentsMember  tjx:TJXInternationalMember     2025-05-03      0000109198   us-gaap:OperatingSegmentsMember     2026-05-02      0000109198   us-gaap:OperatingSegmentsMember     2026-01-31      0000109198   us-gaap:OperatingSegmentsMember     2025-05-03      0000109198   us-gaap:CorporateNonSegmentMember     2026-05-02      0000109198   us-gaap:CorporateNonSegmentMember     2026-01-31      0000109198   us-gaap:CorporateNonSegmentMember     2025-05-03      0000109198   us-gaap:FundedPlanMember     2026-02-01  2026-05-02      0000109198   us-gaap:FundedPlanMember     2025-02-02  2025-05-03      0000109198   us-gaap:UnfundedPlanMember     2026-02-01  2026-05-02      0000109198   us-gaap:UnfundedPlanMember     2025-02-02  2025-05-03      0000109198   tjx:A225SeniorUnsecuredNotesDueSeptember152026Member  us-gaap:SeniorNotesMember     2026-05-02      0000109198   tjx:A225SeniorUnsecuredNotesDueSeptember152026Member  us-gaap:SeniorNotesMember     2026-01-31      0000109198   tjx:A225SeniorUnsecuredNotesDueSeptember152026Member  us-gaap:SeniorNotesMember     2025-05-03      0000109198   tjx:A1150SeniorUnsecuredNotesDueMay152028Member  us-gaap:SeniorNotesMember     2026-05-02      0000109198   tjx:A1150SeniorUnsecuredNotesDueMay152028Member  us-gaap:SeniorNotesMember     2026-01-31      0000109198   tjx:A1150SeniorUnsecuredNotesDueMay152028Member  us-gaap:SeniorNotesMember     2025-05-03      0000109198   tjx:A3875SeniorUnsecuredNotesDueApril152030Member  us-gaap:SeniorNotesMember     2026-05-02      0000109198   tjx:A3875SeniorUnsecuredNotesDueApril152030Member  us-gaap:SeniorNotesMember     2026-01-31      0000109198   tjx:A3875SeniorUnsecuredNotesDueApril152030Member  us-gaap:SeniorNotesMember     2025-05-03      0000109198   tjx:A1600SeniorUnsecuredNotesDueMay152031Member  us-gaap:SeniorNotesMember     2026-05-02      0000109198   tjx:A1600SeniorUnsecuredNotesDueMay152031Member  us-gaap:SeniorNotesMember     2026-01-31      0000109198   tjx:A1600SeniorUnsecuredNotesDueMay152031Member  us-gaap:SeniorNotesMember     2025-05-03      0000109198   tjx:A450SeniorUnsecuredNotesDueApril152050Member  us-gaap:SeniorNotesMember     2026-05-02      0000109198   tjx:A450SeniorUnsecuredNotesDueApril152050Member  us-gaap:SeniorNotesMember     2026-01-31      0000109198   tjx:A450SeniorUnsecuredNotesDueApril152050Member  us-gaap:SeniorNotesMember     2025-05-03      0000109198   us-gaap:SeniorNotesMember     2026-05-02      0000109198   us-gaap:SeniorNotesMember     2026-01-31      0000109198   us-gaap:SeniorNotesMember     2025-05-03      0000109198   us-gaap:RevolvingCreditFacilityMember  tjx:A2029RevolvingCreditFacilityMember     2026-05-02      0000109198   us-gaap:RevolvingCreditFacilityMember  tjx:A2030RevolvingCreditFacilityMember     2026-05-02      0000109198   tjx:A2030RevolvingCreditFacilityMember  srt:MinimumMember     2026-05-02  2026-05-02      0000109198   tjx:A2030RevolvingCreditFacilityMember  srt:MaximumMember     2026-05-02  2026-05-02      0000109198   us-gaap:RevolvingCreditFacilityMember  tjx:RevolvingCreditFacilityDueMarch112022Member     2025-05-03      0000109198   us-gaap:RevolvingCreditFacilityMember  tjx:RevolvingCreditFacilityDueMarch112022Member     2026-01-31      0000109198   us-gaap:RevolvingCreditFacilityMember  tjx:RevolvingCreditFacilityDueMarch112022Member     2026-05-02
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM  10-Q
+(mark one)
+☒     Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the quarterly period ended  May 2, 2026
+OR
+☐     Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+For the transition period from                          to
+Commission file number  1-4908
+The TJX Companies, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware           04-2207613
+(State or other jurisdiction of incorporation or organization)         (I.R.S. Employer Identification No.)
+770 Cochituate Road   Framingham ,  Massachusetts
+01701
+(Address of principal executive offices)         (Zip Code)
+( 508 )  390-1000
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class    Trading Symbol(s)    Name of each exchange on which registered
+Common Stock, par value $1.00 per share      TJX      New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     Yes     ☒     No    ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes     ☒      No    ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer          ☒          Accelerated filer         ☐
+Non-accelerated filer         ☐          Smaller reporting company          ☐
+Emerging growth company          ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    YES    ☐      NO     ☒
+The number of shares of registrant’s common stock outstanding as of May 22, 2026:  1,104,704,446
+The TJX Companies, Inc.
+TABLE OF CONTENTS
+PART I
+ITEM 1. Consolidated Financial Statements
+3
+Consolidated Statements of Income
+3
+Consolidated Statements of Comprehensive Income
+4
+Consolidated Balance Sheets
+5
+Consolidated Statements of Cash Flows
+6
+Consolidated Statements of Shareholders' Equity
+7
+Notes To Consolidated Financial Statements
+8
+ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+22
+ITEM 3. Quantitative and Qualitative Disclosures about Market Risk
+31
+ITEM 4. Controls and Procedures
+32
+PART II
+ITEM 1. Legal Proceedings
+32
+ITEM 1A. Risk Factors
+32
+ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds
+32
+ITEM 5. Other Information
+32
+ITEM 6. Exhibits
+33
+SIGNATURE
+33
+2
+PART I - FINANCIAL INFORMATION
+Item 1. Consolidated Financial Statements
+THE TJX COMPANIES, INC.
+CONSOLIDATED STATEMENTS OF INCOME
+(UNAUDITED)
+IN MILLIONS EXCEPT PER SHARE AMOUNTS
+Thirteen Weeks Ended
+May 2,
+2026    May 3,
+2025
+Net sales      $     14,323         $     13,111
+Cost of sales, including buying and occupancy costs       9,843          9,246
+Selling, general and administrative expenses       2,794          2,549
+Interest (income) expense, net      ( 35 )     ( 30 )
+Income before income taxes       1,721          1,346
+Provision for income taxes       389          310
+Net income
+$     1,332         $     1,036
+Basic earnings per share
+$     1.20         $     0.93
+Weighted average common shares – basic       1,106          1,118
+Diluted earnings per share
+$     1.19         $     0.92
+Weighted average common shares – diluted       1,120          1,132
+The accompanying notes are an integral part of the unaudited Consolidated Financial Statements.
+3
+THE TJX COMPANIES, INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(UNAUDITED)
+IN MILLIONS
+Thirteen Weeks Ended
+May 2,
+2026    May 3,
+2025
+Net income     1,332          1,036
+Additions to other comprehensive (loss) income, net of tax:
+Foreign currency translation adjustments, net of related tax provision of $ 1  in fiscal 2027 and of $ 4  in fiscal 2026
+( 20 )      145
+Reclassifications from other comprehensive (loss) income, net of tax, to net income:
+Amortization of prior service cost and deferred gains/(losses), net of related tax provision of $ 0.0  in fiscal 2027 and tax benefit of $ 0.1  in fiscal 2026
+0         ( 0 )
+Other comprehensive (loss) income, net of tax    $    ( 20 )     $     145
+Total comprehensive income    $     1,312         $     1,181
+The accompanying notes are an integral part of the unaudited Consolidated Financial Statements.
+4
+THE TJX COMPANIES, INC.
+CONSOLIDATED BALANCE SHEETS
+(UNAUDITED)
+IN MILLIONS, EXCEPT SHARE AMOUNTS
+May 2,
+2026    January 31,
+2026    May 3,
+2025
+Assets
+Current assets:
+Cash and cash equivalents    $     5,580         $     6,230       $     4,255
+Accounts receivable, net     642          602        594
+Merchandise inventories     7,675          7,297        7,127
+Prepaid expenses and other current assets     679          1,065        575
+Federal, state and foreign income taxes recoverable      64          8        44
+Total current assets     14,640          15,202        12,595
+Net property at cost     8,447          8,220        7,554
+Non-current deferred income taxes, net     144          147        141
+Operating lease right of use assets     11,025          10,330        9,924
+Goodwill     97          96        95
+Other assets     1,805          1,772        1,549
+Total assets    $     36,158         $     35,767         $     31,858
+Liabilities
+Current liabilities:
+Accounts payable    $     4,854         $     4,575       $     4,414
+Accrued expenses and other current liabilities     5,028          5,891        4,492
+Current portion of operating lease liabilities     1,714          1,726        1,660
+Current portion of long-term debt     999          999        —
+Federal, state and foreign income taxes payable     260          170        261
+Total current liabilities     12,855          13,361        10,827
+Other long-term liabilities     1,123          1,184        972
+Non-current deferred income taxes, net     310          268        154
+Long-term operating lease liabilities     9,596          8,894        8,535
+Long-term debt     1,871          1,870        2,867
+Commitments and contingencies (See Note K)
+Shareholders’ equity
+Preferred stock, authorized    5,000,000    shares, par value $   1   ,    no    shares issued
+—          —        —
+Common stock, authorized    1,800,000,000    shares, par value $   1   , issued and outstanding   1,105,051,999  ;   1,107,087,991   and   1,115,814,224   shares respectively
+1,105          1,107        1,116
+Additional paid-in capital     —          —        —
+Accumulated other comprehensive (loss) income    ( 371 )     ( 351 )     ( 464 )
+Retained earnings     9,669          9,434        7,851
+Total shareholders’ equity     10,403          10,190        8,503
+Total liabilities and shareholders’ equity    $     36,158         $     35,767         $     31,858
+The accompanying notes are an integral part of the unaudited Consolidated Financial Statements.
+5
+THE TJX COMPANIES, INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(UNAUDITED)
+IN MILLIONS
+Thirteen Weeks Ended
+May 2,
+2026    May 3,
+2025
+Cash flows from operating activities:
+Net income    $     1,332         $     1,036
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization     336          296
+Loss on property disposals and impairment charges     1          —
+Deferred income tax provision     44          8
+Share-based compensation     42          33
+Changes in assets and liabilities:
+(Increase) in accounts receivable    ( 40 )     ( 38 )
+(Increase) in merchandise inventories    ( 382 )     ( 604 )
+(Increase) decrease in income taxes recoverable    ( 56 )      25
+Decrease in prepaid expenses and other current assets     433          4
+Increase in accounts payable     282          101
+(Decrease) in accrued expenses and other liabilities    ( 954 )     ( 723 )
+Increase in income taxes payable     172          183
+(Decrease) in net operating lease liabilities    ( 5 )     ( 8 )
+Other, net    ( 86 )      81
+Net cash provided by operating activities     1,119          394
+Cash flows from investing activities:
+Property additions    ( 662 )     ( 497 )
+Purchase of equity investments    ( 5 )      —
+Purchases of investments    ( 20 )     ( 17 )
+Sales and maturities of investments     14          11
+Net cash (used in) investing activities    ( 673 )     ( 503 )
+Cash flows from financing activities:
+Payments for repurchase of common stock    ( 604 )     ( 613 )
+Cash dividends paid    ( 474 )     ( 424 )
+Proceeds from issuance of common stock     70          50
+Other    ( 73 )     ( 61 )
+Net cash (used in) financing activities    ( 1,081 )     ( 1,048 )
+Effect of exchange rate changes on cash    ( 15 )      77
+Net (decrease) in cash and cash equivalents    ( 650 )     ( 1,080 )
+Cash and cash equivalents at beginning of year     6,230          5,335
+Cash and cash equivalents at end of period    $     5,580         $     4,255
+The accompanying notes are an integral part of the unaudited Consolidated Financial Statements.
+6
+THE TJX COMPANIES, INC.
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+(UNAUDITED)
+IN MILLIONS
+Thirteen Weeks Ended
+Common Stock
+Shares
+Par Value
+$  1
+Additional Paid-In
+Capital    Accumulated Other Comprehensive
+(Loss) Income     Retained
+Earnings    Total
+Balance, January 31, 2026     1,107         $     1,107         $     —         $    ( 351 )     $     9,434         $     10,190
+Net income    —        —        —        —         1,332          1,332
+Other comprehensive (loss), net of tax    —        —        —        ( 20 )     —        ( 20 )
+Cash dividends declared on common stock    —        —        —        —        ( 532 )     ( 532 )
+Recognition of share-based compensation    —        —         42         —        —         42
+Issuance of common stock under stock incentive plan and related tax effect     2          2         ( 3 )     —        —        ( 1 )
+Common stock repurchased and retired    ( 4 )     ( 4 )     ( 39 )     —        ( 565 )     ( 608 )
+Balance, May 2, 2026     1,105         $     1,105         $     —         $    ( 371 )     $     9,669         $     10,403
+Thirteen Weeks Ended
+Common Stock
+Shares
+Par Value
+$  1
+Additional Paid-In
+Capital    Accumulated Other Comprehensive
+(Loss) Income     Retained
+Earnings    Total
+Balance, February 1, 2025     1,119         $     1,119         $     —         $    ( 609 )     $     7,883         $     8,393
+Net income    —      —      —      —       1,036        1,036
+Other comprehensive income, net of tax    —      —      —       145       —       145
+Cash dividends declared on common stock    —      —      —      —      ( 475 )     ( 475 )
+Recognition of share-based compensation    —      —       33       —      —       33
+Issuance of common stock under stock incentive plan and related tax effect     2      2     ( 13 )     —      —      ( 11 )
+Common stock repurchased and retired    ( 5 )     ( 5 )     ( 20 )     —      ( 593 )     ( 618 )
+Balance, May 3, 2025     1,116         $     1,116         $     —         $    ( 464 )     $     7,851         $     8,503
+The accompanying notes are an integral part of the unaudited Consolidated Financial Statements.
+7
+THE TJX COMPANIES, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Note A.  Basis of Presentation and Summary of Significant Accounting Policies
+Basis of Presentation
+The Consolidated Financial Statements and Notes thereto have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) for interim financial information. These Consolidated Financial Statements and Notes thereto are unaudited and, in the opinion of management, reflect all normal recurring adjustments, accruals and deferrals among periods required to match costs properly with the related revenue or activity, considered necessary by The TJX Companies, Inc. (together with its subsidiaries, “TJX”) for a fair statement of its Consolidated Financial Statements for the periods reported, all in conformity with GAAP consistently applied. All intercompany transactions have been eliminated in consolidation. Investments for which the Company exercises significant influence but does not have control are accounted for under the equity method. The Consolidated Financial Statements and Notes thereto should be read in conjunction with the audited Consolidated Financial Statements, including the related notes, contained in TJX’s Annual Report on Form 10-K for the fiscal year ended January 31, 2026 (“fiscal 2026”).
+These interim results are not necessarily indicative of results for the full fiscal year. TJX’s business, in common with the businesses of retailers generally, is subject to seasonal influences, with higher levels of sales and income generally realized in the second half of the year.
+The January 31, 2026 balance sheet data was derived from audited Consolidated Financial Statements and does not include all disclosures required by GAAP.
+Fiscal Year
+TJX’s fiscal year ends on the Saturday nearest to the last day of January of each year. The current fiscal year ends January 30, 2027 (“fiscal 2027”) and is a 52-week fiscal year. Fiscal 2026 was a 52-week fiscal year. “Fiscal 2028” will be a 52-week fiscal year and “fiscal 2029” will be a 53-week fiscal year and will end January 29, 2028 and February 3, 2029, respectively.
+Use of Estimates
+The preparation of financial statements, in conformity with GAAP, requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent liabilities at the date of the financial statements as well as the reported amounts of revenues and expenses during the reporting period. TJX considers its accounting policies relating to inventory valuation, reserves for uncertain tax positions and loss contingencies to be the most significant accounting policies that involve management estimates and judgments. Actual amounts could differ from these estimates, and such differences could be material.
+Deferred Gift Card Revenue
+The following table presents deferred gift card revenue activity:
+In millions    May 2,
+2026    May 3,
+2025
+Balance, beginning of year    $     897         $     824
+Deferred revenue     406          387
+Effect of exchange rate changes on deferred revenue    ( 0 )      9
+Revenue recognized    ( 472 )     ( 444 )
+Balance, end of period    $     831         $     776
+TJX recognized $ 472  million in gift card revenue for the three months ended May 2, 2026 and $ 444  million for the three months ended May 3, 2025. Gift cards are combined in one homogeneous pool and are not separately identifiable. As such, the revenue recognized consists of gift cards that were part of the deferred revenue balance at the beginning of the period as well as gift cards that were issued during the period.
+8
+Leases
+Supplemental cash flow information related to leases is as follows:
+Thirteen Weeks Ended
+In millions    May 2,
+2026    May 3,
+2025
+Operating cash flows paid for operating leases    $     570         $     541
+Lease liabilities arising from obtaining right of use assets    $     1,174         $     553
+Equity Investments
+The Company has investments in Multibrand Outlet Stores S.A.P.I. de C.V. (“MOS”) and Brands for Less (“BFL”). Both investments are accounted for under the equity method of accounting and are recorded in Other assets on the Consolidated Balance Sheets. TJX reports the results of its share of the investments in MOS and BFL on a one-quarter lag, as their results are not expected to be available in time to be recorded in the concurrent period. Earnings from the investments in MOS and BFL are recorded in Selling, general & administrative expenses on the Consolidated Statements of Income and did not have a material impact on the Company’s results for the three months ended May 2, 2026 and May 3, 2025.
+Additionally, both equity investments are evaluated for indicators of impairment on a periodic basis or whenever events or circumstances indicate the carrying amount may be other-than-temporarily impaired. As of May 2, 2026, the Company determined that no impairments of its equity method investments existed.
+Multibrand Outlet Stores
+The Company has a  49 % ownership stake in MOS, through a joint venture with Grupo Axo, S.A.P.I de C.V. (“Axo”). MOS is Axo’s off-price, physical store business in Mexico and includes a total of over  200  stores for its Promoda, Reduced, and Urban Store banners. TJX has the option to increase its ownership interest in the joint venture over the long term.
+For the three months ended May 2, 2026, the carrying value of the Company’s equity investment in MOS was $ 226  million, which exceeds its share of MOS’ net assets by approximately $ 185  million. For the three months ended May 3, 2025, the carrying value of the Company’s equity investment in MOS was $ 177  million, which exceeds its share of MOS’ net assets by approximately $ 140  million. The difference primarily consists of goodwill and tradenames. Tradenames are definite-lived intangible assets and are amortized straight-line over their useful lives of  10  years. The carrying value of this equity investment is adjusted for the Company’s share of MOS’s results, tradename amortization, cumulative translation adjustments and additional capital contributions. The cumulative translation adjustment is recorded in the Consolidated Balance Sheets as a component of Accumulated other comprehensive (loss) income.
+Brands for Less
+The Company has a  35 % ownership stake in privately held BFL, representing a non-controlling, minority position. BFL currently operates over  100  stores, primarily in the UAE and Saudi Arabia, as well as an e-commerce business, and is the region’s only major off-price branded apparel, toys and home fashions retailer.
+For the three months ended May 2, 2026, the carrying value of the Company’s equity investment in BFL was $ 340  million, which exceeds its share of BFL net assets by approximately $ 299  million. For the three months ended May 3, 2025, the carrying value of the Company’s equity investment in BFL was $ 335  million, which exceeds its share of BFL net assets by approximately $ 291  million. The difference primarily consists of goodwill and a tradename. The tradename is a definite-lived intangible asset and will be amortized straight-line over the useful life of  15  years. The carrying value of this equity investment is adjusted for the Company’s share of BFL’s results and tradename amortization.
+Litigation Settlement Related to Credit Card Interchange Fees
+During the fourth quarter of fiscal 2026, the Company entered into a settlement agreement to resolve litigation related to credit card interchange fees in which the Company was a plaintiff. The settlement resulted in a non-recurring gain of $ 419  million, net of legal expenses, which was recorded during the fourth quarter of fiscal 2026. Amounts related to the settlement were received during the quarter ended May 2, 2026 and reflected in operating activities of the Consolidated Statements of Cash Flows.
+Future Adoption of New Accounting Standards
+From time to time, the Financial Accounting Standards Board (“FASB”) or other standard setting bodies issue new accounting pronouncements. Updates to the FASB Accounting Standards Codification are communicated through issuance of an Accounting Standards Update (“ASU”). Unless otherwise discussed, the Company has reviewed the new guidance and has determined that it will either not apply to TJX or is not expected to be material to its Consolidated Financial Statements upon adoption, and, therefore, the guidance is not disclosed.
+9
+Disaggregation of Income Statement Expenses
+In November 2024, the FASB issued new guidance to enhance the disclosure of expenses by requiring further disaggregation of relevant expenses in a separate note to the financial statements. This standard is effective for fiscal years beginning after December 15, 2026, and for interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted. The Company is currently evaluating the impact of this adoption on its consolidated financial statement disclosures and plans to adopt this standard for the fiscal 2028 Form 10-K.
+Improvements to Accounting for Internal-Use Software
+In September 2025, the FASB issued new guidance to modernize the accounting for internal-use software costs by increasing the operability of the recognition guidance considering different methods of software development. This standard is effective for fiscal years beginning after December 15, 2027, and for interim periods within those fiscal years, with early adoption permitted. The Company is currently evaluating the impact of the adoption on its consolidated financial statement disclosures and plans to adopt this standard for annual reporting as well as interim period reporting beginning in fiscal year 2029.
+Note B.  Property at Cost
+The following table presents the components of property at cost:
+In millions    May 2,
+2026    January 31,
+2026    May 3,
+2025
+Land and buildings
+$     2,969         $     2,822       $     2,603
+Leasehold costs and improvements
+5,587          5,466        4,944
+Furniture, fixtures and equipment     9,686          9,519        8,992
+Total property at cost    $     18,242         $     17,807       $     16,539
+Less: accumulated depreciation and amortization
+9,795          9,587        8,985
+Net property at cost    $     8,447         $     8,220       $     7,554
+Depreciation expense was $ 335  million and $ 295  million for the three months ended May 2, 2026 and May 3, 2025, respectively.
+Non-cash investing activities consist of accrued capital additions of $ 214  million and $ 166  million as of the periods ended May 2, 2026 and May 3, 2025, respectively.
+Note C.  Accumulated Other Comprehensive (Loss) Income
+Amounts included in Accumulated other comprehensive (loss) income are recorded net of taxes.  The following table details the changes in Accumulated other comprehensive (loss) income for the twelve months ended January 31, 2026 and the three months ended May 2, 2026:
+In millions and net of immaterial taxes    Foreign
+Currency
+Translation    Deferred
+Benefit
+Costs     Accumulated
+Other
+Comprehensive
+(Loss) Income
+Balance, February 1, 2025
+$    ( 619 )     $     10          $    ( 609 )
+Additions to other comprehensive (loss):
+Foreign currency translation adjustments, net of taxes     245       —        245
+Recognition of net gains on benefit obligations, net of taxes    —       14         14
+Reclassifications from other comprehensive (loss) to net income:
+Amortization of prior service cost and deferred (losses), net of taxes    —      ( 1 )      ( 1 )
+Balance, January 31, 2026
+$    ( 374 )     $     23          $    ( 351 )
+Additions to other comprehensive (loss):
+Foreign currency translation adjustments, net of taxes    ( 20 )     —         ( 20 )
+Reclassifications from other comprehensive (loss) to net income:
+Amortization of prior service cost and deferred gains, net of taxes    —         0           0
+Balance, May 2, 2026
+$    ( 394 )     $     23          $    ( 371 )
+10
+Note D.  Capital Stock and Earnings Per Share
+Capital Stock
+In February 2026, the Company announced that its Board of Directors had approved a new stock repurchase program that authorizes the repurchase of up to an additional $ 3.0  billion of TJX common stock from time to time. Under this program and previously announced programs, TJX had approximately $ 3.5  billion available for repurchase as of May 2, 2026.
+The following table provides share repurchases, excluding applicable excise tax:
+Thirteen Weeks Ended
+In millions      May 2,
+2026    May 3,
+2025
+Total number of shares repurchased and retired       3.8          5.1
+Total cost
+$     604         $     613
+All shares repurchased under the stock repurchase programs have been retired. These expenditures were funded by cash on hand and cash generated from operations.
+Earnings Per Share
+The following table presents the calculation of basic and diluted earnings per share:
+Thirteen Weeks Ended
+Amounts in millions, except per share amounts      May 2,
+2026    May 3,
+2025
+Basic earnings per share:
+Net income
+$     1,332         $     1,036
+Weighted average common shares outstanding for basic earnings per share calculation
+1,106          1,118
+Basic earnings per share
+$     1.20         $     0.93
+Diluted earnings per share:
+Net income
+$     1,332         $     1,036
+Weighted average common shares outstanding for basic earnings per share calculation
+1,106          1,118
+Assumed exercise/vesting of stock options and awards       14          14
+Weighted average common shares outstanding for diluted earnings per share calculation
+1,120          1,132
+Diluted earnings per share
+$     1.19         $     0.92
+Cash dividends declared per share      $     0.480         $     0.425
+The weighted average common shares for the diluted earnings per share calculation excludes the impact of outstanding stock options if the assumed proceeds per share of the option is in excess of the average price of TJX’s common stock for the related fiscal periods. Such options are excluded because they would have an antidilutive effect. There were  3  million and  4  million antidilutive options excluded for the thirteen weeks ended May 2, 2026 and May 3, 2025, respectively.
+Note E.  Financial Instruments
+As a result of its operating and financing activities, TJX is exposed to market risks from changes in interest and foreign currency exchange rates and fuel costs. These market risks may adversely affect TJX’s operating results and financial position. TJX seeks to minimize risk from changes in interest and foreign currency exchange rates and fuel costs through the use of derivative financial instruments when and to the extent deemed appropriate. TJX does not use derivative financial instruments for trading or other speculative purposes and does not use any leveraged derivative financial instruments. TJX recognizes all derivative instruments as either assets or liabilities in the Consolidated Balance Sheets and measures those instruments at fair value. The fair values of the derivatives are classified as assets or liabilities, current or non-current, based upon valuation results and settlement dates of the individual contracts. Changes to the fair value of derivative contracts that do not qualify for hedge accounting are reported in earnings in the period of the change. For derivatives that qualify for hedge accounting, changes in the fair value of the derivatives are either recorded in shareholders’ equity as a component of Accumulated other comprehensive (loss) income or are recognized currently in earnings, along with an offsetting adjustment against the basis of the item being hedged. Gains and losses on derivative instruments are reported in the Consolidated Statements of Cash Flows in operating activities, under Other, net.
+11
+Diesel Fuel Contracts
+TJX hedges portions of its estimated notional diesel fuel requirements in the U.S. based on the diesel fuel expected to be consumed by independent freight carriers transporting TJX’s inventory. Independent freight carriers transporting TJX’s inventory charge TJX a mileage surcharge based on the price of diesel fuel. The hedge agreements are economic hedges designed to mitigate the volatility of diesel fuel pricing, and the resulting per mile surcharges payable by TJX, by setting a fixed price per gallon for the period being hedged. Generally, the Company’s intention is to hedge approximately  50 % of its estimated notional domestic diesel fuel requirements for the succeeding twelve months. The hedge agreements outstanding at May 2, 2026 relate to approximately  40 % of TJX’s estimated notional diesel fuel requirements for the remainder of fiscal 2027 and the first quarter of fiscal 2028. These diesel fuel hedge agreements will settle throughout fiscal 2027 and throughout the first four months of fiscal 2028. Upon settlement, the realized gains and losses on these contracts are recorded in Cost of sales, including buying and occupancy costs. TJX elected not to apply hedge accounting to these contracts.
+Foreign Currency Contracts
+TJX enters into forward foreign currency exchange contracts to obtain economic hedges on portions of merchandise purchases made and anticipated to be made by the Company’s operations in currencies other than their respective functional currencies. The contracts outstanding at May 2, 2026 cover merchandise purchases the Company is committed to over the next several months in fiscal 2027. Additionally, TJX’s operations in Europe are subject to foreign currency exposure as a result of their U.K. centralized buying function. Merchandise is purchased centrally in the U.K. and then shipped and billed to the retail entities in other countries. This intercompany billing to TJX’s European businesses’ Euro denominated operations creates exposure to the central buying entity for changes in the exchange rate between the Euro and British Pound. A portion of the inflows of Euros to the central buying entity provides a natural hedge for Euro denominated merchandise purchases from third-party vendors. TJX calculates any excess Euro exposure each month and enters into forward contracts of approximately  30  days' duration to mitigate this excess exposure. Upon settlement, the realized gains and losses on these contracts are recorded in Cost of sales, including buying and occupancy costs. TJX elected not to apply hedge accounting to these contracts.
+TJX also enters into derivative contracts, generally designated as fair value hedges, to hedge intercompany debt. The changes in fair value of these contracts are recorded in Selling, general and administrative expenses and are offset by marking the underlying item to fair value in the same period. Upon settlement, the realized gains and losses on these contracts are offset by the realized gains and losses of the underlying item in Selling, general and administrative expenses.
+12
+The following is a summary of TJX’s derivative financial instruments, related fair value and balance sheet classification at May 2, 2026:
+In millions    Pay    Receive    Blended
+Contract
+Rate    Balance Sheet
+Location    Current
+Asset
+U.S.$    Current
+(Liability)
+U.S.$
+Net Fair
+Value in
+U.S.$ at
+May 2,
+2026
+Fair value hedges:
+Intercompany balances, primarily debt:
+€     83       £     73        0.8788       Prepaid Exp    $     1.4         $     —         $     1.4
+A$     240       U.S.$     160        0.6648       (Accrued Exp)     —         ( 12.5 )     ( 12.5 )
+€     200       U.S.$     237        1.1869       Prepaid Exp     1.7          —          1.7
+Economic hedges for which hedge accounting was not elected:
+Diesel fuel contracts
+Fixed on
+0.8 M –  3.9 M
+gal per month
+Float on
+0.8 M –  3.9 M
+gal per month
+N/A    Prepaid Exp     50.0          —          50.0
+Intercompany billings in TJX International, primarily merchandise:
+€     161       £     140        0.8709       Prepaid Exp     1.7          —          1.7
+Merchandise purchase commitments:
+C$     985       U.S.$     720        0.7311       Prepaid Exp / (Accrued Exp)     0.5         ( 7.3 )     ( 6.8 )
+C$     39       €     24        0.6227       Prepaid Exp / (Accrued Exp)     0.1         ( 0.3 )     ( 0.2 )
+£     552       U.S.$     740        1.3415       Prepaid Exp / (Accrued Exp)     1.0         ( 9.9 )     ( 8.9 )
+zł     423       £     87        0.2055       Prepaid Exp / (Accrued Exp)     1.4         ( 0.2 )      1.2
+A$     134       U.S.$     92        0.6875       (Accrued Exp)     —         ( 4.2 )     ( 4.2 )
+U.S.$     125       €     106        0.8487       Prepaid Exp / (Accrued Exp)     0.5         ( 0.7 )     ( 0.2 )
+Total fair value of derivative financial instruments     $     58.3         $    ( 35.1 )     $     23.2
+13
+The following is a summary of TJX’s derivative financial instruments, related fair value and balance sheet classification at January 31, 2026:
+In millions    Pay    Receive    Blended
+Contract
+Rate    Balance Sheet
+Location    Current
+Asset
+U.S.$    Current
+(Liability)
+U.S.$
+Net Fair
+Value in
+U.S.$ at
+January 31,
+2026
+Fair value hedges:
+Intercompany balances, primarily debt:
+€     83       £     73        0.8759       Prepaid Exp    $     0.9       $     —        0.9
+A$     240       U.S.$     160        0.6648       (Accrued Exp)     —       ( 6.9 )     ( 6.9 )
+€     200       U.S.$     234        1.1718       (Accrued Exp)     —       ( 3.2 )     ( 3.2 )
+Economic hedges for which hedge accounting was not elected:
+Diesel fuel contracts
+Fixed on
+3.2 M –  3.9 M
+gal per month
+Float on
+3.2 M–  3.9 M
+gal per month
+N/A    Prepaid Exp     6.2        —        6.2
+Intercompany billings in TJX International, primarily merchandise:
+€     111       £     96        0.8680       Prepaid Exp     0.2        —        0.2
+Intercompany balances in TJX International:
+£     168       U.S.$     226        1.3472     (Accrued Exp)     —       ( 3.6 )     ( 3.6 )
+Merchandise purchase commitments:
+C$     856       U.S.$     620        0.7241       Prepaid Exp / (Accrued Exp)     0.1       ( 10.8 )     ( 10.7 )
+C$     37       €     23        0.6176       Prepaid Exp / (Accrued Exp)     0.0       ( 0.1 )     ( 0.1 )
+£     572       U.S.$     766        1.3386       (Accrued Exp)     —       ( 17.0 )     ( 17.0 )
+zł     402       £     83        0.2062       Prepaid Exp / (Accrued Exp)     0.7       ( 0.3 )      0.4
+A$     122       U.S.$     81        0.6621       (Accrued Exp)     —       ( 4.1 )     ( 4.1 )
+U.S.$     87       €     74        0.8495       Prepaid Exp / (Accrued Exp)     0.9       ( 0.1 )      0.8
+Total fair value of derivative financial instruments     $     9.0         $    ( 46.1 )     $    ( 37.1 )
+14
+The following is a summary of TJX’s derivative financial instruments, related fair value and balance sheet classification at May 3, 2025:
+In millions    Pay    Receive    Blended
+Contract
+Rate    Balance Sheet
+Location    Current
+Asset
+U.S.$    Current
+(Liability)
+U.S.$
+Net Fair
+Value in
+U.S.$ at
+May 3,
+2025
+Fair value hedges:
+Intercompany balances, primarily debt:
+€     80       £     68        0.8522       (Accrued Exp)    $     —       $    ( 0.5 )     $    ( 0.5 )
+A$     210       U.S.$     135        0.6420       Prepaid Exp / (Accrued Exp)     1.4       ( 2.1 )     ( 0.7 )
+U.S.$     67       £     55        0.8177       Prepaid Exp     5.8        —        5.8
+£     50       U.S.$     61        1.2222       (Accrued Exp)     —       ( 5.3 )     ( 5.3 )
+€     200       U.S.$     220        1.1005       Prepaid Exp / (Accrued Exp)     0.1       ( 9.0 )     ( 8.9 )
+Economic hedges for which hedge accounting was not elected:
+Diesel fuel contracts
+Fixed on
+3.1 M –  4.1 M
+gal per month
+Float on
+3.1 M –  4.1 M
+gal per month
+N/A    (Accrued Exp)     —       ( 16.1 )     ( 16.1 )
+Intercompany billings in TJX International, primarily merchandise:
+€     195       £     167        0.8549       Prepaid Exp     0.8        —        0.8
+Merchandise purchase commitments:
+C$     926       U.S.$     655        0.7070       (Accrued Exp)     —       ( 18.1 )     ( 18.1 )
+C$     31       €     20        0.6546       Prepaid Exp / (Accrued Exp)     0.5       ( 0.0 )      0.5
+£     488       U.S.$     624        1.2778       Prepaid Exp / (Accrued Exp)     0.5       ( 24.9 )     ( 24.4 )
+zł     489       £     95        0.1950       Prepaid Exp / (Accrued Exp)     0.1       ( 2.4 )     ( 2.3 )
+A$     93       U.S.$     59        0.6346       Prepaid Exp / (Accrued Exp)     0.0       ( 0.9 )     ( 0.9 )
+U.S.$     109       €     101        0.9204       Prepaid Exp / (Accrued Exp)     5.1       ( 0.2 )      4.9
+Total fair value of derivative financial instruments     $     14.3         $    ( 79.5 )     $    ( 65.2 )
+15
+The impact of derivative financial instruments on the Consolidated Statements of Income is presented below:
+Amount of Gain (Loss) Recognized
+in Income by Derivative
+Location of Gain (Loss) Recognized in Income by
+Derivative
+Thirteen Weeks Ended
+In millions      May 2,
+2026    May 3,
+2025
+Fair value hedges:
+Intercompany balances, primarily debt      Selling, general and administrative expenses        $    ( 1 )     $    ( 23 )
+Economic hedges for which hedge accounting was not elected:
+Intercompany balances in TJX International    Selling, general and administrative expenses       4          —
+Diesel fuel contracts    Cost of sales, including buying and occupancy costs       47         ( 12 )
+Intercompany billings in TJX International, primarily merchandise    Cost of sales, including buying and occupancy costs       2         ( 3 )
+Merchandise purchase commitments    Cost of sales, including buying and occupancy costs       2         ( 59 )
+Gain (loss) recognized in income      $     54         $    ( 97 )
+Note F.  Fair Value Measurements
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date (also referred to as exit price). The inputs used to measure fair value are generally classified into the following hierarchy:
+Level 1:          Unadjusted quoted prices in active markets for identical assets or liabilities
+Level 2:          Unadjusted quoted prices in active markets for similar assets or liabilities, or unadjusted quoted prices for identical or similar assets or liabilities in markets that are not active, or inputs other than quoted prices that are observable for the asset or liability
+Level 3:          Unobservable inputs for the asset or liability
+The following table sets forth TJX’s financial assets and liabilities that are accounted for at fair value on a recurring basis:
+In millions    May 2,
+2026    January 31,
+2026    May 3,
+2025
+Level 1
+Assets:
+Executive Savings Plan investments    $     581.8         $     561.6       $     471.0
+Level 2
+Assets:
+Foreign currency exchange contracts    $     8.3         $     2.8       $     14.3
+Diesel fuel contracts     50.0          6.2        —
+Liabilities:
+Foreign currency exchange contracts    $     35.1         $     46.1       $     63.4
+Diesel fuel contracts     —          —        16.1
+Investments designed to meet obligations under the Executive Savings Plan are invested in registered investment companies traded in active markets and are recorded at unadjusted quoted prices.
+Foreign currency exchange contracts and diesel fuel contracts are valued using broker quotations, which include observable market information. TJX does not make adjustments to quotes or prices obtained from brokers or pricing services but does assess the credit risk of counterparties and will adjust final valuations when appropriate. Where independent pricing services provide fair values, TJX obtains an understanding of the methods used in pricing. As such, these instruments are classified within Level 2.
+16
+The following table summarizes the carrying value and fair value estimates of the Company’s components of long-term debt:
+May 2,
+2026    January 31,
+2026    May 3,
+2025
+In millions    Carrying Value    Fair Value    Carrying Value    Fair Value    Carrying Value    Fair Value
+Level 2
+Current portion of long-term debt    $     999         $     994         $     999       $     991       $     —       $     —
+Long-term debt    $     1,871         $     1,730         $     1,870       $     1,738       $     2,867       $     2,669
+The fair value of TJX’s general corporate debt was estimated by obtaining market quotes given the trading levels of other bonds of the same general issuer type and market perceived credit quality. These inputs are considered to be Level 2 inputs. These estimates do not necessarily reflect provisions or restrictions in the various debt agreements that might affect TJX’s ability to settle these obligations.
+For additional information on long-term debt, see Note I—Long-Term Debt and Credit Lines.
+TJX’s cash equivalents are stated at cost, which approximates fair value due to the short maturities of these instruments.
+The majority of the Company’s assets and liabilities are not measured at fair value on an ongoing basis. Certain assets and liabilities are measured at fair value on a nonrecurring basis and are subject to fair value adjustments in certain circumstances, such as when there is evidence of an impairment. For the periods ended May 2, 2026, January 31, 2026 and May 3, 2025, the Company did not record any material impairments to long-lived assets.
+Note G.  Segment Information
+TJX operates   four   segments. TJX defines its segments as those operations whose results are regularly reviewed by the Chief Executive Officer, who is the Company’s chief operating decision maker (“CODM”), to analyze performance and allocate resources. In the United States, the Marmaxx segment operates TJ Maxx, Marshalls, tjmaxx.com and marshalls.com and the HomeGoods segment operates HomeGoods and Homesense. The TJX Canada segment operates Winners, HomeSense and Marshalls in Canada, and the TJX International segment operates TK Maxx, Homesense, tkmaxx.com, tkmaxx.de, and tkmaxx.at in Europe and TK Maxx in Australia. In addition to the Company’s   four   segments,   Sierra operates retail stores and sierra.com in the U.S.   The results of Sierra are included in the Marmaxx segment.
+All of TJX’s stores, with the exception of HomeGoods and HomeSense/Homesense, sell apparel and home fashions. HomeGoods and HomeSense/Homesense offer home fashions.
+The CODM regularly reviews net sales by segment and segment profit or loss. There are no significant expense categories or amounts regularly provided to the CODM and included in reported segment profit or loss. As such, no significant expense categories are disclosed in the table below. The CODM evaluates the performance of the Company’s segments based on “segment profit or loss,” which it defines as pre-tax income or loss before general corporate expense, interest (income) expense, net and certain separately disclosed unusual or infrequent items. “Segment profit or loss,” as defined by TJX, may not be comparable to similarly titled measures used by other entities. This measure of performance should not be considered an alternative to net income or cash flows from operating activities as an indicator of TJX’s performance or as a measure of liquidity.
+17
+Presented below is financial information with respect to TJX’s segments:
+Thirteen Weeks Ended
+In millions      May 2,
+2026    May 3,
+2025
+United States:
+Marmaxx
+Net sales      $     8,650         $     8,052
+Segment expenses  (a)
+7,381          6,945
+Segment profit      $     1,269         $     1,107
+HomeGoods
+Net sales      $     2,506         $     2,254
+Segment expenses  (a)
+2,183          2,024
+Segment profit      $     323         $     230
+TJX Canada
+Net sales      $     1,285         $     1,144
+Segment expenses  (a)
+1,135          1,022
+Segment profit      $     150         $     122
+TJX International
+Net sales      $     1,882         $     1,661
+Segment expenses  (a)
+1,795          1,589
+Segment profit      $     87         $     72
+Total TJX
+Net sales      $     14,323         $     13,111
+Segment expenses  (a)
+12,494          11,580
+Segment profit      $     1,829         $     1,531
+General corporate expense       143          215
+Interest (income) expense, net      ( 35 )     ( 30 )
+Income before income taxes      $     1,721         $     1,346
+(a)        Segment expenses for each reportable segment include cost of sales and selling, general and administrative expenses. Cost of sales includes buying and occupancy costs, cost of merchandise sold, and other expenses. Selling, general and administrative expenses include store payroll and benefit costs, communication costs, and other expenses. Refer to Note A - Basis of Presentation and Summary of Accounting Policies of Notes to Consolidated Financial Statements included in TJX’s Annual Report on Form 10-K for the fiscal year ended January 31, 2026 for more information on the classifications.
+The following table presents identifiable assets by segment:
+In millions    May 2,
+2026    January 31,
+2026    May 3,
+2025
+Identifiable assets:
+United States:
+Marmaxx    $     16,612         $     15,789       $     14,747
+HomeGoods     4,234          4,307        4,172
+TJX Canada     2,646          2,485        2,333
+TJX International     4,956          4,916        4,534
+Segment identifiable assets    $     28,448         $     27,497       $     25,786
+Corporate  (a)
+7,710          8,270        6,072
+Total identifiable assets
+$     36,158         $     35,767       $     31,858
+(a)  Corporate identifiable assets primarily include cash and trust assets from the Executive Savings Plan and the equity method investments. Consolidated cash, including that held by foreign entities, is reported with Corporate assets for consistency with segment reporting in the U.S.
+18
+The following table presents capital expenditures and depreciation and amortization by segment:
+Thirteen Weeks Ended
+In millions      May 2,
+2026    May 3,
+2025
+Capital expenditures:
+United States:
+Marmaxx      $     374         $     339
+HomeGoods       69          61
+TJX Canada       150          34
+TJX International       69          63
+Total capital expenditures
+$     662         $     497
+Depreciation and amortization:
+United States:
+Marmaxx      $     190         $     165
+HomeGoods       60          56
+TJX Canada       28          24
+TJX International       57          50
+Segment depreciation and amortization      $     335         $     295
+Corporate  (a)
+1          1
+Total depreciation and amortization      $     336         $     296
+(a)  Includes debt discount accretion and debt expense amortization.
+Note H.  Pension Plans and Other Retirement Benefits
+Presented below is financial information relating to TJX’s funded defined benefit pension plan (“qualified pension plan” or “funded plan”) and its unfunded supplemental pension plan (“unfunded plan”) for the periods shown:
+Funded Plan    Unfunded Plan
+Thirteen Weeks Ended    Thirteen Weeks Ended
+In millions    May 2,
+2026    May 3,
+2025    May 2,
+2026    May 3,
+2025
+Service cost    $     7         $     7       $     1         $     0
+Interest cost     19          19        2          2
+Expected return on plan assets    ( 22 )     ( 22 )      —          —
+Amortization of prior service (credit) and net actuarial loss    ( 0 )     ( 0 )      0      0
+Total expense    $     4         $     4         $     3         $     2
+TJX’s policy with respect to the funded plan is to fund, at a minimum, the amount required to maintain a funded status of  80 % of the applicable pension liability (the Funding Target pursuant to the Internal Revenue Code section 430) or such other amount as is sufficient to avoid restrictions with respect to the funding of nonqualified plans under the Internal Revenue Code. The Company does not anticipate any required funding in fiscal 2027 for the funded plan. The Company anticipates making contributions of $ 6  million to provide current benefits coming due under the unfunded plan in fiscal 2027.
+The amounts included in Amortization of prior service (credit) and net actuarial loss in the table above have been reclassified in their entirety from Accumulated other comprehensive (loss) income to the Consolidated Statements of Income, net of related tax effects, for the periods presented.
+19
+Note I.  Long-Term Debt and Credit Lines
+The table below presents long-term debt as of May 2, 2026, January 31, 2026 and May 3, 2025. All amounts are net of unamortized debt discounts.
+In millions and net of immaterial unamortized debt discounts    May 2,
+2026    January 31,
+2026    May 3,
+2025
+General corporate debt:
+2.250 % senior unsecured notes, maturing September 15, 2026 (effective interest rate of  2.32 % after reduction of unamortized debt discount)
+$     999         $     999       $     998
+1.150 % senior unsecured notes, maturing May 15, 2028 (effective interest rate of  1.18 % after reduction of unamortized debt discount)
+500          500        500
+3.875 % senior unsecured notes, maturing April 15, 2030 (effective interest rate of  3.89 % after reduction of unamortized debt discount)
+496          496        496
+1.600 % senior unsecured notes, maturing May 15, 2031 (effective interest rate of  1.61 % after reduction of unamortized debt discount)
+500          500        500
+4.500 % senior unsecured notes, maturing April 15, 2050 (effective interest rate of  4.52 % after reduction of unamortized debt discount)
+383          383        383
+Total debt     2,878          2,878        2,877
+Current maturities of long-term debt, net of debt issuance costs    ( 999 )     ( 999 )      —
+Debt issuance costs    ( 8 )     ( 9 )     ( 10 )
+Long-term debt    $     1,871         $     1,870       $     2,867
+Credit Facilities
+As of May 2, 2026, the Company has  two  revolving credit facilities, a $ 750  million senior unsecured revolving credit facility maturing in May 2029 and a $ 750  million senior unsecured revolving credit facility maturing in May 2030. Borrowings under the revolving credit facilities bear interest at a rate per annum equal to the term secured overnight financing rate plus a margin of  45.0  -  87.5  basis points, depending on the Company’s public debt rating.
+A  s of May 2, 2026, January 31, 2026 and May 3, 2025, and during the quarters and year then ended, there were    no    amounts outstanding under these facilities. TJX was in compliance with all covenants related to its credit facilities at the end of all periods presented.
+Note J.  Income Taxes
+On July 4, 2025, the One Big Beautiful Bill Act was signed into law, making permanent certain expiring provisions of the Tax Cuts and Jobs Act, including 100% accelerated depreciation deductions on qualified property and immediate expensing of domestic research and development costs, as well as modifying some of the international tax rules. These changes have not had a material impact on the Company’s income tax provision for the first quarter of fiscal 2027.
+A number of countries have enacted legislation to implement the Organization for Economic Cooperation and Development’s 15% global minimum tax regime (Pillar Two) with effect from January 1, 2024. A comprehensive Side-by-Side Package was released in January 2026, introducing additional safe harbors and options for companies headquartered in jurisdictions with a qualified Side-by-Side regime. Member countries must enact local legislation or update existing regulations to adopt and incorporate the Pillar Two Side-by-Side Package. We continue to evaluate the impacts of proposed and enacted legislation for the jurisdictions in which TJX operates.
+The e  ffective income tax rate was  22.6 % for the first quarter of fiscal 2027 and  23.0 % for the first quarter of fiscal 2026. The decrease in the effective income tax rate for the first quarter of fiscal 2027 was primarily due to the increase in an excess tax benefit from share-based compensation and a benefit from the acquisition of federal tax credits, partially offset by a reduction of benefits from audit settlements.
+TJX is subject to U.S. federal income tax as well as income tax in multiple state, local and foreign jurisdictions. For the U.S. federal income tax purposes, fiscal years through 2010 are no longer subject to examination. The Company is under examination in various jurisdictions, including the U.S. (federal, state, and local) as well as foreign, and believes it has adequately provided for all tax positions in such jurisdictions.
+20
+Note K.  Contingent Obligations, Contingencies, and Commitments
+Contingent Contractual Obligations
+TJX is a party to various agreements under which it may be obligated to indemnify the other party with respect to certain losses related to matters including title to assets sold, specified environmental matters or certain income taxes. These obligations are sometimes limited in time or amount. There are no amounts reflected in the Company’s Consolidated Balance Sheets with respect to these contingent obligations.
+Legal Contingencies
+TJX is subject to certain legal proceedings, lawsuits, disputes and claims that arise from time to time in the ordinary course of its business. TJX has accrued immaterial amounts in the accompanying Consolidated Financial Statements for certain of its legal proceedings.
+Other Matters
+In February 2026, the U.S. Supreme Court issued a decision invalidating tariffs imposed under the International Emergency Economic Powers Act (“IEEPA”). The Company estimates it has paid approximately $ 490  million in IEEPA related tariffs. U.S. Customs and Border Patrol (“CBP”) has established a phased administrative process for submitting refund claims for certain IEEPA tariffs. However, the amount, timing and likelihood of any refund recovery remain uncertain. The amount of any refunds, if received, may not equal the full amount of IEEPA related tariffs paid, and any refunds remain subject to further legal, regulatory or administrative developments.
+As of May 2, 2026,   the Company has not recorded a receivable for any potential refunds and continues to monitor ongoing legal, administrative and regulatory processes. The Company will recognize a receivable and associated income if the right to receive such amounts becomes realized or realizable in accordance with ASC 450, Contingencies.
+Subsequent to the end of the first quarter of fiscal 2027, the Company filed for refunds that it believes are eligible under phase 1 of the CBP process and as of May 29, 2026, have received an immaterial amount in refunds.
+21
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The Thirteen Weeks (first quarter) Ended May 2, 2026
+Compared to
+The Thirteen Weeks (first quarter) Ended May 3, 2025
+OVERVIEW
+We are the leading off-price apparel and home fashions retailer in the U.S. and worldwide. Our mission is to deliver great value to our customers every day. We do this by selling a rapidly changing assortment of apparel, home fashions and other merchandise at prices generally 20% to 60% below full-price retailers’ (including department, specialty and major online retailers) regular prices on comparable merchandise, every day through our stores   and six e-commerce sites  . We opera  te over   5,200 stores through our four segments: in the U.S., Marmaxx (which operates TJ Maxx, Marshalls, tjmaxx.com and marshalls.com) and HomeGoods (which operates HomeGoods and Homesense); TJX Canada (which operates Winners, HomeSense and Marshalls in Canada); and TJX International (which operates TK Maxx, Homesense, tkmaxx.com, tkmaxx.de, and tkmaxx.at in Europe, and TK Maxx in Australia). In addition to our four segments, Sierra operates retail stores and sierra.com in the U.S. The results of Sierra are included in the Marmaxx segment.
+RESULTS OF OPERATIONS
+As an overview of our financial performance, results for the quarter ended May 2, 2026 include the following:
+–  Net sales increased 9% to $14.3 billion for the first quarter of fiscal 2027 versus last year’s first quarter sales of $13.1 billion. As of May 2, 2026, both the number of stores in operation and the selling square footage increased approximately 3% compared to the end of the first quarter of fiscal 2026.
+–  Consolidated comp sales increased 6% for the first quarter of fiscal 2027. See Net Sales below for our definition of comp sales.
+–  Diluted earnings per share for the first quarter of fiscal 2027 were $1.19 versus $0.92 in the first quarter of fiscal 2026.
+–  Pre-tax profit margin (the ratio of pre-tax income to net sales) for the first quarter of fiscal 2027 was 12.0%, a 1.7 percentage point increase compared with 10.3% in the first quarter of fiscal 2026.
+–  Our cost of sales, including buying and occupancy costs, ratio for the first quarter of fiscal 2027 was 68.7%, a 1.8 percentage point decrease compared with 70.5% in the first quarter of fiscal 2026.
+–  Our selling, general and administrative (“SG&A”) expense ratio for the first quarter of fiscal 2027 was 19.5%, a 0.1 percentage point increase compared with 19.4% in the first quarter of fiscal 2026.
+–  Our consolidated average per store inventories, including inventory on hand at our distribution centers (which excludes inventory in transit) and excluding our e-commerce sites, were up 7% at the end of the first quarter of fiscal 2027 compared to the first quarter of fiscal 2026.
+–  During the first quarter of fiscal 2027, we returned $1.1 billion to our shareholders through share repurchases and dividends.
+Operating Results as a Percentage of Net Sales
+The following table sets forth our consolidated operating results as a percentage of net sales:
+Thirteen Weeks Ended
+May 2,
+2026    May 3,
+2025
+Net sales       100.0       %    100.0     %
+Cost of sales, including buying and occupancy costs       68.7        70.5
+Selling, general and administrative expenses       19.5        19.4
+Interest (income) expense, net       (0.2)     (0.2)
+Income before income taxes  *
+12.0       %    10.3     %
+*  Figures may not foot due to rounding.
+22
+Recent Events and Trends
+Global Economic Conditions and Tariffs
+We continue to closely monitor changes in international trade relations, economic and monetary policies, and legislation and regulations including those related to tariffs on imports from China and other countries. While we have been, and believe we can continue to be, successful in mitigating tariff pressures, tariffs have led to significant volatility in the global economy. We are continuing to implement and consider additional measures that seek to mitigate the impact of tariffs.
+In February 2026, the U.S. Supreme Court issued a decision invalidating tariffs imposed under the International Emergency Economic Powers Act (“IEEPA”). We estimate we have paid approximately $ 490  million in IEEPA related tariffs. U.S. Customs and Border Patrol (“CBP”) has established a phased administrative process for submitting refund claims for certain IEEPA tariffs. However, the amount, timing and likelihood of any refund recovery remain uncertain. The amount of any refunds, if received, may not equal the full amount of IEEPA related tariffs paid, and any refunds remain subject to further legal, regulatory or administrative developments.
+As of May 2, 2026,   we have not recorded a receivable for any potential refunds and continue to monitor ongoing legal, administrative and regulatory processes. We will recognize a receivable and associated income if the right to receive such amounts becomes realized or realizable in accordance with ASC 450, Contingencies. Subsequent to the end of the first quarter of fiscal 2027, we filed for refunds that we believe are eligible under phase 1 of the CBP process and as of May 29, 2026 have received an immaterial amount in refunds.
+The extent and duration of the tariffs and the resulting impact on general economic conditions and on our business, including potential IEEPA tariff refunds, continues to be uncertain. Our buying organization’s ability to execute our merchandise sourcing model to offset the effects of the tariffs is a key factor. However, the overall impact depends on a range of factors, including trade negotiations between the U.S. and other countries, responses of other countries, judicial review, exceptions that could be granted and cost of alternative sources of merchandise.
+Uncertainty remains regarding the continued impact on our direct imports, indirect imports, vendor and competitor pricing, consumer demand, tariff pass-throughs and retaliatory tariffs. We will continue to closely monitor developments related to tariffs and evaluate their potential impact on our business and financial condition.
+Net Sales
+Net sales for the quarter ended May 2, 2026 totaled $14.3 billion, a 9% increase versus first quarter fiscal 2026 net sales of $13.1 billion. This increase reflects a 6% increase in comp sales, a 2% increase from non-comp sales and a 1% positive impact from foreign currency. Net sales from our e-commerce sites combined amounted to approximately 2% of total sales for each of the first quarters of fiscal 2027 and fiscal 2026.
+Comp sales increased 6% and 3% for the first quarter of fiscal 2027 and fiscal 2026, respectively. Both apparel comp sales growth (as defined below) and home comp sales growth (as defined below) performed in line with comp sales growth for the first quarter of fiscal 2027. Comp sales for the first quarter of fiscal 2027 were driven by a higher average basket and an increase in customer transactions.
+As of May 2, 2026, both our store count and selling square footage increased approximately 3% compared to the end of the first quarter last year.
+Definition of Comparable Sales
+We define comparable sales, or comp sales, to be sales of stores and e-commerce sites that have been in operation for all or a portion of two consecutive fiscal years, or, in other words, stores or e-commerce sites that are starting their third fiscal year of operation. In any given fiscal year, we calculate comp sales on a 52-week basis by comparing the current and prior year weekly periods that are most closely aligned. Relocated stores and stores that have changed in size are generally classified in the same way as the original store, and we believe that the impact of these stores on the consolidated comp sales percentage is immaterial.
+Sales excluded from comp sales (“non-comp sales”) consist of sales from:
+–  New stores or e-commerce sites - stores or sites that have not yet met the comp sales criteria, which represents a substantial majority of non-comp sales
+–  Stores or e-commerce sites that are closed permanently or for an extended period of time
+We determine which stores and e-commerce sites are included in the comp sales calculation at the beginning of a fiscal year, and the classification remains constant throughout that year unless a store or e-commerce site is closed permanently or for an extended period during that fiscal year.
+23
+Comp sales of our foreign segments are calculated on a constant currency basis. We define constant currency basis as translating the current year’s results using the prior year’s exchange rates. This removes the effect of changes in currency exchange rates, which we believe is a more appropriate measure of performance.
+Comp sales may be referred to as “same store” sales by other retail companies. The method for calculating comp sales varies across the retail industry; therefore, our measure of comp sales may not be comparable to that of other retail companies. Comparable sales for a category such as home or apparel include sales from merchandise within such category combined across all divisions that fall within the Company’s definition of comparable sales for such period.
+We define customer transactions to be the number of transactions in stores or online included in the comp sales calculation. We define average ticket to be the average retail price of the units sold. We define average basket to be the average dollar value of transactions.
+Impact of Foreign Currency Exchange Rates
+Our operating results are affected by foreign currency exchange rates as a result of changes in the value of the U.S. dollar or a division’s local currency in relation to other currencies. We specifically refer to “foreign currency” as the impact of translational foreign currency exchange and mark-to-market of inventory derivatives, as described in detail below. This does not include the impact foreign currency exchange rates can have on various transactions that are denominated in a currency other than an operating division's local currency, which is referred to as “transactional foreign exchange,” and also described below.
+Translation Foreign Exchange
+In our Consolidated Financial Statements, we translate the operations of TJX Canada and TJX International from local currencies into U.S. dollars using currency rates in effect at different points in time. Significant changes in foreign exchange rates between comparable prior periods can result in meaningful variations in assets, liabilities, net sales, net income and earnings per share as well as the net sales and operating results of these segments. Currency translation generally does not affect operating margins, or affects them only slightly, as sales and expenses of the foreign operations are translated at approximately the same rates within a given period.
+Mark-to-Market Inventory Derivatives
+We routinely enter into inventory-related hedging instruments to mitigate the impact on earnings of changes in foreign currency exchange rates on merchandise purchases denominated in currencies other than the local currencies of our divisions, principally TJX Canada and TJX International. As we have not elected hedge accounting for these instruments, as defined by U.S. generally accepted accounting principles (“GAAP”), we record a mark-to-market gain or loss on the derivative instruments in our results of operations at the end of each reporting period. In subsequent periods, the income statement impact of the mark-to-market adjustment is effectively offset when the inventory being hedged is paid for. While these effects occur every reporting period, they are of much greater magnitude when there are sudden and significant changes in currency exchange rates during a short period of time. The mark-to-market adjustment on these derivatives does not affect net sales, but it does affect the cost of sales, operating margins and earnings we report.
+Transactional Foreign Exchange
+When discussing the impact on our results of the effect of foreign currency exchange rates on certain transactions, we refer to it as “transactional foreign exchange”. This primarily includes the impact that foreign currency exchange rates may have on the year-over-year comparison of merchandise margin as well as “foreign currency gains and losses” on transactions that are denominated in a currency other than the operating division's local currency. These two items can impact segment margin comparison of our foreign divisions and we have highlighted them when they are meaningful to understanding operating trends.
+Cost of Sales, Including Buying and Occupancy Costs
+Cost of sales, including buying and occupancy costs, as a percentage of net sales was 68.7% for the first quarter of fiscal 2027, a decrease of 1.8 percentage points compared to 70.5% for the first quarter of fiscal 2026.
+The decrease in the cost of sales ratio, including buying and occupancy costs, for the first quarter of fiscal 2027 was driven by favorable merchandise margin due to higher markon, the favorable year-over-year impact related to the mark-to-market adjustments on inventory and fuel hedges and expense leverage on higher comp sales.
+Selling, General and Administrative Expenses
+SG&A expenses, as a percentage of net sales, was 19.5% for the first quarter of fiscal 2027, an increase of 0.1 percentage points compared to 19.4% for the first quarter of fiscal 2026.
+24
+Interest (Income) Expense, net
+The components of interest (income) expense, net are summarized below:
+Thirteen Weeks Ended
+In millions       May 2,
+2026    May 3,
+2025
+Interest expense       $    20        $    20
+Capitalized interest       (2)     (2)
+Interest (income)       (53)     (48)
+Interest (income) expense, net       $    (35)     $    (30)
+Interest (income) expense, net increased for the first quarter of fiscal 2027 compared to the same period in fiscal 2026, primarily due to an increase in interest income driven by a higher average cash balance, partially offset by a decrease in prevailing rates.
+Provision for Income Taxes
+On July 4, 2025, the One Big Beautiful Bill Act was signed into law, making permanent certain expiring provisions of the Tax Cuts and Jobs Act, including 100% accelerated depreciation deductions on qualified property and immediate expensing of domestic research and development costs, as well as modifying some of the international tax rules. These changes have not had a material impact on our income tax provision for the first quarter of fiscal 2027, and we do not expect them to have a material impact on our income tax provision for the fiscal year.
+A number of countries have enacted legislation to implement the Organization for Economic Cooperation and Development’s 15% global minimum tax regime (Pillar Two) with effect from January 1, 2024. A comprehensive Side-by-Side Package was released in January 2026, introducing additional safe harbors and options for companies headquartered in jurisdictions with a qualified Side-by-Side regime. Member countries must enact local legislation or update existing regulations to adopt and incorporate the Pillar Two Side-by-Side Package. We continue to evaluate the impacts of proposed and enacted legislation for the jurisdictions in which we operate.
+The e  ffective income tax rate was 22.6% for the first quarter of fiscal 2027 and 23.0% for the first quarter of fiscal 2026. The decrease in the effective tax rate for the first quarter of fiscal 2027 was primarily due to the increase in an excess tax benefit from share-based compensation and a benefit from the acquisition of federal tax credits, partially offset by a reduction of benefits from audit settlements.
+Net Income and Diluted Earnings Per Share
+Net income was $1.3 billion, or $1.19 per diluted share, and $1 billion, or $0.92 per diluted share, for the first quarter of fiscal 2027 and fiscal 2026, respectively. Foreign currency had a $0.01 positive impact on diluted earnings per share for the first quarter of fiscal 2027 and a $0.02 negative impact on diluted earnings per share for the first quarter of fiscal 2026.
+Segment Information
+We operate four segments. In the United States, our Marmaxx segment operates TJ Maxx, Marshalls, tjmaxx.com and marshalls.com and our HomeGoods segment operates HomeGoods and Homesense. Our TJX Canada segment operates Winners, HomeSense and Marshalls in Canada, and our TJX International segment operates TK Maxx, Homesense, tkmaxx.com  , tkmaxx.de, and tkmaxx.at   in Europe and TK Maxx in Australia. In addition to our four segments, Sierra operates retail stores and sierra.com in the U.S. The results of Sierra are included in the Marmaxx segment.
+We evaluate the performance of our segments based on “segment profit or loss,” which we define as pre-tax income or loss before general corporate expense and interest (income) expense, net, and certain separately disclosed unusual or infrequent items. “Segment profit or loss,” as we define the term, may not be comparable to similarly titled measures used by other companies. The terms “segment margin” or “segment profit margin” are used to describe segment profit or loss as a percentage of net sales. These measures of performance should not be considered an alternative to net income or cash flows from operating activities, as an indicator of our performance or as a measure of liquidity.
+Presented below is selected financial information related to our segments.
+25
+U.S. SEGMENTS
+Marmaxx
+Thirteen Weeks Ended
+U.S. dollars in millions       May 2,
+2026    May 3,
+2025
+Net sales       $    8,650        $    8,052
+Segment profit       $    1,269        $    1,107
+Segment profit margin        14.7       %    13.7     %
+Comp sales
+6       %    2     %
+Stores in operation at end of period:
+TJ Maxx       1,354        1,338
+Marshalls       1,265        1,234
+Sierra        153        123
+Total       2,772        2,695
+Selling square footage at end of period (in millions):
+TJ Maxx       30        30
+Marshalls       28        27
+Sierra        2        2
+Total       60        59
+Net Sales
+Net sales for Marmaxx were $8.7 billion for the first quarter of fiscal 2027, an increase of 7% compared to $8.1 billion for the first quarter of fiscal 2026. This increase in the first quarter reflects a 6% increase from comp sales and a 1% increase from non-comp sales.
+For the first quarter of fiscal 2027, the increase in comp sales was driven by a higher average basket and an increase in customer transactions.   Marmaxx   apparel comp sales growth outperformed home comp sales growth for the first quarter of fiscal 2027. Geographically, each region performed in line with comp sales growth for the first quarter of fiscal 2027.
+Segment Profit Margin
+Segment profit margin increased to 14.7% for the first quarter of fiscal 2027 compared to 13.7% for the same period last year. The increase in segment profit margin for the first quarter of fiscal 2027 was primarily driven by favorable merchandise margin due to higher markon and expense leverage on higher comp sales.
+Our Marmaxx e-commerce sites, tjmaxx.com and marshalls.com, together with sierra.com, represented approximately 3% of Marmaxx’s net sales for the first quarter of fiscal 2027 and fiscal 2026, and did not have a significant impact on year-over-year segment margin comparisons.
+26
+HomeGoods
+Thirteen Weeks Ended
+U.S. dollars in millions       May 2,
+2026    May 3,
+2025
+Net sales       $    2,506        $    2,254
+Segment profit       $    323        $    230
+Segment profit margin       12.9       %    10.2     %
+Comp sales
+9       %    4     %
+Stores in operation at end of period:
+HomeGoods       969        950
+Homesense       84        75
+Total       1,053        1,025
+Selling square footage at end of period (in millions):
+HomeGoods       18        17
+Homesense       2        2
+Total       20        19
+Net Sales
+Net sales for HomeGoods were $2.5 billion for the first quarter of fiscal 2027, an increase of 11%, compared to $2.3 billion for the first quarter of fiscal 2026. This increase in the first quarter reflects a 9% increase from comp sales and a 2% increase from non-comp sales.
+The increase in comp sales was driven by a higher average basket and an increase in customer transactions for the first quarter of fiscal 2027. Geographically, all regions saw strong comp sales growth with comp sales growth being strongest in the Midwest for the first quarter of fiscal 2027.
+Segment Profit Margin
+Segment profit margin increased to 12.9% for the first quarter of fiscal 2027 compared to 10.2% for the same period last year. This increase in segment profit margin for the first quarter of fiscal 2027 was driven by favorable merchandise margin, expense leverage on higher comp sales and lower supply chain and store costs. Merchandise margin reflects lower freight costs and favorable markon, partially offset by higher markdowns.
+27
+FOREIGN SEGMENTS
+TJX Canada
+Thirteen Weeks Ended
+U.S. dollars in millions       May 2,
+2026    May 3,
+2025
+Net sales       $    1,285        $    1,144
+Segment profit       $    150        $    122
+Segment profit margin       11.7       %    10.7     %
+Comp sales
+7       %    5     %
+Stores in operation at end of period:
+Winners       319        310
+HomeSense       162        161
+Marshalls       112        110
+Total       593        581
+Selling square footage at end of period (in millions):
+Winners       7        7
+HomeSense       3        3
+Marshalls       2        2
+Total       12        12
+Net Sales
+Net sales for TJX Canada were $1.3 billion for the first quarter of fiscal 2027, an increase of 12%, compared to $1.1 billion for the first quarter of fiscal 2026. This increase in the first quarter reflects a 7% increase in comp sales, a positive foreign currency impact of 3% and a 2% increase in non-comp sales.
+The increase in comp sales for the first quarter of fiscal 2027 was driven by an increase in customer transactions and a higher average basket.
+Segment Profit Margin
+Segment profit margin increased to 11.7% for the first quarter of fiscal 2027 compared to 10.7% for the same period last year. This increase for the first quarter of fiscal 2027 was primarily driven by expense leverage on higher comp sales and the year-over-year benefit from unfavorable transactional foreign exchange last year.
+28
+TJX International
+Thirteen Weeks Ended
+U.S. dollars in millions       May 2,
+2026    May 3,
+2025
+Net sales       $    1,882        $    1,661
+Segment profit       $    87        $    72
+Segment profit margin       4.6       %    4.3     %
+Comp sales
+4       %    5     %
+Stores in operation at end of period:
+TK Maxx (Europe)       679        662
+Homesense (Europe)       74        74
+TK Maxx (Australia)       91        84
+Total       844        820
+Selling square footage at end of period (in millions):
+TK Maxx (Europe)       13        13
+Homesense (Europe)       1        1
+TK Maxx (Australia)       2        1
+Total       16        15
+Net Sales
+Net sales for TJX International were $1.9 billion for the first quarter of fiscal 2027, an increase of 13%, compared to $1.7 billion for the first quarter of fiscal 2026. This increase in the first quarter reflects a positive foreign currency impact of 6%, a 4% increase in comp sales and a 3% increase in non-comp sales.
+The increase in comp sales for the first quarter of fiscal 2027 was driven by an increase in customer transactions and a higher average basket.
+E-commerce sales represented approximately 3% of TJX International’s net sales for the first quarter of fiscal 2027 and approximately 4% for the first quarter of fiscal 2026.
+Segment Profit Margin
+Segment profit margin increased to 4.6% for the first quarter of fiscal 2027 compared to 4.3% for the same period last year. This increase for the first quarter of fiscal 2027 was primarily due to favorable merchandise margin, partially offset by incremental store wage. Within merchandise margin, higher markon, driven by the positive impact of transactional foreign exchange on the cost of merchandise, was partially offset by higher markdowns.
+GENERAL CORPORATE EXPENSE
+Thirteen Weeks Ended
+In millions       May 2,
+2026    May 3,
+2025
+General corporate expense       $    143        $    215
+General corporate expense for segment reporting purposes represents those costs not specifically related to the operations of our segments. General corporate expenses are primarily included in SG&A expenses. The mark-to-market adjustment of our fuel and inventory hedges is included in cost of sales, including buying and occupancy costs.
+The decrease in general corporate expense for the first quarter of fiscal 2027 was primarily driven by the favorable year-over-year impact related to the mark-to-market adjustments on inventory and fuel hedge, partially offset by higher incentive compensation costs.
+29
+ANALYSIS OF FINANCIAL CONDITION
+Liquidity and Capital Resources
+Our liquidity requirements have traditionally been funded through cash generated from operations, supplemented, as needed, by short-term bank borrowings and the issuance of commercial paper. As of May 2, 2026, there were no short-term bank borrowings or commercial paper outstanding. We believe our existing cash and cash equivalents, internally generated funds and our credit facilities, under which facilities we have $1.5 billion available as of the period ended May 2, 2026, are adequate to meet our operating needs for the foreseeable future. Our 2.25% ten-year Notes due September 2026 will mature during our third quarter of fiscal 2027 and are included within our current maturities of long-term debt. For more information, see Note I—Long-Term Debt and Credit Lines of Notes to Consolidated Financial Statements.
+As of May 2, 2026, we held $5.6 billion in cash. Our foreign subsidiaries held $1.3 billion in cash, including approximately $730 million, primarily in Europe, which represents working capital and is considered indefinitely reinvested. Cash generated from earnings in certain foreign subsidiaries in fiscal 2027 and onward will not be considered indefinitely reinvested. We have provided for and recorded a deferred tax liability for all applicable taxes on undistributed earnings of our foreign subsidiaries that are not indefinitely reinvested through May 2, 2026. If we repatriate cash from such subsidiaries, we should not incur additional tax expense and our cash would be reduced by the amount of withholding taxes paid.
+We monitor debt financing markets on an ongoing basis and from time to time may incur additional long-term indebtedness depending on prevailing market conditions, liquidity requirements, existing economic conditions and other factors. Periodically, we have used, and in the future we may again use, operating cash flow and cash on hand to repay portions of our indebtedness, depending on prevailing market conditions, liquidity requirements, existing economic conditions, contractual restrictions and other factors. As such, we may, from time to time, seek to retire, redeem, prepay or purchase our outstanding debt through redemptions, cash purchases, prepayments, refinancings and/or exchanges, in open market purchases, privately negotiated transactions, by tender offer or otherwise.
+Operating Activities
+Operating activities resulted in net cash inflows of $1.1 billion for the three months ended May 2, 2026 and $394 million for the three months ended May 3, 2025.
+Operating cash flows increased $725 million compared to fiscal 2026 primarily due to a decrease of prepaid expenses and other current assets related to the receipt of the credit card interchange fees settlement and an increase in net income.
+Investing Activities
+Investing activities resulted in net cash outflows of $673 million for the three months ended May 2, 2026 and $503 million for the three months ended May 3, 2025. The cash outflows for both periods were driven by capital expenditures.
+Capital expenditures in the first three months of fiscal 2027 primarily reflected store improvements and renovations, investments in our new stores, as well as investments in our distribution centers and offices, including information technology. We anticipate that capital spending for the full   fiscal year 2027 will be approximately $2.2 billion to $2.3 billion  . We plan to fund these expenditures with our existing cash balances and through internally generated funds.
+Financing Activities
+Financing activities resulted in net cash outflows of $1.1 billion for the first three months of fiscal 2027 and $1 billion for the first three months of fiscal 2026. The cash outflows for both periods were primarily driven by equity repurchases and dividend payments.
+Equity
+Under our stock repurchase programs, we paid $604 million to repurchase and retire 3.8 million shares of our stock in the first three months of fiscal 2027 and we paid $613 million to repurchase and retire 5.1 million shares of our stock in the first three months of fiscal 2026.
+We currently plan to repurchase approximately $2.75 billion to $3.0 billion of common stock under our stock repurchase programs for fiscal 2027. As of May 2, 2026, approximately $3.5 billion remained available under our existing stock repurchase programs. For further information regarding equity repurchases, see Note D – Capital Stock and Earnings Per Share of Notes to Consolidated Financial Statements.
+Dividends
+We declared quarterly dividends on our common stock of $0.48 per share for the first three months of fiscal 2027 and $0.425 per share for the first three months of fiscal 2026. Cash payments for dividends on our common stock totaled $474 million for the first three months of fiscal 2027 and $424 million for the first three months of fiscal 2026.
+30
+CRITICAL ACCOUNTING ESTIMATES
+There have been no material changes to the critical accounting estimates as discussed in TJX's Annual Report on Form 10-K for the fiscal year ended January 31, 2026.
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+For a discussion of accounting standards, see Note A—Basis of Presentation and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements included in TJX’s Annual Report on Form 10-K for the fiscal year ended January 31, 2026 and Note A—Basis of Presentation and Summary of Significant Accounting Policies of Notes to Consolidated Financial Statements in this Quarterly Report on Form 10-Q.
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q (“Form 10-Q”) contains “forward-looking statements.” These forward-looking statements generally can be identified by the use of words such as “aim,” “anticipate,” “approximately,” “believe,” “continue,” “could,” “estimate,” “expect,” “forecast,” “goal,” “intend,” “may,” “plan,” “potential,” “project,” “seek,” “should,” “strive,” “target,” “will,” and “would,” or any variations of these words or other words with similar meanings. These forward-looking statements address various matters that we intend, expect or believe may occur in the future, including, among others, some of the statements in this Form 10-Q under Item 1, “Consolidated Financial Statements” and Item 2, “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” relating to, among others, the Company's anticipated operating and financial performance, business plans and prospects, investments, the availability of merchandise, execution of our business model, payment of dividends, plans for future stock repurchases, future use and availability of cash and cash equivalents, expected capital expenditures, trends in demand for our products, the impact of foreign exchange rates, expectations with respect to future store openings, the recovery of tariff refunds and the impact of fuel resources and supply chain on our inventory flow and financial performance and plans with respect to long-term indebtedness. Each forward-looking statement contained in this Form 10-Q is inherently subject to risks, uncertainties and potentially inaccurate assumptions that could cause actual results to differ materially from those expressed or implied by such statement.
+We cannot guarantee that the results and other expectations expressed, anticipated, or implied in any forward-looking statement will be realized. Applicable risks and uncertainties include, among others: execution of buying strategy and inventory management; customer trends and preferences; competition; various marketing efforts; operational and business expansion; management of large size and scale; merchandise sourcing and transport; international trade and tariff policies; data security and maintenance and development of information technology systems; labor costs and workforce challenges; personnel recruitment, training, and retention; corporate and retail banner reputation; evolving corporate governance and public disclosure regulations and expectations with respect to environmental, social, and governance matters; expanding international operations; fluctuations in anticipated quarterly and annual operating results, financial performance, business plan prospects, investments and market expectations; inventory or asset loss; cash flow     and plans with respect to long-term indebtedness; mergers, acquisitions, or business investments and divestitures, closings or business consolidations; real estate activities; economic conditions and consumer spending; market instability; severe weather, serious disruptions or catastrophic events; disproportionate impact of disruptions during certain seasons of the fiscal year; commodity availability and pricing; fluctuations in currency exchange rates; fluctuations in fuel prices; compliance with laws, regulations and orders and changes in laws, regulations and applicable accounting standards; outcomes of litigation, legal proceedings and other legal or regulatory matters; quality, safety and other issues with our merchandise; tax matters; and other factors set forth under Item 1A of our most recent Annual Report on Form 10-K for the fiscal year ended January 31, 2026, as well as the other information we file with the U.S. Securities and Exchange Commission (“SEC”).
+We caution investors, potential investors, and others not to place considerable reliance on the forward-looking statements contained in this Form 10-Q. You are encouraged to read our filings with the SEC and any further disclosures we may make in our future reports to the SEC, available at www.sec.gov, on our website, or otherwise, for a discussion of these and other risks and uncertainties. Our forward-looking statements in this report speak only as of the date of this Form 10-Q, and we undertake no obligation to update or revise any of these statements even if experience or future changes make it clear that any projected results expressed or implied in such statements will not be realized. Our business is subject to substantial risks and uncertainties, including those referenced above. Investors, potential investors and others should give careful consideration to these risks and uncertainties.
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+There have been no material changes in our primary risk exposures or management of market risks from those disclosed in our Annual Report on Form 10-K for the   fiscal year ended January 31, 2026  .
+31
+Item 4. Controls and Procedures
+We have carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures as of May 2, 2026 pursuant to Rules 13a-15(b) and 15d-15(b) of the Securities Exchange Act of 1934, as amended (the “Act”). Based upon that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures are effective at the reasonable assurance level in ensuring that information required to be disclosed by us in the reports that we file or submit under the Act is (i) recorded, processed, summarized and reported, within the time periods specified in the Securities and Exchange Commission’s rules and forms; and (ii) accumulated and communicated to our management, including our principal executive and principal financial officers, or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosures. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives, and management necessarily applies its judgment in evaluating the cost-benefit relationship of implementing controls and procedures.
+There were no changes in our internal control over financial reporting (as defined in Rule 13a-15(f) and 15d-15(f) under the Act) during the fiscal quarter ended May 2, 2026 identified in connection with the evaluation by our management, including our Chief Executive Officer and Chief Financial Officer, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+PART II—OTHER INFORMATION
+Item 1. Legal Proceedings
+See Legal Contingencies in    Note K—Contingent Obligations, Contingencies, and Commitments    of Notes to Consolidated Financial Statements for information on legal proceedings.
+Item 1A. Risk Factors
+There have been no material changes to the risk factors disclosed in the “Risk Factors” section of our Annual Report on Form 10-K for the year ended   January 31, 2026  , as filed with the Securities Exchange Commission on March 31, 2026.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+INFORMATION ON SHARE REPURCHASES
+The number of shares of common stock repurchased by TJX during the first quarter of fiscal 2027 and the average price paid per share are as follows:
+Total
+Number of Shares
+Repurchased  (a)
+Average Price Paid
+Per Share  (b)
+Total Number of
+Shares Purchased as
+Part of Publicly
+Announced
+Plans or Programs  (a)
+Approximate Dollar
+Value of Shares that
+May Yet be
+Purchased Under
+the Plans or
+Programs  (c)
+February 1, 2026 through February 28, 2026    646,407      $    154.40      646,407      $    3,970,048,067
+March 1, 2026 through April 4, 2026    1,665,217      $    157.64      1,665,217      $    3,707,550,807
+April 5, 2026 through May 2, 2026    1,519,344      $    159.28      1,519,344      $    3,465,549,675
+Total    3,830,968         3,830,968
+(a)  Consists of shares repurchased under publicly announced stock repurchase programs.
+(b)  Includes commissions for the shares repurchased under stock repurchase programs.
+(c)  In February 2026, we announced that our Board of Directors had approved a new stock repurchase program that authorized the repurchase of up to an additional $3.0 billion of our common stock from time to time. Under this program and previously announced programs, we had approximately $3.5 billion available for repurchase as of May 2, 2026.
+Item 5. Other Information
+During the fiscal quarter ended May 2, 2026,     none     of our directors or officers adopted, materially modified, or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as those terms are defined in Item 408(a) of Regulation S-K.
+32
+Item 6. Exhibits
+Incorporate by Reference
+Exhibit No.    Description    Form    Exhibit No.    Filing
+Date
+31.1
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, filed herewith
+31.2
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, filed herewith
+32.1
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, filed herewith
+32.2
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, filed herewith
+101
+The following materials from The TJX Companies, Inc.’s Quarterly Report on Form 10-Q for the quarter ended May 2, 2026, formatted in Inline XBRL (Extensible Business Reporting Language): (i) the Consolidated Statements of Income, (ii) the Consolidated Statements of Comprehensive Income, (iii) the Consolidated Balance Sheets, (iv) the Consolidated Statements of Cash Flows, (v) the Consolidated Statements of Shareholders’ Equity, and (vi) Notes to Consolidated Financial Statements.
+104
+The cover page from The TJX Companies, Inc.’s Quarterly Report on Form 10-Q for the quarter ended May 2, 2026, formatted in Inline XBRL (included in Exhibit 101)
+* Schedules and certain portions of this exhibit are omitted pursuant to Item 601 of Regulation S-K. The Company agrees to furnish a supplemental copy of any omitted schedule or exhibit to the Securities and Exchange Commission upon request.
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934 the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+THE TJX COMPANIES, INC.
+(Registrant)
+Date: May 29, 2026
+/s/ John Klinger
+John Klinger, Chief Financial Officer
+(Principal Financial and Accounting Officer)
+33

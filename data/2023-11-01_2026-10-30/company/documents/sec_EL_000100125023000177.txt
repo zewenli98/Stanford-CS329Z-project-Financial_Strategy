@@ -1,0 +1,1625 @@
+el-20230930
+--06-30  2024  Q1  0001001250  false            0001001250    2023-07-01  2023-09-30      0001001250   us-gaap:CommonClassAMember     2023-10-25     xbrli:shares     0001001250   us-gaap:CommonClassBMember     2023-10-25     iso4217:USD     0001001250    2022-07-01  2022-09-30       iso4217:USD    xbrli:shares       0001001250    2023-09-30      0001001250    2023-06-30      0001001250   us-gaap:CommonClassAMember     2023-09-30      0001001250   us-gaap:CommonClassAMember     2023-06-30      0001001250   us-gaap:CommonClassBMember     2023-09-30      0001001250   us-gaap:CommonClassBMember     2023-06-30      0001001250    2022-06-30      0001001250    2022-09-30      0001001250   el:LargestCustomerMember     2023-09-30      0001001250   us-gaap:CustomerConcentrationRiskMember  us-gaap:AccountsReceivableMember  el:LargestCustomerMember     2023-07-01  2023-09-30     xbrli:pure     0001001250   el:LargestCustomerMember     2023-06-30      0001001250   us-gaap:CustomerConcentrationRiskMember  us-gaap:AccountsReceivableMember  el:LargestCustomerMember     2022-07-01  2023-06-30      0001001250   us-gaap:LandAndLandImprovementsMember     2023-09-30      0001001250   us-gaap:LandAndLandImprovementsMember     2023-06-30      0001001250   srt:MinimumMember  us-gaap:BuildingAndBuildingImprovementsMember     2023-09-30      0001001250   us-gaap:BuildingAndBuildingImprovementsMember  srt:MaximumMember     2023-09-30      0001001250   us-gaap:BuildingAndBuildingImprovementsMember     2023-09-30      0001001250   us-gaap:BuildingAndBuildingImprovementsMember     2023-06-30      0001001250   srt:MinimumMember  us-gaap:MachineryAndEquipmentMember     2023-09-30      0001001250   srt:MaximumMember  us-gaap:MachineryAndEquipmentMember     2023-09-30      0001001250   us-gaap:MachineryAndEquipmentMember     2023-09-30      0001001250   us-gaap:MachineryAndEquipmentMember     2023-06-30      0001001250   srt:MinimumMember  el:ComputerHardwareAndSoftwareMember     2023-09-30      0001001250   el:ComputerHardwareAndSoftwareMember  srt:MaximumMember     2023-09-30      0001001250   el:ComputerHardwareAndSoftwareMember     2023-09-30      0001001250   el:ComputerHardwareAndSoftwareMember     2023-06-30      0001001250   srt:MinimumMember  us-gaap:FurnitureAndFixturesMember     2023-09-30      0001001250   us-gaap:FurnitureAndFixturesMember  srt:MaximumMember     2023-09-30      0001001250   us-gaap:FurnitureAndFixturesMember     2023-09-30      0001001250   us-gaap:FurnitureAndFixturesMember     2023-06-30      0001001250   us-gaap:LeaseholdImprovementsMember     2023-09-30      0001001250   us-gaap:LeaseholdImprovementsMember     2023-06-30      0001001250   us-gaap:ConstructionInProgressMember     2023-09-30      0001001250   us-gaap:ConstructionInProgressMember     2023-06-30      0001001250   srt:MinimumMember     2023-09-30      0001001250   srt:MaximumMember     2023-09-30      0001001250   us-gaap:OtherNoncurrentLiabilitiesMember     2023-09-30      0001001250   us-gaap:OtherNoncurrentLiabilitiesMember     2023-06-30      0001001250   el:SkinCareMember     2023-06-30      0001001250   el:MakeupMember     2023-06-30      0001001250   el:FragranceMember     2023-06-30      0001001250   el:HairCareMember     2023-06-30      0001001250   el:SkinCareMember     2023-07-01  2023-09-30      0001001250   el:MakeupMember     2023-07-01  2023-09-30      0001001250   el:FragranceMember     2023-07-01  2023-09-30      0001001250   el:HairCareMember     2023-07-01  2023-09-30      0001001250   el:SkinCareMember     2023-09-30      0001001250   el:MakeupMember     2023-09-30      0001001250   el:FragranceMember     2023-09-30      0001001250   el:HairCareMember     2023-09-30      0001001250   el:CustomerListsAndOtherMember     2023-09-30      0001001250   el:CustomerListsAndOtherMember     2023-06-30      0001001250   us-gaap:TrademarksMember     2023-09-30      0001001250   us-gaap:TrademarksMember     2023-06-30      0001001250   us-gaap:NondesignatedMember     2023-09-30      0001001250   el:ForeignCurrencyCashFlowHedgesMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember     2023-09-30      0001001250   el:ForeignCurrencyCashFlowHedgesMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember     2023-06-30      0001001250   el:ForeignCurrencyCashFlowHedgesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccruedLiabilitiesMember     2023-09-30      0001001250   el:ForeignCurrencyCashFlowHedgesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccruedLiabilitiesMember     2023-06-30      0001001250   us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CurrencySwapMember     2023-09-30      0001001250   us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CurrencySwapMember     2023-06-30      0001001250   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccruedLiabilitiesMember  us-gaap:CurrencySwapMember     2023-09-30      0001001250   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccruedLiabilitiesMember  us-gaap:CurrencySwapMember     2023-06-30      0001001250   us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2023-09-30      0001001250   us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2023-06-30      0001001250   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccruedLiabilitiesMember  us-gaap:NetInvestmentHedgingMember     2023-09-30      0001001250   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccruedLiabilitiesMember  us-gaap:NetInvestmentHedgingMember     2023-06-30      0001001250   us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:InterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2023-09-30      0001001250   us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:InterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2023-06-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccruedLiabilitiesMember     2023-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccruedLiabilitiesMember     2023-06-30      0001001250   us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember     2023-09-30      0001001250   us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember     2023-06-30      0001001250   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccruedLiabilitiesMember     2023-09-30      0001001250   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccruedLiabilitiesMember     2023-06-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:NondesignatedMember     2023-09-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:NondesignatedMember     2023-06-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:NondesignatedMember  us-gaap:AccruedLiabilitiesMember     2023-09-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:NondesignatedMember  us-gaap:AccruedLiabilitiesMember     2023-06-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:CashFlowHedgingMember     2023-07-01  2023-09-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:CashFlowHedgingMember     2022-07-01  2022-09-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesMember     2023-07-01  2023-09-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesMember     2022-07-01  2022-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:CashFlowHedgingMember     2023-07-01  2023-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:CashFlowHedgingMember     2022-07-01  2022-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2023-07-01  2023-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2022-07-01  2022-09-30      0001001250   us-gaap:CashFlowHedgingMember     2023-07-01  2023-09-30      0001001250   us-gaap:CashFlowHedgingMember     2022-07-01  2022-09-30      0001001250   us-gaap:NetInvestmentHedgingMember  us-gaap:ForeignExchangeForwardMember     2023-07-01  2023-09-30      0001001250   us-gaap:NetInvestmentHedgingMember  us-gaap:ForeignExchangeForwardMember     2022-07-01  2022-09-30      0001001250   us-gaap:NetInvestmentHedgingMember     2023-07-01  2023-09-30      0001001250   us-gaap:NetInvestmentHedgingMember     2022-07-01  2022-09-30      0001001250   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember  us-gaap:CurrencySwapMember  us-gaap:SellingGeneralAndAdministrativeExpensesMember     2023-07-01  2023-09-30      0001001250   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember  us-gaap:CurrencySwapMember  us-gaap:SellingGeneralAndAdministrativeExpensesMember     2022-07-01  2022-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember  us-gaap:InterestExpenseMember     2023-07-01  2023-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:FairValueHedgingMember  us-gaap:InterestExpenseMember     2022-07-01  2022-09-30      0001001250   us-gaap:LongTermDebtMember  us-gaap:FairValueHedgingMember     2023-07-01  2023-09-30      0001001250   el:LongTermDebtIntercompanyMember  us-gaap:FairValueHedgingMember     2023-07-01  2023-09-30      0001001250   us-gaap:SalesMember     2023-07-01  2023-09-30      0001001250   us-gaap:SellingGeneralAndAdministrativeExpensesMember     2023-07-01  2023-09-30      0001001250   us-gaap:InterestExpenseMember     2023-07-01  2023-09-30      0001001250   us-gaap:SalesMember     2022-07-01  2022-09-30      0001001250   us-gaap:SellingGeneralAndAdministrativeExpensesMember     2022-07-01  2022-09-30      0001001250   us-gaap:InterestExpenseMember     2022-07-01  2022-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:FairValueHedgingMember  us-gaap:InterestExpenseMember     2023-07-01  2023-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:FairValueHedgingMember  us-gaap:InterestExpenseMember     2022-07-01  2022-09-30      0001001250   us-gaap:FairValueHedgingMember  us-gaap:CurrencySwapMember  us-gaap:SellingGeneralAndAdministrativeExpensesMember     2023-07-01  2023-09-30      0001001250   us-gaap:FairValueHedgingMember  us-gaap:CurrencySwapMember  us-gaap:SellingGeneralAndAdministrativeExpensesMember     2022-07-01  2022-09-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:NondesignatedMember  us-gaap:SellingGeneralAndAdministrativeExpensesMember     2023-07-01  2023-09-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:NondesignatedMember  us-gaap:SellingGeneralAndAdministrativeExpensesMember     2022-07-01  2022-09-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:CashFlowHedgingMember     2023-09-30      0001001250   us-gaap:CashFlowHedgingMember     2023-09-30      0001001250   us-gaap:CashFlowHedgingMember     2023-06-30      0001001250   us-gaap:InterestRateSwapMember  us-gaap:FairValueHedgingMember  el:SeniorNotesDueApril2030Member     2023-09-30      0001001250   us-gaap:InterestRateSwapMember  el:SeniorNotesOneNinetyFivePercentDue2031Member  us-gaap:FairValueHedgingMember     2023-09-30      0001001250   us-gaap:InterestRateSwapMember  el:SeniorNotesOneNinetyFivePercentDue2031Member  us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember  us-gaap:FairValueHedgingMember     2023-07-01  2023-09-30      0001001250   us-gaap:InterestRateSwapMember  us-gaap:SecuredOvernightFinancingRateSofrOvernightIndexSwapRateMember  us-gaap:FairValueHedgingMember  el:SeniorNotesDueApril2030Member     2023-07-01  2023-09-30      0001001250   us-gaap:FairValueHedgingMember  us-gaap:CurrencySwapMember     2023-09-30      0001001250   us-gaap:CurrencySwapMember     2023-09-30      0001001250   us-gaap:CurrencySwapMember     2023-06-30      0001001250   us-gaap:NetInvestmentHedgingMember  us-gaap:ForeignExchangeForwardMember     2023-09-30      0001001250   us-gaap:DerivativeMember     2023-09-30     el:agency     0001001250   us-gaap:FairValueInputsLevel1Member  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0001001250   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2023-09-30      0001001250   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0001001250   us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0001001250   us-gaap:FairValueInputsLevel1Member  us-gaap:FairValueMeasurementsRecurringMember     2023-06-30      0001001250   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2023-06-30      0001001250   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsRecurringMember     2023-06-30      0001001250   us-gaap:FairValueMeasurementsRecurringMember     2023-06-30      0001001250   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2023-09-30      0001001250   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-09-30      0001001250   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2023-06-30      0001001250   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-06-30      0001001250   us-gaap:CarryingReportedAmountFairValueDisclosureMember  us-gaap:CurrencySwapMember     2023-09-30      0001001250   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CurrencySwapMember     2023-09-30      0001001250   us-gaap:CarryingReportedAmountFairValueDisclosureMember  us-gaap:CurrencySwapMember     2023-06-30      0001001250   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CurrencySwapMember     2023-06-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2023-09-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-09-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2023-06-30      0001001250   us-gaap:ForeignExchangeForwardMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-06-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2023-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-09-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2023-06-30      0001001250   us-gaap:InterestRateContractMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-06-30      0001001250   us-gaap:FairValueInputsLevel3Member  el:DeferredCompensationShareBasedArrangementsLiabilityMember  us-gaap:FairValueMeasurementsRecurringMember     2023-06-30      0001001250   us-gaap:FairValueInputsLevel3Member  el:DeferredCompensationShareBasedArrangementsLiabilityMember  us-gaap:FairValueMeasurementsRecurringMember     2023-07-01  2023-09-30      0001001250   us-gaap:FairValueInputsLevel3Member  el:DeferredCompensationShareBasedArrangementsLiabilityMember  us-gaap:FairValueMeasurementsRecurringMember     2023-09-30      0001001250    2023-10-01      2023-09-30      0001001250   us-gaap:LicenseMember   2024-10-01   el:MarcolinGroupMember     2023-09-30      0001001250   us-gaap:LicenseMember   2023-04-28   el:MarcolinGroupMember     2023-09-30      0001001250    2024-10-01      2023-09-30      0001001250   country:US  us-gaap:PensionPlansDefinedBenefitMember     2023-07-01  2023-09-30      0001001250   country:US  us-gaap:PensionPlansDefinedBenefitMember     2022-07-01  2022-09-30      0001001250   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2023-07-01  2023-09-30      0001001250   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2022-07-01  2022-09-30      0001001250   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2023-07-01  2023-09-30      0001001250   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2022-07-01  2022-09-30      0001001250   us-gaap:CommonClassAMember     2023-07-01  2023-09-30      0001001250   us-gaap:ShareBasedPaymentArrangementEmployeeMember  us-gaap:CommonClassAMember  us-gaap:RestrictedStockUnitsRSUMember     2023-07-01  2023-09-30      0001001250   us-gaap:ShareBasedPaymentArrangementEmployeeMember  el:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVesting2025Member  us-gaap:CommonClassAMember  us-gaap:RestrictedStockUnitsRSUMember     2023-07-01  2023-09-30      0001001250   us-gaap:ShareBasedPaymentArrangementEmployeeMember  us-gaap:CommonClassAMember  us-gaap:RestrictedStockUnitsRSUMember  el:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVesting2026Member     2023-07-01  2023-09-30      0001001250   us-gaap:ShareBasedPaymentArrangementEmployeeMember  el:ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVesting2027Member  us-gaap:CommonClassAMember  us-gaap:RestrictedStockUnitsRSUMember     2023-07-01  2023-09-30      0001001250   us-gaap:ShareBasedPaymentArrangementEmployeeMember  us-gaap:CommonClassAMember  us-gaap:PerformanceSharesMember     2023-07-01  2023-09-30      0001001250   us-gaap:ShareBasedPaymentArrangementEmployeeMember  us-gaap:CommonClassAMember  us-gaap:PerformanceSharesMember     2023-08-01  2023-08-31      0001001250   us-gaap:ShareBasedPaymentArrangementEmployeeMember  us-gaap:PerformanceSharesMember     2023-08-01  2023-08-31      0001001250   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsRecurringMember     2023-07-01  2023-09-30      0001001250   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsRecurringMember     2022-07-01  2022-09-30      0001001250   el:DECIEM2021StockOptionPlanMember     2023-07-01  2023-09-30      0001001250   us-gaap:EmployeeStockOptionMember  el:DECIEM2021StockOptionPlanMember     2023-09-30      0001001250   us-gaap:EmployeeStockOptionMember  el:DECIEM2021StockOptionPlanMember     2023-06-30      0001001250   us-gaap:EmployeeStockOptionMember  el:DECIEM2021StockOptionPlanMember  el:DECIEMMember     2023-07-01  2023-09-30      0001001250   us-gaap:EmployeeStockOptionMember  el:DECIEM2021StockOptionPlanMember  el:DECIEMMember     2022-07-01  2023-06-30      0001001250   us-gaap:EmployeeStockOptionMember     2023-07-01  2023-09-30      0001001250   us-gaap:EmployeeStockOptionMember     2022-07-01  2022-09-30      0001001250   us-gaap:PerformanceSharesMember     2023-07-01  2023-09-30      0001001250   us-gaap:PerformanceSharesMember     2022-07-01  2022-09-30      0001001250   us-gaap:RestrictedStockUnitsRSUMember     2023-07-01  2023-09-30      0001001250   us-gaap:RestrictedStockUnitsRSUMember     2022-07-01  2022-09-30      0001001250   us-gaap:EmployeeStockOptionMember     2023-07-01  2023-09-30      0001001250   us-gaap:EmployeeStockOptionMember     2022-07-01  2022-09-30      0001001250   el:RestrictedStockUnitsAndPerformanceSharesMember     2023-07-01  2023-09-30      0001001250   el:RestrictedStockUnitsAndPerformanceSharesMember     2022-07-01  2022-09-30      0001001250   el:ContingentlyIssuableShareMember     2023-07-01  2023-09-30      0001001250   el:ContingentlyIssuableShareMember     2022-07-01  2022-09-30      0001001250   us-gaap:CommonStockMember     2023-06-30      0001001250   us-gaap:CommonStockMember     2022-06-30      0001001250   us-gaap:CommonStockMember     2023-07-01  2023-09-30      0001001250   us-gaap:CommonStockMember     2022-07-01  2022-09-30      0001001250   us-gaap:CommonStockMember     2023-09-30      0001001250   us-gaap:CommonStockMember     2022-09-30      0001001250   us-gaap:AdditionalPaidInCapitalMember     2023-06-30      0001001250   us-gaap:AdditionalPaidInCapitalMember     2022-06-30      0001001250   us-gaap:AdditionalPaidInCapitalMember     2023-07-01  2023-09-30      0001001250   us-gaap:AdditionalPaidInCapitalMember     2022-07-01  2022-09-30      0001001250   us-gaap:AdditionalPaidInCapitalMember     2023-09-30      0001001250   us-gaap:AdditionalPaidInCapitalMember     2022-09-30      0001001250   us-gaap:RetainedEarningsMember     2023-06-30      0001001250   us-gaap:RetainedEarningsMember     2022-06-30      0001001250   us-gaap:RetainedEarningsMember     2023-07-01  2023-09-30      0001001250   us-gaap:RetainedEarningsMember     2022-07-01  2022-09-30      0001001250   us-gaap:RetainedEarningsMember     2023-09-30      0001001250   us-gaap:RetainedEarningsMember     2022-09-30      0001001250   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-06-30      0001001250   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-06-30      0001001250   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-07-01  2023-09-30      0001001250   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-07-01  2022-09-30      0001001250   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-09-30      0001001250   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-09-30      0001001250   us-gaap:TreasuryStockCommonMember     2023-06-30      0001001250   us-gaap:TreasuryStockCommonMember     2022-06-30      0001001250   us-gaap:TreasuryStockCommonMember     2023-07-01  2023-09-30      0001001250   us-gaap:TreasuryStockCommonMember     2022-07-01  2022-09-30      0001001250   us-gaap:TreasuryStockCommonMember     2023-09-30      0001001250   us-gaap:TreasuryStockCommonMember     2022-09-30      0001001250   el:RedeemableNoncontrollingInterestMember     2023-06-30      0001001250   el:RedeemableNoncontrollingInterestMember     2022-06-30      0001001250   el:RedeemableNoncontrollingInterestMember     2023-07-01  2023-09-30      0001001250   el:RedeemableNoncontrollingInterestMember     2022-07-01  2022-09-30      0001001250   el:RedeemableNoncontrollingInterestMember     2023-09-30      0001001250   el:RedeemableNoncontrollingInterestMember     2022-09-30      0001001250   us-gaap:CommonClassBMember     2022-08-17  2022-08-17      0001001250   us-gaap:CommonClassAMember     2022-09-15  2022-09-15      0001001250   us-gaap:CommonClassAMember     2022-08-17  2022-08-17      0001001250   us-gaap:CommonClassBMember     2022-09-15  2022-09-15      0001001250   us-gaap:CommonClassAMember  us-gaap:SubsequentEventMember     2023-10-31  2023-10-31      0001001250   us-gaap:CommonClassBMember  us-gaap:SubsequentEventMember     2023-10-31  2023-10-31      0001001250   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2023-06-30      0001001250   el:AccumulatedGainLossNetFairValueHedgeContractParentMember     2023-06-30      0001001250   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2023-06-30      0001001250   us-gaap:AccumulatedTranslationAdjustmentMember     2023-06-30      0001001250   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2023-07-01  2023-09-30      0001001250   el:AccumulatedGainLossNetFairValueHedgeContractParentMember     2023-07-01  2023-09-30      0001001250   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2023-07-01  2023-09-30      0001001250   us-gaap:AccumulatedTranslationAdjustmentMember     2023-07-01  2023-09-30      0001001250   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2023-09-30      0001001250   el:AccumulatedGainLossNetFairValueHedgeContractParentMember     2023-09-30      0001001250   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2023-09-30      0001001250   us-gaap:AccumulatedTranslationAdjustmentMember     2023-09-30      0001001250   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember  us-gaap:ForeignExchangeForwardMember  us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2023-07-01  2023-09-30      0001001250   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember  us-gaap:ForeignExchangeForwardMember  us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2022-07-01  2022-09-30      0001001250   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember  us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2023-07-01  2023-09-30      0001001250   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember  us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2022-07-01  2022-09-30      0001001250   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:CurrencySwapMember  el:AccumulatedGainLossNetFairValueHedgeContractParentMember     2023-07-01  2023-09-30      0001001250   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:CurrencySwapMember  el:AccumulatedGainLossNetFairValueHedgeContractParentMember     2022-07-01  2022-09-30      0001001250   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  el:AccumulatedGainLossNetFairValueHedgeContractParentMember     2023-07-01  2023-09-30      0001001250   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  el:AccumulatedGainLossNetFairValueHedgeContractParentMember     2022-07-01  2022-09-30      0001001250   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember     2023-07-01  2023-09-30      0001001250   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember     2022-07-01  2022-09-30      0001001250   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2023-07-01  2023-09-30      0001001250   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2022-07-01  2022-09-30      0001001250   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2023-07-01  2023-09-30      0001001250   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2022-07-01  2022-09-30     el:segment     0001001250   el:SkinCareMember     2022-07-01  2022-09-30      0001001250   el:MakeupMember     2022-07-01  2022-09-30      0001001250   el:FragranceMember     2022-07-01  2022-09-30      0001001250   el:HairCareMember     2022-07-01  2022-09-30      0001001250   us-gaap:ProductAndServiceOtherMember     2023-07-01  2023-09-30      0001001250   us-gaap:ProductAndServiceOtherMember     2022-07-01  2022-09-30      0001001250   us-gaap:SalesReturnsAndAllowancesMember     2023-07-01  2023-09-30      0001001250   us-gaap:SalesReturnsAndAllowancesMember     2022-07-01  2022-09-30      0001001250   srt:AmericasMember     2023-07-01  2023-09-30      0001001250   srt:AmericasMember     2022-07-01  2022-09-30      0001001250   us-gaap:EMEAMember     2023-07-01  2023-09-30      0001001250   us-gaap:EMEAMember     2022-07-01  2022-09-30      0001001250   srt:AsiaPacificMember     2023-07-01  2023-09-30      0001001250   srt:AsiaPacificMember     2022-07-01  2022-09-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+______________________________________________________________________
+FORM  10-Q
+(Mark One)
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  September 30, 2023
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                     to
+Commission file number  1-14064
+The  Estée Lauder Companies Inc .
+(Exact name of registrant as specified in its charter)
+Delaware
+11-2408943
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer Identification No.)
+767 Fifth Avenue ,  New York ,  New York
+10153
+(Address of principal executive offices)
+(Zip Code)
+212 - 572-4200
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, $.01 par value
+EL
+New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   Yes    ☒   No   ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).   Yes    ☒   No   ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes    ☐    No   ☒
+At October 25, 2023,  232,304,564  shares of the registrant’s Class A Common Stock, $.01 par value, and  125,542,029  shares of the registrant’s Class B Common Stock, $.01 par value, were outstanding.
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+INDEX
+Page
+Part I. Financial Information
+Item 1. Financial Statements (Unaudited)
+Consolidated Statements of Earnings     —    Three Months Ended September 30, 2023    and    2022
+2
+Consolidated Statements of Comprehensive Incom  e     (Loss)   —    Three Months Ended September 30, 2023    and    2022
+3
+Consolidated Balance Sheets —    September 30, 2023    and    June 30, 2023    (Audited)
+4
+Consolidated Statements of Cash Flows —    Three Months Ended September 30, 2023    and    2022
+5
+Notes to Consolidated Financial Statements
+6
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+29
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+53
+Item 4. Controls and Procedures
+53
+Part II. Other Information
+Item 1. Legal Proceedings
+53
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+53
+I  tem 5. Other Inf  ormation
+54
+Item 6. Exhibits
+54
+Signatures
+55
+Table of Contents
+PART I. FINANCIAL INFORMATION
+Item 1.   Financial Statements.
+THE ESTÉE LAUDER COMPANIES INC.
+CONSOLIDATED STATEMENTS OF EARNINGS
+(Unaudited)
+Three Months Ended
+September 30
+(In millions, except per share data)                      2023      2022
+Net sales
+$     3,518          $     3,930
+Cost of sales
+1,070           1,023
+Gross profit
+2,448           2,907
+Operating expenses
+Selling, general and administrative
+2,349           2,244
+Restructuring and other charges
+1           2
+Total operating expenses
+2,350           2,246
+Operating income                       98           661
+Interest expense                       95           46
+Interest income and investment income, net                       41           15
+Other components of net periodic benefit cost                      ( 2 )        ( 3 )
+Earnings before income taxes                       46           633
+Provision for income taxes                       10           143
+Net earnings                       36           490
+Net earnings attributable to redeemable noncontrolling interest
+( 5 )        ( 1 )
+Net earnings attributable to The Estée Lauder Companies Inc.                      $     31          $     489
+Net earnings attributable to The Estée Lauder Companies Inc. per common share
+Basic
+$     0.09          $     1.37
+Diluted
+$     0.09          $     1.35
+Weighted-average common shares outstanding
+Basic
+358.4           357.9
+Diluted
+360.5           361.4
+See notes to consolidated financial statements.
+2
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(Unaudited)
+Three Months Ended
+September 30
+(In millions)                2023      2022
+Net earnings                $     36          $     490
+Other comprehensive income (loss):
+Net cash flow hedge gain
+19           49
+Cross-currency swap contract gain
+—           —
+Retirement plan and other retiree benefit adjustments                ( 1 )         —
+Translation adjustments                ( 120 )        ( 381 )
+Provision for income taxes on components of other comprehensive income
+( 38 )        ( 19 )
+Total other comprehensive loss, net of tax
+( 140 )        ( 351 )
+Comprehensive income (loss)
+( 104 )         139
+Comprehensive loss (income) attributable to redeemable noncontrolling interest:
+Net earnings
+( 5 )        ( 1 )
+Translation adjustments                 11           35
+Total comprehensive loss attributable to redeemable noncontrolling interest
+6           34
+Comprehensive income (loss) attributable to The Estée Lauder Companies Inc.
+$    ( 98 )        $     173
+See notes to consolidated financial statements.
+3
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+CONSOLIDATED BALANCE SHEETS
+(In millions, except share data)      September 30
+2023      June 30
+2023
+(Unaudited)
+ASSETS
+Current assets
+Cash and cash equivalents
+$     3,090          $     4,029
+Accounts receivable, net
+1,909           1,452
+Inventory and promotional merchandise
+2,863           2,979
+Prepaid expenses and other current assets
+723           679
+Total current assets
+8,585           9,139
+Property, plant and equipment, net
+3,103           3,179
+Other assets
+Operating lease right-of-use assets
+1,787           1,797
+Goodwill
+2,455           2,486
+Other intangible assets, net
+5,515           5,602
+Other assets
+1,205           1,212
+Total other assets
+10,962           11,097
+Total assets
+$     22,650          $     23,415
+LIABILITIES AND EQUITY
+Current liabilities
+Current debt
+$     1,005          $     997
+Accounts payable
+1,257           1,670
+Operating lease liabilities
+352           357
+Other accrued liabilities
+3,300           3,216
+Total current liabilities
+5,914           6,240
+Noncurrent liabilities
+Long-term debt
+7,088           7,117
+Long-term operating lease liabilities
+1,687           1,698
+Other noncurrent liabilities
+1,793           1,943
+Total noncurrent liabilities
+10,568           10,758
+Commitments and contingencies
+Redeemable Noncontrolling Interest       826           832
+Equity
+Common stock, $  .01   par value; Class A shares authorized:   1,300,000,000   at September 30, 2023 and June 30, 2023; shares issued:  469,905,435  at September 30, 2023 and  469,668,085  at June 30, 2023; Class B shares authorized:   304,000,000   at September 30, 2023 and June 30, 2023; shares issued and outstanding:   125,542,029   at September 30, 2023 and   125,542,029   at June 30, 2023
+6           6
+Paid-in capital
+6,249           6,153
+Retained earnings
+13,784           13,991
+Accumulated other comprehensive loss      ( 1,063 )        ( 934 )
+18,976           19,216
+Less: Treasury stock, at cost;  237,604,494  Class A shares at September 30, 2023 and  237,590,199  Class A shares at June 30, 2023
+( 13,634 )        ( 13,631 )
+Total equity
+5,342           5,585
+Total liabilities, redeemable noncontrolling interest and equity      $     22,650          $     23,415
+See notes to consolidated financial statements.
+4
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+Three Months Ended
+September 30
+(In millions)      2023      2022
+Cash flows from operating activities
+Net earnings      $     36          $     490
+Adjustments to reconcile net earnings to net cash flows from operating activities:
+Depreciation and amortization       203           178
+Deferred income taxes      ( 57 )        ( 53 )
+Non-cash stock-based compensation       80           53
+Net loss on disposal of property, plant and equipment       1           2
+Non-cash restructuring and other charges       2           9
+Pension and post-retirement benefit expense       13           13
+Pension and post-retirement benefit contributions      ( 54 )        ( 5 )
+Other non-cash items       7          ( 3 )
+Changes in operating assets and liabilities:
+Increase in accounts receivable, net      ( 477 )        ( 579 )
+Decrease (increase) in inventory and promotional merchandise
+62          ( 229 )
+Decrease (increase) in other assets, net
+( 17 )         3
+Decrease in accounts payable      ( 255 )        ( 375 )
+Increase (decrease) in other accrued and noncurrent liabilities
+51          ( 135 )
+Decrease in operating lease assets and liabilities, net      ( 3 )        ( 19 )
+Net cash flows used for operating activities
+( 408 )        ( 650 )
+Cash flows from investing activities
+Capital expenditures      ( 295 )        ( 152 )
+Settlement of net investment hedges       —           138
+Net cash flows used for investing activities      ( 295 )        ( 14 )
+Cash flows from financing activities
+Proceeds (repayments) of current debt, net
+( 1 )         249
+Repayments and redemptions of long-term debt      ( 3 )        ( 254 )
+Net proceeds from stock-based compensation transactions       15           26
+Payments to acquire treasury stock      ( 3 )        ( 110 )
+Settlement of cross-currency swap       9           —
+Dividends paid to stockholders      ( 236 )        ( 215 )
+Net cash flows used for financing activities
+( 219 )        ( 304 )
+Effect of exchange rate changes on Cash and cash equivalents      ( 17 )        ( 51 )
+Net decrease in Cash and cash equivalents
+( 939 )        ( 1,019 )
+Cash and cash equivalents at beginning of period       4,029           3,957
+Cash and cash equivalents at end of period      $     3,090          $     2,938
+See notes to consolidated financial statements.
+5
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1 –  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The accompanying consolidated financial statements include the accounts of The Estée Lauder Companies Inc. and its subsidiaries (collectively, the “Company”). All significant intercompany balances and transactions have been eliminated.
+The unaudited interim consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles (“U.S. GAAP”) for interim financial information and with the instructions to Form 10-Q and Rule 10-01 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by U.S. GAAP for complete financial statements. The unaudited interim consolidated financial statements furnished reflect all normal and recurring adjustments which are, in the opinion of management, necessary for a fair statement of the results for the interim periods presented. The results of operations of any interim period are not necessarily indicative of the results of operations to be expected for the full fiscal year. The interim consolidated financial statements should be read in conjunction with the consolidated financial statements and accompanying footnotes included in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2023.
+Certain prior year amounts in the notes to the consolidated financial statements have been reclassified to conform to current year presentation.
+Management Estimates
+The preparation of financial statements and related disclosures in conformity with U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses reported in those financial statements. Descriptions of the Company’s significant accounting policies are discussed in the notes to consolidated financial statements in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2023. Management evaluates the related estimates and assumptions on an ongoing basis using historical experience and other factors, including the current economic environment, and makes adjustments when facts and circumstances dictate. As future events and their effects cannot be determined with precision, actual results could differ significantly from those estimates and assumptions. Significant changes, if any, in those estimates and assumptions resulting from continuing changes in the economic environment will be reflected in the consolidated financial statements in future periods.
+Currency Translation and Transactions
+All assets and liabilities of foreign subsidiaries and affiliates are translated at period-end rates of exchange, while revenue and expenses are translated at monthly average rates of exchange for the period. Unrealized translation losses, net of tax, reported as translation adjustments through other comprehensive income (loss) (“OCI”) attributable to The Estée Lauder Companies Inc. were $ 143  million and $ 352  million, during the three months ended September 30, 2023 and 2022, respectively. For the Company’s subsidiaries operating in highly inflationary economies, the U.S. dollar is the functional currency. Remeasurement adjustments in financial statements in a highly inflationary economy and other transactional gains and losses are reflected in earnings. These subsidiaries are not material to the Company’s consolidated financial statements or liquidity.
+The Company enters into foreign currency forward contracts and may enter into option contracts to hedge foreign currency transactions for periods consistent with its identified exposures. The Company also uses cross-currency swap contracts to hedge the impact of foreign currency changes on certain intercompany foreign currency denominated debt. Additionally, the Company enters into foreign currency forward contracts to hedge a portion of its net investment in certain foreign operations, which are designated as net investment hedges. See   Note 4 – Derivative Financial Instruments   for further discussion  .   The Company categorizes these instruments as entered into for purposes other than trading.
+The accompanying consolidated statements of earnings include net exchange gains on foreign currency transactions of $ 16  million and $ 14  million during the three months ended September 30, 2023 and 2022, respectively.
+6
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Concentration of Credit Risk
+The Company is a worldwide manufacturer, marketer and seller of skin care, makeup, fragrance and hair care products. The Company’s sales subject to credit risk are made primarily to retailers in its travel retail business, department stores, specialty multi-brand retailers and perfumeries. The Company grants credit to qualified customers. While the Company does not believe it is exposed significantly to any undue concentration of credit risk at this time, it continues to monitor its customers' abilities, individually and collectively, to make timely payments.
+The Company’s largest customer during the first quarter of fiscal 2024 sells products primarily within the United States and accounted for $ 194  million, or  10 %, and $ 93  million, or  6 %, of the Company's accounts receivable at September 30, 2023 and June 30, 2023, respectively.
+Inventory and Promotional Merchandise
+Inventory and promotional merchandise consists of the following:
+(In millions)      September 30, 2023      June 30, 2023
+Raw materials
+$     863          $     876
+Work in process
+325           362
+Finished goods
+1,334           1,404
+Promotional merchandise
+341           337
+$     2,863          $     2,979
+Property, Plant and Equipment
+Property, plant and equipment consists of the following:
+(In millions)      September 30, 2023      June 30, 2023
+Assets (Useful Life)
+Land and improvements  (1)
+$     68          $     70
+Buildings and improvements ( 10  to  40  years)
+852           843
+Machinery and equipment ( 3  to  10  years)
+1,083           1,071
+Computer hardware and software ( 4  to  10  years)
+1,767           1,651
+Furniture and fixtures ( 5  to  10  years)
+137           136
+Leasehold improvements
+2,336           2,310
+Construction in progress       691           827
+6,934           6,908
+Less accumulated depreciation and amortization
+( 3,831 )        ( 3,729 )
+$     3,103          $     3,179
+(1)  Land improvements are depreciated over a  10  year useful life.
+Depreciation and amortization of property, plant and equipment was $ 162  million and $ 136  million during the three months ended September 30, 2023 and 2022, respectively. Depreciation and amortization related to the Company’s manufacturing process is included in Cost of sales, and all other depreciation and amortization is included in Selling, general and administrative expenses in the accompanying consolidated statements of earnings.
+7
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Income Taxes
+The effective rate for income taxes was  21.7 % and  22.6 % for the three months ended September 30, 2023 and 2022, respectively. The decrease in the effective tax rate of  90  basis points was primarily attributable to a decrease in income tax reserve adjustments and an increase in the impact of excess tax benefits associated with stock-based compensation arrangements, offset by a higher effective tax rate on the Company's foreign operations, due to the Company's geographical mix of earnings for fiscal 2024. The lower amount of earnings before income taxes increased the impact of these tax adjustments in the first quarter of fiscal 2024.
+On August 16, 2022, the U.S. federal government enacted the Inflation Reduction Act, including a tax provision implementing a 15% corporate alternative minimum tax based on global adjusted financial statement income. The corporate alternative minimum tax became effective beginning with the Company’s first quarter of fiscal 2024 and did not have an impact on the Company’s consolidated financial statements for the three months ended September 30, 2023.
+As of September 30, 2023 and June 30, 2023, the gross amount of unrecognized tax benefits, exclusive of interest and penalties, totaled $ 61  million and $ 63  million, respectively. The total amount of unrecognized tax benefits at September 30, 2023 that, if recognized, would affect the effective tax rate was $ 51  million. There was no gross interest or penalties accrued related to unrecognized tax benefits during the three months ended September 30, 2023 in the accompanying consolidated statements of earnings. The total gross accrued interest and penalties in the accompanying consolidated balance sheets at each of September 30, 2023 and June 30, 2023, was $  15   million. On the basis of the information available as of September 30, 2023, the Company does not expect significant changes to the total amount of unrecognized tax benefits within the next twelve months.
+Subsequent to September 30, 2023, the Company formally concluded the compliance process with respect to its fiscal 2022 income tax return under the U.S. Internal Revenue Service (“IRS”) Compliance Assurance Program (“CAP”), which had no impact on the Company’s consolidated financial statements for the three months ended September 30, 2023.
+Supplier Finance Programs
+Under its supplier finance programs, the Company agrees to pay the banks the stated amount of confirmed invoices from its designated suppliers on the due dates of the invoices. The Company may terminate the agreements upon written notice (with notice periods ranging from  30  to  60  days) or immediately upon a breach. The supplier invoices that have been confirmed as valid under the programs require payment in full within  90  days of the invoice date.
+Outstanding obligations confirmed as valid totaling $ 40  million and $ 52  million as of September 30, 2023 and June 30, 2023, respectively, are included in accounts payable in the accompanying consolidated balance sheets.
+Other Accrued and Noncurrent Liabilities
+Other accrued liabilities consist of the following:
+(In millions)      September 30, 2023      June 30, 2023
+Employee compensation      $     472          $     546
+Accrued sales incentives       371           321
+Deferred revenue       336           323
+Payroll and other non-income taxes       307           297
+Sales return accrual       313           289
+Other       1,501           1,440
+$     3,300          $     3,216
+At September 30, 2023 and June 30, 2023, total Other noncurrent liabilities of $ 1,793  million and $ 1,943  million included $ 598  million and $ 620  million of deferred tax liabilities, respectively.
+8
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Recently Adopted Accounting Standards
+FASB ASU No. 2022-04 – Liabilities—Supplier Finance Programs (Subtopic 405-50): Disclosure of Supplier Finance Program Obligations
+In September 2022, the FASB issued authoritative guidance which is intended to enhance the transparency surrounding the use of supplier finance programs. The guidance requires companies that use supplier finance programs to make annual disclosures about the program’s key terms, the balance sheet presentation of related amounts, the confirmed amount outstanding at the end of the period and associated rollforward information. Only the amount outstanding at the end of the period must be disclosed in interim periods. The guidance does not affect the recognition, measurement or financial statement presentation of supplier finance program obligations.
+Effective for the Company   – The guidance became effective for the Company’s first quarter fiscal 2024 and has been applied on a retrospective basis, except for the requirement to disclose rollforward information annually which is effective prospectively for the Company beginning in fiscal 2025.
+Impact on consolidated financial statements –   The Company has supplier financing arrangements and applied the disclosure requirements as required by the amendments. Such information is included in   Supplier Finance Programs   above within   Note 1 – Summary of Significant Accounting Policies.
+Reference Rate Reform (ASC Topic 848   “  ASC 848  ”  )
+In March 2020, t  he FAS  B issued authoritative guidance to provide optional relief for companies preparing for the discontinuation of interest rates such as the London Interbank Offered Rate (“LIBOR”) and applies to lease and other contracts, hedging instruments, held-to-maturity debt securities and debt arrangements that reference LIBOR or another rate that is expected to be discontinued as a result of reference rate reform.
+In January 2021, the FASB issued authoritative guidance that makes amendments to the new rules on accounting for reference rate reform. The amendments clar  ify that for all derivative instruments affected by the changes to interest rates used for discounting, margining or contract price alignment, regardless of whether they reference LIBOR or another rate expected to be discontinued as a result of reference rate reform, an entity may apply certain practical expedients in ASC 848.
+In December 2022, the FASB issued authoritative guidance to defer the sunset date of ASC 848 from December 31, 2022 to December 31, 2024.
+Effective for the Company   – This guidance can only be applied for a limited time through December 31, 2024.
+Impact on consolidated financial statements –   The Company completed its comprehensive evaluation of applying this guidance and adopted certain practical expedients for its interest rate swap agreements in the fiscal 2024 first quarter which did not have a significant impact on its consolidated financial statements. The practical expedients that were adopted permit its hedging relationships to continue without de-designation upon changes due to reference rate reform. Foreign currency forward contracts do not reference LIBOR and no practical expedients were elected but are now discounted using the Secured Overnight Financing Rate ("SOFR"). For existing lease, debt arrangements and other contracts, the Company did not adopt any ASC 848 practical expedients as it relates to these arrangements.
+Recently Issued Accounting Standards
+No recently issued accounting pronouncements are expected to have a material impact on the Company’s consolidated financial statements.
+9
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 2 –  GOODWILL AND OTHER INTANGIBLE ASSETS
+Goodwill
+The following table presents goodwill by product category and the related change in the carrying amount:
+(In millions)      Skin Care      Makeup      Fragrance      Hair Care      Total
+Balance as of June 30, 2023
+Goodwill
+$     1,664          $     1,116          $     254          $     353          $     3,387
+Accumulated impairments
+( 139 )        ( 732 )        ( 30 )         —          ( 901 )
+1,525           384           224           353           2,486
+Translation adjustments, goodwill
+( 30 )         —          ( 3 )         —          ( 33 )
+Translation adjustments, accumulated impairments
+1           —           1           —           2
+( 29 )         —          ( 2 )         —          ( 31 )
+Balance as of September 30, 2023
+Goodwill
+1,634           1,116           251           353           3,354
+Accumulated impairments
+( 138 )        ( 732 )        ( 29 )         —          ( 899 )
+$     1,496          $     384          $     222          $     353          $     2,455
+Other Intangible Assets
+Other intangible assets consist of the following:
+September 30, 2023      June 30, 2023
+(In millions)      Gross
+Carrying
+Value      Accumulated
+Amortization      Total Net
+Book
+Value      Gross
+Carrying
+Value      Accumulated
+Amortization      Total Net
+Book
+Value
+Amortizable intangible assets:
+Customer lists and other
+$     2,002          $     796          $     1,206          $     2,030          $     766          $     1,264
+Non-amortizable intangible assets:
+Trademarks               4,309                   4,338
+Total intangible assets
+$     5,515                  $     5,602
+The aggregate amortization expense related to amortizable intangible assets was $  36   million for the three months ended September 30, 2023 and 2022.
+The estimated aggregate amortization expense for the remainder of fiscal 2024 and for each of the next four fiscal years is as follows:
+Fiscal
+(In millions)      2024      2025      2026      2027      2028
+Estimated aggregate amortization expense      $     108          $     144          $     144          $     126          $     101
+10
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 3 –  CHARGES ASSOCIATED WITH RESTRUCTURING AND OTHER ACTIVITIES
+The Company approved specific initiatives under the Post-COVID Business Acceleration Program (the “PCBA Program”) through fiscal 2022 and has substantially completed those initiatives through fiscal 2023. Additional information about the PCBA Program is included in the notes to consolidated financial statements in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2023.
+NOTE 4 –  DERIVATIVE FINANCIAL INSTRUMENTS
+The Company addresses certain financial exposures through a controlled program of risk management that includes the use of derivative financial instruments. The Company enters into foreign currency forward contracts, and may enter into option contracts, to reduce the effects of fluctuating foreign currency exchange rates. The Company also uses cross-currency swap contracts to hedge the impact of foreign currency changes on certain intercompany foreign currency denominated debt. In addition, the Company enters into interest rate derivatives to manage the effects of interest rate movements on the Company’s aggregate liability portfolio, including potential future debt issuances. The Company also enters into foreign currency forward contracts to hedge a portion of its net investment in certain foreign operations, which are designated as net investment hedges. The Company enters into the net investment hedges to offset the risk of changes in the U.S. dollar value of the Company’s investment in these foreign operations due to fluctuating foreign exchange rates. Time value is excluded from the effectiveness assessment and is recognized under a systematic and rational method over the life of the hedging instrument in Selling, general and administrative expenses. The net gain or loss on net investment hedges is recorded within translation adjustments, as a component of accumulated OCI (“AOCI”) on the Company’s consolidated balance sheets, until the sale or substantially complete liquidation of the underlying assets of the Company’s investment. The Company also enters into foreign currency forward contracts, and may use option contracts, not designated as hedging instruments, to mitigate the change in fair value of specific assets and liabilities on the consolidated balance sheets. At September 30, 2023, the notional amount of derivatives not designated as hedging instruments was $ 4,099  million. The Company does not utilize derivative financial instruments for trading or speculative purposes. Costs associated with entering into derivative financial instruments have not been material to the Company’s consolidated financial results.
+For each derivative contract entered into, where the Company looks to obtain hedge accounting treatment, the Company formally and contemporaneously documents all relationships between hedging instruments and hedged items, as well as its risk-management objective and strategy for undertaking the hedge transaction, the nature of the risk being hedged, and how the hedging instruments’ effectiveness in offsetting the hedged risk will be assessed prospectively and retrospectively. This process includes linking all derivatives to specific assets and liabilities on the balance sheet or to specific firm commitments or forecasted transactions. At inception, the Company evaluates the effectiveness of hedge relationships quantitatively, and has elected to perform, after initial evaluation, qualitative effectiveness assessments of certain hedge relationships to support an ongoing expectation of high effectiveness, if effectiveness testing is required. If based on the qualitative assessment, it is determined that a derivative has ceased to be a highly effective hedge, the Company will perform a quantitative assessment to determine whether to discontinue hedge accounting with respect to that derivative prospectively.
+11
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The fair values of the Company’s derivative financial instruments included in the consolidated balance sheets are presented as follows:
+Asset Derivatives      Liability Derivatives
+Fair Value   (1)
+Fair Value   (1)
+(In millions)      Balance Sheet
+Location      September 30, 2023      June 30, 2023      Balance Sheet
+Location      September 30, 2023      June 30, 2023
+Derivatives Designated as Hedging Instruments:
+Foreign currency cash flow hedges      Prepaid expenses and other current assets      $     61          $     56          Other accrued liabilities      $     3          $     16
+Cross-currency swap contracts      Prepaid expenses and other current assets       35           22          Other accrued liabilities       —           —
+Net investment hedges      Prepaid expenses and other current assets       23           —          Other accrued liabilities       1           13
+Interest rate-related derivatives      Prepaid expenses and other current assets       —           —          Other accrued liabilities       180           150
+Total Derivatives Designated as Hedging Instruments           119           78               184           179
+Derivatives Not Designated as Hedging Instruments:
+Foreign currency forward contracts      Prepaid expenses and other current assets       22           20          Other accrued liabilities       26           20
+Total derivatives          $     141          $     98              $     210          $     199
+(1)  See   Note 5 – Fair Value Measurements   for further information about how the fair value of derivative assets and liabilities are determined.
+12
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The amounts of the gains and losses related to the Company’s derivative financial instruments designated as hedging instruments that are included in the assessment of effectiveness are as follows:
+Amount of Gain
+Recognized in OCI on
+Derivatives
+Location of Gain Reclassified
+from AOCI into
+Earnings
+Amount of Gain
+Reclassified from AOCI into Earnings  (1)
+Three Months Ended
+September 30        Three Months Ended
+September 30
+(In millions)      2023      2022        2023      2022
+Derivatives in Cash Flow Hedging Relationships:
+Foreign currency forward contracts      $     28          $     57
+Net sales
+$     9          $     15
+Interest rate-related derivatives       —           7
+Interest expense
+—           —
+28           64               9           15
+Derivatives in Net Investment Hedging Relationships  (2)  :
+Foreign currency forward contracts  (3)
+30           71               —           —
+Total derivatives      $     58          $     135              $     9          $     15
+(1)  The amount reclassified into earnings as a result of the discontinuance of cash flow hedges because probable forecasted transactions will no longer occur by the end of the original time period was not material.
+(2)  During the three months ended September 30, 2023 and 2022, the gain recognized in earnings from net investment hedges related to the amount excluded from effectiveness testing was $ 5  million and $ 6  million, respectively.
+(3)  Included within translation adjustments as a component of AOCI on the Company’s consolidated balance sheets.
+Amount of Gain (Loss)
+Recognized in Earnings on
+Derivatives
+Location of Gain (Loss) Recognized in Earnings on Derivatives
+Three Months Ended
+September 30
+(In millions)        2023      2022
+Derivatives in Fair Value Hedging Relationships:
+Cross-currency swap contracts   (1)
+Selling, general and administrative      $     13          $     —
+Interest rate swap contracts   (2)
+Interest expense      $    ( 29 )        $    ( 39 )
+(1)  Changes in the fair value representing hedge components included in the assessment of effectiveness of the cross-currency swap contracts are exactly offset by the change in the fair value of the underlying intercompany foreign currency denominated debt. The gain recognized in earnings from cross-currency swap contracts related to the amount excluded from effectiveness testing was $ 5  million during the three months ended September 30, 2023.
+(2)  Changes in the fair value of the interest rate swap agreements are exactly offset by the change in the fair value of the underlying long-term debt.
+Additional information regarding the cumulative amount of fair value hedging gain (loss) recognized in earnings for items designated and qualifying as hedged items in fair value hedges is as follows:
+(In millions)
+Line Item in the Consolidated Balance Sheets in Which the Hedged Item is Included      Carrying Amount of the
+Hedged Liabilities      Cumulative Amount of Fair
+Value Hedging Gain (Loss)
+Included in the Carrying Amount of the Hedged Liability
+September 30, 2023      September 30, 2023
+Long-term debt      $     814          $    ( 180 )
+Intercompany debt      $     —          $     56
+13
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Additional information regarding the effects of fair value and cash flow hedging relationships for derivatives designated and qualifying as hedging instruments is as follows:
+Three Months Ended September 30
+2023      2022
+(In millions)      Net Sales      Selling, General and Administrative      Interest
+Expense      Net Sales      Selling, General and Administrative      Interest
+Expense
+Total amounts of income and expense line items presented in the consolidated statements of earnings in which the effects of fair value and cash flow hedges are recorded      $     3,518          $     2,349          $     95          $     3,930          $     2,244          $     46
+The effects of fair value and cash flow hedging relationships:
+Gain (loss) on fair value hedge relationships – interest rate contracts:
+Hedged item      N/A      N/A       29          N/A      N/A       39
+Derivatives designated as hedging instruments      N/A      N/A      ( 29 )        N/A      N/A      ( 39 )
+Gain (loss) on fair value hedge relationships – cross-currency swap contracts:
+Hedged item      N/A      ( 13 )        N/A      N/A       —          N/A
+Derivatives designated as hedging instruments      N/A       13          N/A      N/A       —          N/A
+Gain on cash flow hedge relationships – foreign currency forward contracts:
+Amount of gain reclassified from AOCI into earnings
+9          N/A      N/A       15          N/A      N/A
+N/A (Not applicable)
+The amount of gains and losses related to the Company’s derivative financial instruments not designated as hedging instruments are presented as follows:
+Amount of Gain
+Recognized in Earnings on Derivatives
+Location of Gain Recognized in Earnings on
+Derivatives
+Three Months Ended
+September 30
+(In millions)        2023      2022
+Derivatives Not Designated as Hedging Instruments:
+Foreign currency forward contracts
+Selling, general and administrative      $     5          $     11
+14
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The Company's derivative instruments are subject to enforceable master netting agreements. These agreements permit the net settlement of these contracts on a per-institution basis; however, the Company records the fair value on a gross basis on its consolidated balance sheets based on maturity dates, including those subject to master netting arrangements.   The following table provides information as if the Company had elected to offset the asset and liability balances of derivative instruments, netted in accordance with various criteria in the event of default or termination as stipulated by the terms of netting arrangements with each of the counterparties:
+As of September 30, 2023      As of June 30, 2023
+(In millions)        Gross Amounts of Assets / (Liabilities) Presented in Balance Sheet      Contracts Subject to Netting      Net Amounts of Assets / (Liabilities)      Gross Amounts of Assets / (Liabilities) Presented in Balance Sheet      Contracts Subject to Netting      Net Amounts of Assets / (Liabilities)
+Derivative Financial Contracts
+Derivative assets        $     141          $    ( 45 )        $     96          $     98          $    ( 53 )        $     45
+Derivative liabilities        ( 210 )         45          ( 165 )        ( 199 )         53          ( 146 )
+Total        $    ( 69 )        $     —          $    ( 69 )        $    ( 101 )        $     —          $    ( 101 )
+Cash Flow Hedges
+The Company enters into foreign currency forward contracts, and may enter into foreign currency option contracts, to hedge anticipated transactions and receivables and payables denominated in foreign currencies, for periods consistent with the Company’s identified exposures. The purpose of the hedging activities is to minimize the effect of foreign exchange rate movements on the cash flows that the Company receives from foreign subsidiaries. The foreign currency forward contracts entered into to hedge anticipated transactions have been designated as cash flow hedges and have varying maturities through the end of March 2025. Hedge effectiveness of the foreign currency forward contracts is based on the forward method, which includes time value in the effectiveness assessment. At September 30, 2023, the Company had cash flow hedges outstanding with a notional amount totaling $ 1,560  million.
+The Company may enter into interest rate forward contracts to hedge anticipated issuance of debt for periods consistent with the Company’s identified exposures. The purpose of the hedging activities is to minimize the effect of interest rate movements on the cost of debt issuance.
+For foreign currency hedge contracts that are no longer deemed highly effective, hedge accounting is discontinued and gains and losses in AOCI are reclassified to Net sales when the underlying forecasted transaction occurs. If it is probable that the forecasted transaction will no longer occur, then any gains or losses in AOCI are reclassified to current-period Net sales. As of September 30, 2023, the Company’s foreign currency cash flow hedges were highly effective.
+The estimated net gain on the Company’s derivative instruments designated as cash flow hedges as of September 30, 2023 that is expected to be reclassified from AOCI into earnings, net of tax, within the next twelve months is $ 43  million. The accumulated net gain on derivative instruments designated as cash flow hedges in AOCI was $ 99  million and $ 79  million as of September 30, 2023 and June 30, 2023, respectively.
+Fair Value Hedges
+The Company enters into interest rate derivative contracts to manage the exposure to interest rate fluctuations on its funded indebtedness. At September 30, 2023, the Company has interest rate swap agreements, with notional amounts totaling $ 700  million and $ 300  million to effectively convert the fixed rate interest on its 2030 Senior Notes and 2031 Senior Notes, respectively, to variable interest rates based on the   three-month   fallback rate SOFR plus a margin. These interest rate swap agreements are designated as fair value hedges of the related long-term debt, and the changes in the fair value of the interest rate swap agreements are exactly offset by the change in the fair value of the underlying long-term debt.
+15
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The Company enters into cross-currency swap contracts to manage the exposure of foreign exchange rate fluctuations on its intercompany foreign currency denominated debt. At September 30, 2023, the Company has cross-currency swap contracts with notional amounts totaling $ 491  million, to hedge the impact of foreign currency changes on certain intercompany foreign currency denominated debt. The cross-currency swap contracts are designated as fair value hedges of the related intercompany debt, and the gains and losses representing hedge components included in the assessment of effectiveness are presented in the same income statement line item as the earnings effect of the hedged transaction. Gains and losses on the derivative representing hedge components excluded from the assessment of effectiveness are recognized over the life of the hedge on a systematic and rational basis. The earnings recognition of excluded components is presented in the same income statement line item as the earnings effect of the hedged transaction. Any difference between the changes in the fair value of the excluded components and amounts recognized in earnings will be recognized in AOCI.
+The estimated net gain on the Company’s derivative instruments designated as fair value hedges as of September 30, 2023 that is expected to be reclassified from AOCI into earnings, net of tax, within the next twelve months is $ 14  million. The accumulated net loss on derivative instruments designated as fair value hedges in AOCI was $  20   million as of September 30, 2023 and June 30, 2023.
+Net Investment Hedges
+The Company enters into foreign currency forward contracts, designated as net investment hedges, to hedge a portion of its net investment in certain foreign operations. The net gain or loss on these contracts is recorded within translation adjustments, as a component of AOCI on the Company’s consolidated balance sheets. The purpose of the hedging activities is to minimize the effect of foreign exchange rate movements on the Company’s net investment in these foreign operations. The net investment hedge contracts have varying maturities through the end of September 2024. Hedge effectiveness of the net investment hedge contracts is based on the spot method. At September 30, 2023, the Company had net investment hedges outstanding with a notional amount totaling $ 1,180  million.
+Credit Risk
+As a matter of policy, the Company enters into derivative contracts only with counterparties that have a long-term credit rating of at least A- or higher by at least  two  nationally recognized rating agencies. The counterparties to these contracts are major financial institutions. Exposure to credit risk in the event of nonperformance by any of the counterparties is limited to the gross fair value of contracts in asset positions, which totaled $ 141  million at September 30, 2023. To manage this risk, the Company has strict counterparty credit guidelines that are continually monitored. Accordingly, management believes risk of loss under these hedging contracts is remote.
+NOTE 5 –  FAIR VALUE MEASUREMENTS
+The Company records certain of its financial assets and liabilities at fair value, which is defined as the price that would be received to sell an asset or paid to transfer a liability, in the principal or most advantageous market for the asset or liability, in an orderly transaction between market participants at the measurement date. The accounting for fair value measurements must be applied to nonfinancial assets and nonfinancial liabilities that require initial measurement or remeasurement at fair value, which principally consist of assets and liabilities acquired through business combinations and goodwill, indefinite-lived intangible assets and long-lived assets for the purposes of calculating potential impairment. The Company is required to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value. The three levels of inputs that may be used to measure fair value are as follows:
+Level 1:    Inputs based on quoted market prices for identical assets or liabilities in active markets at the measurement date.
+Level 2:    Observable inputs other than quoted prices included in Level 1, such as quoted prices for similar assets and liabilities in active markets; quoted prices for identical or similar assets and liabilities in markets that are not active; or other inputs that are observable or can be corroborated by observable market data.
+Level 3:    Inputs reflect management’s best estimate of what market participants would use in pricing the asset or liability at the measurement date. The inputs are unobservable in the market and significant to the instrument’s valuation.
+16
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The following table presents the Company’s hierarchy for its financial assets and liabilities measured at fair value on a recurring basis as of September 30, 2023:
+(In millions)      Level 1      Level 2      Level 3      Total
+Assets:
+Money market funds      $     2,094          $     —          $     —          $     2,094
+Foreign currency forward contracts
+—           106           —           106
+Cross-currency swap contracts       —           35           —           35
+Total
+$     2,094          $     141          $     —          $     2,235
+Liabilities:
+Foreign currency forward contracts
+$     —          $     30          $     —          $     30
+Interest rate-related derivatives
+—           180           —           180
+DECIEM stock options       —           —           103           103
+Total
+$     —          $     210          $     103          $     313
+The following table presents the Company’s hierarchy for its financial assets and liabilities measured at fair value on a recurring basis as of June 30, 2023:
+(In millions)      Level 1      Level 2      Level 3      Total
+Assets:
+Money market funds      $     3,241          $     —          $     —          $     3,241
+Foreign currency forward contracts
+—           76           —           76
+Cross-currency swap contracts       —           22           —           22
+Total
+$     3,241          $     98          $     —          $     3,339
+Liabilities:
+Foreign currency forward contracts
+$     —          $     49          $     —          $     49
+Interest rate-related derivatives       —           150           —           150
+DECIEM stock options       —           —           99           99
+Total
+$     —          $     199          $     99          $     298
+17
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The estimated fair values of the Company’s financial instruments are as follows:
+September 30, 2023      June 30, 2023
+(In millions)      Carrying
+Amount      Fair
+Value      Carrying
+Amount      Fair
+Value
+Nonderivatives
+Cash and cash equivalents
+$     3,090          $     3,090          $     4,029          $     4,029
+Current and long-term debt
+8,093           7,313           8,114           7,665
+DECIEM stock options       103           103           99           99
+Deferred consideration payable       340           336           341           338
+Derivatives
+Cross-currency swap contracts – asset, net
+35           35           22           22
+Foreign currency forward contracts – asset, net
+76           76           27           27
+Interest rate-related derivatives – liability, net
+( 180 )        ( 180 )        ( 150 )        ( 150 )
+The following methods and assumptions were used to estimate the fair value of the Company’s financial instruments for which it is practicable to estimate that value:
+Cash and cash equivalents –   Cash and all highly-liquid securities with original maturities of three months or less are classified as cash and cash equivalents, primarily consisting of cash deposits in interest bearing accounts, time deposits and money market funds (classified within Level 1 of the valuation hierarchy). Cash deposits in interest bearing accounts and time deposits are carried at cost, which approximates fair value, due to the short maturity of cash equivalent instruments.
+Foreign currency forward contracts     –   The fair values of the Company’s foreign currency forward contracts were determined using an industry-standard valuation model, which is based on an income approach. The significant observable inputs to the model, such as swap yield curves and currency spot and forward rates, were obtained from an independent pricing service. To determine the fair value of contracts under the model, the difference between the contract price and the current forward rate was discounted using SOFR forward curves.
+Cross-currency swap contracts –   The fair value of the Company’s cross-currency swap contracts were determined using an industry-standard valuation model, which is based on the income approach. The significant observable inputs to the model, such as yield curves and currency spot and forward rates, were obtained from independent pricing services.
+Interest rate-related derivatives –   The fair values of the Company’s interest rate contracts were determined using an industry-standard valuation model, which is based on the income approach. The significant observable inputs to the model, such as treasury yield curves, swap yield curves and SOFR forward curves, were obtained from independent pricing services.
+Current and long-term debt   –     The fair value of the Company’s debt was estimated based on the current rates offered to the Company for debt with the same remaining maturities. To a lesser extent, debt also includes finance lease obligations for which the carrying amount approximates the fair value. The Company’s debt is classified within Level 2 of the valuation hierarchy.
+Deferred consideration payable   –   The deferred consideration payable consists primarily of deferred payments associated with the fiscal 2023 fourth quarter acquisition of TOM FORD. The fair value of the payments treated as deferred consideration payable are calculated based on the net present value of cash payments using an estimated borrowing rate based on quoted prices for a similar liability. The Company’s deferred consideration payable is classified within Level 2 of the valuation hierarchy.
+18
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+DECIEM stock options   – The stock option liability represents the employee stock options issued by DECIEM in replacement and exchange for certain vested and unvested DECIEM employee stock options previously issued by DECIEM, in connection with the Company's acquisition of DECIEM. The DECIEM stock options are subject to the terms and conditions of DECIEM's 2021 Stock Option Plan. The DECIEM stock option liability is measured using the Monte Carlo Method, which requires certain assumptions. Significant changes in the projected future operating results would result in a higher or lower fair value measurement. Changes to the discount rates or volatilities would have a lesser effect. These inputs are categorized as Level 3 of the valuation hierarchy. The DECIEM stock options are remeasured to fair value at each reporting date through the period when the options are exercised or repurchased (i.e., when they are settled), with an offsetting entry to compensation expense. See   Note 9 – Stock Programs   for discussion  .
+Changes in the DECIEM stock option liability for the three months ended September 30, 2023 are included in Selling, general and administrative expenses in the accompanying consolidated statements of earnings and were as follows:
+(In millions)      Fair Value
+DECIEM stock option liability as of June 30, 2023      $     99
+Changes in fair value, net of foreign currency remeasurements
+8
+Translation adjustments and other, net      ( 4 )
+DECIEM stock option liability as of September 30, 2023      $     103
+NOTE 6 –  REVENUE RECOGNITION
+The Company’s revenue recognition accounting policies are described in the notes to consolidated financial statements in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2023.
+Accounts Receivable
+Accounts receivable, net is stated net of the allowance for doubtful accounts and customer deductions totaling $ 31  million and $ 30  million as of September 30, 2023 and June 30, 2023, respectively. Payment terms are short-term in nature and are generally less than one year.
+Changes in the allowance for credit losses are as follows:
+(In millions)      September 30, 2023
+Balance at June 30, 2023      $     16
+Provision for expected credit losses       1
+Balance at September 30, 2023      $     17
+The remaining balance of the allowance for doubtful accounts and customer deductions of $  14   million as of September 30, 2023 and June 30, 2023, respectively, relates to non-credit losses, which are primarily due to customer deductions.
+19
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Deferred Revenue
+Changes in deferred revenue during the period are as follows:
+Three Months Ended
+September 30
+(In millions)              2023      2022
+Deferred revenue, beginning of period              $     572          $     362
+Revenue recognized that was included in the deferred revenue balance at the beginning of the period              ( 152 )        ( 149 )
+Revenue deferred during the period
+168           157
+Other              ( 7 )        ( 8 )
+Deferred revenue, end of period              $     581          $     362
+Transaction Price Allocated to the Remaining Performance Obligations
+At September 30, 2023, the combined estimated revenue expected to be recognized in the next  twelve months  related to performance obligations for customer loyalty programs, gift with purchase promotions, purchase with purchase promotions, gift card liabilities and the Marcolin license arrangement related to TOM FORD that are unsatisfied (or partially unsatisfied) is $ 336  million. The remaining balance of deferred revenue at September 30, 2023 will be recognized beyond the next twelve months, of which $ 232  million relates to the non-refundable upfront payment received as part of the Marcolin licensing arrangement that is being recognized on a straight-line basis over the estimated economic life of the license, which is  20  years.
+Royalty Revenue   –   License Arrangements
+The Company’s contractually guaranteed minimum royalty amounts due during future periods under its existing license arrangements is disclosed in the notes to consolidated financial statements in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2023.
+NOTE 7 –  PENSION AND POST-RETIREMENT BENEFIT PLANS
+The Company maintains pension plans covering substantially all of its full-time employees for its U.S. operations and a majority of its international operations. The Company also maintains post-retirement benefit plans that provide certain medical and dental benefits to eligible employees. Descriptions of these plans are included in the notes to consolidated financial statements in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2023.
+The components of net periodic benefit cost for the three months ended September 30, 2023 and 2022 consisted of the following:
+Pension Plans      Other than
+Pension Plans
+U.S.      International      Post-retirement
+(In millions)      2023      2022      2023      2022      2023      2022
+Service cost      $     9          $     9          $     6          $     7          $     —          $     —
+Interest cost       12           10           5           3           2           2
+Expected return on plan assets      ( 14 )        ( 14 )        ( 6 )        ( 4 )         —           —
+Amortization of:
+Actuarial loss (gain)
+1           1          ( 2 )        ( 1 )         —           —
+Net periodic benefit cost      $     8          $     6          $     3          $     5          $     2          $     2
+During the three months ended September 30, 2023, the Company made contributions to its international pension plans totaling $ 3  million.
+20
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The amounts recognized in the consolidated balance sheets related to the Company’s pension and post-retirement benefit plans consist of the following:
+(In millions)      September 30, 2023      June 30, 2023
+Other assets      $     112          $     115
+Other accrued liabilities      ( 35 )        ( 34 )
+Other noncurrent liabilities      ( 352 )        ( 395 )
+Funded status      ( 275 )        ( 314 )
+Accumulated other comprehensive loss       235           235
+Net amount recognized      $    ( 40 )        $    ( 79 )
+NOTE 8 –  COMMITMENTS AND CONTINGENCIES
+Legal Proceedings
+The Company is involved, from time to time, in litigation and other legal proceedings incidental to its business, including product liability matters (including asbestos-related claims), advertising, regulatory, employment, intellectual property, real estate, environmental, trade relations, tax, and privacy. Management believes that the outcome of current litigation and legal proceedings will not have a material adverse effect upon the Company’s business, results of operations, financial condition or cash flows. However, management’s assessment of the Company’s current litigation and other legal proceedings could change in light of the discovery of facts with respect to legal actions or other proceedings pending against the Company not presently known to the Company or determinations by judges, juries or other finders of fact which are not in accord with management’s evaluation of the possible liability or outcome of such litigation or proceedings. Reasonably possible losses in addition to the amounts accrued for such litigation and legal proceedings are not material to the Company’s consolidated financial statements.
+NOTE 9 –  STOCK PROGRAMS
+Additional information relating to the Company's stock programs and the DECIEM stock options are included in the notes to consolidated financial statements in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2023.
+The Company's Stock Programs
+Total net stock-based compensation expense is attributable to the granting of, and the remaining requisite service periods of stock options, restricted stock units (“RSUs”), performance share units (“PSUs”), long-term PSUs, including long-term price-vested units and share units. Compensation expense attributable to net stock-based compensation was $ 80  million and $ 53  million for the three months ended September 30, 2023 and 2022, respectively.
+Stock Options
+During the three months ended September 30, 2023, the Company granted stock options in respect of approximately  1.8  million shares of Class A Common Stock with an exercise price per share of $ 156.39  and a weighted-average grant date fair value per share of $ 52.98 . The fair value of each option grant was estimated on the date of grant using the Black-Scholes option-pricing model. The aggregate intrinsic value of stock options exercised during the three months ended September 30, 2023 was $ 17  million.
+Restricted Stock Units
+During the three months ended September 30, 2023, the Company granted RSUs in respect of approximately  1.5  million shares of Class A Common Stock with a weighted-average grant date fair value per share of $ 156.23  that, at the time of grant, are scheduled to vest at  0.6  million,  0.5  million, and  0.4  million shares per year, in fiscal 2025, fiscal 2026 and fiscal 2027, respectively. Vesting of RSUs is generally subject to the continued employment or the retirement of the grantees. The RSUs are generally accompanied by dividend equivalent rights, payable upon settlement of the RSUs either in cash or shares (based on the terms of the particular award) and, as such, were generally valued at the closing market price of the Company’s Class A Common Stock on the date of grant.
+21
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Performance Share Units
+During the three months ended September 30, 2023, the Company granted PSUs with a target payout of approximately  0.2  million shares of Class A Common Stock with a grant date fair value per share of $ 156.39 , which will be settled in stock subject to the achievement of the Company’s net sales, diluted net earnings per common share and return on invested capital goals for the three fiscal years ending June 30, 2026, all subject to continued employment or the retirement of the grantees. For PSUs granted, no settlement will occur for results below the applicable minimum threshold. PSUs are accompanied by dividend equivalent rights that will be payable in cash upon settlement of the PSUs and, as such, were valued at the closing market value of the Company’s Class A Common Stock on the date of grant.
+In August 2023, less than  0.1  million shares of the Company’s Class A Common Stock were issued, and related accrued dividends were paid, relative to the target goals set at the time of the issuance, in settlement of  0.2  million PSUs with a performance period ended June 30, 2023.
+DECIEM Stock Options
+The DECIEM stock options are liability-classified awards as they are expected to be settled in cash and are remeasured to fair value at each reporting date through date of settlement. Total stock-based compensation expense is attributable to the exchange or replacement of and the remaining requisite service period of stock options. The total stock option expense, net of foreign currency remeasurements, for the three months ended September 30, 2023 and 2022 was $ 8  million and $ 1  million, respectively. There is no related income tax benefit on the DECIEM stock-based compensation expense. There were  no  DECIEM stock options exercised during the three months ended September 30, 2023.
+The DECIEM stock options are reported as a stock option liability of $ 103  million and $ 99  million in Other accrued liabilities in the accompanying consolidated balance sheets at September 30, 2023 and June 30, 2023, respectively.  The fair value of the stock options were calculated by incorporating significant assumptions including the starting equity value, actual and projected net sales and EBITDA and the following key assumptions into the Monte Carlo Method:
+September 30, 2023      June 30, 2023
+Risk-free rate       5.10 %       4.90 %
+Term to mid of last twelve-month period
+0.33  years
+0.46  years
+Operating leverage adjustment       0.45        0.45
+Net sales discount rate       8.00 %       7.80 %
+EBITDA discount rate       11.50 %       11.30 %
+EBITDA volatility       32.50 %       32.00 %
+Net sales volatility       14.60 %       14.40 %
+NOTE 10 –  NET EARNINGS ATTRIBUTABLE TO THE ESTÉE LAUDER COMPANIES INC. PER COMMON SHARE
+Net earnings attributable to The Estée Lauder Companies Inc. per common share (“basic EPS”) is computed by dividing net earnings attributable to The Estée Lauder Companies Inc. by the weighted-average number of common shares outstanding and shares underlying PSUs and RSUs where the vesting conditions have been met. Net earnings attributable to The Estée Lauder Companies Inc. per common share assuming dilution (“diluted EPS”) is computed by reflecting potential dilution from stock-based awards using the treasury stock method.
+22
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+A reconciliation between the numerator and denominator of the basic and diluted EPS computations is as follows:
+Three Months Ended
+September 30
+(In millions, except per share data)      2023      2022
+Numerator:
+Net earnings attributable to The Estée Lauder Companies Inc.      $     31          $     489
+Denominator:
+Weighted-average common shares outstanding – Basic
+358.4           357.9
+Effect of dilutive stock options
+1.3           2.7
+Effect of PSUs
+0.1           0.1
+Effect of RSUs
+0.7           0.7
+Weighted-average common shares outstanding – Diluted
+360.5           361.4
+Net earnings attributable to The Estée Lauder Companies Inc. per common share:
+Basic
+$     .09          $     1.37
+Diluted
+$     .09          $     1.35
+The shares of Class A Common Stock underlying stock options, RSUs and PSUs that were excluded in the computation of diluted EPS because their inclusion would be anti-dilutive were as follows:
+Three Months Ended
+September 30
+(In millions)    2023      2022
+Stock options     4.8        1.3
+RSUs and PSUs     0.1        —
+As of September 30, 2023 and 2022,  0.4  million and  0.4  million shares, respectively, of Class A Common Stock underlying PSUs have been excluded from the calculation of diluted EPS because the number of shares ultimately issued is contingent on the achievement of certain performance targets of the Company, as discussed in   Note 9 – Stock Programs  .
+23
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 11 –  EQUITY AND REDEEMABLE NONCONTROLLING INTEREST
+Total Stockholders’ Equity – The Estée Lauder Companies Inc.
+Three Months Ended
+September 30
+(In millions, except per share data)                      2023      2022
+Common stock, beginning of the period                      $     6          $     6
+Stock-based compensation                       —           —
+Common stock, end of the period                       6           6
+Paid-in capital, beginning of the period                       6,153           5,796
+Common stock dividends                       2           1
+Stock-based compensation                       94           78
+Paid-in capital, end of the period                       6,249           5,875
+Retained earnings, beginning of the period                       13,991           13,912
+Common stock dividends                      ( 238 )        ( 216 )
+Net earnings attributable to The Estée Lauder Companies Inc.                       31           489
+Retained earnings, end of the period                       13,784           14,185
+Accumulated other comprehensive loss, beginning of the period                      ( 934 )        ( 762 )
+Other comprehensive loss attributable to The Estée Lauder Companies Inc.                      ( 129 )        ( 316 )
+Accumulated other comprehensive loss, end of the period                      ( 1,063 )        ( 1,078 )
+Treasury stock, beginning of the period                      ( 13,631 )        ( 13,362 )
+Acquisition of treasury stock                       —          ( 92 )
+Stock-based compensation                      ( 3 )        ( 17 )
+Treasury stock, end of the period                      ( 13,634 )        ( 13,471 )
+Total equity                      $     5,342          $     5,517
+Redeemable noncontrolling interest, beginning of the period                      $     832          $     842
+Net earnings attributable to redeemable noncontrolling interest                       5           1
+Translation adjustments                      ( 11 )        ( 35 )
+Redeemable noncontrolling interest, end of the period                      $     826          $     808
+Cash dividends declared per common share                      $     .66          $     .60
+24
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The following is a summary of quarterly cash dividends declared per share on the Company’s Class A and Class B Common Stock during the three months ended September 30, 2023:
+Date Declared      Record Date      Payable Date      Amount per Share
+August 17, 2023      August 31, 2023      September 15, 2023      $        .66
+On October 31, 2023, a dividend was declared in the amount of $  .66   per share on the Company’s Class A and Class B Common Stock. The dividend is payable in cash on December 15, 2023 to stockholders of record at the close of business on November 30, 2023.
+Common Stock
+Beginning in December 2022, we temporarily suspended the repurchase of shares of our Class A Common Stock. We may resume repurchases in the future.
+Accumulated Other Comprehensive Income
+The following table represents changes in AOCI, net of tax, by component for the three months ended September 30, 2023:
+(In millions)      Net Cash
+Flow Hedge
+Gain (Loss)
+Cross-Currency Swap Contracts   (2)
+Amounts
+Included in Net Periodic Benefit Cost      Translation
+Adjustments      Total
+Balance at June 30, 2023      $     59          $    ( 15 )        $    ( 177 )        $    ( 801 )        $    ( 934 )
+OCI before reclassifications       21           4           1          ( 143 )
+(1)
+( 117 )
+Amounts reclassified to Net earnings      ( 7 )        ( 4 )        ( 1 )         —          ( 12 )
+Net current-period OCI       14           —           —          ( 143 )        ( 129 )
+Balance at September 30, 2023      $     73          $    ( 15 )        $    ( 177 )        $    ( 944 )        $    ( 1,063 )
+(1)  See   Note 4 – Derivative Financial Instruments   for gains (losses) relating to net investment hedges.
+(2)  The gain recognized in AOCI, net of tax from cross-currency swap contracts represents the amount excluded from effectiveness testing.
+25
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+The following table represents the effects of reclassification adjustments from AOCI into net earnings for the three months ended September 30, 2023 and 2022:
+Amount Reclassified from AOCI              Affected Line Item in
+Consolidated
+Statements of Earnings
+Three Months Ended
+September 30
+(In millions)              2023      2022
+Gain (Loss) on Cash Flow Hedges
+Foreign currency forward contracts              $     9          $     15                  Net sales
+Provision for deferred taxes
+( 2 )        ( 4 )                Provision for income taxes
+7           11                  Net earnings
+Cross-Currency Swap Contracts
+Gain on cross-currency swap contracts               5           —                  Selling, general and administrative
+Provision for deferred taxes              ( 1 )         —                  Provision for income taxes
+4           —
+Retirement Plan and Other Retiree Benefit Adjustments
+Amortization of actuarial loss               1           —
+Other components of net periodic benefit cost   (1)
+Provision for deferred taxes
+—           —                  Provision for income taxes
+1           —                  Net earnings
+Total reclassification adjustments, net              $     12          $     11                  Net earnings
+(1)  See   Note 7 – Pension and Post-Retirement Benefit Plans   for additional information.
+NOTE 12 –  STATEMENT OF CASH FLOWS
+Supplemental cash flow information for the three months ended September 30, 2023 and 2022 is as follows:
+(In millions)      2023      2022
+Cash:
+Cash paid during the period for interest      $     58          $     33
+Cash paid during the period for income taxes      $     131          $     113
+Non-cash investing and financing activities:
+Property, plant and equipment accrued but unpaid      $     82          $     171
+Right-of-use assets obtained in exchange for new/modified operating lease liabilities      $     111          $     70
+26
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 13 –  SEGMENT DATA AND RELATED INFORMATION
+Reportable operating segments include components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker (the “Chief Executive”) in deciding how to allocate resources and in assessing performance. Although the Company operates in  one  business segment, beauty products, management also evaluates performance on a product category basis. Product category performance is measured based upon net sales before returns associated with restructuring and other activities, and operating income (loss) before charges associated with restructuring and other activities. Returns and charges associated with restructuring and other activities are not allocated to the Company's product categories or geographic regions because they are centrally directed and controlled, are not included in internal measures of product category or geographic region performance and result from activities that are deemed Company-wide initiatives to redesign, resize and reorganize select areas of the business.
+The accounting policies for the Company’s reportable segments are substantially the same as those for the consolidated financial statements, as described in the notes to consolidated financial statements in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2023. The assets and liabilities of the Company are managed centrally and are reported internally in the same manner as the consolidated financial statements; thus, no additional information is produced for the Chief Executive or included herein. There has been no significant variance in the total or long-lived asset values associated with the Company’s segment data since June 30, 2023.
+27
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Three Months Ended
+September 30
+(In millions)                      2023      2022
+PRODUCT CATEGORY DATA
+Net sales:
+Skin Care                      $     1,638          $     2,104
+Makeup                       1,063           1,052
+Fragrance                       637           607
+Hair Care                       148           158
+Other                       32           14
+3,518           3,935
+Returns associated with restructuring and other activities                       —          ( 5 )
+Net sales                      $     3,518          $     3,930
+Operating income (loss) before charges associated with restructuring and other activities:
+Skin Care                      $     35          $     530
+Makeup                      ( 39 )         16
+Fragrance                       108           133
+Hair Care                      ( 22 )        ( 12 )
+Other                       18           —
+100           667
+Reconciliation:
+Charges associated with restructuring and other activities                      ( 2 )        ( 6 )
+Interest expense                      ( 95 )        ( 46 )
+Interest income and investment income, net                       41           15
+Other components of net periodic benefit cost                       2           3
+Other income                       —           —
+Earnings before income taxes                      $     46          $     633
+GEOGRAPHIC DATA  (1)
+Net sales:
+The Americas                      $     1,208          $     1,123
+Europe, the Middle East & Africa                       1,252           1,682
+Asia/Pacific                       1,058           1,130
+3,518           3,935
+Returns associated with restructuring and other activities                       —          ( 5 )
+Net sales                      $     3,518          $     3,930
+Operating income (loss):
+The Americas                      $    ( 182 )        $     125
+Europe, the Middle East & Africa                       144           334
+Asia/Pacific                       138           208
+100           667
+Charges associated with restructuring and other activities                      ( 2 )        ( 6 )
+Operating income                      $     98          $     661
+(1)       The net sales from the Company's travel retail business are included in the Europe, the Middle East & Africa region, and operating income attributable to these net sales are included in that region and in The Americas. The exception is for net sales and operating income of Dr.Jart+ in the travel retail channel in Korea that are reflected in Korea in the Asia/Pacific region.
+28
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Item 2.   Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+RESULTS OF OPERATIONS
+We manufacture, market and sell beauty products including those in the skin care, makeup, fragrance and hair care categories, which are distributed in approximately 150 countries and territories. The following table is a comparative summary of operating results for the three months ended September 30, 2023 and 2022, and reflects the basis of presentation described in   Notes to Consolidated Financial Statements, Note 1 – Summary of Significant Accounting Policies   for all periods presented. Products and services that do not meet our definition of skin care, makeup, fragrance and hair care have been included in the “other” category.
+Three Months Ended
+September 30
+(In millions)              2023      2022
+NET SALES
+By Product Category:
+Skin Care              $    1,638         $    2,104
+Makeup              1,063         1,052
+Fragrance              637         607
+Hair Care              148         158
+Other              32         14
+3,518         3,935
+Returns associated with restructuring and other activities              —         (5)
+Net sales              $    3,518         $    3,930
+By Region  (1)  :
+The Americas              $    1,208         $    1,123
+Europe, the Middle East & Africa              1,252         1,682
+Asia/Pacific              1,058         1,130
+3,518         3,935
+Returns associated with restructuring and other activities              —         (5)
+Net sales              $    3,518         $    3,930
+OPERATING INCOME (LOSS)
+By Product Category:
+Skin Care              $    35         $    530
+Makeup              (39)        16
+Fragrance              108         133
+Hair Care              (22)        (12)
+Other              18         —
+100         667
+Charges associated with restructuring and other activities              (2)        (6)
+Operating income              $    98         $    661
+By Region  (1)  :
+The Americas              $    (182)        $    125
+Europe, the Middle East & Africa              144         334
+Asia/Pacific              138         208
+100         667
+Charges associated with restructuring and other activities              (2)        (6)
+Operating income              $    98         $    661
+(1)   The net sales from the Company's travel retail business are included in the Europe, the Middle East & Africa region, and operating income attributable to these net sales are included in that region and in The Americas. The exception is for net sales and operating income of Dr.Jart+ in the travel retail channel in Korea that are reflected in Korea in the Asia/Pacific region.
+29
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+The following table presents certain consolidated earnings data as a percentage of net sales:
+Three Months Ended
+September 30
+2023      2022
+Net sales              100.0     %      100.0     %
+Cost of sales              30.4         26.0
+Gross profit              69.6         74.0
+Operating expenses:
+Selling, general and administrative              66.8         57.1
+Restructuring and other charges              —         0.1
+Total operating expenses              66.8         57.2
+Operating income              2.8         16.8
+Interest expense              2.7         1.2
+Interest income and investment income, net              1.2         0.4
+Other components of net periodic benefit cost              (0.1)        (0.1)
+Earnings before income taxes              1.3         16.1
+Provision for income taxes              0.3         3.6
+Net earnings              1.0         12.5
+Net earnings attributable to redeemable noncontrolling interest
+(0.1)        —
+Net earnings attributable to The Estée Lauder Companies Inc.              0.9     %      12.4     %
+Not adjusted for differences caused by rounding
+Period-over-period changes in our net sales are generally attributable to the impacts from (i) pricing on our base portfolio, including changes in mix and those due to strategic pricing actions, (ii) volume, including changes driven by the impact of new product innovation, (iii) acquisitions and/or divestitures, and/or (iv) foreign currency translation. The percentages disclosed for these impacts are calculated on an individual basis.
+The net sales impact from pricing consists of changes in list prices, due to strategic pricing actions, and mix shifts within and among product categories, geographic regions, brands and distribution channels. The prices at which we sell our products vary by brand, distribution channel (e.g., wholesale or direct-to-consumer) and may also vary by country. Our brands and products cover a broad array of pricing tiers. Prices of skin care and fragrance products are typically higher than makeup and hair care products.
+New product innovation includes the introduction of new products, as well as changes related to existing products or where they are sold, including reformulations, regional expansion, repackaging and sets. A product is considered "new innovation" for the twelve-month period following the initial shipment date. Our innovation is launched at different price points than existing products and value derived from innovation may vary from year to year. We continually introduce new products, support new and established products through advertising, merchandising and sampling and phase out existing products that no longer meet the needs of our consumers or our objectives. The economics of developing, producing, launching, supporting and discontinuing products impact our sales and operating performance each period. The introduction of new products often has some cannibalizing effect on sales of existing products, which we take into account in our business planning. The impact of new product introductions, including timing compared to introductions in prior periods, also affects our results.
+30
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Non-GAAP Financial Measures
+We use certain non-GAAP financial measures, among other financial measures, to evaluate our operating performance, which represent the manner in which we conduct and view our business. Management believes that excluding certain items that are not comparable from period to period helps investors and others compare operating performance between periods. While we consider the non-GAAP measures useful in analyzing our results, they are not intended to replace, or act as a substitute for, any presentation included in the consolidated financial statements prepared in conformity with U.S. GAAP. See   Reconciliations of Non-GAAP Financial Measures   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+We operate on a global basis, with the majority of our net sales generated outside the United States. Accordingly, fluctuations in foreign currency exchange rates affect our results of operations. Therefore, we present certain net sales, operating results and diluted net earnings per common share information excluding the effect of foreign currency rate fluctuations to provide a framework for assessing the performance of our underlying business outside the United States. Constant currency information compares results between periods as if exchange rates had remained constant period-over-period. We calculate constant currency information by translating current-period results using monthly average foreign currency exchange rates and adjusting for the period-over-period impact of foreign currency cash flow hedging activities.
+Overview
+We are a leader in prestige beauty, which combines the repeat purchase and relative affordability of consumer goods with high quality products and services. Within prestige beauty, we are diversified by product category, geography, brand, product sub-category, channel, consumer segment and price point. We also leverage consumer analytics and insights with agility by deploying our brands to fast growing and profitable opportunities. These analytics and insights, combined with our creativity, inform our innovation to provide a broad, locally-relevant and inclusive range of prestige products allowing us to compete effectively for a greater share of a consumer's beauty routine. Elements of our strategy are described in the   Overview   on pages 30-32 of our Annual Report on Form 10-K for the year ended June 30, 2023, as well as below.
+•  Our skin care net sales declined 22%, primarily driven by lower net sales from Estée Lauder and La Mer. These decreases primarily reflect a decline in our Asia travel retail business, primarily due to our and our retailers' actions to reset retailer inventory levels, and changes in government and retailer policies related to unstructured market activity, that led to lower product shipments compared to the prior-year period. The net sales decrease in Estée Lauder was also due to incremental headwinds from a slower-than-expected recovery of overall prestige beauty in mainland China. Partially offsetting the decrease in skin care net sales were higher net sales from The Ordinary, reflecting growth in every geographic region.
+•  Our makeup net sales increased slightly, primarily driven by higher net sales from M·A·C, Too Faced, Clinique, and TOM FORD, partially offset by lower net sales from Estée Lauder primarily reflecting a decline in our Asia travel retail business. This was primarily due to our and our retailers' actions to reset retailer inventory levels, and changes in government and retailer policies related to unstructured market activity, that led to lower product shipments compared to the prior-year period.
+•  Our fragrance net sales increased 5%, primarily driven by growth from Le Labo, benefiting from the growth of hero products, new product launches and targeted expanded consumer reach due to the brand's launch in mainland China during the fiscal 2023 fourth quarter.
+•  Our hair care net sales declined 6%, primarily attributable to lower net sales from Aveda, reflecting a decline in North America, in the salon channel and in our online business.
+Our global distribution capability and operations allow us to focus on targeted expanded consumer reach wherever consumer demographics and trends are attractive. Our regional organizations, and the expertise of our people there, enable our brands to be more locally and culturally relevant in both product assortment and communications. We are evolving the way we connect with our consumers in stores, online and where they travel, including by expanding our digital and social media presence and the engagement of global and local influencers to amplify brand or product stories. We tailor implementation of our strategy by market to drive consumer engagement and embrace inclusion and cultural diversity. We continuously strengthen our presence in large, image-building core markets, while broadening our presence in emerging markets.
+31
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+•  Net sales in The Americas increased 8%, primarily driven by higher net sales in the United States, Mexico and Brazil. The increase in net sales in the United States primarily reflected continued strong performance by The Ordinary in skin care, as well as growth in fragrance, led by Le Labo and TOM FORD. The region also benefited from incremental royalty revenue associated with the fiscal 2023 fourth quarter acquisition of the TOM FORD brand. Net sales in Mexico and Brazil increased in all product categories, led by makeup, and benefited from targeted expanded consumer reach.
+•  Net sales in Europe, the Middle East & Africa decreased 26%, primarily driven by our Asia travel retail business. The decline in our Asia travel retail business was primarily due to our and our retailers' actions to reset retailer inventory levels, and changes in government and retailer policies related to unstructured market activity, that led to lower product shipments compared to the prior-year period.
+•  Net sales in Asia/Pacific decreased 6%, including the unfavorable impact of foreign currency translation of 3%, driven by lower net sales in mainland China, reflecting incremental headwinds from a slower-than-expected recovery of overall prestige beauty in mainland China, partially offset by higher net sales in Hong Kong SAR, driven by the resumption of travel from mainland China to Hong Kong SAR due to the lifting of travel restrictions.
+Outlook
+We have experienced, and are expecting to continue to experience, challenges within our Asia travel retail business, as well as incremental headwinds from a slower-than-expected recovery of overall prestige beauty in mainland China. These challenges, combined with the risks of business disruption in Israel and other parts of the Middle East (net sales from Israel and the Middle East accounted for approximately 2% of consolidated net sales in each of fiscal 2023 and the first quarter of fiscal 2024), are expected to negatively impact net sales and profitability, including an unfavorable impact to our effective tax rate from changes to our geographical mix of earnings.
+We believe that the best way to increase long-term stockholder value is to continue providing superior products and services in the most efficient and effective manner while recognizing shifts in consumers’ behaviors and shopping practices. Accordingly, our long-term strategy has numerous initiatives across geographic regions, product categories, brands, channels of distribution and functions designed to grow our sales, provide cost efficiencies, leverage our strengths and make us more productive and profitable. We plan to build upon and leverage our history of outstanding creativity and innovation, high quality products and services, and engaging communications while investing for long-term sustainable growth.
+We continue to monitor the effects of the global macro environment, including the risk of recession; currency volatility; inflationary pressures; supply chain challenges; social and political issues; regulatory matters, including the imposition of tariffs and sanctions; geopolitical tensions; and global security issues. For example, the strengthening of the U.S. dollar could negatively impact results within Europe, the Middle East & Africa due to pricing pressures on our retail customers and consumers in key international travel retail locations. Additionally, we continue to monitor the geopolitical tensions between the United States and China, which could have a material adverse effect on our business. We are also mindful of inflationary pressures on our cost base and are monitoring the impact on consumer preferences. A decline in net sales and profitability may adversely impact the goodwill and other intangible assets associated with our brands, as well as long-lived assets, potentially resulting in impairments.
+Cybersecurity Incident Disclosed in July 2023
+As initially disclosed on July 18, 2023, we identified a cybersecurity incident in which an unauthorized third party gained access to some of our systems. After becoming aware of the incident, we proactively took down some of our systems to help secure our business operations and subsequently brought back online core systems within days. While the response to the incident resulted in some disruptions to our business operations, most notably general corporate activities and order processing, our production and sales operations were minimally impacted.
+Our investigation into the identification of the impacted systems and the unauthorized access is complete. We determined that the unauthorized third party obtained some data from our systems. We are continuing to work to understand the nature and scope of the data obtained, and can confirm, based on the investigation to date, that the data obtained includes some consumer and employee data (such as names, contact information, and dates of birth). We took steps, and continue to take steps, to enhance the security of our systems, and are continuing to coordinate with law enforcement authorities. We have provided and will continue to provide notification to governmental authorities in certain jurisdictions and we have also notified, and will continue to notify, affected individuals where required by law.
+32
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Based on the information available to date, we believe the incident is contained. The incident did not have a material impact on net sales and was $.08 dilutive to earnings per share for the fiscal 2024 first quarter and based on this information is not expected to have a material impact on net sales and is expected to be dilutive approximately $.08 to earnings per share for the fiscal 2024 full year.
+NET SALES
+Three Months Ended
+September 30
+($ in millions)                      2023      2022
+As Reported:
+Net sales                      $    3,518         $    3,930
+$ Change from prior-year period                      (412)
+% Change from prior-year period                      (10)    %
+Non-GAAP Financial Measure  (1)  :
+% Change from prior-year period in constant currency adjusting for returns associated with restructuring and other activities                      (10)    %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+Reported net sales decreased during the three months ended September 30, 2023, primarily driven by lower net sales from the skin care product category of $466 million.
+Reported net sales decreased during the three months ended September 30, 2023, primarily reflecting lower net sales from Europe, the Middle East & Africa and, to a lesser extent, Asia/Pacific, partially offset by higher net sales in The Americas.
+Net sales for the three months ended September 30, 2023, reflects $17 million of incremental royalty revenue included in The Americas region and the other category from the new revenue stream associated with the TOM FORD trademark as a result of the fiscal 2023 fourth quarter acquisition of the TOM FORD brand.
+The total net sales decrease was impacted by approximately $11 million of unfavorable foreign currency translation.
+Returns associated with restructuring and other activities are not allocated to our product categories or geographic regions because they result from activities that are deemed a Company-wide initiative to redesign, resize and reorganize select corporate functions and go-to-market structures. Accordingly, the following discussions of Net sales by   Product Categories   and   Geographic Regions   exclude the impact of returns associated with restructuring and other activities for the three months ended September 30, 2022 of $5 million.
+Reported net sales decreased 10% for the three months ended September 30, 2023, driven by the decrease from volume of 13%, partially offset by an increase from pricing of 2% due to the favorable impact from strategic pricing actions, partially offset by changes in mix.
+33
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Product Categories
+Skin Care
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Net sales              $    1,638         $    2,104
+$ Change from prior-year period              (466)
+% Change from prior-year period              (22)    %
+Non-GAAP Financial Measure  (1)  :
+% Change from prior-year period in constant currency              (21)    %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+Reported skin care net sales decreased, primarily driven by lower net sales from Estée Lauder and La Mer, combined, of approximately $437 million.  These decreases primarily reflect a decline in our Asia travel retail business, primarily due to our and our retailers' actions to reset retailer inventory levels, and changes in government and retailer policies related to unstructured market activity, that led to lower product shipments compared to the prior-year period. The net sales decrease in Estée Lauder was also due to incremental headwinds from a slower-than-expected recovery of overall prestige beauty in mainland China.
+Partially offsetting these decreases in skin care net sales were higher net sales from The Ordinary, driven by growth in every geographic region, reflecting success of hero products, new product launches and targeted expanded consumer reach.
+The skin care net sales decrease was impacted by approximately $17 million of unfavorable foreign currency translation.
+Reported skin care net sales decreased 22% for the three months ended September 30, 2023, driven by the decrease from volume of 22% and the unfavorable impact from foreign currency translation of 1%. These decreases were partially offset by an increase from pricing of 1%, due to the favorable impact from strategic pricing actions, partially offset by changes in mix.
+Makeup
+Three Months Ended
+September 30
+($ in millions)                2023      2022
+As Reported:
+Net sales                $    1,063         $    1,052
+$ Change from prior-year period                11
+% Change from prior-year period                1     %
+Non-GAAP Financial Measure  (1)  :
+% Change from prior-year period in constant currency                1     %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+34
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Reported makeup net sales increased, primarily driven by higher net sales from M·A·C, Too Faced, Clinique, and TOM FORD, combined, of approximately $49 million. The increase in net sales from M·A·C was primarily driven by the success of hero products and new product launches. The increase in net sales from Too Faced reflected the success of hero products, targeted expanded consumer reach, and new product launches. Net sales from Clinique increased, reflecting the fiscal 2024 first quarter launch of High Impact High-Fi Full Volume Mascara. Net sales from TOM FORD increased, benefiting from solid performance in the lip, eye and face subcategories.
+Partially offsetting the increase in makeup net sales was a decrease in net sales from Estée Lauder, primarily reflecting a decline in our Asia travel retail business, primarily due to our and our retailers' actions to reset retailer inventory levels, and changes in government and retailer policies related to unstructured market activity, that led to lower product shipments compared to the prior-year period.
+The makeup net sales increase was impacted by approximately $3 million of favorable foreign currency translation.
+Reported makeup net sales increased 1% for the three months ended September 30, 2023, driven by an increase from pricing of 3% due to the favorable impact from strategic pricing actions, partially offset by changes in mix. Partially offsetting this increase was the decrease from volume of 2%.
+Fragrance
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Net sales              $    637         $    607
+$ Change from prior-year period              30
+% Change from prior-year period              5     %
+Non-GAAP Financial Measure  (1)  :
+% Change from prior-year period in constant currency              5     %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+Reported fragrance net sales increased, driven by higher net sales from Le Labo, benefiting from the growth of hero products, including the successful City Exclusives collection, new product launches and targeted expanded consumer reach due to the brand's launch in mainland China during the fiscal 2023 fourth quarter.
+Fragrance net sales were impacted by approximately $2 million of favorable foreign currency translation.
+Reported fragrance net sales increased 5% for the three months ended September 30, 2023, driven by the increase from pricing of 4%, due to the favorable impact from strategic pricing actions, partially offset by changes in mix. The impact from volume was flat period-over-period.
+35
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Hair Care
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Net sales              $    148         $    158
+$ Change from prior-year period              (10)
+% Change from prior-year period              (6)    %
+Non-GAAP Financial Measure  (1)  :
+% Change from prior-year period in constant currency              (7)    %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+Reported hair care net sales decreased, driven by lower net sales from Aveda, reflecting a decline in North America, in the salon channel and in our online business.
+The hair care net sales decrease was impacted by approximately $1 million of favorable foreign currency translation.
+Reported hair care net sales decreased 6% for the three months ended September 30, 2023, driven by the decrease from volume of 11%. This decrease was partially offset by the increase from pricing of 4%, due to the favorable impact from strategic pricing actions, partially offset by changes in mix, and the favorable impact from foreign currency translation of 1%.
+Geographic Regions
+We strategically time our new product launches by geographic market, which may account for differences in regional sales growth.
+The Americas
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Net sales              $    1,208         $    1,123
+$ Change from prior-year period              85
+% Change from prior-year period              8     %
+Non-GAAP Financial Measure  (1)  :
+% Change from prior-year period in constant currency              8     %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+The increase in reported net sales in The Americas was driven primarily by increased net sales in the United States, Mexico and Brazil, combined, of approximately $82 million. The increase in net sales in the United States primarily reflected strong performance by The Ordinary, as well as growth in fragrance, led by Le Labo and TOM FORD. Also contributing to the increase in net sales in the United States was incremental royalty revenue associated with the fiscal 2023 fourth quarter acquisition of the TOM FORD brand of $17 million. The increase in net sales in Mexico and Brazil was driven by growth across all product categories, led by makeup, and benefited from targeted expanded consumer reach.
+Net sales in The Americas were impacted by approximately $2 million of unfavorable foreign currency translation.
+36
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Reported net sales in The Americas increased 8% for the three months ended September 30, 2023, driven by the increase from volume of 5%, the impact from the royalty revenue from the fiscal 2023 fourth quarter acquisition of the TOM FORD brand of 2%, and the impact from pricing of 1%, due to the favorable impact from strategic pricing actions, partially offset by changes in mix.
+Europe, the Middle East & Africa
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Net sales              $    1,252         $    1,682
+$ Change from prior-year period              (430)
+% Change from prior-year period              (26)    %
+Non-GAAP Financial Measure  (1)  :
+% Change from prior-year period in constant currency              (27)    %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+Reported net sales decreased in Europe, the Middle East & Africa, primarily driven by lower net sales from our Asia travel retail business. The decrease in net sales from our Asia travel retail business was primarily due to our and our retailers' actions to reset retailer inventory levels, and changes in government and retailer policies related to unstructured market activity, that led to lower product shipments compared to the prior-year period.
+Net sales in Europe, the Middle East & Africa were impacted by approximately $29 million of favorable foreign currency translation.
+Reported net sales in Europe, the Middle East & Africa decreased 26% for the three months ended September 30, 2023, driven by the decrease from volume of 26% and a decrease from pricing of 1%, due to the unfavorable impact from changes in mix, partially offset by strategic pricing actions. Partially offsetting these decreases was the favorable impact from foreign currency translation of 2%.
+Asia/Pacific
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Net sales              $    1,058         $    1,130
+$ Change from prior-year period              (72)
+% Change from prior-year period              (6)    %
+Non-GAAP Financial Measure  (1)  :
+% Change from prior-year period in constant currency              (3)    %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+Reported net sales decreased in Asia/Pacific, primarily driven by incremental headwinds from a slower-than-expected recovery of overall prestige beauty in mainland China.
+37
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Partially offsetting the net sales decrease in Asia/Pacific was an increase in net sales in Hong Kong SAR, driven by the resumption of travel from mainland China to Hong Kong SAR due to the lifting of travel restrictions.
+Net sales in Asia/Pacific were impacted by approximately $38 million of unfavorable foreign currency translation.
+Reported net sales in Asia/Pacific decreased 6% for the three months ended September 30, 2023, driven by the decrease from volume of 11% and the unfavorable impact from foreign currency translation of 3%. Partially offsetting these decreases was the increase from pricing of 8%, due to the favorable impact from strategic pricing actions and changes in mix.
+GROSS MARGIN
+Gross margin decreased to 69.6% for the three months ended September 30, 2023, as compared with 74.0% in the prior-year period.
+Favorable (Unfavorable) Basis Points
+September 30, 2023
+Three Months Ended
+Mix of business          (85)
+Obsolescence charges          (115)
+Manufacturing costs and other          (150)
+Foreign exchange transactions          (90)
+Total          (440)
+The decrease in gross margin reflected unfavorable impacts from higher manufacturing costs and other, driven primarily by the under absorption of manufacturing variances due to lower production volumes in the second half of fiscal 2023. The unfavorable impact from obsolescence charges is primarily due to excess inventory on hand driven by lower than expected demand primarily within our travel retail business and mainland China. The unfavorable impact from our mix of business is primarily driven by higher costs associated with promotional items.
+38
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+OPERATING EXPENSES
+Operating expenses as a percentage of net sales was 66.8% for the three months ended September 30, 2023 as compared with 57.2% in the prior-year period.
+Favorable (Unfavorable) Basis Points
+September 30, 2023
+Three Months Ended
+General and administrative expenses          (300)
+Advertising, merchandising, sampling and product development          (320)
+Selling          (160)
+Stock-based compensation          (90)
+Store operating costs          (100)
+Foreign exchange transactions          20
+Subtotal          (950)
+Charges associated with restructuring and other activities          10
+Changes in fair value of acquisition-related stock options          (20)
+Total          (960)
+The unfavorable change in operating expense margin was driven by the decrease in net sales and also reflected unfavorable impacts relating to advertising, merchandising, sampling and product development, general and administrative expenses, selling expenses and store operating costs, as we continue to invest in our business, while also decreasing certain expenses through disciplined expense management. The increase in general and administrative expense, including stock-based compensation, reflected higher employee-related costs, primarily driven by the unfavorable year-over-year comparisons in the recognition of expenses and adjustments related to our performance share units, restricted stock units and incentive compensation, as well as annual increases to salaries and wages. Also contributing to the increase in general and administrative expenses were expenses incurred related to the July 2023 cybersecurity incident.
+OPERATING RESULTS
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Operating income              $    98         $    661
+$ Change from prior-year period              (563)
+% Change from prior-year period              (85)    %
+Operating margin              2.8     %      16.8     %
+Non-GAAP Financial Measure  (1)  :
+% Change in operating income from the prior-year period adjusting for the impact of charges associated with restructuring and other activities and the change in fair value of acquisition-related stock options
+(84)    %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+The decrease in reported operating margin was primarily driven by a decrease in net sales, decrease in gross margin and the increase in operating expense margin as discussed above.
+39
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Charges associated with restructuring and other activities are not allocated to our product categories or geographic regions because they are centrally directed and controlled, are not included in internal measures of product category or geographic region performance and result from activities that are deemed Company-wide initiatives to redesign, resize and reorganize select areas of the business. Accordingly, the following discussions of Operating income by   Product Categories   and   Geographic Regions   exclude the impact of charges associated with restructuring and other activities for the three months ended September 30, 2023 and 2022 of $2 million and $6 million, respectively.
+Product Categories
+Skin Care
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Operating income              $    35         $    530
+$ Change from prior-year period              (495)
+% Change from prior-year period              (93)    %
+Non-GAAP Financial Measure  (1)  :
+% Change in operating income from the prior-year period adjusting for the change in fair value of acquisition-related stock options
+(92)    %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+Reported skin care operating income decreased, reflecting lower operating results from Estée Lauder and La Mer, combined, of approximately $400 million, primarily driven by decreases in net sales. Also contributing to the decrease in skin care operating income was higher obsolescence charges primarily due to excess inventory on hand driven by lower than expected demand primarily within our travel retail business and mainland China, as well as an increase in stock-based compensation expense and higher employee-related costs, as discussed above.
+Makeup
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Operating income (loss)              $    (39)        $    16
+$ Change from prior-year period              (55)
+% Change from prior-year period              (100+)%
+Reported makeup operating income decreased, reflecting lower results from Estée Lauder, primarily driven by a decrease in net sales, an increase in selling expenses due to higher staffing costs compared to the prior-year period, and an increase in advertising and promotional activities to support strategic investments to drive growth. Also contributing to the decrease in makeup operating income was higher obsolescence charges primarily due to excess inventory on hand driven by lower than expected demand primarily within our travel retail business and mainland China, as well as higher employee-related costs and an increase in stock-based compensation expense, as discussed above.
+Partially offsetting the decrease in makeup operating income were improved results from TOM FORD, primarily driven by an increase in net sales, and the decrease in royalty expense compared to the prior-year period due to the fiscal 2023 fourth quarter acquisition of the TOM FORD brand.
+40
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Fragrance
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Operating income              $    108         $    133
+$ Change from prior-year period              (25)
+% Change from prior-year period              (19)    %
+Reported fragrance operating income decreased, reflecting lower results from Jo Malone London and TOM FORD, combined, of approximately $19 million. Operating income from Jo Malone London decreased, driven by an increase in advertising and promotional investment to support both new and existing products, an increase in general and administrative expenses, and an increase in selling expenses driven by increased staffing costs compared to the prior-year period, partially offset by an increase in net sales. Operating income from TOM FORD decreased, reflecting higher cost of sales, due in part to an increase in net sales and promotional items, an increase in selling expenses driven by increased staffing costs compared to the prior-year period and higher advertising and promotional activities to support the fiscal 2024 first quarter launch of Café Rose, partially offset by an increase in net sales and the decrease in royalty expense as a result of the fiscal 2023 fourth quarter acquisition of TOM FORD brand. Also contributing to the decrease in fragrance operating income were higher employee-related costs and an increase in stock-based compensation expense, as discussed above.
+Partially offsetting the decrease in fragrance operating income were higher results from Le Labo, primarily driven by an increase in net sales, partially offset by higher advertising and promotional activities to support hero products and new product launches, higher selling expenses due to increased staffing costs compared to the prior-year period and higher store operations costs to support targeted expanded consumer reach.
+Hair Care
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Operating income (loss)              $    (22)        $    (12)
+$ Change from prior-year period              (10)
+% Change from prior-year period              (83)    %
+Reported hair care operating results decreased, primarily driven by lower results from Aveda and Bumble and bumble, combined, of approximately $7 million, driven by a decrease in net sales. Partially offsetting the lower results from Aveda was disciplined advertising and promotional expense management. Also contributing to the decrease in fragrance operating income were higher employee-related costs and an increase in stock-based compensation expense, as discussed above.
+41
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Geographic Regions
+The Americas
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Operating income (loss)              $    (182)        $    125
+$ Change from prior-year period              (307)
+% Change from prior-year period              (100+)%
+Non-GAAP Financial Measure  (1)  :
+% Change in operating income from the prior-year period adjusting for the change in fair value of acquisition-related stock options
+(100+)%
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   beginning on page 44 for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+Reported operating results decreased in The Americas, primarily reflecting lower operating results from North America of approximately $300 million. The decrease in operating results in North America was primarily driven by the United States, reflecting lower intercompany royalty income of $185 million compared to the prior-year period, driven by a decrease in net sales in our travel retail business, higher cost of sales due to higher obsolescence charges primarily due to excess inventory on hand driven by lower demand, higher general and administrative expenses driven by higher stock-based compensation expenses, as discussed above, partially offset by an increase in net sales.
+Europe, the Middle East & Africa
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Operating income              $    144         $    334
+$ Change from prior-year period              (190)
+% Change from prior-year period              (57)    %
+Reported operating income decreased in Europe, the Middle East & Africa, primarily driven by lower results from our travel retail business, primarily due to the decrease in net sales, partially offset by the associated decrease in intercompany royalty expense to The Americas of $185 million.
+42
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Asia/Pacific
+Three Months Ended
+September 30
+($ in millions)              2023      2022
+As Reported:
+Operating income              $    138         $    208
+$ Change from prior-year period              (70)
+% Change from prior-year period              (34)    %
+Reported operating income decreased in Asia/Pacific, primarily driven by lower operating results from mainland China and Korea, combined, of approximately $85 million. The lower operating results in mainland China were driven by a decrease in net sales, partially offset by disciplined advertising and promotional expense management. Operating income in Korea decreased, led by Dr.Jart+, due to decreases in net sales and an increase in cost of sales, due in part to an increase in promotional items, partially offset by lower selling expenses.
+Partially offsetting the operating income decrease were higher results from Hong Kong SAR, primarily driven by an increase in net sales, partially offset by a higher cost of sales, due in part to an increase in promotional items.
+INTEREST AND INVESTMENT INCOME
+Three Months Ended
+September 30
+(In millions)              2023      2022
+Interest expense              $    95         $    46
+Interest income and investment income, net              $    41         $    15
+Interest expense increased, primarily reflecting a higher debt balance, due in part to the financing of our acquisition of the TOM FORD brand, including the issuance of commercial paper primarily in the second half of fiscal 2023, and the issuance of Senior Notes in May 2023. Also contributing to the increase in interest expense was higher interest rates compared to the prior-year period. Interest income and investment income, net increased, primarily reflecting higher interest rates compared to the prior-year period.
+PROVISION FOR INCOME TAXES
+The provision for income taxes represents U.S. federal, foreign, state and local income taxes. The effective rate differs from the federal statutory rate primarily due to the effect of state and local income taxes, the tax impact of share-based compensation, the taxation of foreign income and income tax reserve adjustments, which represent changes in our net liability for unrecognized tax benefits including tax settlements and lapses of the applicable statutes of limitations. Our effective tax rate will change from quarter-to-quarter based on recurring and non-recurring factors including the geographical mix of earnings, enacted tax legislation, state and local income taxes, tax reserve adjustments, the tax impact of share-based compensation, the interaction of various global tax strategies and the impact from certain acquisitions. In addition, changes in judgment from the evaluation of new information resulting in the recognition, derecognition or remeasurement of a tax position taken in a prior annual period are recognized separately in the quarter of change.
+Three Months Ended
+September 30
+2023      2022
+Effective rate for income taxes            21.7     %      22.6     %
+Basis-point change from the prior-year period            (90)
+43
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+For the three months ended September 30, 2023, the decrease in the effective tax rate of 90 basis points was primarily attributable to a decrease in income tax reserve adjustments and an increase in the impact of excess tax benefits associated with stock-based compensation arrangements, offset by a higher effective tax rate on our foreign operations, due to our geographical mix of earnings for fiscal 2024. The lower amount of earnings before income taxes increased the impact of these tax adjustments in the first quarter of fiscal 2024.
+NET EARNINGS ATTRIBUTABLE TO THE ESTÉE LAUDER COMPANIES INC.
+Three Months Ended
+September 30
+($ in millions, except per share data)              2023      2022
+As Reported:
+Net earnings attributable to The Estée Lauder Companies Inc.              $    31         $    489
+$ Change from prior-year period              (458)
+% Change from prior-year period              (94)    %
+Diluted net earnings per common share              $    0.09         $    1.35
+% Change from prior-year period              (94)    %
+Non-GAAP Financial Measure  (1)  :
+% Change in diluted net earnings per common share from the prior-year period adjusting for the impact of charges associated with restructuring and other activities and the change in fair value of acquisition-related stock options
+(92)    %
+(1)  See “  Reconciliations of Non-GAAP Financial Measures”   below for reconciliations between non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+RECONCILIATIONS OF NON-GAAP FINANCIAL MEASURES
+We use certain non-GAAP financial measures, among other financial measures, to evaluate our operating performance, which represent the manner in which we conduct and view our business. Management believes that excluding certain items that are not comparable from period to period, or do not reflect the Company’s underlying ongoing business, provides transparency for such items and helps investors and others compare and analyze our operating performance from period to period. In the future, we expect to incur charges or adjustments similar in nature to those presented below; however, the impact to the Company’s results in a given period may be highly variable and difficult to predict. Our non-GAAP financial measures may not be comparable to similarly titled measures used by, or determined in a manner consistent with, other companies. While we consider the non-GAAP measures useful in analyzing our results, they are not intended to replace, or act as a substitute for, any presentation included in the consolidated financial statements prepared in conformity with U.S. GAAP. The following tables present Net sales, Operating income and Diluted net earnings per common share adjusted to exclude the impact of charges associated with restructuring and other activities; the change in fair value of acquisition-related stock options; and the effects of foreign currency translation.
+44
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+The following table provides reconciliations between these non-GAAP financial measures and the most directly comparable U.S. GAAP measures.
+($ in millions, except per share data)
+Three Months Ended
+September 30
+Variance
+% Change
+% Change
+in
+constant currency
+2023      2022
+Net sales, as reported      $    3,518         $    3,930         $    (412)        (10)    %      (10)    %
+Returns associated with restructuring and other activities      —         5         (5)
+Net sales, as adjusted      $    3,518         $    3,935         $    (417)        (11)    %      (10)    %
+Operating income, as reported      $    98         $    661         $    (563)        (85)    %      (84)    %
+Charges associated with restructuring and other activities      2         6         (4)
+Change in fair value of acquisition-related stock options      8         1         7
+Operating income, as adjusted      $    108         $    668         $    (560)        (84)    %      (83)    %
+Diluted net earnings per common share, as reported      $    .09         $    1.35         $    (1.26)        (94)    %      (92)    %
+Charges associated with restructuring and other activities      —         .02         (.02)
+Change in fair value of acquisition-related stock options (less portion attributable to redeemable noncontrolling interest)      .02         —         .02
+Diluted net earnings per common share, as adjusted      $    .11         $    1.37         $    (1.26)        (92)    %      (91)    %
+As diluted net earnings per common share, as adjusted, is used as a measure of the Company’s performance, we consider the impact of current and deferred income taxes when calculating the per-share impact of each of the reconciling items.
+45
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+The following table reconciles the change in net sales by product category and geographic region, as reported, to the change in net sales excluding the effects of foreign currency translation:
+As Reported      Impact of foreign
+currency translation      Variance,
+in constant currency      % Change,
+as reported      % Change,
+in constant currency
+Three Months Ended
+September 30
+($ in millions)      2023      2022      Variance
+By Product Category:
+Skin Care      $    1,638         $    2,104         $    (466)        $    17         $    (449)        (22)    %      (21)    %
+Makeup      1,063         1,052         11         (3)        8         1         1
+Fragrance      637         607         30         (2)        28         5         5
+Hair Care      148         158         (10)        (1)        (11)        (6)        (7)
+Other      32         14         18         —         18         100+      100+
+3,518         3,935         (417)        11         (406)        (11)        (10)
+Returns associated with restructuring and other activities      —         (5)        5         —         5
+Total      $    3,518         $    3,930         $    (412)        $    11         $    (401)        (10)    %      (10)    %
+By Region:
+The Americas      $    1,208         $    1,123         $    85         $    2         $    87         8     %      8     %
+Europe, the Middle East & Africa      1,252         1,682         (430)        (29)        (459)        (26)        (27)
+Asia/Pacific      1,058         1,130         (72)        38         (34)        (6)        (3)
+3,518         3,935         (417)        11         (406)        (11)        (10)
+Returns associated with restructuring and other activities      —         (5)        5         —         5
+Total      $    3,518         $    3,930         $    (412)        $    11         $    (401)        (10)    %      (10)    %
+46
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+The following table reconciles the change in operating results by product category and geographic region, as reported, to the change in operating income excluding the change in fair value of acquisition-related stock options:
+As Reported              Add:
+Change in fair value of acquisition-related stock options      Variance, as adjusted      % Change, as reported      % Change, as adjusted
+Three Months Ended
+September 30
+($ in millions)      2023      2022      Variance
+By Product Category:
+Skin Care      $    35         $    530         $    (495)                $    7         $    (488)        (93)    %      (92)    %
+Makeup      (39)        16         (55)                —         (55)        (100+)      (100+)
+Fragrance      108         133         (25)                —         (25)        (19)        (19)
+Hair Care      (22)        (12)        (10)                —         (10)        (83)        (83)
+Other      18         —         18                 —         18         100         100
+100         667         (567)                $    7         $    (560)        (85)    %      (84)    %
+Charges associated with restructuring and other activities      (2)        (6)        4
+Total      $    98         $    661         $    (563)
+By Region:
+The Americas      $    (182)        $    125         $    (307)                $    7         $    (300)        (100+)%      (100+)%
+Europe, the Middle East & Africa      144         334         (190)                —         (190)        (57)        (57)
+Asia/Pacific      138         208         (70)                —         (70)        (34)        (34)
+100         667         (567)                $    7         $    (560)        (85)    %      (84)    %
+Charges associated with restructuring and other activities      (2)        (6)        4
+Total      $    98         $    661         $    (563)
+FINANCIAL CONDITION
+LIQUIDITY AND CAPITAL RESOURCES
+Overview
+Our principal sources of funds historically have been cash flows from operations, borrowings pursuant to our commercial paper program, borrowings from the issuance of long-term debt and committed and uncommitted credit lines provided by banks and other lenders in the United States and abroad. At September 30, 2023, we had cash and cash equivalents of $3,090 million compared with $4,029 million at June 30, 2023. Our cash and cash equivalents are maintained at a number of financial institutions. To mitigate the risk of uninsured balances, we select financial institutions based on their credit ratings and financial strength, and we perform ongoing evaluations of these institutions to limit our concentration risk exposure.
+Based on past performance and current expectations, we believe that cash on hand, cash generated from operations, available credit lines and access to credit markets will be adequate to support seasonal working capital needs, currently planned business operations, information technology enhancements, capital expenditures, acquisitions, dividends, stock repurchases, restructuring initiatives, commitments and other contractual obligations on both a near-term and long-term basis.
+47
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+The Tax Cuts and Jobs Act (“TCJA”) resulted in the Transition Tax on unrepatriated earnings of our foreign subsidiaries and changed the tax law in ways that present opportunities to repatriate cash without additional U.S. federal income tax. During the fiscal 2023 fourth quarter, we changed our assertion regarding our ability and intent to indefinitely reinvest undistributed earnings from certain foreign subsidiaries. We continue to analyze the indefinite reinvestment assertion on our remaining applicable foreign earnings. We do not believe that continuing to reinvest these remaining applicable foreign earnings impairs our ability to meet our domestic debt or working capital obligations. If these reinvested earnings were repatriated into the United States as dividends, we would be subject to state income taxes and applicable foreign taxes in certain jurisdictions. Inflation impacted our operating results in the fiscal 2024 first quarter and we expect it to continue. Generally, we have plans to introduce new products at higher prices, increase prices and implement other operating efficiencies which we expect to offset some of these cost increases.
+Credit Ratings
+Changes in our credit ratings will likely result in changes in our borrowing costs. Our credit ratings also impact the cost of our revolving credit facility. Downgrades in our credit ratings may reduce our ability to issue commercial paper and/or long-term debt and would likely increase the relative costs of borrowing. A credit rating is not a recommendation to buy, sell, or hold securities, is subject to revision or withdrawal at any time by the assigning rating organization, and should be evaluated independently of any other rating. As of October 25, 2023, our long-term debt is rated A+ with a negative outlook by Standard & Poor’s and A1 with a negative outlook by Moody’s.
+48
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Debt
+At September 30, 2023, our outstanding borrowings were as follows:
+($ in millions)      Long-term
+Debt      Current
+Debt      Total Debt
+5.150% Senior Notes, due May 15, 2053 ("2053 Senior Notes")   (1), (15)
+$    590         $    —         $    590
+3.125% Senior Notes, due December 1, 2049 (“2049 Senior Notes”)   (2), (15)
+636         —         636
+4.150% Senior Notes, due March 15, 2047 (“2047 Senior Notes”)   (3), (15)
+494         —         494
+4.375% Senior Notes, due June 15, 2045 (“2045 Senior Notes”)   (4), (15)
+454         —         454
+3.700% Senior Notes, due August 15, 2042 (“2042 Senior Notes”)   (5), (15)
+247         —         247
+6.000% Senior Notes, due May 15, 2037 (“2037 Senior Notes”)   (6), (15)
+295         —         295
+5.75% Senior Notes, due October 15, 2033 (“October 2033 Senior Notes”)   (7), (15)
+198         —         198
+4.650% Senior Notes, due May 15, 2033 ("May 2033 Senior Notes")   (8), (15)
+695         —         695
+1.950% Senior Notes, due March 15, 2031 ("2031 Senior Notes")   (9), (15)
+541         —         541
+2.600% Senior Notes, due April 15, 2030 ("2030 Senior Notes")   (10), (15)
+570         —         570
+2.375% Senior Notes, due December 1, 2029 (“2029 Senior Notes”)   (11), (15)
+643         —         643
+4.375% Senior Notes, due May 15, 2028 ("2028 Senior Notes")   (12), (15)
+696         —         696
+3.150% Senior Notes, due March 15, 2027 (“2027 Senior Notes”)   (13), (15)
+499         —         499
+2.000% Senior Notes, due December 1, 2024 (“2024 Senior Notes”)   (14), (15)
+499         —         499
+Commercial paper   (16)
+—         997         997
+Other long-term borrowings      31         —         31
+Other current borrowings      —         8         8
+$    7,088         $    1,005         $    8,093
+(1)  Consists of $600 million principal, unamortized debt discount of $3 million and debt issuance costs of $7 million.
+(2)  Consists of $650 million principal, unamortized debt discount of $7 million and debt issuance costs of $7 million.
+(3)  Consists of $500 million principal, unamortized debt discount of $1 million and debt issuance costs of $5 million.
+(4)  Consists of $450 million principal, net unamortized debt premium of $8 million and debt issuance costs of $4 million.
+(5)  Consists of $250 million principal, unamortized debt discount of $1 million and debt issuance costs of $2 million.
+(6)  Consists of $300 million principal, unamortized debt discount of $2 million and debt issuance costs of $3 million.
+(7)  Consists of $200 million principal, unamortized debt discount of $1 million and debt issuance costs of $1 million.
+(8)  Consists of $700 million principal, unamortized debt discount of $1 million and debt issuance costs of $4 million.
+(9)  Consists of $600 million, principal, unamortized debt discount of $3 million, debt issuance costs of $3 million and a $53 million loss to reflect the fair value of interest rate swaps.
+(10)  Consists of $700 million principal, unamortized debt discount of $1 million, debt issuance costs of $3 million and a $126 million loss to reflect the fair value of interest rate swaps.
+(11)  Consists of $650 million principal, unamortized debt discount of $4 million and debt issuance costs of $3 million.
+(12)  Consists of $700 million principal, unamortized debt discount of $1 million and debt issuance costs of $3 million.
+(13)  Consists of $500 million principal and debt issuance costs of $1 million.
+(14)  Consists of $500 million principal and unamortized debt discount of $1 million.
+(15)  The Senior Notes contain certain customary covenants, including limitations on indebtedness secured by liens.
+(16)  Consists of $1,000 million principal and unamortized debt discount of $3 million.
+Total debt as a percent of total capitalization was 60% and 59% at September 30, 2023 and June 30, 2023, respectively.
+49
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Cash Flows
+Three Months Ended
+September 30
+(In millions)      2023      2022
+Net cash flows used for operating activities
+$    (408)        $    (650)
+Net cash flows used for investing activities      $    (295)        $    (14)
+Net cash flows used for financing activities
+$    (219)        $    (304)
+The change in net cash flows used for operating activities was primarily driven by a favorable change in working capital, reflecting a favorable change in inventory and promotional merchandise, other accrued and noncurrent liabilities which includes the settlement of net investment hedges in the prior-year period, accounts payable due to timing of payments, and accounts receivable, partially offset by lower earnings before tax, excluding non-cash items.
+The change in net cash flows used for investing activities reflected an increase in capital expenditures, primarily driven by the investments related to our new manufacturing facility in Japan and an unfavorable impact from the settlement of net investment hedges in the prior-year period, which is offset by the favorable change in other accrued liabilities as discussed above.
+The change in net cash flows used for financing activities primarily reflected a favorable impact in repayments of debt due to the repayment of the outstanding principal balance of our $250 million, 2.35% senior notes that matured during the fiscal 2023 first quarter and lower treasury stock repurchases compared to the prior-year period, partially offset by a decrease in proceeds from the issuance of short-term commercial paper compared to the prior-year period.
+Dividends
+For a summary of quarterly cash dividends declared per share on our Class A and Class B Common Stock during the three months ended September 30, 2023, see   Notes to Consolidated Financial Statements, Note 11 – Equity and Redeemable Noncontrolling Interest  .
+Pension and Post-retirement Plan Funding
+There have been no significant changes to our pension and post-retirement funding as discussed in our Annual Report on Form 10-K for the fiscal year ended June 30, 2023.
+Commitments, Contractual Obligations and Contingencies
+There have been no other significant changes to our commitments and contractual obligations as discussed in our Annual Report on Form 10-K for the fiscal year ended June 30, 2023. For a discussion of contingencies, see   Notes to Consolidated Financial Statements, Note 8 – Commitments and Contingencies  .
+Derivative Financial Instruments and Hedging Activities
+For a discussion of our derivative financial instruments and hedging activities, see   Notes to Consolidated Financial Statements, Note 4 – Derivative Financial Instruments  .
+Foreign Exchange Risk Management
+For a discussion of foreign exchange risk management, see   Notes to Consolidated Financial Statements, Note 4 – Derivative Financial Instruments (Cash Flow Hedges, Net Investment Hedges)  .
+Credit Risk
+For a discussion of credit risk, see   Notes to Consolidated Financial Statements, Note 4 – Derivative Financial Instruments (Credit Risk)  .
+Market Risk
+We address certain financial exposures through a controlled program of market risk management that includes the use of foreign currency forward contracts to reduce the effects of fluctuating foreign currency exchange rates and to mitigate the change in fair value of specific assets and liabilities on the balance sheet. To perform a sensitivity analysis of our foreign currency forward contracts, we assess the change in fair values from the impact of hypothetical changes in foreign currency exchange rates. A hypothetical 10% weakening of the U.S. dollar against the foreign exchange rates for the currencies in our portfolio would have resulted in a net decrease in the fair value of our portfolio of approximately $248 million and $265 million as of September 30, 2023 and June 30, 2023, respectively. This potential change does not consider our underlying foreign currency exposures.
+50
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+We also enter into cross-currency swap contracts to hedge the impact of foreign currency changes on certain intercompany foreign currency denominated debt. A hypothetical 10% weakening of the U.S. dollar against the foreign exchange rates for the currencies in our cross-currency swap contracts would have resulted in a net decrease in the fair value of our cross-currency swap contracts of approximately $49 million as of September 30, 2023 and June 30, 2023, respectively.
+In addition, we enter into interest rate derivatives to manage the effects of interest rate movements on our aggregate liability portfolio, including future debt issuances. Based on a hypothetical 100 basis point increase in interest rates, the estimated fair value of our interest rate derivatives would decrease by approximately $52 million and $55 million as of September 30, 2023 and June 30, 2023, respectively.
+Our sensitivity analysis represents an estimate of reasonably possible net losses that would be recognized on our portfolio of derivative financial instruments assuming hypothetical movements in future market rates and is not necessarily indicative of actual results, which may or may not occur. It does not represent the maximum possible loss or any expected loss that may occur, since actual future gains and losses will differ from those estimated, based upon actual fluctuations in market rates, operating exposures, and the timing thereof, and changes in our portfolio of derivative financial instruments during the year. We believe, however, that any such loss incurred would be offset by the effects of market rate movements on the respective underlying transactions for which the derivative financial instrument was intended.
+OFF-BALANCE SHEET ARRANGEMENTS
+We do not maintain any off-balance sheet arrangements, transactions, obligations or other relationships with unconsolidated entities that would be expected to have a material current or future effect upon our financial condition or results of operations.
+CRITICAL ACCOUNTING POLICIES
+As disclosed in our Annual Report on Form 10-K for the fiscal year ended June 30, 2023, the discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in conformity with U.S. generally accepted accounting principles. The preparation of these financial statements requires us to make estimates and assumptions that affect the amounts of assets, liabilities, revenues and expenses reported in those financial statements. These estimates and assumptions can be subjective and complex, and consequently, actual results could differ from those estimates. Our most critical accounting policies relate to goodwill and other indefinite-lived intangible assets - impairment assessment, income taxes and asset acquisition. Since June 30, 2023, there have been no significant changes to the assumptions and estimates related to our critical accounting policies.
+RECENTLY ISSUED ACCOUNTING STANDARDS
+For a discussion regarding the impact of accounting standards that were recently issued but not yet effective, on the Company’s consolidated financial statements, see   Notes to Consolidated Financial Statements, Note 1 –     Summary of Significant Accounting Policies  .
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING INFORMATION
+We and our representatives from time to time make written or oral forward-looking statements, including in this and other filings with the Securities and Exchange Commission, in our press releases and in our reports to stockholders, which may constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Such statements may address our expectations regarding sales, earnings or other future financial performance and liquidity, other performance measures, product introductions, entry into new geographic regions, information technology initiatives, new methods of sale, our long-term strategy, restructuring and other charges and resulting cost savings, and future operations or operating results. These statements may contain words like “expect,” “will,” “will likely result,” “would,” “believe,” “estimate,” “planned,” “plans,” “intends,” “may,” “should,” “could,” “anticipate,” “estimate,” “project,” “projected,” “forecast,” and “forecasted” or similar expressions. Although we believe that our expectations are based on reasonable assumptions within the bounds of our knowledge of our business and operations, actual results may differ materially from our expectations. Factors that could cause actual results to differ from expectations include, without limitation:
+(1)  increased competitive activity from companies in the skin care, makeup, fragrance and hair care businesses;
+51
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+(2)  our ability to develop, produce and market new products on which future operating results may depend and to successfully address challenges in our business;
+(3)  consolidations, restructurings, bankruptcies and reorganizations in the retail industry causing a decrease in the number of stores that sell our products, an increase in the ownership concentration within the retail industry, ownership of retailers by our competitors or ownership of competitors by our customers that are retailers and our inability to collect receivables;
+(4)  destocking and tighter working capital management by retailers;
+(5)  the success, or changes in timing or scope, of new product launches and the success, or changes in timing or scope, of advertising, sampling and merchandising programs;
+(6)  shifts in the preferences of consumers as to where and how they shop;
+(7)  social, political and economic risks to our foreign or domestic manufacturing, distribution and retail operations, including changes in foreign investment and trade policies and regulations of the host countries and of the United States;
+(8)  changes in the laws, regulations and policies (including the interpretations and enforcement thereof) that affect, or will affect, our business, including those relating to our products or distribution networks, changes in accounting standards, tax laws and regulations, environmental or climate change laws, regulations or accords, trade rules and customs regulations, and the outcome and expense of legal or regulatory proceedings, and any action we may take as a result;
+(9)  foreign currency fluctuations affecting our results of operations and the value of our foreign assets, the relative prices at which we and our foreign competitors sell products in the same markets and our operating and manufacturing costs outside of the United States;
+(10)  changes in global or local conditions, including those due to volatility in the global credit and equity markets, natural or man-made disasters, real or perceived epidemics, supply chain challenges, inflation, or increased energy costs, that could affect consumer purchasing, the willingness or ability of consumers to travel and/or purchase our products while traveling, the financial strength of our customers, suppliers or other contract counterparties, our operations, the cost and availability of capital which we may need for new equipment, facilities or acquisitions, the returns that we are able to generate on our pension assets and the resulting impact on funding obligations, the cost and availability of raw materials and the assumptions underlying our critical accounting estimates;
+(11)  impacts attributable to the COVID-19 pandemic, including disruptions to our global business;
+(12)  shipment delays, commodity pricing, depletion of inventory and increased production costs resulting from disruptions of operations at any of the facilities that manufacture our products or at our distribution or inventory centers, including disruptions that may be caused by the implementation of information technology initiatives, or by restructurings;
+(13)  real estate rates and availability, which may affect our ability to increase or maintain the number of retail locations at which we sell our products and the costs associated with our other facilities;
+(14)  changes in product mix to products which are less profitable;
+(15)  our ability to acquire, develop or implement new information technology, including operational technology and websites, on a timely basis and within our cost estimates; to maintain continuous operations of our new and existing information technology; and to secure the data and other information that may be stored in such technologies or other systems or media;
+(16)  our ability to capitalize on opportunities for improved efficiency, such as publicly-announced strategies and restructuring and cost-savings initiatives, and to integrate acquired businesses and realize value therefrom;
+(17)  consequences attributable to local or international conflicts around the world, as well as from any terrorist action, retaliation and the threat of further action or retaliation;
+52
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+(18)  the timing and impact of acquisitions, investments and divestitures; and
+(19)  additional factors as described in our filings with the Securities and Exchange Commission, including the Annual Report on Form 10-K for the fiscal year ended June 30, 2023.
+We assume no responsibility to update forward-looking statements made herein or otherwise.
+Item 3.   Quantitative and Qualitative Disclosures About Market Risk.
+The information required by this item is set forth in Item 2 of this Quarterly Report on Form 10-Q under the caption   Liquidity and Capital Resources   -   Market Risk   and is incorporated herein by reference.
+Item 4.   Controls and Procedures.
+Our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) are designed to ensure that information required to be disclosed in the reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission and to ensure that information required to be disclosed is accumulated and communicated to management, including our principal executive and financial officers, to allow timely decisions regarding disclosure. The Chief Executive Officer and the Chief Financial Officer, with assistance from other members of management, have reviewed the effectiveness of our disclosure controls and procedures as of September 30, 2023 and, based on their evaluation, have concluded that the disclosure controls and procedures were effective as of such date.
+As part of our review of internal control over financial reporting, we make changes to systems and processes to improve such controls and increase efficiencies, while ensuring that we maintain an effective internal control environment. There have been no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act) that occurred during the first quarter of fiscal 2024 that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+PART II. OTHER INFORMATION
+Item 1.   Legal Proceedings.
+For a discussion of legal proceedings, see   Notes to Consolidated Financial Statements, Note 8 – Commitments and Contingencies  .
+Item 2.   Unregistered Sales of Equity Securities and Use of Proceeds.
+Share Repurchase Program
+We are authorized by the Board of Directors to repurchase shares of our Class A Common Stock in the open market or in privately negotiated transactions, depending on market conditions and other factors. The following table provides information relating to our repurchase of Class A Common Stock during the referenced periods:
+Period
+Total Number
+of Shares
+Purchased  (1)
+Average Price
+Paid Per
+Share      Total Number of
+Shares Purchased as
+Part of Publicly
+Announced
+Program
+Maximum
+Number of Shares
+that May Yet Be
+Purchased Under
+the Program  (2)
+July 2023      —      $    —         —      25,073,242
+August 2023      19,580      155.96         —      25,073,242
+September 2023      —      —         —      25,073,242
+19,580      155.96         —
+(1)  Reflects shares that were repurchased by the Company to satisfy tax withholding obligations upon the payout of certain stock-based compensation arrangements.
+(2)  The Board of Directors has authorized the current repurchase program for up to 256.0 million shares. The total amount was last increased by the Board on October 31, 2018. Our repurchase program does not have an expiration date.
+53
+Table of Contents
+THE ESTÉE LAUDER COMPANIES INC.
+Beginning in December 2022, we temporarily suspended the repurchase of shares of our Class A Common Stock. We may resume repurchases in the future.
+Item 5. Other Information.
+Trading Arrangements
+During the fiscal 2024 first quarter, none of the Company’s directors or officers (as defined in Rule 16a-1(f) under the Exchange Act)   adopted   or   terminated   a “Rule 10b5-1 trading arrangement” or a “non-Rule 10b5-1 trading arrangement,” each as defined in Item 408(a) of Regulation S-K under the Exchange Act.
+Item 6.   Exhibits.
+Exhibit
+Number      Description
+31.1
+Certification pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (CEO).
+31.2
+Certification pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 (CFO).
+32.1
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (CEO). (furnished)
+32.2
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (CFO). (furnished)
+101.1
+The following materials from The Estée Lauder Companies Inc.’s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2023 are formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) the Consolidated Statements of Earnings, (ii) the Consolidated Statements of Comprehensive Income, (iii) the Consolidated Balance Sheets, (iv) the Consolidated Statements of Cash Flows and (v) Notes to Consolidated Financial Statements
+104
+The cover page from The Estée Lauder Companies Inc.’s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2023 is formatted in iXBRL
+54
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+THE ESTÉE LAUDER COMPANIES INC.
+By:    /s/ TRACEY T. TRAVIS
+Date: November 1, 2023      Tracey T. Travis
+Executive Vice President and Chief Financial Officer
+(Principal Financial and Accounting Officer)
+55

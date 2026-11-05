@@ -1,0 +1,1211 @@
+[
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "A"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ACGL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ADM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AEE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AEP"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AES"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AFL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AIG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AIZ"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AJG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AKAM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ALGN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ALL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ALLE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AMCR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AME"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AMP"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AON"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AOS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "APA"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "APD"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "APH"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "APO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "APP"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "APTV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ARE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ARES"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ATO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AVY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AWK"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "AXON"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BALL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BAX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BBY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BEN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BF.B"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BIIB"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BKR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BNY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BRO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "BXP"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CAH"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CASY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CBOE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CBRE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CDW"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CEG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CF"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CFG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CHD"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CHRW"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CIEN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CINF"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CLX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CMI"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CMS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CNC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CNP"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "COF"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "COHR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "COO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "COR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CPAY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CPRT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CPT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CRH"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CRL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CSGP"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CTAS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "CTSH"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DASH"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DD"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DECK"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DGX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DLR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DOC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DOV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DOW"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DPZ"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DRI"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DTE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "DVA"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EBAY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ECHO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ECL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ED"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EFX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EIX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EME"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EQT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ERIE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ES"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ESS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ETR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EVRG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EXC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EXE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EXPD"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EXPE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "EXR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FAST"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FDS"
+  },
+  {
+    "completeness": 0.0,
+    "reason": "INSUFFICIENT_WARMUP_COMPLETENESS",
+    "symbol": "FDXF"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FERG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FFIV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FICO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FIS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FITB"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FIX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FLEX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FOX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FOXA"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FRT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "FTV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GD"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GDDY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GEHC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GEN"
+  },
+  {
+    "completeness": 0.0,
+    "reason": "INSUFFICIENT_WARMUP_COMPLETENESS",
+    "symbol": "GEV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GLW"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GNRC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GPC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GPN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GRMN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "GWW"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HAS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HBAN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HIG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HII"
+  },
+  {
+    "completeness": 0.0,
+    "reason": "INSUFFICIENT_WARMUP_COMPLETENESS",
+    "symbol": "HONA"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HOOD"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HPE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HPQ"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HRL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HSIC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HST"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HUBB"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "HWM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "IBKR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "IDXX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "IEX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "IFF"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ILMN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "INCY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "INVH"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "IP"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "IQV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "IR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "IRM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "IT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "IVZ"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "J"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "JBHT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "JBL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "JCI"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "JKHY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "KEY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "KEYS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "KHC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "KIM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "KKR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "KMB"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "KMI"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "KR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "L"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LDOS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LEN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LH"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LHX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LII"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LITE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LNT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LUV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LVS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LYB"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "LYV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MAA"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MAS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MCO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MET"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MGM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MKC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MLM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MOS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MSCI"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MSI"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MTB"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "MTD"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NCLH"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NDAQ"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NDSN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NI"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NRG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NSC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NTAP"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NTRS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NUE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NVR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NWS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "NWSA"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "OMC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "OTIS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "P"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PAYX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PCAR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PEG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PFG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PHM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PKG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PNR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PNW"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PODD"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PPG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PPL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PRU"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PSA"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PTC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "PWR"
+  },
+  {
+    "completeness": 0.0,
+    "reason": "INSUFFICIENT_WARMUP_COMPLETENESS",
+    "symbol": "Q"
+  },
+  {
+    "completeness": 0.0,
+    "reason": "INSUFFICIENT_WARMUP_COMPLETENESS",
+    "symbol": "RDDT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "REG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "RF"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "RJF"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "RL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ROK"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ROL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "ROP"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "RSG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "RVTY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "SBAC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "SJM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "SKYD"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "SNA"
+  },
+  {
+    "completeness": 0.0,
+    "reason": "INSUFFICIENT_WARMUP_COMPLETENESS",
+    "symbol": "SNDK"
+  },
+  {
+    "completeness": 0.0,
+    "reason": "INSUFFICIENT_WARMUP_COMPLETENESS",
+    "symbol": "SOLV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "SPG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "SRE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "STE"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "STLD"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "STT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "STX"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "STZ"
+  },
+  {
+    "reason": "INVALID_WARMUP_OHLCV",
+    "symbol": "SW"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "SWK"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "SWKS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "SYF"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "SYY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TDG"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TDY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TECH"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TEL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TER"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TKO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TPL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TPR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TRGP"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TRMB"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TROW"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TRV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TSN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TTWO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TWLO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TXT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "TYL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "UDR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "UHS"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "VEEV"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "VICI"
+  },
+  {
+    "completeness": 0.3333333333333333,
+    "reason": "INSUFFICIENT_WARMUP_COMPLETENESS",
+    "symbol": "VLTO"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "VMC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "VMRK"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "VRSK"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "VRSN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "VRT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "VST"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "VTR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "VTRS"
+  },
+  {
+    "completeness": 0.0,
+    "reason": "INSUFFICIENT_WARMUP_COMPLETENESS",
+    "symbol": "VYLR"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WAB"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WAT"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WDC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WEC"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WELL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WMB"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WRB"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WSM"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WST"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WTW"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WY"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "WYNN"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "XYL"
+  },
+  {
+    "reason": "BELOW_LIQUIDITY_CUTOFF",
+    "symbol": "YUM"
+  }
+]

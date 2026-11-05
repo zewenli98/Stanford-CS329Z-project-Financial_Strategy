@@ -1,0 +1,969 @@
+hlt-20260630
+0001585689  --12-31  2026  Q2  FALSE  P2Y  17  8        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      hlt:Hotel    utr:Rate    xbrli:pure    hlt:segment     0001585689    2026-01-01  2026-06-30      0001585689    2026-07-23      0001585689    2026-06-30      0001585689    2025-12-31      0001585689   hlt:ManagementAndFranchiseAgreementsMember     2026-06-30      0001585689   hlt:ManagementAndFranchiseAgreementsMember     2025-12-31      0001585689   us-gaap:OtherIntangibleAssetsMember     2026-06-30      0001585689   us-gaap:OtherIntangibleAssetsMember     2025-12-31      0001585689   hlt:GuestLoyaltyProgramMember     2026-06-30      0001585689   hlt:GuestLoyaltyProgramMember     2025-12-31      0001585689   hlt:FranchiseandlicensingfeesMember     2026-04-01  2026-06-30      0001585689   hlt:FranchiseandlicensingfeesMember     2025-04-01  2025-06-30      0001585689   hlt:FranchiseandlicensingfeesMember     2026-01-01  2026-06-30      0001585689   hlt:FranchiseandlicensingfeesMember     2025-01-01  2025-06-30      0001585689   us-gaap:ManagementServiceBaseMember     2026-04-01  2026-06-30      0001585689   us-gaap:ManagementServiceBaseMember     2025-04-01  2025-06-30      0001585689   us-gaap:ManagementServiceBaseMember     2026-01-01  2026-06-30      0001585689   us-gaap:ManagementServiceBaseMember     2025-01-01  2025-06-30      0001585689   us-gaap:ManagementServiceIncentiveMember     2026-04-01  2026-06-30      0001585689   us-gaap:ManagementServiceIncentiveMember     2025-04-01  2025-06-30      0001585689   us-gaap:ManagementServiceIncentiveMember     2026-01-01  2026-06-30      0001585689   us-gaap:ManagementServiceIncentiveMember     2025-01-01  2025-06-30      0001585689   hlt:OwnershipMember     2026-04-01  2026-06-30      0001585689   hlt:OwnershipMember     2025-04-01  2025-06-30      0001585689   hlt:OwnershipMember     2026-01-01  2026-06-30      0001585689   hlt:OwnershipMember     2025-01-01  2025-06-30      0001585689   us-gaap:HotelOtherMember     2026-04-01  2026-06-30      0001585689   us-gaap:HotelOtherMember     2025-04-01  2025-06-30      0001585689   us-gaap:HotelOtherMember     2026-01-01  2026-06-30      0001585689   us-gaap:HotelOtherMember     2025-01-01  2025-06-30      0001585689   hlt:TotalrevenuesexcludingreimbursablerevenuesMember     2026-04-01  2026-06-30      0001585689   hlt:TotalrevenuesexcludingreimbursablerevenuesMember     2025-04-01  2025-06-30      0001585689   hlt:TotalrevenuesexcludingreimbursablerevenuesMember     2026-01-01  2026-06-30      0001585689   hlt:TotalrevenuesexcludingreimbursablerevenuesMember     2025-01-01  2025-06-30      0001585689   hlt:ReimbursementRevenueMember     2026-04-01  2026-06-30      0001585689   hlt:ReimbursementRevenueMember     2025-04-01  2025-06-30      0001585689   hlt:ReimbursementRevenueMember     2026-01-01  2026-06-30      0001585689   hlt:ReimbursementRevenueMember     2025-01-01  2025-06-30      0001585689    2026-04-01  2026-06-30      0001585689    2025-04-01  2025-06-30      0001585689    2025-01-01  2025-06-30      0001585689   hlt:GuestLoyaltyProgramMember     2026-01-01  2026-06-30      0001585689   hlt:GuestLoyaltyProgramMember     2025-01-01  2025-06-30      0001585689    2024-12-31      0001585689    2025-06-30      0001585689   hlt:LoyaltyProgramRevenuesMember     2026-06-30      0001585689   hlt:LoyaltyProgramRevenuesMember     2026-01-01  2026-06-30      0001585689   hlt:ApplicationInitiationAndOtherFeesAndCertainIndirectReimbursementsMember     2026-06-30      0001585689   hlt:RevenuesOtherObligationsMember     2026-06-30      0001585689   us-gaap:VariableInterestEntityPrimaryBeneficiaryMember     2026-06-30      0001585689   us-gaap:VariableInterestEntityPrimaryBeneficiaryMember     2025-12-31      0001585689   hlt:A5.43SeniorSecuredTermLoanFacilityDue2030Member     2026-06-30      0001585689   hlt:A5.43SeniorSecuredTermLoanFacilityDue2030Member     2025-12-31      0001585689   hlt:A4.875SeniorNotesDue2027Member     2026-06-30      0001585689   hlt:A4.875SeniorNotesDue2027Member     2025-12-31      0001585689   hlt:A5.875SeniorNotesDue2029Member     2026-06-30      0001585689   hlt:A5.875SeniorNotesDue2029Member     2025-12-31      0001585689   hlt:A3.750SeniorNotesDue2029Member     2026-06-30      0001585689   hlt:A3.750SeniorNotesDue2029Member     2025-12-31      0001585689   hlt:A4.875SeniorNotesDue2030Member     2026-06-30      0001585689   hlt:A4.875SeniorNotesDue2030Member     2025-12-31      0001585689   hlt:A4.000SeniorNotesDue2031Member     2026-06-30      0001585689   hlt:A4.000SeniorNotesDue2031Member     2025-12-31      0001585689   hlt:A5.500SeniorNotesDue2031Member     2026-06-30      0001585689   hlt:A5.500SeniorNotesDue2031Member     2025-12-31      0001585689   hlt:A3.625SeniorNotesDue2032Member     2026-06-30      0001585689   hlt:A3.625SeniorNotesDue2032Member     2025-12-31      0001585689   hlt:A6.125SeniorNotesDue2032Member     2026-06-30      0001585689   hlt:A6.125SeniorNotesDue2032Member     2025-12-31      0001585689   hlt:A5.875SeniorNotesDue2033Member     2026-06-30      0001585689   hlt:A5.875SeniorNotesDue2033Member     2025-12-31      0001585689   hlt:A5.750SeniorNotesDue2033Member     2026-06-30      0001585689   hlt:A5.750SeniorNotesDue2033Member     2025-12-31      0001585689   hlt:A5.500SeniorNotesDue2034Member     2026-06-30      0001585689   hlt:A5.500SeniorNotesDue2034Member     2025-12-31      0001585689   hlt:SeniorSecuredRevolvingCreditFacilityDue2028Member     2026-03-01      0001585689   hlt:SeniorSecuredRevolvingCreditFacilityDue2028Member     2026-04-01  2026-06-30      0001585689   hlt:SeniorSecuredRevolvingCreditFacilityDue2028Member     2026-06-30      0001585689   hlt:A5.500SeniorNotesDue2031Member     2026-05-01      0001585689   hlt:SeniorSecuredRevolvingCreditFacilityDue2028Member     2026-05-01  2026-05-01      0001585689   us-gaap:CarryingReportedAmountFairValueDisclosureMember  hlt:LongTermDebtExcludingFinanceLeaseLiabilitiesAndOtherDebtMember     2026-06-30      0001585689   hlt:LongTermDebtExcludingFinanceLeaseLiabilitiesAndOtherDebtMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0001585689   hlt:LongTermDebtExcludingFinanceLeaseLiabilitiesAndOtherDebtMember  us-gaap:FairValueInputsLevel3Member     2026-06-30      0001585689   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001585689   us-gaap:FairValueInputsLevel2Member     2025-12-31      0001585689   us-gaap:CarryingReportedAmountFairValueDisclosureMember  hlt:LongTermDebtExcludingFinanceLeaseLiabilitiesAndOtherDebtMember     2025-12-31      0001585689   hlt:LongTermDebtExcludingFinanceLeaseLiabilitiesAndOtherDebtMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0001585689   hlt:LongTermDebtExcludingFinanceLeaseLiabilitiesAndOtherDebtMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0001585689   us-gaap:CommonStockMember     2026-05-01  2026-05-31      0001585689   us-gaap:RestrictedStockUnitsRSUMember     2026-01-01  2026-06-30      0001585689   us-gaap:RestrictedStockUnitsRSUMember  srt:MinimumMember     2026-01-01  2026-06-30      0001585689   us-gaap:RestrictedStockUnitsRSUMember  srt:MaximumMember     2026-01-01  2026-06-30      0001585689   us-gaap:EmployeeStockOptionMember     2026-01-01  2026-06-30      0001585689   us-gaap:PerformanceSharesMember     2026-01-01  2026-06-30      0001585689    2026-03-31      0001585689   us-gaap:CommonStockMember     2026-03-31      0001585689   us-gaap:TreasuryStockCommonMember     2026-03-31      0001585689   us-gaap:AdditionalPaidInCapitalMember     2026-03-31      0001585689   us-gaap:RetainedEarningsMember     2026-03-31      0001585689   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-03-31      0001585689   us-gaap:NoncontrollingInterestMember     2026-03-31      0001585689   hlt:RedeemableNoncontrollingInterestMember     2026-04-01  2026-06-30      0001585689   us-gaap:RetainedEarningsMember     2026-04-01  2026-06-30      0001585689   us-gaap:NoncontrollingInterestMember     2026-04-01  2026-06-30      0001585689   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-04-01  2026-06-30      0001585689   us-gaap:CommonStockMember     2026-04-01  2026-06-30      0001585689   us-gaap:TreasuryStockCommonMember     2026-04-01  2026-06-30      0001585689   us-gaap:AdditionalPaidInCapitalMember     2026-04-01  2026-06-30      0001585689   us-gaap:CommonStockMember     2026-06-30      0001585689   us-gaap:TreasuryStockCommonMember     2026-06-30      0001585689   us-gaap:AdditionalPaidInCapitalMember     2026-06-30      0001585689   us-gaap:RetainedEarningsMember     2026-06-30      0001585689   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-06-30      0001585689   us-gaap:NoncontrollingInterestMember     2026-06-30      0001585689    2025-03-31      0001585689   us-gaap:CommonStockMember     2025-03-31      0001585689   us-gaap:TreasuryStockCommonMember     2025-03-31      0001585689   us-gaap:AdditionalPaidInCapitalMember     2025-03-31      0001585689   us-gaap:RetainedEarningsMember     2025-03-31      0001585689   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-31      0001585689   us-gaap:NoncontrollingInterestMember     2025-03-31      0001585689   us-gaap:RetainedEarningsMember     2025-04-01  2025-06-30      0001585689   us-gaap:NoncontrollingInterestMember     2025-04-01  2025-06-30      0001585689   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-04-01  2025-06-30      0001585689   us-gaap:CommonStockMember     2025-04-01  2025-06-30      0001585689   us-gaap:TreasuryStockCommonMember     2025-04-01  2025-06-30      0001585689   us-gaap:AdditionalPaidInCapitalMember     2025-04-01  2025-06-30      0001585689   us-gaap:CommonStockMember     2025-06-30      0001585689   us-gaap:TreasuryStockCommonMember     2025-06-30      0001585689   us-gaap:AdditionalPaidInCapitalMember     2025-06-30      0001585689   us-gaap:RetainedEarningsMember     2025-06-30      0001585689   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-06-30      0001585689   us-gaap:NoncontrollingInterestMember     2025-06-30      0001585689   us-gaap:CommonStockMember     2025-12-31      0001585689   us-gaap:TreasuryStockCommonMember     2025-12-31      0001585689   us-gaap:AdditionalPaidInCapitalMember     2025-12-31      0001585689   us-gaap:RetainedEarningsMember     2025-12-31      0001585689   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-12-31      0001585689   us-gaap:NoncontrollingInterestMember     2025-12-31      0001585689   hlt:RedeemableNoncontrollingInterestMember     2026-01-01  2026-06-30      0001585689   us-gaap:RetainedEarningsMember     2026-01-01  2026-06-30      0001585689   us-gaap:NoncontrollingInterestMember     2026-01-01  2026-06-30      0001585689   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-01  2026-06-30      0001585689   us-gaap:CommonStockMember     2026-01-01  2026-06-30      0001585689   us-gaap:TreasuryStockCommonMember     2026-01-01  2026-06-30      0001585689   us-gaap:AdditionalPaidInCapitalMember     2026-01-01  2026-06-30      0001585689   us-gaap:CommonStockMember     2024-12-31      0001585689   us-gaap:TreasuryStockCommonMember     2024-12-31      0001585689   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0001585689   us-gaap:RetainedEarningsMember     2024-12-31      0001585689   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0001585689   us-gaap:NoncontrollingInterestMember     2024-12-31      0001585689   us-gaap:RetainedEarningsMember     2025-01-01  2025-06-30      0001585689   us-gaap:NoncontrollingInterestMember     2025-01-01  2025-06-30      0001585689   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-06-30      0001585689   us-gaap:CommonStockMember     2025-01-01  2025-06-30      0001585689   us-gaap:TreasuryStockCommonMember     2025-01-01  2025-06-30      0001585689   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-06-30      0001585689   us-gaap:AccumulatedTranslationAdjustmentMember     2025-12-31      0001585689   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-12-31      0001585689   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-12-31      0001585689   us-gaap:AccumulatedTranslationAdjustmentMember     2026-01-01  2026-06-30      0001585689   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-01-01  2026-06-30      0001585689   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-01-01  2026-06-30      0001585689   us-gaap:AccumulatedTranslationAdjustmentMember     2026-06-30      0001585689   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-06-30      0001585689   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-06-30      0001585689   us-gaap:AccumulatedTranslationAdjustmentMember     2024-12-31      0001585689   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2024-12-31      0001585689   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2024-12-31      0001585689   us-gaap:AccumulatedTranslationAdjustmentMember     2025-01-01  2025-06-30      0001585689   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-01-01  2025-06-30      0001585689   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-01-01  2025-06-30      0001585689   us-gaap:AccumulatedTranslationAdjustmentMember     2025-06-30      0001585689   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-06-30      0001585689   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-06-30      0001585689   hlt:FranchiseandlicensingfeesMember  hlt:ManagementAndFranchiseMember     2026-04-01  2026-06-30      0001585689   hlt:FranchiseandlicensingfeesMember  hlt:ManagementAndFranchiseMember     2025-04-01  2025-06-30      0001585689   hlt:FranchiseandlicensingfeesMember  hlt:ManagementAndFranchiseMember     2026-01-01  2026-06-30      0001585689   hlt:FranchiseandlicensingfeesMember  hlt:ManagementAndFranchiseMember     2025-01-01  2025-06-30      0001585689   us-gaap:ManagementServiceBaseMember  hlt:ManagementAndFranchiseMember     2026-04-01  2026-06-30      0001585689   us-gaap:ManagementServiceBaseMember  hlt:ManagementAndFranchiseMember     2025-04-01  2025-06-30      0001585689   us-gaap:ManagementServiceBaseMember  hlt:ManagementAndFranchiseMember     2026-01-01  2026-06-30      0001585689   us-gaap:ManagementServiceBaseMember  hlt:ManagementAndFranchiseMember     2025-01-01  2025-06-30      0001585689   us-gaap:ManagementServiceIncentiveMember  hlt:ManagementAndFranchiseMember     2026-04-01  2026-06-30      0001585689   us-gaap:ManagementServiceIncentiveMember  hlt:ManagementAndFranchiseMember     2025-04-01  2025-06-30      0001585689   us-gaap:ManagementServiceIncentiveMember  hlt:ManagementAndFranchiseMember     2026-01-01  2026-06-30      0001585689   us-gaap:ManagementServiceIncentiveMember  hlt:ManagementAndFranchiseMember     2025-01-01  2025-06-30      0001585689   us-gaap:OperatingSegmentsMember  hlt:ManagementAndFranchiseMember     2026-04-01  2026-06-30      0001585689   us-gaap:OperatingSegmentsMember  hlt:ManagementAndFranchiseMember     2025-04-01  2025-06-30      0001585689   us-gaap:OperatingSegmentsMember  hlt:ManagementAndFranchiseMember     2026-01-01  2026-06-30      0001585689   us-gaap:OperatingSegmentsMember  hlt:ManagementAndFranchiseMember     2025-01-01  2025-06-30      0001585689   us-gaap:OperatingSegmentsMember  hlt:OwnershipMember     2026-04-01  2026-06-30      0001585689   us-gaap:OperatingSegmentsMember  hlt:OwnershipMember     2025-04-01  2025-06-30      0001585689   us-gaap:OperatingSegmentsMember  hlt:OwnershipMember     2026-01-01  2026-06-30      0001585689   us-gaap:OperatingSegmentsMember  hlt:OwnershipMember     2025-01-01  2025-06-30      0001585689   us-gaap:OperatingSegmentsMember     2026-04-01  2026-06-30      0001585689   us-gaap:OperatingSegmentsMember     2025-04-01  2025-06-30      0001585689   us-gaap:OperatingSegmentsMember     2026-01-01  2026-06-30      0001585689   us-gaap:OperatingSegmentsMember     2025-01-01  2025-06-30      0001585689   us-gaap:MaterialReconcilingItemsMember     2026-04-01  2026-06-30      0001585689   us-gaap:MaterialReconcilingItemsMember     2025-04-01  2025-06-30      0001585689   us-gaap:MaterialReconcilingItemsMember     2026-01-01  2026-06-30      0001585689   us-gaap:MaterialReconcilingItemsMember     2025-01-01  2025-06-30      0001585689   us-gaap:HotelOtherMember  us-gaap:MaterialReconcilingItemsMember     2026-04-01  2026-06-30      0001585689   us-gaap:HotelOtherMember  us-gaap:MaterialReconcilingItemsMember     2025-04-01  2025-06-30      0001585689   us-gaap:HotelOtherMember  us-gaap:MaterialReconcilingItemsMember     2026-01-01  2026-06-30      0001585689   us-gaap:HotelOtherMember  us-gaap:MaterialReconcilingItemsMember     2025-01-01  2025-06-30      0001585689   hlt:ReimbursementRevenueMember  us-gaap:MaterialReconcilingItemsMember     2026-04-01  2026-06-30      0001585689   hlt:ReimbursementRevenueMember  us-gaap:MaterialReconcilingItemsMember     2025-04-01  2025-06-30      0001585689   hlt:ReimbursementRevenueMember  us-gaap:MaterialReconcilingItemsMember     2026-01-01  2026-06-30      0001585689   hlt:ReimbursementRevenueMember  us-gaap:MaterialReconcilingItemsMember     2025-01-01  2025-06-30      0001585689   us-gaap:IntersegmentEliminationMember     2026-04-01  2026-06-30      0001585689   us-gaap:IntersegmentEliminationMember     2025-04-01  2025-06-30      0001585689   us-gaap:IntersegmentEliminationMember     2026-01-01  2026-06-30      0001585689   us-gaap:IntersegmentEliminationMember     2025-01-01  2025-06-30      0001585689   hlt:ManagementAndFranchiseMember     2026-04-01  2026-06-30      0001585689   hlt:ManagementAndFranchiseMember     2025-04-01  2025-06-30      0001585689   hlt:ManagementAndFranchiseMember     2026-01-01  2026-06-30      0001585689   hlt:ManagementAndFranchiseMember     2025-01-01  2025-06-30      0001585689   hlt:OwnershipMember     2026-04-01  2026-06-30      0001585689   hlt:OwnershipMember     2025-04-01  2025-06-30      0001585689   hlt:OwnershipMember     2026-01-01  2026-06-30      0001585689   hlt:OwnershipMember     2025-01-01  2025-06-30      0001585689   us-gaap:PerformanceGuaranteeMember     2026-06-30      0001585689   us-gaap:GuaranteeOfIndebtednessOfOthersMember     2026-06-30      0001585689   us-gaap:PerformanceGuaranteeMember     2026-01-01  2026-06-30      0001585689   us-gaap:GuaranteeOfIndebtednessOfOthersMember     2026-01-01  2026-06-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+Form  10-Q
+(Mark One)
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  June 30, 2026
+or
+☐     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                 to
+Commission File Number  001-36243
+Hilton Worldwide Holdings Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+27-4384691
+(State or other jurisdiction of incorporation or organization)     (I.R.S. Employer Identification No.)
+7930 Jones Branch Drive ,  Suite 1100 ,  McLean ,  VA
+22102
+(Address of Principal Executive Offices)     (Zip Code)
+Registrant’s telephone number, including area code: ( 703 )  883-1000
+N/A
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class     Trading symbol(s)     Name of each exchange on which registered
+Common Stock, $0.01 par value per share       HLT       New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes  ☒ No   ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes    ☒   No   ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act:
+Large accelerated filer
+☒
+Accelerated filer    ☐
+Non-accelerated filer    ☐     Smaller reporting company     ☐
+Emerging growth company     ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes   ☐    No  ☒
+The number of shares outstanding of the registrant's common stock, par value $0.01 per share, as of July 23, 2026 was  225,064,910 .
+HILTON WORLDWIDE HOLDINGS INC.
+FORM 10-Q TABLE OF CONTENTS
+Page No.
+PART I    FINANCIAL INFORMATION
+Item 1.
+Financial Statements
+2
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+16
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+26
+Item 4.
+Controls and Procedures
+26
+PART II    OTHER INFORMATION
+Item 1.
+Legal Proceedings
+28
+Item 1A.
+Risk Factors
+28
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+28
+Item 3.
+Defaults Upon Senior Securities
+28
+Item 4.
+Mine Safety Disclosures
+28
+Item 5.
+Other Information
+29
+Item 6.
+Exhibits
+29
+Signatures
+30
+1
+PART I. FINANCIAL INFORMATION
+Item 1.    Financial Statements
+HILTON WORLDWIDE HOLDINGS INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in millions, except share data)
+June 30,     December 31,
+2026    2025
+(unaudited)
+ASSETS
+Current Assets:
+Cash and cash equivalents
+$     1,009        $     918
+Restricted cash and cash equivalents
+55         52
+Accounts receivable, net of allowance for credit losses of $ 172  and $ 163
+1,790         1,690
+Prepaid expenses     210         219
+Other
+231         117
+Total current assets (variable interest entities   –   $ 74  and $ 85 )
+3,295         2,996
+Intangibles and Other Assets:
+Goodwill
+5,068         5,081
+Brands
+5,011         5,023
+Management and franchise contracts, net     1,507         1,471
+Other intangible assets, net     198         206
+Operating lease right-of-use assets
+555         577
+Property and equipment, net
+656         684
+Deferred income tax assets
+216         252
+Other
+422         484
+Total intangibles and other assets (variable interest entities   –   $ 323  and $ 341 )
+13,633         13,778
+TOTAL ASSETS    $     16,928        $     16,774
+LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND EQUITY (DEFICIT)
+Current Liabilities:
+Accounts payable, accrued expenses and other
+$     2,307        $     2,336
+Current maturities of long-term debt
+624         25
+Current portion of deferred revenues
+818         858
+Current portion of liability for guest loyalty program     1,327         1,289
+Total current liabilities (variable interest entities   –   $ 34  and $ 47 )
+5,076         4,508
+Long-term debt     12,719         12,338
+Operating lease liabilities     680         730
+Deferred revenues
+1,714         1,648
+Deferred income tax liabilities     260         322
+Liability for guest loyalty program     1,750         1,624
+Other     999         950
+Total liabilities (variable interest entities   –   $ 313  and $ 340 )
+23,198         22,120
+Commitments and contingencies   –   see Note 11
+Redeemable Noncontrolling Interests     5         13
+Equity (Deficit):
+Common stock, $  0.01   par value;   10,000,000,000   authorized shares,  225,696,464  outstanding as of June 30, 2026 and  230,433,192  outstanding as of December 31, 2025
+3         3
+Treasury stock, at cost;  112,124,356  shares as of June 30, 2026 and  106,540,900  shares as of December 31, 2025
+( 16,190 )      ( 14,428 )
+Additional paid-in capital
+11,341         11,274
+Accumulated deficit    ( 710 )      ( 1,508 )
+Accumulated other comprehensive loss
+( 747 )      ( 729 )
+Total Hilton stockholders' deficit
+( 6,303 )      ( 5,388 )
+Noncontrolling interests
+28         29
+Total deficit    ( 6,275 )      ( 5,359 )
+TOTAL LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND EQUITY (DEFICIT)    $     16,928        $     16,774
+See notes to condensed consolidated financial statements.
+2
+HILTON WORLDWIDE HOLDINGS INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(in millions, except per share data)
+(unaudited)
+Three Months Ended     Six Months Ended
+June 30,     June 30,
+2026     2025     2026     2025
+Revenues
+Franchise and licensing fees    $     808        $     745        $     1,504        $     1,370
+Base and other management fees     99         97         194         185
+Incentive management fees     69         75         145         147
+Ownership
+311         332         560         566
+Other revenues     72         77         138         123
+1,359         1,326         2,541         2,391
+Cost reimbursement revenues
+1,982         1,811         3,737         3,441
+Total revenues     3,341         3,137         6,278         5,832
+Expenses
+Ownership
+266         286         501         525
+Depreciation and amortization     49         43         99         84
+General and administrative     114         109         217         203
+Other expenses     46         26         68         52
+475         464         885         864
+Reimbursed expenses
+2,008         1,895         3,857         3,654
+Total expenses     2,483         2,359         4,742         4,518
+Operating income     858         778         1,536         1,314
+Interest expense    ( 183 )      ( 151 )      ( 345 )      ( 296 )
+Gain (loss) on foreign currency transactions
+( 7 )      ( 1 )      ( 12 )       1
+Other non-operating income, net
+12         3         19         20
+Income before income taxes     680         629         1,198         1,039
+Income tax expense    ( 198 )      ( 187 )      ( 333 )      ( 297 )
+Net income     482         442         865         742
+Net loss (income) attributable to redeemable and nonredeemable noncontrolling interests
+—        ( 2 )       2        ( 2 )
+Net income attributable to Hilton stockholders
+$     482        $     440        $     867        $     740
+Earnings per share:
+Basic    $     2.12        $     1.85        $     3.80        $     3.10
+Diluted    $     2.10        $     1.84        $     3.76        $     3.07
+Cash dividends declared per share    $     0.15        $     0.15        $     0.30        $     0.30
+See notes to condensed consolidated financial statements.
+3
+HILTON WORLDWIDE HOLDINGS INC.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(in millions)
+(unaudited)
+Three Months Ended     Six Months Ended
+June 30,     June 30,
+2026     2025     2026     2025
+Net income    $     482        $     442        $     865        $     742
+Other comprehensive income (loss), net of tax benefit (expense):
+Currency translation adjustment, net of tax of $ —   (1)  , $ 5 , $( 1 ) and $ 5
+( 5 )       81        ( 27 )       108
+Pension liability adjustment, net of tax of $( 1 ), $( 1 ), $( 2 ) and $( 2 )
+1         2         5         4
+Cash flow hedge adjustment, net of tax of $( 1 ), $ 6 , $ 1  and $ 11
+2        ( 19 )       2        ( 34 )
+Total other comprehensive income (loss)    ( 2 )       64        ( 20 )       78
+Comprehensive income     480         506         845         820
+Comprehensive loss (income) attributable to redeemable and nonredeemable noncontrolling interests
+—        ( 2 )       4        ( 3 )
+Comprehensive income attributable to Hilton stockholders
+$     480        $     504        $     849        $     817
+____________
+(1)   Amount was less than $1 million.
+See notes to condensed consolidated financial statements.
+4
+HILTON WORLDWIDE HOLDINGS INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in millions)
+(unaudited)
+Six Months Ended
+June 30,
+2026     2025
+Operating Activities:
+Net income    $     865        $     742
+Adjustments to reconcile net income to net cash provided by operating activities:
+Amortization of contract acquisition costs     32         27
+Depreciation and amortization expenses     99         84
+Loss (gain) on foreign currency transactions
+12        ( 1 )
+Share-based compensation expense     106         91
+Deferred income taxes    ( 28 )      ( 18 )
+Contract acquisition costs, net of refunds    ( 77 )      ( 72 )
+Change in deferred revenues     26         85
+Change in liability for guest loyalty program     164         186
+Working capital changes and other    ( 109 )      ( 14 )
+Net cash provided by operating activities     1,090         1,110
+Investing Activities:
+Capital expenditures for property and equipment
+( 21 )      ( 42 )
+Issuance of financing receivables    ( 15 )       —
+Settlements of undesignated derivative financial instruments     4         —
+Capitalized software costs    ( 47 )      ( 41 )
+Other
+( 1 )      ( 3 )
+Net cash used in investing activities    ( 80 )      ( 86 )
+Financing Activities:
+Borrowings     1,565         650
+Repayment of debt    ( 580 )      ( 881 )
+Debt issuance costs    ( 21 )       —
+Dividends paid    ( 69 )      ( 73 )
+Repurchases of common stock    ( 1,787 )      ( 1,644 )
+Share-based compensation tax withholdings    ( 72 )      ( 72 )
+Proceeds from share-based compensation     51         40
+Settlements of interest rate swap with financing component     7         20
+Acquisition of redeemable noncontrolling interests    ( 5 )       —
+Net cash used in financing activities
+( 911 )      ( 1,960 )
+Effect of exchange rate changes on cash, restricted cash and cash equivalents    ( 5 )       8
+Net increase (decrease) in cash, restricted cash and cash equivalents     94        ( 928 )
+Cash, restricted cash and cash equivalents, beginning of period     970         1,376
+Cash, restricted cash and cash equivalents, end of period    $     1,064        $     448
+See notes to condensed consolidated financial statements. For supplemental disclosures, see Note 12: "Supplemental Disclosures of Cash Flow Information."
+5
+HILTON WORLDWIDE HOLDINGS INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(unaudited)
+Note 1:  Organization and Basis of Presentation
+Organization
+Hilton Worldwide Holdings Inc. (the "Parent," or together with its subsidiaries, "Hilton," "we," "us," "our" or the "Company"), a Delaware corporation, is one of the largest global hospitality companies and is engaged in managing, franchising and leasing hotels, including resorts and other lodging offerings, and licensing its intellectual property ("IP"), including brand names, trademarks and service marks.
+Basis of Presentation
+The accompanying condensed consolidated financial statements for the three and six months ended June 30, 2026 and 2025 have been prepared in accordance with United States ("U.S.") generally accepted accounting principles ("GAAP") and are unaudited. We have condensed or omitted certain disclosures normally included in annual financial statements presented in accordance with GAAP; however, we believe the disclosures made are adequate to prevent the information presented from being misleading. These financial statements should be read in conjunction with the consolidated financial statements and notes thereto in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the amounts reported and, accordingly, ultimate results could differ from those estimates. Additionally, interim results are not necessarily indicative of full year performance. In our opinion, the accompanying condensed consolidated financial statements reflect all adjustments, including normal recurring items, considered necessary for a fair presentation of the interim periods. All material intercompany transactions have been eliminated in consolidation.
+Note 2:  Revenues from Contracts with Customers
+Contract Liabilities
+The following table summarizes the activity of our contract liabilities, which are classified as components of current and long-term deferred revenues, during the six months ended June 30, 2026:
+(in millions)
+Balance as of December 31, 2025
+$     2,354
+Cash received in advance and not recognized as revenue
+536
+Revenue recognized  (1)
+( 347 )
+Other  (2)
+( 134 )
+Balance as of June 30, 2026
+$     2,409
+____________
+(1)   Primarily related to Hilton Honors, our guest loyalty program, including co-branded credit card arrangements.
+(2)   Primarily represents the changes in estimated transaction prices for our performance obligations related to the issuance of Hilton Honors points, which had no effect on revenues.
+Performance Obligations
+As of June 30, 2026, deferred revenues for unsatisfied performance obligations consisted of: (i) $ 1,550  million related to Hilton Honors that will be recognized as revenue over approximately the next  two years ; (ii) $ 845  million related to advance consideration received from hotel owners for application, initiation and other fees and system implementation fees; and (iii) $ 14  million related to other obligations. These performance obligations are recognized as revenue as discussed in Note 2: "Basis of Presentation and Summary of Significant Accounting Policies" in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+6
+Note 3:  Consolidated Variable Interest Entities
+As of June 30, 2026 and December 31, 2025, we consolidated   two   variable interest entities ("VIEs") that each lease one hotel property, both of which are located in Japan, and for which the assets are only available to settle the obligations of the respective entities and the liabilities of the respective entities are non-recourse to us. We consolidated these VIEs since we are the primary beneficiary, having the power to direct the activities that most significantly affect their economic performance. Additionally, we have the obligation to absorb losses and the right to receive benefits that could be significant to each of the VIEs individually.
+Our condensed consolidated balance sheets include the assets and liabilities of these entities, including the effect of foreign currency translation, which primarily comprised the following:
+June 30,     December 31,
+2026     2025
+(in millions)
+Cash and cash equivalents    $     43        $     63
+Accounts receivable, net     11         17
+Other current assets     18         1
+Property and equipment, net     267         283
+Deferred income tax assets     18         18
+Other non-current assets     38         39
+Accounts payable, accrued expenses and other     29         41
+Long-term debt  (1)
+279         291
+____________
+(1)   Represents finance lease liabilities; includes current maturities of $  4   million as of June 30, 2026 and December 31, 2025.
+Note 4:  Debt
+Long-term debt balances, including obligations for finance leases, and associated interest rates and maturities as of June 30, 2026, were as follows:
+June 30,     December 31,
+2026     2025
+(in millions)
+Senior secured term loan facility with a rate of  5.40 %, due 2030
+$     3,119        $     3,119
+Senior notes with a rate of  4.875 %, due 2027  (1)
+600         600
+Senior notes with a rate of  5.875 %, due 2029  (1)
+550         550
+Senior notes with a rate of  3.750 %, due 2029  (1)
+800         800
+Senior notes with a rate of  4.875 %, due 2030  (1)
+1,000         1,000
+Senior notes with a rate of  4.000 %, due 2031  (1)
+1,100         1,100
+Senior notes with a rate of  5.500 %, due 2031  (1)
+1,000         —
+Senior notes with a rate of  3.625 %, due 2032  (1)
+1,500         1,500
+Senior notes with a rate of  6.125 %, due 2032  (1)
+450         450
+Senior notes with a rate of  5.875 %, due 2033  (1)
+1,000         1,000
+Senior notes with a rate of  5.750 %, due 2033  (1)
+1,000         1,000
+Senior notes with a rate of  5.500 %, due 2034  (1)
+1,000         1,000
+Finance lease liabilities with a weighted average rate of  4.62 %, due 2026 to 2060  (2)
+325         340
+13,444         12,459
+Less: unamortized deferred financing costs and discount
+( 101 )      ( 96 )
+Less: current maturities of long-term debt  (3)
+( 624 )      ( 25 )
+$     12,719        $     12,338
+____________
+(1)   These notes are collectively referred to as the Senior Notes and are jointly and severally guaranteed on a senior unsecured basis by the Parent and substantially all of its direct and indirect wholly owned domestic restricted subsidiaries, other than Hilton Domestic Operating Company Inc. ("HDOC"), an indirect wholly owned subsidiary of the Parent and the issuer of all of the series of Senior Notes.
+(2)   Includes long-term debt of our consolidated VIEs. Refer to Note 3: "Consolidated Variable Interest Entities" for additional information.
+(3)     Represents current maturities of finance lease liabilities and the  4.875 % Senior Notes due 2027 (the "April 2027 Senior Notes"). We believe that we have sufficient sources of liquidity and access to debt financing to address the current maturities of long-term debt at or prior to the respective maturity dates.
+7
+Our senior secured credit facilities consist of a senior secured revolving credit facility (the "Revolving Credit Facility") and senior secured term loan facilities (the "Term Loans"). The obligations under our senior secured credit facilities are unconditionally and irrevocably guaranteed by the Parent and substantially all of its direct and indirect wholly owned domestic restricted subsidiaries, other than HDOC, the named borrower under the senior secured credit facilities.
+In March 2026, we amended the credit agreement governing our Revolving Credit Facility to extend the maturity date, which we expect to be March 2031, and reprice the rate on amounts outstanding to the secured overnight financing rate ("SOFR") plus 1.00%. In connection with this amendment, we incurred approximately $ 5  million of debt issuance costs. During the three months ended June 30, 2026, we borrowed and subsequently repaid an aggregate $  565   million under the Revolving Credit Facility. As of June 30, 2026, no borrowings were outstanding under the Revolving Credit Facility, which had an available borrowing capacity of $ 1,894  million after considering $ 106  million of letters of credit outstanding.
+In May 2026, we issued $ 1.0  billion aggregate principal amount of  5.500 % Senior Notes due 2031 (the " 5.500 % 2031 Senior Notes" or "May 2026 Senior Notes Issuance"). As part of the May 2026 Senior Notes Issuance, we incurred $ 15  million of debt issuance costs, which were recognized as a reduction to the outstanding debt balance in our condensed consolidated balance sheet and will be amortized to interest expense through the maturity date of the  5.500 % 2031 Senior Notes. Interest on the  5.500 % 2031 Senior Notes is payable semi-annually in arrears on May 15 and November 15 of each year, beginning on November 15, 2026. We used a portion of the net proceeds from the May 2026 Senior Notes Issuance to fully repay $ 450  million of outstanding borrowings under our Revolving Credit Facility at that time.
+Note 5:  Fair Value Measurements
+The fair values of certain financial instruments and the hierarchy level we used to estimate the fair values are shown below:
+June 30, 2026
+Hierarchy Level
+Carrying Value  (1)
+Level 1     Level 2     Level 3
+(in millions)
+Liabilities:
+Long-term debt  (2)
+$     13,119        $     9,802        $    —       $     3,127
+December 31, 2025
+Hierarchy Level
+Carrying Value  (1)
+Level 1     Level 2     Level 3
+(in millions)
+Assets:
+Interest rate swap  (3)
+$     7        $    —       $     7        $    —
+Liabilities:
+Long-term debt  (2)
+12,119         8,922        —        3,142
+____________
+(1)   The fair values of cash equivalents and restricted cash equivalents approximate their carrying values due to their short-term maturities. The fair values of all other financial instruments not included in these tables are estimated to be equal to their carrying values.
+(2)   The carrying values and fair values exclude the deduction for unamortized deferred financing costs and any applicable discounts, as well as all finance lease liabilities; refer to Note 4: "Debt" for additional information.
+(3)   In March 2026, our interest rate swap with a notional amount of $ 1.6  billion matured. As such, the Company does not have any interest rate swaps outstanding as of June 30, 2026.
+Note 6:  Income Taxes
+At the end of each quarter, we estimate the effective income tax rate expected to be applied for the full year. The effective income tax rate is determined by the level and composition of income (loss) before income taxes, which is subject to federal, state, local and foreign income taxes.
+In October 2023, the U.S. Tax Court issued an opinion deciding that a third-party taxpayer was not entitled to apply the method of accounting provided for in Treasury Regulation Section 1.451-4 to its hotel loyalty program. We currently apply this method of accounting to our guest loyalty program for federal income tax purposes. On April 22, 2026, the U.S. Court of
+8
+Appeals for the Seventh Circuit vacated the U.S. Tax Court's ruling and remanded the case for further proceedings. We have evaluated the appellate court ruling and concluded that it does not impact Hilton's accounting for income taxes.
+Note 7:  Share-Based Compensation
+Our share-based compensation primarily consists of awards that we grant to eligible employees under the Hilton 2017 Omnibus Incentive Plan (the "2017 Plan") and includes time-vesting restricted stock units ("RSUs"), nonqualified stock options ("options") and performance-vesting RSUs ("performance shares"). In May 2026, stockholders approved the amendment and restatement of the 2017 Plan to authorize an additional  846,000  shares of common stock for issuance and extend the term of the Plan to May 2036. We recognized share-based compensation expense of $ 61  million and $ 55  million during the three months ended June 30, 2026 and 2025, respectively, and $ 106  million and $ 91  million during the six months ended June 30, 2026 and 2025, respectively, which included amounts reimbursed by hotel owners.
+RSUs
+During the six months ended June 30, 2026, we granted  338,000  RSUs with a weighted average grant date fair value per share of $ 313.31 , which generally vest in equal annual installments over  two  or  three years  from the date of grant.
+Options
+During the six months ended June 30, 2026, we granted  177,000  options with an exercise price per share of $ 313.35 , which vest in equal annual installments over  three years  from the date of grant and terminate  10  years from the date of grant or earlier if the individual’s service terminates under certain circumstances.
+The grant date fair value per share of the options granted during the six months ended June 30, 2026 was $ 113.22 , which was determined using the Black-Scholes-Merton option-pricing model with the following assumptions:
+Expected volatility  (1)
+30.20     %
+Dividend yield  (2)
+0.20     %
+Risk-free rate  (3)
+3.70     %
+Expected term (in years)  (4)
+6.0
+____________
+(1)   Estimated using a blended approach of historical and implied volatility. Historical volatility is based on the historical movement of Hilton's stock price for a period that corresponds to the expected term of the options at the date of grant.
+(2)   Estimated based on the expected quarterly dividend and the three-month average stock price at the date of grant.
+(3)   Based on the yield of a U.S. Department of Treasury instrument with a similar expected term of the options at the date of grant.
+(4)   Estimated using the midpoint of the vesting period and the contractual term of the options as we do not have sufficient historical share option exercise data to estimate the term of the options.
+Performance Shares
+During the six months ended June 30, 2026, we granted  128,000  performance shares with a grant date fair value per share of $ 313.35 , which vest  three years  from the date of grant based on the achievement of various performance measures.
+As of June 30, 2026, we determined that all of the performance measures for all outstanding performance shares granted in 2024, 2025 and 2026 were probable of achievement, with the average of the applicable achievement factors estimated to be nearly at the target achievement percentage for performance shares granted in 2025, between the target and maximum achievement percentage for performance shares granted in 2024 and at the target achievement percentage for the performance shares granted in 2026.
+9
+Note 8:  Earnings Per Share
+The following table presents the calculation of basic and diluted earnings per share ("EPS"):
+Three Months Ended     Six Months Ended
+June 30,     June 30,
+2026     2025     2026     2025
+(in millions, except per share amounts)
+Basic EPS:
+Numerator:
+Net income attributable to Hilton stockholders
+$     482        $     440        $     867        $     740
+Denominator:
+Weighted average shares outstanding     227         237         228         239
+Basic EPS    $     2.12        $     1.85        $     3.80        $     3.10
+Diluted EPS:
+Numerator:
+Net income attributable to Hilton stockholders
+$     482        $     440        $     867        $     740
+Denominator:
+Weighted average shares outstanding  (1)
+229         239         230         241
+Diluted EPS    $     2.10        $     1.84        $     3.76        $     3.07
+____________
+(1)   Amounts for all periods includ  e   less than 1 million shares   r  elated to share-based compensation that were excluded from the calculations of diluted EPS because their effect would have been anti-dilutive under the treasury stock method.
+Note 9:  Noncontrolling Interests, Stockholders' Equity (Deficit) and Accumulated Other Comprehensive Loss
+The following tables present the changes in the redeemable and nonredeemable noncontrolling interests and the components of stockholders' equity (deficit) attributable to Hilton stockholders:
+Three Months Ended June 30, 2026
+Redeemable Noncontrolling Interests        Treasury Stock     Additional
+Paid-in
+Capital     Accumulated Deficit     Accumulated
+Other
+Comprehensive
+Loss
+Common Stock         Noncontrolling
+Interests
+Total Deficit
+Shares     Amount
+(in millions)
+(in millions)
+Balance as of March 31, 2026    $     11        228.3        $     3        $    ( 15,259 )      $     11,254        $    ( 1,158 )      $    ( 745 )      $     27        $    ( 5,878 )
+Acquisition of redeemable noncontrolling interests    ( 5 )     —       —       —       —       —       —       —       —
+Net income (loss)
+( 1 )     —       —       —       —        482        —        1         483
+Other comprehensive loss
+—      —       —       —       —       —       ( 2 )       —        ( 2 )
+Dividends
+—      —       —       —       —       ( 34 )      —       —       ( 34 )
+Repurchases of common stock
+—      ( 2.9 )      —       ( 940 )      —       —       —       —       ( 940 )
+Share-based compensation
+—       0.3        —        9         87        —       —       —        96
+Balance as of June 30, 2026    $     5        225.7        $     3        $    ( 16,190 )      $     11,341        $    ( 710 )      $    ( 747 )      $     28        $    ( 6,275 )
+Three Months Ended June 30, 2025
+Redeemable Noncontrolling Interests        Treasury Stock     Additional
+Paid-in
+Capital     Accumulated Deficit     Accumulated
+Other
+Comprehensive
+Loss
+Common Stock         Noncontrolling
+Interests
+Total Deficit
+Shares     Amount
+(in millions)
+(in millions)
+Balance as of March 31, 2025    $     16        238.8        $     3        $    ( 12,154 )      $     11,101        $    ( 2,559 )      $    ( 769 )      $     23        $    ( 4,355 )
+Net income (loss)
+( 1 )     —       —       —       —        440        —        3         443
+Other comprehensive income
+—      —       —       —       —       —        64         —         64
+Dividends
+—      —       —       —       —       ( 36 )      —       —       ( 36 )
+Repurchases of common stock
+—      ( 3.2 )      —       ( 762 )      —       —       —       —       ( 762 )
+Share-based compensation
+—       0.2        —        9         73        —       —       —        82
+Balance as of June 30, 2025    $     15        235.8        $     3        $    ( 12,907 )      $     11,174        $    ( 2,155 )      $    ( 705 )      $     26        $    ( 4,564 )
+10
+Six Months Ended June 30, 2026
+Redeemable Noncontrolling Interests        Treasury Stock     Additional
+Paid-in
+Capital     Accumulated Deficit     Accumulated
+Other
+Comprehensive
+Loss
+Common Stock         Noncontrolling
+Interests
+Total Deficit
+Shares     Amount
+(in millions)
+(in millions)
+Balance as of December 31, 2025    $     13        230.4        $     3        $    ( 14,428 )      $     11,274        $    ( 1,508 )      $    ( 729 )      $     29        $    ( 5,359 )
+Acquisition of redeemable noncontrolling interests    ( 5 )     —       —       —       —       —       —       —       —
+Net income (loss)
+( 3 )     —       —       —       —        867        —        1         868
+Other comprehensive loss
+—      —       —       —       —       —       ( 18 )      ( 2 )      ( 20 )
+Dividends
+—      —       —       —       —       ( 69 )      —       —       ( 69 )
+Repurchases of common stock
+—      ( 5.6 )      —       ( 1,771 )      —       —       —       —       ( 1,771 )
+Share-based compensation
+—       0.9        —        9         67        —       —       —        76
+Balance as of June 30, 2026    $     5        225.7        $     3        $    ( 16,190 )      $     11,341        $    ( 710 )      $    ( 747 )      $     28        $    ( 6,275 )
+Six Months Ended June 30, 2025
+Redeemable Noncontrolling Interests        Treasury Stock     Additional
+Paid-in
+Capital     Accumulated Deficit     Accumulated
+Other
+Comprehensive
+Loss
+Common Stock         Noncontrolling
+Interests
+Total Deficit
+Shares     Amount
+(in millions)
+(in millions)
+Balance as of December 31, 2024    $     17        241.8        $     3        $    ( 11,256 )      $     11,130        $    ( 2,822 )      $    ( 782 )      $     21        $    ( 3,706 )
+Net income (loss)
+( 2 )     —       —       —       —        740        —        4         744
+Other comprehensive income
+—      —       —       —       —       —        77         1         78
+Dividends    —      —       —       —       —       ( 73 )      —       —       ( 73 )
+Repurchases of common stock
+—      ( 6.9 )      —       ( 1,660 )      —       —       —       —       ( 1,660 )
+Share-based compensation
+—       0.9        —        9         44        —       —       —        53
+Balance as of June 30, 2025    $     15        235.8        $     3        $    ( 12,907 )      $     11,174        $    ( 2,155 )      $    ( 705 )      $     26        $    ( 4,564 )
+The changes in the components of accumulated other comprehensive loss, net of taxes, were as follows:
+Currency Translation Adjustment  (1)
+Pension Liability Adjustment  (2)
+Cash Flow Hedge Adjustment  (3)
+Total
+(in millions)
+Balance as of December 31, 2025    $    ( 507 )      $    ( 223 )      $     1        $    ( 729 )
+Other comprehensive income (loss) before reclassifications
+( 25 )       —         8        ( 17 )
+Amounts reclassified from accumulated other comprehensive loss
+—         5        ( 6 )      ( 1 )
+Net other comprehensive income (loss)
+( 25 )       5         2        ( 18 )
+Balance as of June 30, 2026    $    ( 532 )      $    ( 218 )      $     3        $    ( 747 )
+11
+Currency Translation Adjustment  (1)
+Pension Liability Adjustment  (2)
+Cash Flow Hedge Adjustment  (3)
+Total
+(in millions)
+Balance as of December 31, 2024    $    ( 591 )      $    ( 240 )      $     49        $    ( 782 )
+Other comprehensive income (loss) before reclassifications
+106         —        ( 15 )       91
+Amounts reclassified from accumulated other comprehensive loss
+1         4        ( 19 )      ( 14 )
+Net other comprehensive income (loss)
+107         4        ( 34 )       77
+Balance as of June 30, 2025    $    ( 484 )      $    ( 236 )      $     15        $    ( 705 )
+____________
+(1)   Includes net investment hedge gains and intra-entity foreign currency transactions that are of a long-term investment nature. Amount reclassified during the six months ended June 30, 2025 relates to the liquidation of an investment in a certain foreign entity and was recognized in gain (loss) on foreign currency transactions in our condensed consolidated statement of operations.
+(2)   Amounts reclassified relate to the amortization of prior service cost and amortization of net loss and were recognized in other non-operating income, net in our condensed consolidated statements of operations.
+(3)   Amounts reclassified were primarily the result of our interest rate swap that hedges our exposure to changes in SOFR, with the related amounts recognized in interest expense in our condensed consolidated statements of operations. Amounts reclassified also related to foreign currency forward contracts that hedge our foreign currency denominated fees, with related amounts recognized in various revenue line items, as applicable, in our condensed consolidated statements of operations.
+Note 10:  Business Segments
+We are a hospitality company with operations organized in   two   distinct operating segments: (i) management and franchise and (ii) ownership, each of which is reported as a segment based on (a) delivering a similar set of products and services and (b) being managed separately given its distinct economic characteristics.
+The management and franchise segment includes all of the hotels we manage for third-party owners, as well as all properties that license our IP, and/or use our booking channels and related programs, and where we provide other contracted services, but the day-to-day services of the hotels are operated or managed by someone other than us. Revenues from this segment include: (i) management and franchise fees charged to third-party hotel owners; (ii) licensing fees from our strategic partners, including co-branded credit card providers and third-party hotels we do not manage or franchise but that use our booking channels and related programs ("strategic partner hotels"), and Hilton Grand Vacations Inc. ("HGV"); and (iii) fees for managing the hotels in our ownership segment. The ownership segment primarily derives revenues from nightly hotel room sales, food and beverage sales and other services at our consolidated hotels.
+Our President and Chief Executive Officer is our chief operating decision maker ("CODM"). Our CODM uses Adjusted EBITDA to evaluate the performance of our operating segments. Adjusted EBITDA is calculated as net income (loss), excluding interest expense, a provision for income tax benefit (expense) and depreciation and amortization expenses, as well as gains, losses, revenues and expenses in connection with: (i) asset dispositions for both consolidated and unconsolidated investments; (ii) foreign currency transactions; (iii) debt restructurings and retirements; (iv) furniture, fixtures and equipment ("FF&E") replacement reserves required under certain lease agreements; (v) share-based compensation; (vi) reorganization, severance, relocation and other expenses; (vii) non-cash impairment; (viii) amortization of contract acquisition costs; (ix) cost reimbursement revenues and reimbursed expenses; and (x) other items. Our CODM uses Adjusted EBITDA to evaluate the trends of our segments over time and monitor the segments in light of the performance of our industry and competitors to determine how to allocate capital resources, including contract acquisition costs and capital expenditures. Our CODM does not use assets by operating segment when assessing performance or making operating segment resource allocations.
+12
+The following table presents revenues for our reportable segments, reconciled to consolidated amounts:
+Three Months Ended     Six Months Ended
+June 30,     June 30,
+2026     2025     2026     2025
+(in millions)
+Franchise and licensing fees    $     817        $     751        $     1,520        $     1,382
+Base and other management fees  (1)
+115         115         223         216
+Incentive management fees  (1)
+77         75         159         147
+Management and franchise     1,009         941         1,902         1,745
+Ownership     311         332         560         566
+Segment revenues     1,320         1,273         2,462         2,311
+Amortization of contract acquisition costs    ( 17 )      ( 13 )      ( 32 )      ( 27 )
+Other revenues     72         77         138         123
+Cost reimbursement revenues  (2)
+1,982         1,811         3,737         3,441
+Intersegment fees elimination  (1)
+( 16 )      ( 11 )      ( 27 )      ( 16 )
+Total revenues    $     3,341        $     3,137        $     6,278        $     5,832
+____________
+(1)   Includes management, royalty and IP fees charged to consolidated hotels in our ownership segment by our management and franchise segment, which were eliminated in our condensed consolidated statements of operations.
+(2)   Amounts include revenues from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our condensed consolidated balance sheets related to these programs. Under the terms of the related contracts, we do not operate these programs to generate a profit and have contractual rights to adjust future collections to recover prior period expenditures.
+13
+The following table presents Adjusted EBITDA for our reportable segments, reconciled to consolidated income before income taxes:
+Three Months Ended     Six Months Ended
+June 30,     June 30,
+2026     2025     2026     2025
+(in millions)
+Management and franchise  (1)(2)
+$     1,009        $     941        $     1,902        $     1,745
+Ownership  (1)(2)
+45         57         60         65
+Segment Adjusted EBITDA
+1,054         998         1,962         1,810
+Corporate and other  (3)
+—         10        ( 7 )      ( 7 )
+Interest expense    ( 183 )      ( 151 )      ( 345 )      ( 296 )
+Depreciation and amortization expenses    ( 49 )      ( 43 )      ( 99 )      ( 84 )
+Gain (loss) on foreign currency transactions    ( 7 )      ( 1 )      ( 12 )       1
+FF&E replacement reserves    ( 13 )      ( 19 )      ( 23 )      ( 32 )
+Share-based compensation expense    ( 61 )      ( 55 )      ( 106 )      ( 91 )
+Amortization of contract acquisition costs    ( 17 )      ( 13 )      ( 32 )      ( 27 )
+Cost reimbursement revenues  (4)
+1,982         1,811         3,737         3,441
+Reimbursed expenses  (4)
+( 2,008 )      ( 1,895 )      ( 3,857 )      ( 3,654 )
+Other adjustments  (5)
+( 18 )      ( 13 )      ( 20 )      ( 22 )
+Income before income taxes    $     680        $     629        $     1,198        $     1,039
+____________
+(1)   Includes management, royalty and IP fees charged to consolidated hotels in our ownership segment by our management and franchise segment, which were eliminated in our condensed consolidated statements of operations.
+(2)   No expenses are allocated to the management and franchise segment. For the ownership segment, rent expense is the significant expense regularly provided to the CODM; rent expense was $ 52  million and $ 61  million for the three months ended June 30, 2026 and 2025, respectively, and $ 93  million and $ 102  million for the six months ended June 30, 2026 and 2025, respectively. Total other ownership expenses were $ 216  million and $ 217  million for the three months ended June 30, 2026 and 2025, respectively, and $ 411  million and $ 403  million for the six months ended June 30, 2026 and 2025, respectively, comprising (i) room expenses; (ii) food and beverage costs; (iii) property expenses; and (iv) other support costs. Ownership segment Adjusted EBITDA also includes income (loss) from hotels owned or leased by entities in which we own a noncontrolling financial interest.
+(3)   Amounts primarily include general and administrative expenses, excluding share-based compensation expense, and activity related to our purchasing operations.
+(4)   Amounts include results from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our condensed consolidated balance sheets related to these programs. Under the terms of the related contracts, we do not operate these programs to generate a profit and have contractual rights to adjust future collections to recover prior period expenditures.
+(5)   Amounts for the three and six months ended June 30, 2025 include expected future credit losses on financing receivables. Amount for the six months ended June 30, 2025 also includes restructuring costs related to one of our leased hotels. Amounts for all periods include gains (losses) related to severance and other items, including non-cash charges, such as net gains (losses) related to certain of our investments in unconsolidated affiliates.
+Note 11:  Commitments and Contingencies
+Although our management contracts may include performance clauses, most of these clauses do not require us to fund shortfalls but instead allow the owner to terminate the contract if specified operating performance levels are not achieved. In limited cases, we have provided performance guarantees that obligate us to fund these shortfalls. As of June 30, 2026, we had performance guarantees with expirations ranging from 2026 to 2043 and possible cash outlays totaling $ 13  million.
+We also have extended debt guarantees and provided loan commitments to owners of certain hotels that we currently or in the future will manage or franchise. Our debt guarantees and loan commitments as of June 30, 2026 had expirations ranging from 2027 to 2035 and remaining possible cash outlays totaling $ 56  million.
+The performance and debt guarantees and loan commitments create variable interests in the ownership entities of the related hotels, of which we are not the primary beneficiary.
+We receive program fees from property owners and strategic partners that are used to operate our Hilton Honors program, marketing, sales and brands programs and other shared services on behalf of property owners. If we collect amounts in excess of amounts expended, we have a commitment to spend these amounts on the related programs.
+We are involved in various claims and lawsuits arising in the ordinary course of business, some of which include claims for substantial sums. While the ultimate results of claims and litigation cannot be predicted with certainty, we expect that the ultimate resolution of all pending or threatened claims and litigation as of June 30, 2026 will not have a material adverse effect on our consolidated financial position, results of operations or cash flows.
+14
+Note 12:  Supplemental Disclosures of Cash Flow Information
+Cash interest paid included within operating activities in our condensed consolidated statements of cash flows was $ 338  million and $ 320  million during the six months ended June 30, 2026 and 2025, respectively. These amounts exclude $ 7  million and $ 20  million for the six months ended June 30, 2026 and 2025, respectively, of cash receipts related to settlements of our interest rate swap with a financing component, which are separately disclosed within financing activities in our condensed consolidated statements of cash flows.
+Income tax payments, net of refunds received, were $ 406  million and $ 121  million for the six months ended June 30, 2026 and 2025, respectively.
+15
+Item 2.    Management's Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our unaudited condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q and with our Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). These statements include, but are not limited to, statements related to our expectations regarding the performance of our business, future financial results, liquidity and capital resources and other non-historical statements. In some cases, you can identify these forward-looking statements by the use of words such as "outlook," "believes," "expects," "forecasts," "potential," "continues," "may," "will," "should," "could," "seeks," "projects," "predicts," "intends," "plans," "estimates," "anticipates" or the negative version of these words or other comparable words. Such forward-looking statements are subject to various risks and uncertainties including, among others, risks inherent to the hospitality industry; macroeconomic factors beyond our control, such as inflation, changes in interest rates, challenges due to labor shortages or disputes and supply chain disruptions; the loss of key senior management personnel; competition for hotel guests and management and franchise contracts; risks related to doing business with third-party hotel owners; performance of our information technology systems; growth of reservation channels outside of our system; risks of doing business outside of the U.S.; risks associated with geopolitical conflicts, including Iran; uncertainty resulting from U.S. and global political trends, tariffs and other policies, including potential barriers to travel, trade and immigration and other geopolitical events; and our indebtedness. Accordingly, there are or will be important factors that could cause actual outcomes or results to differ materially from those indicated in these statements. We believe these factors include, but are not limited to, those described under "Part I—Item 1A. Risk Factors" of our Annual Report on Form 10-K for the fiscal year ended December 31, 2025. These factors should not be construed as exhaustive and should be read in conjunction with the other cautionary statements that are included in this Quarterly Report on Form 10-Q and in our other filings with the Securities and Exchange Commission (the "SEC"). We undertake no obligation to publicly update or review any forward-looking statement, whether as a result of new information, future developments or otherwise, except as required by law.
+Overview
+Our Business
+Hilton is     one of the largest global hospitality companies, with 9,453 properties comprising 1,384,842 rooms in 144 countries and territories as of June 30, 2026. Our premier brand portfolio includes luxury, lifestyle, full service, focused service and all-suites brands, as well as timeshare brands. As of June 30, 2026, we had 260 million members in our award-winning guest loyalty program, Hilton Honors, an increase of 15 percent from June 30, 2025.
+Segments and Regions
+We analyze our operations and business by both operating segments and geographic regions. Our operations consist of two reportable segments that are based on similar products and services: (i) management and franchise and (ii) ownership. The management and franchise segment provides services, including hotel management and licensing of our IP and/or the use of our booking channels and related programs. Revenues from this segment include: (i) management and franchise fees charged to third-party hotel owners; (ii) licensing fees from our strategic partners, including co-branded credit card providers and strategic partner hotels, and HGV; and (iii) fees for managing the hotels in our ownership segment. As a manager of hotels, we typically are responsible for supervising or operating the hotel in exchange for management fees. As a franchisor of hotels, we charge franchise fees in exchange for the use of one of our brand names and/or related commercial services, such as our reservations system, marketing and information technology services, while a third party manages or operates such franchised hotels. The ownership segment primarily derives revenues from nightly hotel room sales, food and beverage sales and other services at our consolidated hotels.
+We conduct business in three distinct geographic regions: (i) the Americas; (ii) Europe, Middle East and Africa ("EMEA"); and (iii) Asia Pacific. The Americas region includes North America, South America and Central America, including all Caribbean nations. Although the U.S., which represented 63 percent of our system-wide hotel rooms as of June 30, 2026, is included in the Americas region, it is often analyzed separately and apart from the Americas region and, as such, it is presented separately within our hotel operating statistics in "—Results of Operations." The EMEA region includes Europe, which
+16
+represents the western-most peninsula of Eurasia stretching from Iceland in the west to Russia in the east, and the Middle East and Africa ("MEA"), which represents the Middle East region and all African nations, including the Indian Ocean island nations. Europe and MEA are often analyzed separately and, as such, are presented separately within our hotel operating statistics in "—Results of Operations." The Asia Pacific region includes the eastern and southeastern nations of Asia, as well as India, Australia, New Zealand and the Pacific Island nations.
+System Growth and Development Pipeline
+Our strategic objectives include the continued expansion of our global hotel network, in particular our fee-based business. As we enter into new management and franchise contracts and enter into strategic agreements to complement our hotel portfolio, we expand our business with limited or no capital investment by us as the manager, franchisor or licensor, since the capital required to build, renovate and maintain hotels is typically provided by the third-party owners with whom we contract to provide management services, license our IP or provide access to our booking channels and related programs. Prior to approving the addition of new hotels to our management and franchise development pipeline, we evaluate the economic viability of the hotel based on its geographic location, the credit quality of the third-party owner and other factors. By increasing the number of management and franchise contracts with third-party owners, over time we expect to increase revenues, overall return on invested capital and free cash flow. See further discussion on our cash management policy in "—Liquidity and Capital Resources." The current economic environment, including elevated levels of inflation and interest rates, has posed certain challenges to the execution of our growth strategy, which in some cases have included and may continue to include delays in openings and new development.
+In addition to our current hotel portfolio, we are focused on the growth of our business by expanding our global hotel network through our development pipeline, which represents hotels that we expect to add to our system in the future. The following table summarizes our development activity:
+As of or for the
+Six Months Ended
+June 30, 2026
+Hotels
+Rooms  (1)
+Hotel system
+Openings
+338       40,400
+Net additions  (2)
+288       32,500
+Development pipeline
+Additions
+544       69,100
+Count as of period end  (3)
+3,853       541,300
+____________
+(1)  Rounded to the nearest hundred.
+(2)  Represents room additions, net of rooms removed from our system. Net unit growth from June 30, 2025 to June 30, 2026 was 6.1 percent.
+(3)  The hotels in our development pipeline were under development throughout 132 countries and territories, including 26 countries and territories where we had no existing hotels, with almost half of the rooms under construction and more than half of the rooms located outside of the U.S. Rooms under construction include rooms for hotels under construction or operating hotels that are in the process of conversion to our system. Nearly all of the rooms in our development pipeline will be in our management and franchise segment upon opening. We do not consider any individual development project to be material to us.
+17
+Key Business and Financial Metrics Used by Management
+Comparable Hotels
+We define our comparable hotels as those that were active and operating in our system for at least one full calendar year and were open January 1st of the previous year. We exclude hotels that have undergone a change in brand or ownership type or a large-scale capital project during the current or comparable periods or otherwise do not have available comparable results, such as those that have sustained substantial property damage or encountered business interruption. We exclude strategic partner hotels from our comparable hotels. Of the 9,332 hotels in our system as of June 30, 2026, 562 hotels were strategic partner hotels and 6,808 hotels were classified as comparable hotels. Our 1,962 non-comparable hotels as of June 30, 2026 included (i) 988 hotels that were added to our system after January 1, 2025 or that have undergone a change in brand or ownership type during the current or comparable periods reported and (ii) 974 hotels that were removed from the comparable group for the current or comparable periods reported because they underwent or are undergoing large-scale capital projects, sustained substantial property damage, encountered business interruption or comparable results were otherwise not available for them.
+Occupancy
+Occupancy represents the total number of room nights sold divided by the total number of room nights available at a hotel or group of hotels for a given period. Occupancy measures the utilization of available capacity at a hotel or group of hotels. Management uses occupancy to gauge demand at a specific hotel or group of hotels in a given period. Occupancy levels also help management determine achievable Average Daily Rate ("ADR") pricing levels as demand for hotel rooms increases or decreases.
+ADR
+ADR represents hotel room revenue divided by the total number of room nights sold for a given period. ADR measures the average room price attained by a hotel, and ADR trends provide useful information concerning the pricing environment and the nature of the customer base of a hotel or group of hotels. ADR is a commonly used performance measure in the industry, and we use ADR to assess pricing levels that we are able to generate by type of customer, as changes in rates charged to customers have different effects on overall revenues and incremental profitability than changes in occupancy, as described above.
+Revenue per Available Room ("RevPAR")
+RevPAR is calculated by dividing hotel room revenue by the total number of room nights available to guests for a given period. We consider RevPAR to be a meaningful indicator of our performance as it provides a metric correlated to two primary and key drivers of operations at a hotel or group of hotels, as previously described: occupancy and ADR. RevPAR is also a useful indicator in measuring performance over comparable periods for comparable hotels.
+References to occupancy, ADR and RevPAR are presented on a comparable basis, based on the comparable hotels as of June 30, 2026, and references to ADR and RevPAR are presented on a currency neutral basis, unless otherwise noted. As such, comparisons of these hotel operating statistics for the three and six months ended June 30, 2026 and 2025 use foreign currency exchange rates for the three and six months ended June 30, 2026, respectively.
+Adjusted EBITDA
+Adjusted EBITDA is calculated as net income (loss), excluding interest expense, a provision for income tax benefit (expense) and depreciation and amortization expenses, as well as gains, losses, revenues and expenses earned or incurred in connection with: (i) asset dispositions for both consolidated and unconsolidated investments; (ii) foreign currency transactions; (iii) debt restructurings and retirements; (iv) FF&E replacement reserves required under certain lease agreements; (v) share-based compensation; (vi) reorganization, severance, relocation and other expenses; (vii) non-cash impairment; (viii) amortization of contract acquisition costs; (ix) cost reimbursement revenues and reimbursed expenses; and (x) other items.
+We believe that Adjusted EBITDA provides useful information to investors about us and our financial condition and results of operations for the following reasons: (i) it is used by our management team to evaluate our operating performance and make day-to-day operating decisions and (ii) it is frequently used by securities analysts, investors and other interested parties as a common performance measure to compare results or estimate valuations across companies in our industry. Additionally, this measure excludes certain items that can vary widely across different industries and among competitors within our industry. For
+18
+instance, interest expense and income taxes are dependent on company specifics, including, among other things, capital structure and operating jurisdictions, respectively, and, therefore, could vary significantly across companies. Depreciation and amortization expenses, as well as amortization of contract acquisition costs, are dependent upon company policies, including the method of acquiring and depreciating assets and the useful lives that are assigned to those depreciating or amortizing assets for accounting purposes. We also exclude items such as: (i) FF&E replacement reserves for leased hotels to be consistent with the treatment of capital expenditures for property and equipment, where depreciation of such capitalized assets is reported within depreciation and amortization expenses; (ii) share-based compensation, as this could vary widely among companies due to the different plans in place and the usage of them; and (iii) other items that are not reflective of our operating performance, such as amounts related to debt restructurings and debt retirements and reorganization and related severance costs, to enhance period-over-period comparisons of our ongoing operations. Further, Adjusted EBITDA excludes both cost reimbursement revenues and reimbursed expenses as we contractually do not operate the related programs to generate a profit and have contractual rights to adjust future collections to recover prior period expenditures. The direct reimbursements from property owners are billable and reimbursable as the costs are incurred and have no net effect on net income (loss) in the reporting period. The indirect reimbursements from property owners are typically billed and collected monthly, based on the underlying hotel's sales or usage (e.g., gross room revenue or number of reservations processed), while the associated costs are recognized as incurred by Hilton, creating timing differences, with the net effect impacting net income (loss) in the reporting period. These timing differences are due to our discretion to spend in excess of revenues earned or less than revenues earned in a single period to ensure that the programs are operated in the best long-term interests of our property owners. However, over the life of the operation of these programs, the expenses incurred related to the indirect reimbursements are designed to equal the revenues earned from the indirect reimbursements over time such that, in the long term, the programs will not earn a profit or generate a loss and do not impact our economics, either positively or negatively. Therefore, the net effect of our reimbursed revenues and expenses is not used by management to evaluate our operating performance, determine executive compensation or make other operating decisions, and we exclude their impact when evaluating period over period performance results.
+Adjusted EBITDA is not a recognized term under GAAP and should not be considered as an alternative, either in isolation or as a substitute, for net income (loss) or other measures of financial performance or liquidity, including cash flows, derived in accordance with GAAP. Further, Adjusted EBITDA has limitations as an analytical tool, including:
+•  Adjusted EBITDA does not reflect changes in, or cash requirements for, our working capital needs;
+•  Adjusted EBITDA does not reflect our interest expense, or the cash requirements necessary to service interest or principal payments, on our indebtedness;
+•  Adjusted EBITDA does not reflect income tax expenses or the cash requirements to pay our taxes;
+•  Adjusted EBITDA does not reflect historical cash expenditures or future requirements for capital expenditures or contractual commitments;
+•  Adjusted EBITDA does not reflect the effect on earnings or changes resulting from matters that we consider not to be indicative of our future operations;
+•  although depreciation and amortization are non-cash charges, the assets being depreciated and amortized will often have to be replaced in the future, and Adjusted EBITDA does not reflect any cash requirements for such replacements; and
+•  other companies in our industry may calculate Adjusted EBITDA differently, limiting its usefulness as a comparative measure.
+Because of these limitations, Adjusted EBITDA should not be considered as discretionary cash available to us to reinvest in the growth of our business, return to our stockholders through share repurchases and dividends or as measures of cash that will be available to us to meet our obligations.
+19
+Results of Operations
+The hotel operating statistics by region for our system-wide comparable hotels were as follows:
+Three Months Ended     Change     Six Months Ended     Change
+June 30, 2026     2026 vs. 2025     June 30, 2026
+2026 vs. 2025
+System-wide
+Occupancy    74.9     %     1.0     %    pts.     71.3     %     1.3     %    pts.
+ADR    $    166.97       2.5     %      $    162.51       2.0     %
+RevPAR    $    125.02       3.9     %      $    115.93       3.9     %
+U.S.
+Occupancy    77.3     %     1.6     %    pts.     73.2     %     1.6     %    pts.
+ADR    $    180.16       3.2     %      $    174.72       2.3     %
+RevPAR    $    139.28       5.4     %      $    127.93       4.7     %
+Americas (excluding U.S.)
+Occupancy    68.6     %     0.4     %    pts.     66.3     %     0.9     %    pts.
+ADR    $    157.79       3.9     %      $    157.97       3.3     %
+RevPAR    $    108.32       4.6     %      $    104.78       4.8     %
+Europe
+Occupancy    78.3     %     1.6     %    pts.     72.2     %     2.0     %    pts.
+ADR    $    182.96       2.2     %      $    168.31       2.5     %
+RevPAR    $    143.28       4.3     %      $    121.51       5.5     %
+MEA
+Occupancy    53.0     %     (16.1)    %    pts.     58.6     %     (10.0)    %    pts.
+ADR    $    176.72       (8.1)    %      $    201.45       (0.4)    %
+RevPAR    $    93.65       (29.5)    %      $    118.09       (15.0)    %
+Asia Pacific
+Occupancy    68.6     %     1.0     %    pts.     66.7     %     1.6     %    pts.
+ADR    $    97.42       (0.3)    %      $    99.57       0.5     %
+RevPAR    $    66.80       1.2     %      $    66.45       2.9     %
+System-wide RevPAR increased during the three and six months ended June 30, 2026, primarily due to improvements in system-wide ADR, which included the impact of inflation, and special events. In the U.S., for both the three and six months ended June 30, 2026, RevPAR increased due to strength in business and group, as well as growth in leisure aided by the World Cup. The increases in RevPAR in the Americas region, excluding the U.S., were attributable to increases in rate for both the three and six months ended June 30, 2026, resulting from group travel, particularly in the Caribbean and South America, as well as in Canada for the three months ended June 30, 2026. Europe was positively impacted by strength across business, leisure and group for the three months ended June 30, 2026, with the six months ended June 30, 2026 also benefitting from the Winter Olympics, which drove increases in leisure and group demand. MEA RevPAR decreased during both the three and six months ended June 30, 2026 as a result of the ongoing geopolitical conflict in the Middle East, with results for the six months ended June 30, 2026 partially offset by increased demand in January and February for special events. RevPAR in Asia Pacific for the periods increased, driven primarily by increases in leisure travel and overall strength in Japan and Korea, as well an increase in business travel for the three months ended June 30, 2026, partially offset by decreases in RevPAR in China due to a decline in group travel resulting from continued government restrictions.
+20
+The table below provides a reconciliation of net income to Adjusted EBITDA:
+Three Months Ended     Six Months Ended
+June 30,     June 30,
+2026     2025     2026     2025
+(in millions)
+Net income    $    482       $    442       $    865       $    742
+Interest expense    183       151       345       296
+Income tax expense
+198       187       333       297
+Depreciation and amortization expenses    49       43       99       84
+Loss (gain) on foreign currency transactions
+7       1       12       (1)
+FF&E replacement reserves    13       19       23       32
+Share-based compensation expense    61       55       106       91
+Amortization of contract acquisition costs    17       13       32       27
+Cost reimbursement revenues  (1)
+(1,982)      (1,811)      (3,737)      (3,441)
+Reimbursed expenses  (1)
+2,008       1,895       3,857       3,654
+Other adjustments  (2)
+18       13       20       22
+Adjusted EBITDA    $    1,054       $    1,008       $    1,955       $    1,803
+____________
+(1)  Amounts include results from the operation of programs conducted for the benefit of property owners and exclude cash receipts recorded as deferred revenues on our condensed consolidated balance sheets related to these programs. Under the terms of the related contracts, we do not operate these programs to generate a profit and have contractual rights to adjust future collections to recover prior period expenditures.
+(2)  Amounts for the three and six months ended June 30, 2025 include expected future credits losses on financing receivables. Amount for the six months ended June 30, 2025 also includes restructuring costs related to one of our leased hotels. Amounts for all periods include losses (gains) related to severance and other items, including non-cash charges, such as net losses (gains) related to certain of our investments in unconsolidated affiliates.
+Revenues
+Three Months Ended     Percent     Six Months Ended     Percent
+June 30,     Change     June 30,     Change
+2026     2025     2026 vs. 2025     2026     2025
+2026 vs. 2025
+(in millions)       (in millions)
+Franchise and licensing fees    $    808       $    745       8.5     $    1,504       $    1,370       9.8
+Base and other management fees    $    99       $    97       2.1     $    194       $    185       4.9
+Incentive management fees    69       75       (8.0)     145       147       (1.4)
+Total management fees    $    168       $    172       (2.3)     $    339       $    332       2.1
+The currency neutral increases in franchise fees at our comparable franchised hotels of $26 million and $44 million for the three and six months ended June 30, 2026, respectively, were primarily due to increases in RevPAR. During the three months ended June 30, 2026, RevPAR at our comparable franchised hotels increased 4.6 percent, due to increases in occupancy of 1.3 percentage points and ADR of 2.9 percent. During the six months ended June 30, 2026, RevPAR at our comparable franchised hotels increased 4.3 percent, due to increases in occupancy of 1.5 percentage points and ADR of 2.1 percent.
+The increases in franchise fees included net increases of $15 million and $28 million during the three and six months ended June 30, 2026, respectively as a result of net hotel additions between the periods. The increase in franchise fees for the three months ended June 30, 2026 was partially offset by a $17 million decrease in termination fees. The increase in franchise fees for the six months ended June 30, 2026 also included an increase of $15 million in termination fees.
+Licensing fees increased $34 million and $42 million for the three and six months ended June 30, 2026, respectively, as a result of increases in fees from our strategic partnerships, primarily resulting from activity under our co-branded credit card arrangements, HGV and branded residential fees. Increased fees from HGV were the result of increased timeshare revenues earned by HGV, inclusive of the impact of adding new timeshare properties to our system between the periods.
+The increases in base management fees were primarily due to increases at our comparable managed hotels as a result of increases in RevPAR. During the three months ended June 30, 2026, RevPAR at our comparable managed hotels increased 1.9 percent, due to an increase in ADR of 2.1 percent, partially offset by a decrease in occupancy of 0.1 percent. During the six
+21
+months ended June 30, 2026, RevPAR at our comparable managed hotels increased 3.1 percent, due to increases in occupancy of 0.7 percentage points and ADR of 2.1 percent.
+The decrease in incentive management fees for the three months ended June 30, 2026 was primarily due to conflicts in certain regions.
+Three Months Ended     Percent     Six Months Ended     Percent
+June 30,     Change     June 30,     Change
+2026     2025     2026 vs. 2025     2026     2025     2026 vs. 2025
+(in millions)       (in millions)
+Ownership revenues
+$    311       $    332       (6.3)     $    560       $    566       (1.1)
+The $21 million decrease in ownership revenues for the three months ended June 30, 2026 included a currency neutral decrease of $18 million and a $3 million decrease resulting from unfavorable fluctuations in foreign currency exchange rates. The $6 million decrease in ownership revenues for the six months ended June 30, 2026 included a currency neutral decrease of $16 million, partially offset by a $10 million increase resulting from favorable fluctuations in foreign currency exchange rates.
+Revenues from our non-comparable hotels within our ownership segment decreased $14 million and $20 million for the three and six months ended June 30, 2026, respectively, on a currency neutral basis, primarily due to hotels that underwent or are undergoing a renovation. The decrease for the six months ended June 30, 2026 was also due to a hotel that exited our system between the periods.
+Three Months Ended     Percent     Six Months Ended     Percent
+June 30,     Change     June 30,     Change
+2026     2025     2026 vs. 2025     2026     2025     2026 vs. 2025
+(in millions)       (in millions)
+Other revenues    $    72       $    77       (6.5)     $    138       $    123       12.2
+The increase in other revenues for the six months ended June 30, 2026     was primarily related to an increase in vendor incentives for activity related to our purchasing operations.
+Operating Expenses
+Three Months Ended     Percent     Six Months Ended     Percent
+June 30,     Change     June 30,     Change
+2026     2025     2026 vs. 2025     2026     2025     2026 vs. 2025
+(in millions)       (in millions)
+Ownership expenses
+$    266       $    286       (7.0)     $    501       $    525       (4.6)
+Ownership expenses included decreases of $20 million and $39 million, on a currency neutral basis, during the three and six months ended June 30, 2026, respectively. The six months ended June 30, 2026 was partially offset by an increase of $15 million resulting from unfavorable fluctuations in foreign currency exchange rates.
+The $17 million and $39 million decreases in ownership expenses, on a currency neutral basis, from our non-comparable hotels within our ownership segment during the three and six months ended June 30, 2026, respectively, were primarily due to hotels that are undergoing renovations. The decrease for the six months ended June 30, 2026 also relates to a hotel that exited our system between the periods.
+22
+Three Months Ended     Percent     Six Months Ended     Percent
+June 30,     Change     June 30,     Change
+2026     2025     2026 vs. 2025     2026     2025     2026 vs. 2025
+(in millions)       (in millions)
+Depreciation and amortization expenses    $    49       $    43       14.0     $    99       $    84       17.9
+General and administrative expenses    114       109       4.6     217       203       6.9
+Other expenses    46       26       76.9     68       52       30.8
+The increases in depreciation and amortization expenses were primarily related to software placed in service between the periods.
+The increases in general and administrative expenses were primarily due to increases in costs related to payroll and other compensation costs.
+The increases in other expenses were primarily due to higher non-cash charges.
+Non-operating Income and Expenses
+Three Months Ended     Percent     Six Months Ended     Percent
+June 30,     Change     June 30,     Change
+2026     2025     2026 vs. 2025     2026     2025     2026 vs. 2025
+(in millions)       (in millions)
+Interest expense    $    (183)      $    (151)      21.2     $    (345)      $    (296)      16.6
+Gain (loss) on foreign currency transactions
+(7)      (1)
+NM  (1)
+(12)      1
+NM  (1)
+Other non-operating income, net
+12       3
+NM  (1)
+19       20       (5.0)
+Income tax expense
+(198)      (187)      5.9     (333)      (297)      12.1
+____________
+(1)  Fluctuation in terms of percentage change is not meaningful.
+In May 2025, we repaid, at maturity, all $500 million in aggregate principal amount of the 5.375% Senior Notes due 2025 (the "2025 Senior Notes"). In both July 2025 and December 2025, we issued $1.0 billion Senior Notes (the "July 2025 Senior Notes Issuance" and the "December 2025 Senior Notes Issuance," respectively) for a total aggregate principal amount of $2.0 billion. In December 2025, we also redeemed all $500 million in aggregate principal amount of the 5.750% Senior Notes due 2028 (the "2028 Senior Notes").
+During the three and six months ended June 30, 2026, the increases in interest expense were primarily attributable to increases of $37 million and $66 million, respectively, due to the July 2025 Senior Notes Issuance, December 2025 Senior Notes Issuance and May 2026 Senior Notes Issuance. The increases in interest expense were also attributable to increases of $13 million and $16 million, respectively, due to the expiration of the interest rate swap used to mitigate floating interest rate risk in March 2026. During the three and six months ended June 30, 2026, the increases were partially offset by decreases in interest expense of $10 million and $24 million, respectively, d  ue to the repayment of the 2025 Senior Notes and the 2028 Senior Notes in 2025, and   decreases in interest expense on the Term Loans of $5 million and $10 million, respectively, due to decreases in one-month SOFR for the comparable periods.
+The net gains and losses on foreign currency transactions are the result of changes in foreign currency exchange rates, including on certain intercompany financing arrangements, such as short-term cross-currency intercompany loans, as well as transactions denominated in foreign currencies.
+The net change in other non-operating income, net during the three months ended June 30, 2026 was due to a decrease in expected future credit losses on financing receivables. The net change for the six months ended June 30, 2026 was driven by a decrease in interest income due to decreased interest rates and a lower average cash balance, offset by a decrease in expected future credit losses on financing receivables.
+The increases in income tax expense during the three and six months ended June 30, 2026 were primarily attributable to increases in income before income taxes during the respective periods.
+23
+Segment Results
+As of June 30, 2026, our management and franchise segment included 882 managed and 8,525 franchised and licensed properties, which included 121 timeshare and 562 strategic partner hotels, consisting of 1,369,556 total rooms, and our ownership segment included 46 hotels consisting of 15,286 total rooms. Refer to Note 10: "Business Segments" in our unaudited condensed consolidated financial statements for reconciliations of revenues for our reportable segments to consolidated total revenues and of segment Adjusted EBITDA to consolidated income before income taxes.
+Franchise and licensing fees and total management fees, including fees charged to our ownership segment and excluding amortization of contract acquisition costs, reflects our management and franchise segment revenues and segment Adjusted EBITDA. Our ownership segment Adjusted EBITDA reflects revenues from consolidated hotels within our ownership segment, less (i) ownership expenses, excluding FF&E replacement reserves expenses, share-based compensation expenses and certain other items, less (ii) fees charged by our management and franchise segment to our ownership segment, plus (iii) income (loss) from hotels owned or leased by entities in which we own a noncontrolling financial interest. For the three and six months ended June 30, 2026, refer to "—Revenues" for further discussion of the changes in our franchise and licensing fees and total management fees as well as for further discussion of the changes in revenues from our ownership segment. Refer to "—Operating Expenses" for further discussion of the changes in our ownership segment expenses.
+Liquidity and Capital Resources
+Overview
+As of June 30, 2026, we had total cash and cash equivalents of $1,064 million, including $55 million of restricted cash and cash equivalents. The majority of our restricted cash and cash equivalents is related to cash collateral and cash held for FF&E reserves.
+Our known short-term liquidity requirements primarily consist of funds necessary to pay for operating and other expenditures, including: (i) costs associated with the management and franchising of hotels, including those costs related to our Hilton Honors program, marketing, sales and brand programs and shared services; (ii) corporate expenses; (iii) payroll and compensation costs; (iv) taxes and compliance costs; (v) scheduled debt maturities and interest payments on our outstanding indebtedness; (vi) lease payments under our finance and operating leases; (vii) costs, other than compensation and lease payments that are noted separately, associated with the operations of consolidated hotels within our ownership segment, including, but not limited to, utilities and operating supplies; (viii) committed contract acquisition costs; (ix) capital and maintenance expenditures for required renovations and maintenance at the consolidated hotels within our ownership segment; (x) corporate capital and information technology expenditures; (xi) dividends as declared; and (xii) share repurchases.
+Our known long-term liquidity requirements primarily consist of funds necessary to pay for: (i) scheduled debt maturities and interest payments on our outstanding indebtedness; (ii) lease payments under our finance and operating leases; (iii) committed contract acquisition costs; (iv) capital improvements to the consolidated hotels within our ownership segment; (v) corporate capital and information technology expenditures; (vi) dividends as declared; (vii) share repurchases; and (viii) commitments to owners in our management and franchise segment made in the normal course of business for which we are reimbursed by these owners through Hilton Honors and program fees to operate our Hilton Honors program, marketing, sales and brand programs and shared services.
+In March 2026, we amended the credit agreement governing our Revolving Credit Facility to extend the maturity date, which we expect to be March 2031, and reprice the rate on amounts outstanding to SOFR plus 1.00%. During the three months ended June 30, 2026, we borrowed and subsequently repaid an aggregate of $565 million under the Revolving Credit Facility. In May 2026, we issued the 5.500% 2031 Senior Notes and used a portion of the net proceeds to fully repay borrowings drawn under the Revolving Credit Facility earlier in the period. Refer to Note 4: "Debt" in our unaudited condensed consolidated financial statements for additional information. Except for the amendment to the credit agreement governing our Revolving Credit Facility in March 2026 and the May 2026 Senior Notes Issuance, there were no material changes to our contractual obligations from what we previously disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+During the six months ended June 30, 2026, we repurchased approximately 5.6 million shares of our common stock for $1,757 million, excluding the excise tax on share repurchases. As of June 30, 2026, approximately $3.0 billion remained available for share repurchases under our stock repurchase program.
+24
+In circumstances where we have the opportunity to support our strategic objectives, we may provide guarantees or other commitments, as necessary, to owners of hotels that we currently or in the future will manage or franchise or other third parties. See Note 11: "Commitments and Contingencies" in our unaudited condensed consolidated financial statements for additional information on our commitments that were outstanding as of June 30, 2026.
+We have a long-term investment policy that is focused on the preservation of capital and maximizing the return on new and existing investments and returning available capital to stockholders through dividends and share repurchases. Within the framework of our investment policy, we intend to finance our business activities primarily with cash on our balance sheet as of June 30, 2026, cash generated from our operations and, as needed, the use of the available capacity of our Revolving Credit Facility. We have continued access to debt markets and have obtained, and expect to continue to be able to obtain, financing as a source of liquidity as required and to extend maturities of existing borrowings, if necessary. Additionally, we may from time to time pre-sell Hilton Honors points through strategic partnership arrangements as a source of liquidity.
+After considering our approach to liquidity and our available sources of cash, we believe that our cash position and sources of liquidity will meet anticipated requirements for operating and other expenditures, including corporate expenses, payroll and other compensation costs, taxes and compliance costs, debt obligations and other commitments for the foreseeable future based on current conditions. The objectives of our cash management policy are maintaining the availability of liquidity and minimizing operational costs.
+We have in the past, and may, from time to time, in the future issue or incur or increase our capacity to incur new debt and/or purchase our outstanding debt through underwritten offerings, open market transactions, privately negotiated transactions or otherwise. Issuances or incurrence of new debt (or an increase in our capacity to incur new debt) and/or purchases or retirements of outstanding debt, if any, will depend on prevailing market conditions, liquidity requirements, contractual restrictions and other factors. The amounts involved may be material.
+Sources and Uses of Our Cash and Cash Equivalents
+The following table summarizes our net cash flows:
+Six Months Ended     Percent
+June 30,     Change
+2026     2025     2026 vs. 2025
+(in millions)
+Net cash provided by operating activities    $    1,090       $    1,110       (1.8)
+Net cash used in investing activities    (80)      (86)      (7.0)
+Net cash used in financing activities    (911)      (1,960)      (53.5)
+Operating Activities
+Cash flows from operating activities were primarily generated from management, franchise and licensing fee revenue. The decrease in net cash inflows during the period was primarily due to a $285 million increase in income tax payments due to timing. The decrease was partially offset by an increase in cash inflows generated from management, franchise and licensing fees, discussed in "—Revenues," largely as a result of revenues from our comparable managed and franchised hotels driven by an increase in RevPAR, as well as revenues from net franchise hotel additions and licensing fees from our strategic partnerships.
+Investing Activities
+Net cash used in investing activities primarily included cash flows related to: (i) capitalized software costs related to various systems initiatives for the benefit of both our hotel owners and our overall corporate operations, (ii) capital expenditures for property and equipment related to corporate property and the renovation of certain consolidated hotels and (iii) issuance of financing receivables.
+25
+Financing Activities
+The decrease in net cash used in financing activities was attributable to (i) a cash inflow of $1.0 billion from the May 2026 Senior Notes Issuance during the six months ended June 30, 2026 and (ii) a cash outflow of $500 million for the repayment of the 2025 Senior Notes during the six months ended June 30, 2025. The decrease in net cash used was partially offset by (i) net borrowings of $290 million under the Revolving Credit Facility during the six months ended June 30, 2025 and (ii) an increase of $143 million in cash outflows for share repurchases for the six months ended June 30, 2026 compared to the six months ended June 30, 2025.
+Debt and Borrowing Capacity
+As of June 30, 2026, our total indebtedness, excluding the deduction for unamortized deferred financing costs and discount, was approximately $13.4 billion. No debt amounts were outstanding under the Revolving Credit Facility, which had an available borrowing capacity of $1,894 million after considering $106 million of letters of credit outstanding. For additional information on our total indebtedness and guarantees on our debt, refer to Note 4: "Debt" in our unaudited condensed consolidated financial statements.
+If we are unable to generate sufficient cash flow from operations in the future to service our debt, we may be required to reduce capital expenditures or issue additional equity securities. We do not have any material indebtedness outstanding that matures until April 2029, other than $600 million of outstanding senior notes due April 2027. We believe that we have sufficient sources of liquidity and access to debt financing to address the repayment of the April 2027 Senior Notes at or prior to their maturity date as well as all indebtedness that becomes due thereafter. Our ability to make scheduled principal payments and to pay interest on our debt depends on our future operating performance, which is subject to general conditions in or affecting the hospitality industry that may be beyond our control.
+Critical Accounting Estimates
+The preparation of our unaudited condensed consolidated financial statements in accordance with GAAP requires us to make estimates and assumptions that affect reported amounts and related disclosures. We have discussed the estimates and assumptions that we believe are critical because they involve a higher degree of judgment in their application and are based on information that is inherently uncertain in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025, and, during the six months ended June 30, 2026, there were no material changes to those critical accounting estimates that were previously disclosed.
+Item 3.    Quantitative and Qualitative Disclosures About Market Risk
+We are exposed to market risk primarily from changes in one-month SOFR, the benchmark rate for which the interest rate of the majority of our variable-rate indebtedness is based on, and foreign currency exchange rates. These rate changes may affect future income, cash flows and the fair value of the Company, its assets and its liabilities. In certain situations, we may seek to reduce volatility associated with changes in interest rates and foreign currency exchange rates by entering into derivative financial instruments intended to provide a hedge against a portion of the risks associated with such volatility. We continue to have exposure to such risks to the extent they are not hedged. We enter into derivative financial instruments to the extent they meet our objectives to reduce volatility in our results of operations and cash flows, and we do not use derivatives for speculative purposes. In March 2026, our interest rate swap with a notional amount of $1.6 billion matured. As such, the Company does not have any interest rate swaps outstanding to hedge its variable-rate indebtedness as of June 30, 2026. Our exposure to market risk has not otherwise materially changed from what was previously disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+Item 4.    Controls and Procedures
+Disclosure Controls and Procedures
+The Company maintains a set of disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) that are designed to ensure that information required to be disclosed by the Company in reports that it files or submits under the Exchange Act, is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to the Company's management, including its Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosures. The design of any disclosure controls and procedures is based in part upon certain assumptions about the likelihood
+26
+of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Any controls and procedures, no matter how well designed and operated, can provide only reasonable, not absolute, assurance of achieving the desired control objectives. In accordance with Rule 13a-15(b) of the Exchange Act, as of the end of the period covered by this Quarterly Report on Form 10-Q, an evaluation was carried out under the supervision and with the participation of the Company’s management, including its Chief Executive Officer and Chief Financial Officer, of the effectiveness of its disclosure controls and procedures. Based on that evaluation, the Company’s Chief Executive Officer and Chief Financial Officer concluded that the Company’s disclosure controls and procedures, as of the end of the period covered by this Quarterly Report on Form 10-Q, were effective to provide reasonable assurance that information required to be disclosed by the Company in reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms and is accumulated and communicated to the Company’s management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+Changes in Internal Control Over Financial Reporting
+There has been no change in the Company’s internal control over financial reporting during the Company’s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+27
+PART II. OTHER INFORMATION
+Item 1.     Legal Proceedings
+We are involved in various claims and lawsuits arising in the ordinary course of business, some of which include claims for substantial sums, including proceedings involving tort and other general liability claims, employee claims, antitrust claims, consumer protection claims and claims related to our management of certain hotels. We recognize a liability when we believe the loss is probable and can be reasonably estimated. Most occurrences involving liability, claims of negligence and employees are covered by indemnification from third-party hotel owners and/or policies that we hold with solvent insurance carriers. The ultimate results of claims and litigation cannot be predicted with certainty. We believe we have adequate reserves against such matters. We currently believe that the ultimate outcome of such lawsuits and proceedings will not, individually or in the aggregate, have a material adverse effect on our consolidated financial position, results of operations or cash flows. However, depending on the amount and timing, an unfavorable resolution of some or all of these matters could materially affect our future results of operations in a particular period.
+Item 1A. Risk Factors
+As of June 30, 2026, there have been no material changes from the risk factors previously disclosed under "Part I—Item 1A. Risk Factors" of our Annual Report on Form 10-K for the fiscal year ended December 31, 2025.
+Item 2.     Unregistered Sales of Equity Securities and Use of Proceeds
+(a) Unregistered Sales of Securities
+None.
+(b) Use of Proceeds
+None.
+(c) Issuer Purchases of Equity Securities
+The following table sets forth information regarding our purchases of shares of our common stock during the three months ended June 30, 2026:
+Total Number of Shares Purchased
+Average Price Paid per Share  (1)
+Total Number of Shares Purchased as Part of Publicly Announced Program  (2)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program  (2)
+(in millions)
+April 1, 2026 to April 30, 2026    909,117       $    323.41       909,117       $    3,647
+May 1, 2026 to May 31, 2026    1,141,934       319.65       1,141,934       3,282
+June 1, 2026 to June 30, 2026    799,291       341.57       799,291       3,009
+Total    2,850,342       326.99       2,850,342
+____________
+(1)  Includes commissions paid.
+(2)  Our share repurchase program was initially announced in February 2017; in January 2026, our board of directors authorized the repurchase of an additional $3.5 billion of our common stock under our stock repurchase program, bringing the total amount of repurchases of our common stock allowed under the program to $18.0 billion. Under this publicly announced program, we are authorized to repurchase shares through open market purchases, privately-negotiated transactions or otherwise in accordance with applicable federal securities laws, including through Rule 10b5-1 trading plans and under Rule 10b-18 of the Exchange Act. The repurchase program does not have an expiration date and may be suspended or discontinued at any time.
+Item 3.     Defaults Upon Senior Securities
+None.
+Item 4.     Mine Safety Disclosures
+Not applicable.
+28
+Item 5.     Other Information
+During the three months ended June 30, 2026, no director or officer (as defined in Rule 16a-1(f) of the Exchange Act) of the Company   adopted  , modified or   terminated   a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408 of Regulation S-K.
+Item 6.     Exhibits
+Exhibit Number     Exhibit Description
+3.1
+Restated Certificate of Incorporation of Hilton Worldwide Holdings Inc. (incorporated by reference to Exhibit 3.3 to the Company’s Current Report on Form 8-K filed on May 16, 2025).
+3.2
+Amended and Restated By-Laws of Hilton Worldwide Holdings Inc. (incorporated by reference to Exhibit 3.4 to the Company’s Current Report on Form 8-K filed on May 16, 2025).
+4.1
+Indenture with respect to the 5.500% Senior Notes   d  ue 2031, dated as of May 11, 2026, among Hi  l  ton Domestic Operating Company, Inc., the guarantors from time to time party thereto and Wilmington Trust, National Association, as trustee (incorporated by reference to Exhibit 4.1 to the Company's Current Report on Form 8-K filed on May 11, 2026).
+4.2
+Form of 5.500% Senior Note due 2031 (included in Exhibit 4.1).
+10.1
+Hilton   A  mended and Restated 2017 Omn  ibus Incentive Plan (incorporated by reference to Exhibit 10.1 to the Company's Current Report on For  m 8-K filed on May 18, 2026)  .  *
+31.1
+Certificate of Christopher J. Nassetta, President and Chief Executive Officer, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+31.2
+Certificate of Kevin J. Jacobs, Executive Vice President and Chief Financial Officer, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+32.1
+Certificate of Christopher J. Nassetta, President and Chief Executive Officer, pursuant to Section 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith).
+32.2
+Certificate of Kevin J. Jacobs, Executive Vice President and Chief Financial Officer, pursuant to Section 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (furnished herewith).
+101.INS
+Inline XBRL Instance Document - this instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document.
+101.CAL     Inline XBRL Taxonomy Extension Calculation Linkbase Document.
+101.DEF     Inline XBRL Taxonomy Extension Definition Linkbase Document.
+101.LAB     Inline XBRL Taxonomy Extension Label Linkbase Document.
+101.PRE     Inline XBRL Taxonomy Extension Presentation Linkbase Document.
+104     Cover Page Interactive Data File (embedded within the Inline XBRL document).
+____________
+*  This document has been identified as a management contract or compensatory plan or arrangement.
+The agreements and other documents filed as exhibits to this report are not intended to provide factual information or other disclosure other than with respect to the terms of the agreements or other documents themselves, and you should not rely on them for that purpose. In particular, any representations and warranties made by us in these agreements or other documents were made solely within the specific context of the relevant agreement or document and may not describe the actual state of affairs as of the date they were made or at any other time.
+29
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+HILTON WORLDWIDE HOLDINGS INC.
+By:     /s/ Christopher J. Nassetta
+Name:     Christopher J. Nassetta
+Title:     President and Chief Executive Officer
+By:     /s/ Kevin J. Jacobs
+Name:     Kevin J. Jacobs
+Title:
+Executive Vice President and Chief Financial Officer
+Date: July 28, 2026
+30

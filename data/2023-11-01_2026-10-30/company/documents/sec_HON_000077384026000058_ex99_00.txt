@@ -1,0 +1,392 @@
+XML
+145
+R99.htm
+IDEA: XBRL DOCUMENT
+v3.26.1
+DERIVATIVE INSTRUMENTS AND HEDGING TRANSACTIONS - Schedule of Derivative Instruments in Statement of Financial Position (Details) - USD ($)
+$ in Millions
+Dec. 31, 2025
+Dec. 31, 2024
+Derivative [Line Items]
+Notional
+$ 20,398
+$ 20,269
+Fair Value Asset
+18
+141
+Fair Value (Liability)
+(905)
+(210)
+Cross currency swap agreements
+Derivative [Line Items]
+Fair Value Asset
+0
+124
+Fair Value (Liability)
+(801)
+(56)
+Designated as Hedging Instrument
+Derivative [Line Items]
+Notional
+10,716
+11,916
+Fair Value Asset
+14
+138
+Fair Value (Liability)
+(900)
+(205)
+Designated as Hedging Instrument | Derivatives in fair value hedging relationships | Interest rate swap agreements
+Derivative [Line Items]
+Notional
+4,068
+3,899
+Fair Value Asset
+14
+3
+Fair Value (Liability)
+(93)
+(139)
+Designated as Hedging Instrument | Derivatives in cash flow hedging relationships | Foreign currency exchange contracts
+Derivative [Line Items]
+Notional
+509
+802
+Fair Value Asset
+0
+11
+Fair Value (Liability)
+(6)
+(10)
+Designated as Hedging Instrument | Derivatives in cash flow hedging relationships | Commodity contracts
+Derivative [Line Items]
+Notional
+0
+1
+Fair Value Asset
+0
+0
+Fair Value (Liability)
+0
+0
+Designated as Hedging Instrument | Derivatives in net investment hedging relationships | Cross currency swap agreements
+Derivative [Line Items]
+Notional
+6,139
+7,214
+Fair Value Asset
+0
+124
+Fair Value (Liability)
+(801)
+(56)
+Derivatives not designated as hedging instruments | Foreign currency exchange contracts
+Derivative [Line Items]
+Notional
+9,682
+8,353
+Fair Value Asset
+4
+3
+Fair Value (Liability)
+$ (5)
+$ (5)
+X
+- Definition
+Fair value, before effects of master netting arrangements, of a financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes assets elected not to be offset. Excludes assets not subject to a master netting arrangement.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 815
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 7A
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480434/815-10-50-7A
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 22
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 21
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147483444/210-20-55-21
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 20
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147483444/210-20-55-20
+Reference 5: http://www.xbrl.org/2003/role/exampleRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 15
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147483444/210-20-55-15
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 3
+-Subparagraph (a)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 4D
+-Subparagraph (c)(2)
+-SubTopic 20
+-Topic 860
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147481326/860-20-50-4D
++ Details
+Name:
+us-gaap_DerivativeFairValueOfDerivativeAsset
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- Definition
+Fair value, before effects of master netting arrangements, of a financial liability or contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes liabilities elected not to be offset. Excludes liabilities not subject to a master netting arrangement.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 815
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 7A
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480434/815-10-50-7A
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 22
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147483444/210-20-55-22
+Reference 3: http://www.xbrl.org/2003/role/exampleRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 21
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147483444/210-20-55-21
+Reference 4: http://www.xbrl.org/2003/role/exampleRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 20
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147483444/210-20-55-20
+Reference 5: http://www.xbrl.org/2003/role/exampleRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 15
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147483444/210-20-55-15
+Reference 6: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 3
+-Subparagraph (a)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147483466/210-20-50-3
+Reference 7: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 4D
+-Subparagraph (c)(2)
+-SubTopic 20
+-Topic 860
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147481326/860-20-50-4D
++ Details
+Name:
+us-gaap_DerivativeFairValueOfDerivativeLiability
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- Definition
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
++ References
+Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+-Topic 815
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 25
+-Paragraph 6A
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480682/815-20-25-6A
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 815
+-SubTopic 40
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 5
+-Subparagraph (f)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480237/815-40-50-5
++ Details
+Name:
+us-gaap_DerivativeLineItems
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Nominal or face amount used to calculate payment on derivative.
++ References
+Reference 1: http://www.xbrl.org/2003/role/exampleRef
+-Topic 815
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 181
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480401/815-10-55-181
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+-Topic 815
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1B
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480434/815-10-50-1B
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+-Topic 815
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1A
+-Subparagraph (d)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480434/815-10-50-1A
++ Details
+Name:
+us-gaap_DerivativeNotionalAmount
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+na
+Period Type:
+instant
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_CurrencySwapMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_HedgingDesignationAxis=us-gaap_DesignatedAsHedgingInstrumentMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=us-gaap_FairValueHedgingMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_InterestRateSwapMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=us-gaap_CashFlowHedgingMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeContractMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_CommodityContractMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentsGainLossByHedgingRelationshipAxis=us-gaap_NetInvestmentHedgingMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_HedgingDesignationAxis=us-gaap_NondesignatedMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:

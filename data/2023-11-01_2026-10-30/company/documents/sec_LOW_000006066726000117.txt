@@ -1,0 +1,942 @@
+low-20260731
+0000060667  false  2026  Q2  01-29        xbrli:shares    iso4217:USD    xbrli:pure      iso4217:USD    xbrli:shares      low:segment    low:business_line     0000060667    2026-01-31  2026-07-31      0000060667    2026-08-25      0000060667    2026-05-02  2026-07-31      0000060667    2025-05-03  2025-08-01      0000060667    2025-02-01  2025-08-01      0000060667    2026-07-31      0000060667    2025-08-01      0000060667    2026-01-30      0000060667   us-gaap:CommonStockMember     2026-05-01      0000060667   us-gaap:AdditionalPaidInCapitalMember     2026-05-01      0000060667   us-gaap:RetainedEarningsMember     2026-05-01      0000060667   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-05-01      0000060667    2026-05-01      0000060667   us-gaap:RetainedEarningsMember     2026-05-02  2026-07-31      0000060667   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-05-02  2026-07-31      0000060667   us-gaap:AdditionalPaidInCapitalMember     2026-05-02  2026-07-31      0000060667   us-gaap:CommonStockMember     2026-05-02  2026-07-31      0000060667   us-gaap:CommonStockMember     2026-07-31      0000060667   us-gaap:AdditionalPaidInCapitalMember     2026-07-31      0000060667   us-gaap:RetainedEarningsMember     2026-07-31      0000060667   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-07-31      0000060667   us-gaap:CommonStockMember     2026-01-30      0000060667   us-gaap:AdditionalPaidInCapitalMember     2026-01-30      0000060667   us-gaap:RetainedEarningsMember     2026-01-30      0000060667   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-30      0000060667   us-gaap:RetainedEarningsMember     2026-01-31  2026-07-31      0000060667   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-31  2026-07-31      0000060667   us-gaap:AdditionalPaidInCapitalMember     2026-01-31  2026-07-31      0000060667   us-gaap:CommonStockMember     2026-01-31  2026-07-31      0000060667   us-gaap:CommonStockMember     2025-05-02      0000060667   us-gaap:AdditionalPaidInCapitalMember     2025-05-02      0000060667   us-gaap:RetainedEarningsMember     2025-05-02      0000060667   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-05-02      0000060667    2025-05-02      0000060667   us-gaap:RetainedEarningsMember     2025-05-03  2025-08-01      0000060667   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-05-03  2025-08-01      0000060667   us-gaap:AdditionalPaidInCapitalMember     2025-05-03  2025-08-01      0000060667   us-gaap:CommonStockMember     2025-05-03  2025-08-01      0000060667   us-gaap:CommonStockMember     2025-08-01      0000060667   us-gaap:AdditionalPaidInCapitalMember     2025-08-01      0000060667   us-gaap:RetainedEarningsMember     2025-08-01      0000060667   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-08-01      0000060667   us-gaap:CommonStockMember     2025-01-31      0000060667   us-gaap:AdditionalPaidInCapitalMember     2025-01-31      0000060667   us-gaap:RetainedEarningsMember     2025-01-31      0000060667   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-31      0000060667    2025-01-31      0000060667   us-gaap:RetainedEarningsMember     2025-02-01  2025-08-01      0000060667   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-02-01  2025-08-01      0000060667   us-gaap:AdditionalPaidInCapitalMember     2025-02-01  2025-08-01      0000060667   us-gaap:CommonStockMember     2025-02-01  2025-08-01      0000060667   low:IEEPATariffRefundMember     2026-05-02  2026-07-31      0000060667   low:ArtisanDesignGroupMember     2025-06-02  2025-06-02      0000060667   low:FoundationBuildingMaterialsMember     2025-10-09  2025-10-09      0000060667   us-gaap:ProductMember     2026-05-02  2026-07-31      0000060667   us-gaap:ProductMember     2025-05-03  2025-08-01      0000060667   us-gaap:ProductMember     2026-01-31  2026-07-31      0000060667   us-gaap:ProductMember     2025-02-01  2025-08-01      0000060667   us-gaap:ServiceMember     2026-05-02  2026-07-31      0000060667   us-gaap:ServiceMember     2025-05-03  2025-08-01      0000060667   us-gaap:ServiceMember     2026-01-31  2026-07-31      0000060667   us-gaap:ServiceMember     2025-02-01  2025-08-01      0000060667   us-gaap:ProductAndServiceOtherMember     2026-05-02  2026-07-31      0000060667   us-gaap:ProductAndServiceOtherMember     2025-05-03  2025-08-01      0000060667   us-gaap:ProductAndServiceOtherMember     2026-01-31  2026-07-31      0000060667   us-gaap:ProductAndServiceOtherMember     2025-02-01  2025-08-01      0000060667   low:HardlinesMember  us-gaap:OperatingSegmentsMember     2026-05-02  2026-07-31      0000060667   low:HardlinesMember  us-gaap:OperatingSegmentsMember     2025-05-03  2025-08-01      0000060667   low:HardlinesMember  us-gaap:OperatingSegmentsMember     2026-01-31  2026-07-31      0000060667   low:HardlinesMember  us-gaap:OperatingSegmentsMember     2025-02-01  2025-08-01      0000060667   low:HomeDecorMember  us-gaap:OperatingSegmentsMember     2026-05-02  2026-07-31      0000060667   low:HomeDecorMember  us-gaap:OperatingSegmentsMember     2025-05-03  2025-08-01      0000060667   low:HomeDecorMember  us-gaap:OperatingSegmentsMember     2026-01-31  2026-07-31      0000060667   low:HomeDecorMember  us-gaap:OperatingSegmentsMember     2025-02-01  2025-08-01      0000060667   low:BuildingProductsMember  us-gaap:OperatingSegmentsMember     2026-05-02  2026-07-31      0000060667   low:BuildingProductsMember  us-gaap:OperatingSegmentsMember     2025-05-03  2025-08-01      0000060667   low:BuildingProductsMember  us-gaap:OperatingSegmentsMember     2026-01-31  2026-07-31      0000060667   low:BuildingProductsMember  us-gaap:OperatingSegmentsMember     2025-02-01  2025-08-01      0000060667   low:OtherSalesMember  us-gaap:OperatingSegmentsMember     2026-05-02  2026-07-31      0000060667   low:OtherSalesMember  us-gaap:OperatingSegmentsMember     2025-05-03  2025-08-01      0000060667   low:OtherSalesMember  us-gaap:OperatingSegmentsMember     2026-01-31  2026-07-31      0000060667   low:OtherSalesMember  us-gaap:OperatingSegmentsMember     2025-02-01  2025-08-01      0000060667   us-gaap:OperatingSegmentsMember     2026-05-02  2026-07-31      0000060667   us-gaap:OperatingSegmentsMember     2025-05-03  2025-08-01      0000060667   us-gaap:OperatingSegmentsMember     2026-01-31  2026-07-31      0000060667   us-gaap:OperatingSegmentsMember     2025-02-01  2025-08-01      0000060667   us-gaap:MaterialReconcilingItemsMember     2026-05-02  2026-07-31      0000060667   us-gaap:MaterialReconcilingItemsMember     2025-05-03  2025-08-01      0000060667   us-gaap:MaterialReconcilingItemsMember     2026-01-31  2026-07-31      0000060667   us-gaap:MaterialReconcilingItemsMember     2025-02-01  2025-08-01      0000060667   country:US     2026-05-02  2026-07-31      0000060667   country:US     2025-05-03  2025-08-01      0000060667   country:US     2026-01-31  2026-07-31      0000060667   country:US     2025-02-01  2025-08-01      0000060667   country:CA     2026-05-02  2026-07-31      0000060667   country:CA     2025-05-03  2025-08-01      0000060667   country:CA     2026-01-31  2026-07-31      0000060667   country:CA     2025-02-01  2025-08-01      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-07-31      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-08-01      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-01-30      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:USTreasuryNotesSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-07-31      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:USTreasuryNotesSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-08-01      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:USTreasuryNotesSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-01-30      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-07-31      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-08-01      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-01-30      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:ForeignGovernmentDebtMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-07-31      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:ForeignGovernmentDebtMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-08-01      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:ForeignGovernmentDebtMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-01-30      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-07-31      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-08-01      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-01-30      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:MunicipalBondsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-07-31      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:MunicipalBondsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-08-01      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:MunicipalBondsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-01-30      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-07-31      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-08-01      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-01-30      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueMeasurementsRecurringMember  low:FixedToFloatingInterestRateSwapsMember  us-gaap:FairValueInputsLevel2Member     2026-07-31      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueMeasurementsRecurringMember  low:FixedToFloatingInterestRateSwapsMember  us-gaap:FairValueInputsLevel2Member     2025-08-01      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueMeasurementsRecurringMember  low:FixedToFloatingInterestRateSwapsMember  us-gaap:FairValueInputsLevel2Member     2026-01-30      0000060667   us-gaap:FairValueInputsLevel3Member     2026-01-30      0000060667   us-gaap:FairValueInputsLevel3Member     2025-08-01      0000060667   us-gaap:FairValueInputsLevel3Member     2026-07-31      0000060667   us-gaap:UnsecuredDebtMember     2026-07-31      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:UnsecuredDebtMember  us-gaap:FairValueInputsLevel1Member     2026-07-31      0000060667   us-gaap:UnsecuredDebtMember     2025-08-01      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:UnsecuredDebtMember  us-gaap:FairValueInputsLevel1Member     2025-08-01      0000060667   us-gaap:UnsecuredDebtMember     2026-01-30      0000060667   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:UnsecuredDebtMember  us-gaap:FairValueInputsLevel1Member     2026-01-30      0000060667   low:RetailHomeImprovementMember     2026-01-30      0000060667   low:OtherMember     2026-01-30      0000060667   low:RetailHomeImprovementMember     2026-01-31  2026-07-31      0000060667   low:OtherMember     2026-01-31  2026-07-31      0000060667   low:RetailHomeImprovementMember     2026-07-31      0000060667   low:OtherMember     2026-07-31      0000060667   us-gaap:CustomerRelatedIntangibleAssetsMember     2026-07-31      0000060667   us-gaap:CustomerRelatedIntangibleAssetsMember     2025-08-01      0000060667   us-gaap:CustomerRelatedIntangibleAssetsMember     2026-01-30      0000060667   us-gaap:TrademarksAndTradeNamesMember     2026-07-31      0000060667   us-gaap:TrademarksAndTradeNamesMember     2025-08-01      0000060667   us-gaap:TrademarksAndTradeNamesMember     2026-01-30      0000060667   us-gaap:OtherIntangibleAssetsMember     2026-07-31      0000060667   us-gaap:OtherIntangibleAssetsMember     2025-08-01      0000060667   us-gaap:OtherIntangibleAssetsMember     2026-01-30      0000060667   us-gaap:LineOfCreditMember  low:A2025CreditAgreementMember  us-gaap:RevolvingCreditFacilityMember     2025-09-16      0000060667   us-gaap:LineOfCreditMember  low:A2025CreditAgreementMember  us-gaap:RevolvingCreditFacilityMember     2025-09-16  2025-09-16      0000060667   us-gaap:LineOfCreditMember  low:ThirdAmendedAndRestatedCreditAgreementMember  us-gaap:RevolvingCreditFacilityMember     2025-09-16      0000060667   us-gaap:LineOfCreditMember  low:ThirdAmendedAndRestatedCreditAgreementMember  us-gaap:RevolvingCreditFacilityMember     2025-09-16  2025-09-16      0000060667   us-gaap:LineOfCreditMember  low:A2023CreditAgreementMember  us-gaap:RevolvingCreditFacilityMember     2025-09-16  2025-09-16      0000060667   us-gaap:LineOfCreditMember  low:A2023CreditAgreementMember  us-gaap:RevolvingCreditFacilityMember     2025-09-16      0000060667   low:CommercialPaperProgramMember     2026-01-30      0000060667   low:CommercialPaperProgramMember     2025-08-01      0000060667   low:LongTermCreditAgreementsMember     2026-01-30      0000060667   low:LongTermCreditAgreementsMember     2025-08-01      0000060667   us-gaap:LineOfCreditMember  low:RevolvingCreditFacilitiesMember  us-gaap:RevolvingCreditFacilityMember     2025-09-16      0000060667   us-gaap:LineOfCreditMember  low:RevolvingCreditFacilitiesMember  us-gaap:RevolvingCreditFacilityMember     2025-09-16  2025-09-16      0000060667   us-gaap:LineOfCreditMember  low:RevolvingCreditFacilitiesMember  us-gaap:RevolvingCreditFacilityMember     2026-07-31      0000060667   us-gaap:UnsecuredDebtMember  low:A2025TermLoanMember     2025-09-16      0000060667   us-gaap:UnsecuredDebtMember  low:A2025TermLoanMember     2026-07-31      0000060667   us-gaap:UnsecuredDebtMember  low:September2025NotesMember     2025-09-30      0000060667   us-gaap:UnsecuredDebtMember  low:UnsecuredNotes3.950Member     2025-09-30      0000060667   us-gaap:UnsecuredDebtMember  low:UnsecuredNotes4.000Member     2025-09-30      0000060667   us-gaap:UnsecuredDebtMember  low:UnsecuredNotes4.250Member     2025-09-30      0000060667   us-gaap:UnsecuredDebtMember  low:UnsecuredNotes4.500Member     2025-09-30      0000060667   us-gaap:UnsecuredDebtMember  low:UnsecuredNotes4.850Member     2025-09-30      0000060667   low:September2025NotesMember     2026-01-31  2026-07-31      0000060667   us-gaap:DesignatedAsHedgingInstrumentMember  low:FixedToFloatingInterestRateSwapsMember  us-gaap:FairValueHedgingMember     2026-07-31      0000060667   us-gaap:DesignatedAsHedgingInstrumentMember  low:FixedToFloatingInterestRateSwapsMember  us-gaap:FairValueHedgingMember     2025-08-01      0000060667   us-gaap:DesignatedAsHedgingInstrumentMember  low:FixedToFloatingInterestRateSwapsMember  us-gaap:FairValueHedgingMember     2026-01-30      0000060667   low:ShareRepurchaseProgramMember     2026-07-31      0000060667   low:ShareRepurchaseProgramMember     2026-05-02  2026-07-31      0000060667   low:ShareRepurchaseProgramMember     2025-05-03  2025-08-01      0000060667   low:SharesRepurchasedFromEmployeesMember     2026-05-02  2026-07-31      0000060667   low:SharesRepurchasedFromEmployeesMember     2025-05-03  2025-08-01      0000060667   low:ShareRepurchaseProgramMember     2026-01-31  2026-07-31      0000060667   low:ShareRepurchaseProgramMember     2025-02-01  2025-08-01      0000060667   low:SharesRepurchasedFromEmployeesMember     2026-01-31  2026-07-31      0000060667   low:SharesRepurchasedFromEmployeesMember     2025-02-01  2025-08-01      0000060667   low:FoundationBuildingMaterialsMember     2026-01-31  2026-07-31      0000060667   low:ReportableSegmentMember     2026-05-02  2026-07-31      0000060667   low:ReportableSegmentMember     2025-05-03  2025-08-01      0000060667   low:ReportableSegmentMember     2026-01-31  2026-07-31      0000060667   low:ReportableSegmentMember     2025-02-01  2025-08-01
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+(Mark One)
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  July 31, 2026
+or
+☐     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ______ to  ______
+Commission File Number      1-7898
+LOWE’S       COMPANIES, INC.
+(Exact name of registrant as specified in its charter)
+North Carolina       56-0578072
+(State or other jurisdiction of incorporation or organization)     (I.R.S. Employer Identification No.)
+1000 Lowes Blvd. ,  Mooresville ,  NC
+28117
+(Address of principal executive offices)     (Zip Code)
+Registrant’s telephone number, including area code:
+( 704 )  758-1000
+Former name, former address and former fiscal year, if changed since last report:   Not Applicable
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol(s)    Name of each exchange on which registered
+Common Stock, par value $0.50 per share      LOW      New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   ☒      Yes       ☐   No
+Indicate by check mark whether the registrant has submitted electronically, every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).   ☒      Yes       ☐    No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company.  See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer     ☒     Accelerated filer    ☐
+Non-accelerated filer    ☐     Smaller reporting company     ☐
+Emerging growth company     ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).   ☐   Yes      ☒      No
+Indicate the number of shares outstanding of each of the issuer’s classes of common stock, as of the latest practicable date.
+CLASS     OUTSTANDING AT 8/25/2026
+Common Stock, $0.50 par value      561,054,019
+LOWE’S COMPANIES, INC.
+- TABLE OF CONTENTS -
+Page No.
+Forward-Looking Statements
+ii
+PART I - Financial Information
+1
+Item 1.
+Financial Statements
+1
+Consolidated Statements of Earnings
+1
+Consolidated Statements of Comprehensive Income
+1
+Consolidated Balance Sheets
+2
+Consolidated Statements of Shareholders’ Deficit
+3
+Consolidated Statements of Cash Flows
+5
+Notes to Consolidated Financial Statements
+6
+Note 1: Summary of Significant Accounting Policies
+6
+Note 2: Acquisitions
+6
+Note 3: Revenue
+7
+Note 4: Restricted Investments
+8
+Note 5: Fair Value Measurements
+9
+Note 6: Goodwill and Intangible Assets
+9
+Note 7: Accounts Payable
+11
+Note 8: Debt
+11
+Note 9: Derivative Instruments
+12
+Note 10: Shareholders’ Deficit
+12
+Note 11: Earnings Per Share
+13
+Note 12: Supplemental Disclosure
+14
+Note 13: Segment Information
+14
+Report of Independent Registered Public Accounting Firm
+17
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+18
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+24
+Item 4.
+Controls and Procedures
+24
+PART II - Other Information
+26
+Item 1.
+Legal Proceedings
+26
+Item 1A.
+Risk Factors
+26
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+26
+Item 5.
+Other Information
+26
+Item 6.
+Exhibits
+27
+Signature
+28
+i
+Table of Contents
+FORWARD-LOOKING STATEMENTS
+This Form 10-Q includes “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995.  Statements including words such as “believe”, “expect”, “anticipate”, “plan”, “desire”, “project”, “estimate”, “intend”, “will”, “should”, “could”, “would”, “may”, “strategy”, “potential”, “opportunity”, “outlook”, “scenario”, “guidance”, and similar expressions are forward-looking statements.  Forward-looking statements involve, among other things, expectations, projections, and assumptions about future financial and operating results, objectives (including objectives related to environmental and social matters), business outlook, priorities, sales growth, shareholder value, capital expenditures, cash flows, the housing market, the home improvement industry, demand for products and services including customer acceptance of new offerings and initiatives, macroeconomic conditions and consumer spending, trade policy changes and additional tariffs and tariff refunds, share repurchases, and Lowe’s strategic initiatives, including those relating to acquisitions and dispositions and the impact of such transactions on our strategic and operational plans and financial results.  Such statements involve risks and uncertainties and we can give no assurance that they will prove to be correct.  Actual results may differ materially from those expressed or implied in such statements.
+A wide variety of potential risks, uncertainties, and other factors could materially affect our ability to achieve the results either expressed or implied by these forward-looking statements including, but not limited to, changes in general economic conditions, such as volatility and/or lack of liquidity from time to time in U.S. and world financial markets and the consequent reduced availability and/or higher cost of borrowing to Lowe’s and its customers, slower rates of growth in real disposable personal income that could affect the rate of growth in consumer spending, inflation and its impacts on discretionary spending and on our costs, shortages, and other disruptions in the labor supply, interest rate and currency fluctuations, home price appreciation or decreasing housing turnover, age of housing stock, the availability of consumer credit and of mortgage financing, trade policy changes or additional tariffs, outbreaks of pandemics, fluctuations in fuel and energy costs, inflation or deflation of commodity prices, natural disasters, geopolitical or armed conflicts, acts of both domestic and international terrorism, and other factors that can negatively affect our customers.
+Investors and others should carefully consider the foregoing factors and other uncertainties, risks and potential events including, but not limited to, those described in “Item 1A - Risk Factors” and “Item 7 - Management’s Discussion and Analysis of Financial Condition and Results of Operations - Critical Accounting Policies and Estimates” in our most recent Annual Report on Form 10-K and as may be updated from time to time in our quarterly reports on Form 10-Q or other subsequent filings with the SEC.  All such forward-looking statements speak only as of the date they are made, and we do not undertake any obligation to update these statements other than as required by law.
+ii
+Table of Contents
+Part I - FINANCIAL INFORMATION
+Item 1. Financial Statements
+Lowe’s Companies, Inc.
+Consolidated Statements of Earnings (Unaudited)
+In Millions, Except Per Share and Percentage Data
+Three Months Ended     Six Months Ended
+July 31, 2026     August 1, 2025     July 31, 2026     August 1, 2025
+Current Earnings    Amount     % Sales     Amount     % Sales     Amount     % Sales     Amount     % Sales
+Net sales    $     25,956           100.00 %     $     23,959           100.00        %     $     49,034           100.00        %     $     44,888           100.00 %
+Cost of sales     17,379         66.96       15,858         66.19       32,914         67.13       29,800         66.39
+Gross margin     8,577           33.04       8,101           33.81       16,120           32.87       15,088           33.61
+Expenses:
+Selling, general and administrative     4,456         17.17       4,175         17.42       8,879         18.10       8,222         18.31
+Depreciation and amortization     572         2.20       457         1.91       1,138         2.32       902         2.01
+Operating income     3,549           13.67       3,469           14.48       6,103           12.45       5,964           13.29
+Interest – net     374         1.44       313         1.31       773         1.58       650         1.45
+Pre-tax earnings     3,175           12.23       3,156           13.17       5,330           10.87       5,314           11.84
+Income tax provision     776         2.99       758         3.16       1,303         2.66       1,276         2.84
+Net earnings    $     2,399           9.24 %     $     2,398           10.01 %     $     4,027           8.21        %     $     4,038           9.00 %
+Weighted average common shares outstanding - basic     559           559           559           559
+Basic earnings per common share    $     4.28            $     4.28            $     7.18            $     7.21
+Weighted average common shares outstanding - diluted     560           560           560           560
+Diluted earnings per common share    $     4.27            $     4.27            $     7.17            $     7.19
+See accompanying notes to the consolidated financial statements (unaudited).
+Lowe’s Companies, Inc.
+Consolidated Statements of Comprehensive Income (Unaudited)
+In Millions, Except Percentage Data
+Three Months Ended     Six Months Ended
+July 31, 2026     August 1, 2025     July 31, 2026     August 1, 2025
+Amount     % Sales     Amount     % Sales     Amount     % Sales     Amount     % Sales
+Net earnings    $     2,399           9.24        %     $     2,398           10.01        %     $     4,027           8.21        %     $     4,038           9.00        %
+Cash flow hedges   –   net of tax
+( 3 )      ( 0.01 )     ( 4 )      ( 0.01 )     ( 7 )      ( 0.02 )     ( 7 )      ( 0.02 )
+Other    ( 1 )       —      ( 1 )      ( 0.01 )     ( 2 )       —       —         —
+Other comprehensive loss    ( 4 )      ( 0.01 )     ( 5 )      ( 0.02 )     ( 9 )      ( 0.02 )     ( 7 )      ( 0.02 )
+Comprehensive income    $     2,395           9.23        %     $     2,393           9.99        %     $     4,018           8.19        %     $     4,031           8.98        %
+See accompanying notes to the consolidated financial statements (unaudited).
+1
+Table of Contents
+Lowe’s Companies, Inc.
+Consolidated Balance Sheets (Unaudited)
+In Millions, Except Par Value Data
+July 31, 2026     August 1, 2025     January 30, 2026
+Assets
+Current assets:
+Cash and cash equivalents     $     3,172        $     4,860        $     982
+Short-term investments      235         396         370
+Receivables - net      1,238         320         1,090
+Merchandise inventory - net      17,737         16,342         17,300
+Other current assets      960         721         1,213
+Total current assets      23,342           22,639           20,955
+Property, less accumulated depreciation      18,276         17,708         18,362
+Operating lease right-of-use assets      4,071         3,887         4,303
+Long-term investments      179         273         319
+Deferred income taxes - net      —         140         —
+Intangible assets - net      5,709         976         5,908
+Goodwill      3,957         691         3,945
+Other assets      347         300         352
+Total assets     $     55,881          $     46,614          $     54,144
+Liabilities and shareholders' deficit
+Current liabilities:
+Current maturities of long-term debt     $     2,352        $     4,175        $     2,431
+Current operating lease liabilities      733         536         713
+Accounts payable      11,076         9,513         9,762
+Accrued compensation and employee benefits      1,168         1,098         1,285
+Deferred revenue      1,609         1,558         1,477
+Other current liabilities      4,194         4,742         3,795
+Total current liabilities      21,132           21,622           19,463
+Long-term debt, excluding current maturities      35,204         30,548         37,490
+Noncurrent operating lease liabilities      3,734         3,801         4,043
+Deferred income taxes - net      1,201         —         1,039
+Deferred revenue - Lowe's protection plans      1,253         1,283         1,262
+Other liabilities      794         760         764
+Total liabilities      63,318           58,014           64,061
+Shareholders' deficit:
+Preferred stock, $   5    par value: Authorized –    5.0    million shares; Issued and outstanding –       none
+—         —         —
+Common stock, $   0.50    par value: Authorized –    5.6    billion shares; Issued and outstanding –   561   million,   561   million, and   561   million, respectively
+281         280         281
+Capital in excess of par value      207         147         370
+Accumulated deficit     ( 8,187 )      ( 12,108 )      ( 10,839 )
+Accumulated other comprehensive income      262         281         271
+Total shareholders' deficit     ( 7,437 )      ( 11,400 )      ( 9,917 )
+Total liabilities and shareholders' deficit     $     55,881          $     46,614          $     54,144
+See accompanying notes to the consolidated financial statements (unaudited).
+2
+Table of Contents
+Lowe’s Companies, Inc.
+Consolidated Statements of Shareholders’ Deficit (Unaudited)
+In Millions
+Three Months Ended July 31, 2026
+Common Stock     Capital in Excess
+of Par Value     Accumulated Deficit     Accumulated Other
+Comprehensive Income         Total
+Shares     Amount
+Balance May 1, 2026     561          $     280          $     68          $    ( 9,884 )      $     266              $    ( 9,270 )
+Net earnings    —       —       —        2,399        —            2,399
+Other comprehensive loss    —       —       —       —       ( 4 )          ( 4 )
+Cash dividends declared, $ 1.25  per share
+—       —       —       ( 702 )      —           ( 702 )
+Share-based payment expense     —       —        73        —       —            73
+Repurchases of common stock     —       —       ( 2 )      —       —           ( 2 )
+Issuance of common stock under share-based payment plans    —        1         68        —       —            69
+Balance July 31, 2026     561          $     281          $     207          $    ( 8,187 )      $     262              $    ( 7,437 )
+Six Months Ended July 31, 2026
+Common Stock     Capital in Excess
+of Par Value     Accumulated Deficit     Accumulated Other
+Comprehensive Income         Total
+Shares     Amount
+Balance January 30, 2026     561          $     281          $     370          $    ( 10,839 )      $     271              $    ( 9,917 )
+Net earnings    —       —       —        4,027        —            4,027
+Other comprehensive loss    —       —       —       —       ( 9 )          ( 9 )
+Cash dividends declared, $ 2.45  per share
+—       —       —       ( 1,375 )      —           ( 1,375 )
+Share-based payment expense     —       —        133        —       —            133
+Repurchases of common stock     ( 1 )      ( 1 )      ( 366 )      —       —           ( 367 )
+Issuance of common stock under share-based payment plans     1         1         70        —       —            71
+Balance July 31, 2026     561          $     281          $     207          $    ( 8,187 )      $     262              $    ( 7,437 )
+3
+Table of Contents
+Three Months Ended August 1, 2025
+Common Stock     Capital in Excess
+of Par Value     Accumulated Deficit     Accumulated Other
+Comprehensive Income         Total
+Shares     Amount
+Balance May 2, 2025     560          $     280          $     13          $    ( 13,833 )      $     286              $    ( 13,254 )
+Net earnings    —       —       —        2,398        —            2,398
+Other comprehensive loss    —       —       —       —       ( 5 )          ( 5 )
+Cash dividends declared, $ 1.20  per share
+—       —       —       ( 673 )      —           ( 673 )
+Share-based payment expense    —       —        64        —       —            64
+Repurchases of common stock    —       —        1        —       —            1
+Issuance of common stock under share-based payment plans     1        —        69        —       —            69
+Balance August 1, 2025     561          $     280          $     147          $    ( 12,108 )      $     281              $    ( 11,400 )
+Six Months Ended August 1, 2025
+Common Stock     Capital in Excess
+of Par Value     Accumulated Deficit     Accumulated Other
+Comprehensive Income         Total
+Shares     Amount
+Balance January 31, 2025     560          $     280          $     —          $    ( 14,799 )      $     288              $    ( 14,231 )
+Net earnings    —       —       —        4,038        —            4,038
+Other comprehensive loss    —       —       —       —       ( 7 )          ( 7 )
+Cash dividends declared, $ 2.35  per share
+—       —       —       ( 1,317 )      —           ( 1,317 )
+Share-based payment expense    —       —        117        —       —            117
+Repurchases of common stock    —       ( 1 )      ( 40 )      ( 30 )      —           ( 71 )
+Issuance of common stock under share-based payment plans     1         1         70        —       —            71
+Balance August 1, 2025     561          $     280          $     147          $    ( 12,108 )      $     281              $    ( 11,400 )
+See accompanying notes to the consolidated financial statements (unaudited).
+4
+Table of Contents
+Lowe’s Companies, Inc.
+Consolidated Statements of Cash Flows (Unaudited)
+In Millions
+Six Months Ended
+July 31, 2026     August 1, 2025
+Cash flows from operating activities:
+Net earnings    $     4,027        $     4,038
+Adjustments to reconcile net earnings to net cash provided by operating activities:
+Depreciation and amortization     1,292         1,022
+Noncash lease expense     338         267
+Deferred income taxes     165         70
+Loss on property and other assets - net     15         30
+Share-based payment expense     132         117
+Changes in operating assets and liabilities:
+Receivables - net    ( 157 )      ( 22 )
+Merchandise inventory – net    ( 436 )       1,173
+Other operating assets     236         20
+Accounts payable     1,313         150
+Other operating liabilities     84         745
+Net cash provided by operating activities     7,009           7,610
+Cash flows from investing activities:
+Purchases of investments    ( 808 )      ( 845 )
+Proceeds from sale/maturity of investments     1,079         827
+Capital expenditures    ( 1,063 )      ( 1,013 )
+Proceeds from sale of property and other long-term assets     8         7
+Acquisition of business - net    ( 5 )      ( 1,314 )
+Other – net     28        ( 5 )
+Net cash used in investing activities    ( 761 )      ( 2,343 )
+Cash flows from financing activities:
+Repayment of debt    ( 2,397 )      ( 796 )
+Proceeds from issuance of common stock under share-based payment plans     71         70
+Cash dividend payments    ( 1,346 )      ( 1,290 )
+Repurchases of common stock    ( 366 )      ( 113 )
+Other – net    ( 20 )      ( 39 )
+Net cash used in financing activities    ( 4,058 )      ( 2,168 )
+Net increase in cash and cash equivalents     2,190         3,099
+Cash and cash equivalents, beginning of period     982         1,761
+Cash and cash equivalents, end of period    $     3,172          $     4,860
+See accompanying notes to the consolidated financial statements (unaudited).
+5
+Table of Contents
+Lowe’s Companies, Inc.
+Notes to Consolidated Financial Statements (Unaudited)
+Note 1:  Summary of Significant Accounting Policies
+Basis of Presentation
+The accompanying condensed consolidated financial statements (unaudited) and notes to the condensed consolidated financial statements (unaudited) are presented in accordance with the rules and regulations of the Securities and Exchange Commission and do not include all the disclosures normally required in annual consolidated financial statements prepared in accordance with accounting principles generally accepted in the United States of America (GAAP).  The condensed consolidated financial statements (unaudited), in the opinion of management, contain all normal recurring adjustments necessary to present fairly the consolidated balance sheets as of July 31, 2026, and August 1, 2025, and the statements of earnings, comprehensive income, and shareholders’ deficit for the three and six months ended July 31, 2026, and August 1, 2025, and cash flows for the six months ended July 31, 2026, and August 1, 2025.  The January 30, 2026, consolidated balance sheet was derived from the audited financial statements.
+The Company consolidates the financial results of Foundation Building Materials (FBM) and Artisan Design Group (ADG) on a one-month lag due to differences in reporting calendars.
+These interim condensed consolidated financial statements (unaudited) should be read in conjunction with the audited consolidated financial statements and notes thereto included in the Lowe’s Companies, Inc. (the Company) Annual Report on Form 10-K for the fiscal year ended January 30, 2026 (the Annual Report).  The financial results for the interim periods may not be indicative of the financial results for the entire fiscal year.
+Tariffs
+In February 2026, the United States Supreme Court ruled that tariffs imposed under the International Emergency Economic Powers Act (IEEPA) on goods imported into the United States were unauthorized.  Following this ruling, and effective on April 20, 2026, the United States Customs and Border Protection launched a platform for importers of record to begin IEEPA tariff refund requests, where eligible.
+The Company is accounting for tariff refunds as a contingent gain in accordance with ASC 450-30.  Under this standard, a gain contingency is not recognized until the gain is realized or realizable.  During the second quarter of 2026, we recognized approximately $ 80.0  million of IEEPA tariff refunds in our consolidated statements of earnings.  Uncertainties remain regarding the amount and timing of future collections.
+Reclassifications
+Receivables - net for the prior period ended August 1, 2025, were reclassified to conform with current period presentation and were previously included in Other current assets on the consolidated balance sheets.
+Accounting Pronouncements Not Yet Adopted
+Accounting pronouncements not disclosed in this Form 10-Q or in the Annual Report are either not applicable to the Company or are not expected to have a material impact to the Company.
+Note 2:  Acquisitions
+Artisan Design Group (ADG)
+On June 2, 2025, the Company completed the acquisition of ADG, a leading nationwide provider of design, distribution and installation services for interior surface finishes, including flooring, cabinets and countertops, to national, regional and local home builders and property managers, for an aggregate cash purchase price of $ 1.3  billion.  Acquisition-related costs were expensed as incurred.  In fiscal 2025, we recorded a preliminary allocation of the purchase price to the assets acquired and liabilities assumed based on their estimated acquisition date fair values.  Measurement period adjustments to the purchase price allocation recognized during fiscal 2026 were immaterial, and our purchase price allocation is now finalized.
+6
+Table of Contents
+Foundation Building Materials (FBM)
+On October 9, 2025, the Company completed the acquisition of FBM for an aggregate cash purchase price of $ 8.8  billion.  Acquisition-related costs were expensed as incurred.  FBM strengthens the Company’s Total Home strategy by expanding our offerings to Pro customers through enhanced capabilities, faster fulfillment, improved digital tools, a robust trade credit platform, and significant cross-selling opportunities between FBM and Lowe's.  In fiscal 2025, we recorded a preliminary allocation of the purchase price to the assets acquired and liabilities assumed based on their estimated acquisition date fair values.  Areas that remain preliminary as of July 31, 2026 primarily relate to income taxes, as well as any changes to residual goodwill resulting from measurement period adjustments.  Measurement period adjustments to the purchase price allocation during fiscal 2026 were immaterial.
+Other
+All additional acquisitions completed during fiscal 2026 and fiscal 2025 were immaterial both individually and in the aggregate.
+Note 3:  Revenue
+Net sales consists primarily of revenue, net of sales tax, associated with contracts with customers for the sale of goods and services in amounts that reflect consideration the Company is entitled to in exchange for those goods and services.
+The following table presents the Company’s sources of revenue:
+(In millions)    Three Months Ended     Six Months Ended
+July 31, 2026     August 1, 2025     July 31, 2026     August 1, 2025
+Products     $     24,734        $     22,973        $     46,789        $     43,141
+Services     783         655         1,489         1,200
+Other     439         331         756         547
+Net sales    $     25,956          $     23,959          $     49,034          $     44,888
+A provision for anticipated merchandise returns is provided through a reduction of sales and cost of sales in the period that the related sales are recorded.  The merchandise return reserve is presented on a gross basis, with a separate asset and liability included in the consolidated balance sheets.   The balances and classification within the consolidated balance sheets for anticipated sales returns and the associated right of return assets are as follows:
+(In millions)    Classification    July 31,
+2026     August 1,
+2025     January 30,
+2026
+Anticipated sales returns    Other current liabilities    $     212        $     211        $     178
+Right of return assets    Other current assets     129         123         109
+Deferred revenue - retail and stored-value cards
+Retail deferred revenue consists of amounts received for which customers have not yet taken possession of the merchandise or for which installation has not yet been completed.  The majority of revenue for goods and services is recognized in the quarter following revenue deferral.  Stored-value cards deferred revenue includes outstanding stored-value cards such as gift cards and returned merchandise credits that have not yet been redeemed.   Deferred revenue for retail and stored-value cards are as follows:
+(In millions)    July 31,
+2026     August 1,
+2025     January 30,
+2026
+Retail deferred revenue    $     1,162        $     1,095        $     936
+Stored-value cards deferred revenue     447         463         541
+Deferred revenue    $     1,609          $     1,558          $     1,477
+Deferred revenue - Lowe’s protection plans
+The Company defers revenues for its separately-priced long-term extended protection plan contracts (Lowe’s protection plans) and recognizes revenue on a straight-line basis over the respective contract term.  Expenses for claims are recognized in cost of
+7
+Table of Contents
+sales when incurred.
+(In millions)    July 31,
+2026     August 1,
+2025     January 30,
+2026
+Deferred revenue - Lowe’s protection plans    $     1,253        $     1,283        $     1,262
+Three Months Ended     Six Months Ended
+(In millions)    July 31, 2026     August 1, 2025     July 31, 2026     August 1, 2025
+Lowe’s protection plans deferred revenue recognized into sales    $     147        $     144        $     291        $     287
+Lowe’s protection plans claim expenses     62         61         123         119
+Disaggregation of Revenues
+The following table presents the Company’s net sales disaggregated by merchandise division within our Retail Home Improvement segment, as well as Other segment net sales:
+Three Months Ended     Six Months Ended
+July 31, 2026     August 1, 2025     July 31, 2026     August 1, 2025
+(In millions)    Net Sales     %     Net Sales     %     Net Sales     %     Net Sales     %
+Hardlines  1
+$     7,952         30.6      %     $     8,006         33.4      %     $     14,735         30.1      %     $     14,576         32.5      %
+Home Décor  2
+7,817         30.1         7,782         32.5         14,991         30.6         14,877         33.1
+Building Products  3
+7,554         29.1         7,472         31.2         14,371         29.3         14,314         31.9
+Other     692         2.7         561         2.3         1,242         2.5         983         2.2
+Retail Home Improvement     24,015           92.5           23,821           99.4           45,339           92.5           44,750           99.7
+Other segment net sales     1,941         7.5         138         0.6         3,695         7.5         138         0.3
+Total    $     25,956           100.0        %     $     23,959           100.0        %     $     49,034           100.0        %     $     44,888           100.0        %
+Note: Merchandise division net sales for the prior period have been reclassified to conform to the current period presentation.
+1        Hardlines includes the following product categories: Lawn & Garden, Power Equipment, Seasonal & Cleaning, and Tools & Hardware.
+2      Home Décor includes the following product categories: Appliances, Flooring, Kitchens & Bath, and Paint.
+3      Building Products includes the following product categories: Building Materials, Electrical, Lumber, Millwork, and Rough Plumbing.
+The following table presents the Company’s net sales disaggregated by geographical area:
+(In millions)     Three Months Ended     Six Months Ended
+July 31, 2026     August 1, 2025     July 31, 2026     August 1, 2025
+United States     $     25,883        $     23,959        $     48,893        $     44,888
+Canada      73         —         141         —
+Net Sales     $     25,956          $     23,959          $     49,034          $     44,888
+Note 4:  Restricted Investments
+Short-term and long-term investments include restricted balances pledged as collateral primarily for the Lowe’s protection plans program and are as follows:
+(In millions)     July 31, 2026     August 1, 2025     January 30, 2026
+Short-term restricted investments     $     235        $     396        $     370
+Long-term restricted investments      179         273         319
+Total restricted investments     $     414          $     669          $     689
+8
+Table of Contents
+Note 5:  Fair Value Measurements
+Fair value is defined as the price that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date.  The authoritative guidance for fair value measurements establishes a three-level hierarchy, which encourages an entity to maximize the use of observable inputs and minimize the use of unobservable inputs when measuring fair value.  The three levels of the hierarchy are defined as follows:
+•  Level 1   -   inputs to the valuation techniques that are quoted prices in active markets for identical assets or liabilities
+•  Level 2   -   inputs to the valuation techniques that are other than quoted prices but are observable for the assets or liabilities, either directly or indirectly
+•  Level 3   -   inputs to the valuation techniques that are unobservable for the assets or liabilities
+Assets and Liabilities that are Measured at Fair Value on a Recurring Basis
+The following table presents the Company’s financial assets and liabilities measured at fair value on a recurring basis as of July 31, 2026, August 1, 2025, and January 30, 2026:
+Fair Value Measurements at
+(In millions)    Classification    Measurement Level     July 31,
+2026     August 1,
+2025     January 30,
+2026
+Available-for-sale debt securities:
+Money market funds    Short-term investments    Level 1     $     76        $     60        $     81
+U.S. Treasury securities    Short-term investments    Level 1      75         225         195
+Corporate debt securities    Short-term investments    Level 2      46         5         32
+Foreign government debt securities    Short-term investments    Level 2      19         19         21
+Certificates of deposit    Short-term investments    Level 1      12         37         31
+Municipal obligations    Short-term investments    Level 2      7         2         10
+Commercial paper    Short-term investments    Level 2      —         48         —
+U.S. Treasury securities    Long-term investments    Level 1      149         125         211
+Corporate debt securities    Long-term investments    Level 2      27         119         92
+Foreign government debt securities    Long-term investments    Level 2      3         22         16
+Municipal obligations    Long-term investments    Level 2      —         7         —
+Derivative instruments:
+Fixed-to-floating interest rate swaps    Other current liabilities    Level 2     $     8        $     6        $     15
+Fixed-to-floating interest rate swaps    Other liabilities    Level 2      —         24         —
+There were no transfers between Levels 1, 2, or 3 during any of the periods presented.
+When available, quoted prices were used to determine fair value.  When quoted prices in active markets were available, financial assets were classified within Level 1 of the fair value hierarchy.  When quoted prices in active markets were not available, fair values for financial assets and liabilities classified within Level 2 were determined using pricing models, and the inputs to those pricing models were based on observable market inputs.  The inputs to the pricing models were typically benchmark yields, reported trades, broker-dealer quotes, issuer spreads, and benchmark securities, among others.
+The Company has performance-based contingent consideration related to the fiscal 2022 sale of the Canadian retail business which is classified as a Level 3 long-term investment, and such contingent consideration had an estimated fair value of    zero    as of July 31, 2026, August 1, 2025, and January 30, 2026.  The Company’s measurements of fair value of the contingent consideration are based on an income approach, which requires certain assumptions considering operating performance of the business and a risk-adjusted discount rate.  Changes in the estimated fair value of the contingent consideration are recognized within selling, general and administrative expenses (SG&A) in the consolidated statements of earnings.
+Assets and Liabilities that are Measured at Fair Value on a Nonrecurring Basis
+During the three and six months ended July 31, 2026, and August 1, 2025, the Company had no material measurements of assets and liabilities at fair value on a nonrecurring basis subsequent to their initial recognition.
+9
+Table of Contents
+Other Fair Value Disclosures
+The Company’s financial assets and liabilities not measured at fair value on a recurring basis include cash and cash equivalents, accounts receivable, short-term borrowings, accounts payable, and long-term debt and are reflected in the financial statements at cost.  With the exception of long-term debt, cost approximates fair value for these items due to their short-term nature.  As further described in    Note 9   , certain long-term debt is associated with a fair value hedge and the changes in fair value of the hedged debt is included in the carrying value of long-term debt in the consolidated balance sheets.  The fair values of the Company’s unsecured notes were estimated using quoted market prices.
+Carrying amounts and the related estimated fair value of the Company’s long-term debt, excluding finance lease obligations and the 2025 Term Loan, are as follows:
+July 31, 2026     August 1, 2025     January 30, 2026
+(In millions)    Carrying Amount     Fair Value     Carrying Amount     Fair Value     Carrying Amount     Fair Value
+Unsecured notes (Level 1)    $     35,200        $     31,339        $     34,289        $     31,198        $     37,530        $     34,907
+Note 6:  Goodwill and Intangible Assets
+Goodwill
+The following table presents the changes in the carrying amount of our goodwill:
+(In millions)     Retail Home Improvement
+Other  1
+Consolidated
+Goodwill, balance at January 30, 2026     $     311          $     3,634          $     3,945
+Other  2
+—         12         12
+Goodwill, balance at July 31, 2026     $     311          $     3,646          $     3,957
+1        Goodwill activity within non-reportable operating segments.
+2        Includes immaterial acquisitions and measurement period adjustments.
+Intangible Assets
+The gross carrying amount and accumulated amortization of intangible assets consist of the following:
+July 31, 2026     August 1, 2025     January 30, 2026
+(In millions)    Gross
+Carrying Amount    Accumulated
+Amortization    Net Carrying Amount     Gross
+Carrying Amount    Accumulated
+Amortization    Net Carrying Amount     Gross
+Carrying Amount    Accumulated
+Amortization    Net Carrying Amount
+Definite-lived intangible assets:
+Customer-related    $     4,722       $    ( 292 )     $     4,430        $     788       $    ( 105 )     $     683        $     4,722       $    ( 174 )     $     4,548
+Trademarks and trade names     1,100       ( 76 )      1,024         150       ( 20 )      130         1,100       ( 40 )      1,060
+Other     207       ( 86 )      121         35       ( 6 )      29         208       ( 42 )      166
+Total definite-lived intangible assets    $     6,029         $    ( 454 )     $     5,575          $     973         $    ( 131 )     $     842          $     6,030         $    ( 256 )     $     5,774
+Indefinite-lived intangible assets:
+Trademark    $     134       $    —      $     134        $     134       $    —      $     134        $     134       $    —      $     134
+Total intangible assets    $     6,163         $    ( 454 )     $     5,709          $     1,107         $    ( 131 )     $     976          $     6,164         $    ( 256 )     $     5,908
+10
+Table of Contents
+Our intangible asset amortization expense was $ 98  million and $ 12  million for the three months ended July 31, 2026 and August 1, 2025, respectively, and $ 198  million and $ 15  million for the six months ended July 31, 2026 and August 1, 2025, respectively.
+Note 7:  Accounts Payable
+The Company has an agreement with a third party to provide a supplier finance program which facilitates participating suppliers’ ability to finance payment obligations from the Company with designated third-party financial institutions.  Participating suppliers may, at their sole discretion, make offers to finance one or more payment obligations of the Company prior to their scheduled due dates at a discounted price to participating financial institutions.   The Company’s outstanding payment obligations that suppliers financed to participating financial institutions, which are included in accounts payable on the consolidated balance sheets, are as follows:
+(In millions)     July 31, 2026     August 1, 2025     January 30, 2026
+Financed payment obligations     $     1,582        $     1,326        $     1,440
+Note 8:  Debt
+Revolving Credit Facilities
+On September 16, 2025, the Company entered into a $ 2.0  billion  five-year  unsecured credit agreement (2025 Credit Agreement) with a syndicate of banks, which has a maturity date of September 2030, replacing the Company’s $ 2.0  billion  five-year  unsecured revolving credit agreement entered into in December 2021, and as amended (Third Amended and Restated Credit Agreement).
+On September 16, 2025, the Company also amended the  five-year  unsecured revolving credit agreement dated September 1, 2023 (the 2023 Credit Agreement) with a syndicate of banks, which has a maturity date of September 2028 and an aggregate availability of $ 2.0  billion.      Under the amendment, borrowings under the 2023 Credit Agreement will no longer be subject to a SOFR credit spread adjustment.
+The 2025 Credit Agreement and the 2023 Credit Agreement (collectively the Long-Term Credit Agreements) support the Company’s commercial paper program.  The amounts available to be drawn under the Long-Term Credit Agreements are reduced by the amount of borrowings under the commercial paper program.  As of July 31, 2026, August 1, 2025 and January 30, 2026, there were     no     outstanding borrowings under the Company’s current and prior year commercial paper program or the Long-Term Credit Agreements.
+On September 16, 2025, the Company also entered into a $ 1.0  billion  364-day  unsecured revolving credit agreement (collectively with the Long-Term Credit Agreements the “Revolving Credit Facilities”) which has a maturity date of September 2026 and had  no  outstanding borrowings as of July 31, 2026.
+Total combined availability under the Revolving Credit Facilities was $ 5.0  billion as of July 31, 2026.
+Long-Term Debt
+On September 16, 2025, the Company entered into a $ 2.0  billion unsecured term loan credit agreement (2025 Term Loan) which has a maturity date of October 2028.  There was $ 2.0  billion in outstanding borrowings under the 2025 Term Loan as of July 31, 2026, with an interest rate of  4.648 %.
+11
+Table of Contents
+In addition, on September 30, 2025, the Company issued $ 5.0  billion of unsecured fixed rate notes (collectively, the September 2025 Notes) as follows:
+Principal Amount
+(in millions)     Maturity Date     Interest Rate     Discount
+(in millions)
+$     650        October 2027      3.950 %     $     2
+$     750        October 2028      4.000 %     $     3
+$     1,100        March 2031      4.250 %     $     6
+$     1,300        October 2032      4.500 %     $     8
+$     1,200        October 2035      4.850 %     $     8
+Interest on the September 2025 Notes with October maturity dates is payable semiannually in arrears in April and October of each year until maturity.  Interest on the September 2025 Notes with March maturity dates is payable semiannually in arrears in March and September of each year until maturity.
+The indenture governing the September 2025 Notes contains a provision that allows the Company to redeem these notes at any time, in whole or in part, at specified redemption prices, plus accrued and unpaid interest.  The indenture also contains a provision that allows the holders of the notes to require the Company to repurchase all or any part of their notes if a change of control triggering event occurs.  If elected under the change of control provisions, the repurchase of the notes will occur at a purchase price of  101 % of the principal amount, plus accrued and unpaid interest.  The indenture governing the September 2025 Notes does not limit the aggregate principal amount of debt securities that the Company may issue and does not require the Company to maintain specified financial ratios or levels of net worth or liquidity.
+The discounts associated with these issuances, which include the underwriting and issuance discounts, are recorded in long-term debt and are being amortized over the respective terms of the notes using the effective interest method.
+Note 9:  Derivative Instruments
+The Company utilizes fixed-to-floating interest rate swap agreements as fair value hedges on certain debt.   The notional amounts for the Company’s material derivative instruments are as follows:
+(In millions)    July 31,
+2026     August 1,
+2025     January 30,
+2026
+Fair value hedges:
+Fixed-to-floating interest rate swap agreements    $     550      $     850      $     550
+See    Note 5    for the gross fair values of the Company’s outstanding derivative financial instruments and corresponding fair value classifications.  The cash flows related to settlement of the Company’s hedging derivative financial instruments are classified in the consolidated statements of cash flows based on the nature of the underlying hedged items.
+The Company accounts for the fixed-to-floating interest rate swap agreements as fair value hedges using the shortcut method of accounting under which the hedges are assumed to be perfectly effective.  Thus, the change in fair value of the derivative instruments offsets the change in fair value on the hedged debt, and there is no net impact in the consolidated statements of earnings from the fair value of the derivatives.
+Note 10:  Shareholders’ Deficit
+The Company has a share repurchase program that is executed through purchases made from time to time either in the open market, which may be made under pre-set trading plans meeting the requirements of Rule 10b5-1(c) of the Securities Exchange Act of 1934, or through private off-market transactions.  Shares purchased under the repurchase program are returned to authorized and unissued status.  Any excess of cost over par value is charged to additional paid-in capital to the extent that a balance is present.  Once additional paid-in capital is fully depleted, remaining excess of cost over par value is charged to accumulated deficit.  As of July 31, 2026, the Company had $ 10.5  billion remaining in its share repurchase program.
+The Company also withholds shares from employees to satisfy either the exercise price of stock options exercised or the statutory withholding tax liability resulting from the vesting of share-based awards.
+12
+Table of Contents
+Total shares repurchased for the three and six months ended July 31, 2026, and August 1, 2025, were as follows:
+Three Months Ended
+July 31, 2026     August 1, 2025
+(In millions)    Shares     Cost     Shares     Cost
+Share repurchase program  1
+—        $     —         —        $    ( 3 )
+Shares withheld from employees     —         2         —         2
+Total share repurchases     —          $     2           —          $    ( 1 )
+Six Months Ended
+July 31, 2026     August 1, 2025
+(In millions)    Shares     Cost     Shares     Cost
+Share repurchase program  1
+1.2        $     302         —        $    ( 3 )
+Shares withheld from employees     0.3         65         0.3         72
+Total share repurchases     1.5          $     367           0.3          $     69
+1    Includes excise tax on share repurchases in excess of issuances as part of the cost basis of the shares acquired.
+Note 11:  Earnings Per Share
+The Company calculates basic and diluted earnings per common share using the two-class method.   The following table reconciles earnings per common share for the three and six months ended July 31, 2026, and August 1, 2025:
+Three Months Ended     Six Months Ended
+(In millions, except per share data)    July 31, 2026     August 1, 2025     July 31, 2026     August 1, 2025
+Basic earnings per common share:
+Net earnings    $     2,399        $     2,398        $     4,027        $     4,038
+Less: Net earnings allocable to participating securities    ( 7 )      ( 7 )      ( 11 )      ( 11 )
+Net earnings allocable to common shares, basic    $     2,392          $     2,391          $     4,016          $     4,027
+Weighted-average common shares outstanding     559           559           559           559
+Basic earnings per common share    $     4.28          $     4.28          $     7.18          $     7.21
+Diluted earnings per common share:
+Net earnings    $     2,399        $     2,398        $     4,027        $     4,038
+Less: Net earnings allocable to participating securities    ( 7 )      ( 7 )      ( 11 )      ( 11 )
+Net earnings allocable to common shares, diluted    $     2,392          $     2,391          $     4,016          $     4,027
+Weighted-average common shares outstanding     559         559         559         559
+Dilutive effect of non-participating share-based awards     1         1         1         1
+Weighted-average common shares, as adjusted     560           560           560           560
+Diluted earnings per common share    $     4.27          $     4.27          $     7.17          $     7.19
+Anti-dilutive securities excluded from diluted weighted-average common shares     0.3         0.3         0.3         0.2
+13
+Table of Contents
+Note 12:  Supplemental Disclosure
+Net interest expense is comprised of the following:
+Three Months Ended     Six Months Ended
+(In millions)    July 31, 2026     August 1, 2025     July 31, 2026     August 1, 2025
+Long-term debt    $     388        $     351        $     790        $     709
+Short-term borrowings     1         —         3         —
+Lease obligations     5         5         9         10
+Interest income    ( 18 )      ( 42 )      ( 27 )      ( 67 )
+Interest capitalized    ( 2 )      ( 2 )      ( 4 )      ( 4 )
+Interest on tax uncertainties     —         1         1         2
+Other     —         —         1         —
+Interest – net    $     374          $     313          $     773          $     650
+Supplemental disclosures of cash flow information:
+Six Months Ended
+(In millions)    July 31, 2026     August 1, 2025
+Cash paid for interest, net of amount capitalized    $     813        $     721
+Cash paid for income taxes – net  1
+642         657
+Non-cash investing and financing activities:
+Leased assets obtained in exchange for new finance lease liabilities    $     15        $     15
+Leased assets obtained in exchange for new operating lease liabilities  2
+119         293
+Cash dividends declared but not paid     702         673
+1     Cash paid for income taxes - net for the six months ended July 31, 2026, and August 1, 2025, includes $ 432  million and $ 453  million, respectively, of cash paid for the purchase of federal transferable tax credits.
+2     Excludes $ 63  million of leases signed but not yet commenced as of July 31, 2026.
+Note 13:  Segment Information
+The Company’s operations include  one  reportable operating segment, Retail Home Improvement, and the chief operating decision maker (CODM) is the Chairman, President, and Chief Executive Officer.  Our operating segments reflect the way in which internally reported financial information is regularly reviewed by the CODM who has the ultimate decision-making authority for resource allocation and assessing performance of our segments.
+•  Retail Home Improvement Reportable Segment -   We are engaged in retail operations that sell a wide assortment of home   décor  , hardlines, and building products both in stores and online throughout the United States.  In addition, we have specialists on-site to provide services, including home improvement installation services, and tool and equipment rental.
+•  Other -   As discussed in    Note 2   , in 2025, Lowe’s acquired FBM, a leading distributor of interior building products, and ADG, a nationwide provider of design, distribution and installation services for interior surface finishes.  FBM operations are organized into  two  lines of business and represent  two  operating segments, Ceilings and Wall Systems and Commercial Doors and Hardware.  ADG is deemed to be a separate operating segment, referred to as Interior Finishes.  These  three  operating segments do not meet the thresholds prescribed under ASC Topic 280 to be deemed a reportable segment, therefore, results from these operating segments are presented in “Other”.
+The CODM regularly reviews operating income as the measure of each operating segment’s profit or loss, as well as significant segment expenses of our Retail Home Improvement segment to evaluate operating performance, generate future operating plans and make strategic decisions regarding the allocation of capital.  Corporate expenses are allocated to the individual operating segments.  The CODM also uses these measures in monitoring plan versus actual results.  The CODM does not review segment assets at a different asset level or category than those disclosed in the consolidated balance sheets.
+14
+Table of Contents
+The following table presents the Company’s operating income results for its Retail Home Improvement reportable segment, including significant segment expenses:
+Three Months Ended     Six Months Ended
+July 31, 2026     August 1, 2025     July 31, 2026     August 1, 2025
+(In millions, except percentage data)    Amount     % Sales     Amount     % Sales     Amount     % Sales     Amount     % Sales
+Net Sales    $     24,015         100.00      %     $     23,821         100.00      %     $     45,339         100.00      %     $     44,750         100.00      %
+Less:
+Cost of sales     15,775         65.69         15,751         66.12         29,855         65.85         29,694         66.36
+Expenses:
+Employee compensation and benefits     2,843         11.84         2,815         11.82         5,690         12.56         5,628         12.58
+Occupancy and facility costs     478         1.99         471         1.98         970         2.14         940         2.10
+Advertising     269         1.12         249         1.05         477         1.05         448         1.00
+Other segment items  1
+632         2.62         612         2.56         1,278         2.81         1,177         2.63
+Selling, general and administrative:     4,222         17.57         4,147         17.41         8,415         18.56         8,193       18.31
+Depreciation and amortization     472         1.97         447         1.88         938         2.07         892       1.99
+Operating income    $     3,546           14.77        %     $     3,476           14.59        %     $     6,131           13.52        %     $     5,971           13.34        %
+1        Other segment items primarily include financial services costs, technology service costs, insurance costs, impairment costs, and store environment initiative and display costs.
+The following tables present a reconciliation of our Retail Home Improvement results to our consolidated totals for the three and six months ended July 31, 2026 and August 1, 2025.  Prior-period segment information has been recast to conform to the Company’s current-period segment reporting structure:
+Three Months Ended
+July 31, 2026
+Retail Home Improvement     Other     Consolidated
+(In millions, except percentage data)    Amount     % Sales     Amount     % Sales     Amount     % Sales
+Net sales    $     24,015         100.00      %     $     1,941         100.00      %     $     25,956         100.00      %
+Operating income     3,546           14.77           3           0.11           3,549           13.67
+Interest – net             374         1.44
+Pre-tax earnings             3,175           12.23
+Income tax provision             776         2.99
+Net earnings            $     2,399           9.24        %
+Three Months Ended
+August 1, 2025
+Retail Home Improvement     Other     Consolidated
+(In millions, except percentage data)    Amount     % Sales     Amount     % Sales     Amount     % Sales
+Net sales    $     23,821         100.00      %     $     138         100.00      %     $     23,959         100.00      %
+Operating income     3,476           14.59          ( 7 )      ( 5.61 )       3,469           14.48
+Interest – net             313         1.31
+Pre-tax earnings             3,156           13.17
+Income tax provision             758         3.16
+Net earnings            $     2,398           10.01        %
+15
+Table of Contents
+Six Months Ended
+July 31, 2026
+Retail Home Improvement     Other     Consolidated
+(In millions, except percentage data)    Amount     % Sales     Amount     % Sales     Amount     % Sales
+Net sales    $     45,339         100.00      %     $     3,695         100.00      %     $     49,034         100.00      %
+Operating income     6,131           13.52          ( 28 )      ( 0.79 )       6,103           12.45
+Interest – net             773         1.58
+Pre-tax earnings             5,330           10.87
+Income tax provision             1,303         2.66
+Net earnings            $     4,027           8.21        %
+Six Months Ended
+August 1, 2025
+Retail Home Improvement     Other     Consolidated
+(In millions, except percentage data)    Amount     % Sales     Amount     % Sales     Amount     % Sales
+Net sales    $     44,750         100.00      %     $     138         100.00      %     $     44,888         100.00      %
+Operating income     5,971           13.34          ( 7 )      ( 5.61 )       5,964           13.29
+Interest – net             650         1.45
+Pre-tax earnings             5,314           11.84
+Income tax provision             1,276         2.84
+Net earnings            $     4,038           9.00        %
+16
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Shareholders of Lowe’s Companies, Inc.
+Results of Review of Interim Financial Information
+We have reviewed the accompanying condensed consolidated balance sheets of Lowe's Companies, Inc. and subsidiaries (the "Company") as of July 31, 2026 and August 1, 2025, the related condensed consolidated statements of earnings, comprehensive income, and shareholders’ deficit for the fiscal three-month and six-month periods ended July 31, 2026 and August 1, 2025, and cash flows for the fiscal six-month periods ended July 31, 2026 and August 1, 2025, and the related notes (collectively referred to as the "interim financial information"). Based on our reviews, we are not aware of any material modifications that should be made to the accompanying interim financial information for it to be in conformity with accounting principles generally accepted in the United States of America.
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheet of the Company as of January 30, 2026, and the related consolidated statements of earnings, comprehensive income, shareholders’ deficit, and cash flows for the fiscal year then ended (not presented herein); and in our report dated March 23, 2026, we expressed an unqualified opinion on those consolidated financial statements. In our opinion, the information set forth in the accompanying condensed consolidated balance sheet as of January 30, 2026, is fairly stated, in all material respects, in relation to the consolidated balance sheet from which it has been derived.
+Basis for Review Results
+This interim financial information is the responsibility of the Company's management. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our reviews in accordance with standards of the PCAOB. A review of interim financial information consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+/s/ DELOITTE & TOUCHE LLP
+Charlotte, North Carolina
+August 27, 2026
+17
+Table of Contents
+Item 2.
+MANAGEMENT’S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+This discussion and analysis summarizes the significant factors affecting our consolidated operating results, liquidity and capital resources during the three and six months ended July 31, 2026, and August 1, 2025.  This discussion and analysis should be read in conjunction with the consolidated financial statements and notes to the consolidated financial statements that are included in our Annual Report on Form 10-K for the fiscal year ended January 30, 2026 (the Annual Report), as well as the consolidated financial statements (unaudited) and notes to the consolidated financial statements (unaudited) contained in this report.  Unless otherwise specified, all comparisons made are to the corresponding period of fiscal 2025.  This discussion and analysis is presented in four sections:
+•   Executive Overview
+•   Operations
+•   Financial Condition, Liquidity and Capital Resources
+•   Critical Accounting Policies and Estimates
+EXECUTIVE OVERVIEW
+The following table highlights our financial results:
+Three Months Ended     Six Months Ended
+(in millions, except per share data)    July 31, 2026     August 1, 2025     July 31, 2026     August 1, 2025
+Net sales    $    25,956       $    23,959       $    49,034       $    44,888
+Net earnings    2,399       2,398       4,027       4,038
+Diluted earnings per share    4.27       4.27       7.17       7.19
+Adjusted diluted earnings per share    4.40       4.33       7.42       7.25
+Net cash provided by operating activities        $    7,009       $    7,610
+Capital expenditures        1,063       1,013
+Repurchases of common stock  1
+367       71
+Cash dividend payments        1,346       1,290
+1        Repurchases of common stock on a trade-date basis.
+Net sales in the second quarter of fiscal 2026 improved 8.3% to $26.0 billion compared to net sales of $24.0 billion in the second quarter of fiscal 2025.  Comparable sales for the second quarter of fiscal 2026 increased 0.2%, consisting of an increase in comparable average ticket of 2.3%, partially offset by a decrease of 2.1% in comparable customer transactions.
+Net earnings in the second quarter of fiscal 2026 remained consistent with the second quarter of fiscal 2025 at $2.4 billion.  Diluted earnings per common share of $4.27 were recognized for both the second quarter of fiscal 2026 and fiscal 2025.  Included in the second quarter of 2026 results are pre-tax expenses of $96 million consisting of intangible asset amortization related to the acquisitions of FBM and ADG.  Excluding the impact of this item, adjusted diluted earnings per common share were $4.40 in the second quarter of 2026 (see the    non-GAAP financial measures    discussion).
+For the first six months of fiscal 2026, cash flows from operating activities were approximately $7.0 billion, with $1.1 billion used for capital expenditures.  Continuing to deliver on our commitment to return cash to shareholders, we paid $1.3 billion in dividends and repaid $2.4 billion of bond maturities as we continued to progress toward our deleveraging commitment.
+The second quarter continued to reflect a dynamic home improvement environment, including persistent pressure in discretionary DIY demand, periods of challenging weather, elevated fuel prices and broader economic uncertainty.  Customers remained cautious in their spending and prioritized repair, maintenance and smaller projects.
+Despite these conditions, we delivered sales growth and continued to advance our Total Home strategy.  We drove growth in Pro, Online and Home Services through continued investments in differentiated assortment, strong in-stock positions, fulfillment capabilities, digital tools and loyalty programs.  We also continued to advance the integration of FBM and ADG, which we believe will strengthen our ability to serve larger Pro customers and capture more planned Pro spend over the long term.
+18
+Table of Contents
+Our Perpetual Productivity Improvement initiatives continued to support disciplined cost management and strategic investments.  During the quarter, we progressed initiatives to simplify store and field communications, improve replenishment and inventory accuracy, enhance merchandising execution and enable associates to spend more time serving customers.
+Looking ahead, we remain focused on delivering compelling value, serving customers across Pro, Online and Home Services, managing expenses with discipline and investing in the initiatives that position the Company for long-term growth.  We believe our continued focus on execution, productivity and strategic investment positions us to strengthen our business and create long-term shareholder value as market conditions improve.
+Tariffs
+Beginning in 2025, the United States enacted significant changes to its trade policy and imposed a series of new tariffs on most imported goods.  For 2026, the tariff environment remains dynamic and subject to ongoing modification, including court rulings, changes to existing tariffs and potential for additional tariffs this year.  We continue to monitor and comply with these changes and evaluate potential impacts, including possible adjustments to our merchandise assortment, pricing, and global supply chain strategies.  The Company is the importer of record for certain imported products and pays tariffs directly.  The Supreme Court declared on February 20, 2026 that tariffs imposed under the International Emergency Economic Powers Act (IEEPA) were invalid.  In the second quarter, we recognized approximately $80 million pre-tax of tariff refunds.  However, uncertainty remains as to the amount and timing of future IEEPA refund collections.
+OPERATIONS
+The following table sets forth the percentage relationship to net sales of each line item of the consolidated statements of earnings (unaudited), as well as the percentage change in dollar amounts from the prior period.  This table should be read in conjunction with the following discussion and analysis and the consolidated financial statements (unaudited), including the related notes to the consolidated financial statements (unaudited).
+Three Months Ended    Basis Point Increase/(Decrease) in Percentage of Net Sales     Six Months Ended    Basis Point Increase/(Decrease) in Percentage of Net Sales
+July 31,
+2026     August 1,
+2025      July 31,
+2026     August 1,
+2025
+Net sales    100.00       %     100.00       %     N/A     100.00       %     100.00       %     N/A
+Gross margin    33.04         33.81         (77)     32.87         33.61         (74)
+Expenses:
+Selling, general and administrative    17.17       17.42       (25)     18.10       18.31       (21)
+Depreciation and amortization    2.20       1.91       29     2.32       2.01       31
+Operating income    13.67         14.48         (81)     12.45         13.29         (84)
+Interest – net    1.44       1.31       13     1.58       1.45       13
+Pre-tax earnings    12.23         13.17         (94)     10.87         11.84         (97)
+Income tax provision    2.99       3.16       (17)     2.66       2.84       (18)
+Net earnings    9.24       %     10.01       %     (77)     8.21       %     9.00       %     (79)
+19
+Table of Contents
+The following table sets forth key metrics utilized by management in assessing business performance.  This table should be read in conjunction with the following discussion and analysis and the consolidated financial statements (unaudited), including the related notes to the consolidated financial statements (unaudited).
+Three Months Ended     Six Months Ended
+Other Metrics    July 31, 2026    August 1, 2025     July 31, 2026    August 1, 2025
+Comparable sales increase/(decrease)   1
+0.2     %     1.1     %     0.4     %     (0.3)    %
+Customer transactions (in millions)   2
+219       225       416       424
+Average ticket   2
+$    107.90       $    105.49       $    107.78       $    105.74
+At end of period:
+Number of retail stores    1,761       1,753
+Sales floor square feet (in millions)    196       196
+Average retail store size selling square feet (in thousands)   3
+111       112
+Net earnings to average debt and shareholders’ deficit    21.3     %     25.3     %
+Return on invested capital   4
+25.5     %     29.5     %
+1      A comparable location is a retail location that has been open longer than 13 months.      A location that is identified for relocation is no longer considered comparable in the month of its relocation.      A location we decide to close is no longer considered comparable as of the beginning of the month in which we announce its closing.  Comparable sales include online sales, which positively impacted second quarter fiscal 2026 and fiscal 2025 comparable sales by approximately 195 basis points and 85 basis points, respectively, and year-to-date fiscal 2026 and fiscal 2025 comparable sales by approximately 190 basis points and 75 basis points, respectively.  Acquisitions are typically included in comparable sales after they have been owned for more than 12 months.
+2     Customer transactions and average ticket represent metrics used by management to evaluate performance of our retail locations.
+3      Average store size selling square feet is defined as sales floor square feet divided by the number of stores open at the end of the period.
+4      Return on invested capital is calculated using a non-GAAP financial measure.  See below for additional information and reconciliations of non-GAAP measures.
+Non-GAAP Financial Measures
+Adjusted Diluted Earnings Per Share
+Adjusted diluted earnings per share is considered a non-GAAP financial measure.  The Company believes this non-GAAP financial measure provides useful insight for analysts and investors in understanding the comparison of operational performance for fiscal 2026.  Adjusted diluted earnings per share excludes the impact of certain items, further described below.
+Fiscal 2026 Impacts
+During fiscal 2026, the Company recognized financial impacts from the following:
+•  In the first quarter of fiscal 2026, the Company recognized pre-tax expenses of $96 million consisting of intangible asset amortization related to the acquisitions of Artisan Design Group and Foundation Building Materials (Acquisitions of businesses).
+•  In the second quarter of fiscal 2026, the Company recognized pre-tax expenses of $96 million consisting of intangible asset amortization related to the acquisitions of Artisan Design Group and Foundation Building Materials (Acquisitions of businesses).
+Fiscal 2025 Impacts
+During fiscal 2025, the Company recognized financial impacts from the following:
+•  In the second quarter of fiscal 2025, the Company recognized pre-tax expenses of $43 million consisting of transaction costs, purchase accounting adjustments, and intangible asset amortization related to the acquisition of Artisan Design Group (Acquisitions of businesses).
+Adjusted diluted earnings per share should not be considered an alternative to, or more meaningful indicator of, the Company’s diluted earnings per common share as prepared in accordance with GAAP.  The Company’s methods of determining non-GAAP financial measures may differ from the method used by other companies and may not be comparable.
+20
+Table of Contents
+Three Months Ended
+July 31, 2026     August 1, 2025
+Pre-Tax Earnings
+Tax  1
+Net Earnings     Pre-Tax Earnings
+Tax  1
+Net Earnings
+Diluted earnings per share, as reported        $    4.27             $    4.27
+Non-GAAP adjustments – per share impacts
+Acquisitions of businesses    0.17       (0.04)      0.13       0.08       (0.02)      0.06
+Adjusted diluted earnings per share        $    4.40             $    4.33
+Six Months Ended
+July 31, 2026     August 1, 2025
+Pre-Tax Earnings
+Tax  1
+Net Earnings     Pre-Tax Earnings
+Tax  1
+Net Earnings
+Diluted earnings per share, as reported        $    7.17             $    7.19
+Non-GAAP adjustments – per share impacts
+Acquisitions of businesses    0.34       (0.09)      0.25       0.08       (0.02)      0.06
+Adjusted diluted earnings per share        $    7.42             $    7.25
+1       Represents the corresponding tax benefit or expense specifically related to the item excluded from adjusted diluted earnings per share.
+Return on Invested Capital
+Return on Invested Capital (ROIC) is calculated using a non-GAAP financial measure.  Management believes ROIC is a meaningful metric for analysts and investors as a measure of how effectively the Company is using capital to generate financial returns.  Although ROIC is a common financial metric, numerous methods exist for calculating ROIC.  Accordingly, the method used by our management may differ from the methods used by other companies.  We encourage you to understand the methods used by another company to calculate ROIC before comparing its ROIC to ours.
+We define ROIC as the rolling 12 months’ lease adjusted net operating profit after tax (Lease adjusted NOPAT) divided by the average of current year and prior year ending debt and shareholders’ deficit.  Lease adjusted NOPAT is a non-GAAP financial measure, and net earnings is considered to be the most comparable GAAP financial measure.  The calculation of ROIC, together with a reconciliation of net earnings to Lease adjusted NOPAT, is as follows:
+Four Quarters Ended
+(In millions, except percentage data)    July 31, 2026     August 1, 2025
+Calculation of Return on Invested Capital
+Numerator
+Net Earnings    $    6,642       $    6,858
+Plus:
+Interest expense – net    1,528       1,295
+Operating lease interest    178       176
+Provision for income taxes    2,121       2,177
+Lease adjusted net operating profit    10,469       10,506
+Less:
+Income tax adjustment  1
+2,534       2,531
+Lease adjusted net operating profit after tax    $    7,935       $    7,975
+Denominator
+Average debt and shareholders’ deficit  2
+$    31,123       $    27,069
+Net earnings to average debt and shareholders’ deficit    21.3       %     25.3       %
+Return on invested capital    25.5       %     29.5       %
+21
+Table of Contents
+1        Income tax adjustment is defined as lease adjusted net operating profit multiplied by the effective tax rate, which was 24.2% and 24.1% for the periods ended July 31, 2026, and August 1, 2025, respectively.
+2      Average debt and shareholders’ deficit is defined as average current year and prior year ending debt, including current maturities, short-term borrowings, and operating lease liabilities, plus the average current year and prior year ending total shareholders’ deficit.
+Results of Operations
+Net Sales –   Net sales in the second quarter of 2026 increased 8.3% to $26.0 billion.  Comparable sales increased 0.2%, consisting of a 2.3% increase in comparable average ticket, partially offset by a 2.1% decline in comparable customer transactions.
+During the second quarter of 2026, nine of our 13 product categories experienced positive comparable store sales, led by Rough Plumbing, Electrical, and Tools & Hardware.  Growth across these categories was driven by continued momentum with our Pro customer and online channels, due to ongoing strength in repair and maintenance projects, as well as in-depth brand lineups and product assortments.
+Net sales increased 9.2% to $49.0 billion in the first six months of 2026 compared to 2025.  Comparable sales increased 0.4% over the same period.
+Gross Margin –   For the second quarter of 2026, gross margin as a percentage of sales decreased 77 basis points compared to 2025.  The gross margin decline for the quarter was driven by the operational cost structure of acquisitions during 2025 and increased fuel costs, partially offset by favorability from credit revenue and tariff refunds.
+Gross margin as a percentage of sales decreased 74 basis points in the first six months of 2026 compared to 2025, primarily due to the same factors that impacted gross margin for the second quarter.
+SG&A –   For the second quarter of 2026, SG&A expense leveraged 25 basis points as a percentage of sales compared to the second quarter of 2025, primarily due to the operational cost structure of acquisitions during 2025.
+SG&A expense as a percentage of sales leveraged 21 basis points as a percentage of sales for the first six months of 2026 compared to 2025, primarily due to the same factor that impacted SG&A for the second quarter.
+Depreciation and Amortization –   Depreciation and amortization deleveraged 29 basis points as a percentage of sales for the second quarter of 2026 compared to 2025, primarily due to amortization of intangible assets of acquired businesses in 2025.
+Depreciation and amortization deleveraged 31 basis points as a percentage of sales for the first six months of 2026 compared to 2025, primarily due to the same factor that impacted depreciation and amortization for the second quarter.
+Interest – Net   – Net interest expense for the second quarter and first six months of 2026 deleveraged 13 basis points as a percentage of sales, primarily due to the costs related to the September 2025 debt issuance and the 2025 Term Loan.
+Income Tax Provision –   Our effective income tax rates were 24.4% and 24.0% for the three months ended July 31, 2026 and August 1, 2025, respectively, and 24.5% and 24.0% for the six months ended July 31, 2026 and August 1, 2025, respectively.
+FINANCIAL CONDITION, LIQUIDITY AND CAPITAL RESOURCES
+Sources of Liquidity
+Cash flows from operations, combined with our continued access to capital markets on both a short-term and long-term basis, as needed, remain adequate to fund our operations, make strategic investments to support long-term growth, return cash to shareholders in the form of dividends, and repay debt maturities as they become due.  We believe these sources of liquidity will continue to support our business for the next twelve months.  As of July 31, 2026, we held $3.2 billion of cash and cash equivalents, as well as $5.0 billion in undrawn capacity on our Revolving Credit Facilities.
+22
+Table of Contents
+Cash Flows Provided by Operating Activities
+Six Months Ended
+(In millions)    July 31, 2026     August 1, 2025
+Net cash provided by operating activities    $    7,009       $    7,610
+Cash flows from operating activities continued to provide the primary source of our liquidity.  The decrease in net cash provided by operating activities for the six months ended July 31, 2026, compared to the six months ended August 1, 2025, was primarily driven by timing of prior year income tax payments and other changes in working capital.
+Cash Flows Used in Investing Activities
+Six Months Ended
+(In millions)    July 31, 2026     August 1, 2025
+Net cash used in investing activities    $    (761)      $    (2,343)
+Net cash used in investing activities primarily consists of transactions related to capital expenditures.  Our capital expenditures generally consist of investments in our strategic initiatives to enhance our ability to serve customers, improve existing stores, and support expansion plans.  For fiscal 2026, our guidance for capital expenditures is approximately $2.5 billion.  Capital expenditures were $1,063 million and $1,013 million for the six months ended July 31, 2026, and August 1, 2025, respectively.  In addition to capital expenditures, net cash used in investing activities for the six months ended August 1, 2025, includes our acquisition of ADG.
+Cash Flows Used in Financing Activities
+Six Months Ended
+(In millions)    July 31, 2026     August 1, 2025
+Net cash used in financing activities    $    (4,058)      $    (2,168)
+Net cash used in financing activities primarily consists of transactions related to our debt, share repurchases, and cash dividend payments.
+Debt
+The 2025 Credit Agreement and the 2023 Credit Agreement (collectively the Long-Term Credit Agreements) support the Company’s commercial paper program.  The amounts available to be drawn under the Long-Term Credit Agreements are reduced by the amount of borrowings under the commercial paper program.  As of July 31, 2026, the Company had no outstanding borrowings under the commercial paper program.
+The following table includes additional information related to our debt for the six months ended July 31, 2026, and August 1, 2025:
+Six Months Ended
+(In millions)    July 31, 2026     August 1, 2025
+Repayment of debt    (2,397)      (796)
+Maximum commercial paper outstanding at any period    1,000       —
+23
+Table of Contents
+Share Repurchases
+We have a share repurchase program, authorized by the Company’s Board of Directors, that is executed through purchases made from time to time either in the open market or through private off-market transactions.  We also withhold shares from employees to satisfy tax withholding liabilities on share-based payments.  Shares repurchased are retired and returned to authorized and unissued status.  The following table provides, on a settlement date basis, the total number of shares repurchased, average price paid per share, and the total amount paid for share repurchases for the six months ended July 31, 2026, and August 1, 2025:
+Six Months Ended
+(In millions, except per share data)    July 31, 2026     August 1, 2025
+Total amount paid for share repurchases  1
+$    366       $    113
+Total number of shares repurchased    1.5       0.5
+Average price paid per share    $    243.42       $    243.02
+1     Excludes unsettled share repurchases and unpaid excise taxes.
+As of July 31, 2026, we had $10.5 billion remaining available under our share repurchase program with no expiration date.
+Dividends are paid in the quarter immediately following the quarter in which they are declared.  Dividends paid per share increased from $2.30 per share for the six months ended August 1, 2025, to $2.40 per share for the six months ended July 31, 2026.
+Capital Resources
+We expect to maintain our investment grade rating and have access to the capital markets on both a short-term and long-term basis when needed for liquidity purposes by issuing commercial paper or new long-term debt.  The availability and the borrowing costs of these funds could be adversely affected, however, by a downgrade of our debt ratings or a deterioration of certain financial ratios.  The table below reflects our debt ratings by Standard & Poor’s (S&P) and Moody’s as of August 27, 2026, which we are disclosing to enhance understanding of our sources of liquidity and the effect of our ratings on our cost of funds.  Our commercial paper and senior debt ratings may be subject to revision or withdrawal at any time by the assigning rating organization, and each rating should be evaluated independently of any other rating.
+Debt Ratings    S&P    Moody’s
+Commercial Paper    A-2    P-2
+Senior Debt    BBB+    Baa1
+Senior Debt Outlook    Stable    Stable
+There are no provisions in any agreements that would require early cash settlement of existing debt or leases as a result of a downgrade in our debt rating or a decrease in our stock price.
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+Our significant accounting policies are described in Note 1 to the consolidated financial statements presented in the Annual Report.  Our critical accounting policies and estimates are described in “Item 7 - Management’s Discussion and Analysis of Financial Condition and Results of Operations” in the Annual Report.  Our significant and critical accounting policies and estimates have not changed significantly since the filing of the Annual Report.
+Item 3. - Quantitative and Qualitative Disclosures about Market Risk
+The Company is exposed to certain market risks, including changes in interest rates, transportation costs, and commodity prices.  The Company’s market risks have not changed materially from those disclosed in the Annual Report for the fiscal year ended January 30, 2026.
+Item 4. - Controls and Procedures
+The Company’s management, with the participation of the Chief Executive Officer and the Chief Financial Officer, has evaluated the effectiveness of the Company’s “disclosure controls and procedures,” (as such term is defined in Rule 13a-15(e)
+24
+Table of Contents
+promulgated under the Securities Exchange Act of 1934, as amended (the Exchange Act)).  Based upon their evaluation, the Chief Executive Officer and the Chief Financial Officer concluded that, as of July 31, 2026, the Company’s disclosure controls and procedures were effective for the purpose of ensuring that the information required to be disclosed in the reports that the Company files or submits under the Exchange Act with the SEC (1) is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and (2) is accumulated and communicated to the Company’s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure.
+The Company is undergoing a multi-year technology transformation which includes updating and modernizing our distribution and replenishment systems, as well as certain accounting and finance systems.  These updates are expected to continue for the next few years, and management will continue to evaluate the design and implementation of the Company’s internal controls over financial reporting as the transformation continues.  No change in the Company’s internal control over financial reporting occurred during the quarter ended July 31, 2026, that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+25
+Table of Contents
+Part II – OTHER INFORMATION
+Item 1. - Legal Proceedings
+The Company is from time to time a party to various lawsuits, claims, and other legal proceedings that arise in the ordinary course of business. With respect to such lawsuits, claims, and proceedings, the Company records reserves when it is probable a liability has been incurred and the amount of loss can be reasonably estimated.  The Company applies a threshold of $1.0 million for purposes of disclosing environmental proceedings involving a governmental authority, if any, under this Item 1.  The Company does not believe that any of these proceedings, individually or in the aggregate, would be expected to have a material adverse effect on its results of operations, financial position, or cash flows.  The Company maintains liability insurance for certain risks that are subject to certain self-insurance limits.
+The U.S. Attorney’s Office for the Central District of California and the U.S. EPA’s Region 9 Office have been conducting an investigation with respect to whether the Company and independent contractors who performed installations under the Company’s third-party installer program complied with applicable recordkeeping requirements and lead-safe practices under the Toxic Substances Control Act, the EPA’s Lead Renovation, Repair and Painting Rules, and with an EPA civil consent decree that the Company entered into in 2014 in the context of projects in homes constructed before 1978.  In the third quarter of fiscal 2023, the EPA’s Region 5 and other EPA and U.S. Department of Justice representatives informed the Company that they have identified possible deviations from the consent decree.  On November 25, 2025, the Company, without admitting liability, agreed to resolve the matter by payment of a civil penalty of $12.5 million and by entering into a second consent decree to replace the 2014 consent decree.  The second consent decree was lodged in the U.S. District Court for the Central District of California and was approved by the District Court on July 8, 2026, following a public comment period.      The second consent decree has now become final.
+Item 1A. - Risk Factors
+There have been no material changes in the Company’s risk factors from those disclosed in Part I, “Item 1A. Risk Factors” in our Annual Report filed with the SEC on March 23, 2026.
+Item 2.   -   Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+The following table sets forth information with respect to purchases of the Company’s common stock on a trade date basis made during the three months ended July 31, 2026:
+Total Number of Shares Purchased  1
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs  2
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs  2, 3
+May 2, 2026 - May 29, 2026    110       $    219.97       —       $    10,486,130,126
+May 30, 2026 - July 3, 2026    12,180       220.15       —       10,486,130,126
+July 4, 2026 - July 31, 2026    63       214.63       —       10,486,130,126
+As of July 31, 2026    12,353         $    220.12         —         $    10,486,130,126
+1  The total number of shares repurchased includes shares withheld from employees to satisfy either the exercise price of stock options or the statutory withholding tax liability upon the vesting of share-based awards.
+2  On December 7, 2022, the Company announced that its Board of Directors authorized an additional $15.0 billion of share repurchases with no expiration.
+3  Excludes excise tax on share repurchases in excess of issuances, which is recognized as part of the cost basis of the shares acquired in the consolidated statements of shareholders’ deficit.
+Item 5. - Other Information
+During the three months ended July 31, 2026, none of the Company’s directors or executive officers   adopted   or   terminated   any contract, instruction, or written plan for the purchase or sale of Company securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any “non-Rule 10b5-1 trading arrangement” (as those terms are defined in Regulation S-K, Item 408).
+26
+Table of Contents
+Item 6. - Exhibits
+Exhibit
+Number       Incorporated by Reference
+Exhibit Description     Form     File No.     Exhibit     Filing Date
+3.1
+Restated Charter of Lowe’s Companies, Inc.
+10-Q     001-07898     3.1     September 1, 2009
+3.2
+Bylaws of Lowe’s Companies, Inc., as amended and restated November 11, 2022.
+8-K     001-07898     3.1     November 16, 2022
+10.1
+Form of Lowe’s Companies, Inc. Change in Control Agreement for Tier 1 Senior Officers*‡
+15.1
+Deloitte & Touche LLP Letter re Unaudited Interim Financial Information.‡
+31.1
+Certification of Principal Executive Officer Pursuant to Rule 13a-14(a)/15d-14(a), as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.‡
+31.2
+Certification of Principal Financial Officer Pursuant to Rule 13a-14(a)/15d-14(a), as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.‡
+32.1
+Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.†
+32.2
+Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.†
+101.INS     Inline XBRL Instance Document – the XBRL Instance Document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.‡
+101.SCH     Inline XBRL Taxonomy Extension Schema Document.‡
+101.CAL     Inline XBRL Taxonomy Extension Calculation Linkbase Document.‡
+101.DEF     Inline XBRL Taxonomy Extension Definition Linkbase Document.‡
+101.LAB     Inline XBRL Taxonomy Extension Label Linkbase Document.‡
+101.PRE     Inline XBRL Taxonomy Extension Presentation Linkbase Document.‡
+104     Cover Page Interactive Data File (formatted as Inline XBRL document and included in Exhibit 101).‡
+*     Indicates a management contract or compensatory plan or arrangement.
+‡     Filed herewith.
+†     Furnished herewith.
+27
+Table of Contents
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+LOWE’S COMPANIES, INC.
+(Registrant)
+August 27, 2026     By: /s/ Dan C. Griggs, Jr.
+Date     Dan C. Griggs, Jr.
+Senior Vice President, Tax and Chief Accounting Officer
+28

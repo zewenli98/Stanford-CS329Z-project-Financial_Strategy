@@ -1,0 +1,1788 @@
+EX-99.1
+2
+orcl-ex99_1.htm
+EX-99.1
+EX-99.1
+Exhibit 99.1
+For Immediate Release
+Contact:
+Ken Bond
+Deborah Hellinger
+Oracle Investor Relations
+Oracle Corporate Communications
+1.650.607.0349
+1.212.508.7935
+ken.bond@oracle.com
+deborah.hellinger@oracle.com
+Oracle Announces Fiscal 2024 Second Quarter Financial Results
+•
+Q2 GAAP Earnings per Share $0.89, Non-GAAP Earnings per Share $1.34
+•
+Q2 Total Revenue $12.9 billion, up 5% in USD, up 4% in constant currency
+•
+Q2 Total Remaining Performance Obligations over $65 billion
+•
+Q2 Cloud Revenue (IaaS plus SaaS) $4.8 billion, up 25% in USD, up 24% in constant currency
+•
+Q2 Cloud Infrastructure (IaaS) Revenue $1.6 billion, up 52% in USD, up 50% in constant currency
+•
+Q2 Cloud Application (SaaS) Revenue $3.2 billion, up 15% in USD, up 14% in constant currency
+•
+Q2 Fusion Cloud ERP (SaaS) Revenue $0.8 billion, up 21% in USD, up 19% in constant currency
+•
+Q2 NetSuite Cloud ERP (SaaS) Revenue $0.8 billion, up 21% in USD, up 20% in constant currency
+AUSTIN, Texas, December 11, 2023 -- Oracle Corporation (NYSE: ORCL) today announced fiscal 2024 Q2 results. Total quarterly revenues were up 5% year-over-year in USD and up 4% in constant currency to $12.9 billion. Cloud services and license support revenues were up 12% in USD and up 11% in constant currency to $9.6 billion. Cloud license and on-premise license revenues were down 18% in USD and down 19% in constant currency to $1.2 billion.
+Q2 GAAP operating income was $3.6 billion. Non-GAAP operating income was $5.5 billion, up 9% in USD and up 7% in constant currency. GAAP operating margin was 28%, and non-GAAP operating margin was 43%. GAAP net income was $2.5 billion. Non-GAAP net income was $3.8 billion, up 14% in USD and up 11% in constant currency. Q2 GAAP earnings per share was $0.89 while non-GAAP earnings per share was $1.34, up 11% in USD and up 9% in constant currency.
+Short-term deferred revenues were $8.9 billion. Over the last twelve months, operating cash flow was $17.0 billion and free cash flow was $10.1 billion.
+“Demand for our Cloud Infrastructure and Generative AI services is increasing at an astronomical rate,” said Oracle CEO, Safra Catz. “As a measure of that demand, Oracle’s total Remaining Performance Obligations (RPO) climbed to over $65 billion—exceeding annual revenue. Our cloud businesses are now at nearly a $20 billion-dollar annual revenue run rate, and cloud services demand continues to grow at unprecedented levels. Business is good and getting better.”
+“Oracle is in the process of expanding 66 of our existing cloud datacenters—and building 100 new cloud datacenters—to meet growing demand,” said Oracle Chairman and CTO, Larry Ellison. “We can build our new datacenters very rapidly and operate them inexpensively because they are all highly automated with identical high-performance RDMA networks and the same set of autonomous services. In the next few months, we are turning on 20 new Oracle cloud datacenters collocated with and connected to Microsoft Azure. Simultaneously we are building dozens of new datacenters in countries all over the world. Demand is over the moon.”
+The board of directors declared a quarterly cash dividend of $0.40 per share of outstanding common stock. This dividend will be paid to stockholders of record as of the close of business on January 11, 2024, with a payment date of January 25, 2024.
+•
+A sample list of customers which purchased Oracle Cloud services during the quarter will be available at www.oracle.com/customers/earnings/.
+•
+A list of recent technical innovations and announcements is available at www.oracle.com/news/.
+•
+To learn what industry analysts have been saying about Oracle’s products and services see www.oracle.com/corporate/analyst-reports/.
+Earnings Conference Call and Webcast
+Oracle will hold a conference call and webcast today to discuss these results at 4:00 p.m. Central. A live and replay webcast will be available on the Oracle Investor Relations website at www.oracle.com/investor/.
+About Oracle
+Oracle offers integrated suites of applications plus secure, autonomous infrastructure in the Oracle Cloud. For more information about Oracle (NYSE: ORCL), please visit us at www.oracle.com.
+# # #
+Trademarks
+Oracle, Java, MySQL, and NetSuite are registered trademarks of Oracle Corporation. NetSuite was the first cloud company—ushering in the new era of cloud computing.
+"Safe Harbor" Statement:     Statements in this press release relating to future demand for specific products, expectations for growth in our cloud businesses and plans for expanding our datacenters, are "forward-looking statements" and are subject to material risks and uncertainties. Risks and uncertainties that could affect our current expectations and our actual results, include, among others: our ability to develop new products and services, integrate acquired products and services and enhance our existing products and services; our management of complex cloud and hardware offerings, including the sourcing of technologies and technology components; significant coding, manufacturing or configuration errors in our offerings; risks associated with acquisitions;  economic, political and market conditions; information technology system failures, privacy and data security concerns; cybersecurity breaches; unfavorable legal proceedings, government investigations, and complex and changing laws and regulations. A detailed discussion of these factors and other risks that affect our business is contained in our SEC filings, including our most recent reports on Form 10-K and Form 10-Q, particularly under the heading "Risk Factors." Copies of these filings are available online from the SEC or by contacting Oracle's Investor Relations Department at (650) 506-4073 or by clicking on SEC Filings on the Oracle Investor Relations website at www.oracle.com/investor/. All information set forth in this press release is current as of December 11, 2023. Oracle undertakes no duty to update any statement in light of new information or future events.
+ORACLE CORPORATION
+Q2 FISCAL 2024 FINANCIAL RESULTS
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+($ in millions, except per share data)
+Three Months Ended November 30,
+% Increase
+% Increase
+(Decrease)
+2023
+% of
+Revenues
+2022
+% of
+Revenues
+(Decrease)
+in US $
+in Constant
+Currency (1)
+REVENUES
+Cloud services and license support
+$
+9,639
+74%
+$
+8,598
+70%
+12%
+11%
+Cloud license and on-premise license
+1,178
+9%
+1,435
+12%
+(18%)
+(19%)
+Hardware
+756
+6%
+850
+7%
+(11%)
+(12%)
+Services
+1,368
+11%
+1,392
+11%
+(2%)
+(3%)
+Total revenues
+12,941
+100%
+12,275
+100%
+5%
+4%
+OPERATING EXPENSES
+Cloud services and license support
+2,274
+17%
+1,891
+15%
+20%
+19%
+Hardware
+213
+2%
+286
+2%
+(25%)
+(27%)
+Services
+1,253
+10%
+1,181
+10%
+6%
+5%
+Sales and marketing
+2,093
+16%
+2,216
+18%
+(6%)
+(7%)
+Research and development
+2,226
+17%
+2,158
+18%
+3%
+3%
+General and administrative
+375
+3%
+366
+3%
+3%
+2%
+Amortization of intangible assets
+755
+6%
+907
+7%
+(17%)
+(17%)
+Acquisition related and other
+47
+0%
+62
+1%
+(23%)
+(24%)
+Restructuring
+83
+1%
+137
+1%
+(39%)
+(42%)
+Total operating expenses
+9,319
+72%
+9,204
+75%
+1%
+0%
+OPERATING INCOME
+3,622
+28%
+3,071
+25%
+18%
+15%
+Interest expense
+(888
+)
+(7%)
+(856
+)
+(7%)
+4%
+4%
+Non-operating expenses, net
+(14
+)
+0%
+(71
+)
+(1%)
+(79%)
+(81%)
+INCOME BEFORE INCOME TAXES
+2,720
+21%
+2,144
+17%
+27%
+22%
+Provision for income taxes
+217
+2%
+403
+3%
+(46%)
+(48%)
+NET INCOME
+$
+2,503
+19%
+$
+1,741
+14%
+44%
+39%
+EARNINGS PER SHARE:
+Basic
+$
+0.91
+$
+0.65
+Diluted
+$
+0.89
+$
+0.63
+WEIGHTED AVERAGE COMMON SHARES OUTSTANDING:
+Basic
+2,746
+2,695
+Diluted
+2,817
+2,746
+(1)
+We compare the percent change in the results from one period to another period using constant currency disclosure. We present constant currency information to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars at the exchange rates in effect on May 31, 2023, which was the last day of our prior fiscal year, rather than the actual exchange rates in effect during the respective periods. Movements in international currencies relative to the United States dollar during the three months ended November 30, 2023 compared with the corresponding prior year period increased our total revenues by 1 percentage point, total operating expenses by 1 percentage point and operating income by 3 percentage points.
+1
+ORACLE CORPORATION
+Q2 FISCAL 2024 FINANCIAL RESULTS
+RECONCILIATION OF SELECTED GAAP MEASURES TO NON-GAAP MEASURES (1)
+($ in millions, except per share data)
+Three Months Ended November 30,
+% Increase (Decrease)
+in US $
+% Increase (Decrease) in
+Constant Currency (2)
+2023
+GAAP
+Adj.
+2023
+Non-GAAP
+2022
+GAAP
+Adj.
+2022
+Non-GAAP
+GAAP
+Non-GAAP
+GAAP
+Non-GAAP
+TOTAL REVENUES
+$
+12,941
+$
+—
+$
+12,941
+$
+12,275
+$
+—
+$
+12,275
+5%
+5%
+4%
+4%
+TOTAL OPERATING EXPENSES
+$
+9,319
+$
+(1,914
+)
+$
+7,405
+$
+9,204
+$
+(2,015
+)
+$
+7,189
+1%
+3%
+0%
+2%
+Stock-based compensation (3)
+1,029
+(1,029
+)
+—
+909
+(909
+)
+—
+13%
+*
+13%
+*
+Amortization of intangible assets (4)
+755
+(755
+)
+—
+907
+(907
+)
+—
+(17%)
+*
+(17%)
+*
+Acquisition related and other
+47
+(47
+)
+—
+62
+(62
+)
+—
+(23%)
+*
+(24%)
+*
+Restructuring
+83
+(83
+)
+—
+137
+(137
+)
+—
+(39%)
+*
+(42%)
+*
+OPERATING INCOME
+$
+3,622
+$
+1,914
+$
+5,536
+$
+3,071
+$
+2,015
+$
+5,086
+18%
+9%
+15%
+7%
+OPERATING MARGIN %
+28%
+43%
+25%
+41%
+297 bp.
+135 bp.
+266 bp.
+121 bp.
+INCOME TAX EFFECTS (5)
+$
+217
+$
+655
+$
+872
+$
+403
+$
+444
+$
+847
+(46%)
+3%
+(48%)
+1%
+NET INCOME
+$
+2,503
+$
+1,259
+$
+3,762
+$
+1,741
+$
+1,571
+$
+3,312
+44%
+14%
+39%
+11%
+DILUTED EARNINGS PER SHARE
+$
+0.89
+$
+1.34
+$
+0.63
+$
+1.21
+40%
+11%
+35%
+9%
+DILUTED WEIGHTED AVERAGE COMMON SHARES OUTSTANDING
+2,817
+—
+2,817
+2,746
+—
+2,746
+3%
+3%
+3%
+3%
+(1)
+This presentation includes non-GAAP measures. Our non-GAAP measures are not meant to be considered in isolation or as a substitute for comparable GAAP measures, and should be read only in conjunction with our consolidated financial statements prepared in accordance with GAAP. For a detailed explanation of the adjustments made to comparable GAAP measures, the reasons why management uses these measures, the usefulness of these measures and the material limitations on the usefulness of these measures, please see Appendix A.
+(2)
+We compare the percent change in the results from one period to another period using constant currency disclosure. We present constant currency information to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars at the exchange rates in effect on May 31, 2023, which was the last day of our prior fiscal year, rather than the actual exchange rates in effect during the respective periods.
+(3)
+Stock-based compensation was included in the following GAAP operating expense categories:
+Three Months Ended
+November 30, 2023
+Three Months Ended
+November 30, 2022
+GAAP
+Adj.
+Non-GAAP
+GAAP
+Adj.
+Non-GAAP
+Cloud services and license support
+$
+137
+$
+(137
+)
+$
+—
+$
+113
+$
+(113
+)
+$
+—
+Hardware
+6
+(6
+)
+—
+5
+(5
+)
+—
+Services
+45
+(45
+)
+—
+35
+(35
+)
+—
+Sales and marketing
+174
+(174
+)
+—
+151
+(151
+)
+—
+Research and development
+573
+(573
+)
+—
+510
+(510
+)
+—
+General and administrative
+94
+(94
+)
+—
+95
+(95
+)
+—
+Total stock-based compensation
+$
+1,029
+$
+(1,029
+)
+$
+—
+$
+909
+$
+(909
+)
+$
+—
+(4)
+Estimated future annual amortization expense related to intangible assets as of November 30, 2023 was as follows:
+Remainder of fiscal 2024
+$
+1,488
+Fiscal 2025
+2,303
+Fiscal 2026
+1,639
+Fiscal 2027
+672
+Fiscal 2028
+635
+Fiscal 2029
+561
+Thereafter
+1,080
+Total intangible assets, net
+$
+8,378
+(5)
+Income tax effects were calculated reflecting an effective GAAP tax rate of 8.0% and 18.8% in the second quarter of fiscal 2024 and 2023, respectively, and an effective non-GAAP tax rate of 18.8% and 20.4% in the second quarter of fiscal 2024 and 2023, respectively. The difference in our GAAP and non-GAAP tax rates in each of the second quarter of fiscal 2024 and 2023 was primarily due to the net tax effects related to stock-based compensation expense; acquisition related and other items, including the tax effects on amortization of intangible assets; and restructuring expense, partially offset by the net deferred tax effects related to an income tax benefit that was previously recorded due to the partial realignment of our legal entity structure.
+*
+Not meaningful
+2
+ORACLE CORPORATION
+Q2 FISCAL 2024 YEAR TO DATE FINANCIAL RESULTS
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+($ in millions, except per share data)
+Six Months Ended November 30,
+% Increase
+% Increase
+(Decrease)
+2023
+% of
+Revenues
+2022
+% of
+Revenues
+(Decrease)
+in US $
+in Constant
+Currency (1)
+REVENUES
+Cloud services and license support
+$
+19,186
+75%
+$
+17,015
+72%
+13%
+11%
+Cloud license and on-premise license
+1,987
+8%
+2,339
+10%
+(15%)
+(16%)
+Hardware
+1,470
+6%
+1,613
+7%
+(9%)
+(10%)
+Services
+2,751
+11%
+2,753
+11%
+0%
+(1%)
+Total revenues
+25,394
+100%
+23,720
+100%
+7%
+6%
+OPERATING EXPENSES
+Cloud services and license support
+4,452
+18%
+3,626
+15%
+23%
+22%
+Hardware
+432
+2%
+536
+2%
+(19%)
+(21%)
+Services
+2,465
+10%
+2,233
+9%
+10%
+9%
+Sales and marketing
+4,118
+16%
+4,393
+19%
+(6%)
+(7%)
+Research and development
+4,442
+17%
+4,251
+18%
+4%
+4%
+General and administrative
+769
+3%
+777
+3%
+(1%)
+(2%)
+Amortization of intangible assets
+1,518
+6%
+1,826
+8%
+(17%)
+(17%)
+Acquisition related and other
+58
+0%
+103
+1%
+(43%)
+(43%)
+Restructuring
+222
+1%
+281
+1%
+(21%)
+(22%)
+Total operating expenses
+18,476
+73%
+18,026
+76%
+2%
+2%
+OPERATING INCOME
+6,918
+27%
+5,694
+24%
+22%
+19%
+Interest expense
+(1,760
+)
+(7%)
+(1,643
+)
+(7%)
+7%
+7%
+Non-operating expenses, net
+(63
+)
+0%
+(251
+)
+(1%)
+(75%)
+(76%)
+INCOME BEFORE INCOME TAXES
+5,095
+20%
+3,800
+16%
+34%
+30%
+Provision for income taxes
+172
+1%
+511
+2%
+(66%)
+(68%)
+NET INCOME
+$
+4,923
+19%
+$
+3,289
+14%
+50%
+45%
+EARNINGS PER SHARE:
+Basic
+$
+1.80
+$
+1.22
+Diluted
+$
+1.75
+$
+1.20
+WEIGHTED AVERAGE COMMON SHARES OUTSTANDING:
+Basic
+2,737
+2,690
+Diluted
+2,820
+2,747
+(1)
+We compare the percent change in the results from one period to another period using constant currency disclosure. We present constant currency information to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars at the exchange rates in effect on May 31, 2023, which was the last day of our prior fiscal year, rather than the actual exchange rates in effect during the respective periods. Movements in international currencies relative to the United States dollar during the six months ended November 30, 2023 compared with the corresponding prior year period increased our total revenues by 1 percentage point and operating income by 3 percentage points.
+3
+ORACLE CORPORATION
+Q2 FISCAL 2024 YEAR TO DATE FINANCIAL RESULTS
+RECONCILIATION OF SELECTED GAAP MEASURES TO NON-GAAP MEASURES (1)
+($ in millions, except per share data)
+Six Months Ended November 30,
+% Increase (Decrease)
+in US $
+% Increase (Decrease) in
+Constant Currency (2)
+2023
+GAAP
+Adj.
+2023
+Non-GAAP
+2022
+GAAP
+Adj.
+2022
+Non-GAAP
+GAAP
+Non-GAAP
+GAAP
+Non-GAAP
+TOTAL REVENUES
+$
+25,394
+$
+—
+$
+25,394
+$
+23,720
+$
+—
+$
+23,720
+7%
+7%
+6%
+6%
+TOTAL OPERATING EXPENSES
+$
+18,476
+$
+(3,676
+)
+$
+14,800
+$
+18,026
+$
+(3,869
+)
+$
+14,157
+2%
+5%
+2%
+4%
+Stock-based compensation (3)
+1,878
+(1,878
+)
+—
+1,659
+(1,659
+)
+—
+13%
+*
+13%
+*
+Amortization of intangible assets (4)
+1,518
+(1,518
+)
+—
+1,826
+(1,826
+)
+—
+(17%)
+*
+(17%)
+*
+Acquisition related and other
+58
+(58
+)
+—
+103
+(103
+)
+—
+(43%)
+*
+(43%)
+*
+Restructuring
+222
+(222
+)
+—
+281
+(281
+)
+—
+(21%)
+*
+(22%)
+*
+OPERATING INCOME
+$
+6,918
+$
+3,676
+$
+10,594
+$
+5,694
+$
+3,869
+$
+9,563
+22%
+11%
+19%
+9%
+OPERATING MARGIN %
+27%
+42%
+24%
+40%
+324 bp.
+141 bp.
+293 bp.
+128 bp.
+INCOME TAX EFFECTS (5)
+$
+172
+$
+1,478
+$
+1,650
+$
+511
+$
+1,018
+$
+1,529
+(66%)
+8%
+(68%)
+6%
+NET INCOME
+$
+4,923
+$
+2,198
+$
+7,121
+$
+3,289
+$
+2,851
+$
+6,140
+50%
+16%
+45%
+14%
+DILUTED EARNINGS PER SHARE
+$
+1.75
+$
+2.53
+$
+1.20
+$
+2.24
+46%
+13%
+41%
+11%
+DILUTED WEIGHTED AVERAGE COMMON SHARES OUTSTANDING
+2,820
+—
+2,820
+2,747
+—
+2,747
+3%
+3%
+3%
+3%
+(1)
+This presentation includes non-GAAP measures. Our non-GAAP measures are not meant to be considered in isolation or as a substitute for comparable GAAP measures, and should be read only in conjunction with our consolidated financial statements prepared in accordance with GAAP. For a detailed explanation of the adjustments made to comparable GAAP measures, the reasons why management uses these measures, the usefulness of these measures and the material limitations on the usefulness of these measures, please see Appendix A.
+(2)
+We compare the percent change in the results from one period to another period using constant currency disclosure. We present constant currency information to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars at the exchange rates in effect on May 31, 2023, which was the last day of our prior fiscal year, rather than the actual exchange rates in effect during the respective periods.
+(3)
+Stock-based compensation was included in the following GAAP operating expense categories:
+Six Months Ended
+November 30, 2023
+Six Months Ended
+November 30, 2022
+GAAP
+Adj.
+Non-GAAP
+GAAP
+Adj.
+Non-GAAP
+Cloud services and license support
+$
+248
+$
+(248
+)
+$
+—
+$
+204
+$
+(204
+)
+$
+—
+Hardware
+11
+(11
+)
+—
+9
+(9
+)
+—
+Services
+78
+(78
+)
+—
+60
+(60
+)
+—
+Sales and marketing
+309
+(309
+)
+—
+275
+(275
+)
+—
+Research and development
+1,057
+(1,057
+)
+—
+932
+(932
+)
+—
+General and administrative
+175
+(175
+)
+—
+179
+(179
+)
+—
+Total stock-based compensation
+$
+1,878
+$
+(1,878
+)
+$
+—
+$
+1,659
+$
+(1,659
+)
+$
+—
+(4)
+Estimated future annual amortization expense related to intangible assets as of November 30, 2023 was as follows:
+Remainder of fiscal 2024
+$
+1,488
+Fiscal 2025
+2,303
+Fiscal 2026
+1,639
+Fiscal 2027
+672
+Fiscal 2028
+635
+Fiscal 2029
+561
+Thereafter
+1,080
+Total intangible assets, net
+$
+8,378
+(5)
+Income tax effects were calculated reflecting an effective GAAP tax rate of 3.4% and 13.4% in the first half of fiscal 2024 and 2023, respectively, and an effective non-GAAP tax rate of 18.8% and 19.9% in the first half of fiscal 2024 and 2023, respectively. The difference in our GAAP and non-GAAP tax rates in each of the first half of fiscal 2024 and 2023 was primarily due to the net tax effects related to stock-based compensation expense; acquisition related and other items, including the tax effects on amortization of intangible assets; and restructuring expense, partially offset by the net deferred tax effects related to an income tax benefit that was previously recorded due to the partial realignment of our legal entity structure.
+*
+Not meaningful
+4
+ORACLE CORPORATION
+Q2 FISCAL 2024 FINANCIAL RESULTS
+CONDENSED CONSOLIDATED BALANCE SHEETS
+($ in millions)
+November 30,
+2023
+May 31,
+2023
+ASSETS
+Current Assets:
+Cash and cash equivalents
+$
+8,244
+$
+9,765
+Marketable securities
+446
+422
+Trade receivables, net
+6,804
+6,915
+Prepaid expenses and other current assets
+3,795
+3,902
+Total Current Assets
+19,289
+21,004
+Non-Current Assets:
+Property, plant and equipment, net
+18,009
+17,069
+Intangible assets, net
+8,378
+9,837
+Goodwill, net
+62,231
+62,261
+Deferred tax assets
+12,758
+12,226
+Other non-current assets
+13,659
+11,987
+Total Non-Current Assets
+115,035
+113,380
+TOTAL ASSETS
+$
+134,324
+$
+134,384
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current Liabilities:
+Notes payable and other borrowings, current
+$
+6,321
+$
+4,061
+Accounts payable
+1,107
+1,204
+Accrued compensation and related benefits
+1,706
+2,053
+Deferred revenues
+8,878
+8,970
+Other current liabilities
+6,395
+6,802
+Total Current Liabilities
+24,407
+23,090
+Non-Current Liabilities:
+Notes payable and other borrowings, non-current
+82,468
+86,420
+Income taxes payable
+10,046
+11,077
+Deferred tax liabilities
+5,244
+5,772
+Other non-current liabilities
+7,781
+6,469
+Total Non-Current Liabilities
+105,539
+109,738
+Stockholders’ Equity
+4,378
+1,556
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY
+$
+134,324
+$
+134,384
+5
+ORACLE CORPORATION
+Q2 FISCAL 2024 FINANCIAL RESULTS
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+($ in millions)
+Six Months Ended November 30,
+2023
+2022
+Cash Flows From Operating Activities:
+Net income
+$
+4,923
+$
+3,289
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation
+1,510
+1,138
+Amortization of intangible assets
+1,518
+1,826
+Deferred income taxes
+(1,049
+)
+(852
+)
+Stock-based compensation
+1,878
+1,659
+Other, net
+331
+289
+Changes in operating assets and liabilities, net of effects from acquisitions:
+Decrease in trade receivables, net
+145
+516
+Decrease in prepaid expenses and other assets
+301
+121
+Decrease in accounts payable and other liabilities
+(1,048
+)
+(785
+)
+Decrease in income taxes payable
+(1,541
+)
+(327
+)
+Increase in deferred revenues
+149
+369
+Net cash provided by operating activities
+7,117
+7,243
+Cash Flows From Investing Activities:
+Purchases of marketable securities and other investments
+(515
+)
+(603
+)
+Proceeds from sales and maturities of marketable securities and other investments
+157
+462
+Acquisitions, net of cash acquired
+(59
+)
+(27,799
+)
+Capital expenditures
+(2,394
+)
+(4,154
+)
+Net cash used for investing activities
+(2,811
+)
+(32,094
+)
+Cash Flows From Financing Activities:
+Payments for repurchases of common stock
+(600
+)
+(1,000
+)
+Proceeds from issuances of common stock
+426
+661
+Shares repurchased for tax withholdings upon vesting of restricted stock-based awards
+(1,733
+)
+(895
+)
+Payments of dividends to stockholders
+(2,190
+)
+(1,723
+)
+Proceeds from issuances of commercial paper, net of repayments
+1,749
+1,880
+Proceeds from issuances of senior notes and other borrowings, net of issuance costs
+—
+28,280
+Repayments of senior notes and other borrowings
+(3,500
+)
+(16,692
+)
+Other, net
+31
+(56
+)
+Net cash (used for) provided by financing activities
+(5,817
+)
+10,455
+Effect of exchange rate changes on cash and cash equivalents
+(10
+)
+(174
+)
+Net decrease in cash and cash equivalents
+(1,521
+)
+(14,570
+)
+Cash and cash equivalents at beginning of period
+9,765
+21,383
+Cash and cash equivalents at end of period
+$
+8,244
+$
+6,813
+6
+ORACLE CORPORATION
+Q2 FISCAL 2024 FINANCIAL RESULTS
+FREE CASH FLOW - TRAILING 4-QUARTERS (1)
+($ in millions)
+Fiscal 2023
+Fiscal 2024
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+GAAP Operating Cash Flow
+$
+10,542
+$
+15,073
+$
+15,503
+$
+17,165
+$
+17,745
+$
+17,039
+Capital Expenditures
+(5,168
+)
+(6,678
+)
+(8,205
+)
+(8,695
+)
+(8,290
+)
+(6,935
+)
+Free Cash Flow
+$
+5,374
+$
+8,395
+$
+7,298
+$
+8,470
+$
+9,455
+$
+10,104
+Operating Cash Flow % Growth over prior year
+(31%)
+47%
+49%
+80%
+68%
+13%
+Free Cash Flow % Growth over prior year
+(57%)
+18%
+11%
+68%
+76%
+20%
+GAAP Net Income
+$
+5,808
+$
+8,797
+$
+8,373
+$
+8,503
+$
+9,375
+$
+10,137
+Operating Cash Flow as a % of Net Income
+182%
+171%
+185%
+202%
+189%
+168%
+Free Cash Flow as a % of Net Income
+93%
+95%
+87%
+100%
+101%
+100%
+(1)
+To supplement our statements of cash flows presented on a GAAP basis, we use non-GAAP measures of cash flows on a trailing 4-quarter basis to analyze cash flow generated from operations. We believe free cash flow is also useful as one of the bases for comparing our performance with our competitors. The presentation of non-GAAP free cash flow is not meant to be considered in isolation or as an alternative to net income as an indicator of our performance, or as an alternative to cash flows from operating activities as a measure of liquidity.
+7
+ORACLE CORPORATION
+Q2 FISCAL 2024 FINANCIAL RESULTS
+SUPPLEMENTAL ANALYSIS OF GAAP REVENUES (1)
+($ in millions)
+Fiscal 2023
+Fiscal 2024
+Q1
+Q2
+Q3
+Q4
+TOTAL
+Q1
+Q2
+Q3
+Q4
+TOTAL
+REVENUES BY OFFERINGS
+Cloud services
+$
+3,579
+$
+3,813
+$
+4,053
+$
+4,437
+$
+15,881
+$
+4,635
+$
+4,775
+$
+9,410
+License support
+4,838
+4,785
+4,870
+4,933
+19,426
+4,912
+4,864
+9,776
+Cloud services and license support
+8,417
+8,598
+8,923
+9,370
+35,307
+9,547
+9,639
+19,186
+Cloud license and on-premise license
+904
+1,435
+1,288
+2,152
+5,779
+809
+1,178
+1,987
+Hardware
+763
+850
+811
+850
+3,274
+714
+756
+1,470
+Services
+1,361
+1,392
+1,376
+1,465
+5,594
+1,383
+1,368
+2,751
+Total revenues
+$
+11,445
+$
+12,275
+$
+12,398
+$
+13,837
+$
+49,954
+$
+12,453
+$
+12,941
+$
+25,394
+AS REPORTED REVENUE GROWTH RATES
+Cloud services
+45%
+43%
+45%
+54%
+47%
+30%
+25%
+27%
+License support
+(1%)
+(2%)
+0%
+4%
+0%
+2%
+2%
+2%
+Cloud services and license support
+14%
+14%
+17%
+23%
+17%
+13%
+12%
+13%
+Cloud license and on-premise license
+11%
+16%
+0%
+(15%)
+(2%)
+(10%)
+(18%)
+(15%)
+Hardware
+0%
+11%
+2%
+(1%)
+3%
+(6%)
+(11%)
+(9%)
+Services
+74%
+74%
+74%
+76%
+75%
+2%
+(2%)
+0%
+Total revenues
+18%
+18%
+18%
+17%
+18%
+9%
+5%
+7%
+CONSTANT CURRENCY REVENUE GROWTH RATES (2)
+Cloud services
+50%
+48%
+48%
+55%
+50%
+29%
+24%
+26%
+License support
+4%
+4%
+3%
+6%
+4%
+0%
+0%
+0%
+Cloud services and license support
+20%
+20%
+20%
+25%
+21%
+12%
+11%
+11%
+Cloud license and on-premise license
+19%
+23%
+4%
+(14%)
+2%
+(11%)
+(19%)
+(16%)
+Hardware
+5%
+16%
+4%
+1%
+6%
+(8%)
+(12%)
+(10%)
+Services
+84%
+83%
+80%
+78%
+81%
+1%
+(3%)
+(1%)
+Total revenues
+23%
+25%
+21%
+18%
+22%
+8%
+4%
+6%
+CLOUD SERVICES AND LICENSE SUPPORT REVENUES BY ECOSYSTEM
+Applications cloud services and license support
+$
+4,016
+$
+4,080
+$
+4,166
+$
+4,390
+$
+16,651
+$
+4,471
+$
+4,474
+$
+8,945
+Infrastructure cloud services and license support
+4,401
+4,518
+4,757
+4,980
+18,656
+5,076
+5,165
+10,241
+Total cloud services and license support revenues
+$
+8,417
+$
+8,598
+$
+8,923
+$
+9,370
+$
+35,307
+$
+9,547
+$
+9,639
+$
+19,186
+AS REPORTED REVENUE GROWTH RATES
+Applications cloud services and license support
+32%
+30%
+31%
+36%
+32%
+11%
+10%
+11%
+Infrastructure cloud services and license support
+2%
+3%
+7%
+14%
+6%
+15%
+14%
+15%
+Total cloud services and license support revenues
+14%
+14%
+17%
+23%
+17%
+13%
+12%
+13%
+CONSTANT CURRENCY REVENUE GROWTH RATES (2)
+Applications cloud services and license support
+37%
+35%
+33%
+37%
+35%
+11%
+9%
+10%
+Infrastructure cloud services and license support
+7%
+9%
+10%
+15%
+10%
+14%
+12%
+13%
+Total cloud services and license support revenues
+20%
+20%
+20%
+25%
+21%
+12%
+11%
+11%
+GEOGRAPHIC REVENUES
+Americas
+$
+7,192
+$
+7,786
+$
+7,671
+$
+8,577
+$
+31,226
+$
+7,841
+$
+8,067
+$
+15,907
+Europe/Middle East/Africa
+2,691
+2,895
+3,067
+3,457
+12,109
+3,005
+3,170
+6,175
+Asia Pacific
+1,562
+1,594
+1,660
+1,803
+6,619
+1,607
+1,704
+3,312
+Total revenues
+$
+11,445
+$
+12,275
+$
+12,398
+$
+13,837
+$
+49,954
+$
+12,453
+$
+12,941
+$
+25,394
+(1)
+The sum of the quarterly information presented may vary from the year-to-date information presented due to rounding.
+(2)
+We compare the percent change in the results from one period to another period using constant currency disclosure. We present constant currency information to provide a framework for assessing how our underlying businesses performed excluding the effect of foreign currency rate fluctuations. To present this information, current and comparative prior period results for entities reporting in currencies other than United States dollars are converted into United States dollars at the exchange rates in effect on May 31, 2023 and 2022 for the fiscal 2024 and fiscal 2023 constant currency growth rate calculations presented, respectively, rather than the actual exchange rates in effect during the respective periods.
+8
+APPENDIX A
+ORACLE CORPORATION
+Q2 FISCAL 2024 FINANCIAL RESULTS
+EXPLANATION OF NON-GAAP MEASURES
+To supplement our financial results presented on a GAAP basis, we use the non-GAAP measures indicated in the tables, which exclude certain business combination accounting entries and expenses related to acquisitions, as well as other significant expenses including stock-based compensation, that we believe are helpful in understanding our past financial performance and our future results. Our non-GAAP financial measures are not meant to be considered in isolation or as a substitute for comparable GAAP measures and should be read only in conjunction with our consolidated financial statements prepared in accordance with GAAP. Our management regularly uses our supplemental non-GAAP financial measures internally to understand, manage and evaluate our business and make operating decisions. These non-GAAP measures are among the primary factors management uses in planning for and forecasting future periods. Compensation of our executives is based in part on the performance of our business based on these non-GAAP measures. Our non-GAAP financial measures reflect adjustments based on the following items, as well as the related income tax effects:
+•   Stock-based compensation expenses  : We have excluded the effect of stock-based compensation expenses from our non-GAAP operating expenses, income tax effects and net income measures. Although stock-based compensation is a key incentive offered to our employees, and we believe such compensation contributed to the revenues earned during the periods presented and also believe it will contribute to the generation of future period revenues, we continue to evaluate our business performance excluding stock-based compensation expenses. Stock-based compensation expenses will recur in future periods.
+•   Amortization of intangible assets  : We have excluded the effect of amortization of intangible assets from our non-GAAP operating expenses, income tax effects and net income measures. Amortization of intangible assets is inconsistent in amount and frequency and is significantly affected by the timing and size of our acquisitions. Investors should note that the use of intangible assets contributed to our revenues earned during the periods presented and will contribute to our future period revenues as well. Amortization of intangible assets will recur in future periods.
+•   Acquisition related and other expenses; and restructuring expenses  : We have excluded the effect of acquisition related and other expenses and the effect of restructuring expenses from our non-GAAP operating expenses, income tax effects and net income measures. We incurred expenses in connection with our acquisitions and also incurred certain other operating expenses or income, which we generally would not have otherwise incurred in the periods presented as a part of our continuing operations. Acquisition related and other expenses consisted of personnel related costs for transitional and certain other employees, certain business combination adjustments including certain adjustments after the measurement period has ended, and certain other operating items, net. Restructuring expenses consisted of employee severance and other exit costs. We believe it is useful for investors to understand the effects of these items on our total operating expenses. Although acquisition related and other expenses and restructuring expenses may diminish over time with respect to past acquisitions and/or strategic initiatives, we generally will incur certain of these expenses in connection with any future acquisitions and/or strategic initiatives.
+9

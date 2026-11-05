@@ -1,0 +1,1073 @@
+uri-20240331
+0001067701  12/31  2024  Q1  false  .06125  5.5  3.875  4.875  5.25  3.875  3.75  6.125         0001067701    2024-01-01  2024-03-31      0001067701    2024-04-22     xbrli:shares     0001067701    2024-03-31     iso4217:USD     0001067701    2023-12-31      0001067701   uri:RentalEquipmentMember     2024-03-31      0001067701   uri:RentalEquipmentMember     2023-12-31      0001067701   uri:PropertyPlantandEquipmentEquipmentNotLeasedToOtherPartyMember     2024-03-31      0001067701   uri:PropertyPlantandEquipmentEquipmentNotLeasedToOtherPartyMember     2023-12-31       iso4217:USD    xbrli:shares       0001067701   uri:EquipmentRentalRevenueMember     2024-01-01  2024-03-31      0001067701   uri:EquipmentRentalRevenueMember     2023-01-01  2023-03-31      0001067701   uri:RentalEquipmentMember     2024-01-01  2024-03-31      0001067701   uri:RentalEquipmentMember     2023-01-01  2023-03-31      0001067701   uri:NewEquipmentMember     2024-01-01  2024-03-31      0001067701   uri:NewEquipmentMember     2023-01-01  2023-03-31      0001067701   uri:ContractorSuppliesMember     2024-01-01  2024-03-31      0001067701   uri:ContractorSuppliesMember     2023-01-01  2023-03-31      0001067701   uri:ServiceandOtherRevenuesMember     2024-01-01  2024-03-31      0001067701   uri:ServiceandOtherRevenuesMember     2023-01-01  2023-03-31      0001067701    2023-01-01  2023-03-31      0001067701   us-gaap:CommonStockMember     2023-12-31      0001067701   us-gaap:AdditionalPaidInCapitalMember     2023-12-31      0001067701   us-gaap:RetainedEarningsMember     2023-12-31      0001067701   us-gaap:TreasuryStockCommonMember     2023-12-31      0001067701   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-12-31      0001067701   us-gaap:RetainedEarningsMember     2024-01-01  2024-03-31      0001067701   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-01-01  2024-03-31      0001067701   us-gaap:AdditionalPaidInCapitalMember     2024-01-01  2024-03-31      0001067701   us-gaap:TreasuryStockCommonMember     2024-01-01  2024-03-31      0001067701   us-gaap:CommonStockMember     2024-03-31      0001067701   us-gaap:AdditionalPaidInCapitalMember     2024-03-31      0001067701   us-gaap:RetainedEarningsMember     2024-03-31      0001067701   us-gaap:TreasuryStockCommonMember     2024-03-31      0001067701   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-03-31      0001067701   us-gaap:CommonStockMember     2022-12-31      0001067701   us-gaap:AdditionalPaidInCapitalMember     2022-12-31      0001067701   us-gaap:RetainedEarningsMember     2022-12-31      0001067701   us-gaap:TreasuryStockCommonMember     2022-12-31      0001067701   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-12-31      0001067701   us-gaap:RetainedEarningsMember     2023-01-01  2023-03-31      0001067701   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-01-01  2023-03-31      0001067701   us-gaap:CommonStockMember     2023-01-01  2023-03-31      0001067701   us-gaap:AdditionalPaidInCapitalMember     2023-01-01  2023-03-31      0001067701   us-gaap:TreasuryStockCommonMember     2023-01-01  2023-03-31      0001067701   us-gaap:CommonStockMember     2023-03-31      0001067701   us-gaap:AdditionalPaidInCapitalMember     2023-03-31      0001067701   us-gaap:RetainedEarningsMember     2023-03-31      0001067701   us-gaap:TreasuryStockCommonMember     2023-03-31      0001067701   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-03-31      0001067701   us-gaap:CommonStockMember     2023-01-01  2023-12-31      0001067701    2022-12-31      0001067701    2023-03-31      0001067701   uri:OwnedEquipmentRentalsMember     2024-01-01  2024-03-31      0001067701   uri:OwnedEquipmentRentalsMember     2023-01-01  2023-03-31      0001067701   uri:RerentRevenueMember     2024-01-01  2024-03-31      0001067701   uri:RerentRevenueMember     2023-01-01  2023-03-31      0001067701   uri:DeliveryAndPickUpMember     2024-01-01  2024-03-31      0001067701   uri:DeliveryAndPickUpMember     2023-01-01  2023-03-31      0001067701   uri:OtherRentalRevenueMember     2024-01-01  2024-03-31      0001067701   uri:OtherRentalRevenueMember     2023-01-01  2023-03-31      0001067701   uri:AncillaryandOtherRentalRevenueMember     2024-01-01  2024-03-31      0001067701   uri:AncillaryandOtherRentalRevenueMember     2023-01-01  2023-03-31      0001067701   us-gaap:SalesRevenueNetMember  us-gaap:ProductConcentrationRiskMember  uri:GeneralRentalsMember     2024-01-01  2024-03-31     xbrli:pure     0001067701   us-gaap:SalesRevenueNetMember  us-gaap:GeographicConcentrationRiskMember  country:US     2024-01-01  2024-03-31      0001067701   us-gaap:SalesRevenueNetMember  us-gaap:ProductConcentrationRiskMember  uri:OwnedEquipmentRentalsMember     2024-01-01  2024-03-31      0001067701   uri:EquipmentRentalMember  us-gaap:SalesRevenueNetMember  us-gaap:ProductConcentrationRiskMember     2024-01-01  2024-03-31      0001067701   us-gaap:SalesRevenueNetMember  us-gaap:CustomerConcentrationRiskMember  uri:LargestCustomerMember     2024-01-01  2024-03-31      0001067701   us-gaap:SalesRevenueNetMember  us-gaap:CustomerConcentrationRiskMember  uri:LargestCustomerMember     2023-01-01  2023-12-31      0001067701   us-gaap:SalesRevenueNetMember  us-gaap:CustomerConcentrationRiskMember  uri:LargestCustomerMember     2022-01-01  2022-12-31      0001067701   us-gaap:SalesRevenueNetMember  us-gaap:CustomerConcentrationRiskMember  uri:LargestCustomerMember     2021-01-01  2021-12-31      0001067701   us-gaap:AccountsReceivableMember  us-gaap:CustomerConcentrationRiskMember  uri:LargestCustomerMember     2024-01-01  2024-03-31      0001067701   us-gaap:AccountsReceivableMember  us-gaap:CustomerConcentrationRiskMember  uri:LargestCustomerMember     2023-01-01  2023-12-31      0001067701   us-gaap:AllowanceForCreditLossMember     2023-12-31      0001067701   us-gaap:AllowanceForCreditLossMember     2022-12-31      0001067701   us-gaap:AllowanceForCreditLossMember     2024-01-01  2024-03-31      0001067701   us-gaap:AllowanceForCreditLossMember     2023-01-01  2023-03-31      0001067701   us-gaap:AllowanceForCreditLossMember     2024-03-31      0001067701   us-gaap:AllowanceForCreditLossMember     2023-03-31      0001067701   uri:YakMember     2024-03-15     uri:mat    uri:state     0001067701   uri:YakMember     2024-03-15  2024-03-15      0001067701   uri:SeniorNotes6.125PercentDue2034Member  us-gaap:SeniorNotesMember     2024-03-15      0001067701   uri:YakMember     2023-01-01  2023-03-31      0001067701   uri:GeneralRentalsMember     2024-03-31     uri:geographicDivision     0001067701   uri:EquipmentRentalRevenueMember  uri:GeneralRentalsMember     2024-01-01  2024-03-31      0001067701   uri:SpecialtyMember  uri:EquipmentRentalRevenueMember     2024-01-01  2024-03-31      0001067701   uri:GeneralRentalsMember  uri:RentalEquipmentMember     2024-01-01  2024-03-31      0001067701   uri:SpecialtyMember  uri:RentalEquipmentMember     2024-01-01  2024-03-31      0001067701   uri:NewEquipmentMember  uri:GeneralRentalsMember     2024-01-01  2024-03-31      0001067701   uri:SpecialtyMember  uri:NewEquipmentMember     2024-01-01  2024-03-31      0001067701   uri:ContractorSuppliesMember  uri:GeneralRentalsMember     2024-01-01  2024-03-31      0001067701   uri:SpecialtyMember  uri:ContractorSuppliesMember     2024-01-01  2024-03-31      0001067701   uri:ServiceandOtherRevenuesMember  uri:GeneralRentalsMember     2024-01-01  2024-03-31      0001067701   uri:ServiceandOtherRevenuesMember  uri:SpecialtyMember     2024-01-01  2024-03-31      0001067701   uri:GeneralRentalsMember     2024-01-01  2024-03-31      0001067701   uri:SpecialtyMember     2024-01-01  2024-03-31      0001067701   uri:GeneralRentalsMember  uri:EquipmentRentalsOperatingLeaseMember     2024-01-01  2024-03-31      0001067701   uri:SpecialtyMember  uri:EquipmentRentalsOperatingLeaseMember     2024-01-01  2024-03-31      0001067701   uri:EquipmentRentalsOperatingLeaseMember     2024-01-01  2024-03-31      0001067701   uri:EquipmentRentalRevenueMember  uri:GeneralRentalsMember     2023-01-01  2023-03-31      0001067701   uri:SpecialtyMember  uri:EquipmentRentalRevenueMember     2023-01-01  2023-03-31      0001067701   uri:GeneralRentalsMember  uri:RentalEquipmentMember     2023-01-01  2023-03-31      0001067701   uri:SpecialtyMember  uri:RentalEquipmentMember     2023-01-01  2023-03-31      0001067701   uri:NewEquipmentMember  uri:GeneralRentalsMember     2023-01-01  2023-03-31      0001067701   uri:SpecialtyMember  uri:NewEquipmentMember     2023-01-01  2023-03-31      0001067701   uri:ContractorSuppliesMember  uri:GeneralRentalsMember     2023-01-01  2023-03-31      0001067701   uri:SpecialtyMember  uri:ContractorSuppliesMember     2023-01-01  2023-03-31      0001067701   uri:ServiceandOtherRevenuesMember  uri:GeneralRentalsMember     2023-01-01  2023-03-31      0001067701   uri:ServiceandOtherRevenuesMember  uri:SpecialtyMember     2023-01-01  2023-03-31      0001067701   uri:GeneralRentalsMember     2023-01-01  2023-03-31      0001067701   uri:SpecialtyMember     2023-01-01  2023-03-31      0001067701   uri:GeneralRentalsMember  uri:EquipmentRentalsOperatingLeaseMember     2023-01-01  2023-03-31      0001067701   uri:SpecialtyMember  uri:EquipmentRentalsOperatingLeaseMember     2023-01-01  2023-03-31      0001067701   uri:EquipmentRentalsOperatingLeaseMember     2023-01-01  2023-03-31      0001067701   uri:RentalEquipmentMember     2024-01-01  2024-03-31      0001067701   uri:RentalEquipmentMember     2023-01-01  2023-12-31      0001067701   uri:GeneralRentalsMember     2023-12-31      0001067701   uri:SpecialtyMember     2024-03-31      0001067701   uri:SpecialtyMember     2023-12-31      0001067701   uri:OtherProductsandServicesMember     2024-01-01  2024-03-31      0001067701   uri:OtherProductsandServicesMember     2023-01-01  2023-03-31      0001067701   us-gaap:NoncompeteAgreementsMember     2024-03-31      0001067701   us-gaap:CustomerRelationshipsMember     2024-03-31      0001067701   us-gaap:TrademarksAndTradeNamesMember     2024-03-31      0001067701   us-gaap:NoncompeteAgreementsMember     2023-12-31      0001067701   us-gaap:CustomerRelationshipsMember     2023-12-31      0001067701   us-gaap:TrademarksAndTradeNamesMember     2023-12-31      0001067701   us-gaap:CarryingReportedAmountFairValueDisclosureMember  us-gaap:FairValueInputsLevel1Member  us-gaap:SeniorNotesMember     2024-03-31      0001067701   us-gaap:FairValueInputsLevel1Member  us-gaap:SeniorNotesMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-03-31      0001067701   us-gaap:CarryingReportedAmountFairValueDisclosureMember  us-gaap:FairValueInputsLevel1Member  us-gaap:SeniorNotesMember     2023-12-31      0001067701   us-gaap:FairValueInputsLevel1Member  us-gaap:SeniorNotesMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-12-31      0001067701   uri:RepurchaseFacilityExpiring2024Member  uri:RepurchaseFacilityMember     2024-03-31      0001067701   uri:RepurchaseFacilityExpiring2024Member  uri:RepurchaseFacilityMember     2023-12-31      0001067701   us-gaap:LineOfCreditMember  uri:AccountsReceivableSecuritizationFacilityMember     2024-03-31      0001067701   us-gaap:LineOfCreditMember  uri:AccountsReceivableSecuritizationFacilityMember     2023-12-31      0001067701   us-gaap:LineOfCreditMember  uri:ABLFacilityExpiring2027Member     2024-03-31      0001067701   us-gaap:LineOfCreditMember  uri:ABLFacilityExpiring2027Member     2023-12-31      0001067701   uri:SeniorSecuredTermLoanFacilityExpiring2031Member     2024-03-31      0001067701   uri:SeniorSecuredTermLoanFacilityExpiring2031Member     2023-12-31      0001067701   uri:SeniorNotes55PercentDue2027Member  us-gaap:SeniorNotesMember     2024-03-31      0001067701   uri:SeniorNotes55PercentDue2027Member  us-gaap:SeniorNotesMember     2023-12-31      0001067701   uri:SeniorNotes3.875PercentDue2027Member  us-gaap:SeniorNotesMember     2024-03-31      0001067701   uri:SeniorNotes3.875PercentDue2027Member  us-gaap:SeniorNotesMember     2023-12-31      0001067701   uri:SeniorNotes4.875PercentDue2028Member  us-gaap:SeniorNotesMember     2024-03-31      0001067701   uri:SeniorNotes4.875PercentDue2028Member  us-gaap:SeniorNotesMember     2023-12-31      0001067701   uri:SeniorNotes6PercentDue2029Member  us-gaap:SeniorNotesMember     2024-03-31      0001067701   uri:SeniorNotes6PercentDue2029Member  us-gaap:SeniorNotesMember     2023-12-31      0001067701   us-gaap:SeniorNotesMember  uri:SeniorNotes5.25PercentDue2030Member     2024-03-31      0001067701   us-gaap:SeniorNotesMember  uri:SeniorNotes5.25PercentDue2030Member     2023-12-31      0001067701   us-gaap:SeniorNotesMember  uri:SeniorNotes4PercentDue2030Member     2024-03-31      0001067701   us-gaap:SeniorNotesMember  uri:SeniorNotes4PercentDue2030Member     2023-12-31      0001067701   uri:SeniorNotes3875Due2031Member  us-gaap:SeniorNotesMember     2024-03-31      0001067701   uri:SeniorNotes3875Due2031Member  us-gaap:SeniorNotesMember     2023-12-31      0001067701   us-gaap:SeniorNotesMember  uri:SeniorNotes3.75PercentDue2032Member     2024-03-31      0001067701   us-gaap:SeniorNotesMember  uri:SeniorNotes3.75PercentDue2032Member     2023-12-31      0001067701   uri:SeniorNotes6.125PercentDue2034Member  us-gaap:SeniorNotesMember     2024-03-31      0001067701   uri:SeniorNotes6.125PercentDue2034Member  us-gaap:SeniorNotesMember     2023-12-31      0001067701   uri:TermLoanFacilityMember  us-gaap:LineOfCreditMember     2024-03-31      0001067701   us-gaap:LineOfCreditMember  uri:ABLFacilityExpiring2027Member     2024-01-01  2024-03-31      0001067701   us-gaap:LineOfCreditMember  uri:AccountsReceivableSecuritizationFacilityMember     2024-01-01  2024-03-31      0001067701   uri:TermLoanFacilityMember  us-gaap:LineOfCreditMember     2024-01-01  2024-03-31      0001067701   uri:SeniorSecuredTermLoanFacilityExpiring2031Member     2024-02-28      0001067701   uri:SeniorSecuredTermLoanFacilityExpiring2031Member     2024-01-31      0001067701   uri:SeniorNotes4875PercentOneMember  us-gaap:SeniorNotesMember     2024-03-31      0001067701   uri:SeniorNotes4.875PercentTwoMember  us-gaap:SeniorNotesMember     2024-03-31      0001067701   uri:SeniorNotes6.125PercentDue2034Member  srt:SubsidiariesMember  us-gaap:SeniorNotesMember     2024-03-31      0001067701   uri:SeniorNotes6.125PercentDue2034Member  srt:SubsidiariesMember  us-gaap:SeniorNotesMember  us-gaap:DebtInstrumentRedemptionPeriodOneMember     2024-03-01  2024-03-31      0001067701   uri:SeniorNotes6.125PercentDue2034Member  srt:SubsidiariesMember  us-gaap:SeniorNotesMember  us-gaap:DebtInstrumentRedemptionPeriodTwoMember     2024-03-01  2024-03-31      0001067701   us-gaap:DebtInstrumentRedemptionPeriodFourMember  uri:SeniorNotes6.125PercentDue2034Member  srt:SubsidiariesMember  us-gaap:SeniorNotesMember     2024-03-01  2024-03-31      0001067701   uri:SeniorNotes6.125PercentDue2034Member  srt:SubsidiariesMember  us-gaap:DebtInstrumentRedemptionPeriodThreeMember  us-gaap:SeniorNotesMember     2024-03-01  2024-03-31      0001067701   uri:SeniorNotes6.125PercentDue2034Member  us-gaap:DebtInstrumentRedemptionPeriodFiveMember  srt:SubsidiariesMember  us-gaap:SeniorNotesMember     2024-03-01  2024-03-31      0001067701   us-gaap:EmployeeStockOptionMember     2024-01-01  2024-03-31      0001067701   us-gaap:EmployeeStockOptionMember     2023-01-01  2023-03-31      0001067701   us-gaap:RestrictedStockUnitsRSUMember     2024-01-01  2024-03-31      0001067701   us-gaap:RestrictedStockUnitsRSUMember     2023-01-01  2023-03-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+___________________________________
+FORM  10-Q
+___________________________________
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  March 31, 2024
+☐     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                  to
+Commission File Number  1-14387
+Commission File Number 1-13663
+___________________________________
+United Rentals, Inc.
+United Rentals (North America), Inc.
+(Exact Names of Registrants as Specified in Their Charters)
+___________________________________
+Delaware       06-1522496
+Delaware     86-0933835
+(States of Incorporation)     (I.R.S. Employer Identification Nos.)
+100 First Stamford Place ,  Suite 700
+Stamford
+Connecticut       06902
+(Address of Principal Executive Offices)     (Zip Code)
+Registrants’ Telephone Number, Including Area Code: ( 203 )  622-3131
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class         Trading Symbol(s)     Name of each exchange on which registered
+Common Stock, $.01 par value, of United Rentals, Inc.
+URI       New York Stock Exchange
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.      x     Yes       o    No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).     Yes     x      No    o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer”, “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Table of Contents
+Large Accelerated Filer          ☒    Accelerated Filer         ☐
+Non-Accelerated Filer         ☐    Smaller Reporting Company          ☐
+Emerging Growth Company          ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.      o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).       ☐   Yes      x     No
+As of April 22, 2024, there were  66,589,926  shares of United Rentals, Inc. common stock, $0.01 par value, outstanding. There is no market for the common stock of United Rentals (North America), Inc., all outstanding shares of which are owned by United Rentals, Inc.
+This combined Form 10-Q is separately filed by (i) United Rentals, Inc. and (ii) United Rentals (North America), Inc. (which is a wholly owned subsidiary of United Rentals, Inc.). United Rentals (North America), Inc. meets the conditions set forth in General Instruction (H)(1)(a) and (b) of Form 10-Q and is therefore filing this report with the reduced disclosure format permitted by such instruction.
+Table of Contents
+UNITED RENTALS, INC.
+UNITED RENTALS (NORTH AMERICA), INC.
+FORM 10-Q FOR THE QUARTERLY PERIOD ENDED MARCH 31, 2024
+INDEX
+Page
+PART I
+FINANCIAL INFORMATION
+Item 1
+Unaudited Condensed Consolidated Financial Statements (unaudited)
+6
+United Rentals, Inc. Condensed Consolidated Balance Sheets
+6
+United Rentals, Inc. Condensed Consolidated Statements of Income
+7
+United Rentals, Inc. Condensed Consolidated Statements of Comprehensive Income
+8
+United Rentals, Inc. Condensed Consolidated Statements of Stockholders’ Equity
+9
+United Rentals, Inc. Condensed Consolidated Statements of Cash Flows
+10
+Notes to Unaudited Condensed Consolidated Financial Statements
+11
+Item 2
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+25
+Item 3
+Quantitative and Qualitative Disclosures About Market Risk
+39
+Item 4
+Controls and Procedures
+40
+PART II
+OTHER INFORMATION
+Item 1
+Legal Proceedings
+41
+Item 1A
+Risk Factors
+41
+Item 2
+Unregistered Sales of Equity Securities and Use of Proceeds
+41
+Item 5
+Other Information
+41
+Item 6
+Exhibits
+42
+Signatures
+43
+3
+Table of Contents
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS
+This quarterly report on Form 10-Q contains forward-looking statements within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. Such statements can be identified by the use of forward-looking terminology such as “believe,” “expect,” “may,” “will,” “should,” “seek,” “on-track,” “plan,” “project,” “forecast,” “intend” or “anticipate,” or the negative thereof or comparable terminology, or by discussions of strategy or outlook. You are cautioned that our business and operations are subject to a variety of risks and uncertainties, many of which are beyond our control, and, consequently, our actual results may differ materially from those projected.
+Factors that could cause actual results to differ materially from those projected include, but are not limited to, the following:
+•  the impact of global economic conditions (including inflation, increased interest rates, supply chain constraints and potential trade wars, sanctions and other conditions related to international conflicts) and public health crises and epidemics on us, our customers and our suppliers, in the United States and the rest of the world;
+•  declines in construction or industrial activity, which can adversely impact our revenues and, because many of our costs are fixed, our profitability;
+•  rates we charge and time utilization we achieve being less than anticipated;
+•  changes in customer, fleet, geographic and segment mix;
+•  excess fleet in the equipment rental industry;
+•  inability to benefit from government spending, including spending associated with infrastructure projects, or a reduction in government spending;
+•  trends in oil and natural gas, including significant increases in the prices of oil or natural gas, could adversely affect the demand for our services and products;
+•  competition from existing and new competitors;
+•  the cyclical nature of the industry in which we operate and the industries of our customers, such as those in the construction industry;
+•  costs we incur being more than anticipated, including as a result of inflation, and the inability to realize expected savings in the amounts or time frames planned;
+•  our significant indebtedness (which totaled $12.4 billion at March 31, 2024) requires us to use a substantial portion of our cash flow for debt service and can constrain our flexibility in responding to unanticipated or adverse business conditions;
+•  inability to refinance our indebtedness on terms that are favorable to us, including as a result of volatility and uncertainty in capital or credit markets or increases in interest rates, or at all;
+•  incurrence of additional debt, which could exacerbate the risks associated with our current level of indebtedness;
+•  noncompliance with financial or other covenants in our debt agreements, which could result in our lenders terminating the agreements and requiring us to repay outstanding borrowings;
+•  restrictive covenants and the amount of borrowings permitted under our debt instruments, which can limit our financial and operational flexibility;
+•  inability to access the capital that our businesses or growth plans may require, including as a result of uncertainty in capital or credit markets;
+•  the possibility that companies that we have acquired or may acquire could have undiscovered liabilities, or that companies or assets that we have acquired or may acquire could involve other unexpected costs, may strain our management capabilities, or may be difficult to integrate, and that we may not realize the expected benefits from an acquisition over the timeframe we expect, or at all;
+•  incurrence of impairment charges;
+•  fluctuations in the price of our common stock and inability to complete stock repurchases or pay dividends in the time frames and/or on the terms anticipated;
+•  our charter provisions as well as provisions of certain debt agreements and our significant indebtedness may have the effect of making more difficult or otherwise discouraging, delaying or deterring a takeover or other change of control of us;
+•  inability to manage credit risk adequately or to collect on contracts with a large number of customers;
+•  turnover in our management team and inability to attract and retain key personnel, as well as loss, absenteeism or the inability of employees to work or perform key functions in light of public health crises or epidemics;
+•  inability to obtain equipment and other supplies for our business from our key suppliers on acceptable terms or at all, as a result of supply chain disruptions, insolvency, financial difficulties or other factors;
+•  increases in our maintenance and replacement costs and/or decreases in the residual value of our equipment;
+•  inability to sell our new or used fleet in the amounts, or at the prices, we expect;
+4
+Table of Contents
+•  risks related to security breaches, cybersecurity attacks, failure to protect personal information, compliance with privacy, data protection and cyber incident reporting laws and regulations, and other significant disruptions in our information technology systems;
+•  risks related to climate change and climate change regulation;
+•  risks related to our environmental and social goals, including our greenhouse gas intensity reduction goal;
+•  the fact that our holding company structure requires us to depend in part on distributions from subsidiaries and such distributions could be limited by contractual or legal restrictions;
+•  shortfalls in our insurance coverage;
+•  increases in our loss reserves to address business operations or other claims and any claims that exceed our established levels of reserves;
+•  incurrence of expenses (including indemnification obligations) and other costs in connection with litigation, regulatory and investigatory matters;
+•  the costs of complying with environmental, safety and foreign laws and regulations, as well as other risks associated with non-U.S. operations, including currency exchange risk, and tariffs;
+•  the outcome or other potential consequences of regulatory and investigatory matters and litigation;
+•  labor shortages and/or disputes, work stoppages or other labor difficulties, which may impact our productivity and increase our costs, and changes in law that could affect our labor relations or operations generally; and
+•  the effect of changes in tax law.
+For a more complete description of these and other possible risks and uncertainties, please refer to our Annual Report on Form 10-K for the year ended December 31, 2023, as well as to our subsequent filings with the SEC. Our forward-looking statements contained herein speak only as of the date hereof, and we make no commitment to update or publicly release any revisions to forward-looking statements in order to reflect new information or subsequent events, circumstances or changes in expectations.
+5
+Table of Contents
+PART I. FINANCIAL INFORMATION
+Item 1.  Financial Statements
+UNITED RENTALS, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In millions, except share data)
+March 31, 2024     December 31, 2023
+(unaudited)
+ASSETS
+Cash and cash equivalents    $     429        $     363
+Accounts receivable, net     2,221         2,230
+Inventory     208         205
+Prepaid expenses and other assets     151         135
+Total current assets     3,009         2,933
+Rental equipment, net     13,979         14,001
+Property and equipment, net     916         903
+Goodwill     6,863         5,940
+Other intangible assets, net     666         670
+Operating lease right-of-use assets     1,181         1,099
+Other long-term assets     44         43
+Total assets    $     26,658          $     25,589
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Short-term debt and current maturities of long-term debt    $     1,087        $     1,465
+Accounts payable     959         905
+Accrued expenses and other liabilities     1,318         1,267
+Total current liabilities     3,364         3,637
+Long-term debt     11,318         10,053
+Deferred taxes     2,690         2,701
+Operating lease liabilities     966         895
+Other long-term liabilities     200         173
+Total liabilities     18,538           17,459
+Common stock—$  0.01   par value,   500,000,000   shares authorized,  115,101,951  and  66,796,805  shares issued and outstanding, respectively, at March 31, 2024 and  115,010,396  and  67,269,577  shares issued and outstanding, respectively, at December 31, 2023
+1         1
+Additional paid-in capital     2,638         2,650
+Retained earnings     12,103         11,672
+Treasury stock at cost— 48,305,146  and  47,740,819  shares at March 31, 2024 and December 31, 2023, respectively
+( 6,343 )      ( 5,965 )
+Accumulated other comprehensive loss    ( 279 )      ( 228 )
+Total stockholders’ equity     8,120           8,130
+Total liabilities and stockholders’ equity    $     26,658          $     25,589
+See accompanying notes.
+6
+Table of Contents
+UNITED RENTALS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME (UNAUDITED)
+(In millions, except per share amounts)
+Three Months Ended
+March 31,
+2024     2023
+Revenues:
+Equipment rentals        $     2,929        $     2,740
+Sales of rental equipment         383         388
+Sales of new equipment         48         44
+Contractor supplies sales         36         34
+Service and other revenues         89         79
+Total revenues         3,485           3,285
+Cost of revenues:
+Cost of equipment rentals, excluding depreciation         1,244         1,162
+Depreciation of rental equipment         582         575
+Cost of rental equipment sales         196         198
+Cost of new equipment sales         38         36
+Cost of contractor supplies sales         25         24
+Cost of service and other revenues         54         49
+Total cost of revenues         2,139           2,044
+Gross profit         1,346           1,241
+Selling, general and administrative expenses         389         382
+Restructuring charge         1         1
+Non-rental depreciation and amortization         104         118
+Operating income         852           740
+Interest expense, net         160         150
+Other income, net        ( 3 )      ( 4 )
+Income before provision for income taxes         695           594
+Provision for income taxes         153         143
+Net income        $     542          $     451
+Basic earnings per share        $     8.06        $     6.50
+Diluted earnings per share        $     8.04        $     6.47
+See accompanying notes.
+7
+Table of Contents
+UNITED RENTALS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (UNAUDITED)
+(In millions)
+Three Months Ended
+March 31,
+2024     2023
+Net income        $     542        $     451
+Other comprehensive (loss) income, net of tax:
+Foreign currency translation adjustments (1)        ( 51 )       1
+Fixed price diesel swaps         —        ( 1 )
+Other comprehensive (loss) income (1)        ( 51 )       —
+Comprehensive income        $     491          $     451
+(1)   There were   no   material reclassifications from accumulated other comprehensive loss reflected in other comprehensive income (loss) during 2024 or 2023. There were   no   material taxes associated with other comprehensive income (loss) during 2024 or 2023.
+See accompanying notes.
+8
+Table of Contents
+UNITED RENTALS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY (UNAUDITED)
+(In millions)
+Three Months Ended March 31, 2024
+Common Stock             Treasury Stock
+Number of
+Shares (1)     Amount     Additional Paid-in
+Capital     Retained Earnings     Number of
+Shares     Amount     Accumulated Other Comprehensive Loss (2)
+Balance at December 31, 2023     67          $     1          $     2,650          $     11,672           48          $    ( 5,965 )      $    ( 228 )
+Net income           542
+Dividends declared (3)          ( 111 )
+Foreign currency translation adjustments                 ( 51 )
+Stock compensation expense, net    —          28
+Tax withholding for share based compensation    —         ( 40 )
+Repurchase of common stock    —             —       ( 378 )
+Balance at March 31, 2024     67          $     1          $     2,638          $     12,103           48          $    ( 6,343 )      $    ( 279 )
+Three Months Ended March 31, 2023
+Common Stock             Treasury Stock
+Number of
+Shares (1)     Amount     Additional Paid-in
+Capital     Retained Earnings     Number of
+Shares     Amount     Accumulated Other Comprehensive Loss (2)
+Balance at December 31, 2022     69          $     1          $     2,626          $     9,656           45          $    ( 4,957 )      $    ( 264 )
+Net income           451
+Dividends declared (3)          ( 104 )
+Foreign currency translation adjustments                 1
+Fixed price diesel swaps                ( 1 )
+Stock compensation expense, net     1           24
+Tax withholding for share based compensation    —         ( 52 )
+Repurchase of common stock    ( 1 )             1        ( 251 )
+Balance at March 31, 2023     69          $     1          $     2,598          $     10,003           46          $    ( 5,208 )      $    ( 264 )
+(1)   Common stock outstanding decreased by approximately  two  million net shares during the year ended December 31, 2023.
+(2)   The Accumulated Other Comprehensive Loss balance primarily reflects foreign currency translation adjustments.
+(3)   We declared dividends of $ 1.63  and $ 1.48  per share during the three months ended March 31, 2024 and 2023, respectively.
+See accompanying notes.
+9
+Table of Contents
+UNITED RENTALS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+(In millions)
+Three Months Ended
+March 31,
+2024     2023
+Cash Flows From Operating Activities:
+Net income    $     542        $     451
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization     686         693
+Amortization of deferred financing costs and original issue discounts     4         4
+Gain on sales of rental equipment    ( 187 )      ( 190 )
+Gain on sales of non-rental equipment    ( 3 )      ( 4 )
+Insurance proceeds from damaged equipment    ( 13 )      ( 9 )
+Stock compensation expense, net     28         24
+Restructuring charge     1         1
+Loss on repurchase/redemption/amendment of debt securities     1         —
+(Decrease) increase in deferred taxes    ( 17 )       35
+Changes in operating assets and liabilities, net of amounts acquired:
+Decrease (increase) in accounts receivable     98        ( 13 )
+Increase in inventory    ( 3 )      ( 2 )
+Decrease in prepaid expenses and other assets     15         125
+Decrease in accounts payable    ( 74 )      ( 25 )
+Decrease in accrued expenses and other liabilities    ( 49 )      ( 151 )
+Net cash provided by operating activities     1,029           939
+Cash Flows From Investing Activities:
+Payments for purchases of rental equipment    ( 511 )      ( 797 )
+Payments for purchases of non-rental equipment and intangible assets    ( 58 )      ( 73 )
+Proceeds from sales of rental equipment     383         388
+Proceeds from sales of non-rental equipment     13         12
+Insurance proceeds from damaged equipment     13         9
+Purchases of other companies, net of cash acquired    ( 1,118 )      ( 299 )
+Purchases of investments    ( 2 )       —
+Net cash used in investing activities    ( 1,280 )      ( 760 )
+Cash Flows From Financing Activities:
+Proceeds from debt     4,609         2,330
+Payments of debt    ( 3,743 )      ( 2,110 )
+Common stock repurchased, including tax withholdings for share based compensation    ( 415 )      ( 303 )
+Payments of financing costs    ( 16 )       —
+Dividends paid    ( 110 )      ( 103 )
+Net cash provided by (used in) financing activities     325          ( 186 )
+Effect of foreign exchange rates    ( 8 )       —
+Net increase (decrease) in cash and cash equivalents     66          ( 7 )
+Cash and cash equivalents at beginning of period     363         106
+Cash and cash equivalents at end of period    $     429          $     99
+Supplemental disclosure of cash flow information:
+Cash paid for income taxes, net    $     131        $     29
+Cash paid for interest     195         178
+See accompanying notes.
+10
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(Dollars in millions, except per share data, unless otherwise indicated)
+1.  Organization, Description of Business and Basis of Presentation
+United Rentals, Inc. (“Holdings,” “URI” or the “Company”) is principally a holding company and conducts its operations primarily through its wholly owned subsidiary, United Rentals (North America), Inc. (“URNA”), and subsidiaries of URNA. Holdings’ primary asset is its sole ownership of all issued and outstanding shares of common stock of URNA. URNA’s various credit agreements and debt instruments place restrictions on its ability to transfer funds to its shareholder.
+We rent equipment to a diverse customer base that includes construction and industrial companies, manufacturers, utilities, municipalities, homeowners and government entities. We primarily operate in the United States and Canada, and have a limited presence in Europe, Australia and New Zealand. In addition to renting equipment, we sell new and used rental equipment, as well as related contractor supplies, parts and service.
+We have prepared the accompanying unaudited condensed consolidated financial statements in accordance with the accounting policies described in our annual report on Form 10-K for the year ended December 31, 2023 (the “2023 Form 10-K”) and the interim reporting requirements of Form 10-Q. Accordingly, certain information and note disclosures normally included in financial statements prepared in accordance with U.S. generally accepted accounting principles (“GAAP”) have been condensed or omitted. These unaudited condensed consolidated financial statements should be read in conjunction with the 2023 Form 10-K.
+In our opinion, all adjustments, consisting only of normal recurring adjustments, which are necessary for a fair presentation of financial condition, operating results and cash flows for the interim periods presented have been made. Interim results of operations are not necessarily indicative of the results of the full year.
+New Accounting Pronouncements
+Improvements to Reportable Segment Disclosures.   In November 2023, the FASB issued ASU 2023-07, which expands reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. The amendments in the ASU require, among other things, disclosure of significant segment expenses that are regularly provided to an entity's chief operating decision maker (“CODM”) and a description of other segment items (the difference between segment revenue less the segment expenses disclosed under the significant expense principle and each reported measure of segment profit or loss) by reportable segment, as well as disclosure of the title and position of the CODM, and an explanation of how the CODM uses the reported measure(s) of segment profit or loss in assessing segment performance and deciding how to allocate resources. Annual disclosures are required for fiscal years beginning after December 15, 2023 and interim disclosures are required for periods within fiscal years beginning after December 15, 2024. Retrospective application is required, and early adoption is permitted. These requirements are not expected to have an impact on our financial statements, but will result in significantly expanded reportable segment disclosures.
+Improvements to Income Tax Disclosures.       In December 2023, the FASB issued ASU 2023-09, which requires disclosure of disaggregated income taxes paid, prescribes standard categories for the components of the effective tax rate reconciliation, and modifies other income tax-related disclosures. ASU 2023-09 is effective for fiscal years beginning after December 15, 2024, may be applied prospectively or retrospectively, and allows for early adoption. These requirements are not expected to have an impact on our financial statements, but will impact our income tax disclosures.
+2.  Revenue Recognition
+Revenue Recognition Accounting Standards
+We recognize revenue in accordance with two different accounting standards: 1) Topic 606 (which addresses revenue from contracts with customers) and 2) Topic 842 (which addresses lease revenue). Under Topic 606, revenue from contracts with customers is measured based on the consideration specified in the contract with the customer, and excludes any sales incentives and amounts collected on behalf of third parties. A performance obligation is a promise in a contract to transfer a distinct good or service to a customer, and is the unit of account under Topic 606. As reflected below, most of our revenue is accounted for under Topic 842. Our contracts with customers generally do not include multiple performance obligations. We recognize revenue when we satisfy a performance obligation by transferring control over a product or service to a customer. The amount of revenue recognized reflects the consideration we expect to be entitled to in exchange for such products or services.
+11
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+Nature of goods and services
+In the following table, revenue is summarized by type and by the applicable accounting standard.
+Three Months Ended March 31,
+2024         2023
+Topic 842     Topic 606     Total     Topic 842     Topic 606     Total
+Revenues:
+Owned equipment rentals    $     2,404        $    —       $     2,404        $     2,266        $    —       $     2,266
+Re-rent revenue     55      —      55       52      —      52
+Ancillary and other rental revenues:
+Delivery and pick-up    —      214       214      —      203       203
+Other     201       55       256       165       54       219
+Total ancillary and other rental revenues     201         269         470         165         257         422
+Total equipment rentals     2,660           269           2,929           2,483           257           2,740
+Sales of rental equipment    —      383       383      —      388       388
+Sales of new equipment    —      48       48      —      44       44
+Contractor supplies sales    —      36       36      —      34       34
+Service and other revenues    —      89       89      —      79       79
+Total revenues    $     2,660          $     825          $     3,485          $     2,483          $     802          $     3,285
+Revenues by reportable segment are presented in note 4 of the condensed consolidated financial statements, using the revenue captions reflected in our condensed consolidated statements of operations. The majority of our revenue is recognized in our general rentals segment and in the U.S. (for the three months ended March 31, 2024,  73  percent and  91  percent, respectively). We believe that the disaggregation of our revenue from contracts to customers as reflected above, coupled with the further discussion below and the reportable segment disclosures in note 4, depicts how the nature, amount, timing and uncertainty of our revenue and cash flows are affected by economic factors.
+Lease revenues (Topic 842)
+The accounting for the types of revenue that are accounted for under Topic 842 is discussed below.
+Owned equipment rentals represent our most significant revenue type (they accounted for  69  percent of total revenues for the three months ended March 31, 2024) and are governed by our standard rental contract. We account for such rentals as operating leases. The lease terms are included in our contracts, and the determination of whether our contracts contain leases generally does not require significant assumptions or judgments. Our lease revenues do not include material amounts of variable payments.
+Owned equipment rentals:   Owned equipment rentals represent revenues from renting equipment that we own. We do not generally provide an option for the lessee to purchase the rented equipment at the end of the lease, and do not generate material revenue from sales of equipment under such options.
+We recognize revenues from renting equipment on a straight-line basis. Our rental contract periods are hourly, daily, weekly or monthly. By way of example, if a customer were to rent a piece of equipment and the daily, weekly and monthly rental rates for that particular piece were (in actual dollars) $100, $300 and $900, respectively, we would recognize revenue of $32.14 per day. The daily rate for recognition purposes is calculated by dividing the monthly rate of $900 by the monthly term of 28 days. This daily rate assumes that the equipment will be on rent for the full 28 days, as we are unsure of when the customer will return the equipment and therefore unsure of which rental contract period will apply.
+As part of this straight-line methodology, when the equipment is returned, we recognize as incremental revenue the excess, if any, between the amount the customer is contractually required to pay, which is based on the rental contract period applicable to the actual number of days the equipment was out on rent, over the cumulative amount of revenue recognized to date. In any given accounting period, we will have customers return equipment and be contractually required to pay us more than the cumulative amount of revenue recognized to date under the straight-line methodology. For instance, continuing the above example, if the customer rented the above piece of equipment on December 29 and returned it at the close of business on January 1, we would recognize incremental revenue on January 1 of $171.44 (in actual dollars, representing the difference
+12
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+between the amount the customer is contractually required to pay, or $300 at the weekly rate, and the cumulative amount recognized to date on a straight-line basis, or $128.56, which represents four days at $32.14 per day).
+We record amounts billed to customers in excess of recognizable revenue as deferred revenue on our balance sheet. We had deferred revenue (associated with both Topic 842 and Topic 606) of $ 146  and $ 138  as of March 31, 2024 and December 31, 2023, respectively.
+As noted above, we are unsure of when the customer will return rented equipment. As such, we do not know how much the customer will owe us upon return of the equipment and cannot provide a maturity analysis of future lease payments. Our equipment is generally rented for short periods of time. Lessees do not provide residual value guarantees on rented equipment.
+We expect to derive significant future benefits from our equipment following the end of the rental term. Our rentals are generally short-term in nature, and our equipment is typically rented for the majority of the time that we own it. We additionally recognize revenue from sales of rental equipment when we dispose of the equipment.
+Re-rent revenue:   Re-rent revenue reflects revenues from equipment that we rent from vendors and then rent to our customers. We account for such rentals as subleases. The accounting for re-rent revenue is the same as the accounting for owned equipment rentals described above.
+“Other”   equipment rental revenue is primarily comprised of 1) Rental Protection Plan (or "RPP") revenue associated with the damage waiver customers can purchase when they rent our equipment to protect against potential loss or damage, 2) environmental charges associated with the rental of equipment, 3) charges for rented equipment that is damaged by our customers and 4) charges for setup and other services performed on rented equipment.
+Revenues from contracts with customers (Topic 606)
+The accounting for the types of revenue that are accounted for under Topic 606 is discussed below. Substantially all of our revenues under Topic 606 are recognized at a point-in-time rather than over time.
+Delivery and pick-up:   Delivery and pick-up revenue associated with renting equipment is recognized when the service is performed.
+“Other”   equipment rental revenue is primarily comprised of revenues associated with the consumption of fuel by our customers which are recognized when the equipment is returned by the customer (and consumption, if any, can be measured).
+Sales of rental equipment, new equipment and contractor supplies   are recognized at the time of delivery to, or pick-up by, the customer and when collectibility is probable.
+Service and other revenues   primarily represent revenues earned from providing repair and maintenance services on our customers’ fleet (including parts sales). Service revenue is recognized as the services are performed.
+Receivables and contract assets and liabilities
+As reflected above, most of our equipment rental revenue is accounted for under Topic 842 (such revenue represented  76  percent of our total revenues for the three months ended March 31, 2024). The customers that are responsible for the remaining revenue that is accounted for under Topic 606 are generally the same customers that rent our equipment. We manage credit risk associated with our accounts receivables at the customer level. Because the same customers generate the revenues that are accounted for under both Topic 606 and Topic 842, the discussions below on credit risk and our allowance for credit losses address receivables arising from revenues from both Topic 606 and Topic 842.
+Concentration of credit risk with respect to our receivables is limited because a large number of geographically diverse customers makes up our customer base. Our largest customer accounted for     one     percent or less of total revenues for the three months ended March 31, 2024, and for each of the last three full years. Our customer with the largest receivable balance represented approximately   one   percent of total receivables at March 31, 2024 and December 31, 2023. We manage credit risk through credit approvals, credit limits and other monitoring procedures.
+Our allowance for credit losses reflects our estimate of the amount of our receivables that we will be unable to collect based on historical write-off experience and, as applicable, current conditions and reasonable and supportable forecasts that affect collectibility. Our estimate could require change based on changing circumstances, including changes in the economy or
+13
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+in the particular circumstances of individual customers. Accordingly, we may be required to increase or decrease our allowance. Trade receivables that have contractual maturities of one year or less are written-off when they are determined to be uncollectible based on the criteria necessary to qualify as a deduction for federal tax purposes. Write-offs of such receivables require management approval based on specified dollar thresholds. See the table below for a rollforward of our allowance for credit losses.
+The measurement of expected credit losses is based on relevant information from past events, including historical experiences, current conditions and reasonable and supportable forecasts that affect collectibility. Trade receivables are the only material financial asset we have that is subject to the requirement to measure expected credit losses as noted above, as this requirement does not apply to receivables arising from operating lease revenues. Substantially all of our non-lease trade receivables are due in one year or less. As discussed above, most of our equipment rental revenue is accounted for as lease revenue (such revenue represented  76  percent of our total revenues for the three months ended March 31, 2024, and these revenues account for corresponding portions of the $ 2.221  billion of net accounts receivable and the associated allowance for credit losses of $ 174  as of March 31, 2024).
+As discussed above, most of our equipment rental revenue is accounted for under Topic 842. The customers that are responsible for the remaining revenue that is accounted for under Topic 606 are generally the same customers that rent our equipment. We manage credit risk associated with our accounts receivables at the customer level.  The rollforward of our allowance for credit losses (in total, and associated with revenues arising from both Topic 606 and Topic 842) is shown below.
+Three Months Ended March 31, 2024     Three Months Ended March 31, 2023
+Beginning balance        $     169          $     134
+Charged to costs and expenses (1)         4         3
+Charged to revenue (2)         9         13
+Deductions and other (3)        ( 8 )      ( 4 )
+Ending balance        $     174          $     146
+_________________
+(1)    Reflects bad debt expenses recognized within selling, general and administrative expenses (associated with Topic 606 revenues).
+(2)    Primarily reflects credit losses associated with lease revenues that were recognized as a reduction to equipment rentals revenue (primarily associated with Topic 842 revenues).
+(3)    Primarily represents write-offs of accounts, net of immaterial recoveries and other activity.
+We do  no t have material contract assets, or impairment losses associated therewith, or material contract liabilities, associated with contracts with customers. Our contracts with customers do not generally result in material amounts billed to customers in excess of recognizable revenue. We did   no  t recognize material revenue during the three months ended March 31, 2024 or 2023 that was included in the contract liability balance as of the beginning of such periods.
+Performance obligations
+Most of our Topic 606 revenue is recognized at a point-in-time, rather than over time. Accordingly, in any particular period, we do not generally recognize a significant amount of revenue from performance obligations satisfied (or partially satisfied) in previous periods, and the amounts of such revenue recognized during the three months ended March 31, 2024 and 2023 were   no  t material. We also do not expect to recognize material revenue in the future related to performance obligations that were unsatisfied (or partially unsatisfied) as of March 31, 2024.
+Payment terms
+Our Topic 606 revenues do not include material amounts of variable consideration. Our payment terms vary by the type and location of our customer and the products or services offered. The time between invoicing and when payment is due is not significant. Our contracts do not generally include a significant financing component. For certain products or services and customer types, we require payment before the products or services are delivered to the customer. Our contracts with customers do not generally result in significant obligations associated with returns, refunds or warranties. See above for a discussion of how we manage credit risk.
+14
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+Revenue is recognized net of taxes collected from customers, which are subsequently remitted to governmental authorities.
+Contract costs
+We do not recognize any assets associated with the incremental costs of obtaining a contract with a customer (for example, a sales commission) that we expect to recover. Most of our revenue is recognized at a point-in-time or over a period of one year or less, and we use the practical expedient that allows us to recognize the incremental costs of obtaining a contract as an expense when incurred if the amortization period of the asset that we otherwise would have recognized is one year or less.
+Contract estimates and judgments
+Our revenues accounted for under Topic 606 generally do not require significant estimates or judgments, primarily for the following reasons:
+•  The transaction price is generally fixed and stated in our contracts;
+•  As noted above, our contracts generally do not include multiple performance obligations, and accordingly do not generally require estimates of the standalone selling price for each performance obligation;
+•  Our revenues do not include material amounts of variable consideration, or result in significant obligations associated with returns, refunds or warranties; and
+•  Most of our revenue is recognized as of a point-in-time and the timing of the satisfaction of the applicable performance obligations is readily determinable. As noted above, our Topic 606 revenue is generally recognized at the time of delivery to, or pick-up by, the customer.
+Our revenues accounted for under Topic 842 also generally do not require significant estimates or judgments. We monitor and review our estimated standalone selling prices on a regular basis.
+15
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+3.  Acquisitions
+On March 15, 2024, we completed the acquisition of Yak Access, LLC, Yak Mat, LLC and New South Access & Environmental Solutions, LLC (collectively, “Yak”). Yak was a leader in the North American matting industry with a fleet of approximately  600,000  hardwood, softwood, and composite mats that provide surface protection across both construction and maintenance, repair and operations (“MRO”) applications, and served customers primarily in the industrial sector across over  40  states. The acquisition is expected to:
+• Provide entry into the matting market via an industry leader with established scale across fleet, operations, and talent;
+• Augment exposure to the energy and power verticals, where significant investment is expected over the next several decades; and
+• Enhance our one-stop-shop value proposition with immediate cross-selling opportunities to existing and new construction and MRO customers.
+The acquisition date fair value of the purchase price to acquire Yak was $ 1.165  billion, comprised of cash and $ 50  of estimated contingent consideration (such amount is also the maximum possible amount due) that could become payable to the seller based on revenue attainment in the first  two years  after closing. The acquisition and related fees and expenses were funded through the issuance of $ 1.100  billion principal amount of 6   1  /  8   Senior Notes (see note 7 to the condensed consolidated financial statements for further information) and drawings on our senior secured asset-based revolving credit facility (“ABL facility”).
+The following table summarizes the net book values of the assets acquired and liabilities assumed as of the acquisition date. The initial accounting for the acquisition is incomplete, principally related to finalizing 1) the measurement of the acquired net working capital, 2) the valuation of the acquired equipment (inclusive of the completion of our usual and customary procedures to validate the existence of the acquired rental fleet) and intangible assets, 3) the impact of lease accounting, 4) the valuation of the contingent consideration noted above and 5) the associated income tax considerations. All amounts below could change, potentially materially, as there is significant additional information that we must obtain to finalize the valuations of the assets acquired and liabilities assumed, and to establish the value of the potential intangible assets, primarily because of the proximity of the acquisition date to the balance sheet date of March 31, 2024.
+Accounts receivable (1)    $     99
+Rental equipment     152
+Property and equipment     19
+Operating lease right-of-use assets     6
+Other assets     18
+Total identifiable assets acquired     294
+Accounts payable, accrued expenses and other liabilities    ( 104 )
+Operating lease liabilities    ( 6 )
+Total liabilities assumed    ( 110 )
+Net identifiable assets acquired     184
+Goodwill (2)     981
+Net assets acquired    $     1,165
+(1)  The estimated fair value of accounts receivables acquired was $ 99 , and the gross contractual amount was $ 102 . We estimated that $ 3  would be uncollectible.
+(2)    All of the goodwill was assigned to our specialty segment. As noted above, we have not yet obtained all the information required to finalize the valuations of the assets acquired and liabilities assumed, primarily because of the proximity of the acquisition date to the balance sheet date of March 31, 2024. As such, we expect that goodwill will change materially from the amount noted above. Once finalized, we expect that the goodwill that results from the acquisition will be primarily reflective of Yak's going-concern value, the value of Yak's assembled workforce and new customer relationships expected to arise from the acquisition. All of the goodwill is expected to be deductible for income tax purposes (because the acquired Yak entities were sold as disregarded entities, the acquisition was treated as an asset purchase for income tax purposes, which resulted in the goodwill that is deductible for income tax purposes equaling the total acquired goodwill).
+16
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+The debt issuance costs associated with the issuance of debt to partially fund the acquisition are reflected, net of amortization subsequent to the acquisition date, in long-term debt in our consolidated balance sheets. It is not practicable to reasonably estimate the amounts of revenue and earnings of Yak since the acquisition date, primarily due to the movement of fleet between URI locations and the acquired Yak locations, as well as our corporate structure and the allocation of corporate costs.
+Pro forma financial information
+The pro forma information below gives effect to the Yak acquisition as if it had been completed on January 1, 2023. The table below presents unaudited pro forma revenue information as if the Yak acquisition had been included in our consolidated results for the entire period reflected. The pro forma information is not necessarily indicative of our revenue results had the acquisition been completed on the above date, nor is it necessarily indicative of our future results. The pro forma revenue information reflects the historic revenue of Yak as explained in the table below, and does not include any additional revenue opportunities following the acquisition. Pro forma revenue information is presented below for 2023, but not for 2024, as we do not yet have all the required information to determine the amount of 2024 revenue prior to the acquisition date, primarily because of the proximity of the acquisition date to March 31, 2024. Pro forma income information is also not presented, as we expect that there will be material adjustments to the values of the assets acquired, including establishing the value of the potential intangible assets, and liabilities assumed, and, as such, we cannot presently provide meaningful pro forma income information. The opening balance sheet values assigned to the Yak assets acquired and liabilities assumed are based on preliminary valuations and are subject to change as we obtain additional information during the acquisition measurement period. We expect that such valuation changes could be material, primarily because of the proximity of the acquisition date to March 31, 2024. Increases or decreases in the estimated fair values of the net assets acquired may impact our statements of income in future periods. In future periods, we expect to provide pro forma revenue and income information for both 2024 and 2023.
+Three Months Ended
+March 31,
+2023
+United Rentals historic revenue          $     3,285
+Yak historic revenue (1)           91
+Pro forma revenue           3,376
+(1)  Yak revenue reflects only the historical results of the entities being acquired, and includes an estimate of revenue from mat rentals to a commonly controlled entity that were eliminated in consolidation by Yak.
+During 2024 and 2023, we completed other acquisitions that were not significant individually or in the aggregate. See the condensed consolidated statements of cash flows for the total cash outflow for purchases of other companies (including Yak), net of cash acquired.
+17
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+4.  Segment Information
+Our reportable segments are i) general rentals and ii) specialty. For general rentals, the divisions discussed below, which are our operating segments, are aggregated into the reportable segment. The specialty segment is a single division that is both an operating segment and a reportable segment. We believe that the divisions that are aggregated into our reportable segments have similar economic characteristics, as each division is capital intensive, offers similar products to similar customers, uses similar methods to distribute its products, and is subject to similar competitive risks. The aggregation of our divisions also reflects the management structure that we use for making operating decisions and assessing performance. We evaluate segment performance primarily based on segment equipment rentals gross profit.
+The general rentals segment includes the rental of i) general construction and industrial equipment, such as backhoes, skid-steer loaders, forklifts, earthmoving equipment and material handling equipment, ii) aerial work platforms, such as boom lifts and scissor lifts and iii) general tools and light equipment, such as pressure washers, water pumps and power tools. The general rentals segment reflects the aggregation of  four  geographic divisions—Central, Northeast, Southeast and West—and operates throughout the United States and Canada.
+The specialty segment, which, as noted above, is a single division that is both an operating segment and a reportable segment, rents products (and provides setup and other services on such rented equipment) including i) trench safety equipment, such as trench shields, aluminum hydraulic shoring systems, slide rails, crossing plates, construction lasers and line testing equipment for underground work, ii) power and HVAC equipment, such as portable diesel generators, electrical distribution equipment, and temperature control equipment, iii) fluid solutions equipment primarily used for fluid containment, transfer and treatment, iv) mobile storage equipment and modular office space and v) surface protection mats. The specialty segment’s customers include construction companies involved in infrastructure projects, municipalities and industrial companies. This segment primarily operates in the United States and Canada, and has a limited presence in Europe, Australia and New Zealand.
+The following tables set forth financial information by segment.
+General
+rentals     Specialty     Total
+Three Months Ended March 31, 2024
+Equipment rentals    $     2,070        $     859        $     2,929
+Sales of rental equipment     346         37         383
+Sales of new equipment     29         19         48
+Contractor supplies sales     20         16         36
+Service and other revenues     81         8         89
+Total revenue     2,546           939           3,485
+Depreciation and amortization expense     574         112         686
+Equipment rentals gross profit     681         422         1,103
+Capital expenditures (1)     506         147         653
+Three Months Ended March 31, 2023
+Equipment rentals    $     2,018        $     722        $     2,740
+Sales of rental equipment     350         38         388
+Sales of new equipment     18         26         44
+Contractor supplies sales     21         13         34
+Service and other revenues     72         7         79
+Total revenue     2,479           806           3,285
+Depreciation and amortization expense     577         116         693
+Equipment rentals gross profit     663         340         1,003
+Capital expenditures (1)     683         187         870
+___________________
+(1)  The condensed consolidated statements of cash flows include the payments for capital expenditures, while the table above reflects the gross capital expenditures. Accounts payable as of March 31, 2024 and December 31, 2023 included $ 158  and
+18
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+$ 74 , respectively, of amounts due but unpaid for purchases of rental equipment. The net impact of accrued purchases of rental equipment was not material for the three months ended March 31, 2023.
+March 31,
+2024     December 31,
+2023
+Total reportable segment assets
+General rentals    $     20,203        $     20,411
+Specialty (1)     6,455         5,178
+Total assets    $     26,658          $     25,589
+___________________
+(1)    The increase in the specialty segment assets primarily reflects the impact of the Yak acquisition discussed in note 3 to the condensed consolidated financial statements.
+Equipment rentals gross profit is the primary measure management reviews to make operating decisions and assess segment performance.  The following is a reconciliation of equipment rentals gross profit to income before provision for income taxes:
+Three Months Ended
+March 31,
+2024     2023
+Total equipment rentals gross profit        $     1,103        $     1,003
+Gross profit from other lines of business         243         238
+Selling, general and administrative expenses        ( 389 )      ( 382 )
+Restructuring charge (1)        ( 1 )      ( 1 )
+Non-rental depreciation and amortization        ( 104 )      ( 118 )
+Interest expense, net        ( 160 )      ( 150 )
+Other income, net         3         4
+Income before provision for income taxes        $     695          $     594
+___________________
+(1)  Primarily reflects severance and branch closure charges associated with our restructuring programs. The restructuring charges generally involve the closure of a large number of branches over a short period of time, often in periods following a major acquisition. As of March 31, 2024, there were no open restructuring programs.
+19
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+5.  Goodwill and Other Intangible Assets
+The following table presents the changes in the carrying amount of goodwill for the three months ended March 31, 2024:
+General rentals     Specialty     Total
+Balance at January 1, 2024 (1)    $     4,775        $     1,165        $     5,940
+Goodwill related to acquisitions (2)     2         934         936
+Foreign currency translation and other adjustments    ( 4 )      ( 9 )      ( 13 )
+Balance at March 31, 2024 (1)    $     4,773      $     2,090      $     6,863
+_________________
+(1)  The total carrying amount of goodwill for all periods in the table above is reflected net of $ 1.557  billion of accumulated impairment charges, which were primarily recorded in our general rentals segment.
+(2)  Includes goodwill adjustments for the effect on goodwill of changes to net assets acquired during the measurement period. The goodwill related to acquisitions above primarily reflects the March 2024 acquisition of Yak, which is discussed note 3 to our condensed consolidated financial statements.
+Other intangible assets were comprised of the following at March 31, 2024 and December 31, 2023:
+March 31, 2024
+Weighted-Average Remaining
+Amortization Period     Gross
+Carrying  Amount     Accumulated
+Amortization     Net
+Amount
+Non-compete agreements     3  years      $     171          $     63          $     108
+Customer relationships     6  years      $     2,523          $     1,967          $     556
+Trade names and associated trademarks     2  years      $     8          $     6          $     2
+December 31, 2023
+Weighted-Average Remaining
+Amortization Period     Gross
+Carrying  Amount     Accumulated
+Amortization     Net
+Amount
+Non-compete agreements     4  years      $     176          $     58          $     118
+Customer relationships     6  years      $     2,468          $     1,919          $     549
+Trade names and associated trademarks     2  years      $     9          $     6          $     3
+As discussed in note 3 to our condensed consolidated financial statements, in March 2024, we completed the acquisition of Yak. We have not yet obtained all the information required to finalize the valuations of the assets acquired and liabilities assumed, and to establish the value of the potential intangible assets, primarily because of the proximity of the acquisition date to the balance sheet date of March 31, 2024. As such, we have not yet recorded, as of March 31, 2024, any intangible assets associated with the acquisition.
+Amortization expense for other intangible assets was $ 60  and $ 79  for the three months ended March 31, 2024 and 2023, respectively.
+As of March 31, 2024, estimated amortization expense for other intangible assets for each of the next five years and thereafter is as follows:
+2024     $     162
+2025     177
+2026     132
+2027     87
+2028     45
+Thereafter     63
+Total     $     666
+6.  Fair Value Measurements
+As of March 31, 2024 and December 31, 2023, the amounts of our assets and liabilities that were accounted for at fair value were immaterial.
+20
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+Fair value measurements are categorized in one of the following three levels based on the lowest level input that is significant to the fair value measurement in its entirety:
+Level 1- Inputs to the valuation methodology are unadjusted quoted prices in active markets for identical assets or liabilities.
+Level 2- Observable inputs other than quoted prices in active markets for identical assets or liabilities include:
+a)  quoted prices for similar assets or liabilities in active markets;
+b)  quoted prices for identical or similar assets or liabilities in inactive markets;
+c)  inputs other than quoted prices that are observable for the asset or liability;
+d)  inputs that are derived principally from or corroborated by observable market data by correlation or other means.
+If the asset or liability has a specified (contractual) term, the Level 2 input must be observable for substantially the full term of the asset or liability.
+Level 3- Inputs to the valuation methodology are unobservable (i.e., supported by little or no market activity) and significant to the fair value measure.
+Fair Value of Financial Instruments
+The carrying amounts reported in our condensed consolidated balance sheets for accounts receivable, accounts payable and accrued expenses and other liabilities approximate fair value due to the immediate to short-term maturity of these financial instruments. The fair values of our variable rate debt facilities and finance leases approximated their book values as of March 31, 2024 and December 31, 2023.  The estimated fair values of our other financial instruments, all of which are categorized in Level 1 of the fair value hierarchy, as of March 31, 2024 and December 31, 2023 have been calculated based upon available market information, and were as follows:
+March 31, 2024     December 31, 2023
+Carrying
+Amount     Fair
+Value     Carrying
+Amount     Fair
+Value
+Senior notes    $     8,813        $     8,466        $     7,720        $     7,442
+7.  Debt
+Debt, net of unamortized original issue discounts or premiums, and unamortized debt issuance costs, consists of the following:
+21
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+March 31, 2024     December 31, 2023
+Repurchase facility expiring 2024 (1)    $     —        $     100
+Accounts receivable securitization facility expiring 2024 (1) (2)     1,021         1,300
+$ 4.25  billion ABL facility expiring 2027 (1)
+1,371         1,261
+Term loan facility expiring 2031 (1) (3)     990         945
+5   1  /  2   percent Senior Notes due 2027
+498         498
+3   7  /  8   percent Senior Secured Notes due 2027
+746         745
+4   7  /  8   percent Senior Notes due 2028 (4)
+1,665         1,665
+6  percent Senior Secured Notes due 2029
+1,488         1,488
+5   1  /  4   percent Senior Notes due 2030
+745         745
+4  percent Senior Notes due 2030
+745         744
+3   7  /  8   percent Senior Notes due 2031
+1,092         1,091
+3   3  /  4   percent Senior Notes due 2032
+744         744
+6   1  /  8   percent Senior Notes due 2034 (5)
+1,090         —
+Finance leases     210         192
+Total debt     12,405           11,518
+Less short-term portion (6)    ( 1,087 )      ( 1,465 )
+Total long-term debt    $     11,318          $     10,053
+___________________
+(1)  The table below presents financial information associated with our variable rate indebtedness as of and for the three months ended March 31, 2024. The repurchase facility is not included below because there were no borrowings under it during the three months ended March 31, 2024. The repurchase facility expires on June 14, 2024, and may be extended by the mutual consent of the parties to the repurchase facility agreement. We have borrowed the full available amount under the term loan facility. The principal obligation under the term loan facility is required to be repaid in quarterly installments in an aggregate amount equal to  1.0  percent per annum, with the balance due at the maturity of the facility. The average amount of debt outstanding under the term loan facility decreases slightly each quarter due to the requirement to repay a portion of the principal obligation.
+ABL facility     Accounts receivable securitization facility     Term loan facility
+Borrowing capacity, net of letters of credit
+$     2,853        $     279        $     —
+Letters of credit
+18
+Interest rate at March 31, 2024     6.5      %      6.3      %      7.1      %
+Average month-end debt outstanding
+1,346         1,093         983
+Weighted-average interest rate on average debt outstanding
+6.5      %      6.3      %      7.1      %
+Maximum month-end debt outstanding
+1,457         1,132         1,000
+(2)  Borrowings under the accounts receivable securitization facility are permitted only to the extent that the face amount of the receivables in the collateral pool, net of applicable reserves and other deductions, exceeds the outstanding loans. As of March 31, 2024, there were $ 1.348  billion of receivables, net of applicable reserves and other deductions, in the collateral pool. The accounts receivable securitization facility expires on June 24, 2024 and may be extended on a  364 -day basis by mutual agreement with the purchasers under the facility.
+(3)  In February 2024, the term loan facility was amended, primarily to extend the maturity date to February 14, 2031 and to increase the facility size to $ 1.000  billion (at the time of the amendment, the facility size was $ 948 ).
+(4)  URNA separately issued 4   7  /  8   percent Senior Notes in August 2017 and in September 2017. Following the issuances, URNA consummated an exchange offer pursuant to which most of the 4   7  /  8   percent Senior Notes issued in September 2017 were exchanged for additional notes fungible with the 4   7  /  8   percent Senior Notes issued in August 2017. As of March 31, 2024, the total above is comprised of two separate 4   7  /  8   percent Senior Notes, one with a book value of $ 1.661  billion and one with a book value of $ 4 .
+(5)  In March 2024, URNA issued $ 1.100  billion aggregate principal amount of 6   1  /  8   percent Senior Notes (the “6   1  /  8   percent Notes”) which are due March 15, 2034. The 6   1  /  8   percent Notes are unsecured and are guaranteed by Holdings and certain domestic subsidiaries of URNA. The 6   1  /  8   percent Notes may be redeemed on or after March 15, 2029, at specified redemption prices that range from  103.063  percent in 2029, to  100  percent in 2032 and thereafter, in each case, plus accrued and unpaid interest, if any. At any time prior to March 15, 2029, URNA may, at its option, redeem some or all of the 6   1  /  8   percent Notes at a redemption price equal to  100  percent of the aggregate principal amount of the notes to be
+22
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+redeemed, plus a “make-whole” premium and accrued and unpaid interest, if any, to the redemption date. In addition, at any time on or prior to March 15, 2027, up to  40  percent of the aggregate principal amount of the 6   1  /  8   percent Notes may be redeemed with the net cash proceeds of certain equity offerings at a redemption price equal to  106.125  percent of the aggregate principal amount of the notes plus accrued and unpaid interest, if any. The indenture governing the 6   1  /  8   percent Notes contains certain restrictive covenants, including, among others, limitations on (i) liens and (ii) mergers and consolidations, as well as a requirement to timely file periodic reports with the SEC. Each of the restrictive covenants is subject to important exceptions and qualifications that would allow URNA and its subsidiaries to engage in these activities under certain conditions. In addition, the requirements to provide subsidiary guarantees and to make an offer to repurchase the notes upon the occurrence of a change of control will not apply to URNA and its restricted subsidiaries during any period when the 6   1  /  8   percent Notes are rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA, provided at such time no default under the indenture has occurred and is continuing. The indenture also requires that, in the event of a change of control (as defined in the indenture), URNA must make an offer to purchase all of the then-outstanding 6   1  /  8   percent Notes tendered at a purchase price in cash equal to  101  percent of the principal amount thereof, plus accrued and unpaid interest, if any, thereon.
+(6)    Short-term debt primarily reflects borrowings under the accounts receivable securitization and repurchase facilities and the short-term portion of our finance leases.
+Loan Covenants and Compliance
+As of March 31, 2024, we were in compliance with the covenants and other provisions of the ABL, accounts receivable securitization, term loan and repurchase facilities and our senior notes. Any failure to be in compliance with any material provision or covenant of these agreements could have a material adverse effect on our liquidity and operations.
+The only financial covenant that currently exists under the ABL facility is the fixed charge coverage ratio. Subject to certain limited exceptions specified in the ABL facility, the fixed charge coverage ratio covenant under the ABL facility will only apply in the future if specified availability under the ABL facility falls below  10  percent of the maximum revolver amount under the ABL facility. When certain conditions are met, cash and cash equivalents and borrowing base collateral in excess of the ABL facility size may be included when calculating specified availability under the ABL facility. As of March 31, 2024, specified availability under the ABL facility exceeded the required threshold and, as a result, this financial covenant was inapplicable. Under our accounts receivable securitization facility, we are required, among other things, to maintain certain financial tests relating to: (i) the default ratio, (ii) the delinquency ratio, (iii) the dilution ratio and (iv) days sales outstanding. The accounts receivable securitization facility also requires us to comply with the fixed charge coverage ratio under the ABL facility, to the extent the ratio is applicable under the ABL facility.
+Covenants in the agreements governing our ABL facility, term loan facility and certain other debt instruments impose limitations on our ability to make share repurchases and dividend payments, subject to important exceptions that would allow us to make such repurchases or payments under certain conditions. Based on our current total indebtedness leverage ratio (as defined in the applicable debt agreements) and usage of the ABL facility as of March 31, 2024, we met the criteria under the applicable debt agreements for these exceptions, and as a result we were not restricted in our ability to make share repurchases and dividend payments.
+8.  Legal and Regulatory Matters
+We are subject to a number of claims and proceedings that generally arise in the ordinary conduct of our business. These matters include, but are not limited to, general liability claims (including personal injury, product liability, and property and automobile claims), indemnification and guarantee obligations, employee injuries and employment-related claims, self-insurance obligations and contract and real estate matters. Based on advice of counsel and available information, including current status or stage of proceeding, and taking into account accruals included in our consolidated balance sheets for matters where we have established them, we currently believe that any liabilities ultimately resulting from these ordinary course claims and proceedings will not, individually or in the aggregate, have a material adverse effect on our consolidated financial position, results of operations or cash flows.
+9.  Earnings Per Share
+Basic earnings per share is computed by dividing net income available to common stockholders by the weighted-average number of common shares outstanding. Diluted earnings per share is computed by dividing net income available to common stockholders by the weighted-average number of common shares plus the effect of dilutive potential common shares
+23
+Table of Contents
+UNITED RENTALS, INC.
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(Dollars in millions, except per share data, unless otherwise indicated)
+outstanding during the period.  The following table sets forth the computation of basic and diluted earnings per share (shares in thousands):
+Three Months Ended
+March 31,
+2024     2023
+Numerator:
+Net income available to common stockholders         542         451
+Denominator:
+Denominator for basic earnings per share—weighted-average common shares         67,213         69,414
+Effect of dilutive securities:
+Employee stock options         3         4
+Restricted stock units         201         327
+Denominator for diluted earnings per share—adjusted weighted-average common shares         67,417           69,745
+Basic earnings per share        $     8.06        $     6.50
+Diluted earnings per share        $     8.04        $     6.47
+24
+Table of Contents
+Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations (dollars in millions, except per share data, unless otherwise indicated)
+Global Economic Conditions
+Our operations are impacted by global economic conditions, including inflation, increased interest rates and supply chain constraints, and we take actions to modify our plans to address such economic conditions. In 2022, for example, we intentionally held back on sales of rental equipment to ensure we had sufficient rental capacity for our customers. To date, our supply chain disruptions have been limited, but we may experience more severe supply chain disruptions in the future. Interest rates on our debt instruments have increased recently. For example, in March 2024, URNA issued $1.1 billion aggregate principal amount of senior unsecured notes at a 6   1  /  8   percent interest rate, while URNA's issuance in August 2021 of $750 aggregate principal amount of senior unsecured notes was at a 3 ¾ percent interest rate. Additionally, the weighted average interest rates on our variable debt instruments were 6.6 percent and 1.4 percent for the three months ended March 31, 2024 and the year ended December 31, 2021, respectively. We have experienced and are continuing to experience inflationary pressures. A portion of inflationary cost increases is passed on to customers. The most significant cost increases that are passed on to customers are for fuel and delivery, and there are other costs for which the pass through to customers is less direct, such as repairs and maintenance, and labor. The impact of inflation and increased interest rates may continue to be significant in the future.
+We continue to assess the economic environment in which we operate and take appropriate actions to address the economic challenges we face.
+Executive Overview
+We are the largest equipment rental company in the world, with an integrated network of 1,600 rental locations. We primarily operate in the United States and Canada, and have a limited presence in Europe, Australia and New Zealand. Although the equipment rental industry is highly fragmented and diverse, we believe that we are well positioned to take advantage of this environment because, as a larger company, we have more extensive resources and certain competitive advantages. These include a fleet of rental equipment with a total original equipment cost (“OEC”) of $20.6 billion, and a North American branch network that operates in 49 U.S. states and every Canadian province, and serves 99 of the 100 largest metropolitan areas in the U.S. Our size also gives us greater purchasing power, the ability to provide customers with a broader range of equipment and services, the ability to provide customers with equipment that is more consistently well-maintained and therefore more productive and reliable, and the ability to enhance the earning potential of our assets by transferring equipment among branches to satisfy customer needs.
+We offer approximately 4,800 classes of equipment for rent to a diverse customer base that includes construction and industrial companies, manufacturers, utilities, municipalities, homeowners and government entities. Our revenues are derived from the following sources: equipment rentals, sales of rental equipment, sales of new equipment, contractor supplies sales and service and other revenues. Equipment rentals represented 84 percent of total revenues for the three months ended March 31, 2024.
+For the past several years, we have executed a strategy focused on improving the profitability of our core equipment rental business through revenue growth, margin expansion and operational efficiencies. In particular, we have focused on customer segmentation, customer service differentiation, rate management, fleet management and operational efficiency. Our general strategy focuses on profitability and return on invested capital, and, in particular, calls for:
+•  A consistently superior standard of service to customers  ,   often provided through a single lead contact who can coordinate the cross-selling of the various services we offer throughout our network. We utilize a proprietary software application, Total Control®, which provides our key customers with a single in-house software application that enables them to monitor and manage all their equipment needs. Total Control® is a unique customer offering that enables us to develop strong, long-term relationships with our larger customers. Our digital capabilities, including our Total Control® platform, allow our sales teams to provide contactless end-to-end customer service;
+•  The further optimization of our customer mix and fleet mix, with a dual objective  :   to enhance our performance in serving our current customer base, and to focus on the accounts and customer types that are best suited to our strategy for profitable growth. We believe these efforts will lead to even better service of our target accounts, primarily large construction and industrial customers, as well as select local contractors. Our fleet team's analyses are aligned with these objectives to identify trends in equipment categories and define action plans that can generate improved returns;
+•  A continued focus on “Lean” management techniques, including kaizen processes focused on continuous improvement  .   We have a dedicated team responsible for reducing waste in our operational processes, with the objectives of: condensing the cycle time associated with preparing equipment for rent; optimizing our resources for
+25
+Table of Contents
+delivery and pickup of equipment; improving the effectiveness and efficiency of our repair and maintenance operations; and implementing customer service best practices;
+•  The continued expansion and cross-selling of adjacent specialty and services products, which enables us to provide a "one-stop" shop for our customers  . We believe that the expansion of our specialty business, as exhibited by our acquisition of Yak in March 2024, which is discussed in note 3 to our condensed consolidated financial statements, as well as our tools and onsite services offerings, will further position United Rentals as a single source provider of total jobsite solutions through our extensive product and service resources and technology offerings; and
+•  The pursuit of strategic acquisitions to continue to expand our core equipment rental business,   as exhibited by our acquisition of assets of Ahern Rentals, Inc. ("Ahern Rentals") in December 2022. Strategic acquisitions allow us to invest our capital to expand our business, further driving our ability to accomplish our strategic goals.
+Financial Overview
+Prior to taking actions pertaining to our financial flexibility and liquidity, we assess our available sources and anticipated uses of cash, including, with respect to sources, cash generated from operations and from the sale of rental equipment. In 2024, we have taken the following actions to improve our financial flexibility and liquidity, and to position us to invest the necessary capital in our business:
+•  Issued $1.1 billion aggregate principal amount of 6   1  /  8   percent Senior Notes due 2034. The issued debt, together with drawings on our ABL facility, was used to fund the Yak acquisition that is discussed in note 3 to the condensed consolidated financial statements; and
+•  Amended our term loan facility, primarily to extend the maturity date to February 2031 and to increase the facility size to $1.0 billion.
+As of March 31, 2024, we had available liquidity of $3.561 billion, comprised of cash and cash equivalents, and availability under the ABL and accounts receivable securitization facilities.
+In October 2022, our Board of Directors authorized a $1.25 billion share repurchase program, which was completed in the first quarter of 2024. In January 2024, our Board of Directors authorized a $1.5 billion share repurchase program, and repurchases under this program began in March 2024, following the completion of the $1.25 billion program. We have repurchased $125 under the $1.5 billion program through March 31, 2024, and intend to repurchase a total of $1.25 billion under the program in 2024 and then complete the program by the end of the first quarter of 2025. A 1 percent excise tax is imposed on “net repurchases” (certain purchases minus certain issuances) of common stock. The repurchases above (as well as the total program sizes and expected 2024 repurchases) do not include the excise tax, which totaled $3 year-to-date through March 31, 2024.
+Our Board of Directors also approved our first-ever quarterly dividend program in January 2023, and the first dividend under the program was paid in February 2023. During the three months ended March 31, 2024 and 2023, we paid dividends totaling $110 ($1.63 per share) and $103 ($1.48 per share), respectively. On April 24, 2024, our Board of Directors declared a quarterly dividend of $1.63 per share, payable on May 22, 2024 to stockholders of record on May 8, 2024.
+Net income.   Net income and diluted earnings per share are presented below.
+Three Months Ended
+March 31,
+2024     2023
+Net income        $    542       $    451
+Diluted earnings per share        $    8.04       $    6.47
+Net income and diluted earnings per share include the after-tax impacts of the items below. The tax rates applied to the items below reflect the statutory rates in the applicable entities.
+26
+Table of Contents
+Three Months Ended March 31,
+2024     2023
+Tax rate applied to items below            25.2     %       25.3     %
+Contribution
+to net income (after-tax)     Impact on
+diluted earnings per share     Contribution
+to net income (after-tax)     Impact on
+diluted earnings per share
+Merger related intangible asset amortization (1)            $    (33)      $    (0.49)      $    (49)      $    (0.70)
+Impact on depreciation related to acquired fleet and property and equipment (2)            (27)      (0.40)      (22)      (0.32)
+Impact of the fair value mark-up of acquired fleet (3)            (13)      (0.19)      (31)      (0.44)
+Restructuring charge (4)            (1)      (0.01)      (1)      (0.02)
+Asset impairment charge (5)            —       (0.01)      —       —
+Loss on repurchase/redemption/amendment of debt securities            (1)      (0.01)      —       —
+(1)  This reflects the amortization of the intangible assets acquired in the major acquisitions that significantly impact our operations (the "major acquisitions," each of which had annual revenues of over $200 prior to acquisition). The decrease in 2024 primarily reflects the impact of reduced amortization associated with the December 2022 acquisition of Ahern Rentals.
+(2)  This reflects the impact of extending the useful lives of equipment acquired in certain major acquisitions, net of the impact of additional depreciation associated with the fair value mark-up of such equipment.
+(3)  This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in certain major acquisitions that was subsequently sold. The decrease in 2024 primarily reflects decreased sales of rental equipment acquired in the Ahern Rentals acquisition.
+(4)  This primarily reflects severance and branch closure charges associated with our restructuring programs. For additional information on the restructuring charges, which generally involve the closure of a large number of branches over a short period of time, often in periods following a major acquisition, see "Management’s Discussion and Analysis of Financial Condition and Results of Operations-Results of Operations-Other costs/(income)-restructuring charges" below.
+(5)  This reflects write-offs of leasehold improvements and other fixed assets.
+EBITDA GAAP Reconciliations.   EBITDA represents the sum of net income, provision for income taxes, interest expense, net, depreciation of rental equipment and non-rental depreciation and amortization. Adjusted EBITDA represents EBITDA plus the sum of the restructuring charges, stock compensation expense, net and the impact of the fair value mark-up of the acquired fleet. See below for further detail on each adjusting item. These items are excluded from adjusted EBITDA internally when evaluating our operating performance and for strategic planning and forecasting purposes, and allow investors to make a more meaningful comparison between our core business operating results over different periods of time, as well as with those of other similar companies. The net income and adjusted EBITDA margins represent net income or adjusted EBITDA divided by total revenue. Management believes that EBITDA and adjusted EBITDA, when viewed with the Company’s results under GAAP and the accompanying reconciliations, provide useful information about operating performance and period-over-period growth, and provide additional information that is useful for evaluating the operating performance of our core business without regard to potential distortions. Additionally, management believes that EBITDA and adjusted EBITDA help investors gain an understanding of the factors and trends affecting our ongoing cash earnings, from which capital investments are made and debt is serviced. However, EBITDA and adjusted EBITDA are not measures of financial performance or liquidity under GAAP and, accordingly, should not be considered as alternatives to net income or cash flow from operating activities as indicators of operating performance or liquidity.
+The table below provides a reconciliation between net income and EBITDA and adjusted EBITDA:
+27
+Table of Contents
+Three Months Ended
+March 31,
+2024     2023
+Net income        $    542         $    451
+Provision for income taxes        153       143
+Interest expense, net        160       150
+Depreciation of rental equipment        582       575
+Non-rental depreciation and amortization        104       118
+EBITDA        $    1,541         $    1,437
+Restructuring charge (1)        1       1
+Stock compensation expense, net (2)        28       24
+Impact of the fair value mark-up of acquired fleet (3)        17       41
+Adjusted EBITDA        $    1,587         $    1,503
+Net income margin        15.6     %     13.7     %
+Adjusted EBITDA margin        45.5     %     45.8     %
+The table below provides a reconciliation between net cash provided by operating activities and EBITDA and adjusted EBITDA:
+Three Months Ended
+March 31,
+2024     2023
+Net cash provided by operating activities    $    1,029         $    939
+Adjustments for items included in net cash provided by operating activities but excluded from the calculation of EBITDA:
+Amortization of deferred financing costs and original issue discounts    (4)      (4)
+Gain on sales of rental equipment    187       190
+Gain on sales of non-rental equipment    3       4
+Insurance proceeds from damaged equipment    13       9
+Restructuring charge (1)    (1)      (1)
+Stock compensation expense, net (2)    (28)      (24)
+Loss on repurchase/redemption/amendment of debt securities    (1)      —
+Changes in assets and liabilities    17       117
+Cash paid for interest    195       178
+Cash paid for income taxes, net    131       29
+EBITDA    $    1,541         $    1,437
+Add back:
+Restructuring charge (1)    1       1
+Stock compensation expense, net (2)    28       24
+Impact of the fair value mark-up of acquired fleet (3)    17       41
+Adjusted EBITDA    $    1,587         $    1,503
+___________________
+(1)  This primarily reflects severance and branch closure charges associated with our restructuring programs. For additional information on the restructuring charges, which generally involve the closure of a large number of branches over a short period of time, often in periods following a major acquisition, see "Management’s Discussion and Analysis of Financial Condition and Results of Operations-Results of Operations-Other costs/(income)-restructuring charges" below.
+(2)  Represents non-cash, share-based payments associated with the granting of equity instruments.
+(3)  This reflects additional costs recorded in cost of rental equipment sales associated with the fair value mark-up of rental equipment acquired in certain major acquisitions that was subsequently sold. The decrease in 2024 primarily reflects decreased sales of rental equipment acquired in the Ahern Rentals acquisition.
+28
+Table of Contents
+For the three months ended March 31, 2024, net income increased $91, or 20.2 percent, and net income margin increased 190 basis points to 15.6 percent. For the three months ended March 31, 2024, adjusted EBITDA increased $84, or 5.6 percent, and adjusted EBITDA margin decreased 30 basis points to 45.5 percent.
+The year-over-year increase in net income margin primarily reflects higher gross margin from equipment rentals, and reductions in selling, general and administrative ("SG&A") and non-rental depreciation and amortization expenses as a percentage of revenue. Equipment rentals gross margin increased 110 basis points from 2023, primarily due to decreased depreciation expense as a percentage of revenue. The favorable margin impact of SG&A expense primarily reflects decreases in certain discretionary expenses, including travel and entertainment, while the margin impact of non-rental depreciation and amortization expense includes decreased amortization expense associated with the Ahern Rentals acquisition.
+The year-over-year decrease in adjusted EBITDA margin primarily reflects a 620 basis point decrease in gross margin from sales of rental equipment (excluding the adjustment reflected in the table above for the impact of the fair value mark-up of acquired fleet), partially offset by reduced SG&A expense as a percentage of revenue. The decreased gross margin from sales of rental equipment (excluding the adjustment for the impact of the fair value mark-up of acquired fleet) primarily reflects the continued normalization of used equipment pricing. The favorable margin impact of SG&A expense primarily reflects decreases in certain discretionary expenses, including travel and entertainment.
+Revenues   are noted below. Fleet productivity is a comprehensive metric that provides greater insight into the decisions made by our managers in support of equipment rental growth and returns. Specifically, we seek to optimize the interplay of rental rates, time utilization and mix to drive rental revenue. Fleet productivity aggregates, in one metric, the impact of changes in rates, utilization and mix on owned equipment rental revenue. We believe that this metric is useful in assessing the effectiveness of our decisions on rates, time utilization and mix, particularly as they support the creation of shareholder value. The table below includes the components of the year-over-year change in rental revenue using the fleet productivity methodology.
+Three Months Ended March 31,
+2024     2023     Change
+Equipment rentals*          $    2,929       $    2,740       6.9     %
+Sales of rental equipment          383       388       (1.3)    %
+Sales of new equipment          48       44       9.1     %
+Contractor supplies sales          36       34       5.9     %
+Service and other revenues          89       79       12.7     %
+Total revenues          $    3,485         $    3,285         6.1       %
+*Equipment rentals variance components:
+Year-over-year change in average OEC              3.6     %
+Assumed year-over-year inflation impact (1)              (1.5)    %
+Fleet productivity (2)               4.0     %
+Contribution from ancillary and re-rent revenue (3)              0.8     %
+Total change in equipment rentals              6.9       %
+___________________
+(1)  Reflects the estimated impact of inflation on the revenue productivity of fleet based on OEC, which is recorded at cost.
+(2)  Reflects the combined impact of changes in rental rates, time utilization, and mix that contribute to the variance in owned equipment rental revenue. See note 2 to the condensed consolidated financial statements for a discussion of the different types of equipment rentals revenue. Rental rate changes are calculated based on the year-over-year variance in average contract rates, weighted by the prior period revenue mix. Time utilization is calculated by dividing the amount of time an asset is on rent by the amount of time the asset has been owned during the year. Mix includes the impact of changes in customer, fleet, geographic and segment mix.
+(3)  Reflects the combined impact of changes in the other types of equipment rentals revenue (see note 2 for further detail), excluding owned equipment rental revenue.
+Equipment rentals include our revenues from renting equipment, as well as revenue related to the fees we charge customers: for equipment delivery and pick-up; to protect the customer against liability for damage to our equipment while on rent; for fuel; and for environmental and other miscellaneous costs and services. Sales of rental equipment represent our revenues from the sale of used rental equipment. Sales of new equipment represent our revenues from the sale of new
+29
+Table of Contents
+equipment. Contractor supplies sales represent our sales of supplies utilized by contractors, which include construction consumables, tools, small equipment and safety supplies. Services and other revenues primarily represent our revenues earned from providing repair and maintenance services on our customers’ fleet (including parts sales). See note 2 to the condensed consolidated financial statements for a discussion of our revenue recognition accounting.
+For the three months ended March 31, 2024, total revenues of $3.485 billion increased 6.1 percent compared with 2023. Equipment rentals and sales of rental equipment are our largest revenue types (together, they accounted for 95 percent of total revenue for the three months ended March 31, 2024). Equipment rentals increased $189, or 6.9 percent, primarily due to a 4.0 percent increase in fleet productivity, which reflects broad-based strength of demand across our end-markets, and a 3.6 percent increase in average OEC. Sales of rental equipment did not change significantly year-over-year.
+Results of Operations
+As discussed in note 4 to our condensed consolidated financial statements, our reportable segments are general rentals and specialty. The general rentals segment includes the rental of construction, aerial, industrial and homeowner equipment and related services and activities. The general rentals segment’s customers include construction and industrial companies, manufacturers, utilities, municipalities, homeowners and government entities. This segment operates throughout the United States and Canada. The specialty segment rents products (and provides setup and other services on such rented equipment) including i) trench safety equipment, such as trench shields, aluminum hydraulic shoring systems, slide rails, crossing plates, construction lasers and line testing equipment for underground work, ii) power and HVAC equipment, such as portable diesel generators, electrical distribution equipment, and temperature control equipment, iii) fluid solutions equipment primarily used for fluid containment, transfer and treatment, iv) mobile storage equipment and modular office space and v) surface protection mats. The specialty segment’s customers include construction companies involved in infrastructure projects, municipalities and industrial companies. This segment primarily operates in the United States and Canada, and has a limited presence in Europe, Australia and New Zealand.
+As discussed in note 4 to our condensed consolidated financial statements, we aggregate our four geographic divisions—Central, Northeast, Southeast and West—into our general rentals reporting segment. Historically, there have occasionally been variances in the levels of equipment rentals gross margins achieved by these divisions, though such variances have generally been small (close to or less than 10 percent, measured versus the equipment rentals gross margins of the aggregated general rentals' divisions). For the five year period ended March 31, 2024, there was no general rentals' division with an equipment rentals gross margin that differed materially from the equipment rentals gross margin of the aggregated general rentals' divisions. The rental industry is cyclical, and there historically have occasionally been divisions with equipment rentals gross margins that varied by greater than 10 percent from the equipment rentals gross margins of the aggregated general rentals' divisions, though the specific divisions with margin variances of over 10 percent have fluctuated, and such variances have generally not exceeded 10 percent by a significant amount. We monitor the margin variances and confirm margin similarity between divisions on a quarterly basis.
+We believe that the divisions that are aggregated into our segments have similar economic characteristics, as each division is capital intensive, offers similar products to similar customers, uses similar methods to distribute its products, and is subject to similar competitive risks. The aggregation of our divisions also reflects the management structure that we use for making operating decisions and assessing performance. Although we believe aggregating these divisions into our reporting segments for segment reporting purposes is appropriate, to the extent that there are significant margin variances that do not converge, we may be required to disaggregate the divisions into separate reporting segments. Any such disaggregation would have no impact on our consolidated results of operations.
+These reporting segments align our external segment reporting with how management evaluates business performance and allocates resources. We evaluate segment performance primarily based on segment equipment rentals gross profit. Our revenues, operating results, and financial condition fluctuate from quarter to quarter reflecting the seasonal rental patterns of our customers, with rental activity tending to be lower in the winter.
+Revenues by segment were as follows:
+30
+Table of Contents
+General
+rentals     Specialty     Total
+Three Months Ended March 31, 2024
+Equipment rentals    $    2,070       $    859       $    2,929
+Sales of rental equipment    346       37       383
+Sales of new equipment    29       19       48
+Contractor supplies sales    20       16       36
+Service and other revenues    81       8       89
+Total revenue    $    2,546         $    939         $    3,485
+Three Months Ended March 31, 2023
+Equipment rentals    $    2,018       $    722       $    2,740
+Sales of rental equipment    350       38       388
+Sales of new equipment    18       26       44
+Contractor supplies sales    21       13       34
+Service and other revenues    72       7       79
+Total revenue    $    2,479         $    806         $    3,285
+Equipment rentals   represented 84 percent of total revenues for the three months ended March 31, 2024. For the three months ended March 31, 2024, equipment rentals of $2.929 billion increased $189, or 6.9 percent, as compared to the same period in 2023, primarily due to a 4.0 percent increase in fleet productivity, which reflects broad-based strength of demand across our end-markets, and a 3.6 percent increase in average OEC.
+For the three months ended March 31, 2024, equipment rentals represented 81 percent of total revenues for the general rentals segment. For the three months ended March 31, 2024, general rentals equipment rentals increased $52, or 2.6 percent, as compared to the same period in 2023, primarily reflecting broad-based strength of demand across our end-markets.
+For the three months ended March 31, 2024, equipment rentals represented 91 percent of total revenues for the specialty segment. For the three months ended March 31, 2024, specialty equipment rentals increased $137, or 19.0 percent, as compared to the same period in 2023, primarily due to strong demand across our end-markets and increased average OEC.
+Sales of rental equipment  .   For the three months ended March 31, 2024, sales of rental equipment represented approximately 11 percent of our total revenues. For the three months ended March 31, 2024, sales of rental equipment did not change significantly year-over-year.
+Sales of new equipment.   For the three months ended March 31, 2024, sales of new equipment represented approximately 1 percent of our total revenues. For the three months ended March 31, 2024, sales of new equipment did not change significantly year-over-year.
+Contractor supplies sales   represent our revenues associated with selling a variety of supplies, including construction consumables, tools, small equipment and safety supplies. For the three months ended March 31, 2024, contractor supplies sales represented approximately 1 percent of our total revenues. For the three months ended March 31, 2024, contractor supplies sales did not change significantly year-over-year.
+Service and other revenues   primarily represent our revenues earned from providing repair and maintenance services on our customers’ fleet (including parts sales). For the three months ended March 31, 2024, service and other revenues represented approximately 3 percent of our total revenues. For the three months ended March 31, 2024, service and other revenues did not change significantly year-over-year.
+Segment Equipment Rentals Gross Profit
+Segment equipment rentals gross profit and gross margin were as follows:
+31
+Table of Contents
+General
+rentals     Specialty     Total
+Three Months Ended March 31, 2024
+Equipment Rentals Gross Profit    $    681       $    422       $    1,103
+Equipment Rentals Gross Margin    32.9     %     49.1     %     37.7     %
+Three Months Ended March 31, 2023
+Equipment Rentals Gross Profit    $    663       $    340       $    1,003
+Equipment Rentals Gross Margin    32.9     %     47.1     %     36.6     %
+General rentals  . For the three months ended March 31, 2024, equipment rentals gross profit increased by $18, and equipment rentals gross margin was flat, year-over-year.
+Specialty  . For the three months ended March 31, 2024, equipment rentals gross profit increased by $82, and equipment rentals gross margin increased by 200 basis points, year-over-year. Gross margin increased primarily due to better cost performance and fixed cost absorption on higher revenue.
+Gross Margin  . Gross margins by revenue classification were as follows:
+Three Months Ended March 31,
+2024     2023     Change
+Total gross margin          38.6%     37.8%     80 bps
+Equipment rentals          37.7%     36.6%     110 bps
+Sales of rental equipment          48.8%     49.0%     (20) bps
+Sales of new equipment          20.8%     18.2%     260 bps
+Contractor supplies sales          30.6%     29.4%     120 bps
+Service and other revenues          39.3%     38.0%     130 bps
+For the three months ended March 31, 2024, total gross margin increased 80 basis points from the same period in 2023. Equipment rentals gross margin increased 110 basis points from 2023, primarily due to decreased depreciation expense as a percentage of revenue. Gross margin from sales of rental equipment did not change significantly from the same period in 2023. The gross margin fluctuations from sales of new equipment, contractor supplies sales and service and other revenues generally reflect normal variability, and such revenue types did not account for a significant portion of total gross profit (gross profit for these revenue types represented 4 percent of total gross profit for the three months ended March 31, 2024).
+Other costs/(income)
+The table below includes the other costs/(income) in our condensed consolidated statements of income, as well as key associated metrics:
+Three Months Ended March 31,
+2024     2023    Change
+Selling, general and administrative ("SG&A") expense         $389     $382    1.8%
+SG&A expense as a percentage of revenue         11.2%     11.6%    (40) bps
+Restructuring charge         1     1    —%
+Non-rental depreciation and amortization         104     118    (11.9)%
+Interest expense, net         160     150    6.7%
+Other income, net         (3)     (4)    (25.0)%
+Provision for income taxes         153     143    7.0%
+Effective tax rate         22.0%     24.1%    (210) bps
+SG&A expense   primarily includes sales force compensation, information technology costs, third party professional fees, management salaries, bad debt expense and clerical and administrative overhead. SG&A expense as a percentage of revenue for the three months ended March 31, 2024 decreased from the same period in 2023 primarily due to decreases in certain discretionary expenses, including travel and entertainment.
+The   restructuring charges   primarily reflect severance and branch closure charges associated with our restructuring programs. We incur severance costs and branch closure charges in the ordinary course of our business. We only include such
+32
+Table of Contents
+costs that are part of a restructuring program as restructuring charges. The designated restructuring programs generally involve the closure of a large number of branches over a short period of time, often in periods following a major acquisition, and result in significant costs that we would not normally incur absent a major acquisition or other triggering event that results in the initiation of a restructuring program. Since the first such program was initiated in 2008, we have completed seven restructuring programs and have incurred total restructuring charges of $381. We currently have no open restructuring programs, and the total liability associated with our restructuring programs was $20 as of March 31, 2024.
+Non-rental depreciation and amortization   includes i) the amortization of other intangible assets and ii) depreciation expense associated with equipment that is not offered for rent (such as computers and office equipment) and amortization expense associated with leasehold improvements. Our other intangible assets consist of customer relationships, non-compete agreements and trade names and associated trademarks. The year-over-year decrease in non-rental depreciation and amortization for the three months ended March 31, 2024 primarily reflected a reduction in amortization expense associated with the Ahern Rentals acquisition.
+Interest expense, net   for the three months ended March 31, 2024 increased 6.7 percent year-over-year, primarily reflecting increased average debt, including the debt issued to partially fund the Yak acquisition discussed above, and higher variable debt interest rates. The weighted average interest rates on our variable debt instruments were 6.6 percent and 5.9 percent for the three months ended March 31, 2024 and 2023, respectively.
+Other (income) expense, net   primarily includes i) currency gains and losses, ii) finance charges, iii) gains and losses on sales of non-rental equipment and iv) other miscellaneous items.
+The   effective tax rates   for 2024 and 2023 differed from the federal statutory rate of 21 percent primarily due to the geographical mix of income between foreign and domestic operations, the impact of state and local taxes, stock compensation, and other deductible and nondeductible charges. The year-over-year decrease in the effective tax rate for the three months ended March 31, 2024 primarily reflected decreased average state tax rates.
+Balance sheet.   Goodwill increased by $923, or 15.5 percent, from December 31, 2023 to March 31, 2024, primarily due to the impact of the Yak acquisition, as discussed in note 3 to the condensed consolidated financial statements. See the condensed consolidated statements of cash flows for further information on changes in cash and cash equivalents, the condensed consolidated statements of stockholders’ equity for further information on changes in stockholders’ equity and note 7 to the condensed consolidated financial statements for further information on debt changes.
+33
+Table of Contents
+Liquidity and Capital Resources
+We manage our liquidity using internal cash management practices, which are subject to (i) the policies and cooperation of the financial institutions we utilize to maintain and provide cash management services, (ii) the terms and other requirements of the agreements to which we are a party and (iii) the statutes, regulations and practices of each of the local jurisdictions in which we operate.
+In October 2022, our Board of Directors authorized a $1.25 billion share repurchase program, which was completed in the first quarter of 2024. In January 2024, our Board of Directors authorized a $1.5 billion share repurchase program, and repurchases under this program began in March 2024, following the completion of the $1.25 billion program. We have repurchased $125 under the $1.5 billion program through March 31, 2024, and intend to repurchase a total of $1.25 billion under the program in 2024 and then complete the program by the end of the first quarter of 2025. A 1 percent excise tax is imposed on “net repurchases” (certain purchases minus certain issuances) of common stock. The repurchases above (as well as the total program sizes and expected 2024 repurchases) do not include the excise tax, which totaled $3 year-to-date through March 31, 2024. Since 2012, we have repurchased a total of $6.343 billion (inclusive of immaterial excise taxes, which were first imposed in 2023) of Holdings' common stock under our share repurchase programs (comprised of eight programs that have ended and the current program).
+Our Board of Directors also approved our first-ever quarterly dividend program in January 2023, and the first dividend under the program was paid in February 2023. During the three months ended March 31, 2024 and 2023, we paid dividends totaling $110 ($1.63 per share) and $103 ($1.48 per share), respectively. On April 24, 2024, our Board of Directors declared a quarterly dividend of $1.63 per share, payable on May 22, 2024 to stockholders of record on May 8, 2024.
+Our principal existing sources of cash are cash generated from operations and from the sale of rental equipment, and borrowings available under our ABL facility and accounts receivable securitization facility. As of March 31, 2024, we had cash and cash equivalents of $429. We believe that our existing sources of cash will be sufficient to support our existing operations over the next 12 months. The table below presents financial information associated with our principal sources of cash as of and for the three months ended March 31, 2024:
+ABL facility:
+Borrowing capacity, net of letters of credit    $    2,853
+Outstanding debt, net of debt issuance costs    1,371
+Interest rate at March 31, 2024    6.5     %
+Average month-end principal amount of debt outstanding    1,346
+Weighted-average interest rate on average debt outstanding
+6.5     %
+Maximum month-end principal amount of debt outstanding    1,457
+Accounts receivable securitization facility (1):
+Borrowing capacity
+279
+Outstanding debt, net of debt issuance costs    1,021
+Interest rate at March 31, 2024    6.3     %
+Average month-end principal amount of debt outstanding
+1,093
+Weighted-average interest rate on average debt outstanding
+6.3     %
+Maximum month-end principal amount of debt outstanding
+1,132
+_________________
+(1)    The accounts receivable securitization facility expires on June 24, 2024 and may be extended on a 364-day basis by mutual agreement with the purchasers under the facility.
+34
+Table of Contents
+We expect that our principal short-term (over the next 12 months) and long-term needs for cash relating to our operations will be to fund (i) operating activities and working capital, (ii) the purchase of rental equipment and inventory items offered for sale, (iii) payments due under operating leases, (iv) debt service, (v) share repurchases, (vi) dividends and (vii) acquisitions. We plan to fund such cash requirements from our existing sources of cash. In addition, we may seek additional financing through the securitization of some of our real estate, the use of additional operating leases or other financing sources as market conditions permit. The table below presents information on payments coming due under the most significant categories of our needs for cash (excluding operating cash flows pertaining to normal business operations, such as human capital costs, which are not accurately estimable) as of March 31, 2024:
+2024    2025    2026    2027    2028    Thereafter    Total
+Debt and finance leases (1)    $    1,077      $    65      $    52      $    2,664      $    1,688      $    6,937      $    12,483
+Interest due on debt (2)    469      602      601      533      371      854      3,430
+Operating leases (1)    239      286      248      197      144      312      1,426
+Purchase obligations (3)    3,843      28      —      —      —      —      3,871
+Total    $    5,628        $    981        $    901        $    3,394        $    2,203        $    8,103        $    21,210
+_________________
+(1)    The payments due with respect to a period represent (i) in the case of debt and finance leases, the scheduled principal payments due in such period, and (ii) in the case of operating leases, the payments due in such period for non-cancelable operating leases with initial or remaining terms of one year or more. See note 7 to the condensed consolidated financial statements for further debt information.
+(2)    Estimated interest payments have been calculated based on the principal amount of debt and the applicable interest rates as of March 31, 2024.
+(3)    As of March 31, 2024, we had outstanding advance purchase orders, which were negotiated in the ordinary course of business, with our equipment and inventory suppliers. These purchase orders can generally be cancelled by us without cancellation penalties. The equipment and inventory receipts from the suppliers pursuant to these purchase orders and the related payments to the suppliers are expected to be completed primarily throughout 2024.
+To access the capital markets, we rely on credit rating agencies to assign ratings to our securities as an indicator of credit quality. Lower credit ratings generally result in higher borrowing costs and reduced access to debt capital markets. Credit ratings also affect the costs of derivative transactions, including interest rate and foreign currency derivative transactions. As a result, negative changes in our credit ratings could adversely impact our costs of funding. Our credit ratings as of April 22, 2024 were as follows:
+Corporate Rating     Outlook
+Moody’s    Ba1     Stable
+Standard & Poor’s    BB+     Stable
+A security rating is not a recommendation to buy, sell or hold securities. There is no assurance that any rating will remain in effect for a given period of time or that any rating will not be revised or withdrawn by a rating agency in the future.
+Loan Covenants and Compliance.   As of March 31, 2024, we were in compliance with the covenants and other provisions of the ABL, accounts receivable securitization, term loan and repurchase facilities and our senior notes. Any failure to be in compliance with any material provision or covenant of these agreements could have a material adverse effect on our liquidity and operations.
+The only financial covenant that currently exists under the ABL facility is the fixed charge coverage ratio. Subject to certain limited exceptions specified in the ABL facility, the fixed charge coverage ratio covenant under the ABL facility will only apply in the future if specified availability under the ABL facility falls below 10 percent of the maximum revolver amount under the ABL facility. When certain conditions are met, cash and cash equivalents and borrowing base collateral in excess of the ABL facility size may be included when calculating specified availability under the ABL facility. As of March 31, 2024, specified availability under the ABL facility exceeded the required threshold and, as a result, this financial covenant was inapplicable. Under our accounts receivable securitization facility, we are required, among other things, to maintain certain financial tests relating to: (i) the default ratio, (ii) the delinquency ratio, (iii) the dilution ratio and (iv) days sales outstanding. The accounts receivable securitization facility also requires us to comply with the fixed charge coverage ratio under the ABL facility, to the extent the ratio is applicable under the ABL facility.
+Covenants in the agreements governing our ABL facility, term loan facility and certain other debt instruments impose limitations on our ability to make share repurchases and dividend payments, subject to important exceptions that would allow us to make such repurchases or payments under certain conditions. Based on our current total indebtedness leverage ratio (as
+35
+Table of Contents
+defined in the applicable debt agreements) and usage of the ABL facility as of March 31, 2024, we met the criteria under the applicable debt agreements for these exceptions, and as a result we were not restricted in our ability to make share repurchases and dividend payments.
+Sources and Uses of Cash.   During the three months ended March 31, 2024, we (i) generated cash from operating activities of $1.029 billion, (ii) generated cash from the sale of rental and non-rental equipment of $396 and (iii) received cash from debt proceeds, net of payments, of $866. We used cash during this period principally to (i) make payments for purchases of rental and non-rental equipment and intangible assets of $569, (ii) purchase other companies for $1.118 billion, (iii) purchase shares of our common stock for $415 and (iv) pay dividends of $110. During the three months ended March 31, 2023, we (i) generated cash from operating activities of $939, (ii) generated cash from the sale of rental and non-rental equipment of $400 and (iii) received cash from debt proceeds, net of payments, of $220. We used cash during this period principally to (i) make payments for purchases of rental and non-rental equipment and intangible assets of $870, (ii) purchase other companies for $299, (iii) purchase shares of our common stock for $303 and (iv) pay dividends of $103.
+Free Cash Flow GAAP Reconciliation.   We define “free cash flow” as net cash provided by operating activities less payments for purchases of, and plus proceeds from, equipment and intangible assets. The equipment and intangible asset items are included in cash flows from investing activities. Management believes that free cash flow provides useful additional information concerning cash flow available to meet future debt service obligations and working capital requirements. However, free cash flow is not a measure of financial performance or liquidity under GAAP. Accordingly, free cash flow should not be considered an alternative to net income or cash flow from operating activities as an indicator of operating performance or liquidity. The table below provides a reconciliation between net cash provided by operating activities and free cash flow.
+Three Months Ended
+March 31,
+2024     2023
+Net cash provided by operating activities    $    1,029         $    939
+Payments for purchases of rental equipment    (511)      (797)
+Payments for purchases of non-rental equipment and intangible assets    (58)      (73)
+Proceeds from sales of rental equipment    383       388
+Proceeds from sales of non-rental equipment    13       12
+Insurance proceeds from damaged equipment    13       9
+Free cash flow    $    869         $    478
+Free cash flow for the three months ended March 31, 2024 was $869, an increase of $391 as compared to $478 for the three months ended March 31, 2023. The increase in free cash flow primarily reflected lower payments for net rental capital expenditures (payments for purchases of rental equipment less the proceeds from sales of rental equipment), which decreased $281, or 69 percent, year-over-year, and increased net cash provided by operating activities.
+Relationship between Holdings and URNA.   Holdings is principally a holding company and primarily conducts its operations through its wholly owned subsidiary, URNA, and subsidiaries of URNA. Holdings licenses its tradename and other intangibles and provides certain services to URNA in connection with its operations. These services principally include: (i) senior management services; (ii) finance and tax-related services and support; (iii) information technology systems and support; (iv) acquisition-related services; (v) legal services; and (vi) human resource support. In addition, Holdings leases certain equipment and real property that are made available for use by URNA and its subsidiaries.
+Information Regarding Guarantors of URNA Indebtedness
+URNA is 100 percent owned by Holdings and has certain outstanding indebtedness that is guaranteed by both Holdings and, with the exception of its U.S. special purpose vehicle which holds receivable assets relating to the Company’s accounts receivable securitization facility (the “SPV”) and a foreign subsidiary holding company acquired in connection with the General Finance acquisition, all of URNA’s U.S. subsidiaries (the “guarantor subsidiaries”). Other than the guarantee by our Canadian subsidiary of URNA's indebtedness under the ABL facility, none of URNA’s indebtedness is guaranteed by URNA's foreign subsidiaries, the SPV, or the foreign subsidiary holding company acquired in connection with the General Finance acquisition (together, the “non-guarantor subsidiaries”). The receivable assets owned by the SPV have been sold or contributed by URNA to the SPV and are not available to satisfy the obligations of URNA or Holdings’ other subsidiaries. Holdings consolidates each of URNA and the guarantor subsidiaries in its consolidated financial statements. URNA and the guarantor subsidiaries are all 100 percent-owned and controlled by Holdings. Holdings’ guarantees of URNA’s indebtedness are full and unconditional, except that the guarantees may be automatically released and relieved upon satisfaction of the requirements for legal defeasance or covenant defeasance under the applicable indenture being met. The Holdings guarantees are also subject to subordination provisions (to the same extent that the obligations of the issuer under the relevant notes are subordinated to other debt of the
+36
+Table of Contents
+issuer) and to a standard limitation which provides that the maximum amount guaranteed by Holdings will not exceed the maximum amount that can be guaranteed without making the guarantee void under fraudulent conveyance laws.
+The guarantees of Holdings and the guarantor subsidiaries are made on a joint and several basis. The guarantees of the guarantor subsidiaries are not full and unconditional because a guarantor subsidiary can be automatically released and relieved of its obligations under certain circumstances, including sale of the guarantor subsidiary, the sale of all or substantially all of the guarantor subsidiary's assets, the requirements for legal defeasance or covenant defeasance under the applicable indenture being met, designating the guarantor subsidiary as an unrestricted subsidiary for purposes of the applicable covenants or the notes being rated investment grade by both Standard & Poor’s Ratings Services and Moody’s Investors Service, Inc., or, in certain circumstances, another rating agency selected by URNA. Like the Holdings guarantees, the guarantees of the guarantor subsidiaries are subject to subordination provisions (to the same extent that the obligations of the issuer under the relevant notes are subordinated to other debt of the issuer) and to a standard limitation which provides that the maximum amount guaranteed by each guarantor will not exceed the maximum amount that can be guaranteed without making the guarantee void under fraudulent conveyance laws.
+All of the existing guarantees by Holdings and the guarantor subsidiaries rank equally in right of payment with all of the guarantors' existing and future senior indebtedness. The secured indebtedness of Holdings and the guarantor subsidiaries (including guarantees of URNA’s existing and future secured indebtedness) will rank effectively senior to guarantees of any unsecured indebtedness to the extent of the value of the assets securing such indebtedness. Future guarantees of subordinated indebtedness will rank junior to any existing and future senior indebtedness of the guarantors. The guarantees of URNA’s indebtedness are effectively junior to any indebtedness of our subsidiaries that are not guarantors, including our foreign subsidiaries. As of March 31, 2024, the indebtedness of our non-guarantors was comprised of (i) $1.021 billion of outstanding borrowings by the SPV in connection with the Company’s accounts receivable securitization facility, (ii) $86 of outstanding borrowings under the ABL facility by non-guarantor subsidiaries and (iii) $9 of finance leases of our non-guarantor subsidiaries.
+Covenants in the agreements governing our ABL facility, term loan facility and certain other debt instruments impose limitations on our ability to make share repurchases and dividend payments, subject to important exceptions that would allow us to make such repurchases or payments under certain conditions. Based on our current total indebtedness leverage ratio (as defined in the applicable debt agreements) and usage of the ABL facility as of March 31, 2024, we met the criteria under the applicable debt agreements for these exceptions, and as a result we were not restricted in our ability to make share repurchases and dividend payments.
+Based on our understanding of Rule 3-10 of Regulation S-X ("Rule 3-10"), we believe that Holdings’ guarantees of URNA indebtedness comply with the conditions set forth in Rule 3-10, which enables us to present summarized financial information for Holdings, URNA and the consolidated guarantor subsidiaries in accordance with Rule 13-01 of Regulation S-X. The summarized financial information excludes the financial information of the non-guarantor subsidiaries. In accordance with Rule 3-10, separate financial statements of the guarantor subsidiaries have not been presented. Our presentation below excludes the investment in the non-guarantor subsidiaries and the related income from the non-guarantor subsidiaries.
+The summarized financial information of Holdings, URNA and the guarantor subsidiaries on a combined basis is as follows:
+37
+Table of Contents
+March 31, 2024
+Current receivable from non-guarantor subsidiaries    $4
+Other current assets    386
+Total current assets    390
+Long-term receivable from non-guarantor subsidiaries    100
+Other long-term assets    21,640
+Total long-term assets    21,740
+Total assets    22,130
+Current liabilities    2,147
+Long-term liabilities    14,804
+Total liabilities    16,951
+Three Months Ended March 31, 2024
+Total revenues    $3,175
+Gross profit    1,246
+Net income    495
+38
+Table of Contents
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk  (dollars in millions, unless otherwise indicated)
+Our exposure to market risk primarily consists of (i) interest rate risk associated with our variable and fixed rate debt and (ii) foreign currency exchange rate risk associated with our foreign operations.
+Interest Rate Risk.   As of March 31, 2024, we had an aggregate of $3.4 billion of indebtedness that bears interest at variable rates, comprised of borrowings under the ABL, accounts receivable securitization and term loan facilities. The amount of variable rate indebtedness outstanding under these facilities may fluctuate significantly. See note 7 to the condensed consolidated financial statements for the amounts outstanding, and the interest rates thereon, as of March 31, 2024 under these facilities. As of March 31, 2024, based upon the amount of our variable rate debt outstanding, our annual after-tax earnings would decrease by approximately $25 for each one percentage point increase in the interest rates applicable to our variable rate debt.
+At March 31, 2024, we had an aggregate of $9.0 billion of indebtedness that bears interest at fixed rates. A one percentage point decrease in market interest rates as of March 31, 2024 would increase the fair value of our fixed rate indebtedness by approximately 5 percent. For additional information concerning the fair value of our fixed rate debt, see note 6 (see “Fair Value of Financial Instruments”) to our condensed consolidated financial statements.
+Currency Exchange Risk  . We primarily operate in the U.S. and Canada, and have a limited presence in Europe, Australia and New Zealand. During the three months ended March 31, 2024, our foreign subsidiaries accounted for $310, or 9 percent, of our total revenue of $3.485 billion, and $50, or 7 percent, of our total pretax income of $695. Based on the size of our foreign operations relative to the Company as a whole, we do not believe that a 10 percent change in exchange rates would have a material impact on our earnings. We do not engage in purchasing forward exchange contracts for speculative purposes.
+39
+Table of Contents
+Item 4.  Controls and Procedures
+Disclosure Controls and Procedures
+The Company maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in the Company’s reports under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to management, including the Company’s Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+The Company’s management carried out an evaluation, under the supervision and with the participation of our Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures, as defined in Rules 13a–15(e) and 15d–15(e) of the Exchange Act, as of March 31, 2024. Based on the evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that the Company’s disclosure controls and procedures were effective as of March 31, 2024.
+Changes in Internal Control over Financial Reporting
+There were no changes in our internal control over financial reporting during the quarter ended March 31, 2024 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+40
+Table of Contents
+PART II. OTHER INFORMATION
+Item 1.  Legal Proceedings
+The information set forth under note 8 to our unaudited condensed consolidated financial statements of this quarterly report on Form 10-Q is incorporated by reference in answer to this item.
+Item 1A.  Risk Factors
+Our results of operations and financial condition are subject to numerous risks and uncertainties described in our 2023 Form 10-K, which risk factors are incorporated herein by reference. You should carefully consider the risk factors in our 2023 Form 10-K in conjunction with the other information contained in this report. Should any of these risks materialize, our business, financial condition and future prospects could be negatively impacted.
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+The following table provides information about purchases of Holdings’ common stock by Holdings during the first quarter of 2024:
+Period    Total Number of
+Shares Purchased     Average Price
+Paid Per Share     Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2)     Maximum Dollar Amount of Shares That May Yet Be Purchased Under the Program (2)
+January 1, 2024 to January 31, 2024    122,211      (1)    $    563.68       98,889
+February 1, 2024 to February 29, 2024    92,211      (1)    $    651.92       91,553
+March 1, 2024 to March 31, 2024    411,453      (1)    $    695.41       373,885
+Total    625,875         $    663.28         564,327         $    1,374,999,648
+(1)  In January 2024, February 2024 and March 2024, 23,322, 658 and 37,568 shares, respectively, were withheld by Holdings to satisfy tax withholding obligations upon the vesting of restricted stock unit awards. These shares were not acquired pursuant to any repurchase plan or program.
+(2)  On October 24, 2022, our Board of Directors authorized a $1.25 billion share repurchase program, which was completed in the first quarter of 2024. On January 24, 2024, our Board of Directors authorized a $1.5 billion share repurchase program, and repurchases under this program began in March 2024, following the completion of the $1.25 billion program. We intend to repurchase a total of $1.25 billion under the $1.5 billion program in 2024, and then complete the program by the end of the first quarter of 2025. The shares purchased in the table above reflect shares purchased under both the $1.25 billion and $1.5 billion programs, while the remaining authorization above only reflects the open $1.5 billion program. A 1 percent excise tax is imposed on “net repurchases” (certain purchases minus certain issuances) of common stock. The repurchases above (as well as the total program sizes and expected 2024 repurchases) do not include the excise tax, which totaled $3 million year-to-date through March 31, 2024.
+Item 5.        Other Information
+Certain     of our officers or directors have made, and may from time to time make, elections to have shares withheld or sold back to Holdings to cover withholding taxes, which may constitute non-Rule 10b5-1 trading arrangements (as defined in Item 408(c) of Regulation S-K).
+41
+Table of Contents
+Item 6.  Exhibits
+2(a)
+Asset Purchase Agreement, dated as of November 11, 2022, by and among United Rentals (North America), Inc., Ahern Rentals, Inc., and Xtreme Re-Rental, LLC (incorporated by reference to Exhibit 2.1 of the United Rentals, Inc. and United Rentals (North America), Inc. Current Report on Form 8-K filed on November 14, 2022)
+2(b)
+Agreement and Plan of Merger, dated April 15, 2021, by and among General Finance Corporation, United Rentals (North America), Inc., and UR Merger Sub VI Corporation (incorporated herein by reference to Exhibit 2.1 to the Current Report on Form 8-K filed by United Rentals, Inc. on April 15, 2021)
+3(a)
+Sixth Restated Certificate of Incorporation of United Rentals, Inc., dated May 4, 2023 (incorporated by reference to Exhibit 3.2 of the United Rentals, Inc. and United Rentals (North America), Inc. Current Report on Form 8-K filed on May 4, 2023)
+3(b)
+Third Amended and Restated By-Laws of United Rentals, Inc., amended as of December 19, 2022 (incorporated by reference to Exhibit 3.1 of the United Rentals, Inc. Current Report on Form 8-K filed on December 20, 2022)
+3(c)
+Restated Certificate of Incorporation of United Rentals (North America), Inc., dated April 30, 2012 (incorporated by reference to Exhibit 3(c) of the   United Rentals, Inc. and United Rentals (North America), Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2013  )
+3(d)
+By-laws of United Rentals (North America), Inc. dated May 8, 2013 (incorporated by reference to Exhibit 3(d) of the United Rentals, Inc. and United Rentals (North America), Inc. Quarterly Report on Form 10-Q for the quarter ended June 30, 2013)
+4(a)
+Indenture for the 6     1    /    8     percent Senior Notes due 2034, dated as of March 11, 2024, among United Rentals (North America), Inc., United Rentals, Inc., each of United Rentals (North America), Inc.’s subsidiaries named therein and Truist Bank, as trustee (including the form of note  ) (incorporated by reference to Exhibit 4.1 of the United Rentals, Inc. and United Rentals (North America). Inc. Current Report on Form 8-K filed on March 11, 2024)
+10(a)
+Amendment and Restatement Agreement, dated as of February 14, 2024, among United Rentals, Inc., United Rentals (North America), Inc. and certain other subsidiaries of United Rentals, Inc. and United Rentals (North America), Inc.,   Bank of America N.A., and the other financial institutions named therein (incorporated by reference to Exhibit 10.1 of the United Rentals, Inc. and United Rentals (North America). Inc. Current Report on Form 8-K filed on February 14, 2024)
+22
+Subsidiary Guarantors (incorporated by reference to Exhibit 22 of the United Rentals, Inc. and United Rentals (North America), Inc. Report on Form 10-K for the fiscal year ended December 31, 2023)
+31(a)*
+Rule 13a-14(a) Certification by Chief Executive Officer
+31(b)*
+Rule 13a-14(a) Certification by Chief Financial Officer
+32(a)**
+Section 1350 Certification by Chief Executive Officer
+32(b)**
+Section 1350 Certification by Chief Financial Officer
+101.INS    XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+101.SCH    XBRL Taxonomy Extension Schema Document
+101.CAL    XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF    XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB    XBRL Taxonomy Extension Label Linkbase Document
+101.PRE    XBRL Taxonomy Extension Presentation Linkbase Document
+104    Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+*    Filed herewith.
+**    Furnished (and not filed) herewith pursuant to Item 601(b)(32)(ii) of Regulation S-K under the Exchange Act.
+42
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, each registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+UNITED RENTALS, INC.
+Dated:    April 24, 2024    By:
+/  S  /        A  NDREW   B. L  IMOGES
+Andrew B. Limoges
+Vice President, Controller and Principal Accounting Officer
+UNITED RENTALS (NORTH AMERICA), INC.
+Dated:    April 24, 2024    By:
+/  S  /        A  NDREW   B. L  IMOGES
+Andrew B. Limoges
+Vice President, Controller and Principal Accounting Officer
+43

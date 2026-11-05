@@ -1,0 +1,919 @@
+chtr-20260630
+0001091667  --12-31  2026  Q2  FALSE  119,277,492  126,631,549  http://fasb.org/us-gaap/2026#AccountsPayableAndAccruedLiabilitiesCurrent  http://fasb.org/us-gaap/2026#AccountsPayableAndAccruedLiabilitiesCurrent  http://fasb.org/us-gaap/2026#AccountsPayableAndAccruedLiabilitiesCurrent  http://fasb.org/us-gaap/2026#AccountsPayableAndAccruedLiabilitiesCurrent  http://fasb.org/us-gaap/2026#OtherLiabilitiesNoncurrent  http://fasb.org/us-gaap/2026#OtherLiabilitiesNoncurrent  http://fasb.org/us-gaap/2026#OtherOperatingIncomeExpenseNet        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      xbrli:pure    iso4217:GBP     0001091667    2026-01-01  2026-06-30      0001091667   us-gaap:CommonClassAMember     2026-06-30      0001091667   us-gaap:CommonClassBMember     2026-06-30      0001091667    2026-06-30      0001091667    2025-12-31      0001091667   us-gaap:CommonClassAMember     2025-12-31      0001091667   us-gaap:CommonClassBMember     2025-12-31      0001091667    2026-04-01  2026-06-30      0001091667    2025-04-01  2025-06-30      0001091667    2025-01-01  2025-06-30      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassAMember     2025-12-31      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassBMember     2025-12-31      0001091667   us-gaap:AdditionalPaidInCapitalMember     2025-12-31      0001091667   us-gaap:RetainedEarningsMember     2025-12-31      0001091667   us-gaap:TreasuryStockCommonMember     2025-12-31      0001091667   us-gaap:ParentMember     2025-12-31      0001091667   us-gaap:NoncontrollingInterestMember     2025-12-31      0001091667   us-gaap:RetainedEarningsMember     2026-01-01  2026-03-31      0001091667   us-gaap:ParentMember     2026-01-01  2026-03-31      0001091667   us-gaap:NoncontrollingInterestMember     2026-01-01  2026-03-31      0001091667    2026-01-01  2026-03-31      0001091667   us-gaap:AdditionalPaidInCapitalMember     2026-01-01  2026-03-31      0001091667   us-gaap:TreasuryStockCommonMember     2026-01-01  2026-03-31      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassAMember     2026-03-31      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassBMember     2026-03-31      0001091667   us-gaap:AdditionalPaidInCapitalMember     2026-03-31      0001091667   us-gaap:RetainedEarningsMember     2026-03-31      0001091667   us-gaap:TreasuryStockCommonMember     2026-03-31      0001091667   us-gaap:ParentMember     2026-03-31      0001091667   us-gaap:NoncontrollingInterestMember     2026-03-31      0001091667    2026-03-31      0001091667   us-gaap:RetainedEarningsMember     2026-04-01  2026-06-30      0001091667   us-gaap:ParentMember     2026-04-01  2026-06-30      0001091667   us-gaap:NoncontrollingInterestMember     2026-04-01  2026-06-30      0001091667   us-gaap:AdditionalPaidInCapitalMember     2026-04-01  2026-06-30      0001091667   us-gaap:TreasuryStockCommonMember     2026-04-01  2026-06-30      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassAMember     2026-06-30      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassBMember     2026-06-30      0001091667   us-gaap:AdditionalPaidInCapitalMember     2026-06-30      0001091667   us-gaap:RetainedEarningsMember     2026-06-30      0001091667   us-gaap:TreasuryStockCommonMember     2026-06-30      0001091667   us-gaap:ParentMember     2026-06-30      0001091667   us-gaap:NoncontrollingInterestMember     2026-06-30      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassAMember     2024-12-31      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassBMember     2024-12-31      0001091667   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0001091667   us-gaap:RetainedEarningsMember     2024-12-31      0001091667   us-gaap:TreasuryStockCommonMember     2024-12-31      0001091667   us-gaap:ParentMember     2024-12-31      0001091667   us-gaap:NoncontrollingInterestMember     2024-12-31      0001091667    2024-12-31      0001091667   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-31      0001091667   us-gaap:ParentMember     2025-01-01  2025-03-31      0001091667   us-gaap:NoncontrollingInterestMember     2025-01-01  2025-03-31      0001091667    2025-01-01  2025-03-31      0001091667   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-03-31      0001091667   us-gaap:TreasuryStockCommonMember     2025-01-01  2025-03-31      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassAMember     2025-03-31      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassBMember     2025-03-31      0001091667   us-gaap:AdditionalPaidInCapitalMember     2025-03-31      0001091667   us-gaap:RetainedEarningsMember     2025-03-31      0001091667   us-gaap:TreasuryStockCommonMember     2025-03-31      0001091667   us-gaap:ParentMember     2025-03-31      0001091667   us-gaap:NoncontrollingInterestMember     2025-03-31      0001091667    2025-03-31      0001091667   us-gaap:RetainedEarningsMember     2025-04-01  2025-06-30      0001091667   us-gaap:ParentMember     2025-04-01  2025-06-30      0001091667   us-gaap:NoncontrollingInterestMember     2025-04-01  2025-06-30      0001091667   us-gaap:AdditionalPaidInCapitalMember     2025-04-01  2025-06-30      0001091667   us-gaap:TreasuryStockCommonMember     2025-04-01  2025-06-30      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassAMember     2025-06-30      0001091667   us-gaap:CommonStockMember  us-gaap:CommonClassBMember     2025-06-30      0001091667   us-gaap:AdditionalPaidInCapitalMember     2025-06-30      0001091667   us-gaap:RetainedEarningsMember     2025-06-30      0001091667   us-gaap:TreasuryStockCommonMember     2025-06-30      0001091667   us-gaap:ParentMember     2025-06-30      0001091667   us-gaap:NoncontrollingInterestMember     2025-06-30      0001091667    2025-06-30      0001091667   chtr:CoxEquitySaleMember     2026-06-30      0001091667   chtr:Cox1.00Member     2026-01-01  2026-06-30      0001091667   chtr:CoxEquitySaleMember     2026-01-01  2026-06-30      0001091667   chtr:CoxContributionMember     2026-01-01  2026-06-30      0001091667   chtr:ConvertiblePreferredUnitsMember  chtr:CoxContributionMember     2026-06-30      0001091667   chtr:ConvertiblePreferredUnitsMember  chtr:CoxContributionMember     2026-01-01  2026-06-30      0001091667   us-gaap:MemberUnitsMember  chtr:CoxContributionMember     2026-01-01  2026-06-30      0001091667   us-gaap:CommonClassCMember  chtr:Cox1.00Member     2026-01-01  2026-06-30      0001091667   chtr:MobileHandsetsMember     2026-06-30      0001091667   chtr:MobileHandsetsMember     2025-12-31      0001091667   chtr:SeniorUnsecuredNotesMember     2026-06-30      0001091667   chtr:SeniorUnsecuredNotesMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0001091667   chtr:SeniorUnsecuredNotesMember     2025-12-31      0001091667   chtr:SeniorUnsecuredNotesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0001091667   chtr:SeniorSecuredNotesAndDebenturesMember     2026-06-30      0001091667   chtr:SeniorSecuredNotesAndDebenturesMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0001091667   chtr:SeniorSecuredNotesAndDebenturesMember     2025-12-31      0001091667   chtr:SeniorSecuredNotesAndDebenturesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0001091667   chtr:CreditFacilitiesMember     2026-06-30      0001091667   chtr:CreditFacilitiesMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0001091667   chtr:CreditFacilitiesMember     2025-12-31      0001091667   chtr:CreditFacilitiesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0001091667   chtr:TimeWarnerCableLLCMember  chtr:A5.750SterlingSeniorNotesDueJune22031Member     2026-06-30      0001091667   chtr:TimeWarnerCableLLCMember  chtr:A5.750SterlingSeniorNotesDueJune22031Member     2025-12-31      0001091667   chtr:TimeWarnerCableLLCMember  chtr:A5.250SterlingSeniorNotesDueJuly152042Member     2026-06-30      0001091667   chtr:TimeWarnerCableLLCMember  chtr:A5.250SterlingSeniorNotesDueJuly152042Member     2025-12-31      0001091667   chtr:CharterOperatingMember     2026-06-30      0001091667   chtr:CcoHoldingsMember  chtr:A5.500SeniorSecuredNotesDueMay12026Member     2026-06-30      0001091667   chtr:CcoHoldingsMember  chtr:A5.125SeniorSecuredNotesDueMay12027Member     2026-06-30      0001091667   chtr:CcoHoldingsMember     2026-01-01  2026-06-30      0001091667   chtr:OpenMarketRepurchaseProgramMember     2026-06-30      0001091667   chtr:OpenMarketRepurchaseProgramMember     2026-04-01  2026-06-30      0001091667   chtr:OpenMarketRepurchaseProgramMember     2026-01-01  2026-06-30      0001091667   chtr:EIPFinancingFacilityMember     2026-06-30      0001091667   chtr:EIPFinancingFacilityMember     2025-12-31      0001091667   chtr:TreasuryStockAcquiredSharesRepurchasedMember     2026-04-01  2026-06-30      0001091667   chtr:TreasuryStockAcquiredSharesRepurchasedMember     2025-04-01  2025-06-30      0001091667   chtr:TreasuryStockAcquiredSharesRepurchasedMember     2026-01-01  2026-06-30      0001091667   chtr:TreasuryStockAcquiredSharesRepurchasedMember     2025-01-01  2025-06-30      0001091667   chtr:TreasuryStockAcquiredSharesWithheldRestrictedStockAndRestrictedStockUnitVestingMember     2026-04-01  2026-06-30      0001091667   chtr:TreasuryStockAcquiredSharesWithheldRestrictedStockAndRestrictedStockUnitVestingMember     2025-04-01  2025-06-30      0001091667   chtr:TreasuryStockAcquiredSharesWithheldRestrictedStockAndRestrictedStockUnitVestingMember     2026-01-01  2026-06-30      0001091667   chtr:TreasuryStockAcquiredSharesWithheldRestrictedStockAndRestrictedStockUnitVestingMember     2025-01-01  2025-06-30      0001091667   chtr:TreasuryStockAcquiredSharesWithheldStockOptionExerciseCostsMember     2026-04-01  2026-06-30      0001091667   chtr:TreasuryStockAcquiredSharesWithheldStockOptionExerciseCostsMember     2025-04-01  2025-06-30      0001091667   chtr:TreasuryStockAcquiredSharesWithheldStockOptionExerciseCostsMember     2026-01-01  2026-06-30      0001091667   chtr:TreasuryStockAcquiredSharesWithheldStockOptionExerciseCostsMember     2025-01-01  2025-06-30      0001091667   chtr:TreasuryStockAcquiredSharesRepurchasedMember  chtr:LibertyBroadbandMember     2026-04-01  2026-06-30      0001091667   chtr:TreasuryStockAcquiredSharesRepurchasedMember  chtr:LibertyBroadbandMember     2025-04-01  2025-06-30      0001091667   chtr:TreasuryStockAcquiredSharesRepurchasedMember  chtr:LibertyBroadbandMember     2026-01-01  2026-06-30      0001091667   chtr:TreasuryStockAcquiredSharesRepurchasedMember  chtr:LibertyBroadbandMember     2025-01-01  2025-06-30      0001091667   chtr:CharterMember  srt:MaximumMember     2026-06-30      0001091667   chtr:ANMember     2025-06-30      0001091667   chtr:ANMember     2026-06-30      0001091667   chtr:CommonNoncontrollingInterestMember     2026-04-01  2026-06-30      0001091667   chtr:CommonNoncontrollingInterestMember     2026-01-01  2026-06-30      0001091667   chtr:CommonNoncontrollingInterestMember     2025-04-01  2025-06-30      0001091667   chtr:CommonNoncontrollingInterestMember     2025-01-01  2025-06-30      0001091667   us-gaap:NoncontrollingInterestMember     2025-01-01  2025-06-30      0001091667   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-06-30      0001091667   us-gaap:NoncontrollingInterestMember     2026-01-01  2026-06-30      0001091667   us-gaap:AdditionalPaidInCapitalMember     2026-01-01  2026-06-30      0001091667   us-gaap:CurrencySwapMember     2026-06-30      0001091667   us-gaap:CurrencySwapMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0001091667   us-gaap:CurrencySwapMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0001091667   chtr:ResidentialInternetProductLineMember     2026-04-01  2026-06-30      0001091667   chtr:ResidentialInternetProductLineMember     2025-04-01  2025-06-30      0001091667   chtr:ResidentialInternetProductLineMember     2026-01-01  2026-06-30      0001091667   chtr:ResidentialInternetProductLineMember     2025-01-01  2025-06-30      0001091667   chtr:MobileServiceMember     2026-04-01  2026-06-30      0001091667   chtr:MobileServiceMember     2025-04-01  2025-06-30      0001091667   chtr:MobileServiceMember     2026-01-01  2026-06-30      0001091667   chtr:MobileServiceMember     2025-01-01  2025-06-30      0001091667   chtr:ConnectivityMember     2026-04-01  2026-06-30      0001091667   chtr:ConnectivityMember     2025-04-01  2025-06-30      0001091667   chtr:ConnectivityMember     2026-01-01  2026-06-30      0001091667   chtr:ConnectivityMember     2025-01-01  2025-06-30      0001091667   chtr:ResidentialVideoProductLineMember     2026-04-01  2026-06-30      0001091667   chtr:ResidentialVideoProductLineMember     2025-04-01  2025-06-30      0001091667   chtr:ResidentialVideoProductLineMember     2026-01-01  2026-06-30      0001091667   chtr:ResidentialVideoProductLineMember     2025-01-01  2025-06-30      0001091667   chtr:ResidentialVoiceProductLineMember     2026-04-01  2026-06-30      0001091667   chtr:ResidentialVoiceProductLineMember     2025-04-01  2025-06-30      0001091667   chtr:ResidentialVoiceProductLineMember     2026-01-01  2026-06-30      0001091667   chtr:ResidentialVoiceProductLineMember     2025-01-01  2025-06-30      0001091667   chtr:ResidentialProductLineMember     2026-04-01  2026-06-30      0001091667   chtr:ResidentialProductLineMember     2025-04-01  2025-06-30      0001091667   chtr:ResidentialProductLineMember     2026-01-01  2026-06-30      0001091667   chtr:ResidentialProductLineMember     2025-01-01  2025-06-30      0001091667   chtr:CommercialSmallandMediumBusinessProductLineMember     2026-04-01  2026-06-30      0001091667   chtr:CommercialSmallandMediumBusinessProductLineMember     2025-04-01  2025-06-30      0001091667   chtr:CommercialSmallandMediumBusinessProductLineMember     2026-01-01  2026-06-30      0001091667   chtr:CommercialSmallandMediumBusinessProductLineMember     2025-01-01  2025-06-30      0001091667   chtr:CommercialEnterpriseProductLineMember     2026-04-01  2026-06-30      0001091667   chtr:CommercialEnterpriseProductLineMember     2025-04-01  2025-06-30      0001091667   chtr:CommercialEnterpriseProductLineMember     2026-01-01  2026-06-30      0001091667   chtr:CommercialEnterpriseProductLineMember     2025-01-01  2025-06-30      0001091667   chtr:CommercialProductLineMember     2026-04-01  2026-06-30      0001091667   chtr:CommercialProductLineMember     2025-04-01  2025-06-30      0001091667   chtr:CommercialProductLineMember     2026-01-01  2026-06-30      0001091667   chtr:CommercialProductLineMember     2025-01-01  2025-06-30      0001091667   chtr:AdvertisingsalesMember     2026-04-01  2026-06-30      0001091667   chtr:AdvertisingsalesMember     2025-04-01  2025-06-30      0001091667   chtr:AdvertisingsalesMember     2026-01-01  2026-06-30      0001091667   chtr:AdvertisingsalesMember     2025-01-01  2025-06-30      0001091667   chtr:OtherServicesMember     2026-04-01  2026-06-30      0001091667   chtr:OtherServicesMember     2025-04-01  2025-06-30      0001091667   chtr:OtherServicesMember     2026-01-01  2026-06-30      0001091667   chtr:OtherServicesMember     2025-01-01  2025-06-30      0001091667   chtr:EquipmentInstallmentPlanReceivableMember     2026-06-30      0001091667   chtr:EquipmentInstallmentPlanReceivableMember     2025-12-31      0001091667   us-gaap:EmployeeStockOptionMember     2026-04-01  2026-06-30      0001091667   us-gaap:EmployeeStockOptionMember     2025-04-01  2025-06-30      0001091667   us-gaap:EmployeeStockOptionMember     2026-01-01  2026-06-30      0001091667   us-gaap:EmployeeStockOptionMember     2025-01-01  2025-06-30      0001091667   us-gaap:RestrictedStockMember     2026-04-01  2026-06-30      0001091667   us-gaap:RestrictedStockMember     2025-04-01  2025-06-30      0001091667   us-gaap:RestrictedStockMember     2026-01-01  2026-06-30      0001091667   us-gaap:RestrictedStockMember     2025-01-01  2025-06-30      0001091667   us-gaap:RestrictedStockUnitsRSUMember     2026-04-01  2026-06-30      0001091667   us-gaap:RestrictedStockUnitsRSUMember     2025-04-01  2025-06-30      0001091667   us-gaap:RestrictedStockUnitsRSUMember     2026-01-01  2026-06-30      0001091667   us-gaap:RestrictedStockUnitsRSUMember     2025-01-01  2025-06-30      0001091667   us-gaap:EmployeeStockOptionMember     2026-06-30      0001091667   us-gaap:RestrictedStockUnitsRSUMember     2026-06-30      0001091667   us-gaap:RestrictedStockMember     2026-06-30      0001091667   us-gaap:RelatedPartyMember     2026-06-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+______________
+FORM  10-Q
+______________
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  June 30, 2026
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the Transition Period From             to
+Commission File Number:  001-33664
+Charter Communications, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+84-1496755
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+400 Washington Blvd.
+Stamford
+Connecticut
+06902
+(Address of Principal Executive Offices)
+(Zip Code)
+( 203 )  905-7801
+(Registrant's telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol(s)    Name of each exchange on which registered
+Class A Common Stock $.001 Par Value      CHTR      NASDAQ Global Select Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes    x   No   o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).  Yes    x   No   o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definition of “large accelerated filer,” “accelerated filer,” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer    x      Accelerated filer   o      Non-accelerated filer   o        Smaller reporting company    ☐          Emerging growth company    ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes    ☐       No   x
+Number of shares of Class A common stock outstanding as of June 30, 2026:  119,277,492
+Number of shares of Class B common stock outstanding as of June 30, 2026:  1
+CHARTER COMMUNICATIONS, INC.
+QUARTERLY REPORT ON FORM 10-Q FOR THE PERIOD ENDED JUNE 30, 2026
+TABLE OF CONTENTS
+Page No.
+PART I
+FINANCIAL INFORMATION
+Item 1
+Financial Statements ‑ Charter Communications, Inc. and Subsidiaries
+Consolidated Balance Sheets as of June 30, 2026 and December 31, 2025
+1
+Consolidated Statements of Operations
+for the three and six months ended June 30, 2026 and 2025
+2
+Consolidated Statements of Changes in Shareholders' Equity
+for the three and six months ended June 30, 2026 and 2025
+3
+Consolidated Statements of Cash Flows
+for the six months ended June 30, 2026 and 2025
+4
+Notes to Consolidated Financial Statements
+5
+Item 2
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+14
+Item 3
+Quantitative and Qualitative Disclosure About Market Risk
+28
+Item 4
+Controls and Procedures
+28
+PART II
+OTHER INFORMATION
+Item 1
+Legal Proceedings
+29
+Item 1A
+Risk Factors
+29
+Item 2
+Unregistered Sales of Equity Securities and Use of Proceeds
+29
+Item 6
+Exhibits
+29
+Signatures
+S-  1
+Exhibit Index
+E-  1
+This quarterly report on Form 10-Q is for the three and six months ended June 30, 2026.  The United States Securities and Exchange Commission (“SEC”) allows us to “incorporate by reference” information that we file with the SEC, which means that we can disclose important information to you by referring you directly to those documents.  In this quarterly report, “Charter,” “we,” “us” and “our” refer to Charter Communications, Inc. and its subsidiaries.
+i
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS
+This quarterly report includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, regarding, among other things, our plans, strategies and prospects, both business and financial including, without limitation, the forward-looking statements set forth in Part I, Item 2. “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this quarterly report.  Although we believe that our plans, intentions and expectations as reflected in or suggested by these forward-looking statements are reasonable, we cannot assure you that we will achieve or realize these plans, intentions or expectations.  Forward-looking statements are inherently subject to risks, uncertainties and assumptions including, without limitation, the factors described under “Risk Factors” in Part I, Item 1A of our most recent Form 10-K filed with the SEC.  Many of the forward-looking statements contained in this quarterly report may be identified by the use of forward-looking words such as “believe,” “future,” “expect,” “anticipate,” “should,” “planned,” “will,” “may,” “intend,” “estimated,” “aim,” “on track,” “target,” “opportunity,” “tentative,” “positioning,” “designed,” “create,” “predict,” “project,” “initiatives,” “seek,” “would,” “could,” “continue,” “ongoing,” “upside,” “increases,” “grow,” “focused on” and “potential,” among others.  Important factors that could cause actual results to differ materially from the forward-looking statements we make in this quarterly report are set forth in this quarterly report on Form 10-Q, in our annual report on Form 10-K, and in other reports or documents that we file from time to time with the SEC, and include, but are not limited to:
+•  our ability to sustain and grow revenues and cash flow from operations by offering Internet, mobile, video, voice, advertising and other services to residential and commercial customers, to adequately meet the customer experience demands in our service areas and to maintain and grow our customer base, particularly in the face of increasingly aggressive competition, the need for innovation and the related capital expenditures;
+•  the impact of competition from other market participants, including but not limited to incumbent telephone companies, direct broadcast satellite ("DBS") operators, wireless and satellite broadband and telephone providers, digital subscriber line (“DSL”) providers, fiber to the home providers and providers of video content over broadband Internet connections;
+•  general business conditions, unemployment levels and the level of activity in the housing sector and economic uncertainty or downturn;
+•  our ability to develop and deploy new products and technologies including consumer services and service platforms;
+•  any events that disrupt our networks, information systems or properties and impair our operating activities or our reputation;
+•  the effects of governmental regulation on our business including subsidies to consumers, subsidies and incentives for competitors, costs, disruptions and possible limitations on operating flexibility related to, and our ability to comply with, regulatory conditions applicable to us;
+•  our ability to procure necessary services and equipment from our vendors in a timely manner and at reasonable costs including in connection with our network evolution and rural construction initiatives;
+•  our ability to obtain programming at reasonable prices or to raise prices to offset, in whole or in part, the effects of higher programming costs (including retransmission consents and distribution requirements);
+•  the ability to hire and retain key personnel;
+•  the availability and access, in general, of funds to meet our debt obligations prior to or when they become due and to fund our operations and necessary capital expenditures, either through (i) cash on hand, (ii) free cash flow, or (iii) access to the capital or credit markets;
+•  our ability to comply with all covenants in our indentures and credit facilities, any violation of which, if not cured in a timely manner, could trigger a default of our other obligations under cross-default provisions;
+•  our ability to satisfy the conditions to consummate the Liberty Broadband Combination and/or the Cox Transactions and/or to consummate the Liberty Broadband Combination and/or the Cox Transactions in a timely manner or at all;
+•  the risks related to us being restricted in the operation of our business while the Liberty Broadband Merger Agreement and the Cox Communications Transaction Agreement are in effect;
+•  other risks related to the Liberty Broadband Combination as described in the definitive joint proxy statement/prospectus with respect to the Liberty Broadband Combination, filed by Charter on January 22, 2025, including the sections entitled “Risk Factors” and “Where You Can Find More Information” included therein; and
+•  other risks related to the Cox Transactions as described in the definitive proxy statement with respect to the Cox Transactions, filed by Charter on July 2, 2025, including the sections entitled “Risk Factors” and “Where You Can Find More Information” included therein.
+All forward-looking statements attributable to us or any person acting on our behalf are expressly qualified in their entirety by this cautionary statement.  We are under no duty or obligation to update any of the forward-looking statements after the date of this quarterly report.
+ii
+PART I. FINANCIAL INFORMATION
+Item 1.    Financial Statements.
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(dollars in millions, except share data)
+June 30,
+2026     December 31,
+2025
+(unaudited)
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents    $     509        $     477
+Accounts receivable, less allowance for doubtful accounts of $ 238  and $ 219 , respectively
+3,651         3,680
+Prepaid expenses and other current assets     813         987
+Total current assets     4,973         5,144
+INVESTMENT IN CABLE PROPERTIES:
+Property, plant and equipment, net of accumulated depreciation of $ 41,990  and $ 41,514 , respectively
+47,955         46,444
+Customer relationships, net of accumulated amortization of $ 18,078  and $ 17,875 , respectively
+238         440
+Franchises     67,471         67,471
+Goodwill     29,710         29,710
+Total investment in cable properties, net     145,374         144,065
+OTHER NONCURRENT ASSETS     5,271         5,004
+Total assets    $     155,618        $     154,213
+LIABILITIES AND SHAREHOLDERS’ EQUITY
+CURRENT LIABILITIES:
+Accounts payable, accrued and other current liabilities    $     12,779        $     12,556
+Current portion of long-term debt     999         750
+Total current liabilities     13,778         13,306
+LONG-TERM DEBT     92,960         94,006
+EQUIPMENT INSTALLMENT PLAN FINANCING FACILITY     1,596         1,447
+DEFERRED INCOME TAXES     20,237         19,841
+OTHER LONG-TERM LIABILITIES     5,146         5,094
+SHAREHOLDERS’ EQUITY:
+Class A common stock; $  0.001   par value;   900   million shares authorized;
+129,602,238  and  126,631,549  shares issued, respectively
+—         —
+Class B common stock; $  0.001   par value;   1,000   shares authorized;
+1     share issued and outstanding
+—         —
+Preferred stock; $  0.001   par value;   250   million shares authorized;
+no     shares issued and outstanding
+—         —
+Additional paid-in capital     21,765         21,447
+Accumulated deficit    ( 2,938 )      ( 5,393 )
+Treasury stock at cost;  10,324,746  and  no  shares, respectively
+( 1,875 )       —
+Total Charter shareholders’ equity      16,952         16,054
+Noncontrolling interests     4,949         4,465
+Total shareholders’ equity     21,901         20,519
+Total liabilities and shareholders’ equity    $     155,618        $     154,213
+The accompanying notes are an integral part of these consolidated financial statements.
+1
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(dollars in millions, except per share data)
+Unaudited
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+REVENUES    $     13,526        $     13,766        $     27,123        $     27,501
+COSTS AND EXPENSES:
+Operating costs and expenses (exclusive of items shown separately below)
+8,215         8,230         16,378         16,424
+Depreciation and amortization     2,197         2,176         4,408         4,357
+Other operating expenses, net     51         81         66         204
+10,463         10,487         20,852         20,985
+Income from operations     3,063         3,279         6,271         6,516
+OTHER INCOME (EXPENSES):
+Interest expense, net
+( 1,276 )      ( 1,263 )      ( 2,532 )      ( 2,504 )
+Other income (expenses), net     212        ( 107 )       88        ( 249 )
+( 1,064 )      ( 1,370 )      ( 2,444 )      ( 2,753 )
+Income before income taxes     1,999         1,909         3,827         3,763
+Income tax expense
+( 475 )      ( 414 )      ( 940 )      ( 859 )
+Consolidated net income     1,524         1,495         2,887         2,904
+Less: Net income attributable to noncontrolling interests    ( 232 )      ( 194 )      ( 432 )      ( 386 )
+Net income attributable to Charter shareholders    $     1,292        $     1,301        $     2,455        $     2,518
+EARNINGS PER COMMON SHARE
+ATTRIBUTABLE TO CHARTER SHAREHOLDERS:
+Basic    $     10.76        $     9.41        $     20.00        $     18.00
+Diluted    $     10.66        $     9.18        $     19.81        $     17.59
+Weighted average common shares outstanding, basic
+120,121,017         138,205,810         122,789,924         139,889,251
+Weighted average common shares outstanding, diluted
+121,255,667         141,684,415         123,969,262         143,098,493
+The accompanying notes are an integral part of these consolidated financial statements.
+2
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CHANGES IN SHAREHOLDERS’ EQUITY
+(dollars in millions)
+Unaudited
+Class A Common Stock    Class B Common Stock    Additional Paid-in Capital    Accumulated Deficit    Treasury Stock    Total Charter Shareholders’ Equity    Non-controlling Interests    Total Shareholders’ Equity
+BALANCE, December 31, 2025    $     —       $     —       $     21,447       $    ( 5,393 )     $     —       $     16,054       $     4,465       $     20,519
+Consolidated net income    —      —      —       1,163       —       1,163        200        1,363
+Stock compensation expense    —      —       203       —      —       203       —       203
+Exercise of stock options    —      —       2       —      —       2       —       2
+Purchases of treasury stock, including excise tax    —      —      —      —      ( 1,020 )     ( 1,020 )     —      ( 1,020 )
+Change in noncontrolling interest ownership, net of tax    —      —      ( 17 )     —      —      ( 17 )      22        5
+Distributions to noncontrolling interest    —      —      —      —      —      —      ( 2 )     ( 2 )
+BALANCE, March 31, 2026     —        —        21,635       ( 4,230 )     ( 1,020 )      16,385        4,685        21,070
+Consolidated net income    —      —      —       1,292       —       1,292        232        1,524
+Stock compensation expense    —      —       138       —      —       138       —       138
+Equity issued pursuant to employee stock purchase plan    —      —       20       —      —       20       —       20
+Exercise of stock options    —      —       11       —      —       11       —       11
+Purchases of treasury stock, including excise tax    —      —      —      —      ( 855 )     ( 855 )     —      ( 855 )
+Change in noncontrolling interest ownership, net of tax    —      —      ( 39 )     —      —      ( 39 )      52        13
+Distributions to noncontrolling interest    —      —      —      —      —      —      ( 20 )     ( 20 )
+BALANCE, June 30, 2026    $     —       $     —       $     21,765       $    ( 2,938 )     $    ( 1,875 )     $     16,952       $     4,949       $     21,901
+Class A Common Stock    Class B Common Stock    Additional Paid-in Capital    Accumulated Deficit    Treasury Stock    Total Charter Shareholders’ Equity    Non-controlling Interests    Total Shareholders’ Equity
+BALANCE, December 31, 2024    $     —       $     —       $     23,337       $    ( 7,750 )     $     —       $     15,587       $     4,120       $     19,707
+Consolidated net income    —      —      —       1,217       —       1,217        192        1,409
+Stock compensation expense    —      —       222       —      —       222       —       222
+Exercise of stock options    —      —       17       —      —       17       —       17
+Purchases of treasury stock, including excise tax    —      —      —      —      ( 806 )     ( 806 )     —      ( 806 )
+Purchase of noncontrolling interest, net of tax    —      —      ( 5 )     —      —      ( 5 )     ( 14 )     ( 19 )
+Change in noncontrolling interest ownership, net of tax    —      —       15       —      —       15       ( 20 )     ( 5 )
+Distributions to noncontrolling interest    —      —      —      —      —      —      ( 3 )     ( 3 )
+BALANCE, March 31, 2025     —        —        23,586       ( 6,533 )     ( 806 )      16,247        4,275        20,522
+Consolidated net income    —      —      —       1,301       —       1,301        194        1,495
+Stock compensation expense    —      —       157       —      —       157       —       157
+Exercise of stock options    —      —       2       —      —       2       —       2
+Purchases of treasury stock, including excise tax    —      —      —      —      ( 1,467 )     ( 1,467 )     —      ( 1,467 )
+Purchase of noncontrolling interest, net of tax    —      —      ( 45 )     —      —      ( 45 )     ( 171 )     ( 216 )
+Change in noncontrolling interest ownership, net of tax    —      —       14       —      —       14       ( 18 )     ( 4 )
+Distributions to noncontrolling interest    —      —      —      —      —      —      ( 121 )     ( 121 )
+BALANCE, June 30, 2025    $     —       $     —       $     23,714       $    ( 5,232 )     $    ( 2,273 )     $     16,209       $     4,159       $     20,368
+The accompanying notes are an integral part of these consolidated financial statements.
+3
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(dollars in millions)
+Unaudited
+Six Months Ended June 30,
+2026     2025
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Consolidated net income     $     2,887        $     2,904
+Adjustments to reconcile consolidated net income to net cash flows from operating activities:
+Depreciation and amortization     4,408         4,357
+Stock compensation expense     341         379
+Noncash interest, net     12         15
+Deferred income taxes     417        ( 80 )
+Other, net    ( 86 )       350
+Changes in operating assets and liabilities, net of effects from acquisitions and dispositions:
+Accounts receivable    ( 136 )      ( 286 )
+Prepaid expenses and other assets     4        ( 169 )
+Accounts payable, accrued liabilities and other     382         366
+Net cash flows from operating activities     8,229         7,836
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of property, plant and equipment    ( 5,726 )      ( 5,273 )
+Change in accrued expenses related to capital expenditures    ( 162 )       47
+Other, net    ( 285 )      ( 199 )
+Net cash flows from investing activities    ( 6,173 )      ( 5,425 )
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Borrowings of long-term debt     11,610         5,116
+Borrowings of equipment installment plan financing facility     148         233
+Repayments of long-term debt    ( 12,108 )      ( 4,793 )
+Payments for debt issuance costs    ( 30 )      ( 1 )
+Purchase of treasury stock    ( 1,878 )      ( 2,253 )
+Proceeds from exercise of stock options     13         19
+Purchase of noncontrolling interest     —        ( 252 )
+Distributions to noncontrolling interest    ( 22 )      ( 124 )
+Other, net     212        ( 213 )
+Net cash flows from financing activities    ( 2,055 )      ( 2,268 )
+NET INCREASE IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH     1         143
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH, beginning of period     598         506
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH, end of period    $     599        $     649
+CASH PAID FOR INTEREST    $     2,506        $     2,439
+As of June 30, 2026, December 31, 2025, June 30, 2025 and December 31, 2024, cash, cash equivalents and restricted cash includes $ 90  million, $ 121  million, $ 43  million and $ 47  million of restricted cash included in prepaid expenses and other current assets in the consolidated balance sheets, respectively.
+The accompanying notes are an integral part of these consolidated financial statements.
+4
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+(dollars in millions, except per share amounts and where indicated)
+1.     Organization and Basis of Presentation
+Organization
+Charter Communications, Inc. (together with its controlled subsidiaries, “Charter,” or the “Company”) is a leading broadband connectivity company with services available to homes and small to large businesses through its Spectrum  ®   brand. Founded in 1993, the Company has evolved from providing cable TV to streaming, and from high-speed Internet to a converged broadband, WiFi and mobile experience. Over the Spectrum Fiber Broadband Network and supported by the Company’s 100% U.S.-based employees, the Company offers Seamless Connectivity and Entertainment with Spectrum Internet  ®  , Mobile, TV and Voice products.
+Charter is a holding company whose principal asset is a controlling equity interest in Charter Communications Holdings, LLC (“Charter Holdings”), an indirect owner of Charter Communications Operating, LLC (“Charter Operating”) under which substantially all of the operations reside. All significant intercompany accounts and transactions among consolidated entities have been eliminated.
+Basis of Presentation
+The accompanying consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles (“GAAP”) and the rules and regulations of the Securities and Exchange Commission (the “SEC”).   Accordingly, certain information and footnote disclosures typically included in the Company's Annual Report on Form 10-K have been condensed or omitted for this quarterly report.  The accompanying consolidated financial statements are unaudited and are subject to review by regulatory authorities.  However, in the opinion of management, such financial statements include all adjustments, which consist of only normal recurring adjustments, necessary for a fair presentation of the results for the periods presented.  Interim results are not necessarily indicative of results for a full year.
+The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period.  Areas involving significant judgments and estimates include capitalization of labor and overhead costs, valuation and impairment of franchise assets and goodwill, and income taxes.  Actual results could differ from those estimates.
+Comprehensive income equaled net income attributable to Charter shareholders for the three and six months ended June 30, 2026 and 2025.
+2.     Mergers and Acquisitions
+On May 16, 2025, Charter, Charter Holdings, and Cox Enterprises, Inc. (“Cox Enterprises”) entered into a Transaction Agreement (the “Transaction Agreement”) pursuant to which (i) Cox Enterprises will sell and transfer to Charter  100 % of the equity interests of certain subsidiaries of Cox Communications, Inc. (“Cox Communications”) that conduct Cox Communications’ commercial fiber and managed IT and cloud services businesses (the “Equity Sale”), (ii) Cox Enterprises will contribute the equity interests of Cox Communications and certain other assets (other than certain excluded assets) primarily related to Cox Communications’ residential cable business to Charter Holdings (the “Contribution”), and (iii) Cox Enterprises will pay $ 1.00  to Charter (collectively, the “Cox Transactions”).  Under the Transaction Agreement, Charter and Cox Enterprises may designate one or more wholly owned subsidiaries to take actions with respect to Charter and Cox Enterprises, respectively.
+Pursuant to the Transaction Agreement, at the closing of the Cox Transactions:
+•  in consideration of the Equity Sale, Charter will pay $ 3.5  billion in cash to Cox Enterprises;
+•  in consideration of the Contribution, Charter Holdings will (i) pay to Cox Enterprises $ 650  million in cash and (ii) issue to Cox Enterprises convertible preferred units of Charter Holdings with an aggregate liquidation preference of $ 6.0  billion, which will pay a  6.875 % dividend per annum, and approximately  33.6  million Charter Holdings common units. The
+5
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+(dollars in millions, except per share amounts and where indicated)
+Charter Holdings convertible preferred units will be convertible into Charter Holdings common units, with an initial conversion price of $ 477.41 , subject to certain adjustments. The Charter Holdings common units will be exchangeable by the holder, in certain circumstances, for cash or, at the election of Charter, Charter Class A common stock on a one-for-one basis, subject to certain adjustments; and
+•  in consideration of the $ 1.00  payment from Cox Enterprises to Charter, Charter will issue to Cox Enterprises  one  share of the newly created Charter Class C common stock. The Charter Class C common stock will be equivalent, economically, to the outstanding Charter Class A common stock and the Charter Class B common stock but will have a number of votes per share that reflect the voting power of the Charter Holdings common units and the Charter Holdings convertible preferred units held by Cox Enterprises on an as-converted, as-exchanged basis.
+The combined entity will assume Cox Communications’ approximately $ 12.4  billion in outstanding net debt and finance leases.
+3.     Accounts Payable, Accrued and Other Current Liabilities
+Accounts payable, accrued and other current liabilities     consist of the following as of June 30, 2026 and December 31, 2025:
+June 30, 2026     December 31, 2025
+Accounts payable – trade    $     1,066        $     1,034
+Deferred revenue     428         422
+Accrued and other current liabilities:
+Programming costs     1,581         1,575
+Labor     1,302         1,365
+Capital expenditures     3,162         3,296
+Interest     1,279         1,259
+Taxes and regulatory fees     567         521
+Short-term borrowings     1,155         918
+Other     2,239         2,166
+$     12,779        $     12,556
+Under a supply chain finance program, the Company has agreements with third parties that allow its participating vendors to finance payment obligations from the Company with designated third-party financial institutions who act as its paying agent.  As a result, the Company has generally extended its payment terms with vendors.  A participating vendor may request a participating financial institution to finance one or more of the Company's payment obligations to such vendor prior to the scheduled due date thereof priced at a discount to the original payment obligation from the Company. The Company is not required to provide collateral to the financial institutions.  The Company's obligations to participating vendors, including amounts due and scheduled payment dates, are not impacted by the vendors’ decisions to finance amounts due under these financing arrangements. The Company's outstanding payment obligations to participating vendors were $ 725  million and $ 735  million as of June 30, 2026 and December 31, 2025, respectively, and are included in accounts payable - trade and accrued capital expenditures above.  Cash outflows to the financial institutions are classified as cash flows from operating and investing activities.
+Under a deferred payment program, the Company has agreements with third parties to pay certain invoices when due, and the Company pays the third parties at a later date, the invoice amount plus interest.  The Company's outstanding payment obligation to participating vendors under the deferred payment plan was $ 1.2  billion and $ 918  million as of June 30, 2026 and December 31, 2025, respectively, and is included in short-term borrowings.  Cash outflows to the financial institutions are classified as cash flows from financing activities.
+6
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+(dollars in millions, except per share amounts and where indicated)
+4.     Total Debt
+A summary of our debt as of June 30, 2026 and December 31, 2025 is as follows:
+June 30, 2026       December 31, 2025
+Principal Amount     Carrying Value     Fair Value       Principal Amount     Carrying Value     Fair Value
+Senior unsecured notes      $     26,734        $     26,663        $     24,931          $     27,250        $     27,197        $     25,634
+Senior secured notes and debentures  (a)
+54,658         54,886         46,451           55,418         55,658         48,030
+Credit facilities  (b)
+12,453         12,410         12,168           11,949         11,901         11,803
+$     93,845        $     93,959        $     83,550          $     94,617        $     94,756        $     85,467
+(a)  Includes the Company's £ 625  million fixed-rate British pound sterling denominated notes (the “Sterling Notes”) (remeasured at $ 829  million and $ 842  million as of June 30, 2026 and December 31, 2025, respectively, using the exchange rate at the respective dates) and the Company's £ 650  million aggregate principal amount of Sterling Notes (remeasured at $ 862  million and $ 876  million as of June 30, 2026 and December 31, 2025, respectively, using the exchange rate at the respective dates).
+(b)    The Company has availability under the Charter Operating credit facilities of approximately $ 3.7  billion as of June 30, 2026.
+The estimated fair value of the Company’s senior unsecured and secured notes and debentures as of June 30, 2026 and December 31, 2025 is based on quoted market prices in active markets and is classified within Level 1 of the valuation hierarchy, while the estimated fair value of the Company’s credit facilities is based on quoted market prices in inactive markets and is classified within Level 2.
+In February 2026, CCO Holdings and CCO Holdings Capital Corp. redeemed $ 750  million in aggregate principal amount of the outstanding  5.500 % senior notes due 2026 and $ 2.25  billion in aggregate principal amount of the outstanding  5.125 % senior notes due 2027.  The transactions resulted in a loss on extinguishment of debt of approximately $ 4  million during the six months ended June 30, 2026 recorded in other income (expenses), net in the consolidated statement of operations.
+During the three and six months ended June 30, 2026, the Company repurchased $ 1.2  billion in aggregate principal amount of various series of notes under an open market repurchase program.  The transactions resulted in a gain on extinguishment of debt of approximately $  243   million during the three and six months ended June 30, 2026 recorded in other income (expenses), net in the consolidated statement of operations.
+5.     Equipment Installment Plan Financing Facility
+CCO EIP Financing, LLC (the “SPV Borrower”), a bankruptcy remote special purpose vehicle and consolidated subsidiary of the Company, is the borrower of a senior secured revolving credit facility to finance the purchase of equipment installment plan receivables (“EIP Receivables”) with a number of financial institutions (the “EIP Financing Facility”).
+The revolving credit facility under the EIP Financing Facility bears interest on the outstanding borrowings based on lenders’ cost of funds plus an applicable margin and was  4.82 % and  5.14 % as of June 30, 2026 and December 31, 2025, respectively.  The EIP Financing Facility has a final maturity date of November 3, 2029, comprised of a twelve-month revolving loan period subject to renewal, and if not renewed, cash flows on EIP Receivables are applied to amortize the loan which may occur over a period of up to three years. SPV Borrower may borrow up to $ 2.0  billion under the EIP Financing Facility. As of June 30, 2026 and December 31, 2025, the carrying value of the EIP Financing Facility was $ 1.6  billion and $ 1.4  billion, respectively, and is included in the Company’s consolidated balance sheets.
+The SPV Borrower’s sole business consists of the purchase or acceptance through capital contributions of the EIP Receivables from Spectrum Mobile Equipment, LLC, (the sole direct parent entity of SPV Borrower that originates the EIP Receivables) and the subsequent retransfer of or granting of a security interest in such EIP Receivables to the administrative agent under the EIP Financing Facility.  The SPV Borrower is a separate legal entity with its own separate creditors who will be entitled, upon its liquidation, to be satisfied out of the SPV Borrower’s assets prior to any assets or value in the SPV Borrower becoming
+7
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+(dollars in millions, except per share amounts and where indicated)
+available to the SPV Borrower’s equity holders, and the assets of the SPV Borrower are not available to pay creditors of any other affiliate of the Company.
+The EIP Financing Facility is accounted for on a consolidated basis as a secured borrowing. As of June 30, 2026 and December 31, 2025, pledged EIP Receivables with an unpaid principal balance of $ 2.3  billion and $ 2.2  billion, respectively, included in accounts receivable, net and other noncurrent assets, and restricted cash of $ 90  million and $ 121  million, respectively, included in prepaid expenses and other current assets, are held by the SPV Borrower and reflected in the Company’s consolidated balance sheets. Receipts from mobile customers related to the underlying EIP Receivables are reflected as cash flows from operating activities and borrowings and repayments under the EIP Financing Facility are reflected as cash flows from financing activities in the Company’s consolidated statements of cash flows.
+6.     Common Stock
+The following represents the Company's purchase of Charter Class A common stock and the effect on the consolidated statements of cash flows during the three and six months ended June 30, 2026 and 2025.
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Shares     $     Shares     $     Shares     $     Shares     $
+Share buybacks      3,996,545        $     838         3,832,505        $     1,443         8,284,640        $     1,801         5,837,900        $     2,174
+Income tax withholding     61,213         14         19,342         8         390,125         77         221,416         79
+Exercise cost     1,585,169        —        92,580        —        1,649,981        —        161,746        —
+5,642,927        $     852         3,944,427        $     1,451         10,324,746        $     1,878         6,221,062        $     2,253
+Share buybacks above include shares of Charter Class A common stock purchased from Liberty Broadband Corporation (“Liberty Broadband”) as follows:
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Number of shares purchased     1,936,837         808,841         2,807,590         1,634,261
+Amount of shares purchased    $     405        $     300        $     595        $     600
+As of June 30, 2026, Charter had remaining board authority to purchase an additional $ 365  million of Charter’s Class A common stock and/or Charter Holdings common units, excluding purchases from Liberty Broadband.  The Company also withholds shares of its Class A common stock in payment of income tax withholding owed by employees upon vesting of equity awards as well as exercise costs owed by employees upon exercise of stock options.
+In 2025, Charter’s board of directors approved the retirement of the then currently held treasury stock and those shares were retired as of December 31, 2025.  The Company accounts for treasury stock using the cost method and includes treasury stock as a component of total shareholders’ equity.
+7.     Noncontrolling Interests
+Noncontrolling interests represents consolidated subsidiaries of which the Company owns less than  100 %.  The Company is a holding company whose principal asset is a controlling equity interest in Charter Holdings, the indirect owner of the Company’s cable systems.  Noncontrolling interests on the Company’s balance sheet consist primarily of Advance/Newhouse Partnership's (“A/N”) equity interests in Charter Holdings, which is comprised of a common ownership interest.
+Net income of Charter Holdings attributable to A/N’s common noncontrolling interest for financial reporting purposes is based on the weighted average effective common ownership interest of approximately   11  %, and was $ 232  million and $ 431  million for the three and six months ended June 30, 2026, respectively, and $ 194  million and $ 385  million for the three and six months ended June 30, 2025, respectively.
+8
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+(dollars in millions, except per share amounts and where indicated)
+The following table represents Charter Holdings' purchase of Charter Holdings common units from A/N and the effect on total shareholders' equity during the three and six months ended June 30, 2025.  Charter Holdings did not purchase any Charter Holdings common units from A/N during the three and six months ended June 30, 2026.
+Three Months Ended June 30, 2025       Six Months Ended June 30, 2025
+Number of units purchased       631,663           683,336
+Purchase of noncontrolling interest      $     232          $     252
+Carrying value of noncontrolling interest purchased      $    ( 171 )        $    ( 185 )
+Excess purchased recorded to additional paid-in-capital, net of tax      $    ( 45 )        $    ( 50 )
+Total shareholders' equity was also adjusted during the three and six months ended June 30, 2026 and 2025 due to the changes in Charter Holdings' ownership as follows:
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Change in noncontrolling interest     $     52        $    ( 18 )      $     74        $    ( 38 )
+Change in additional paid-in-capital, net of tax    $    ( 39 )      $     14        $    ( 56 )      $     29
+8.      Accounting for Derivative Instruments and Hedging Activities
+Cross-currency derivative instruments are used to manage foreign exchange risk on the Sterling Notes by effectively converting £ 1.275  billion aggregate principal amount of fixed-rate British pound sterling denominated debt, including annual interest payments and the payment of principal at maturity, to fixed-rate U.S. dollar denominated debt. The fair value of the Company's cross-currency derivatives, which are classified within Level 2 of the valuation hierarchy, was $ 442  million and $ 406  million and is included in   other long-term liabilities   on its consolidated balance sheets as of June 30, 2026 and December 31, 2025, respectively.
+The effect of financial instruments are recorded in other income (expenses), net in the consolidated statements of operations and consisted of the following.
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Change in fair value of cross-currency derivative instruments
+$     41        $     124        $    ( 35 )      $     111
+Foreign currency remeasurement of Sterling Notes to U.S. dollars
+( 4 )      ( 104 )       27        ( 156 )
+Gain (loss) on financial instruments, net    $     37        $     20        $    ( 8 )      $    ( 45 )
+9
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+(dollars in millions, except per share amounts and where indicated)
+9.     Revenues
+The Company’s revenues by product line are as follows:
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Internet    $     5,776        $     5,969        $     11,628        $     11,899
+Mobile service     1,095         921         2,147         1,835
+Connectivity     6,871         6,890         13,775         13,734
+Video     3,149         3,488         6,401         7,068
+Voice     331         346         669         702
+Residential revenue     10,351         10,724         20,845         21,504
+Small business     1,104         1,096         2,194         2,184
+Mid-market & large business     761         740         1,510         1,474
+Commercial revenue     1,865         1,836         3,704         3,658
+Advertising sales     416         371         774         711
+Other     894         835         1,800         1,628
+$     13,526        $     13,766        $     27,123        $     27,501
+As of June 30, 2026 and December 31, 2025, accounts receivable, net on the consolidated balance sheets includes approximately $ 1.4  billion and $ 1.3  billion of current equipment installment plan receivables, respectively, and other noncurrent assets includes approximately $ 1.2  billion and $ 1.1  billion of noncurrent equipment installment plan receivables, respectively.
+10.      Segment Reporting
+The Company’s operations are managed and reported to its Chief Executive Officer (“CEO”), the Company’s chief operating decision maker (“CODM”), on a consolidated basis.  The Company provides broadband connectivity services with all of its services delivered to customers over an advanced communications network.  The CODM assesses performance and allocates resources based on the Company’s consolidated statements of operations, as the converged network requires the CODM to manage and evaluate the results of the business in a consolidated manner to drive efficiencies and develop uniform strategies. Accordingly, key components and processes of the Company’s operations are managed centrally, including contracting for programming, capital and new technology development and deployment, plant engineering, customer service, marketing, legal and government affairs. Segment asset information is not used by the CODM to allocate resources.  Under this organizational and reporting structure, the Company has  one  reportable segment.
+As a single reportable segment entity, the Company’s segment performance measure is net income attributable to Charter shareholders. See Note 9 for a description of the Company's disaggregated revenues by product line.  Significant segment expenses are presented in the Company’s consolidated statements of operations.   Additional disaggregated significant segment
+10
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+(dollars in millions, except per share amounts and where indicated)
+expenses on a functional basis, that are not separately presented on the Company’s consolidated statements of operations, are presented below.
+Operating Costs and Expenses
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Programming    $     2,035        $     2,253        $     4,123        $     4,555
+Other costs of revenue     1,837         1,651         3,602         3,235
+Field and technology operations     1,313         1,292         2,571         2,574
+Customer operations     785         777         1,551         1,549
+Marketing and residential sales     927         958         1,846         1,907
+Stock compensation expense (see Note 11)     138         157         341         379
+Transition expenses     65         —         89         —
+Other expense     1,115         1,142         2,255         2,225
+$     8,215        $     8,230        $     16,378        $     16,424
+Programming costs consist primarily of costs paid to programmers for basic, premium, video on demand and pay-per-view programming. Other costs of revenue include costs directly related to providing Internet, mobile, video and voice services including mobile device costs, payments to franchise and regulatory authorities, payments for sports, local and news content produced by the Company and direct costs associated with selling advertising. Also included in other costs of revenue are content acquisition costs for the Los Angeles Lakers’ basketball games and Los Angeles Dodgers’ baseball games, which are recorded as games are exhibited over the contract period. Field and technology operations costs include indirect costs incurred to manage the Company's inside and outside cable network, including labor for the non-capitalizable portion of customer installations and service and repairs. Customer operations costs include call center labor costs for customer care, billing costs, bad debt expense, and collections. Marketing and residential sales costs represent the costs of marketing residential and business Internet, mobile, video and voice services and costs to sell to current and potential non-bulk residential customers, including labor cost. Transition expenses represent incremental costs incurred to prepare for the integration of Cox Communications’ operations and to bring systems and processes into a uniform operating structure.  See Note 2.  Other expense includes corporate overhead costs, as well as certain indirect costs associated with Spectrum Business, Spectrum Reach, Spectrum Networks and Spectrum Community Solutions, including related sales expenses.
+Other Operating Expenses, Net
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Special charges, net    $     43        $     29        $     41        $     60
+Merger and acquisition costs     8         43         23         44
+Loss on disposal of assets, net     —         9         2         100
+$     51        $     81        $     66        $     204
+Special charges, net primarily includes severance costs and net amounts of litigation settlements.  Merger and acquisition costs represent costs incurred primarily in connection with the Cox Transactions, such as advisory, legal and accounting fees, among others.  Loss on disposal of assets, net includes a $ 90  million impairment on non-strategic assets during the six months ended June 30, 2025.
+11
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+(dollars in millions, except per share amounts and where indicated)
+Other Income (Expenses), Net
+Other income (expenses), net consist of the following for the periods presented:
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Loss on equity investments, net    $    ( 68 )      $    ( 127 )      $    ( 143 )      $    ( 204 )
+Gain (loss) on financial instruments, net (see Note 8)     37         20        ( 8 )      ( 45 )
+Gain on extinguishment of debt, net (see Note 4)     243         —         239         —
+$     212        $    ( 107 )      $     88        $    ( 249 )
+11.          Stock Compensation Plans
+Charter’s stock incentive plans provide for grants of nonqualified stock options, incentive stock options, stock appreciation rights, dividend equivalent rights, performance units and performance shares, share awards, phantom stock, restricted stock units and restricted stock.  Directors, officers and other employees of the Company and its subsidiaries, as well as others performing consulting services for the Company, are eligible for grants under the stock incentive plans.
+Charter granted the following equity awards for the periods presented.
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Stock options     52,100         39,600         2,431,100         1,447,300
+Restricted stock     15,000         11,500         15,300         11,500
+Restricted stock units     136,700         28,300         2,177,300         1,183,500
+Stock options and restricted stock units generally cliff vest   three years   from the date of grant. Certain stock options and restricted stock units vest based on achievement of stock price hurdles.  Stock options generally expire  ten years  from the grant date and restricted stock units have no voting rights.  Restricted stock generally vests  one year  from the date of grant.
+As of June 30, 2026, total unrecognized compensation remaining to be recognized in future periods totaled $ 253  million for stock options, $ 549  million for restricted stock units and $ 3  million for restricted stock and the weighted average period over which they are expected to be recognized is   two years   for stock options and restricted stock units and  ten months  for restricted stock.
+12.     Earnings Per Share
+Basic earnings per common share is computed by dividing net income attributable to Charter shareholders by the weighted average number of shares of common stock outstanding during the period. Diluted earnings per common share considers the impact of potentially dilutive securities using the treasury stock and if-converted methods and is based on the weighted average number of shares used for the basic earnings per share calculation, adjusted for the dilutive effect of stock options, restricted stock units, restricted stock, equity awards with market conditions and Charter Holdings common units.  Charter Holdings common units of     16     million for the three and six months ended June 30, 2026 and 2025 were not included in the computation of diluted earnings per share as their effect would have been antidilutive.
+12
+CHARTER COMMUNICATIONS, INC. AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+(dollars in millions, except per share amounts and where indicated)
+The following is the computation of diluted earnings per common share for the periods presented.
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Numerator:
+Net income attributable to Charter shareholders    $     1,292        $     1,301        $     2,455        $     2,518
+Denominator:
+Weighted average common shares outstanding, basic     120,121,017         138,205,810         122,789,924         139,889,251
+Effect of dilutive securities:
+Assumed exercise or issuance of shares relating to
+stock plans     1,134,650         3,478,605         1,179,338         3,209,242
+Weighted average common shares outstanding, diluted     121,255,667         141,684,415         123,969,262         143,098,493
+Basic earnings per common share attributable to
+Charter shareholders    $     10.76        $     9.41        $     20.00        $     18.00
+Diluted earnings per common share attributable to Charter shareholders    $     10.66        $     9.18        $     19.81        $     17.59
+13.     Related Party Transactions
+On November 12, 2024, Charter, Liberty Broadband, Fusion Merger Sub 1, LLC, a wholly owned subsidiary of Charter, and Fusion Merger Sub 2, Inc., a wholly owned subsidiary of Fusion Merger Sub 1, LLC, entered into an Agreement and Plan of Merger (as it may be amended or supplemented from time to time, the “Merger Agreement”), pursuant to which, subject to the terms and conditions set forth therein, Charter will acquire Liberty Broadband through the merger of Fusion Merger Sub 2, Inc. with and into Liberty Broadband (the “Merger”), with Liberty Broadband surviving the Merger and becoming an indirect wholly owned subsidiary of Charter.  Immediately following the Merger, Liberty Broadband, as the surviving corporation of the Merger, will merge with and into Fusion Merger Sub 1, LLC (the “Upstream Merger” and together with the Merger, the “Liberty Broadband Combination”), with Fusion Merger Sub 1, LLC surviving the Upstream Merger as a wholly owned subsidiary of Charter.
+On November 12, 2024, Charter and Liberty Broadband also entered into Amendment No. 1 to the Second Amended and Restated Stockholders Agreement and the Letter Agreement (the “Stockholders and Letter Agreement Amendment”). The Stockholders and Letter Agreement Amendment sets forth, among other things, the terms of Liberty Broadband’s participation in Charter’s share repurchases during the period between the execution of the Merger Agreement and the effective time of the Merger.  Pursuant to the Stockholders and Letter Agreement Amendment, each month during the pendency of the proposed transaction, Charter will repurchase shares of Charter Class A common stock from Liberty Broadband in an amount equal to the greater of (i) $ 100  million and (ii) the Liberty Broadband minimum liquidity threshold as set forth in the Stockholders and Letter Agreement Amendment, provided that if any repurchase would reduce Liberty Broadband’s equity interest in Charter below  25.25 % after giving effect to such repurchase or if all or a portion of such repurchase is not permitted under applicable law, then Charter shall instead loan to Liberty Broadband an amount equal to the lesser of (x) the repurchase amount that cannot be repurchased and (y) the Liberty Broadband minimum liquidity threshold as set forth in the Stockholders and Letter Agreement Amendment less the repurchase amount that is repurchased, with such loan on the terms set forth in the Stockholders and Letter Agreement Amendment. Pursuant to the Merger Agreement and Stockholders and Letter Agreement Amendment, in May 2026, Charter advanced a term loan to Liberty Broadband in the aggregate principal amount of approximately $ 359  million included in other noncurrent assets on the consolidated balance sheets as of June 30, 2026.
+13
+Item 2.           Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+General
+Charter Communications, Inc. (together with its controlled subsidiaries, “Charter”) is a leading broadband connectivity company with services available to nearly 59 million homes and small to large businesses across 41 states through our Spectrum brand. Founded in 1993, we have evolved from providing cable TV to streaming, and from high-speed Internet to a converged broadband, WiFi and mobile experience. Over the Spectrum Fiber Broadband Network and supported by our 100% U.S.-based employees, we offer Seamless Connectivity and Entertainment with Spectrum Internet, Mobile, TV and Voice products.
+Charter is a holding company whose principal asset is a controlling equity interest in Charter Communications Holdings, LLC (“Charter Holdings”), an indirect owner of Charter Communications Operating, LLC (“Charter Operating”) under which substantially all of the operations reside. All significant intercompany accounts and transactions among consolidated entities have been eliminated.
+The Cox     Transactions
+On May 16, 2025, Charter, Charter Holdings, and Cox Enterprises, Inc. (“Cox Enterprises”) entered into a Transaction Agreement (the “Transaction Agreement”) pursuant to which (i) Cox Enterprises will sell and transfer to Charter 100% of the equity interests of certain subsidiaries of Cox Communications, Inc. (“Cox Communications”) that conduct Cox Communications’ commercial fiber and managed IT and cloud services businesses (the “Equity Sale”), (ii) Cox Enterprises will contribute the equity interests of Cox Communications and certain other assets (other than certain excluded assets) primarily related to Cox Communications’ residential cable business to Charter Holdings (the “Contribution”), and (iii) Cox Enterprises will pay $1.00 to Charter (collectively, the “Cox Transactions”).  Under the Transaction Agreement, Charter and Cox Enterprises may designate one or more wholly owned subsidiaries to take actions with respect to Charter and Cox Enterprises, respectively.
+Pursuant to the Transaction Agreement, at the closing of the Cox Transactions (the “Closing”):
+•  in consideration of the Equity Sale, Charter will pay $3.5 billion in cash to Cox Enterprises;
+•  in consideration of the Contribution, Charter Holdings will (i) pay to Cox Enterprises $650 million in cash and (ii) issue to Cox Enterprises convertible preferred units of Charter Holdings with an aggregate liquidation preference of $6.0 billion, which will pay a 6.875% dividend per annum, and approximately 33.6 million Charter Holdings common units. The Charter Holdings convertible preferred units will be convertible into Charter Holdings common units, with an initial conversion price of $477.41, subject to certain adjustments. The Charter Holdings common units will be exchangeable by the holder, in certain circumstances, for cash or, at the election of Charter, Charter Class A common stock on a one-for-one basis, subject to certain adjustments; and
+•  in consideration of the $1.00 payment from Cox Enterprises to Charter, Charter will issue to Cox Enterprises one share of the newly created Charter Class C common stock. The Charter Class C common stock will be equivalent, economically, to the outstanding Charter Class A common stock and the Charter Class B common stock but will have a number of votes per share that reflect the voting power of the Charter Holdings common units and the Charter Holdings convertible preferred units held by Cox Enterprises on an as-converted, as-exchanged basis.
+The combined entity will assume Cox Communications’ approximately $12.4 billion in outstanding net debt and finance leases.
+Overview
+The competitive environment continued to challenge our Internet customer growth in the second quarter of 2026 and we lost 172,000 Internet customers.  Mobile lines grew by 406,000 while video customer losses improved versus the prior year period driven by improvements to our product offerings with customers finding value in bundling our seamless connectivity and entertainment products.  Our core strategy is to deliver great products, at a great value, while continuously improving service.  We remain focused on improving customer results through the power of our advanced fiber-powered network and cutting-edge connectivity products and services, and our simplified pricing and packaging strategy that better utilizes our seamless connectivity and entertainment products to offer lower promotional and persistent bundled pricing to drive growth.  Our Internet and mobile product bundles provide a differentiated connectivity experience by bringing together Spectrum Internet,
+14
+Advanced WiFi and Spectrum Mobile to offer consumers fast, reliable and secure online connections on their favorite devices at home and on the go in high-value packages.  We have completed deals with major programmers to deliver better flexibility and greater value to our customers by including seamless entertainment applications with certain of our Spectrum TV packages at no additional cost.  We offer the sale of these seamless entertainment applications to customers on an à la carte basis, and through our digital storefront, the Spectrum App Store, customers can easily activate, upgrade, buy and manage their streaming applications in one place.  We also continue to develop other elements of our video product and are deploying Xumo stream boxes to new video customers.
+Our customer commitments focus on reliable connectivity, transparency, exceptional service and always improving.  By continually improving our product set and offering consumers the opportunity to save money by switching to our services, we believe we can continue to penetrate our expanding footprint and sell additional products to our existing customers.  We see operational benefits from the targeted investments we made in employee wages and benefits to build employee skill sets and tenure, as well as the continued investments in digitization of our customer service platforms, all with the goal of improving the customer experience, reducing transactions and driving customer growth and retention.
+We currently offer Spectrum Internet products with speeds up to 1 Gbps across our entire footprint and multi-gigabit data speeds in a portion of our footprint.  Our network evolution initiative remains on track to deliver symmetrical and multi-gigabit speeds across our entire footprint with convergence everywhere we operate.  We spent $391 million and $818 million on our subsidized rural construction initiative during the three and six months ended June 30, 2026, respectively, and activated approximately 127,000 and 216,000 subsidized rural passings, respectively.
+We realized revenue, Adjusted EBITDA and income from operations during the periods presented as follows (in millions; all percentages are calculated using whole numbers; minor differences may exist due to rounding):
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     % Change     2026     2025     % Change
+Revenues    $    13,526       $    13,766       (1.7)    %     $    27,123       $    27,501       (1.4)    %
+Adjusted EBITDA    $    5,449       $    5,693       (4.3)    %     $    11,086       $    11,456       (3.2)    %
+Income from operations    $    3,063       $    3,279       (6.5)    %     $    6,271       $    6,516       (3.7)    %
+Adjusted EBITDA is defined as net income attributable to Charter shareholders plus net income attributable to noncontrolling interest, interest expense, net, income taxes, depreciation and amortization, stock compensation expense, other income (expenses), net and other operating (income) expenses, net, such as special charges, merger and acquisition costs and (gain) loss on sale or retirement of assets.  See “Use of Adjusted EBITDA and Free Cash Flow” for further information on Adjusted EBITDA and free cash flow.
+Total revenues decreased $240 million and $378 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to a higher seamless entertainment allocation and fewer customer relationships, partly offset by mobile line growth.  Adjusted EBITDA decreased $244 million and $370 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to lower revenue and higher transition expenses incurred as we prepare to integrate Cox Communications.  Income from operations was further impacted by a decrease in merger and acquisition costs.
+15
+The following table summarizes our customer statistics for connectivity, Internet, mobile, video and voice as of June 30, 2026 and 2025 (in thousands except per customer data and footnotes).
+Approximate as of
+June 30,
+2026   (a)
+2025   (a)
+Customer Relationships   (b)
+Residential     29,276       29,819
+Small Business    2,223       2,241
+Total Customer Relationships    31,499       32,060
+Monthly Residential Revenue per Residential Customer   (c)
+$    117.52       $    119.70
+Monthly Small Business Revenue per Small Business Customer   (d)
+$    165.27       $    162.91
+Connectivity   (e)
+Residential    28,306       28,705
+Small Business    2,069       2,076
+Total Connectivity Customers    30,375       30,781
+Internet
+Residential    27,358       27,868
+Small Business    2,030       2,040
+Total Internet Customers    29,388       29,908
+Mobile Lines    (f)
+Residential    12,099       10,502
+Small Business    441       354
+Total Mobile Lines    12,540       10,856
+Video   (g)
+Residential    12,010       12,087
+Small Business    514       544
+Total Video Customers    12,524       12,631
+Voice
+Residential    4,494       5,161
+Small Business    1,200       1,225
+Total Voice Customers    5,694       6,386
+Mid-Market & Large Business Primary Service Units ("PSUs")   (h)
+364     350
+(a)  We calculate the aging of customer accounts based on the monthly billing cycle for each account in accordance with our collection policies.  On that basis, as of June 30, 2026 and 2025, customers include approximately 84,000 and 99,400 customers, respectively, whose accounts were over 60 days past due, approximately 10,100 and 11,600 customers, respectively, whose accounts were over 90 days past due and approximately 13,400 and 18,900 customers, respectively, whose accounts were over 120 days past due.
+(b)  Customer relationships include the number of customers that receive one or more levels of service, encompassing Internet, mobile, video and voice services, without regard to which service(s) such customers receive.  Customers who reside in residential multiple dwelling units (“MDUs”) and that are billed under bulk contracts are counted based on the number of billed units within each bulk MDU.  Total customer relationships exclude mid-market & large business customer relationships.
+(c)  Monthly residential revenue per residential customer is calculated as total residential quarterly revenue divided by three divided by average residential customer relationships during the respective quarter.
+16
+(d)  Monthly small business revenue per small business customer is calculated as total small business quarterly revenue divided by three divided by average small business customer relationships during the respective quarter.
+(e)  Connectivity customers represent all customers receiving our Internet and/or mobile connectivity services.
+(f)  Mobile lines include phones and tablets which require one of our standard rate plans (e.g., "Unlimited" or "By the Gig").  Mobile lines exclude wearables and other devices that do not require standard phone rate plans.
+(g)  Video customers only include customers that purchase Spectrum traditional or streaming linear video packages and exclude customers that only purchase streaming applications.
+(h)  Mid-market & large business PSUs represent the aggregate number of fiber service offerings counting each separate service offering at each customer location as an individual PSU.
+Critical Accounting Policies and Estimates
+For a discussion of our critical accounting policies and the means by which we develop estimates, see “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our 2025 Annual Report on Form 10-K.  There have been no material changes from the critical accounting policies described in our Form 10-K.
+Based on our quantitative impairment analysis during the fourth quarter of 2025, the fair value of our franchise intangibles exceeded the carrying value by more than 10% in each unit of accounting.  Considering the decline in Charter’s stock price during the quarter ending June 30, 2026, we continue to monitor factors that could impact the fair value of our franchises and goodwill.  We do not view this recent decline as representing a fundamental change in the long-term results of our business. However, if the lower stock price persists, we may need to evaluate whether this market perception represents a sustained decline in the market value of our business and perform a quantitative impairment assessment to determine any potential impact on the carrying value of our franchises and goodwill.
+17
+Results of Operations
+The following table sets forth the consolidated statements of operations for the periods presented (dollars in millions, except per share data):
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Revenues    $    13,526       $    13,766       $    27,123       $    27,501
+Costs and Expenses:
+Operating costs and expenses (exclusive of items shown separately below)
+8,215       8,230       16,378       16,424
+Depreciation and amortization    2,197       2,176       4,408       4,357
+Other operating expenses, net    51       81       66       204
+10,463       10,487       20,852       20,985
+Income from operations    3,063       3,279       6,271       6,516
+Other Income (Expenses):
+Interest expense, net    (1,276)      (1,263)      (2,532)      (2,504)
+Other income (expenses), net    212       (107)      88       (249)
+(1,064)      (1,370)      (2,444)      (2,753)
+Income before income taxes    1,999       1,909       3,827       3,763
+Income tax expense    (475)      (414)      (940)      (859)
+Consolidated net income     1,524       1,495       2,887       2,904
+Less: Net income attributable to noncontrolling interests    (232)      (194)      (432)      (386)
+Net income attributable to Charter shareholders    $    1,292       $    1,301       $    2,455       $    2,518
+EARNINGS PER COMMON SHARE ATTRIBUTABLE TO CHARTER SHAREHOLDERS:
+Basic    $    10.76       $    9.41       $    20.00       $    18.00
+Diluted    $    10.66       $    9.18       $    19.81       $    17.59
+Weighted average common shares outstanding, basic
+120,121,017       138,205,810       122,789,924       139,889,251
+Weighted average common shares outstanding, diluted
+121,255,667       141,684,415       123,969,262       143,098,493
+Revenues.      Total revenues decreased $240 million and $378 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025.  The decrease was primarily due to a higher seamless entertainment allocation and lower customer relationships, partly offset by mobile line growth.
+18
+Revenues by service offering were as follows (dollars in millions; all percentages are calculated using whole numbers; minor differences may exist due to rounding):
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     % Change     2026     2025     % Change
+Internet    $    5,776       $    5,969       (3.2)    %     $    11,628       $    11,899       (2.3)    %
+Mobile service    1,095       921       18.9     %     2,147       1,835       17.0     %
+Connectivity    6,871       6,890       (0.3)    %     13,775       13,734       0.3     %
+Video    3,149       3,488       (9.7)    %     6,401       7,068       (9.4)    %
+Voice    331       346       (4.5)    %     669       702       (4.7)    %
+Residential revenue    10,351       10,724       (3.5)    %     20,845       21,504       (3.1)    %
+Small business    1,104       1,096       0.7     %     2,194       2,184       0.4     %
+Mid-market & large business    761       740       2.8     %     1,510       1,474       2.4     %
+Commercial revenue    1,865       1,836       1.5     %     3,704       3,658       1.2     %
+Advertising sales    416       371       12.3     %     774       711       9.0     %
+Other    894       835       7.1     %     1,800       1,628       10.6     %
+$    13,526       $    13,766       (1.7)    %     $    27,123       $    27,501       (1.4)    %
+The decrease in Internet revenues from our residential customers is attributable to the following (dollars in millions):
+Three months ended
+June 30, 2026
+compared to
+three months ended
+June 30, 2025     Six months ended
+June 30, 2026
+compared to
+six months ended
+June 30, 2025
+Decrease in average residential Internet customers    $    (104)      $    (191)
+Decrease related to rate     (89)      (80)
+$    (193)      $    (271)
+Residential Internet customers decreased by 510,000 customers from June 30, 2025 to June 30, 2026.
+The increase in mobile service revenues from our residential customers is attributable to the following (dollars in millions):
+Three months ended
+June 30, 2026
+compared to
+three months ended
+June 30, 2025     Six months ended
+June 30, 2026
+compared to
+six months ended
+June 30, 2025
+Increase in average residential mobile lines    $    147       $    311
+Increase related to rate     27       1
+$    174       $    312
+Residential mobile lines increased by approximately 1.6 million mobile lines from June 30, 2025 to June 30, 2026.
+19
+Video revenues consist primarily of revenues from video services provided to our residential customers, as well as franchise fees, equipment service fees and video installation revenue.  The decrease in video revenues is attributable to the following (dollars in millions):
+Three months ended
+June 30, 2026
+compared to
+three months ended
+June 30, 2025     Six months ended
+June 30, 2026
+compared to
+six months ended
+June 30, 2025
+Increase in seamless entertainment allocation    $    (184)      $    (355)
+Decrease related to rate and product mix changes    (124)      (227)
+Decrease in average residential video customers    (31)      (85)
+$    (339)      $    (667)
+Seamless entertainment allocation represents costs allocated to programmer streaming applications and netted within video revenue.  The increase in seamless entertainment allocation is due to growth in seamless entertainment applications and higher activations. The decrease related to rate and product mix was primarily due to a higher mix of lower priced video packages within our video customer base and more unfavorable bundled revenue allocation, partly offset by promotional rate step-ups and video rate adjustments that pass-through programming rate increases.  Residential video customers decreased by 77,000 from June 30, 2025 to June 30, 2026.
+The decrease in voice revenues from our residential customers is attributable to the following (dollars in millions):
+Three months ended
+June 30, 2026
+compared to
+three months ended
+June 30, 2025     Six months ended
+June 30, 2026
+compared to
+six months ended
+June 30, 2025
+Decrease in average residential voice customers    $    (45)      $    (94)
+Increase related to rate adjustments    30       61
+$    (15)      $    (33)
+Residential wireline voice customers decreased by 667,000 customers from June 30, 2025 to June 30, 2026.
+The increase in small business revenues is attributable to the following (dollars in millions):
+Three months ended
+June 30, 2026
+compared to
+three months ended
+June 30, 2025     Six months ended
+June 30, 2026
+compared to
+six months ended
+June 30, 2025
+Increase related to rate and product mix changes    $    16       $    25
+Decrease in average small business customers    (8)      (15)
+$    8       $    10
+Small business customers decreased by 18,000 from June 30, 2025 to June 30, 2026.
+Mid-market & large business revenues increased $21 million and $36 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to an increase in Internet PSUs.  Mid-market & large business PSUs increased 14,000 from June 30, 2025 to June 30, 2026.
+Advertising sales revenues consist primarily of revenues from commercial advertising customers, programmers and other vendors, as well as local cable and advertising on regional sports and news channels.  Advertising sales revenues increased $45 million and $63 million during the three and six months ended June 30, 2026, respectively, as compared to the corresponding periods in 2025 primarily due to an increase in political and streaming advertising revenue, partly offset by a decrease in linear advertising revenue.
+20
+Other revenues consist of revenue from mobile and video device sales, processing fees, regional sports and news channels (excluding intercompany charges or advertising sales on those channels), subsidy revenue, home shopping, wire maintenance fees and other miscellaneous revenues.  Other revenues increased $59 million and $172 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to higher mobile device sales, partly offset by a one-time $45 million benefit in the prior year period.
+Operating costs and expenses  .    The decrease in our operating costs and expenses, exclusive of items shown separately in the consolidated statements of operations, are attributable to the following (dollars in millions):
+Three months ended
+June 30, 2026
+compared to
+three months ended
+June 30, 2025     Six months ended
+June 30, 2026
+compared to
+six months ended
+June 30, 2025
+Programming    $    (218)      $    (432)
+Other costs of revenue    186       367
+Field and technology operations    21       (3)
+Customer operations    8       2
+Marketing and residential sales    (31)      (61)
+Transition expenses    65       89
+Other    (46)      (8)
+$    (15)      $    (46)
+Programming costs were approximately $2.0 billion and $2.3 billion for the three months ended June 30, 2026 and 2025, representing 25% and 27% of total operating costs and expenses, respectively, and $4.1 billion and $4.6 billion for the six months ended June 30, 2026 and 2025, representing 25% and 28% of total operating costs and expenses, respectively.  Programming costs consist primarily of costs paid to programmers for basic, premium, video on demand, and pay-per-view programming. Programming costs decreased as a result of a $184 million and $355 million increase in costs allocated to seamless entertainment applications and netted within video revenue during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 as well as a higher mix of lower cost video packages within our video customer base and fewer video customers, partly offset by contractual rate adjustments, including renewals and increases in amounts paid for retransmission consent.
+Other costs of revenue increased $186 million and $367 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to higher mobile device sales and mobile service direct costs due to an increase in mobile lines as well as higher advertising sales costs given higher political revenue.
+Transition expenses represent incremental costs incurred to prepare for the integration of Cox Communications’ operations and to bring systems and processes into a uniform operating structure.
+Depreciation and amortization.      Depreciation and amortization expense increased $21 million and $51 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to an increase in depreciation as a result of more recent capital expenditures, partly offset by certain assets becoming fully depreciated.
+21
+Other operating expenses, net.    The change in other operating expenses, net is attributable to the following (dollars in millions):
+Three months ended
+June 30, 2026
+compared to
+three months ended
+June 30, 2025     Six months ended
+June 30, 2026
+compared to
+six months ended
+June 30, 2025
+Special charges, net    $    14       $    (19)
+Merger and acquisition costs    (35)      (21)
+Loss on disposal of assets, net    (9)      (98)
+$    (30)      $    (138)
+See Note 10 to the accompanying consolidated financial statements contained in “Item 1. Financial Statements” for more information.
+Interest expense, net.      Net interest expense increased by $13 million and $28 million for the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily due to an increase in weighted average debt.
+Other income (expenses), net.    The change in other income (expenses), net is attributable to the following (dollars in millions):
+Three months ended
+June 30, 2026
+compared to
+three months ended
+June 30, 2025     Six months ended
+June 30, 2026
+compared to
+six months ended
+June 30, 2025
+Loss on equity investments, net    $    59       $    61
+Gain (loss) on financial instruments, net (see Note 8)    17       37
+Gain on extinguishment of debt, net (see Note 4)    243       239
+$    319       $    337
+See Note 10 and the Notes referenced above to the accompanying consolidated financial statements contained in “Item 1. Financial Statements” for more information.
+Income tax expense.     We recognized income tax expense of $475 million and $940 million for the three and six months ended June 30, 2026, respectively, and $414 million and $859 million for the three and six months ended June 30, 2025, respectively.
+Net income attributable to noncontrolling interest.    Net income attributable to noncontrolling interest for financial reporting purposes represents Advance/Newhouse Partnership's (“A/N”) portion of Charter Holdings’ net income based on its effective common unit ownership interest.  For more information, see Note 7 to the accompanying consolidated financial statements contained in “Item 1. Financial Statements.”
+Net income attributable to Charter shareholders.   Net income attributable to Charter shareholders decreased $9 million and $63 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding periods in 2025 primarily as a result of the factors described above.
+Use of Adjusted EBITDA     and Free Cash Flow
+We use certain measures that are not defined by U.S. generally accepted accounting principles (“GAAP”) to evaluate various aspects of our business. Adjusted EBITDA and free cash flow are non-GAAP financial measures and should be considered in addition to, not as a substitute for, net income attributable to Charter shareholders and net cash flows from operating activities reported in accordance with GAAP. These terms, as defined by us, may not be comparable to similarly titled measures used by other companies. Adjusted EBITDA and free cash flow are reconciled to net income attributable to Charter shareholders and net cash flows from operating activities, respectively, below.
+22
+Adjusted EBITDA eliminates the significant non-cash depreciation and amortization expense that results from the capital-intensive nature of our businesses as well as other non-cash or special items, and is unaffected by our capital structure or investment activities. However, this measure is limited in that it does not reflect the periodic costs of certain capitalized tangible and intangible assets used in generating revenues and our cash cost of financing. These costs are evaluated through other financial measures.
+Free cash flow is defined as net cash flows from operating activities, less capital expenditures and changes in accrued expenses related to capital expenditures.
+Management and Charter’s board of directors use Adjusted EBITDA and free cash flow to assess our performance and our ability to service our debt, fund operations and make additional investments with internally generated funds. In addition, Adjusted EBITDA generally correlates to the leverage ratio calculation under our credit facilities or outstanding notes to determine compliance with the covenants contained in the facilities and notes (all such documents have been previously filed with the Securities and Exchange Commission (the “SEC”)). For the purpose of calculating compliance with leverage covenants, we use Adjusted EBITDA, as presented, excluding certain expenses paid by our operating subsidiaries to other Charter entities. Our debt covenants refer to these expenses as management fees which were $336 million and $702 million for the three and six months ended June 30, 2026, respectively, and $366 million and $732 million for the three and six months ended June 30, 2025, respectively.
+A reconciliation of Adjusted EBITDA and free cash flow to net income attributable to Charter shareholders and net cash flows from operating activities, respectively, is as follows (dollars in millions):
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Net income attributable to Charter shareholders    $    1,292       $    1,301       $    2,455       $    2,518
+Plus:  Net income attributable to noncontrolling interest    232       194       432       386
+Interest expense, net    1,276       1,263       2,532       2,504
+Income tax expense    475       414       940       859
+Depreciation and amortization    2,197       2,176       4,408       4,357
+Stock compensation expense    138       157       341       379
+Other, net    (161)      188       (22)      453
+Adjusted EBITDA    $    5,449       $    5,693       $    11,086       $    11,456
+Net cash flows from operating activities    $    3,925       $    3,600       $    8,229       $    7,836
+Less:  Purchases of property, plant and equipment    (2,871)      (2,874)      (5,726)      (5,273)
+Change in accrued expenses related to capital expenditures    (85)      320       (162)      47
+Free cash flow    $    969       $    1,046       $    2,341       $    2,610
+Liquidity and Capital Resources
+Overview
+We have significant amounts of debt and require significant cash to fund principal and interest payments on our debt. The principal amount of our debt as of June 30, 2026 was $93.8 billion, consisting of $12.5 billion of credit facility debt, $54.7 billion of investment grade senior secured notes and $26.7 billion of high-yield senior unsecured notes.  Our split credit rating allows us to access both the investment grade debt and the high yield debt markets.  Additionally, our bankruptcy remote special purpose vehicle is the borrower of a senior secured revolving credit facility to finance the purchase of equipment installment plan receivables with a number of financial institutions (the “EIP Financing Facility”).  As of June 30, 2026, the carrying value of the EIP Financing Facility was $1.6 billion.  For more information on the EIP Financing Facility, see Note 5 to the accompanying consolidated financial statements contained in “Item 1. Financial Statements.”
+Our projected cash needs and projected sources of liquidity depend upon, among other things, our actual results, and the timing and amount of our expenditures.  Free cash flow was $969 million and $2.3 billion for the three and six months ended June 30, 2026, respectively, and $1.0 billion and $2.6 billion for the three and six months ended June 30, 2025, respectively.  See the table below for factors impacting free cash flow during the three and six months ended June 30, 2026 compared to the
+23
+corresponding prior periods.  As of June 30, 2026, the amount available under our credit facilities was approximately $3.7 billion and cash on hand was approximately $509 million.  We expect to utilize free cash flow, cash on hand and availability under our credit facilities as well as future refinancing transactions to further extend the maturities of our obligations. The timing and terms of any refinancing transactions will be subject to market conditions among other considerations. Additionally, we may, from time to time, and depending on market conditions and other factors, use cash on hand and the proceeds from securities offerings or other borrowings to retire our debt through open market purchases, privately negotiated purchases, tender and exchange offers or redemption provisions. In the second quarter of 2026, we executed an open market repurchase program and retired $1.2 billion in aggregate principal amount of various series of notes during the three and six months ended June 30, 2026.  We are also required to fund approximately $4.2 billion of cash purchase price at the closing of the Cox Transactions.  We believe we have sufficient liquidity from cash on hand, free cash flow and Charter Operating’s revolving credit facility as well as access to the capital markets to fund our projected cash needs.
+We continue to evaluate the deployment of our cash on hand and anticipated future free cash flow, including investing in our business growth and other strategic opportunities, including expanding the capacity of our network, the expansion of our network through our rural broadband construction initiative, the build-out and deployment of our CBRS spectrum, and mergers and acquisitions as well as stock repurchases and dividends.  Charter's leverage ratio of net debt to the last twelve months Adjusted EBITDA was 4.18 times as of June 30, 2026.  Charter plans to maintain a leverage ratio, pro forma for the closing of the Liberty Broadband Corporation (“Liberty Broadband”) Combination near the midpoint of its stated range of 4.0 to 4.5 times Adjusted EBITDA in the period leading up to the Closing, and up to 3.5 times Adjusted EBITDA at the Charter Operating first lien level.  Charter plans to adjust its long-term target leverage after the Closing to 3.5 times Adjusted EBITDA.  We currently expect to decrease the total amount of our indebtedness to achieve Charter’s target leverage.
+Excluding purchases from Liberty Broadband discussed below, during the three and six months ended June 30, 2026, Charter purchased in the public market approximately 2.1 million and 5.5 million shares of Charter Class A common stock, respectively, for approximately $433 million and $1.2 billion, respectively, and during the three and six months ended June 30, 2025, Charter purchased in the public market approximately 3.0 million and 4.2 million shares of Charter Class A common stock, respectively, for approximately $1.1 billion and $1.6 billion, respectively.  Since the beginning of its buyback program in September 2016 through June 30, 2026, Charter has purchased approximately 188.0 million shares of Class A common stock and Charter Holdings common units for approximately $80.6 billion, including purchases from Liberty Broadband and A/N discussed below.
+On November 12, 2024, Charter, Liberty Broadband, Fusion Merger Sub 1, LLC, a wholly owned subsidiary of Charter, and Fusion Merger Sub 2, Inc., a wholly owned subsidiary of Fusion Merger Sub 1, LLC, entered into an Agreement and Plan of Merger (as it may be amended or supplemented from time to time, the “Merger Agreement”), pursuant to which, subject to the terms and conditions set forth therein, Charter will acquire Liberty Broadband through the merger of Fusion Merger Sub 2, Inc. with and into Liberty Broadband (the “Merger”), with Liberty Broadband surviving the Merger and becoming an indirect wholly owned subsidiary of Charter.  Immediately following the Merger, Liberty Broadband, as the surviving corporation of the Merger, will merge with and into Fusion Merger Sub 1, LLC (the “Upstream Merger” and together with the Merger, the “Liberty Broadband Combination”), with Fusion Merger Sub 1, LLC surviving the Upstream Merger as a wholly owned subsidiary of Charter.
+On November 12, 2024, Charter and Liberty Broadband also entered into Amendment No. 1 to the Second Amended and Restated Stockholders Agreement and the Letter Agreement (the “Stockholders and Letter Agreement Amendment”). The Stockholders and Letter Agreement Amendment sets forth, among other things, the terms of Liberty Broadband’s participation in Charter’s share repurchases during the period between the execution of the Merger Agreement and the effective time of the Merger.  Pursuant to the Stockholders and Letter Agreement Amendment, each month during the pendency of the proposed transaction, Charter will repurchase shares of Charter Class A common stock from Liberty Broadband in an amount equal to the greater of (i) $100 million and (ii) the Liberty Broadband minimum liquidity threshold as set forth in the Stockholders and Letter Agreement Amendment, provided that if any repurchase would reduce Liberty Broadband’s equity interest in Charter below 25.25% after giving effect to such repurchase or if all or a portion of such repurchase is not permitted under applicable law, then Charter shall instead loan to Liberty Broadband an amount equal to the lesser of (x) the repurchase amount that cannot be repurchased and (y) the Liberty Broadband minimum liquidity threshold as set forth in the Stockholders and Letter Agreement Amendment less the repurchase amount that is repurchased, with such loan on the terms set forth in the Stockholders and Letter Agreement Amendment.  From and after the date Liberty Broadband’s exchangeable debentures are no longer outstanding, the amount of monthly repurchases will be the lesser of (i) $100 million and (ii) an amount equal to the sum of (x) the amount needed, in the reasonable judgment of Charter, to maintain an unrestricted cash balance of Liberty Broadband and its subsidiaries (other than GCI Holdings, LLC, GCI Spinco (as defined in the Merger Agreement) and their respective subsidiaries) of $50 million plus (y) the aggregate outstanding principal amount of the Liberty Broadband margin loan.  The
+24
+purchase price payable by Charter to Liberty Broadband in connection with such monthly repurchases will equal (i) the average price paid by Charter for shares of Charter Class A common stock repurchased during the immediately preceding calendar month (excluding shares repurchased from A/N and certain other excluded repurchases) or (ii) if Charter has not engaged in any repurchases of shares of Charter Class A common stock during the immediately preceding calendar month (other than any repurchases from A/N and certain other excluded repurchases), a purchase price based on a Bloomberg volume-weighted average price methodology proposed by Charter and reasonably acceptable to Liberty Broadband. Liberty Broadband will apply the proceeds from any such repurchases or borrowings from Charter to repay certain of its outstanding indebtedness in accordance with the Stockholders and Letter Agreement Amendment. The Stockholders and Letter Agreement Amendment provides that Liberty Broadband will be exempt from the standstill restrictions and the ownership cap under the Second Amended and Restated Stockholders Agreement among Charter, Liberty Broadband and A/N, dated as of May 23, 2015 to the extent its ownership in Charter exceeds such ownership cap solely as a result of the repurchase provisions in the Stockholders and Letter Agreement Amendment. During the three and six months ended June 30, 2026, Charter purchased from Liberty Broadband 1.9 million and 2.8 million shares of Charter Class A common stock, respectively, for approximately $405 million and  $595 million, respectively, and during the three and six months ended June 30, 2025, Charter purchased from Liberty Broadband 0.8 million and 1.6 million shares of Charter Class A common stock, respectively, for approximately $300 million and $600 million, respectively.  Additionally, pursuant to the Merger Agreement and Stockholders and Letter Agreement Amendment, in May 2026, Charter advanced a term loan to Liberty Broadband in the aggregate principal amount of approximately $359 million.
+In December 2016, Charter and A/N entered into a letter agreement, as amended in December 2017 (the “Existing A/N Letter Agreement”), that requires A/N to sell to Charter or to Charter Holdings, on a monthly basis, a number of shares of Charter Class A common stock or Charter Holdings common units that represents a pro rata participation by A/N and its affiliates in any repurchases of shares of Charter Class A common stock from persons other than A/N effected by Charter during the immediately preceding calendar month, at a purchase price equal to the average price paid by Charter for the shares repurchased from persons other than A/N during such immediately preceding calendar month. In connection with the Cox Transactions, Charter, Charter Holdings and A/N entered into an amendment to the Existing A/N Repurchase Letter, dated as of May 16, 2025 (the “A/N Repurchase Letter Amendment”) which sets forth, among other things, the updated terms of A/N’s participation in Charter’s share repurchases going forward.  The right to participate pro rata in repurchases on the terms and conditions set forth in the A/N Repurchase Letter Amendment is effective only from the earlier of the Closing and, in the event the Transaction Agreement is terminated in accordance with its terms, the date of such termination (such earlier date, the “Trigger Date”). Prior to the Trigger Date, the Existing A/N Letter Agreement will remain in full force and continue to govern A/N’s participation in Charter’s share repurchases, except for certain specific amendments set forth in the A/N Repurchase Letter Amendment which became effective upon execution of the A/N Repurchase Letter Amendment, including, in certain circumstances, where A/N elects not to participate in redemptions by Charter Holdings because such participation would cause A/N’s equity interest in Charter to be less than 11% prior to the Trigger Date, A/N may, subject to certain conditions, elect to receive a tax loan from Charter Holdings on the terms set forth in the A/N Repurchase Letter Amendment and in definitive documents in form and substance reasonably satisfactory to Charter and A/N.  During the three and six months ended June 30, 2025, Charter Holdings purchased from A/N 0.6 million and 0.7 million Charter Holdings common units for approximately $232 million and $252 million, respectively.  Charter Holdings did not purchase any Charter Holdings common units from A/N during the three and six months ended June 30, 2026.
+On August 4, 2025, Charter received a notice from A/N pursuant to the Existing Letter Agreement, whereby A/N notified Charter that A/N was suspending the standing share repurchase agreement between A/N and Charter (the “Suspension”). The Suspension took effect immediately after the first repurchase closing date under the Existing Letter Agreement to occur following the date of the notice.  In the notice, A/N informed Charter that it intends for the Suspension to continue through the consummation of the closing of the Cox Transactions or the termination thereof, but reserved the right to end such Suspension before or after such time.
+As of June 30, 2026, Charter had remaining board authority to purchase an additional $365 million of Charter’s Class A common stock and/or Charter Holdings common units, excluding purchases from Liberty Broadband.  Although Charter expects to continue to buy back its common stock consistent with its leverage target range, Charter is not obligated to acquire any particular amount of common stock, and the timing of any purchases that may occur cannot be predicted and will largely depend on market conditions and other potential uses of capital.  Purchases may include open market purchases, tender offers or negotiated transactions.
+As possible acquisitions, swaps or dispositions arise, we actively review them against our objectives including, among other considerations, improving the operational efficiency, geographic clustering of assets, product development or technology capabilities of our business and achieving appropriate return targets, and we may participate to the extent we believe these
+25
+possibilities present attractive opportunities. However, there can be no assurance that we will actually complete any acquisitions, including the Cox Transactions or Liberty Broadband Combination, dispositions or system swaps, or that any such transactions will be material to our operations or results.
+Free Cash Flow
+Free cash flow decreased $77 million and $269 million during the three and six months ended June 30, 2026, respectively, compared to the corresponding prior periods in 2025 due to the following (dollars in millions):
+Three months ended
+June 30, 2026
+compared to
+three months ended
+June 30, 2025     Six months ended
+June 30, 2026
+compared to
+six months ended
+June 30, 2025
+Decrease in Adjusted EBITDA    $    (244)      $    (370)
+Decrease (increase) in capital expenditures    3       (453)
+Decrease in cash paid for taxes, net    554       536
+Decrease (increase) in cash paid for interest, net    8       (63)
+Changes in working capital, excluding mobile devices    (340)      69
+Changes in working capital, mobile devices    (79)      (28)
+Other, net    21       40
+$    (77)      $    (269)
+Limitations on Distributions
+Distributions by our subsidiaries to a parent company for payment of principal on parent company notes are restricted under CCO Holdings indentures governing CCO Holdings' indebtedness, unless there is no default under the applicable indenture, and unless CCO Holdings' leverage ratio test is met at the time of such distribution.  As of June 30, 2026, there was no default under any of these indentures, and CCO Holdings met its leverage ratio test based on June 30, 2026 financial results. There can be no assurance that CCO Holdings will satisfy its leverage ratio test at the time of the contemplated distribution.
+In addition to the limitation on distributions under the various indentures, distributions by our subsidiaries may be limited by applicable law, including the Delaware Limited Liability Company Act, under which our subsidiaries may only make distributions if they have “surplus” as defined in the act.
+Historical Operating, Investing, and Financing Activities
+Cash and Cash Equivalents.    We held $509 million and $477 million in cash and cash equivalents as of June 30, 2026 and December 31, 2025, respectively.  In addition, we held $90 million and $121 million in restricted cash included in prepaid and other current assets in our consolidated balance sheets as of June 30, 2026 and December 31, 2025, respectively.
+Operating Activities.      Net cash provided by operating activities increased $393 million during the six months ended June 30, 2026 compared to the six months ended June 30, 2025 primarily due to a decrease in cash paid for taxes and favorable changes in working capital, partly offset by lower Adjusted EBITDA.
+Investing Activities.      Net cash used in investing activities was $6.2 billion and $5.4 billion for the six months ended June 30, 2026 and 2025, respectively.  The increase in cash used was primarily due to an increase in capital expenditures and changes in accrued expenses related to capital expenditures.
+Financing Activities.      Net cash used in financing activities decreased $213 million during the six months ended June 30, 2026 compared to the six months ended June 30, 2025 primarily due to an increase in short-term borrowings under our deferred payment program and a decrease in the purchase of treasury stock and noncontrolling interest, partly offset by an increase in the amount by which repayments of long-term debt exceeded borrowings.
+26
+Capital Expenditures
+We have significant ongoing capital expenditure requirements.  Capital expenditures were $2.9 billion and $5.7 billion for the three and six months ended June 30, 2026, respectively, and $2.9 billion and $5.3 billion for the three and six months ended June 30, 2025, respectively.  The increase in capital expenditures during the six months ended June 30, 2026 compared to the corresponding period in 2025 was primarily driven by higher spend on network evolution and an increase in customer premise equipment, partly offset by a decrease in line extensions.  See the table below for more details.
+We currently expect full year 2026 capital expenditures, excluding impacts from the Cox Transactions, to total approximately $11.4 billion.  The actual amount of capital expenditures in 2026 will depend on a number of factors including, but not limited to, the pace of our network evolution and expansion initiatives, supply chain timing and residential and business growth rates.
+Our capital expenditures are funded primarily from cash flows from operating activities and borrowings on our credit facility.  In addition, our accrued expenses related to capital expenditures decreased by $162 million and increased by $47 million for the six months ended June 30, 2026 and 2025, respectively.
+The following tables present our major capital expenditures categories in accordance with National Cable and Telecommunications Association (“NCTA”) disclosure guidelines for the three and six months ended June 30, 2026 and 2025.  These disclosure guidelines are not required disclosures under GAAP, nor do they impact our accounting for capital expenditures under GAAP (dollars in millions):
+Three Months Ended June 30,     Six Months Ended June 30,
+2026     2025     2026     2025
+Customer premise equipment   (a)
+$    654       $    593       $    1,322       $    1,066
+Scalable infrastructure   (b)
+336       371       646       664
+Upgrade/rebuild   (c)
+657       457       1,332       852
+Support capital   (d)
+494       425       884       785
+Capital expenditures, excluding line extensions    2,141       1,846       4,184       3,367
+Subsidized rural construction line extensions    390       543       816       1,010
+Other line extensions    340       485       726       896
+Total line extensions   (e)
+730       1,028       1,542       1,906
+Total capital expenditures     $    2,871       $    2,874       $    5,726       $    5,273
+Of which:
+Commercial services    $    293       $    324       $    579       $    597
+Subsidized rural construction initiative   (f)
+$    391       $    545       $    818       $    1,013
+Mobile    $    70       $    59       $    129       $    112
+Transition   (g)
+$    34       $    —       $    37       $    —
+(a)  Customer premise equipment includes equipment and devices located at the customer's premise used to deliver our Internet, video and voice services (e.g., modems, routers and set-top boxes), as well as installation costs.
+(b)  Scalable infrastructure includes costs, not related to customer premise equipment or our network, to secure growth of new customers or provide service enhancements (e.g., headend equipment).
+(c)  Upgrade/rebuild includes costs to modify or replace existing fiber/coaxial cable networks, including our network evolution initiative.
+(d)  Support capital includes costs associated with the replacement or enhancement of non-network assets (e.g., back-office systems, non-network equipment, land and buildings, vehicles, tools and test equipment).
+(e)  Line extensions include network costs associated with entering new service areas (e.g., fiber/coaxial cable, amplifiers, electronic equipment, make-ready and design engineering).
+(f)  The subsidized rural construction initiative subcategory includes projects for which we are receiving subsidies from federal, state and local governments, excluding customer premise equipment and installation.
+(g)  Transition represents incremental capital costs incurred to prepare for the integration of Cox Communications’ operations and to bring systems and processes into a uniform operating structure.
+27
+Recently Issued Accounting Standards
+See Note 22 to the Annual Report on Form 10-K for the year ended December 31, 2025 for a discussion of recently issued accounting standards.  There have been no material changes from the recently issued accounting standards described in our Form 10-K.
+Item 3.           Quantitative and Qualitative Disclosures About Market Risk.
+There have been no material changes to the interest rate risk as previously disclosed in Part II, Item 7A of our Annual Report on Form 10-K for the year ended December 31, 2025.
+Item 4.           Controls and Procedures.
+As of the end of the period covered by this report, under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we have evaluated the effectiveness of our design and operation of disclosure controls and procedures with respect to the information generated for use in this quarterly report.  The evaluation was based upon reports and certifications provided by a number of executives.  Based on, and as of the date of that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that the disclosure controls and procedures were effective to provide reasonable assurances that information required to be disclosed in the reports we file or submit under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in the SEC’s rules and forms.
+In designing and evaluating the disclosure controls and procedures, our management recognized that any controls and procedures, no matter how well designed and operated, can provide only reasonable, not absolute, assurance of achieving the desired control objectives, and management necessarily was required to apply its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based upon the evaluation, we believe that our controls provide such reasonable assurances.
+During the quarter ended June 30, 2026, there was no change in our internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+28
+PART II. OTHER INFORMATION
+Item 1.           Legal Proceedings.
+See Note 20 to our Annual Report on Form 10-K for the year ended December 31, 2025 for a discussion of legal proceedings.  Within this section, we use a threshold of $1 million in disclosing environmental proceedings involving a governmental authority, if any.
+Item 1A.           Risk Factors.
+Our Annual Report on Form 10-K for the year ended December 31, 2025 includes "Risk Factors" under Item 1A of Part I.  There have been no material changes from the risk factors described in our Form 10-K.
+Item 2.           Unregistered Sales of Equity Securities and Use of Proceeds.
+Purchases of Equity Securities by the Issuer
+The following table presents Charter’s purchases of equity securities completed during the second quarter of 2026 (dollars in millions, except per share amounts):
+Period
+Total Number of Shares Purchased   (1)
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs   (2)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs   (2)
+April 1 - 30, 2026    4,005,612    $228.65    2,370,455    $419
+May 1 - 31, 2026    1,596,910    $195.62    1,594,775    $365
+June 1 - 30, 2026    40,405    $158.47    31,315    $365
+(1)  Includes 1,635,157, 2,135 and 9,090 shares withheld from employees for the payment of taxes and exercise costs upon the exercise of stock options or vesting of other equity awards for the months of April, May and June 2026, respectively.
+(2)  During the three months ended June 30, 2026, Charter purchased approximately 4.0 million shares of its Class A common stock for approximately $838 million.  As of June 30, 2026, Charter had remaining board authority to purchase an additional $365 million of Charter’s Class A common stock and/or Charter Holdings common units, excluding purchases from Liberty Broadband.  In addition to open market purchases including pursuant to Rule 10b5-1 plans adopted from time to time, Charter may also buy shares of Charter Class A common stock, from time to time, pursuant to private transactions outside of its Rule 10b5-1 plan and any such repurchases may also trigger the repurchases from A/N pursuant to and to the extent provided in the Existing A/N Letter Agreement or Liberty Broadband pursuant to the Stockholders and Letter Agreement Amendment.
+Item 6.           Exhibits.
+See Exhibit Index.
+29
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, Charter Communications, Inc. has duly caused this quarterly report to be signed on its behalf by the undersigned, thereunto duly authorized.
+CHARTER COMMUNICATIONS, INC.
+Registrant
+By:     /s/ Kevin D. Howard
+Kevin D. Howard
+Date: July 24, 2026      Executive Vice President, Chief Accounting Officer and Controller
+S-1
+Exhibit Index
+Exhibit     Description
+10.1
+Charter Communications, Inc. 2019 Stock Incentive Plan (incorporated by reference to Annex A to the definitive proxy statement for the Charter Communications, Inc. 2019 Annual Meeting of Stockholders filed on March 14, 2019).
+10.2
+Amendment to the Charter Communications, Inc. 2019 Stock Incentive Plan, dated as of January 28, 2020 (incorporated by reference to Exhibit 10.152 to the Annual Report on Form 10-K of Charter Communications, Inc. filed on January 31, 2020).
+10.3
+Second Amendment to the Charter Communications, Inc. 2019 Stock Incentive Plan, dated as of April 23, 2024 (incorporated by reference to Appendix B to the definitive proxy statement for the Charter Communications, Inc. 2024 Annual Meeting of Stockholders filed on March 14, 2024).
+10.4
+Third Amendment to Charter Communications, Inc. 2019 Stock Incentive Plan, dated as of April 21, 2026 (incorporated by reference to Appendix B to the Proxy Statement for the Charter Communications, Inc. 2026 Annual Meeting of Stockholders filed March 12, 2026).
+10.5
+Employment Agreement, dated as of May 15, 2026, between Charter Communications, Inc. and Jamal Haughton (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K filed by Charter Communications, Inc. on May 19, 2026).
+31.1*
+Certificate of Chief Executive Officer pursuant to Rule 13a-14(a)/Rule 15d-14(a) under the under the Securities Exchange Act of 1934.
+31.2*
+Certificate of Chief Financial Officer pursuant to Rule 13a-14(a)/Rule 15d-14(a) under the Securities Exchange Act of 1934.
+32.1*
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Chief Executive Officer).
+32.2*
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (Chief Financial Officer).
+101
+The following financial information from Charter Communications, Inc.’s Quarterly Report on Form 10-Q for the three and six months ended June 30, 2026, filed with the Securities and Exchange Commission on July 24, 2026, formatted in iXBRL (inline eXtensible Business Reporting Language) includes: (i) the Consolidated Balance Sheets; (ii) the Consolidated Statements of Operations; (iii) the Consolidated Statements of Changes in Shareholders' Equity; (iv) the Consolidated Statements of Cash Flows; and (vi) the Notes to the Consolidated Financial Statements.
+104     Cover Page, formatted in iXBRL and contained in Exhibit 101.
+*    Filed herewith
+E-1

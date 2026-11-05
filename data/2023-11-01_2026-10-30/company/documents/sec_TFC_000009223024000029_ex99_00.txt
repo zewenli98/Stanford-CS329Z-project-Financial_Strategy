@@ -1,0 +1,135 @@
+XML
+108
+R99.htm
+IDEA: XBRL DOCUMENT
+v3.24.1.1.u2
+Borrowings - Short-term Borrowings (Details) - USD ($)
+$ in Millions
+Dec. 31, 2023
+Dec. 31, 2022
+Short-term Debt [Line Items]
+Short-term Debt
+$ 24,828
+$ 23,422
+Securities Sold under Agreements to Repurchase
+Short-term Debt [Line Items]
+Short-term Debt
+2,427
+2,128
+FHLB Advances
+Short-term Debt [Line Items]
+Short-term Debt
+20,500
+18,900
+Securities sold short
+Short-term Debt [Line Items]
+Short-term Debt
+1,625
+1,551
+Other Short-term Borrowings
+Short-term Debt [Line Items]
+Short-term Debt
+$ 276
+$ 843
+X
+- Definition
+Reflects the total carrying amount as of the balance sheet date of debt having initial terms less than one year or the normal operating cycle, if longer.
++ References
+Reference 1: http://www.xbrl.org/2003/role/exampleRef
+-Topic 852
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 10
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147481372/852-10-55-10
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+-Topic 944
+-SubTopic 210
+-Name Accounting Standards Codification
+-Section S99
+-Paragraph 1
+-Subparagraph (SX 210.7-03(a)(16)(a)(1))
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147479440/944-210-S99-1
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+-Topic 942
+-SubTopic 210
+-Name Accounting Standards Codification
+-Section S99
+-Paragraph 1
+-Subparagraph (SX 210.9-03(13))
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147479853/942-210-S99-1
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+-Topic 210
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section S99
+-Paragraph 1
+-Subparagraph (SX 210.5-02(19)(a))
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147480566/210-10-S99-1
++ Details
+Name:
+us-gaap_ShortTermBorrowings
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- Definition
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
++ References
+No definition available.
++ Details
+Name:
+us-gaap_ShortTermDebtLineItems
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Details
+Name:
+us-gaap_ShortTermDebtTypeAxis=us-gaap_SecuritiesSoldUnderAgreementsToRepurchaseMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_ShortTermDebtTypeAxis=us-gaap_FederalHomeLoanBankAdvancesMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_ShortTermDebtTypeAxis=us-gaap_SecuritiesSoldNotYetPurchasedMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_ShortTermDebtTypeAxis=us-gaap_ShortTermDebtMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:

@@ -1,0 +1,1682 @@
+coin-20260930
+0001679788  FALSE  2026  Q3  12/31  http://fasb.org/us-gaap/2026#OtherAssetsNoncurrent  http://fasb.org/us-gaap/2026#OtherAssetsNoncurrent  http://fasb.org/us-gaap/2026#OtherLiabilitiesNoncurrent  http://fasb.org/us-gaap/2026#OtherLiabilitiesNoncurrent  http://fasb.org/us-gaap/2026#AccountsReceivableNetCurrent  http://fasb.org/us-gaap/2026#AccountsReceivableNetCurrent  http://fasb.org/us-gaap/2026#AccruedLiabilitiesCurrent  http://fasb.org/us-gaap/2026#AccruedLiabilitiesCurrent  340  182  361        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      coin:employee    xbrli:pure    coin:unit     0001679788    2026-01-01  2026-09-30      0001679788   us-gaap:CommonClassAMember     2026-10-22      0001679788   us-gaap:CommonClassBMember     2026-10-22      0001679788    2026-09-30      0001679788    2025-12-31      0001679788   us-gaap:CommonClassAMember     2026-09-30      0001679788   us-gaap:CommonClassAMember     2025-12-31      0001679788   us-gaap:CommonClassBMember     2025-12-31      0001679788   us-gaap:CommonClassBMember     2026-09-30      0001679788   coin:BankServicingAndSubscriptionAndCirculationMember     2026-07-01  2026-09-30      0001679788   coin:BankServicingAndSubscriptionAndCirculationMember     2025-07-01  2025-09-30      0001679788   coin:BankServicingAndSubscriptionAndCirculationMember     2026-01-01  2026-09-30      0001679788   coin:BankServicingAndSubscriptionAndCirculationMember     2025-01-01  2025-09-30      0001679788   coin:OtherRevenueMember     2026-07-01  2026-09-30      0001679788   coin:OtherRevenueMember     2025-07-01  2025-09-30      0001679788   coin:OtherRevenueMember     2026-01-01  2026-09-30      0001679788   coin:OtherRevenueMember     2025-01-01  2025-09-30      0001679788    2026-07-01  2026-09-30      0001679788    2025-07-01  2025-09-30      0001679788    2025-01-01  2025-09-30      0001679788   us-gaap:CommonStockMember     2026-06-30      0001679788   us-gaap:AdditionalPaidInCapitalMember     2026-06-30      0001679788   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-06-30      0001679788   us-gaap:RetainedEarningsMember     2026-06-30      0001679788    2026-06-30      0001679788   us-gaap:CommonStockMember     2026-07-01  2026-09-30      0001679788   us-gaap:AdditionalPaidInCapitalMember     2026-07-01  2026-09-30      0001679788   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-07-01  2026-09-30      0001679788   us-gaap:RetainedEarningsMember     2026-07-01  2026-09-30      0001679788   us-gaap:CommonStockMember     2026-09-30      0001679788   us-gaap:AdditionalPaidInCapitalMember     2026-09-30      0001679788   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-09-30      0001679788   us-gaap:RetainedEarningsMember     2026-09-30      0001679788   us-gaap:CommonStockMember     2025-06-30      0001679788   us-gaap:AdditionalPaidInCapitalMember     2025-06-30      0001679788   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-06-30      0001679788   us-gaap:RetainedEarningsMember     2025-06-30      0001679788    2025-06-30      0001679788   us-gaap:CommonStockMember     2025-07-01  2025-09-30      0001679788   us-gaap:AdditionalPaidInCapitalMember     2025-07-01  2025-09-30      0001679788   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-07-01  2025-09-30      0001679788   us-gaap:RetainedEarningsMember     2025-07-01  2025-09-30      0001679788   us-gaap:CommonStockMember     2025-09-30      0001679788   us-gaap:AdditionalPaidInCapitalMember     2025-09-30      0001679788   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-09-30      0001679788   us-gaap:RetainedEarningsMember     2025-09-30      0001679788    2025-09-30      0001679788   us-gaap:CommonStockMember     2025-12-31      0001679788   us-gaap:AdditionalPaidInCapitalMember     2025-12-31      0001679788   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-12-31      0001679788   us-gaap:RetainedEarningsMember     2025-12-31      0001679788   us-gaap:CommonStockMember     2026-01-01  2026-09-30      0001679788   us-gaap:AdditionalPaidInCapitalMember     2026-01-01  2026-09-30      0001679788   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-01  2026-09-30      0001679788   us-gaap:RetainedEarningsMember     2026-01-01  2026-09-30      0001679788   us-gaap:CommonStockMember     2024-12-31      0001679788   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0001679788   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0001679788   us-gaap:RetainedEarningsMember     2024-12-31      0001679788    2024-12-31      0001679788   us-gaap:CommonStockMember     2025-01-01  2025-09-30      0001679788   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-09-30      0001679788   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-09-30      0001679788   us-gaap:RetainedEarningsMember     2025-01-01  2025-09-30      0001679788   srt:RevisionOfPriorPeriodReclassificationAdjustmentMember     2025-07-01  2025-09-30      0001679788   srt:RevisionOfPriorPeriodReclassificationAdjustmentMember     2025-01-01  2025-09-30      0001679788   srt:ScenarioPreviouslyReportedMember     2025-01-01  2025-09-30      0001679788   srt:RevisionOfPriorPeriodChangeInAccountingPrincipleAdjustmentMember     2025-01-01  2025-09-30      0001679788   coin:CashHeldAtVenuesMember     2026-09-30      0001679788   coin:CashHeldAtVenuesMember     2025-12-31      0001679788    2026-04-01  2026-06-30      0001679788   coin:TerminationBenefitsStockBasedCompensationMember     2026-01-01  2026-09-30      0001679788   coin:SentilliaB.V.DeribitMember     2025-08-14  2025-08-14      0001679788   coin:SentilliaB.V.DeribitMember  coin:IndemnityHoldbackMember     2025-08-14      0001679788   coin:SentilliaB.V.DeribitMember     2025-08-14      0001679788   coin:SentilliaB.V.DeribitMember  us-gaap:CustomerRelationshipsMember     2025-08-14  2025-08-14      0001679788   coin:SentilliaB.V.DeribitMember  us-gaap:CustomerRelationshipsMember     2026-01-01  2026-09-30      0001679788   coin:SentilliaB.V.DeribitMember  us-gaap:DevelopedTechnologyRightsMember     2025-08-14  2025-08-14      0001679788   coin:SentilliaB.V.DeribitMember  us-gaap:DevelopedTechnologyRightsMember     2026-01-01  2026-09-30      0001679788   coin:SentilliaB.V.DeribitMember  us-gaap:TradeNamesMember     2025-08-14  2025-08-14      0001679788   coin:SentilliaB.V.DeribitMember  us-gaap:TradeNamesMember     2026-01-01  2026-09-30      0001679788   coin:SentilliaB.V.DeribitMember     2026-01-01  2026-09-30      0001679788   coin:GmEchoLtdMember     2025-10-08  2025-10-08      0001679788   coin:GmEchoLtdMember     2025-10-08      0001679788   coin:BankServicingConsumerNetMember     2026-07-01  2026-09-30      0001679788   coin:BankServicingConsumerNetMember     2025-07-01  2025-09-30      0001679788   coin:BankServicingConsumerNetMember     2026-01-01  2026-09-30      0001679788   coin:BankServicingConsumerNetMember     2025-01-01  2025-09-30      0001679788   coin:BankServicingInstitutionalMember     2026-07-01  2026-09-30      0001679788   coin:BankServicingInstitutionalMember     2025-07-01  2025-09-30      0001679788   coin:BankServicingInstitutionalMember     2026-01-01  2026-09-30      0001679788   coin:BankServicingInstitutionalMember     2025-01-01  2025-09-30      0001679788   coin:BankServicingOtherMember     2026-07-01  2026-09-30      0001679788   coin:BankServicingOtherMember     2025-07-01  2025-09-30      0001679788   coin:BankServicingOtherMember     2026-01-01  2026-09-30      0001679788   coin:BankServicingOtherMember     2025-01-01  2025-09-30      0001679788   us-gaap:BankServicingMember     2026-07-01  2026-09-30      0001679788   us-gaap:BankServicingMember     2025-07-01  2025-09-30      0001679788   us-gaap:BankServicingMember     2026-01-01  2026-09-30      0001679788   us-gaap:BankServicingMember     2025-01-01  2025-09-30      0001679788   coin:SubscriptionAndCirculationStablecoinMember     2026-07-01  2026-09-30      0001679788   coin:SubscriptionAndCirculationStablecoinMember     2025-07-01  2025-09-30      0001679788   coin:SubscriptionAndCirculationStablecoinMember     2026-01-01  2026-09-30      0001679788   coin:SubscriptionAndCirculationStablecoinMember     2025-01-01  2025-09-30      0001679788   coin:SubscriptionAndCirculationBlockchainInfrastructureServiceMember     2026-07-01  2026-09-30      0001679788   coin:SubscriptionAndCirculationBlockchainInfrastructureServiceMember     2025-07-01  2025-09-30      0001679788   coin:SubscriptionAndCirculationBlockchainInfrastructureServiceMember     2026-01-01  2026-09-30      0001679788   coin:SubscriptionAndCirculationBlockchainInfrastructureServiceMember     2025-01-01  2025-09-30      0001679788   coin:SubscriptionAndCirculationOtherMember     2026-07-01  2026-09-30      0001679788   coin:SubscriptionAndCirculationOtherMember     2025-07-01  2025-09-30      0001679788   coin:SubscriptionAndCirculationOtherMember     2026-01-01  2026-09-30      0001679788   coin:SubscriptionAndCirculationOtherMember     2025-01-01  2025-09-30      0001679788   us-gaap:SubscriptionAndCirculationMember     2026-07-01  2026-09-30      0001679788   us-gaap:SubscriptionAndCirculationMember     2025-07-01  2025-09-30      0001679788   us-gaap:SubscriptionAndCirculationMember     2026-01-01  2026-09-30      0001679788   us-gaap:SubscriptionAndCirculationMember     2025-01-01  2025-09-30      0001679788   coin:CorporateInterestAndOtherIncomeMember     2026-07-01  2026-09-30      0001679788   coin:CorporateInterestAndOtherIncomeMember     2025-07-01  2025-09-30      0001679788   coin:CorporateInterestAndOtherIncomeMember     2026-01-01  2026-09-30      0001679788   coin:CorporateInterestAndOtherIncomeMember     2025-01-01  2025-09-30      0001679788   us-gaap:CustomerConcentrationRiskMember  coin:OneCustomerMember  us-gaap:RevenueFromContractWithCustomerMember     2026-07-01  2026-09-30      0001679788   us-gaap:CustomerConcentrationRiskMember  coin:OneCustomerMember  us-gaap:RevenueFromContractWithCustomerMember     2025-07-01  2025-09-30      0001679788   us-gaap:CustomerConcentrationRiskMember  coin:OneCustomerMember  us-gaap:RevenueFromContractWithCustomerMember     2026-01-01  2026-09-30      0001679788   us-gaap:CustomerConcentrationRiskMember  coin:OneCustomerMember  us-gaap:RevenueFromContractWithCustomerMember     2025-01-01  2025-09-30      0001679788   country:US     2026-07-01  2026-09-30      0001679788   country:US     2025-07-01  2025-09-30      0001679788   country:US     2026-01-01  2026-09-30      0001679788   country:US     2025-01-01  2025-09-30      0001679788   us-gaap:NonUsMember     2026-07-01  2026-09-30      0001679788   us-gaap:NonUsMember     2025-07-01  2025-09-30      0001679788   us-gaap:NonUsMember     2026-01-01  2026-09-30      0001679788   us-gaap:NonUsMember     2025-01-01  2025-09-30      0001679788   us-gaap:CustomerConcentrationRiskMember  coin:FourCustomersMember  us-gaap:FinanceReceivablesMember     2025-01-01  2025-12-31      0001679788   us-gaap:CustomerConcentrationRiskMember  coin:ThreeCustomersMember  us-gaap:FinanceReceivablesMember     2026-01-01  2026-09-30      0001679788   srt:MinimumMember     2025-12-31      0001679788   srt:MinimumMember     2026-09-30      0001679788   srt:MaximumMember     2025-12-31      0001679788   srt:MaximumMember     2026-09-30      0001679788   coin:FiatAndPaymentStablecoinsMember     2026-09-30      0001679788   coin:FiatAndPaymentStablecoinsMember     2025-12-31      0001679788   coin:CryptoAssetsMember  coin:BitcoinMember     2026-09-30      0001679788   coin:CryptoAssetsMember  coin:BitcoinMember     2025-12-31      0001679788   coin:CryptoAssetsMember  coin:EthereumMember     2026-09-30      0001679788   coin:CryptoAssetsMember  coin:EthereumMember     2025-12-31      0001679788   coin:CryptoAssetsMember  srt:CryptoAssetOtherMember     2026-09-30      0001679788   coin:CryptoAssetsMember  srt:CryptoAssetOtherMember     2025-12-31      0001679788   coin:CryptoAssetsMember     2026-09-30      0001679788   coin:CryptoAssetsMember     2025-12-31      0001679788   coin:FiatAndPaymentStablecoinsMember  us-gaap:AssetPledgedAsCollateralWithoutRightMember     2026-09-30      0001679788   coin:FiatAndPaymentStablecoinsMember  us-gaap:AssetPledgedAsCollateralWithoutRightMember     2025-12-31      0001679788   coin:CryptoAssetsMember  us-gaap:AssetPledgedAsCollateralWithoutRightMember     2026-09-30      0001679788   coin:CryptoAssetsMember  us-gaap:AssetPledgedAsCollateralWithoutRightMember     2025-12-31      0001679788   us-gaap:AssetPledgedAsCollateralWithoutRightMember     2026-09-30      0001679788   us-gaap:AssetPledgedAsCollateralWithoutRightMember     2025-12-31      0001679788   coin:BitcoinMember     2026-09-30      0001679788   coin:BitcoinMember     2025-12-31      0001679788   coin:EthereumMember     2026-09-30      0001679788   coin:EthereumMember     2025-12-31      0001679788   srt:CryptoAssetOtherMember     2026-09-30      0001679788   srt:CryptoAssetOtherMember     2025-12-31      0001679788   coin:CryptoAssetHoldingsMember  coin:PaymentStablecoinsMember     2026-09-30      0001679788   coin:CryptoAssetHoldingsMember  coin:PaymentStablecoinsMember     2025-12-31      0001679788   coin:CryptoAssetHoldingsMember  coin:BitcoinMember     2026-09-30      0001679788   coin:CryptoAssetHoldingsMember  coin:BitcoinMember     2025-12-31      0001679788   coin:CryptoAssetHoldingsMember  coin:EthereumMember     2026-09-30      0001679788   coin:CryptoAssetHoldingsMember  coin:EthereumMember     2025-12-31      0001679788   coin:CryptoAssetHoldingsMember  srt:CryptoAssetOtherMember     2026-09-30      0001679788   coin:CryptoAssetHoldingsMember  srt:CryptoAssetOtherMember     2025-12-31      0001679788   coin:CryptoAssetHoldingsMember     2026-09-30      0001679788   coin:CryptoAssetHoldingsMember     2025-12-31      0001679788    2025-01-01  2025-12-31      0001679788   coin:PaymentStablecoinsMember  us-gaap:AssetPledgedAsCollateralWithoutRightMember     2026-09-30      0001679788   coin:PaymentStablecoinsMember  us-gaap:AssetPledgedAsCollateralWithoutRightMember     2025-12-31      0001679788   srt:CryptoAssetOtherMember  us-gaap:AssetPledgedAsCollateralWithoutRightMember     2026-09-30      0001679788   srt:CryptoAssetOtherMember  us-gaap:AssetPledgedAsCollateralWithoutRightMember     2025-12-31      0001679788   coin:SolanaMember     2026-09-30      0001679788   coin:SolanaMember     2025-12-31      0001679788   us-gaap:CustomerConcentrationRiskMember  coin:OneCustomerMember  us-gaap:AccountsReceivableMember     2026-01-01  2026-09-30      0001679788   us-gaap:CustomerConcentrationRiskMember  coin:TwoCustomersMember  us-gaap:AccountsReceivableMember     2025-01-01  2025-12-31      0001679788    us-gaap:ResearchAndDevelopmentExpense      2026-07-01  2026-09-30      0001679788    us-gaap:ResearchAndDevelopmentExpense      2025-07-01  2025-09-30      0001679788    us-gaap:ResearchAndDevelopmentExpense      2026-01-01  2026-09-30      0001679788    us-gaap:ResearchAndDevelopmentExpense      2025-01-01  2025-09-30      0001679788    us-gaap:SellingAndMarketingExpense      2026-07-01  2026-09-30      0001679788    us-gaap:SellingAndMarketingExpense      2025-07-01  2025-09-30      0001679788    us-gaap:SellingAndMarketingExpense      2026-01-01  2026-09-30      0001679788    us-gaap:SellingAndMarketingExpense      2025-01-01  2025-09-30      0001679788    us-gaap:GeneralAndAdministrativeExpense      2026-07-01  2026-09-30      0001679788    us-gaap:GeneralAndAdministrativeExpense      2025-07-01  2025-09-30      0001679788    us-gaap:GeneralAndAdministrativeExpense      2026-01-01  2026-09-30      0001679788    us-gaap:GeneralAndAdministrativeExpense      2025-01-01  2025-09-30      0001679788   us-gaap:ConvertibleDebtMember  coin:ConvertibleSeniorNotesDue2026Member     2026-09-30      0001679788   us-gaap:NondesignatedMember   us-gaap:AccountsReceivableNetCurrent      2026-09-30      0001679788   us-gaap:NondesignatedMember   us-gaap:OtherAssetsCurrent      2026-09-30      0001679788   us-gaap:NondesignatedMember   us-gaap:ShortTermBorrowings      2026-09-30      0001679788   us-gaap:NondesignatedMember   coin:ObligationToReturnCollateral      2026-09-30      0001679788   us-gaap:NondesignatedMember   us-gaap:AccruedLiabilitiesCurrent      2026-09-30      0001679788   us-gaap:NondesignatedMember     2026-09-30      0001679788   us-gaap:NondesignatedMember   us-gaap:AccountsReceivableNetCurrent      2025-12-31      0001679788   us-gaap:NondesignatedMember   us-gaap:ShortTermBorrowings      2025-12-31      0001679788   us-gaap:NondesignatedMember   coin:ObligationToReturnCollateral      2025-12-31      0001679788   us-gaap:NondesignatedMember   us-gaap:AccruedLiabilitiesCurrent      2025-12-31      0001679788   us-gaap:NondesignatedMember     2025-12-31      0001679788   us-gaap:NondesignatedMember   us-gaap:OtherAssetsCurrent   coin:CryptoAssetOptionContractsMember     2026-09-30      0001679788   us-gaap:NondesignatedMember   us-gaap:AccruedLiabilitiesCurrent   coin:CryptoAssetOptionContractsMember     2026-09-30      0001679788   us-gaap:NondesignatedMember  coin:CryptoAssetOptionContractsMember     2026-09-30      0001679788   coin:EmbeddedDerivativeFinancialInstrumentsCryptoAssetBorrowingsMember     2026-07-01  2026-09-30      0001679788   coin:EmbeddedDerivativeFinancialInstrumentsCryptoAssetBorrowingsMember     2025-07-01  2025-09-30      0001679788   coin:EmbeddedDerivativeFinancialInstrumentsCryptoAssetBorrowingsMember     2026-01-01  2026-09-30      0001679788   coin:EmbeddedDerivativeFinancialInstrumentsCryptoAssetBorrowingsMember     2025-01-01  2025-09-30      0001679788   coin:ObligationToReturnCollateralDenominatedInCryptoAssetsMember     2026-07-01  2026-09-30      0001679788   coin:ObligationToReturnCollateralDenominatedInCryptoAssetsMember     2025-07-01  2025-09-30      0001679788   coin:ObligationToReturnCollateralDenominatedInCryptoAssetsMember     2026-01-01  2026-09-30      0001679788   coin:ObligationToReturnCollateralDenominatedInCryptoAssetsMember     2025-01-01  2025-09-30      0001679788   us-gaap:OtherContractMember     2026-07-01  2026-09-30      0001679788   us-gaap:OtherContractMember     2025-07-01  2025-09-30      0001679788   us-gaap:OtherContractMember     2026-01-01  2026-09-30      0001679788   us-gaap:OtherContractMember     2025-01-01  2025-09-30      0001679788   us-gaap:FairValueInputsLevel1Member     2026-09-30      0001679788   us-gaap:FairValueInputsLevel2Member     2026-09-30      0001679788   us-gaap:FairValueInputsLevel1Member     2025-12-31      0001679788   us-gaap:FairValueInputsLevel2Member     2025-12-31      0001679788   coin:DepositsHeldAtBanksMember     2026-09-30      0001679788   coin:DepositsHeldAtBanksMember     2025-12-31      0001679788    2024-10-30      0001679788    2025-10-31      0001679788    2026-01-31      0001679788    2026-01-01  2026-03-31      0001679788   us-gaap:RestrictedStockUnitsRSUMember     2025-12-31      0001679788   coin:PerformanceRestrictedStockUnitsPRSUsMember     2025-12-31      0001679788   us-gaap:RestrictedStockUnitsRSUMember     2026-01-01  2026-09-30      0001679788   coin:PerformanceRestrictedStockUnitsPRSUsMember     2026-01-01  2026-09-30      0001679788   us-gaap:RestrictedStockUnitsRSUMember     2026-09-30      0001679788   coin:PerformanceRestrictedStockUnitsPRSUsMember     2026-09-30      0001679788   us-gaap:RestrictedStockMember     2026-09-30      0001679788   us-gaap:RestrictedStockMember     2026-01-01  2026-09-30      0001679788    us-gaap:ResearchAndDevelopmentExpense      2026-07-01  2026-09-30      0001679788    us-gaap:ResearchAndDevelopmentExpense      2025-07-01  2025-09-30      0001679788    us-gaap:ResearchAndDevelopmentExpense      2026-01-01  2026-09-30      0001679788    us-gaap:ResearchAndDevelopmentExpense      2025-01-01  2025-09-30      0001679788    us-gaap:SellingAndMarketingExpense      2026-07-01  2026-09-30      0001679788    us-gaap:SellingAndMarketingExpense      2025-07-01  2025-09-30      0001679788    us-gaap:SellingAndMarketingExpense      2026-01-01  2026-09-30      0001679788    us-gaap:SellingAndMarketingExpense      2025-01-01  2025-09-30      0001679788    us-gaap:GeneralAndAdministrativeExpense      2026-07-01  2026-09-30      0001679788    us-gaap:GeneralAndAdministrativeExpense      2025-07-01  2025-09-30      0001679788    us-gaap:GeneralAndAdministrativeExpense      2026-01-01  2026-09-30      0001679788    us-gaap:GeneralAndAdministrativeExpense      2025-01-01  2025-09-30      0001679788   us-gaap:EmployeeStockOptionMember     2026-07-01  2026-09-30      0001679788   us-gaap:EmployeeStockOptionMember     2025-07-01  2025-09-30      0001679788   us-gaap:EmployeeStockOptionMember     2026-01-01  2026-09-30      0001679788   us-gaap:EmployeeStockOptionMember     2025-01-01  2025-09-30      0001679788   us-gaap:RestrictedStockUnitsRSUMember     2026-07-01  2026-09-30      0001679788   us-gaap:RestrictedStockUnitsRSUMember     2025-07-01  2025-09-30      0001679788   us-gaap:RestrictedStockUnitsRSUMember     2025-01-01  2025-09-30      0001679788   coin:PerformanceRestrictedStockUnitsPRSUsMember     2026-07-01  2026-09-30      0001679788   coin:PerformanceRestrictedStockUnitsPRSUsMember     2025-07-01  2025-09-30      0001679788   coin:PerformanceRestrictedStockUnitsPRSUsMember     2025-01-01  2025-09-30      0001679788   us-gaap:RestrictedStockMember     2026-07-01  2026-09-30      0001679788   us-gaap:RestrictedStockMember     2025-07-01  2025-09-30      0001679788   us-gaap:RestrictedStockMember     2025-01-01  2025-09-30      0001679788   us-gaap:StockCompensationPlanMember     2026-07-01  2026-09-30      0001679788   us-gaap:StockCompensationPlanMember     2025-07-01  2025-09-30      0001679788   us-gaap:StockCompensationPlanMember     2026-01-01  2026-09-30      0001679788   us-gaap:StockCompensationPlanMember     2025-01-01  2025-09-30      0001679788   us-gaap:ConvertibleDebtMember     2026-07-01  2026-09-30      0001679788   us-gaap:ConvertibleDebtMember     2025-07-01  2025-09-30      0001679788   us-gaap:ConvertibleDebtMember     2026-01-01  2026-09-30      0001679788   us-gaap:ConvertibleDebtMember     2025-01-01  2025-09-30      0001679788   us-gaap:RelatedPartyMember     2026-07-01  2026-09-30      0001679788   us-gaap:RelatedPartyMember     2025-07-01  2025-09-30      0001679788   us-gaap:RelatedPartyMember     2026-01-01  2026-09-30      0001679788   us-gaap:RelatedPartyMember     2025-01-01  2025-09-30      0001679788   us-gaap:RelatedPartyMember     2026-09-30      0001679788   us-gaap:RelatedPartyMember     2025-12-31      0001679788   coin:StrategicInvestmentsInEquitySecuritiesFVNIAndWithoutReadilyDeterminableFairValueMember  us-gaap:RelatedPartyMember     2026-07-01  2026-09-30      0001679788   coin:StrategicInvestmentsInEquitySecuritiesFVNIAndWithoutReadilyDeterminableFairValueMember  us-gaap:RelatedPartyMember     2026-01-01  2026-09-30      0001679788   coin:StrategicInvestmentsInEquitySecuritiesFVNIAndWithoutReadilyDeterminableFairValueMember  us-gaap:RelatedPartyMember     2025-07-01  2025-09-30      0001679788   coin:StrategicInvestmentsInEquitySecuritiesFVNIAndWithoutReadilyDeterminableFairValueMember  us-gaap:RelatedPartyMember     2025-01-01  2025-09-30      0001679788   coin:BrianArmstrongMember     2026-07-01  2026-09-30      0001679788   coin:BrianArmstrongMember     2026-09-30      0001679788   coin:FrederickErnestEhrsamIIIMember     2026-07-01  2026-09-30      0001679788   coin:FrederickErnestEhrsamIIIMember     2026-09-30      0001679788   coin:EmilieChoiMember     2026-07-01  2026-09-30      0001679788   coin:EmilieChoiMember     2026-09-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  September 30, 2026
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from      to     .
+Commission file number  001-40289
+Coinbase Global, Inc.
+(Exact name of registrant as specified in its charter)
+Texas
+46-4707224
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+One Madison Avenue
+Suite 2400
+New York ,  NY
+10010
+(Address of Principal Executive Offices)  1
+(Zip Code)  1
+Not Applicable
+Registrant's telephone number, including area code  1
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A common stock, $0.00001 par value per share
+COIN
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports); and (2) has been subject to such filing requirements for the past 90 days.     Yes     ☒     No     ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).      Yes     ☒     No     ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes     ☐       No      ☒
+As of October 22, 2026, the number of shares of the registrant's Class A common stock outstanding was  223,729,527  and the number of shares of the registrant's Class B common stock outstanding was  41,033,891 .
+1   We are a remote-first company. Accordingly, we do not maintain a headquarters. We are including this address solely for the purpose of satisfying the Securities and Exchange Commission’s request. Shareholder communications may also be sent to the email address: secretary@coinbase.com.
+Table of Contents
+TABLE OF CONTENTS
+Page
+Part I - Financial Information
+4
+Item 1. Financial Statements (Unaudited)
+4
+Condensed Consolidated Balance Sheets
+4
+Condensed Consolidated Statements of Operations
+5
+Condensed Consolidated Statements of Comprehensive Income (Loss)
+6
+Condensed Consolidated Statements of Changes in Shareholders' Equity
+7
+Condensed Consolidated Statements of Cash Flows
+9
+Notes to Condensed Consolidated Financial Statements
+10
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+32
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+45
+Item 4. Controls and Procedures
+46
+Part II - Other Information
+46
+Item 1. Legal Proceedings
+46
+Item 1A. Risk Factors
+47
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+47
+Item 3. Defaults Upon Senior Securities
+48
+Item 4. Mine Safety Disclosures
+48
+Item 5. Other Information
+48
+Item 6. Exhibits
+50
+Signatures
+51
+1
+Table of Contents
+SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS
+This Quarterly Report on Form 10-Q contains forward-looking statements. All statements contained in this Quarterly Report on Form 10-Q other than statements of historical fact, including statements regarding our future operating results and financial position, our business strategy and plans, market growth, and our objectives for future operations, are forward-looking statements. In some cases, forward-looking statements may be identified by words such as “believe,” “may,” “will,” “estimate,” “potential,” “continue,” “anticipate,” “intend,” “expect,” “could,” “would,” “project,” “plan,” “target,” or the negative of these terms or other similar expressions.
+Forward-looking statements contained in this Quarterly Report on Form 10-Q include, but are not limited to, statements about:
+•  our future financial performance, including our expectations regarding our net revenue, operating expenses, and our ability to achieve and maintain future profitability;
+•  our business plan and our ability to effectively manage any growth;
+•  anticipated trends, growth rates, and challenges in our business, the onchain economy, the price, and market capitalization of crypto assets and in the markets in which we operate;
+•  market acceptance of our products and services;
+•  our ability to continue to diversify and grow our subscription and services revenue, including our stablecoin revenue, and the impact of interest rate changes on such revenue;
+•  the growth and regulatory treatment of our derivatives trading and prediction markets offerings;
+•  beliefs and objectives for future operations;
+•  our ability to maintain, expand, and further penetrate our existing customer base;
+•  our ability to develop new products and services and grow our business in response to changing technologies, customer demand, and competitive pressures;
+•  our expectations concerning relationships with third parties;
+•  our ability to maintain, protect, and enhance our intellectual property;
+•  our ability to continue to expand internationally;
+•  the effects of increased competition in our markets and our ability to compete effectively;
+•  future acquisitions of or investments in complementary companies, products, services, or technologies and our ability to successfully integrate such companies or assets;
+•  our ability to stay in compliance with laws and regulations that currently apply or become applicable to our business both in the United States and internationally given the highly evolving and uncertain regulatory landscape;
+•  general macroeconomic conditions, including interest rates, inflation, changes in tariffs and trade restrictions, instability in the global banking system, economic downturns, and other global events, including regional wars and conflicts and government shutdowns;
+•  economic and industry trends, projected growth, or trend analysis;
+•  trends in revenue;
+•  trends in operating expenses, including technology and development expenses, sales and marketing expenses, and general and administrative expenses, as well as certain variable expenses, and expectations regarding these expenses as a percentage of revenue;
+•  our key metrics used to evaluate our business, measure our performance, identify trends affecting our business, and make strategic decisions;
+•  the expected benefits and impacts of our acquisition of Sentillia B.V.;
+•  our plans with respect to the Repurchase Program; and
+2
+Table of Contents
+•  other statements regarding our future operations, financial condition, and prospects and business strategies.
+We caution you that the foregoing list may not contain all of the forward-looking statements made in this Quarterly Report on Form 10-Q.
+You should not rely upon forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Quarterly Report on Form 10-Q on our current expectations and projections about future events and trends that we believe may affect our business, financial condition, results of operations, and prospects. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, and other factors, including those described in the section titled “  Risk Factors  ” in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2025 filed with the Securities and Exchange Commission on February 12, 2026, together with any updates in the sections titled “  Management’s Discussion and Analysis of Financial Condition and Results of Operations  ” in Part I, Item 2 and “  Risk Factors  ” in Part II, Item 1A in this Quarterly Report on Form 10-Q. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time and it is not possible for us to predict all risks and uncertainties that could have an impact on any forward-looking statements contained in this Quarterly Report on Form 10-Q. We cannot assure you that the results, events, and circumstances reflected in the forward-looking statements will be achieved or occur, and actual results, events, or circumstances could differ materially from those described in such forward-looking statements.
+Neither we nor any other person assume responsibility for the accuracy and completeness of any of these forward-looking statements. Moreover, the forward-looking statements made in this Quarterly Report on Form 10-Q relate only to events as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Quarterly Report on Form 10-Q to reflect events or circumstances after the date of this Quarterly Report on Form 10-Q or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, restructurings, joint ventures, partnerships, or investments we may make.
+In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Quarterly Report on Form 10-Q, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely upon these statements.
+3
+Table of Contents
+PART I. FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+Coinbase Global, Inc.
+Condensed Consolidated Balance Sheets
+(In thousands, except per share data)
+(Unaudited)
+September 30,     December 31,
+2026     2025
+Assets
+Current assets:
+Cash and cash equivalents    $     8,603,791        $     11,285,452
+Restricted cash and cash equivalents     89,158         334,318
+Customer custodial funds     4,462,310         5,347,428
+Crypto assets held for operations     53,059         120,831
+Loan receivables     1,976,137         1,354,692
+Crypto assets held as collateral     1,299,500         822,827
+Crypto assets borrowed     389,657         318,849
+Accounts receivable, net     270,175         307,119
+Marketable investments     217,092         309,765
+Other current assets     281,454         187,164
+Total current assets     17,642,333         20,388,445
+Crypto assets held for investment     2,224,811         1,998,871
+Strategic investments     872,281         622,985
+Deferred tax assets     584,202         570,819
+Goodwill     4,130,149         4,168,967
+Intangible assets, net     1,283,990         1,397,794
+Other non-current assets     647,548         523,951
+Total assets    $     27,385,314        $     29,671,832
+Liabilities and Shareholders’ Equity
+Current liabilities:
+Customer custodial fund liabilities    $     4,462,310        $     5,347,428
+Current portion of long-term debt     —         1,269,585
+Short-term borrowings     748,778         452,105
+Obligation to return collateral     1,311,240         826,883
+Accrued expenses and other current liabilities     754,243         805,281
+Total current liabilities     7,276,571         8,701,282
+Long-term debt     5,947,844         5,937,034
+Other non-current liabilities     220,718         240,458
+Total liabilities     13,445,133         14,878,774
+Commitments and contingencies (Note 20)
+Shareholders’ equity:
+Preferred stock, $  0.00001   par value;   500,000   shares authorized and     zero     shares issued and outstanding at each of September 30, 2026 and December 31, 2025
+—         —
+Class A and B common stock, $  0.00001   par value;   10,500,000   (Class A   10,000,000  , Class B   500,000  ) shares authorized at September 30, 2026 and December 31, 2025;   264,756   (Class A   223,722  , Class B   41,034  ) shares issued and outstanding at September 30, 2026 and   267,836   (Class A   226,797  , Class B   41,039  ) shares issued and outstanding at December 31, 2025
+3         3
+Additional paid-in capital     7,867,670         8,566,854
+Accumulated other comprehensive (loss) income    ( 113,832 )       4,973
+Retained earnings     6,186,340         6,221,228
+Total shareholders’ equity     13,940,181         14,793,058
+Total liabilities and shareholders’ equity    $     27,385,314        $     29,671,832
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+4
+Table of Contents
+Coinbase Global, Inc.
+Condensed Consolidated Statements of Operations
+(In thousands, except per share data)
+(Unaudited)
+Three Months Ended September 30,    Nine Months Ended September 30,
+2026     2025     2026     2025
+Revenue:
+Net revenue    $     1,160,462        $     1,762,857        $     3,654,111        $     5,096,191
+Other revenue     55,120         105,836         194,521         304,005
+Total revenue     1,215,582         1,868,693         3,848,632         5,400,196
+Operating expenses:
+Transaction expense     194,464         253,318         580,113         801,605
+Technology and development     447,377         430,585         1,445,873         1,173,275
+Sales and marketing     242,573         260,272         749,142         743,800
+General and administrative     318,878         418,446         1,051,896         1,166,499
+(Gains) losses on crypto assets held for operations, net    ( 26,106 )      ( 35,740 )       40,764        ( 10,077 )
+Restructuring    ( 4,619 )       —         47,789         —
+Other operating (income) expense, net    ( 18,654 )       61,280         6,295         363,406
+Total operating expenses     1,153,913         1,388,161         3,921,872         4,238,508
+Operating income (loss)     61,669         480,532        ( 73,240 )       1,161,688
+Interest expense     19,523         21,774         64,608         62,820
+Gains on crypto assets held for investment, net    ( 715,022 )      ( 423,903 )      ( 23,167 )      ( 189,305 )
+Other (income) expense, net    ( 66,735 )       380,518        ( 78,468 )      ( 1,120,199 )
+Income (loss) before income taxes     823,903         502,143        ( 36,213 )       2,408,372
+Provision for (benefit from) income taxes     105,206         69,591        ( 1,325 )       481,312
+Net income (loss)    $     718,697        $     432,552        $    ( 34,888 )      $     1,927,060
+Net income (loss) attributable to common shareholders:
+Basic    $     718,697        $     432,552        $    ( 34,888 )      $     1,927,060
+Diluted    $     721,534        $     437,095        $    ( 34,888 )      $     1,938,812
+Net income (loss) per share:
+Basic    $     2.72        $     1.65        $    ( 0.13 )      $     7.49
+Diluted    $     2.51        $     1.50        $    ( 0.13 )      $     6.85
+Weighted-average shares of common stock used to compute net income (loss) per share:
+Basic     263,788       262,831         263,962         257,332
+Diluted     287,979       291,958         263,962         283,165
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+5
+Table of Contents
+Coinbase Global, Inc.
+Condensed Consolidated Statements of Comprehensive Income (Loss)
+(In thousands)
+(Unaudited)
+Three Months Ended September 30,    Nine Months Ended September 30,
+2026     2025     2026     2025
+Net income (loss)    $     718,697        $     432,552        $    ( 34,888 )      $     1,927,060
+Other comprehensive (loss) income:
+Translation adjustment    ( 15,562 )       3,091        ( 118,805 )       53,101
+Income tax effect     —         507         —         488
+Translation adjustment, net of tax    ( 15,562 )       3,598        ( 118,805 )       53,589
+Comprehensive income (loss)    $     703,135        $     436,150        $    ( 153,693 )      $     1,980,649
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+6
+Table of Contents
+Coinbase Global, Inc.
+Condensed Consolidated Statements of Changes in Shareholders' Equity
+(In thousands)
+(Unaudited)
+Additional Paid-In Capital     Accumulated Other Comprehensive Income (Loss)     Retained Earnings
+Common Stock
+Shares     Amount       Total
+Balance at July 1, 2026         263,782        $     3        $     7,710,289        $    ( 98,270 )      $     5,467,643        $     13,079,665
+Common stock issued in connection with equity awards         1,507        —        5,260        —       —        5,260
+Common stock repurchased        ( 38 )      —       ( 5,316 )      —       —       ( 5,316 )
+Common stock withheld for net share settlement of equity awards        ( 495 )      —       ( 79,034 )      —       —       ( 79,034 )
+Stock-based compensation (inclusive of capitalized stock-based compensation)        —       —        236,471        —       —        236,471
+Other comprehensive loss        —       —       —       ( 15,562 )      —       ( 15,562 )
+Net income        —       —       —       —        718,697         718,697
+Balance at September 30, 2026         264,756        $     3        $     7,867,670        $    ( 113,832 )      $     6,186,340        $     13,940,181
+Balance at July 1, 2025         256,433        $     2        $     5,639,538        $    ( 60 )      $     6,455,409        $     12,094,889
+Common stock issued as consideration for business combination         10,998         1         3,573,091        —       —        3,573,092
+Common stock issued in connection with equity awards         1,661        —        17,104        —       —        17,104
+Common stock withheld for net share settlement of equity awards        ( 356 )      —       ( 107,422 )      —       —       ( 107,422 )
+Stock-based compensation (inclusive of capitalized stock-based compensation)        —       —        233,661        —       —        233,661
+Purchases of capped calls        —       —       ( 224,250 )      —       —       ( 224,250 )
+Other comprehensive income        —       —       —        3,598        —        3,598
+Net income        —       —       —       —        432,552         432,552
+Balance at September 30, 2025         268,736        $     3        $     9,131,722        $     3,538        $     6,887,961        $     16,023,224
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+7
+Table of Contents
+Coinbase Global, Inc.
+Condensed Consolidated Statements of Changes in Shareholders' Equity
+(In thousands)
+(Unaudited)
+Additional Paid-In Capital     Accumulated Other Comprehensive Income (Loss)     Retained Earnings
+Common Stock
+Shares     Amount       Total
+Balance at January 1, 2026         267,836        $     3        $     8,566,854        $     4,973        $     6,221,228        $     14,793,058
+Common stock issued as consideration for business combination         173        —        19,386        —       —        19,386
+Common stock issued in connection with equity awards         5,547        —        37,646        —       —        37,646
+Common stock repurchased        ( 7,130 )      —       ( 1,188,821 )      —       —       ( 1,188,821 )
+Common stock withheld for net share settlement of equity awards        ( 1,670 )      —       ( 303,353 )      —       —       ( 303,353 )
+Stock-based compensation (inclusive of capitalized stock-based compensation)        —       —        735,958        —       —        735,958
+Other comprehensive loss        —       —       —       ( 118,805 )      —       ( 118,805 )
+Net loss        —       —       —       —       ( 34,888 )      ( 34,888 )
+Balance at September 30, 2026         264,756        $     3        $     7,867,670        $    ( 113,832 )      $     6,186,340        $     13,940,181
+Balance at January 1, 2025         253,640        $     2        $     5,365,990        $    ( 50,051 )      $     4,960,901        $     10,276,842
+Common stock issued as consideration for business combination         10,998         1         3,573,091        —       —        3,573,092
+Common stock issued in connection with equity awards         5,225        —        76,559        —       —        76,559
+Common stock withheld for net share settlement of equity awards        ( 1,127 )      —       ( 308,803 )      —       —       ( 308,803 )
+Stock-based compensation (inclusive of capitalized stock-based compensation)        —       —        649,135        —       —        649,135
+Purchases of capped calls        —       —       ( 224,250 )      —       —       ( 224,250 )
+Other comprehensive income        —       —       —        53,589        —        53,589
+Net income        —       —       —       —        1,927,060         1,927,060
+Balance at September 30, 2025         268,736        $     3        $     9,131,722        $     3,538        $     6,887,961        $     16,023,224
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+8
+Table of Contents
+Coinbase Global, Inc.
+Condensed Consolidated Statements of Cash Flows
+(In thousands)
+(Unaudited)
+Nine Months Ended September 30,
+2026     2025
+Cash flows from operating activities
+Net (loss) income    $    ( 34,888 )      $     1,927,060
+Adjustments to reconcile net (loss) income to net cash provided by operating activities:
+Depreciation and amortization     193,623         117,312
+Stock-based compensation expense     719,441         608,958
+Deferred income taxes    ( 11,306 )       486,498
+Losses (gains) on crypto assets held for operations, net     40,764        ( 10,077 )
+Gains on crypto assets held for investment, net    ( 23,167 )      ( 189,305 )
+Gains on investments, net      ( 27,850 )      ( 1,075,198 )
+Other operating activities, net     94,908         6,830
+Changes in operating assets and liabilities:
+Income taxes, net    ( 65,954 )      ( 142,348 )
+Crypto assets held for operations     53,418        ( 75,057 )
+Other current and non-current assets    ( 108,248 )       10,099
+Other current and non-current liabilities    ( 45,226 )       137,915
+Net cash provided by operating activities     785,515         1,802,687
+Cash flows from investing activities
+Loans originated    ( 9,891,266 )      ( 8,917,869 )
+Proceeds from repayment of loans     9,272,941         8,602,605
+Business combinations, net of cash and cash equivalents acquired    ( 22,085 )      ( 665,769 )
+Purchases of crypto assets held for investment    ( 217,892 )      ( 690,285 )
+Dispositions of crypto assets held for investment     43,114         263,685
+Purchase of investments    ( 301,638 )      ( 90,703 )
+Dispositions of investments     175,944         73,211
+Other investing activities, net    ( 85,047 )      ( 86,289 )
+Net cash used in investing activities    ( 1,025,929 )      ( 1,511,414 )
+Cash flows from financing activities
+Issuance of common stock upon exercise of stock options, net of repurchases     17,042         76,558
+Issuances of convertible senior notes, net     —         2,957,135
+Repayment of long-term debt    ( 1,273,013 )       —
+Repurchase of common stock    ( 1,248,804 )       —
+Purchases of capped calls     —        ( 224,250 )
+Customer custodial fund liabilities    ( 865,121 )      ( 600,398 )
+Customer collateral received     15,455         116,644
+Return of customer collateral    ( 7,784 )      ( 131,721 )
+Taxes paid related to net share settlement of equity awards    ( 303,353 )      ( 308,803 )
+Proceeds from short-term borrowings     939,113         501,316
+Repayments of short-term borrowings    ( 717,512 )      ( 436,510 )
+Other financing activities, net     26,864         10,931
+Net cash (used in) provided by financing activities    ( 3,417,113 )       1,960,902
+Net (decrease) increase in cash, cash equivalents, and restricted cash and cash equivalents    ( 3,657,527 )       2,252,175
+Effect of exchange rates on cash, cash equivalents, and restricted cash and cash equivalents    ( 62,956 )       89,868
+Cash, cash equivalents, and restricted cash and cash equivalents, beginning of period     16,893,420         15,683,456
+Cash, cash equivalents, and restricted cash and cash equivalents, end of period    $     13,172,937        $     18,025,499
+Reconciliation of cash, cash equivalents, and restricted cash and cash equivalents
+Cash and cash equivalents    $     8,603,791        $     11,990,355
+Restricted cash and cash equivalents - current     89,158         485,031
+Restricted cash and cash equivalents in other non-current assets     52,378         —
+Customer custodial cash and cash equivalents     4,427,610         5,550,113
+Total cash, cash equivalents, and restricted cash and cash equivalents    $     13,172,937        $     18,025,499
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+9
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+1.          NATURE OF OPERATIONS
+Coinbase, Inc. was founded in 2012. In April 2014, in connection with a corporate reorganization, Coinbase, Inc. became a wholly-owned subsidiary of Coinbase Global, Inc. (together with its consolidated subsidiaries, the “Company” or “Coinbase”).
+Coinbase's mission is to increase economic freedom in the world. The Company provides a trusted platform for trading crypto, equities, prediction markets, and more, securely storing crypto assets, and accessing the onchain economy. The Company serves consumers through its suite of financial apps, institutions through a full-service prime brokerage platform, and developers through a unified suite of developer tools, APIs, and infrastructure designed to help build crypto-based applications.
+2.          SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of presentation and preparation
+The accompanying Condensed Consolidated Financial Statements (the “Financial Statements”) include the accounts of the Company and its subsidiaries – entities in which the Company holds, directly or indirectly, more than 50% of the voting rights, or where it exercises control. The Financial Statements are unaudited but have been prepared in accordance with United States (“U.S.”) generally accepted accounting principles (“GAAP”) on the same basis as the audited Consolidated Financial Statements, and in management’s opinion, reflect all adjustments, consisting only of normal, recurring adjustments, that are necessary for the fair presentation of the Company’s Financial Statements. Preparation of the Financial Statements in accordance with GAAP requires management to make estimates and assumptions in the Financial Statements and notes thereto. The unaudited Condensed Consolidated Results of Operations for the three and nine months ended September 30, 2026 are not necessarily indicative of the results to be expected for the full year or any other period and should be read in conjunction with the audited Consolidated Financial Statements and notes thereto included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025 filed with the Securities and Exchange Commission (the “SEC”) on February 12, 2026 (the “Annual Report”).
+Certain prior period amounts in the Financial Statements have been reclassified to conform to the current period’s presentation. There were no material changes to the Company’s most significant estimates and assumptions, significant accounting policies, segment reporting, or recent accounting pronouncements that were disclosed in   Note 2. Summary of Significant Accounting Policies     to the Consolidated Financial Statements included in the Annual Report, other than as discussed below.
+Changes in financial statement presentation
+During the first quarter of 2026, the Company revised the presentation of revenue earned on corporate payment stablecoin balances. As these assets are classified as cash and cash equivalents and managed as fungible in daily operations, the Company determined that presenting all similar revenue within a single line item enhances transparency. Accordingly, this revenue is now presented in Other revenue rather than in Net revenue in the Condensed Consolidated Statements of Operations, with no impact to Total revenue. There is no change to the Company’s arrangement with Circle Internet Financial, LLC or the revenue generated. The associated amounts of revenue earned on corporate payment stablecoin balances for the three and nine months ended September 30, 2025 of $ 30.1  million and $ 77.2  million, respectively, have been reclassified to conform to the current period presentation. See   Note 5. Revenue   for additional details.
+Additionally, the Company revised the presentation of certain loan collateral received and returned in the Condensed Consolidated Statements of Cash Flows, from a gross to a net basis. The Company determined that a net presentation more accurately reflects the economic substance of these transactions, where the turnover is quick, the amounts are large, and the maturities are short, and that this net presentation is consistent with the existing net presentation of the related loan balances. The change in presentation was applied retrospectively to all periods presented, as shown in the table below
+10
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+in the column with the heading “Change in Presentation.” The reclassification had no effect on previously reported total net cash used in investing activities, net income, or any balance sheet amounts.
+Change in accounting principle
+Accounting for payment stablecoins
+Effective December 31, 2025, the Company voluntarily elected to change its method of accounting for payment stablecoins, including USDC, EURC, and PYUSD, to classify them as cash equivalents and to apply the Company’s accounting policies for crypto lending, borrowing, and collateral to payment stablecoin lending, borrowing, and collateral. The change in accounting principle was applied retrospectively to all periods presented, including in the Condensed Consolidated Statements of Cash Flows, the changes to which are shown in the table below in the column with the heading “Change in Principle.” The reclassification had no effect on previously reported total assets, total liabilities, equity, net income, or earnings per share for any period presented.
+Impact of financial statement reclassifications
+The following table presents the impact of the changes in financial statement presentation and accounting principle for cash and non-cash activities, as discussed above, on the Condensed Consolidated Statements of Cash Flows and   Note 22. Supplemental Disclosures of Cash Flow Information   (in thousands):
+Nine Months Ended September 30, 2025
+Previously Reported
+Change in Presentation
+Change in Principle
+As Adjusted
+Changes in operating assets and liabilities    $    ( 2,510,846 )      $    —       $     2,441,455        $    ( 69,391 )
+Loans originated    ( 1,246,352 )      —       ( 7,671,517 )      ( 8,917,869 )
+Proceeds from repayment of loans     819,455        —        7,783,150         8,602,605
+Business combinations, net of cash and cash equivalents acquired    ( 687,634 )      —        21,865        ( 665,769 )
+Purchase of investments    ( 66,992 )      —       ( 23,711 )      ( 90,703 )
+Dispositions of investments     72,996        —        215         73,211
+Purchases of crypto assets held for investment    ( 679,931 )      —       ( 10,354 )      ( 690,285 )
+Dispositions of crypto assets held for investment     226,371        —        37,314         263,685
+Other investing activities, net  (1)
+( 90,296 )      —        4,007        ( 86,289 )
+Customer collateral received     499,417        ( 434,129 )       51,356         116,644
+Return of customer collateral    ( 514,494 )       434,129        ( 51,356 )      ( 131,721 )
+Proceeds from short-term borrowings     —        —        501,316         501,316
+Repayments of short-term borrowings     —        —       ( 436,510 )      ( 436,510 )
+Additions of crypto asset investments (non-cash activity)     176,645        —       ( 10,354 )       166,291
+__________________
+(1)  Purchase of investments and Dispositions of investments are presented as separate line items on the face of the Condensed Consolidated Statements of Cash Flows and are therefore excluded from this presentation of Other investing activities, net.
+Recent accounting pronouncements
+Accounting pronouncements pending adoption
+On September 18, 2025, the Financial Accounting Standards Board issued Accounting Standards Update (“ASU”) No. 2025-06, Targeted Improvements to the Accounting for Internal-Use Software (“ASU 2025-06”). ASU 2025-06 amends Accounting Standards Codification (“ASC”) 350-40, Intangibles-Goodwill and Other-Internal Use Software, to reflect that software is not always developed in a linear manner, removing all references to development stages and adding new guidance on how to evaluate whether the
+11
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+probable-to-complete threshold has been met. ASU 2025-06 is required to be adopted for fiscal years commencing after December 15, 2027, with early adoption permitted. ASU 2025-06 allows for a prospective, retrospective, or modified transition approach to adoption, based on the status of the project and whether software costs were capitalized before the date of adoption. The Company anticipates using a prospective transition approach and is evaluating the impact of adopting the standard on the Financial Statements.
+Concentration of credit risk
+The Company’s cash and cash equivalents, restricted cash and cash equivalents, customer custodial funds, loan receivables, certain crypto assets held, accounts receivable, and deposits are potentially subject to concentration of credit risk. See below and   Notes     6. Collateralized Arrangements and Financing   and   8. Accounts Receivable, Net   for a discussion of these risks by counterparty and type of transaction.
+Payment stablecoins
+Payment stablecoins are redeemable on a one-to-one basis for cash and cash equivalents and are classified as Cash and cash equivalents in the Condensed Consolidated Balance Sheets. As of September 30, 2026 and December 31, 2025, the reserves backing these payment stablecoins were held by the issuers in cash and cash equivalents in segregated accounts titled for the benefit of payment stablecoin holders.
+Funds held at financial institutions
+Cash and cash equivalents, excluding payment stablecoins which are held on our platform, are primarily placed with financial institutions which are of high credit quality, primarily in highly liquid, highly rated instruments which are uninsured. The Company may also have corporate deposit balances with financial institutions which exceed the Federal Deposit Insurance Corporation insurance limit of $250,000. The Company has not experienced losses on these accounts and does not believe it is exposed to any significant credit risk with respect to these accounts.
+Funds held at venues
+The Company holds cash at venues, which include third-party payment processors, digital wallets, and trading platforms, but exclude clearing agents, and performs a regular assessment of these venues as part of its risk management process. As of September 30, 2026 and December 31, 2025, the Company held $ 89.3  million and $ 110.8  million, respectively, of cash at venues.
+3.          RESTRUCTURING
+On May 5, 2026, the Company announced a restructuring plan (the “Restructuring”) to (i) manage its operating expenses in response to current market conditions and (ii) optimize the Company’s operations. The Restructuring involved a reduction of the Company's workforce by approximately  700  employees, and was substantially completed during the second quarter of 2026. For the three months ended September 30, 2026, the Company reduced its restructuring expense accrual by $ 4.6  million, reflecting employee compensation and benefits that were no longer expected to be paid. For the nine months ended September 30, 2026, the Company recognized $ 47.8  million in total restructuring expenses, consisting primarily of employee severance and other termination benefits, of which $ 3.2  million was stock-based compensation.
+12
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+4.          ACQUISITIONS
+Information on acquisitions completed during the periods presented is set forth below. The results of operations of all business combinations have been recorded in the Financial Statements since the dates of acquisition.
+Deribit
+On August 14, 2025, the Company acquired the outstanding equity of Sentillia B.V. (“Deribit”), a crypto derivatives exchange. The Company believes this strategic acquisition will play a key role in its goal to be the premier global platform for crypto derivatives.  Total consideration transferred in the acquisition, subject to customary post-closing adjustments, was $ 4.3  billion, consisting of the following (in thousands):
+Cash    $     721,460
+Class A common stock of the Company  (1)
+3,573,092
+Total purchase consideration    $     4,294,552
+__________________
+(1)    Fair value, representing the closing market price of the Company’s Class A common stock on the acquisition date.
+The aggregate purchase consideration includes $ 150.0  million in cash subject to an indemnity escrow that expires 15 months after the acquisition date.
+In accordance with ASC 805, Business Combinations (“ASC 805”), the acquisition was accounted for as a business combination under the acquisition method.  The purchase consideration was allocated to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values as of the acquisition date with the excess recorded as goodwill, as follows (in thousands):
+Goodwill    $     2,818,754
+Intangible assets     1,390,000
+Crypto assets held for investment     164,263
+Deferred tax assets and liabilities, net    ( 132,527 )
+Cash and cash equivalents and restricted cash
+112,928
+Other assets and liabilities, net    ( 58,866 )
+Net assets acquired    $     4,294,552
+The goodwill is primarily attributed to the assembled workforce as well as the anticipated operational synergies from the integration of Deribit’s trading platform with the Company’s existing platform. The goodwill is expected to be deductible for U.S. tax purposes.
+The following table sets forth the components of identifiable intangible assets acquired and their estimated useful lives as of the date of acquisition (in thousands, except for years data):
+Fair Value     Useful Life at Acquisition (in years)
+Customer relationships    $     1,059,000         15
+Acquired developed technology     288,000         6
+Trade name     43,000         8
+Total identifiable intangible assets acquired    $     1,390,000         13
+The customer relationships represent the fair value of projected cash flows derived from existing customers of Deribit and were valued using the multi-period excess earnings method. The present value of projected cash flows included significant judgment and assumptions regarding future revenues, attrition rates, and the discount rate.
+13
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Echo
+On October 8, 2025, the Company acquired all of the outstanding equity interests of Gm Echo Ltd (“Echo”), an onchain capital raising platform. The Company believes this strategic acquisition will play a key role in its goal to create more accessible, efficient, and transparent capital markets.
+In accordance with ASC 805, the acquisition was accounted for as a business combination under the acquisition method.   The   total purchase consideration transferred in the acquisition was $ 176.0  million, which included $ 68.0  million in cash and $ 108.0  million in   Class A common stock of the Company. Net assets acquired were   $ 23.7  million  , and the excess purchase price of   $ 152.3  million   was recorded as goodwill.   The goodwill is primarily attributed to the assembled workforce as well as the anticipated operational synergies from the integration of Echo’s platform with the Company’s existing platform. The goodwill is expected to be deductible for U.S. tax purposes.
+Other acquisitions
+During 2026 and 2025, the Company completed other business combinations that were immaterial, both individually and in the aggregate.
+5.          REVENUE
+The following table presents revenue disaggregated by type (in thousands):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2026     2025     2026     2025
+Net revenue
+Transaction revenue
+Consumer, net     $     450,112        $     843,544        $     1,468,681        $     2,588,958
+Institutional, net      91,650         135,009         327,449         294,716
+Other transaction revenue, net      48,462         67,707         149,075         189,064
+Total transaction revenue      590,224         1,046,260         1,945,205         3,072,738
+Subscription and services revenue
+Stablecoin revenue  (1)
+306,905         324,534         904,487         907,485
+Blockchain rewards      85,738         184,647         269,929         525,774
+Interest and finance fee income  (2)
+68,560         64,758         202,493         187,160
+Other subscription and services revenue      109,035         142,658         331,997         403,034
+Total subscription and services revenue      570,238         716,597         1,708,906         2,023,453
+Total net revenue      1,160,462         1,762,857         3,654,111         5,096,191
+Other revenue
+Corporate interest and other income  (1)
+55,120         105,836         194,521         304,005
+Total other revenue      55,120         105,836         194,521         304,005
+Total revenue     $     1,215,582        $     1,868,693        $     3,848,632        $     5,400,196
+__________________
+(1)  Amounts represent revenue that is not accounted for as revenue from contracts with customers, as defined in ASC 606, Revenue from Contracts with Customers (“ASC 606”). During the first quarter of 2026, the Company revised the presentation of revenue earned on corporate payment stablecoin balances, now presenting the amounts in Corporate interest and other income rather than in Stablecoin revenue. The associated amounts of $ 30.1  million and $ 77.2  million for the three and nine months ended September 30, 2025, respectively, have been reclassified to conform to current period presentation.
+(2)  Amounts primarily include revenue that is not accounted for under ASC 606, as well as an immaterial amount of finance fee income, which is accounted for under ASC 606.
+14
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+During the three months ended September 30, 2026 and 2025, one counterparty accounted for  27 % and  19 % of total revenue, respectively. During the nine months ended September 30, 2026 and 2025, one counterparty accounted for  25 % and  18 % of total revenue, respectively.
+Revenue by geographic location
+The following table presents revenue disaggregated by geography based on domiciles of the customer or other counterparty (in thousands):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2026     2025     2026     2025
+U.S.  (1)
+$     1,016,128        $     1,518,794        $     3,237,695        $     4,516,062
+International  (2)
+199,454         349,899         610,937         884,134
+Total revenue    $     1,215,582        $     1,868,693        $     3,848,632        $     5,400,196
+__________________
+(1)  Nearly all     revenue that is not accounted for as revenue from contracts with customers, as defined in ASC 606, is with counterparties in the U.S.
+(2)  No country accounted for more than 10% of Total revenue.
+6.          COLLATERALIZED ARRANGEMENTS AND FINANCING
+Lending and related collateral
+The following table summarizes the Company’s institutional financing lending arrangements (in thousands):
+September 30,     December 31,
+2026     2025
+Fiat and payment stablecoin loan receivables     $     1,958,539        $     1,340,213
+Crypto asset loan receivables      17,598         14,479
+Total loan receivables  (1)
+$     1,976,137        $     1,354,692
+__________________
+(1)  Includes an immaterial amount of fiat and crypto asset trade finance receivables as of September 30, 2026 and December 31, 2025.
+As of September 30, 2026 and December 31, 2025, the Company had three and four     counterparties, respectively, each of whom accounted for more than   10  % of the Company’s Loan receivables.
+As of September 30, 2026 and December 31, 2025, the collateral requirements for all loans outstanding ranged from   100  % to   250  % of the fair value of the loan.
+15
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The following table summarizes assets the Company held and recognized as collateral relating to lending activity, with a corresponding obligation to return the collateral to the borrower (in thousands, except units):
+September 30, 2026
+December 31, 2025
+Units
+Cost Basis
+Fair Value
+Units
+Cost Basis
+Fair Value
+Fiat and payment stablecoins  (1)
+N/A     N/A     $     11,740        N/A     N/A     $     4,056
+Bitcoin      11,018        $     803,951        $     920,649         8,479        $     810,055        $     747,697
+Ethereum      24,965         57,962         67,005         16,041         51,023         47,731
+Other crypto assets  (2)
+nm
+8,614
+9,903
+—
+—
+—
+Crypto assets held as collateral
+$     870,527
+997,557
+$     861,078
+795,428
+Total recognized lending collateral
+$     1,009,297            $     799,484
+__________________
+nm - not meaningful
+(1)  Fiat and payment stablecoin collateral held are recognized within Cash and cash equivalents in the Condensed Consolidated Balance Sheets. Cost basis and units are not required disclosure and are therefore labeled N/A.
+(2)  Includes various other crypto asset balances, none of which individually represented more than 5% of the fair value of total crypto assets held as collateral.
+The following table summarizes collateral pledged by borrowers in lending arrangements with the Company, which the Company has not recognized as collateral nor as an obligation to return the collateral (in thousands):
+September 30,
+December 31,
+2026     2025
+Fiat and payment stablecoins     $     480,450        $     303,983
+Crypto assets      2,804,112         1,559,458
+Total customer collateral not recognized as collateral     $     3,284,562        $     1,863,441
+Borrowings and related collateral
+The following table summarizes the units, cost basis, and fair value of Crypto assets borrowed (in thousands, except units):
+September 30, 2026
+December 31, 2025
+Units
+Cost Basis
+Fair Value
+Units
+Cost Basis
+Fair Value
+Bitcoin
+767
+$
+61,966
+$
+64,111
+1,920
+$
+173,848
+$
+167,989
+Ethereum
+70,560
+171,712
+189,379
+43,536
+149,374
+129,162
+Other crypto assets  (1)
+nm
+100,440
+136,167
+nm
+27,145
+21,698
+Total borrowed
+$
+334,118
+$
+389,657
+$
+350,367
+$
+318,849
+__________________
+nm - not meaningful
+(1)  Includes various other crypto asset balances, none of which individually represented more than 5% of the fair value of total Crypto assets borrowed.
+16
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The following table summarizes the units, cost basis, and fair value of Short-term borrowings (in thousands, except units):
+September 30, 2026
+December 31, 2025
+Units
+Cost Basis
+Fair Value
+Units
+Cost Basis
+Fair Value
+Payment stablecoins
+N/A
+N/A
+$
+341,523
+N/A
+N/A
+$
+119,923
+Bitcoin
+835
+$
+66,471
+$
+69,734
+2,035
+$
+183,882
+$
+178,022
+Ethereum
+71,542
+174,060
+192,014
+43,941
+150,424
+130,363
+Other crypto assets  (1)
+nm
+108,532
+145,507
+nm
+29,399
+23,797
+Total crypto asset borrowings
+$
+349,063
+407,255
+$
+363,705
+332,182
+Total short-term borrowings
+$
+748,778
+$
+452,105
+__________________
+nm - not meaningful
+(1)  Includes various other crypto asset balances, none of which individually represented more than 5% of the fair value of total crypto asset borrowings.
+As of September 30, 2026 and December 31, 2025, the weighted average annual fees on Short-term borrowings were  3.9 % and  3.5 %, respectively.
+The fair value of the Company’s assets pledged as collateral against Short-term borrowings, presented in Restricted cash and cash equivalents and Crypto assets held as collateral consisted of the following (in thousands):
+September 30, 2026
+December 31, 2025
+Payment stablecoins    $     58,678        $     236,308
+Crypto assets     375,485         —
+Total pledged as collateral
+$
+434,163
+$
+236,308
+Derivatives collateral
+The Company has collateralized derivative arrangements, whereby it enters into crypto asset derivative contracts with customers, primarily to provide liquidity for global derivatives trading. The following table summarizes customer-pledged derivatives collateral presented in the Condensed Consolidated Balance Sheets as Crypto assets held as collateral, with a corresponding obligation to return the collateral to the customer (in thousands, except units):
+September 30, 2026
+December 31, 2025
+Units
+Cost Basis
+Fair Value
+Units
+Cost Basis
+Fair Value
+Bitcoin
+3,569
+$
+322,341
+$
+298,212
+100
+$
+8,732
+$
+8,750
+Ethereum
+1,390
+3,425
+3,731
+6,286
+18,713
+18,649
+Total recognized derivatives collateral
+$
+325,766
+$
+301,943
+$
+27,445
+$
+27,399
+As of September 30, 2026 and December 31, 2025, the collateral requirements for outstanding derivatives were at least 100% of the derivative notional value.
+17
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+7.          CRYPTO ASSETS HELD FOR OPERATIONS
+The following table summarizes Crypto assets held for operations (in thousands, except units):
+September 30, 2026
+December 31, 2025
+Units
+Cost Basis
+Fair Value
+Units
+Cost Basis
+Fair Value
+Bitcoin     117        $     9,405        $     9,798         487        $     48,191        $     43,282
+Ethereum     3,702         11,329         9,935         10,499         27,341         31,174
+Solana     65,793         8,099         7,767         52,933         7,698         6,624
+Other crypto assets  (1)
+nm      34,850         25,559
+nm
+55,068         39,751
+Total held for operations
+$     63,683        $     53,059          $     138,298        $     120,831
+__________________
+nm - not meaningful
+(1)  Includes various other crypto asset balances, none of which individually represented more than 5% of the fair value of total Crypto assets held for operations.
+8.          ACCOUNTS RECEIVABLE, NET
+Accounts receivable, net consisted of the following (in thousands):
+September 30,     December 31,
+2026     2025
+Stablecoin revenue receivable     $     114,504        $     122,936
+Customer accounts receivable      53,587         54,143
+Other accounts receivable      108,554         133,202
+Gross accounts receivable      276,645         310,281
+Less: allowance for doubtful accounts     ( 6,470 )      ( 3,162 )
+Total accounts receivable, net     $     270,175        $     307,119
+As of each of September 30, 2026 and December 31, 2025, the Company had two counterparties, each of whom accounted for more than   10  % of the Company’s Accounts receivable, net.
+9.          CRYPTO ASSETS HELD FOR INVESTMENT
+The following table summarizes Crypto assets held for investment (in thousands, except units):
+September 30, 2026
+December 31, 2025
+Units
+Cost Basis
+Fair Value
+Units
+Cost Basis
+Fair Value
+Bitcoin
+17,954
+$
+1,258,890
+$
+1,500,848
+15,389
+$
+1,079,153
+$
+1,346,452
+Ethereum
+152,649
+346,292
+409,997
+151,175
+348,975
+448,484
+Other crypto assets  (1)
+nm
+257,766
+313,966
+nm
+323,226
+203,935
+Total held for investment
+$
+1,862,948
+$
+2,224,811
+$
+1,751,354
+$
+1,998,871
+__________________
+nm - not meaningful
+(1)  Includes various other crypto asset balances, none of which individually represented more than 5% of the fair value of total Crypto assets held for investment.
+As of September 30, 2026, the Company held $ 157.6  million of Crypto assets held for investment subject to selling restrictions that are time-based and lift between 2026 and 2030.
+18
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+10.        GOODWILL AND INTANGIBLE ASSETS, NET
+Goodwill
+The following table reflects the changes in the carrying amount of goodwill (in thousands):
+Carrying Amount
+Balance at January 1, 2026
+$
+4,168,967
+Additions due to acquisitions
+39,843
+Foreign currency translation adjustments
+( 78,661 )
+Balance at September 30, 2026
+$
+4,130,149
+There was no impairment recognized against goodwill at the beginning or end of the period presented, and no measurement period adjustments during the period presented.
+Intangible assets, net
+Intangible assets, net excludes internally developed software and crypto assets, which are presented in Software and equipment, net within   Note 13. Condensed Consolidated Balance Sheets Details   and in the various crypto assets held line items within the Condensed Consolidated Balance Sheets, respectively.
+The effects of amortization of Intangible assets, net on the   Condensed Consolidated   Statements of Operations were as follows (in thousands):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2026     2025     2026     2025
+Technology and development     $     14,287        $     9,301        $     45,427        $     12,998
+Sales and marketing      17,724         10,833         53,517         10,833
+General and administrative      1,791         702         5,314         7,400
+Total amortization expense     $     33,802        $     20,836        $     104,258        $     31,231
+There were no material impairment charges associated with these assets during these periods. The Company estimates no     significant residual value related to these amortizing intangible assets.
+The expected future amortization expense for amortizing intangible assets for the 12-month period ending September 30 of the respective year, as of September 30, 2026, is as follows (in thousands):
+2027    $     142,479
+2028     139,126
+2029     117,380
+2030     116,572
+2031     113,522
+Thereafter     626,911
+Total expected future amortization expense    $     1,255,990
+11.        LONG-TERM DEBT
+As of September 30, 2026 and December 31, 2025, the Company had fixed-rate convertible notes and senior notes with varying maturities for an aggregate carrying amount of $ 5.9  billion and $ 7.2  billion, respectively. As of September 30, 2026 and December 31, 2025, the fair value of the Company’s convertible notes and senior notes, based on Level 2 valuation inputs, was $ 5.4  billion and $ 6.9  billion, respectively. The Company used cash to repay in full, at maturity, $ 1.3  billion of aggregate principal
+19
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+amount of its  0.5 % convertible notes due June 1, 2026 (the “2026 Convertible Notes”). See   Note 11. Long-Term Debt   to the Consolidated Financial Statements included in the Annual Report for more information regarding the Company’s long-term debt.
+12.        DERIVATIVES
+During the periods presented, the Company’s derivatives were primarily embedded forward contracts to receive or deliver a fixed amount of crypto assets in the future and crypto asset option contracts with customers in the U.S. and internationally, entered into to provide liquidity for global derivatives trading. None were designated as hedging instruments.
+Impact of derivatives on the Condensed Consolidated Balance Sheets
+The following table summarizes information on derivative instruments by their location in the Condensed Consolidated Balance Sheets, with amounts representing the portions of the respective line items denominated in crypto assets, as measured in U.S. dollar equivalents (in thousands):
+Embedded Derivative
+Host
+Gross Derivative Assets
+Gross Derivative Liabilities
+Aggregate Carrying Value
+September 30, 2026
+Accounts receivable, net     $     5,177        $     51,264        $     204        $     56,237
+Other current assets  (1)
+—         48,485         —         48,485
+Short-term borrowings      349,063         4,373         62,565         407,255
+Obligation to return collateral      1,196,293         32,610         135,817         1,299,500
+Accrued expenses and other current liabilities  (1)
+13,628         21         48,485         62,092
+Total fair value of derivatives       $     136,753        $     247,071
+December 31, 2025
+Accounts receivable, net     $     9,943        $     22,025        $     4,399        $     27,569
+Short-term borrowings      363,705         32,446         923         332,182
+Obligation to return collateral      888,523         126,962         61,266         822,827
+Accrued expenses and other current liabilities      6,897         —         2         6,899
+Total fair value of derivatives       $     181,433        $     66,590
+__________________
+(1)    Includes gross assets and liabilities of $  48.5   million each, representing the fair values of crypto asset option contracts. Notional amounts, which are not recorded, totaled $ 301.9  million for each of the asset and liability, at September 30, 2026. Derivative notional amounts are reference amounts from which the fair value of derivatives is derived and do not represent a complete measure of the risk profile of the Company’s exposure to these derivative instruments.
+20
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Impact of derivatives on the Condensed Consolidated Statements of Operations
+The impacts of gains (losses) on derivative instruments recognized in the Condensed Consolidated Statements of Operations were as follows (in thousands):
+Three Months Ended September 30,     Nine Months Ended September 30,
+2026     2025     2026     2025
+Short-term borrowings  (1)
+$    ( 138,525 )      $     19,157        $    ( 89,715 )      $     1,454
+Obligation to return collateral  (1)
+( 605,751 )      ( 19,321 )      ( 168,903 )      ( 50,880 )
+Other  (2)
+26,791         8,207         42,920         7,014
+Total        $    ( 717,485 )      $     8,043        $    ( 215,698 )      $    ( 42,412 )
+__________________
+(1)  Changes in fair value are recognized in Transaction expense in the Condensed Consolidated Statements of Operations. The impact of changes in fair value of Crypto asset borrowings and Obligation to return collateral derivatives is naturally offset, at least in part, by the impact of changes in fair value of the associated naturally offsetting positions, which are also recognized in Transaction expense.
+(2)  Changes in fair value, including immaterial changes resulting from holding crypto asset option contracts, which have an equal and offsetting impact, are recognized in Other operating (income) expense, net or Other (income) expense, net in the Condensed Consolidated Statements of Operations depending on the nature of the derivative.
+21
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+13.        CONDENSED CONSOLIDATED BALANCE SHEETS DETAILS
+The following table presents certain other details of the Condensed Consolidated Balance Sheets (in thousands):
+September 30,     December 31,
+2026
+2025
+Other current assets
+Prepaid expenses
+$     107,296
+$     94,886
+Income taxes receivable      88,528         63,726
+Other      85,630         28,552
+Total other current assets
+$     281,454        $     187,164
+Other non-current assets
+Software and equipment, net
+$     271,799
+$     264,573
+Lease right-of-use assets
+154,054
+141,631
+Income taxes receivable
+70,621
+62,233
+Restricted cash and cash equivalents      52,378         —
+Other      98,696         55,514
+Total other non-current assets
+$     647,548        $     523,951
+Accrued expenses and other current liabilities
+Payroll and payroll related expenses     $     200,878        $     186,927
+Other accrued expenses      256,507         238,308
+Accounts payable      104,897         117,605
+Income taxes payable      31,342         65,982
+Other payables      160,619         196,459
+Total accrued expenses and other current liabilities     $     754,243        $     805,281
+Other non-current liabilities
+Lease liabilities       $     189,064        $     172,735
+Other      31,654         67,723
+Total other non-current liabilities
+$     220,718        $     240,458
+22
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+14.        FAIR VALUE MEASUREMENTS
+Assets and liabilities measured and recorded at fair value on a recurring basis
+The following table sets forth by level within the fair value hierarchy, the Company’s assets and liabilities measured and recorded at fair value on a recurring basis (in thousands):
+September 30, 2026     December 31, 2025
+Level 1     Level 2       Level 1     Level 2
+Assets
+Cash equivalents  (1)
+$     3,654,256        $     —          $     6,088,290        $     —
+Restricted cash equivalents  (2)
+1,469         —           1,472         —
+Customer custodial funds  (3)
+1,947,370         —           3,438,375         —
+Crypto assets held for operations      53,059         —           120,831         —
+Crypto asset loan receivables      —         17,598           —         14,479
+Crypto assets held as collateral      1,299,500         —           822,827         —
+Crypto assets borrowed      389,657         —           318,849         —
+Marketable investments  (4)
+198,878         18,214           253,468         11,903
+Crypto assets held for investment      2,224,811         —           1,998,871         —
+Derivative assets  (5)
+—         136,753           —         181,433
+Total assets     $     9,769,000        $     172,565          $     13,042,983        $     207,815
+Liabilities
+Derivative liabilities  (5)
+$     —        $     247,071          $     —        $     66,590
+__________________
+(1)  Represents money market funds and other short-duration U.S. Treasury holdings. Excludes cash and cash equivalents not measured and recorded at fair value of $ 4.9  billion and $ 5.2  billion as of September 30, 2026 and December 31, 2025, respectively.
+(2)  Represents money market funds. Excludes restricted cash and cash equivalents not measured and recorded at fair value of $ 87.7  million and $ 332.8  million as of September 30, 2026 and December 31, 2025, respectively.
+(3)  Represents customer custodial cash equivalents, which comprise money market funds. Excludes customer custodial funds not measured and recorded at fair value of $ 2.5  billion and $ 1.9  billion as of September 30, 2026 and December 31, 2025, respectively.
+(4)  Primarily represents marketable equity securities. Excludes marketable investments not measured and recorded at fair value, with  none  as of September 30, 2026 and $ 44.4  million as of December 31, 2025.
+(5)  See   Note 12. Derivatives   for additional details.
+The Company has valued all Level 1 assets and liabilities using quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities. The Company has valued all Level 2 assets and liabilities using quoted market prices as an observable input. This includes prices for underlying crypto assets and, for non-crypto denominated assets and liabilities, prices for similar assets and liabilities in inactive markets.
+Assets and liabilities measured and recorded at fair value on a non-recurring basis
+The Company’s non-financial assets, such as software and equipment, goodwill, and other intangible assets, are adjusted to fair value when an impairment charge is recognized.
+The Company’s strategic investments are nearly all accounted for using the measurement alternative, whereby they are recognized at cost and adjusted to fair value for observable transactions for same or similar investments of the same issuer or for impairment, on a non-recurring basis. Fair value measurements for these strategic investments are based predominantly on Level 3 inputs to an Option-Pricing Model that uses publicly available market data of comparable companies and other unobservable inputs including expected volatility, expected time to liquidity, adjustments for other company-specific developments, and the rights and obligations of the securities the Company holds.
+23
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+The impact on the Condensed Consolidated Statements of Operations from remeasurement of measurement alternative investments was immaterial for all periods presented, as were cumulative upward adjustments of measurement alternative investments outstanding at September 30, 2026 and December 31, 2025. Cumulative impairments and downward adjustments as of these dates were $ 133.2  million and $ 127.7  million, respectively.
+Assets and liabilities not measured and recorded at fair value
+Certain of the Company’s financial instruments are not measured and recorded at fair value but their carrying values approximate fair value due to their liquid or short-term nature. Financial instruments denominated in fiat or payment stablecoins that would be based on Level 1 valuation inputs if they were recorded at fair value include cash, restricted cash, payment stablecoins, certain customer custodial funds and related liabilities, collateral pledged, and obligations to return collateral. Financial instruments denominated in fiat or payment stablecoins that would be based on Level 2 valuation inputs if they were recorded at fair value include accounts receivable, loan receivables, and accounts payable.
+The Company’s long-term debt is not measured and recorded at fair value and its carrying value generally does not approximate its fair value. See   Note     11. Long-Term Debt     for its estimated fair value.
+15.        CAPITAL STOCK
+Repurchase program
+In October 2024, the Company’s board of directors (the “Board”) authorized and approved a share repurchase program, which provided for the repurchase of up to $ 1.0  billion of the Company’s Class A common stock without expiration and in October 2025, the Board (i) increased the aggregate repurchase authorization under the program from $ 1.0  billion to $ 2.0  billion and (ii) expanded the scope of the repurchases to include a portion of the aggregate principal amount of the Company’s then-outstanding 2026 Convertible Notes, 2029 Convertible Notes, 2030 Convertible Notes, 2032 Convertible Notes, and both series of Senior Notes (collectively, the "Notes”) (as modified, the “Repurchase Program”).   In January 2026, the Board approved a   $ 2.0  billion   increase in the authorization under the previously announced Repurchase Program from   $ 2.0  billion   to   $ 4.0  billion  .   Repurchases may be made from time to time in the open market (including through trading plans intended to qualify under Rule 10b5-1 under the Exchange Act), in privately negotiated transactions, in a tender offer, or by other methods in accordance with the applicable federal and state laws and regulations. The timing and amount of any repurchases will depend on market conditions and other considerations, and will be made at management’s discretion. The Repurchase Program does not obligate the Company to repurchase any dollar amount or number of shares of the Company’s Class A common stock or Notes and may be modified, suspended, or discontinued at any time. As of September 30, 2026, $ 2.0  billion had been utilized to repurchase  10,169,729  shares of Class A common stock under the Repurchase Program, and $ 2.0  billion remained available for future repurchases, when considered on a settlement date basis.
+24
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+16.        STOCK-BASED COMPENSATION
+Stock options
+The following is a summary of stock option activity, including performance-based options (in thousands, except per share and years data):
+Weighted Average
+Options Outstanding     Exercise Price Per Share     Remaining Contractual Life (Years)     Aggregate Intrinsic Value
+Balance at January 1, 2026     19,700        $     25.58         4.3      $     3,950,983
+Exercised    ( 1,406 )       12.47
+Forfeited and cancelled    ( 30 )       150.14
+Balance at September 30, 2026     18,264        $     26.38         3.7      $     2,931,504
+Vested and exercisable at September 30, 2026      14,584         $      27.12           3.6       $      2,331,785
+Other awards
+A summary of restricted stock units and performance restricted stock units activity is as follows (in thousands, except per share data):
+Restricted Stock Units
+Performance Restricted         Stock Units
+Number of Shares
+Fair Value  (1)
+Number of Shares
+Fair Value  (1)
+Balance at January 1, 2026     2,145        $     247.04         643        $     55.42
+Granted     6,762         164.62         426         156.92
+Vested    ( 3,383 )       192.71        ( 643 )       55.70
+Forfeited and cancelled    ( 1,291 )       179.03         —         —
+Balance at September 30, 2026     4,233        $     179.53         426        $     156.92
+__________________
+(1)  Represents the weighted-average grant date fair value per share.
+Stock-based compensation
+The following are the effects of stock-based compensation on the Condensed Consolidated Statements of Operations and Condensed Consolidated Balance Sheets (in thousands):
+Three Months Ended September 30,     Nine Months Ended September 30,
+2026     2025     2026     2025
+Statements of Operations
+Technology and development    $     147,727        $     127,253        $     461,285        $     352,585
+Sales and marketing     12,769         13,921         40,181         43,359
+General and administrative     72,549         80,895         217,975         213,014
+Total stock-based compensation expense    $     233,045        $     222,069        $     719,441        $     608,958
+Balance Sheets
+Software and equipment, net  (1)
+$     4,190        $     11,592        $     13,295        $     40,177
+_______________
+(1)  Represents capitalized stock-based compensation that was recorded to Software and equipment, net during the periods presented. See   Note 13. Condensed Consolidated Balance Sheets Details   for additional details.
+As of September 30, 2026, there was total unrecognized compensation cost of $ 633.3  million and $ 118.6  million related to unvested restricted stock units (excluding performance restricted stock units) and
+25
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+restricted stock awards, respectively, which is expected to be recognized over a weighted-average of  1.4  years and  2.8  years, respectively. As of September 30, 2026, there was unrecognized compensation cost related to performance restricted stock units subject to market conditions of $ 25.6  million, which is expected to be recognized over a weighted-average period of  2.1  years. Unrecognized compensation cost for all other stock-based compensation awards was immaterial as of September 30, 2026.
+17.        OTHER CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS DETAILS
+Disaggregation of relevant expense captions, as defined in ASU 2024-03, Expense Disaggregation Disclosures, consisted of the following (in thousands):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2026     2025     2026     2025
+Technology and development
+Employee-related  (1)
+$     281,366        $     271,070        $     932,016        $     748,989
+Website hosting and infrastructure     79,419         84,885         259,359         228,468
+Amortization, depreciation, and impairment  (2)
+41,042         37,138         136,033         103,735
+Other  (3)
+45,550         37,492         118,465         92,083
+Total technology and development
+$     447,377        $     430,585        $     1,445,873        $     1,173,275
+Sales and marketing
+USDC rewards    $     129,245        $     111,570        $     361,780        $     314,125
+Marketing programs
+53,136         88,148         196,733         283,140
+Employee-related  (1)
+31,367         37,309         100,532         103,084
+Other  (4)
+28,825         23,245         90,097         43,451
+Total sales and marketing
+$     242,573        $     260,272        $     749,142        $     743,800
+General and administrative
+Employee-related  (1)
+$     168,473        $     179,953        $     533,710        $     490,842
+Professional services     37,573         76,690         142,131         205,876
+Customer support  (5)
+27,466         46,205         88,784         171,424
+Other  (6)
+85,366         115,598         287,271         298,357
+Total general and administrative
+$     318,878        $     418,446        $     1,051,896        $     1,166,499
+_______________
+(1)  Represents employee compensation, including transactions entered into for the benefit of employees such as health and wellness benefits.
+(2)  Substantially all represents amortization expense. Also includes depreciation and intangible asset impairment expenses, none of which are individually material  .
+(3)    Comprises primarily costs of contract resources, consulting, and software.
+(4)    Comprises primarily amortization, costs of contract resources, and depreciation, none of which are individually material.
+(5)    Excludes employee-related and professional services expenses.
+(6)    Comprises primarily costs of contract resources, software, taxes, licenses, and fees, settlement costs, civic contributions, travel, amortization, depreciation, and intangible asset impairments, none of which are individually material.
+26
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Other (income) expense, net consisted of the following   (in thousands):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2026     2025     2026     2025
+(Gains) losses on investments, net  (1)
+$    ( 39,231 )      $     400,250        $    ( 27,850 )      $    ( 1,075,198 )
+Other
+( 27,504 )      ( 19,732 )      ( 50,618 )      ( 45,001 )
+Total other (income) expense, net    $    ( 66,735 )      $     380,518        $    ( 78,468 )      $    ( 1,120,199 )
+_______________
+(1)  Comprises (gains) losses on Marketable and Strategic investments, excluding Crypto assets held for investment. For the three months ended September 30, 2025 and the nine months ended September 30, 2026, the amount includes $ 64.8  million and $ 95.1  million in realized net gains, respectively. Realized gains for all other periods presented are immaterial. For the three and nine months ended September 30, 2026, the amount includes $ 3.7  million and $ 73.0  million, respectively, in unrealized net gains on equity securities still held at September 30, 2026. For the three and nine months ended September 30, 2025, the amount includes $ 461.0  million in unrealized net losses and $ 1.0  billion in unrealized net gains, respectively, that relate to equity securities still held at September 30, 2025. See   Note 14. Fair Value Measurements   for additional details.
+18.        INCOME TAXES
+The Company’s effective tax rate (“ETR”) for the three months ended September 30, 2026 and 2025 was  12.8 % and  13.9 %, respectively. The ETR of  12.8 % for the three months ended September 30, 2026 was lower than the U.S. statutory rate of  21.0 %, primarily due to a release of valuation allowance related to realized and unrealized capital losses and a one-time favorable tax adjustment related to the recent closure of a U.S. federal tax audit for the tax years 2020 and 2021, partially offset by state taxes.
+The Company’s ETR for the nine months ended September 30, 2026 and 2025 was  3.7 % and  20.0 %, respectively. The ETR of  3.7 % for the nine months ended September 30, 2026 was lower than the U.S. statutory rate of  21.0 %, primarily due to the impact of non-deductible expenses (including stock-based compensation and certain non-US losses), partially offset by a one-time favorable tax adjustment related to the recent closure of a U.S. federal tax audit for the tax years 2020 and 2021.
+The following is a supplemental schedule of cash paid for income taxes (in thousands):
+Nine Months Ended
+September 30,
+2026     2025
+Cash paid during the period for income taxes, net of refunds    $     75,935        $     147,999
+As of September 30, 2026, the Company had a net deferred tax asset balance of $ 584.2  million, compared to $ 570.8  million as of December 31, 2025. As of each reporting date, management considers new evidence, both positive and negative, that could affect its view of the future realization of deferred tax assets. Management determined that there is sufficient positive evidence to conclude that it is more likely than not that the Company’s net deferred tax asset will be fully realized.
+27
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+19.        NET INCOME (LOSS) PER SHARE
+The computation of   Net income (loss)   p  er share, including the weighted-average shares outstanding (“WASO”) used in the computation, is as follows (in thousands, except per share amounts):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2026     2025     2026     2025
+Numerators
+Net income (loss) attributable to common shareholders, basic    $     718,697        $     432,552        $    ( 34,888 )      $     1,927,060
+Add: interest on convertible notes, net of tax     2,837         4,543        —        11,752
+Net income (loss) attributable to common shareholders, diluted    $     721,534        $     437,095        $    ( 34,888 )      $     1,938,812
+Denominators
+WASO - basic     263,788         262,831         263,962         257,332
+Weighted-average effect of potentially dilutive shares:
+Stock options     12,512         15,847         —         15,656
+Convertible notes     10,892         11,319         —         8,607
+Restricted stock units     787         1,340         —         985
+Performance restricted stock units
+—         536         —         454
+Restricted stock     —         85         —         131
+WASO - diluted     287,979         291,958         263,962         283,165
+Net income (loss) per share attributable to common shareholders:
+Basic    $     2.72        $     1.65        $    ( 0.13 )      $     7.49
+Diluted    $     2.51        $     1.50        $    ( 0.13 )      $     6.85
+The rights, including the liquidation and dividend rights, of the holders of Class A common stoc  k and Class B common stock are identical, except with respect to voting. As a result, the undistributed earnings are allocated on a proportionate basis and the resulting income or loss per share will, therefore, be the same for both Class A common stock and Class B common stock on an individual or combined basis.
+The following potenti  ally dilutive shares were not included in the calculation of diluted shares outstanding as the effect would have been anti-dilutive, or in the case of performance awards, as the issuance of such shares is contingent upon the satisfaction of certain conditions which were not satisfied by the end of the reporting period (in thousands):
+Three Months Ended September 30,     Nine Months Ended September 30,
+2026     2025     2026     2025
+Equity awards  (1)
+5,641         3,857         23,304         3,857
+Convertible notes     —         —         12,806         —
+Total     5,641         3,857         36,110         3,857
+__________________
+(1)  Includes shares under the Employee Stock Purchase Plan.
+28
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+20.        COMMITMENTS AND CONTINGENCIES
+Crypto assets and payment stablecoins on platform
+The Company is obligated to securely store all crypto assets and payment stablecoins held or managed on behalf of customers in digital wallets on the Company’s platform, including those within the Company’s custody services and all other assets for which the Company holds full keys. As such, the Company may be liable to its users for losses arising from the Company’s failure to secure these assets from theft or loss. The Company has not incurred any losses related to such obligations and therefore has not accrued any liabilities as of September 30, 2026 and December 31, 2025. The Company holds full keys to crypto assets and payment stablecoins held or managed on behalf of its customers totaling $ 376.6  billion and $ 376.1  billion at fair value at September 30, 2026 and December 31, 2025, respectively. These assets are not recognized in the Condensed Consolidated Balance Sheets. Similarly, as the Company has an obligation to securely store all of these assets, it has a corresponding unrecognized liability of $ 376.6  billion and $ 376.1  billion at September 30, 2026 and December 31, 2025, respectively. Since the risk of loss is remote, the Company did not recognize a contingent liability at September 30, 2026 or December 31, 2025. The Company has no reason to believe it will incur any expense associated with such potential liability because (i) it has no known or historical experience of claims to use as a basis of measurement, (ii) it accounts for and continually verifies the amount of crypto assets within its control, and (iii) it has established security around custodial product private keys to minimize the risk of theft or loss.
+Indemnifications
+The Company has indemnity agreements with certain officers and directors of the Company pursuant to which the Company must indemnify the officer or director against all expenses, judgments, fines, and amounts paid in settlement reasonably incurred in connection with a third party proceeding, if the indemnitee acted in good faith and in a manner reasonably believed to be in or not opposed to the best interests of the Company, and in the case of a criminal proceeding, had no reasonable cause to believe the indemnitee’s conduct was unlawful.
+It is not possible to determine the maximum potential exposure under these indemnification agreements: (i) because the facts and circumstances involved in each claim are unique and the Company cannot predict the number or nature of claims that may be made and (ii) due to the unique facts and circumstances involved in each particular agreement.
+The Company has also provided indemnities or similar commitments on standard commercial terms in the ordinary course of business.
+Legal and regulatory proceedings
+The Company has been, currently is, and may from time to time become subject to claims, arbitrations, individual and class action lawsuits with respect to a variety of matters, including employment, consumer protection, intellectual property, privacy, information security, data protection, advertising, and securities. In addition, the Company has been, currently is, and may from time to time become subject to, government and regulatory investigations, inquiries, actions or requests, other proceedings and enforcement actions alleging violations of laws, rules, and regulations, both foreign and domestic. The Company reviews its lawsuits, regulatory investigations, and other legal proceedings on an ongoing basis and provides disclosure and recognizes loss contingencies in accordance with the loss contingencies accounting guidance. In accordance with such guidance, the Company establishes accruals for such matters when potential losses become probable and can be reasonably estimated. If the Company determines that a loss is reasonably possible and the loss or range of loss can be estimated, the Company discloses the possible loss in the   Financial Statements  .
+In October 2021, a purported class action captioned   Underwood et al. v. Coinbase Global, Inc.  , was filed in the U.S. District Court for the Southern District of New York (the “District Court”) against the
+29
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Company alleging claims under Sections 5, 15(a)(1) and 29(b) of the Exchange Act, and violations of certain California and Florida state statutes. On March 11, 2022, plaintiffs filed an amended complaint adding Coinbase, Inc. and Brian Armstrong as defendants and adding causes of action, including alleging claims under Sections 5, 12(a)(1) and 15 of the Securities Act and violations of certain New Jersey state statutes. Among other relief requested, the plaintiffs sought injunctive relief, unspecified damages, attorneys’ fees and costs. On February 1, 2023, the District Court dismissed all federal claims (with prejudice) and state law claims (without prejudice) against Coinbase Global, Inc., Coinbase, Inc. and Brian Armstrong. Subsequently, on February 9, 2023, the plaintiffs appealed that ruling to the U.S. Court of Appeals for the Second Circuit (the “Court of Appeals”), and the parties completed briefing the appeal on September 13, 2023. Oral argument took place on February 1, 2024 and on April 5, 2024, the Court of Appeals issued a Summary Order affirming the District Court’s dismissal order with respect to the claims alleging violations of the Exchange Act, and reversing the District Court’s dismissal order with respect to the claims alleging violations of the Securities Act and violations of the state statutes. On June 27, 2024, defendants filed an answer to the amended complaint, and on July 29, 2024, the defendants filed a Motion for Judgment on the Pleadings requesting the District Court dismiss the remaining claims. On February 7, 2025, the District Court denied defendants’ Motion for Judgment on the Pleadings and allowed the case to proceed to bifurcated discovery, followed by summary judgment motions. The parties completed their summary judgment briefing on June 17, 2026 and oral argument was held on July 15, 2026. On July 30, 2026, the District Court granted summary judgment for defendants on all claims relating to the majority of transactions at issue. With respect to the claims relating to the surviving subset of transactions, the case will proceed to further discovery.
+The defendants continue to dispute the claims in this case and intend to vigorously defend against them. Based on the nature of the proceedings in this case, the outcome of the surviving portion of this matter remains uncertain and the Company cannot estimate the potential impact, if any, on its business or Financial Statements at this time.
+In June 2023, the Company and Coinbase, Inc. were issued notices, show-cause orders, and cease-and-desist letters, and became the subject of various legal actions initiated by U.S. state securities regulators in the states of Alabama, California, Illinois, Kentucky, Maryland, New Jersey, South Carolina, Vermont, Washington and Wisconsin alleging violations of state securities laws with respect to staking services provided by Coinbase, Inc. In July 2023, the Company and Coinbase, Inc. entered into agreements with state securities regulators in California, New Jersey, South Carolina and Wisconsin, pursuant to which customers in those states will no longer be able to stake new funds, in each case pending final adjudication of the matters. In October 2023, the Company and Coinbase, Inc. entered into a similar agreement with the Maryland state securities regulator. In March and April 2025, the Alabama, Kentucky, Illinois, South Carolina, and Vermont state securities regulators dismissed, vacated, rescinded, and/or withdrew their legal actions. On October 29, 2026, the New Jersey state securities regulator informed the Company that it intends to rescind its summary penalty and cease and desist order. The Company and Coinbase, Inc. dispute the claims of the state securities regulators and intend to vigorously defend against them. Based on the preliminary nature of these actions, the final outcome of these matters remains uncertain and the Company cannot estimate the potential impact on its business or Financial Statements at this time. An adverse resolution in these state matters could have a material impact on the Company’s business and Financial Statements.
+The Company has, from time to time, received investigative subpoenas and requests from regulators for documents and information, including about certain customer programs, operations, and existing and intended future products, including the Company’s processes for listing assets, the classification of certain listed assets, its staking programs, and its stablecoin and yield-generating products.
+Except as otherwise disclosed, the Company believes the ultimate resolution of existing legal and regulatory investigation matters will not have a material adverse effect on the financial condition, results of operations, or cash flows of the Company. However, in light of the uncertainties inherent in these matters, it is possible that the ultimate resolution of one or more of these matters may have a material adverse effect on the Company’s results of operations for a particular period, and future changes in circumstances
+30
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+or additional information could result in additional accruals or resolution in excess of established accruals, which could adversely affect the Company’s results of operations, potentially materially.
+Tax regulation
+Current tax rules related to crypto assets are evolving and require significant judgments to be made in interpretation of the law, including but not limited to the areas of income tax, information reporting, value added taxes, digital services tax, transaction level taxes and the withholding of tax at source.   Further, it is possible that additional legislation or guidance may be issued by U.S. and non-U.S. governing bodies that may differ significantly from the Company’s practices or interpretation of the law, which could have unforeseen effects on the Company’s financial condition and results of operations, and accordingly, the Company is unable to determine an estimate of the possible loss or range of loss beyond amounts already accrued. As a result, the Company may have exposure to additional tax liabilities that could have an adverse effect on the Company’s operating results and financial condition.
+Other commitments
+During the nine months ended September 30, 2026, the Company completed a strategic equity investment for total consideration of $ 180.0  million, reducing its other commitments as of December 31, 2025 accordingly. Other than as described above, there were no material changes in the Company’s other commitments during the nine months ended September 30, 2026.
+21.        RELATED PARTY TRANSACTIONS
+Related party customer activity
+Certain of the Company’s directors, executive officers, and principal owners, including immediate family members, are users of the Company’s platform. The Company recognized the following from related party customer activity:
+•  Total revenue of $ 0.8  million and $ 3.1  million during the three months ended September 30, 2026 and 2025, respectively, and $ 3.5  million and $ 8.3  million during the nine months ended September 30, 2026 and 2025, respectively;
+•  Accounts receivable, net of $  0.4   million as of both September 30, 2026 and December 31, 2025; and
+•  Customer custodial funds and Customer custodial fund liabilities of each $  2.3   million and $  11.0   million as of September 30, 2026 and December 31, 2025, respectively.
+Related party investments
+The Company made strategic investments of $ 5.0  million and $ 6.9  million during the three and nine months ended September 30, 2026, respectively, in which certain related parties of the Company held an interest over 10%. During the three and nine months ended September 30, 2025, the Company made aggregate strategic investments of $ 1.5  million and $ 9.3  million, respectively, in such investees.
+31
+Table of Contents
+Coinbase Global, Inc.
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+22.        SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION
+The following is a supplemental schedule of non-cash investing and financing activities (in thousands):
+Nine Months Ended September 30,
+2026     2025
+Crypto assets borrowed    $     2,846,349        $     2,326,401
+Crypto assets borrowed repaid     2,861,799         2,238,233
+Customer crypto assets received as collateral     3,038,805         1,988,879
+Customer crypto asset collateral returned     2,731,034         1,789,861
+Crypto asset loan receivables originated     3,562,896         1,853,095
+Crypto asset loan receivables repaid     3,562,928         1,899,592
+Additions of crypto asset investments     —         166,291
+Changes in right-of-use assets and operating lease obligations     32,504         65,338
+Non-cash consideration paid for business combinations     19,386         3,573,092
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our Condensed Consolidated Financial Statements (the “Financial Statements”) and the accompanying notes thereto included elsewhere   in this Quarterly Report on Form 10-Q   and our Annual Report on Form 10-K for the year ended   December 31, 2025 (the “Annual Report”)  .   Th  e following discussion and analysis contains forward-looking statements that involve risks and uncertainties, as well as assumptions that, if they never materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements. Factors that could cause or contribute to these differences include,   but are not limited to, those identified below, those set forth under Special Note About Forward-Looking Statements of this Quarterly Report on Form 10-Q and those discussed in the section titled Risk Factors in Part I, Item 1A of our Annual Report, together with any updates in the section titled Risk Factors in Part II, Item 1A of this Quarterly Report on Form 10-Q  . Unless otherwise expressly stated or the context otherwise requires, references to “we,” “ou  r,” “us,” “the Company,” and “Coinbase” refer to Coinbase Global, Inc. and its consolidated subsidiaries. For all narrative provided in this Item 2, except the Executive Overview, two numbers presented consecutively represent figures for the three and nine months ended September 30, 2026 as compared to the same periods in 2025, respectively, unless otherwise noted. In the Executive Overview, consecutive pairs represent the three and nine month periods ended September 30 of the applicable year, respectively.
+Executive Overview
+This executive overview of Management’s Discussion and Analysis of Financial Condition and Results of Operations highlights selected information and does not contain all of the information that is important to readers of this Quarterly Report on Form 10-Q.
+Our top three product priorities for 2026 are to grow the everything exchange, scale stablecoins and payments, and expand onchain adoption. During 2026, we continued to execute against our top product priorities. We saw resilience in crypto derivatives trading volume against the market backdrop, expanded tradable assets on our platform, grew volume in equities and prediction markets, increased average USDC held in Coinbase products to an all-time high, renewed our arrangement with Circle Internet Financial, LLC on the same terms, and grew decentralized exchange trading and balances borrowed and lent through Coinbase. With growing regulatory clarity, we believe we are well-positioned to drive crypto’s role in the global economy. We are working to further grow assets on our platform, and in turn revenue, as customers discover and adopt more products where their assets already reside.
+32
+Table of Contents
+Highlights
+For the three and nine months ended September 30, 2026, our net revenue was $1.2 billion and $3.7 billion, including $590.2 million and $1.9 billion in transaction revenue and $570.2 million and $1.7 billion in subscription and services revenue. For the same periods in 2025, our net revenue was $1.8 billion and $5.1 billion, including $1.0 billion and $3.1 billion in transaction revenue and $716.6 million and $2.0 billion in subscription and services revenue.
+For the three and nine months ended September 30, 2026, our net income was $718.7 million and net loss was $34.9 million, and Adjusted EBITDA was $332.9 million and $843.9 million. For the same periods in 2025, our net income was $432.6 million and $1.9 billion, and Adjusted EBITDA was $800.7 million and $2.2 billion.
+Assets on Platform (“AOP”) were $376.6 billion and $515.9 billion at September 30, 2026 and 2025, respectively. The decrease in AOP primarily reflects a $160.5 billion decline driven primarily by the decline in prices of certain crypto assets held on our platform, offset in part by growth in units, both largely attributable to Bitcoin.
+For the three and nine months ended September 30, 2026, Monthly Transacting Users (“MTUs”) were 7.4 million and 7.7 million. For the same periods in 2025, MTUs were 9.3 million and 9.2 million. The decrease in MTUs was primarily due to a decrease in trading users, influenced by overall market conditions.
+We believe that net revenue, net income (loss), and Adjusted EBITDA best reflect the financial health of our business, and we believe that AOP and MTUs are strong operational indicators as they measure the trust customers place in Coinbase and our ability to attract and retain users. See the section titled Non-GAAP and Other Measures for definitions of Adjusted EBITDA, AOP, and MTUs, as well as a reconciliation of net income (loss) to Adjusted EBITDA.
+Anticipated Trends
+We plan to dynamically adjust our expense base in order to be responsive to market conditions and revenue opportunities, increasing or decreasing it as needed, especially with respect to certain variable expenses. We anticipate the restructuring plan announced in May 2026 (the “Restructuring”) will help us better align our operating expenses with current market conditions and optimize our operations for the AI era. See   Note     3. Restructuring   of the Notes to our Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional details on the Restructuring. For the year ending December 31, 2026, we anticipate the aggregate of technology and development, general and administrative, and sales and marketing expenses, excluding amortization of intangible assets, to be slightly lower than for the year ended December 31, 2025.
+Results of Operations
+Comparison of the three and nine months ended     September 30, 2026 and 2025
+Revenue
+For both the three and nine months ended September 30, 2026, we generated  84% of total revenue in the U.S. For the three and nine months ended September 30, 2025, we generated 81% and 84% of total revenue in the U.S. No other country accounted for more than 10% of total revenue during the periods presented. In all periods presented, international revenue consisted mainly of transaction revenue. Stablecoin revenue is substantially all attributed to the U.S.
+33
+Table of Contents
+Transaction revenue
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+Consumer, net    $    450,112       $    843,544       $    (393,432)      (47)      $    1,468,681       $    2,588,958       $    (1,120,277)      (43)
+Institutional, net    91,650       135,009       (43,359)      (32)      327,449       294,716       32,733       11
+Other transaction revenue, net    48,462       67,707       (19,245)      (28)      149,075       189,064       (39,989)      (21)
+Total transaction revenue    $    590,224       $    1,046,260       $    (456,036)      (44)      $    1,945,205       $    3,072,738       $    (1,127,533)      (37)
+% of net revenue    51       59           53       60
+Transaction revenue decreased for the three and nine months ended September 30, 2026 as compared to 2025, primarily due to:
+•  a decrease in consumer transaction revenue, reflecting a 59% and 52% decrease in consumer Crypto Spot Trading Volume  1  , offset in part by the launch of prediction markets trading and growth in derivatives trading volume; and
+•  changes in institutional transaction revenue primarily due to a 53% and 44% decrease in institutional Crypto Spot Trading Volume. In the nine months ended comparative period, an increase in derivatives revenue reflecting the acquisition of Deribit in August 2025 more than offset the spot decrease.
+There were no material changes to note within other.
+Subscription and services revenue
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,
+Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+Stablecoin revenue  (1)
+$    306,905       $    324,534       $    (17,629)      (5)      $    904,487       $    907,485       $    (2,998)      —
+Blockchain rewards    85,738       184,647       (98,909)      (54)      269,929       525,774       (255,845)      (49)
+Interest and finance fee income    68,560       64,758       3,802       6       202,493       187,160       15,333       8
+Other subscription and services revenue    109,035       142,658       (33,623)      (24)      331,997       403,034       (71,037)      (18)
+Total subscription and services revenue    $    570,238       $    716,597       $    (146,359)      (20)      $    1,708,906       $    2,023,453       $    (314,547)      (16)
+% of net revenue    49       41           47       40
+____________________________________
+(1)    During the first quarter of 2026, we revised the presentation of revenue earned on corporate payment stablecoin balances, now presenting the amounts in Corporate interest and other income rather than in Stablecoin revenue. Prior period amounts have been reclassified to conform to current period presentation. For information on the reclassified amounts, please see   Note 2. Summary of Significant Accounting Policies   and   Note 5. Revenue   of the Notes to our Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+1     Crypto Spot Trading Volume is the total U.S. dollar equivalent value of crypto spot matched trades (excluding Stablecoin Trading Volume) transacted between a buyer and seller through our platform, plus half of the value of trades that we routed off our platform for fulfillment, during the period of measurement. Stablecoin Trading Volume is the total U.S. dollar equivalent value of Fiat-Stablecoin and Stablecoin-Stablecoin matched trades transacted between a buyer and seller through our platform, plus half of the value of trades that we routed off our platform for fulfillment, during the period of measurement.
+34
+Table of Contents
+Subscription and services revenue decreased for the three and nine months ended September 30, 2026 as compared to 2025, reflecting:
+•  changes in stablecoin revenue, reflecting:
+◦  increases of $84.6 million and $201.6 million due to higher average USDC balances held in Coinbase products; and
+◦  decreases of $52.8 million and $166.2 million due to lower average interest rates; and
+•  decreases in blockchain rewards of:
+◦  $111.8 million and $243.1 million due to lower average crypto asset prices, driven primarily by Solana and Ethereum; and
+◦  $18.9 million and $67.2 million due to lower reward rates, primarily for Solana and Ethereum, offset in part by
+◦  the impact of an increase in staked balances, primarily of Solana and Cosmos.
+There were no material changes to note within the other categories in the table above.
+Other revenue
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+Corporate interest and other income  (1)
+$    55,120       $    105,836       $    (50,716)      (48)      $    194,521       $    304,005       $    (109,484)      (36)
+Total other revenue    $    55,120       $    105,836       $    (50,716)      (48)      $    194,521       $    304,005       $    (109,484)      (36)
+____________________________________
+(1)    During the first quarter of 2026, we revised the presentation of revenue earned on corporate payment stablecoin balances, now presenting the amounts in Corporate interest and other income rather than in Stablecoin revenue. Prior period amounts have been reclassified to conform to current period presentation. For information on the reclassified amounts, please see   Note 2. Summary of Significant Accounting Policies   and   Note 5. Revenue   of the Notes to our Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+Corporate interest and other income decreased for the three and nine months ended September 30, 2026 as compared to 2025, reflecting a 97 and 84 basis point decline in average interest rates earned, as well as a decrease attributable to lower average corporate cash balances.
+Operating expenses
+Certain prior period amounts have been reclassified to conform to the current period presentation.
+Transaction expense
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+Blockchain rewards fees    $    53,702       $    119,043       $    (65,341)      (55)      $    170,937       $    328,221       $    (157,284)      (48)
+Payment processing and account verification    44,727       53,487       (8,760)      (16)      127,251       159,464       (32,213)      (20)
+Transaction rebates and commissions    40,060       42,193       (2,133)      (5)      105,849       188,640       (82,791)      (44)
+Transaction reversal losses    10,931       28,983       (18,052)      (62)      64,987       96,682       (31,695)      (33)
+Other    45,044       9,612       35,432       369       111,089       28,598       82,491       288
+Total transaction expense    $    194,464       $    253,318       $    (58,854)      (23)      $    580,113       $    801,605       $    (221,492)      (28)
+% of net revenue    17       14           16       16
+35
+Table of Contents
+Transaction expense decreased for the three and nine months ended September 30, 2026 as compared to 2025, largely due to:
+•  lower blockchain rewards fees, which moved with blockchain rewards revenue;
+•  a decrease in transaction rebates and commissions, primarily those earned by institutional customers providing liquidity on our international exchange, as we tapered incentive offerings;
+•  a decrease in transaction reversal losses primarily due to lower transaction activity; offset in part by
+•  an increase in other, largely due to exchange fees associated with our prediction markets offering.
+There were no material changes to note within the other categories in the table above.
+Technology and development
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+Employee-related    $    281,366       $    271,070       $    10,296       4       $    932,016       $    748,989       $    183,027       24
+Website hosting and infrastructure    79,419       84,885       (5,466)      (6)      259,359       228,468       30,891       14
+Amortization, depreciation, and impairment    41,042       37,138       3,904       11       136,033       103,735       32,298       31
+Other    45,550       37,492       8,058       21       118,465       92,083       26,382       29
+Total technology and development    $    447,377       $    430,585       $    16,792       4       $    1,445,873       $    1,173,275       $    272,598       23
+% of net revenue    39       24           40       23
+Technology and development expenses increased for the nine months ended September 30, 2026 as compared to 2025, largely due to higher employee-related expenses. This increase is driven by expenses related to employees acquired through business combinations, as well as a decrease in internally developed technology costs capitalized. There were no other material changes to note within the table above.
+Sales and marketing
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+USDC rewards    $    129,245       $    111,570       $    17,675       16       $    361,780       $    314,125       $    47,655       15
+Marketing programs    53,136       88,148       (35,012)      (40)      196,733       283,140       (86,407)      (31)
+Employee-related    31,367       37,309       (5,942)      (16)      100,532       103,084       (2,552)      (2)
+Other    28,825       23,245       5,580       24       90,097       43,451       46,646       107
+Total sales and marketing    $    242,573       $    260,272       $    (17,699)      (7)      $    749,142       $    743,800       $    5,342       1
+% of net revenue    21       15           21       15
+Sales and marketing expenses changed for the three and nine months ended September 30, 2026 as compared to 2025, reflecting:
+•  a $71.6 million and $175.7 million increase in USDC rewards driven by growth in average customer USDC balances held in Coinbase products as we continue to integrate USDC across our products, offset in part by a reduction in the rewards rate;
+36
+Table of Contents
+•  a decrease in marketing program expenses, reflecting a $13.1 million and $78.3 million decrease in digital advertising spend as a response to softer market conditions; and
+•  an increase in other, reflecting amortization of intangible assets acquired in the purchase of Deribit in August 2025.
+There were no material changes to note within employee-related.
+General and administrative
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,
+Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+Employee-related    $    168,473       $    179,953       $    (11,480)      (6)      $    533,710       $    490,842       $    42,868       9
+Professional services    37,573       76,690       (39,117)      (51)      142,131       205,876       (63,745)      (31)
+Customer support  (1)
+27,466       46,205       (18,739)      (41)      88,784       171,424       (82,640)      (48)
+Other    85,366       115,598       (30,232)      (26)      287,271       298,357       (11,086)      (4)
+Total general and administrative    $    318,878       $    418,446       $    (99,568)      (24)      $    1,051,896       $    1,166,499       $    (114,603)      (10)
+% of net revenue    27       24           29       23
+____________________________________
+(1)  Excludes employee-related and professional services expenses.
+General and administrative expenses decreased for the three and nine months ended September 30, 2026 as compared to 2025, reflecting:
+•  changes in employee-related costs due to higher average headcount, reflecting, in part, the transition of certain customer support roles from external service providers to employees, which was more than offset by the Restructuring for the three months ended September 30, 2026 and partially offset by the Restructuring for the nine months ended September 30, 2026. General and administrative average headcount increased 3% and 18%, respectively. In addition, for the three months ended comparative period, stock-based compensation expense was lower, primarily associated with performance-based awards granted in prior periods;
+•  a decrease in professional services, primarily legal advisory fees, incurred during the 2025 periods, including those relating to business combinations and strategic investments, which did not recur to the same extent in the current periods; and
+•  a decrease in customer support costs, primarily due to lower transaction activity and fewer resources required after certain regulatory projects were completed in the prior year, as well as  the transition of certain roles from external service providers to employees.
+There were no material changes to note within other.
+(Gains) losses on crypto assets held for operations, net
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+(Gains) losses on crypto assets held for operations, net    $    (26,106)      $    (35,740)      $    9,634       (27)      $    40,764       $    (10,077)      $    50,841       (505)
+Changes in (gains) losses on crypto assets held for operations, net for the nine months ended September 30, 2026, as compared to 2025, resulted primarily from holding these assets during a period of declining crypto asset prices, primarily Bitcoin.
+37
+Table of Contents
+Restructuring
+For the three months ended September 30, 2026, we recorded a $4.6 million reversal of restructuring expense due to the release of accruals for certain personnel-related costs. For the nine months ended September 30, 2026, restructuring expenses related to the Restructuring were $47.8 million. There were no restructuring expenses for the three and nine months ended September 30, 2025. See   Note     3. Restructuring   of the Notes to our Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional details.
+Other operating (income) expense, net
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+Platform-related incidents, net     $    (14,859)      $    47,976       $    (62,835)      (131)      $    15,921       $    355,350       $    (339,429)      (96)
+Other     (3,795)      13,304       (17,099)      (129)      (9,626)      8,056       (17,682)      (219)
+Total other operating (income) expense, net
+$    (18,654)      $    61,280       $    (79,934)      (130)      $    6,295       $    363,406       $    (357,111)      (98)
+Other operating (income) expense, net decreased for the three and nine months ended September 30, 2026 as compared to 2025,   primarily due to losses incurred in 2025, directly   associated with the incident   announced on the Current Report on Form 8-K we filed with the SEC on May 15, 2025 (the “Data Theft Incident”), comprising voluntary customer reimbursements and direct legal costs, net of   recoveries. There were no material changes to note within other.
+Interest expense
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+Interest expense     $    19,523       $    21,774       $    (2,251)      (10)      $    64,608       $    62,820       $    1,788       3
+There were no material changes to note within interest expense.
+Gains on crypto assets held for investment, net
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+Gains on crypto assets held for investment, net     $    (715,022)      $    (423,903)      $    (291,119)      69       $    (23,167)      $    (189,305)      $    166,138       (88)
+Gains on crypto assets held for investment, net changed for the   three and nine months ended September 30, 2026     as compared to 2025,   primarily due to fair value remeasurement of these assets, mainly Bitcoin and Ethereum. The impact of changes in fair value expanded in the nine months ended comparative period as we actively invested in Bitcoin.
+38
+Table of Contents
+Other (income) expense, net
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+(Gains) losses on investments, net
+$    (39,231)      $    400,250       $    (439,481)      (110)      $    (27,850)      $    (1,075,198)      $    1,047,348       (97)
+Other     (27,504)      (19,732)      (7,772)      39       (50,618)      (45,001)      (5,617)      12
+Other (income) expense, net     $    (66,735)      $    380,518       $    (447,253)      (118)      $    (78,468)      $    (1,120,199)      $    1,041,731       (93)
+(Gains) losses on investments, net, changed for the   three and nine months ended September 30, 2026     as compared to 2025   largely     due to the fair value remeasurement of our investment in Circle Internet Group, Inc., following its initial public offering in the second quarter of 2025. There were no material changes to note within other.
+Provision for (benefit from) income taxes
+Three Months Ended
+September 30,     Change     Nine Months Ended
+September 30,     Change
+(in thousands, except %)
+2026     2025     $     %     2026     2025     $     %
+Provision for (benefit from) income taxes    $    105,206       $    69,591       $    35,615       51       $    (1,325)      $    481,312       $    (482,637)      (100)
+For the three months ended September 30, 2026 as compared to 2025, the change in provision for (benefit from) income taxes was primarily due to higher pre-tax income and lower tax benefits related to stock-based compensation, partially offset by a release in valuation allowance related to realized and unrealized capital losses and a one-time favorable tax adjustment related to the recent closure of a U.S. federal tax audit for the tax years 2020 and 2021.
+For the nine months ended September 30, 2026 as compared to 2025, the change in provision for (benefit from) income taxes was primarily due to lower pre-tax income, partially offset by lower tax benefits related to stock-based compensation.
+Non-GAAP and Other Measures
+Adjusted EBITDA
+In addition to our results determined in accordance with GAAP, we believe Adjusted EBITDA, a non-GAAP financial performance measure, is useful information to help investors evaluate our operating performance because it: enables investors to compare this measure and component adjustments to similar information provided by peer companies and our past financial performance; provides additional company-specific adjustments for certain items that may be included in income from operations but that we do not consider to be normal, recurring, operating expenses (or income) necessary to operate our business given our operations, revenue generating activities, business strategy, industry, and regulatory environment; and provides investors with visibility to a measure management uses to evaluate our ongoing operations and for internal planning and forecasting purposes. For example:
+•  We believe it is useful to exclude certain non-cash expenses, such as depreciation and amortization and stock-based compensation, from Adjusted EBITDA because the amounts of such expenses can vary significantly from period to period and may not directly correlate to the underlying performance of our business operations.
+•  We believe it is useful to exclude certain items that we do not consider to be normal, recurring, cash operating expenses and therefore, not reflective of our ongoing business operations. For example, we exclude: (i) other (income) expense, net, as the income and expenses recognized in this line item are not part of our core operating activities and are considered non-operating
+39
+Table of Contents
+activities under GAAP, (ii) gains and losses on crypto assets held for investment because such investments are considered primarily long-term holdings, (iii) losses, net of recoveries, directly related to the Data Theft Incident, including voluntary customer reimbursements, direct legal costs, and reward payments, if any, in connection with the threat actor’s arrest and conviction, and (iv) costs of the Restructuring, as these costs are associated with discrete organizational changes and are not reflective of our core, ongoing business operations. We do not plan on engaging in regular trading of crypto assets, and, as an operating company, our investing activities in crypto are not part of our revenue generating activities, which are primarily based on transactions on our platform and the sales of subscriptions and services.
+•  We believe Adjusted EBITDA is useful to measure a company’s operating performance without regard to items such as stock-based compensation expense, depreciation and amortization expense, interest expense, other (income) expense, net, and provision for (benefit from) income taxes that can vary substantially from company to company depending upon their financing, capital structures, and the method by which assets were acquired.
+Limitations of Adjusted EBITDA
+We believe that Adjusted EBITDA may be helpful to investors for the reasons noted above. However, Adjusted EBITDA is presented for supplemental informational purposes only, has limitations as an analytical tool, and should not be considered in isolation or as a substitute for financial information presented in accordance with GAAP. There are a number of limitations related to Adjusted EBITDA rather than net income (loss), which is the nearest GAAP equivalent of Adjusted EBITDA. Some of these limitations are that Adjusted EBITDA excludes:
+•  provision for (benefit from) income taxes;
+•  interest expense, or the cash requirements necessary to service interest or principal payments on our debt, which reduces cash available to us;
+•  depreciation and amortization expense and, although these are non-cash expenses, the assets being depreciated and amortized may have to be replaced in the future;
+•  stock-based compensation expense, which has been, and will continue to be for the foreseeable future, a significant recurring expense for our business and an important part of our compensation strategy;
+•  net gains or losses on our crypto assets held for investment;
+•  losses directly related to the Data Theft Incident, net of recoveries;
+•  the impact of the Restructuring, which is not related to normal operations but impacted our results in 2026; and
+•  other (income) expense, net, which represents net gains or losses on investments and other financial instruments, and other non-operating income and expense activity.
+In addition, other companies, including companies in our industry, may calculate Adjusted EBITDA differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of our disclosure of Adjusted EBITDA as a tool for comparison. A reconciliation is provided below for Adjusted EBITDA to net income (loss), the most directly comparable financial measure stated in accordance with GAAP. Investors are encouraged to review the related GAAP financial measure and the reconciliation of Adjusted EBITDA to net income (loss), and not to rely on any single financial measure to evaluate our business.
+40
+Table of Contents
+The following table provides a reconciliation of net income (loss) to Adjusted EBITDA (in thousands):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2026     2025     2026     2025
+Net income (loss)    $    718,697       $    432,552       $    (34,888)      $    1,927,060
+Adjusted to exclude the following:
+Provision for (benefit from) income taxes    105,206       69,591       (1,325)      481,312
+Interest expense    19,523       21,774       64,608       62,820
+Depreciation and amortization    61,214       50,078       193,623       117,312
+Stock-based compensation expense    233,045       222,069       719,441       608,958
+Gains on crypto assets held for investment, net    (715,022)      (423,903)      (23,167)      (189,305)
+Data Theft Incident (recoveries) losses, net    (18,441)      47,976       (43,685)      354,630
+Restructuring    (4,619)      —       47,789       —
+Other (income) expense, net  (1)
+(66,735)      380,518       (78,468)      (1,120,199)
+Adjusted EBITDA    $    332,868       $    800,655       $    843,928       $    2,242,588
+__________________
+(1)  See   Note 17. Other Condensed Consolidated Statements of Operations Details   of the Notes to our Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional details.
+Assets on Platform
+We define Assets on Platform (“AOP”) as the total U.S. dollar equivalent value of crypto assets and payment stablecoins held or managed on behalf of customers in digital wallets on our platform, including our custody services but excluding assets for which the customer holds full or partial keys, calculated based on the market price on the date of measurement. AOP demonstrates the scale of balances held across our suite of products and services, the trust customers place in us to securely store their assets, and the underlying growth of the onchain economy. AOP also represents a monetization opportunity through our products and services, including from trading and the adoption and use of payment stablecoins, staking, custody, and institutional financing, when customers use these assets to engage with these products and services.
+The following table sets forth the value of AOP by asset (in millions, except percentages):
+September 30, 2026     September 30, 2025
+Value Change
+Units
+Value
+Units
+Value
+%
+Bitcoin    3.0       $    252,482       2.9       $    331,889       (24)
+Ethereum    19.8       53,254       18.7       77,430       (31)
+USDC    N/A     8,616       N/A     9,013       (4)
+Other  (1)
+nm     62,293       nm     97,610       (36)
+Total      $    376,645         $    515,942       (27)
+__________________
+nm - not meaningful
+(1)  Includes various other crypto asset and payment stablecoin balances, none of which individually represented more than 5% of total AOP.
+Monthly Transacting Users
+We define a MTU as a consumer who actively or passively transacts in one or more products on our platform at least once during the rolling 28-day period ending on the date of measurement. MTUs engage in transactions that generate transaction revenue or subscription and services revenue. Revenue-generating transactions include active transactions, such as buying or selling crypto assets or passive transactions such as earning staking rewards and USDC rewards. MTUs also engage in transactions that
+41
+Table of Contents
+are non-revenue generating, such as consumers sending and receiving crypto assets between wallets and off-platform accounts on a non-expedited basis. MTUs may overstate the number of unique consumers due to differences in product architecture or user behavior. MTUs for the three month period r  epresent quarterly MTUs, which are calculated as the average of each month’s MTUs in each respective quarter. MTUs fo  r the nine month period are calculated as the average of the quarterly MTUs within the period.
+Liquidity and Capital Resources
+There have been no material changes to our liquidity and capital resources from those presented in the Annual Report, other than those described below.
+We continue to believe our existing cash, cash equivalents, and marketable investments, which totaled $8.8 billion as of September 30, 2026, will be sufficient in both the short and long term to meet our requirements and plans for cash, including meeting our working capital and capital expenditure requirements. Our ability to meet these requirements and plans for cash will depend on many factors, including market acceptance   of crypto assets and blockchain technology, our growth, our ability to attract and retain customers on our platform, the continuing market acceptance of our products and services, the introduction of new subscription products and services on our platform, expansion of sales and marketing activities, and overall economic conditions.   We anticipate satisfying both our short-term and long-term cash requirements with our existing cash and cash equivalents and   with future cash flows from operations,   future sales of marketable investments, a  nd potential future equity or debt financing.   The sale of additional equity would result in additional dilution to our shareholders. The incurrence of additional debt financing would result in debt service obligations, and the instruments governing such debt could provide for operating and financing covenants that restrict our operation  s.
+Primary commitments
+Long-term debt and other contractual obligations
+We used cash to repay in full at maturity the $1.3 billion aggregate principal amount of our 2026 Convertible Notes due June 1, 2026. As of September 30, 2026, our outstanding long-term debt consisted of convertible notes and senior notes with an aggregate principal amount of $6.0 billion, maturing between 2028 and 2032. See   Note 11. Long-Term Debt   of the Notes to our Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional details.
+Our other contractual obligations decreased materially from those as of December 31, 2025, primarily due to the fulfillment of a strategic equity investment commitment. See   Note 20. Commitments and Contingencies   of the Notes to our Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional details.
+See   Notes 13. Condensed Consolidated Balance Sheets Details   and   18. Income Taxes   of the Notes to our Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional details relating to our short- and long-term material cash requirements as of September 30, 2026.
+Short-term borrowings
+As of September 30, 2026, we held short-term borrowings of $748.8 million, denominated in crypto assets and payment stablecoins, which we use to facilitate institutional financing. See   Note     6. Collateralized Arrangements and Financing   of the Notes to our Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional details.
+Repurchase program
+As of September 30, 2026, our board of directors had authorized an aggregate $4.0 billion to repurchase, without expiration, our outstanding Class A common stock and long-term debt (the “Repurchase Program”). As of September 30, 2026, approximately $2.0 billion remained available, and no
+42
+Table of Contents
+long-term debt has been repurchased under the Repurchase Program. See   Issuer Purchases of Equity Securities   included in Part II, Item 2 of this Quarterly Report on Form 10-Q for additional details.
+Other resources and commitments
+Crypto assets
+We hold and use crypto assets for various purposes. Crypto assets held for operations are received in the ordinary course of business and are converted to cash or used to fulfill expenses, primarily blockchain rewards, nearly immediately. In order to facilitate institutional financing, we hold crypto assets we borrow, as well as crypto assets customers pledge as collateral against certain of our loans to them. We do not use these assets as a source of liquidity otherwise. Crypto assets held for investment are primarily long-term holdings and in certain cases fulfill capital requirements set by regulators (see also   Regulatory capital requirements   below). We do not plan to engage in regular trading of these crypto assets but may purchase additional crypto assets for investment as a buy and hold strategy. In case of a liquidity stress event, or for other episodic purposes, which may necessitate the use of these assets, we may change our policy and sell crypto assets held for investment to generate liquidity. During times of instability in the crypto assets market, we may not be able to sell our crypto assets at reasonable prices or at all. Our crypto assets held are considered less liquid than our cash and cash equivalents and may not be able to serve as a source of liquidity for us to the same extent as cash and cash equivalents.
+As of September 30, 2026, we held the following crypto assets: $53.1 million held for operations, $1.3 billion held as collateral, $389.7 million that were borrowed, and $2.2 billion held for investment.
+Customer assets and liabilities
+Recognized customer assets and liabilities comprise customer custodial funds and corresponding customer custodial liabilities that represent our obligation to return these assets to the customers. We also securely store additional customer AOP that we do not recognize in our Condensed Consolidated Balance Sheets. We do not use customer assets as collateral for any loan, margin, rehypothecation, or other similar activities, without the customer’s consent.
+Our business model does not expose us to liquidity risk if we have excessive redemptions or withdrawals from customers. As of September 30, 2026, we have not experienced excessive redemptions or withdrawals, or prolonged suspended redemptions or withdrawals, of crypto assets to date. See the section titled   Risk Factors—Depositing and withdrawing crypto assets into and from our platform involve risks, which could result in loss of customer assets, customer disputes and other liabilities, which could adversely affect our business, operating results, and financial condition   included in Part I, Item 1A of our Annual Report for further information.
+Cash flows
+The following table summarizes our Condensed Consolidated Statements of Cash Flows (in thousands):
+Nine Months Ended September 30,
+2026     2025
+Net cash provided by operating activities    $    785,515       $    1,802,687
+Net cash used in investing activities    (1,025,929)      (1,511,414)
+Net cash (used in) provided by financing activities    (3,417,113)      1,960,902
+Net (decrease) increase  in cash, cash equivalents, and restricted cash and cash equivalents    $    (3,657,527)      $    2,252,175
+Change in customer custodial cash and cash equivalents    $    (846,040)      $    (477,907)
+43
+Table of Contents
+Operating activities
+Our largest sources of cash provided by operating activities are revenues generated from transaction fees and stablecoin revenue. Our primary uses of cash in operating activities include payments to employees for compensation, USDC rewards, marketing programs, website hosting and infrastructure services, and professional services.
+Net cash provided by operating activities decreased by $1.0 billion for the nine months ended September 30, 2026 as compared to 2025 primarily as a result of the $1.1 billion decrease in transaction revenue for Consumer, net.
+Investing activities
+Net cash used in investing activities decreased by $485.5 million for the nine months ended September 30, 2026 as compared to 2025 primarily due to:
+•  $665.8 million in net cash used for business combinations in 2025, primarily due to the completion of the Deribit acquisition in August 2025; offset in part by
+•  a $108.2 million increase in net investment purchases.
+Financing activities
+Net cash used in financing activities increased by $5.4 billion for the nine months ended September 30, 2026 as compared to 2025 primarily due to:
+•  a $2.7 billion net decrease in cash inflow compared to 2025 related to prior year proceeds from the issuances of our 2029 Convertible Notes and 2032 Convertible Notes, less cash paid for associated capped calls;
+•  $1.3 billion in cash used for the repayment of our 2026 Convertible Notes; and
+•  $1.2 billion in cash used to repurchase approximately 7.1 million shares of our outstanding Class A common stock.
+Regulatory capital requirements
+We are a highly regulated business subject to regulations on how we manage our liquidity, operations, and capital structure. As our primary operating subsidiary, Coinbase, Inc. (“CB Inc.”), is subject to the most significant capital requirements, we seek to minimize surplus capital at other subsidiaries and hold surplus at CB Inc. See Part I, Item 1   Business—Government Regulation   in the Annual Report as well as Part I, Item 1A   Risk Factors   in the Annual Report for additional details about these regulations.
+We are required to hold corporate liquid assets at our subsidiaries to meet capital requirements established by our regulators based on the value of crypto assets and payment stablecoins held in custody. Our money-transmitting subsidiary, CB Inc., and our custodian subsidiary, Coinbase Custody Trust Company, LLC (“CCTC”), which is a fiduciary under New York State Law and a qualified custodian under the Investment Advisers Act of 1940, are required to maintain minimum net capital requirements under agreements with the New York State Department of Financial Services. These subsidiaries and other subsidiaries are also subject to maintenance capital requirements by other regulators both within the United States and internationally. As of September 30, 2026, we were in compliance with these capital requirements.
+44
+Table of Contents
+As of September 30, 2026, our net capital requirements by subsidiary consisted of the following (in millions):
+Net Capital
+Required Net Capital  (1)
+Capital Surplus
+CB Inc.
+$
+2,928
+$
+1,185
+$
+1,743
+CCTC
+618
+222
+396
+Other  (2)
+1,018
+131
+887
+__________________
+(1)  Depending on the agreement between the subsidiary and the regulator, may include corporate holdings of cash and cash equivalents, Bitcoin, and Ethereum. Due to the volatility of crypto assets, Net Capital and Required Net Capital can fluctuate.
+(2)  Includes subsidiaries that are subject to requirements from regulators that allow for the intermediation of customer orders in derivatives markets or the operation of a regulated marketplace for the trading of such contracts.
+Critical Accounting Estimates
+Our Financial Statements and the related notes included elsewhere in this Quarterly Report on Form 10-Q are prepared in accordance with GAAP. The preparation of our Financial Statements also requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs, and expenses and related disclosures. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Actual results could differ significantly from our estimates. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, operating results, and cash flows will be affected.
+There have been no material changes to our critical accounting estimates as compared to the critical accounting estimates disclosed in the Annual Report.
+Recent accounting pronouncements
+See   Note 2. Summary of Significant Accounting Policies  —  Recent accounting pronouncements   of the Notes to our Financial Statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q for a discussion about new accounting pronouncements adopted and not yet adopted as of the date of this report.
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Market risk is the risk to our F  inancial Statements   associated with the effect of changes in market factors, including risks associated with interest rates, foreign currency, derivatives, marketable and strategic investments, and crypto assets. These assets and liabilities are held for purpo  ses other than tr  ading, except for our marketable investments, which are available for trading.   There have been no material changes to our market risk exposures from the information presented in Part II, Item 7A. “Quantitative and Qualitative Disclosures About Market Risk,” in the Annual Report except for our market risk exposure on our crypto assets held for investment. Though the nature of this exposure and the overall implied volatility of the crypto assets underlying this exposure have not changed since December 31, 2025, the number of units we hold and the price of the assets have changed, resulting in a material change in the output of our sensitivity analysis.
+Crypto assets held for investment are primarily held long term, and historically, we have not attempted to reduce our market risk exposure associated with these crypto assets. Crypto asset prices have been volatile, as demonstrated by the one-year historical volatility of Bitcoin and Ethereum of approximately 50% implied from the annualized standard deviation of daily price returns observed in the past 24 months. A hypothetical 50% increase or decrease in crypto asset prices as of September 30, 2026 and December 31, 2025 would result in a $1.1 billion and $1.0 billion impact, respectively, to the value of our Crypto assets held for investment and would have been recognized as a gain or loss in Gains on crypto assets held for investment, net in our Condensed Consolidated Statements of Operations. The increase in the
+45
+Table of Contents
+hypothetical gains or losses since December 31, 2025 primarily reflects an increase in the units of crypto assets held for investment.
+ITEM 4.   CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+Our disclosure controls and procedures are designed to ensure that information we are required to disclose in reports that we file or submit under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), is recorded, processed, summarized, and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+Our management, with the participation and supervision of our Chief Executive Officer (our principal executive officer) and our Chief Financial Officer (our principal financial officer), has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of   September 30, 2026  . Based on such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that as of   September 30, 2026  , our disclosure controls and procedures were, in design and operation, effective at a reasonable assurance level.
+Changes in Internal Controls Over Financial Reporting
+There were no changes to our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the most recently completed fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Inherent Limitations on the Effectiveness of Controls
+The effectiveness of any system of internal control over financial reporting, including ours, is subject to inherent limitations, including the exercise of judgment in designing, implementing, operating, and evaluating the controls and procedures, and the inability to eliminate misconduct completely. Accordingly, in designing and evaluating the disclosure controls and procedures, management recognizes that any system of internal control over financial reporting, including ours, no matter how well designed and operated, can only provide reasonable, not absolute assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs. Moreover, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. We intend to continue to monitor and upgrade our internal controls as necessary or appropriate for our business but cannot assure you that such improvements will be sufficient to provide us with effective internal control over financial reporting.
+PART II. OTHER INFORMATION
+ITEM 1.       LEGAL PROCEEDINGS
+For a description of material legal proceedings in which we are involved, see   Note 20. Commitments and Contingencies   of the Notes to our   Financial Statements   included in   Part I, Item 1   of this   Quarterly Report on Form 10-Q  , which is incorporated herein by reference.
+We are not presently a party to any other legal or regulatory proceedings that in the opinion of our management, if determined adversely to us, would individually or taken together have a material adverse effect on our business, operating results, financial condition, or cash flows. However, we are subject to regulatory oversight by numerous state, federal, and foreign regulators and we are and we may become
+46
+Table of Contents
+subject to various legal proceedings, inquiries, investigations, and demand letters that arise in the course of our business. For example, we have received investigative subpoenas and other inquiries from various state agencies and attorneys general for documents and information pertaining to our business practices and policies, customer complaints, asset launches, certain ongoing litigation, and certain transfers of crypto assets. In addition, we have received investigative subpoenas and demand letters from various regulators for documents and information, including about certain customer programs, operations, and existing and intended future products, including our processes for listing assets, the classification of certain listed assets, our staking programs, and our stablecoin and yield-generating products. We intend to cooperate fully with such investigations. These examples are not exhaustive.
+ITEM 1A.     RISK FACTORS
+There have been no material changes to the risk factors disclosed in Part I, Item 1A. “Risk Factors” of our Annual Report on Form 10-K for the year ended December 31, 2025 (the “Annual Report”). You should carefully consider the risks and uncertainties described in the Annual Report, together with all of the other information in this Quarterly Report on Form 10-Q, including the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and the Financial Statements and related notes. The risks and uncertainties described in the Annual Report are not the only ones we face. Additional risks and uncertainties that we are unaware of or that we deem immaterial may also become important factors that adversely affect our business. If any such risks occur, our business, operating results, financial condition, and future prospects could be materially and adversely affected.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Unregistered Sales of Equity Securities
+There were no unregistered sales of equity securities during the three months ended September 30, 2026.
+Issuer Purchases of Equity Securities
+In October 2024, our board of directors authorized and approved a share repurchase program, which provided for the repurchase of up to   $1.0 billion   of our outstanding Class A common stock without expiration. In October 2025, our board of directors (i) increased the aggregate repurchase authorization under the program from   $1.0 billion   to   $2.0 billion   and (ii) expanded the scope of the repurchases to include a portion of the aggregate principal amount of our then outstanding 2026 Convertible Notes, 2029 Convertible Notes, 2030 Convertible Notes, 2032 Convertible Notes, and both series of Senior Notes (collectively, the “Notes”). In January 2026, our board of directors approved a   $2.0 billion   increase in the authorization of our previously announced repurchase program from   $2.0 billion   to   $4.0 billion   (as modified, the “Repurchase Program”). Repurchases may be made from time to time in the open market (including through trading plans intended to qualify under Rule 10b5-1 under the Exchange Act), in privately negotiated transactions, in a tender offer, or by other methods in accordance with the applicable federal and state laws and regulations. The timing and amount of any repurchases will depend on market conditions and other considerations, and will be made at management’s discretion. The Repurchase Program does not obligate us to repurchase any dollar amount or number of shares of our Class A common stock or Notes and may be modified, suspended, or discontinued at any time.
+47
+Table of Contents
+The following table contains information relating to the repurchases of shares of our Class A common stock made by us in the three months ended September 30, 2026.
+Period     Total Number of Shares Purchased
+Average Price Paid per Share  (1)
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs  (2)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs
+July 1 – July 31, 2026     —       $    —       —       $    1,966,316,652
+August 1 – August 31, 2026     37,995       $    139.91       37,995       $    1,961,000,676
+September 1 – September 30, 2026     —       $    —       —       $    1,961,000,676
+37,995         37,995
+__________________
+(1)  Average price paid per share includes commissions related to repurchases.
+(2)  Share counts reported in this table are recognized on a settlement date basis.
+The above table excludes shares repurchased to settle employee tax withholding related to the vesting of stock awards. See the Condensed Consolidated Statements of Changes in Shareholders’ Equity included in Part I, Item 1 of this Quarterly Report on Form 10-Q for quantification of all shares repurchased by us during the periods presented.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None
+ITEM 4.   MINE SAFETY DISCLOSURES
+Not applicable
+ITEM 5.   OTHER INFORMATION
+Rule 10b5-1    Trading Plans
+The Company’s directors and officers (as defined in Rule 16a-1(f) under the Exchange Act) are only permitted to trade in the Company’s securities pursuant to a prearranged trading plan intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act (a “Rule 10b5-1 Plan”). During the three months ended September 30, 2026, one of the Company’s non-employee directors and two of the Company’s officers adopted Rule 10b5-1 Plans, which were entered into during an open trading window in accordance with the Company’s Insider Trading Policy and Trading Plan Policy.
+On  August 12, 2026 ,  Brian Armstrong , the Company’s  Chief Executive Officer  and a member of the Company’s board of directors,  entered  into a Rule 10b5-1 Plan (the “Armstrong Plan”) providing for the potential sale of up to  8,167,446  shares of Class A common stock owned by Mr. Armstrong upon the exercise of vested stock options, so long as the market price of the Class A common stock satisfies certain threshold prices specified in the Armstrong Plan, between an estimated start date of November 16, 2026 and  October 22, 2027 , or earlier, upon the completion of all transactions subject to the trading arrangements specified in the Armstrong Plan or the occurrence of certain events set forth therein.
+On  September 4, 2026 ,  Frederick Ernest Ehrsam III , a  member of the Company’s board of directors ,  entered  into a Rule 10b5-1 Plan (the “Ehrsam Plan”) providing for the potential sale of up to  3,866,620  shares of Class A common stock issuable upon the conversion of shares of Class B common stock owned by The Frederick Ernest Ehrsam III Living Trust, of which Mr. Ehrsam is trustee, so long as the market price of the Class A common stock satisfies certain threshold prices specified in the Ehrsam Plan, between an estimated start date of December 7, 2026 and  June 7, 2027 , or earlier, upon the completion of all transactions subject to the trading arrangements specified in the Ehrsam Plan or the occurrence of certain events set forth therein.
+48
+Table of Contents
+On  September 8, 2026 ,  Emilie Choi , the Company’s  President and Chief Operating Officer ,  entered  into a Rule 10b5-1 Plan (the “Choi Plan”) providing for the potential sale of up to  1,560,453  shares of Class A common stock (i) owned by Ms. Choi, including upon the vesting and settlement of restricted stock units and performance restricted stock units for shares of Class A common stock and the exercise of vested stock options for shares of Class A common stock and (ii) held by the Starvurst Exempt Trust, of which Ms. Choi’s spouse is a co-trustee, plus an additional undetermined number of shares of Class A common stock to be received by Ms. Choi upon the future grant, vesting, and settlement of restricted stock units for shares of Class A common stock, so long as the market price of the Class A common stock satisfies certain threshold prices specified in the Choi Plan, between an estimated start date of January 4, 2027 and  December 31, 2027 , or earlier, upon the completion of all transactions subject to the trading arrangements specified in the Choi Plan or the occurrence of certain events set forth therein. The Choi Plan provides for the sale of shares of Class A common stock (i) net of certain shares sold pursuant to Ms. Choi’s prior Rule 10b5-1 Plan dated August 12, 2025 (the “Prior Choi Plan”), (ii) to be received upon the future grant, vesting and settlement of certain restricted stock units, and (iii) to be received upon the future vesting and settlement of certain outstanding restricted stock units and performance restricted stock units, net of any shares withheld or mandatorily sold by the Company to satisfy applicable tax obligations. The number of shares (i) to be sold under the Prior Choi Plan, (ii) to be received by Ms. Choi upon the future grant, vesting, and settlement of restricted stock units for shares of Class A common stock, and (iii) to be withheld or mandatorily sold by the Company, and therefore the exact number of shares to be sold pursuant to the Choi Plan, can only be determined upon the occurrence of future events. For purposes of this disclosure, we have included the maximum aggregate number of shares to be sold without (i) subtracting any shares sold under the Prior Choi Plan, (ii) including any shares to be sold upon the future vesting and settlement of any restricted stock units that have not yet been granted, and (iii) subtracting any shares to be withheld or mandatorily sold by the Company upon future vesting events.
+49
+Table of Contents
+ITEM 6.   EXHIBITS
+Incorporated by Reference     Filed or Furnished Herewith
+Exhibit
+Number     Description     Form     File No.     Exhibit     Filing Date
+10.1
+Advisor Agreement  , dated July 8, 2026,   by and between Coinbase  , Inc.   and Paul Grewal
+8-K
+001-40289
+10.1     7/9/2026
+10.2
+Advisor Agreement  ,     dated July 23, 2026,   by and between Coinbase  , Inc.   and   Lawrence Brock
+8-K
+001-40289
+10.1     7/23/2026
+31.1
+Certification of Principal Executive Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Exchange Act, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+X
+31.2
+Certification of Principal Financial Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Exchange Act, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+X
+32.1
+Certification of Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+X
+32.2
+Certification of Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+X
+101.INS     Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)             X
+101.SCH     Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents             X
+104
+Cover Page Interactive Data File - the cover page from the registrant’s Quarterly Report on Form 10-Q for the quarter ended  September 30, 2026  is formatted as Inline XBRL and contained in Exhibit 101
+X
+The certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Quarterly Report on Form 10-Q and are not deemed “filed” for purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, nor shall they be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act.
+50
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this Quarterly Report on Form 10-Q to be signed on its behalf by the undersigned, thereunto duly authorized.
+COINBASE GLOBAL, INC.
+Date: October 29, 2026
+By:
+/s/ Brian Armstrong
+Brian Armstrong
+Chief Executive Officer and Director
+(  Principal Executive Officer  )
+Date: October 29, 2026
+By:
+/s/ Alesia J. Haas
+Alesia J. Haas
+Chief Financial Officer
+(  Principal Financial Officer  )
+51

@@ -1,0 +1,350 @@
+EX-99.1
+2
+q32023991.htm
+EX-99.1
+Document
+NEWS RELEASE
+Media Contact:
+Drew Prairie
+AMD Communications
+512-602-4425
+drew.prairie@amd.com
+Investor Contact:
+Mitch Haws
+AMD Investor Relations
+408-749-3124
+mitch.haws@amd.com
+AMD Reports Third Quarter 2023 Financial Results
+SANTA CLARA, Calif. ― Oct. 31, 2023 ―   AMD (NASDAQ:AMD) today announced revenue for the third quarter of 2023 of $5.8 billion, gross margin of 47%, operating income of $224 million, net income of $  299 million   and diluted earnings per share of   $0.18  . On a non-GAAP  (*)   basis, gross margin was 51%, operating income was $1.3 billion, net income was $1.1 billion and diluted earnings per share was $0.70.
+“We delivered strong revenue and earnings growth driven by demand for our Ryzen 7000 series PC processors and record server processor sales,” said AMD Chair and CEO Dr. Lisa Su. “Our data center business is on a significant growth trajectory based on the strength of our EPYC CPU portfolio and the ramp of Instinct MI300 accelerator shipments to support multiple deployments with hyperscale, enterprise and AI customers.”
+“We executed well in the third quarter, delivering year-over-year growth in revenue, gross margin and earnings per share,” said AMD EVP, CFO and Treasurer Jean Hu. “In the fourth quarter, we expect to see strong growth in Data Center and continued momentum in Client, partially offset by lower sales in the Gaming segment and additional softening of demand in the embedded markets.”
+GAAP Quarterly Financial Results
+1
+Q3 2023    Q3 2022    Y/Y    Q2 2023    Q/Q
+Revenue ($M)    $5,800    $5,565    Up 4%    $5,359    Up 8%
+Gross profit ($M)    $2,747    $2,354    Up 17%    $2,443    Up 12%
+Gross margin    47%    42%    Up 5 ppts    46%    Up 1 ppt
+Operating expenses ($M)    $2,533    $2,426    Up 4%    $2,471    Up 3%
+Operating income (loss) ($M)    $224    $(64)    Up 450%    $(20)    Up 1,220%
+Operating margin    4%    (1%)    Up 5 ppts    0%    Up 4 ppts
+Net income ($M)    $299    $66    Up 353%    $27    Up 1,007%
+Diluted earnings per share    $0.18    $0.04    Up 350%    $0.02    Up 800%
+Non-GAAP(*) Quarterly Financial Results
+Q3 2023    Q3 2022    Y/Y    Q2 2023    Q/Q
+Revenue ($M)    $5,800    $5,565    Up 4%    $5,359    Up 8%
+Gross profit ($M)    $2,963    $2,776    Up 7%    $2,665    Up 11%
+Gross margin    51%    50%    Up 1 ppt    50%    Up 1 ppt
+Operating expenses ($M)    $1,697    $1,520    Up 12%    $1,605    Up 6%
+Operating income ($M)    $1,276    $1,264    Flat    $1,068    Up 19%
+Operating margin    22%    23%    Down 1 ppt    20%    Up 2 ppts
+Net income ($M)    $1,135    $1,095    Up 4%    $948    Up 20%
+Diluted earnings per share    $0.70    $0.67    Up 4%    $0.58    Up 21%
+Quarterly Segment Summary
+•  Data Center segment revenue was $1.6 billion, flat year-over-year, as growth in 4  th   Gen AMD EPYC™ CPU sales was offset by a decline in adaptive System-on-Chip (SoC) data center products.
+◦  Revenue increased 21% sequentially as customer adoption of 4  th   Gen AMD EPYC CPUs accelerated during the quarter.
+◦  AMD Instinct™ MI300A and MI300X GPUs are on track for volume production in the fourth quarter to support deployments with several leading HPC, cloud and AI customers.
+•  Client segment revenue was $1.5 billion, up 42% year-over-year driven primarily by higher Ryzen mobile processor sales.
+◦  Revenue grew 46% sequentially driven by an increase in AMD Ryzen™ 7000 Series CPU sales.
+•  Gaming segment revenue was $1.5 billion, down 8% year-over-year, primarily due to a decline in semi-custom revenue, partially offset by an increase in AMD Radeon™ GPU sales.
+◦  Revenue declined 5% sequentially due to lower semi-custom sales.
+•  Embedded segment revenue was $1.2 billion, down 5% year-over-year primarily due to a decrease in revenue in the communications market.
+◦  Revenue decreased 15% sequentially due to inventory correction at customers in several end markets.
+2
+Recent PR Highlights
+•  Cloud adoption of AMD EPYC processors continues to grow significantly, with nearly 100 new instances from Microsoft Azure, AWS, Oracle and others available for preview and general access, including new AWS instances powered by 4  th   Gen AMD EPYC CPUs that deliver leadership performance and energy efficiency.
+•  AMD expanded the 4  th   Gen EPYC CPU portfolio with the launch of the AMD EPYC 8004 Series processors, purpose built to deliver exceptional energy efficiency and performance for cloud services, intelligent edge and telco.
+•  AMD made significant progress powering pervasive AI across the cloud, edge and end point devices:
+◦  AMD completed the acquisition of open-source AI software expert Nod.ai, expanding the company’s open AI software capabilities. Nod.ai has developed an industry-leading software technology that accelerates the deployment of AI solutions optimized for AMD Instinct data center accelerators, Ryzen AI processors, EPYC processors, Versal™ SoCs and Radeon GPUs.
+◦  AMD acquired AI software leader Mipsology. With proven expertise delivering AI software and solutions running on top of AMD adaptive computing silicon, the Mipsology team will help develop the full AMD AI software stack and expand the open ecosystem of software tools, libraries and models.
+◦  AI startup Lamini unveiled that it has been running production-ready Large Language Models (LLMs) exclusively on AMD Instinct accelerators, enabling enterprise customers to deploy LLMs finetuned for their specific data across hundreds of AMD Instinct MI250 GPUs with only three lines of code.
+•  AMD expanded its AMD Ryzen processor lineup, delivering more performance and capabilities for enthusiasts, gamers and creators:
+◦  AMD announced the AMD Ryzen Threadripper™ PRO 7000 WX-Series and Ryzen Threadripper 7000 processors, delivering outstanding performance for the most demanding desktop platforms. Ryzen Threadripper PRO 7000 WX-Series processors will be available later this year to DIY customers, SI partners and through OEM partners including Dell Technologies, HP and Lenovo.
+◦  AMD launched new Ryzen 7045HX3D Series mobile processors, the first mobile processor with AMD 3D V-Cache™ technology, and the world’s fastest mobile gaming processor.
+◦  AMD launched the AMD Ryzen 5 5600X3D processor, delivering incredible gaming performance with AMD 3D V-cache technology.
+•  Leadership AMD adaptive and embedded computing products are enabling new capabilities in key markets:
+3
+◦  AMD extended its leadership in radiation-tolerant, space-grade compute solutions with the announcement of the Versal AI Edge XQRVE2302, the second device in the Versal adaptive SoC portfolio to be qualified for space flight.
+◦  AMD announced the AMD Alveo™ UL3524 accelerator card, a new fintech accelerator designed for electronic trading applications and AI-enabled trading strategies.
+◦  AMD announced the AMD Kria™ K24 System-on-Module (SOM) and KD240 Drives Starter Kit, offering power-efficient compute in a small form factor for cost-sensitive industrial and commercial edge applications.
+•  New AMD graphics processors and software features are enabling incredible experiences for gamers and professionals:
+◦  AMD introduced the flagship laptop graphics processor, AMD Radeon RX 7900M, the fastest AMD Radeon GPU ever developed for laptops, delivering desktop-class performance for gaming and content creation.
+◦  AMD launched the Radeon RX 7800 XT and Radeon RX 7700 XT graphics cards, optimized to deliver incredibly high-performance, high-refresh 1440p gaming experiences for demanding AAA and esports titles.
+◦  AMD launched FidelityFX™ Super Resolution 3 in   Forspoken   and   Immortals of Aveum  , featuring new frame generation technology that delivers massive performance improvements over both native resolution and temporal upscaling.
+◦  AMD launched the latest version of the AMD Software: Adrenalin Edition application featuring AMD HYPR-RX technology, allowing AMD Radeon Super Resolution and AMD Radeon Boost technologies to work together to deliver greater performance.
+◦  AMD launched the Radeon PRO W7600 and Radeon PRO W7500 workstation graphics cards, engineered   to tackle workloads across a range of professional industries.
+•  AMD published its annual Corporate Responsibility Report, detailing 2022 progress across focus areas spanning digital impact, environmental sustainability, supply chain responsibility, and diversity, belonging and inclusion.
+•  AMD announced plans to invest approximately $400 million over the next five years to expand research, development and engineering operations in India, including the addition of approximately 3,000 new engineering roles by the end of 2028.
+Current Outlook
+AMD’s outlook statements are based on current expectations. The following statements are forward-looking and actual results could differ materially depending on market conditions and the factors set forth under “Cautionary Statement” below.
+4
+For the fourth quarter of 2023, AMD expects revenue to be approximately $6.1 billion, plus or minus $300 million. At the mid-point of the revenue range, this represents year-over-year growth of approximately 9% and sequential growth of approximately 5%. Non-GAAP gross margin is expected to be approximately 51.5%.
+AMD Teleconference
+AMD will hold a conference call for the financial community at 2:00 p.m. PT (5:00 p.m. ET) today to discuss its third quarter 2023 financial results. AMD will provide a real-time audio broadcast of the teleconference on the Investor Relations page of its website at www.amd.com.
+5
+RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES
+(in millions, except per share data) (Unaudited)
+Three Months Ended
+September 30,
+2023      July 1,
+2023      September 24,
+2022
+GAAP gross profit      $    2,747           $    2,443           $    2,354
+GAAP gross margin      47       %      46       %      42       %
+Stock-based compensation      6         10         8
+Amortization of acquisition-related intangibles      210         212         412
+Acquisition-related and other costs   (1)
+—         —         2
+Non-GAAP gross profit      $    2,963           $    2,665           $    2,776
+Non-GAAP gross margin      51       %      50       %      50       %
+GAAP operating expenses      $    2,533           $    2,471           $    2,426
+GAAP operating expenses/revenue %      44       %      46       %      44       %
+Stock-based compensation      347         338         261
+Amortization of acquisition-related intangibles      450         481         590
+Acquisition-related and other costs   (1)
+39         47         55
+Non-GAAP operating expenses      $    1,697           $    1,605           $    1,520
+Non-GAAP operating expenses/revenue %      29       %      30       %      27       %
+GAAP operating income (loss)      $    224           $    (20)        $    (64)
+GAAP operating margin      4       %      0       %      (1)    %
+Stock-based compensation      353         348         269
+Amortization of acquisition-related intangibles      660         693         1,002
+Acquisition-related and other costs   (1)
+39         47         57
+Non-GAAP operating income      $    1,276           $    1,068           $    1,264
+Non-GAAP operating margin      22       %      20       %      23       %
+Three Months Ended
+September 30,
+2023      July 1,
+2023      September 24,
+2022
+GAAP net income / diluted earnings per share      $    299           $    0.18           $    27           $    0.02           $    66           $    0.04
+(Gains) losses on equity investments, net      (4)        —         3         —         3         —
+Stock-based compensation      353         0.22         348         0.21         269         0.16
+Equity income in investee      (3)        —         (6)        —         (4)        —
+Amortization of acquisition-related intangibles      660         0.41         693         0.42         1,002         0.62
+Acquisition-related and other costs   (1)
+39         0.02         47         0.03         57         0.04
+Income tax provision      (209)        (0.13)        (164)        (0.10)        (298)        (0.19)
+Non-GAAP net income / diluted earnings per share      $    1,135           $    0.70           $    948           $    0.58           $    1,095           $    0.67
+(1)      Acquisition-related and other costs primarily comprised of transaction costs, purchase price adjustments for inventory, certain compensation charges, contract termination and workforce rebalancing charges.
+6
+About AMD
+For more than 50 years AMD has driven innovation in high-performance computing, graphics and visualization technologies. AMD employees are focused on building leadership high-performance and adaptive products that push the boundaries of what is possible. Billions of people, leading Fortune 500 businesses and cutting-edge scientific research institutions around the world rely on AMD technology daily to improve how they live, work and play. For more information about how AMD is enabling today and inspiring tomorrow, visit the AMD (NASDAQ: AMD) website, blog, Facebook and Twitter pages.
+Cautionary Statement
+This press release contains forward-looking statements concerning Advanced Micro Devices, Inc. (AMD) such as the significant growth trajectory of AMD’s data center business; that AMD expects to see strong growth in Data Center and continued momentum in Client, partially offset by lower sales in the Gaming segment and additional softening of demand in the embedded markets; that AMD Instinct™ MI300A and MI300X GPUs are on track for volume production in the fourth quarter of 2023 to support deployments with several leading HPC, Cloud and AI customers;   the features, functionality, performance, availability, timing and expected benefits of AMD products  ; AMD’s plans to invest approximately $400 million over the next five years to expand   research, development and engineering operations in India, including the addition of approximately 3,000 new engineering roles by the end of 2028; and AMD’s expected fourth quarter 2023 financial outlook, including revenue and non-GAAP gross margin, which are made pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are commonly identified by words such as "would," "may," "expects," "believes," "plans," "intends," "projects" and other terms with similar meaning. Investors are cautioned that the forward-looking statements in this press release are based on current beliefs, assumptions and expectations, speak only as of the date of this press release and involve risks and uncertainties that could cause actual results to differ materially from current expectations. Such statements are subject to certain known and unknown risks and uncertainties, many of which are difficult to predict and generally beyond AMD's control, that could cause actual results and other future events to differ materially from those expressed in, or implied or projected by, the forward-looking information and statements. Material factors that could cause actual results to differ materially from current expectations include, without limitation, the following: Intel Corporation’s dominance of the microprocessor market and its aggressive business practices; global economic uncertainty; cyclical nature of the semiconductor industry; market conditions of the industries in which AMD products are sold; loss of a significant customer; impact of the COVID-19 pandemic on AMD’s business, financial condition and results of operations; competitive markets in which AMD’s products are sold; quarterly and seasonal sales patterns; AMD's ability to adequately protect its technology or other intellectual property; unfavorable currency exchange rate fluctuations; ability of third party manufacturers to manufacture AMD's products on a timely basis in sufficient quantities and using competitive technologies; availability of essential equipment, materials, substrates or manufacturing processes; ability to achieve expected manufacturing yields for AMD’s products; AMD's ability to introduce products on a timely basis with expected features and performance levels; AMD's ability to generate revenue from its semi-custom SoC products; potential security vulnerabilities; potential security incidents including IT outages, data loss, data breaches and cyber-attacks; potential difficulties in upgrading and operating AMD’s new enterprise resource planning system; uncertainties involving the ordering and shipment of AMD’s products; AMD’s reliance on third-party intellectual property to design and introduce new products in a timely manner; AMD's reliance on third-party companies for design, manufacture and supply of motherboards, software and other computer platform components; AMD's reliance on Microsoft and other software vendors' support to design and develop software to run on AMD’s products; AMD’s reliance on third-party distributors and add-in-board partners; impact of modification or interruption of AMD’s internal business processes and information systems; compatibility of AMD’s products with some or all industry-standard software and hardware; costs related to defective products; efficiency of AMD's supply chain; AMD's ability to rely on third party supply-chain logistics functions; AMD’s ability to effectively control sales of its products on the gray market; impact of government actions and regulations such as export administration regulations, tariffs and trade protection measures; AMD’s ability to realize its deferred tax assets; potential tax liabilities; current and future claims and litigation; impact of environmental laws, conflict minerals-related provisions and other laws or regulations; impact of acquisitions, joint ventures and/or investments on AMD’s business and AMD’s ability to integrate acquired businesses; impact of any impairment of AMD’s tangible, definite-lived or indefinite-lived intangible assets, including goodwill, on AMD’s financial position and results of operation; restrictions imposed by agreements governing AMD’s notes, the guarantees of Xilinx’s notes and the revolving credit facility; AMD's indebtedness; AMD's ability to generate sufficient cash to meet its working capital requirements or generate sufficient revenue and operating cash flow to make all of its planned R&D or strategic investments, as well as the impact of financial institution failure on AMD’s cash and cash equivalents; political, legal, economic risks and natural disasters; future impairments of technology license purchases; AMD’s ability to attract and retain qualified personnel; AMD’s stock price volatility. Investors are urged to review in detail the risks and uncertainties in AMD’s Securities and Exchange Commission filings, including but not limited to AMD’s most recent reports on Forms 10-K and 10-Q.
+7
+(*)
+In this earnings press release, in addition to GAAP financial results, AMD has provided non-GAAP financial measures including non-GAAP gross profit, non-GAAP operating expenses, non-GAAP operating income, non-GAAP net income, non-GAAP diluted earnings per share. AMD uses a normalized tax rate in its computation of the non-GAAP income tax provision to provide better consistency across the reporting periods. For fiscal 2023, AMD uses a projected non-GAAP tax rate of 13%, which excludes the tax impact of pre-tax non-GAAP adjustments, reflecting currently available information. AMD also provided adjusted EBITDA and free cash flow as supplemental non-GAAP measures of its performance. These items are defined in the footnotes to the selected corporate data tables provided at the end of this earnings press release. AMD is providing these financial measures because it believes this non-GAAP presentation makes it easier for investors to compare its operating results for current and historical periods and also because AMD believes it assists investors in comparing AMD’s performance across reporting periods on a consistent basis by excluding items that it does not believe are indicative of its core operating performance and for the other reasons described in the footnotes to the selected data tables. The non-GAAP financial measures disclosed in this earnings press release should be viewed in addition to and not as a substitute for or superior to AMD’s reported results prepared in accordance with GAAP and should be read only in conjunction with AMD’s Consolidated Financial Statements prepared in accordance with GAAP. These non-GAAP financial measures referenced are reconciled to their most directly comparable GAAP financial measures in the data tables in this earnings press release. This earnings press release also contains forward-looking non-GAAP gross margin concerning AMD’s financial outlook, which is based on current expectations as of October 31, 2023 and assumptions and beliefs that involve numerous risks and uncertainties. Adjustments to arrive at the GAAP gross margin outlook typically include stock-based compensation, amortization of acquired intangible assets and acquisition-related and other costs. The timing and impact of such adjustments are dependent on future events that are typically uncertain or outside of AMD's control, therefore, a reconciliation to equivalent GAAP measures is not practicable at this time. AMD undertakes no intent or obligation to publicly update or revise its outlook statements as a result of new information, future events or otherwise, except as may be required by law.
+-30-
+AMD, the AMD Arrow logo, EPYC, Radeon, Ryzen, Instinct, Versal, Alveo, Kria, FidelityFX, 3D V-Cache, Ultrascale+, Zynq, Threadripper and combinations thereof, are trademarks of Advanced Micro Devices, Inc.
+8
+ADVANCED MICRO DEVICES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Millions except per share amounts and percentages) (Unaudited)
+Three Months Ended      Nine Months Ended
+September 30,
+2023      July 1,
+2023      September 24,
+2022      September 30,
+2023      September 24,
+2022
+Net revenue      $    5,800         $    5,359         $    5,565         $    16,512         $    18,002
+Cost of sales      2,843         2,704         2,799         8,236         8,797
+Amortization of acquisition-related intangibles      210         212         412         727         1,005
+Total cost of sales      3,053         2,916         3,211         8,963         9,802
+Gross profit      2,747         2,443         2,354         7,549         8,200
+Gross margin      47     %      46     %      42     %      46     %      46     %
+Research and development      1,507         1,443         1,279         4,361         3,639
+Marketing, general and administrative      576         547         557         1,708         1,746
+Amortization of acquisition-related intangibles      450         481         590         1,449         1,499
+Licensing gain      (10)        (8)        (8)        (28)        (97)
+Operating income (loss)      224         (20)        (64)        59         1,413
+Interest expense      (26)        (28)        (31)        (79)        (69)
+Other income (expense), net      59         46         22         148         (24)
+Income (loss) before income taxes and equity income      257         (2)        (73)        128         1,320
+Income tax provision (benefit)      (39)        (23)        (135)        (49)        32
+Equity income in investee      3         6         4         10         11
+Net income      $    299         $    27         $    66         $    187         $    1,299
+Earnings per share
+Basic      $    0.18         $    0.02         $    0.04         $    0.12         $    0.84
+Diluted      $    0.18         $    0.02         $    0.04         $    0.11         $    0.84
+Shares used in per share calculation
+Basic      1,616         1,612         1,615         1,613         1,542
+Diluted      1,629         1,627         1,625         1,625         1,555
+9
+ADVANCED MICRO DEVICES, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Millions)
+September 30,
+2023      December 31,
+2022
+(Unaudited)
+ASSETS
+Current assets:
+Cash and cash equivalents      $    3,561         $    4,835
+Short-term investments      2,224         1,020
+Accounts receivable, net      5,054         4,126
+Inventories      4,445         3,771
+Receivables from related parties      1         2
+Prepaid expenses and other current assets      1,403         1,265
+Total current assets      16,688         15,019
+Property and equipment, net      1,566         1,513
+Operating lease right-of-use assets      507         460
+Goodwill      24,186         24,177
+Acquisition-related intangibles, net      21,950         24,118
+Investment: equity method      93         83
+Deferred tax assets      76         58
+Other non-current assets      2,560         2,152
+Total Assets      $    67,626         $    67,580
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+Accounts payable      $    2,245         $    2,493
+Payables to related parties      325         463
+Accrued liabilities      3,376         3,077
+Current portion of long-term debt, net      752         —
+Other current liabilities      929         336
+Total current liabilities      7,627         6,369
+Long-term debt, net of current portion      1,715         2,467
+Long-term operating lease liabilities      395         396
+Deferred tax liabilities      1,152         1,934
+Other long-term liabilities      1,767         1,664
+Stockholders' equity:
+Capital stock:
+Common stock, par value      17         16
+Additional paid-in capital      59,182         58,005
+Treasury stock, at cost      (4,235)        (3,099)
+Retained earnings (Accumulated deficit)      56         (131)
+Accumulated other comprehensive loss      (50)        (41)
+Total stockholders' equity      $    54,970         $    54,750
+Total Liabilities and Stockholders' Equity      $    67,626         $    67,580
+10
+ADVANCED MICRO DEVICES, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Millions) (Unaudited)
+Three Months Ended      Nine Months Ended
+September 30,
+2023      September 24,
+2022      September 30,
+2023      September 24,
+2022
+Cash flows from operating activities:
+Net income    $    299         $    66         $    187         $    1,299
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization    823         1,165         2,654         2,954
+Stock-based compensation    353         275         1,010         766
+Amortization of operating lease right-of-use assets    25         23         73         63
+Amortization of inventory fair value adjustment    —         2         3         187
+Loss on sale or disposal of property and equipment    3         —         10         15
+Deferred income taxes    (218)        (710)        (800)        (1,328)
+(Gains) losses on equity investments, net    (3)        3         (1)        57
+Other    (23)        (5)        (43)        (9)
+Changes in operating assets and liabilities
+Accounts receivable, net    (743)        (285)        (929)        (1,301)
+Inventories    122         (723)        (674)        (997)
+Receivables from related parties    1         —         1         (1)
+Prepaid expenses and other assets    (143)        (588)        (380)        (825)
+Payables to related parties    13         36         (137)        313
+Accounts payable    (547)        783         (238)        811
+Accrued and other liabilities    459         923         550         994
+Net cash provided by operating activities    421         965         1,286         2,998
+Cash flows from investing activities:
+Purchases of property and equipment    (124)        (123)        (407)        (326)
+Purchases of short-term investments    (496)        (1,779)        (3,312)        (2,399)
+Proceeds from maturity of short-term investments    746         615         1,917         2,864
+Proceeds from sale of short-term investments    —         —         248         —
+Cash received from acquisition of Xilinx    —         —         —         2,366
+Acquisitions, net of cash acquired    (14)        —         (14)        (1,558)
+Other    (10)        (11)        (5)        (15)
+Net cash provided by (used in) investing activities    102         (1,298)        (1,573)        932
+Cash flows from financing activities:
+Proceeds from debt, net of issuance costs    —         —         —         991
+Repayment of debt    —         (312)        —         (312)
+Proceeds from sales of common stock through employee equity plans    4         1         148         79
+Repurchases of common stock    (511)        (617)        (752)        (3,452)
+Common stock repurchases for tax withholding on employee equity plans    (295)        (305)        (382)        (371)
+Other    (1)        —         (1)        (2)
+Net cash used in financing activities    (803)        (1,233)        (987)        (3,067)
+Net increase (decrease) in cash and cash equivalents    (280)        (1,566)        (1,274)        863
+Cash and cash equivalents at beginning of period    3,841         4,964         4,835         2,535
+Cash and cash equivalents at end of period    $    3,561         $    3,398         $3,561      $    3,398
+11
+ADVANCED MICRO DEVICES, INC.
+SELECTED CORPORATE DATA
+(Millions) (Unaudited)
+Three Months Ended      Nine Months Ended
+September 30,
+2023      July 1,
+2023      September 24,
+2022      September 30,
+2023      September 24,
+2022
+Segment and Category Information  (1)
+Data Center
+Net revenue      $    1,598         $    1,321         $    1,609         $    4,214         $    4,388
+Operating income      $    306         $    147         $    505         $    601         $    1,404
+Client
+Net revenue      $    1,453         $    998         $    1,022         $    3,190         $    5,298
+Operating income (loss)      $    140         $    (69)        $    (26)        $    (101)        $    1,342
+Gaming
+Net revenue      $    1,506         $    1,581         $    1,631         $    4,844         $    5,161
+Operating income      $    208         $    225         $    142         $    747         $    687
+Embedded
+Net revenue      $    1,243         $    1,459         $    1,303         $    4,264         $    3,155
+Operating income      $    612         $    757         $    635         $    2,167         $    1,553
+All Other
+Net revenue      $    —         $    —         $    —         $    —         $    —
+Operating loss      $    (1,042)        $    (1,080)        $    (1,320)        $    (3,355)        $    (3,573)
+Total
+Net revenue      $    5,800           $    5,359           $    5,565           $    16,512           $    18,002
+Operating income (loss)      $    224           $    (20)        $    (64)        $    59           $    1,413
+(Blank)
+Other Data
+Capital expenditures      $    124         $    125         $    123         $    407         $    326
+Adjusted EBITDA   (2)
+$    1,439         $    1,224         $    1,427         $    3,920         $    5,533
+Cash, cash equivalents and short-term investments      $    5,785         $    6,285         $    5,591         $    5,785         $    5,591
+Free cash flow   (3)
+$    297         $    254         $    842         $    879         $    2,672
+Total assets      $    67,626         $    67,967         $    67,811         $    67,626         $    67,811
+Total debt      $    2,467         $    2,467         $    2,466         $    2,467         $    2,466
+12
+(1)      The Data Center segment primarily includes server microprocessors (CPUs) and graphics processing units (GPUs), data processing units (DPUs), Field Programmable Gate Arrays (FPGAs) and Adaptive System-on-Chip (SoC) products for data centers.
+The Client segment primarily includes CPUs, accelerated processing units that integrate microprocessors and GPUs (APUs), and chipsets for desktop and notebook personal computers.
+The Gaming segment primarily includes discrete GPUs, semi-custom SoC products and development services.
+The Embedded segment primarily includes embedded CPUs and GPUs, APUs, FPGAs, and Adaptive SoC products.
+From time to time, the Company may also sell or license portions of its IP portfolio.
+All Other category primarily includes certain expenses and credits that are not allocated to any of the operating segments, such as amortization of acquisition-related intangible asset, employee stock-based compensation expense, acquisition-related and other costs, and licensing gain.
+(2)      Reconciliation of GAAP Net Income to Adjusted EBITDA
+Three Months Ended      Nine Months Ended
+September 30,
+2023      July 1,
+2023      September 24,
+2022      September 30,
+2023      September 24,
+2022
+GAAP net income      $    299         $    27         $    66         $    187         $    1,299
+Interest expense      26         28         31         79         69
+Other (income) expense, net      (59)        (46)        (22)        (148)        24
+Income tax provision (benefit)      (39)        (23)        (135)        (49)        32
+Equity income in investee      (3)        (6)        (4)        (10)        (11)
+Stock-based compensation      353         348         269         1,006         702
+Depreciation and amortization      163         156         163         478         450
+Amortization of acquisition-related intangibles      660         693         1,002         2,176         2,504
+Acquisition-related and other costs      39         47         57         201         464
+Adjusted EBITDA      $    1,439         $    1,224         $    1,427         $    3,920         $    5,533
+The Company presents “Adjusted EBITDA” as a supplemental measure of its performance. Adjusted EBITDA for the Company is determined by adjusting GAAP net income for interest expense, other income (expense), net, income tax provision (benefit), equity income in investee, stock-based compensation, depreciation and amortization expense (including amortization of acquisition-related intangibles), acquisition-related and other costs. The Company calculates and presents Adjusted EBITDA because management believes it is of importance to investors and lenders in relation to its overall capital structure and its ability to borrow additional funds. In addition, the Company presents Adjusted EBITDA because it believes this measure assists investors in comparing its performance across reporting periods on a consistent basis by excluding items that the Company does not believe are indicative of its core operating performance. The Company’s calculation of Adjusted EBITDA may or may not be consistent with the calculation of this measure by other companies in the same industry. Investors should not view Adjusted EBITDA as an alternative to the GAAP operating measure of income or GAAP liquidity measures of cash flows from operating, investing and financing activities. In addition, Adjusted EBITDA does not take into account changes in certain assets and liabilities that can affect cash flows.
+(3)      Reconciliation of GAAP Net Cash Provided by Operating Activities to Free Cash Flow
+Three Months Ended      Nine Months Ended
+September 30,
+2023      July 1,
+2023      September 24,
+2022      September 30,
+2023      September 24,
+2022
+GAAP net cash provided by operating activities      $    421         $    379         $    965         $    1,286         $    2,998
+Operating cash flow margin %      7     %      7     %      17     %      8     %      17     %
+Purchases of property and equipment      $    (124)        $    (125)        $    (123)        $    (407)        $    (326)
+Free cash flow      $    297         $    254         $    842         $    879         $    2,672
+Free cash flow margin %      5     %      5     %      15     %      5     %      15     %
+The Company also presents free cash flow as a supplemental Non-GAAP measure of its performance. Free cash flow is determined by adjusting GAAP net cash provided by operating activities for capital expenditures, and free cash flow margin % is free cash flow expressed as a percentage of the Company's net revenue. The Company calculates and communicates free cash flow in the financial earnings press release because management believes it is of importance to investors to understand the nature of these cash flows. The Company’s calculation of free cash flow may or may not be consistent with the calculation of this measure by other companies in the same industry. Investors should not view free cash flow as an alternative to GAAP liquidity measures of cash flows from operating activities.
+13

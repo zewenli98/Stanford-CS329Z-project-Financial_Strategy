@@ -1,0 +1,97 @@
+false
+0001535527
+0001535527
+2024-07-19
+2024-07-19
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM   8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+July 19, 2024
+CrowdStrike
+Holdings, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-38933
+45-3788918
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+206
+E. 9th Street
+Suite 1400
+Austin  ,   Texas     78701
+(Address
+of principal executive office, including zip code)
+Registrant’s telephone number, including
+area code:  (  888    )
+512-8906
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction
+A.2. below):
+¨       Written communications pursuant to Rule 425 under
+the Securities Act (17 CFR 230.425)
+¨       Soliciting material pursuant to Rule 14a-12 under
+the Exchange Act (17 CFR 240.14a-12)
+¨       Pre-commencement communications pursuant to Rule
+14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨       Pre-commencement communications pursuant to Rule
+13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title
+of each class
+Trading
+Symbol(s)
+Name
+of each exchange on which registered
+Class A common stock, $0.0005 par value
+CRWD
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company     ¨
+If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act.  ¨
+Item 8.01    Other Events.
+On July 19, 2024, CrowdStrike Holdings, Inc. (“we”
+or “us”) released a sensor configuration update for our Falcon sensor software that resulted in outages for a number of our
+customers utilizing certain Windows systems (the “event”).  The event was not caused by a cyberattack.
+We urgently mobilized teams to support the security and
+stability of our customers.
+Certain   Windows   systems   that   were   online   when   the   update   was released   at   4:09   UTC   on   July   19   were   affected.   We   identified   and   isolated   the   issue   and   the
+update   was   reverted   at   5:27   UTC.   We   continue   to   work   with   impacted   customers   to   fully   restore   their   systems.   As   part   of   that   effort,   we   have   provided
+remediation   information   through   our   customer   support   portal   and   published   event-related   updates   accessible   through   our   blog   at
+www.crowdstrike.com/blog.
+This is an evolving situation.  We continue to evaluate
+the impact of the event on our business and operations.
+Forward-Looking Statements
+This Form 8-K contains forward-looking statements that involve
+risks and uncertainties, including statements regarding our understanding of the event and its impacts.  A number of factors could
+cause outcomes to differ materially from our statements, including the discovery of new information regarding the event and other risks
+and uncertainties included in our filings with the Securities and Exchange Commission, particularly under the caption “Risk Factors”
+in our most recently filed Quarterly Report on Form 10-Q.  Accordingly, you should not rely on these forward-looking statements.
+All forward-looking statements are based on information currently available to us, and we do not assume any obligation to update any statement
+to reflect changes in circumstances or our expectations.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange
+Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+CrowdStrike Holdings, Inc.
+Date: July 22, 2024
+/s/ Burt W. Podbere
+Burt W. Podbere
+Chief Financial Officer

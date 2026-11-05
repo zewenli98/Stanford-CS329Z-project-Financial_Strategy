@@ -1,0 +1,1417 @@
+cvs-20260331
+0000064803  12/31  2026  Q1  false  http://fasb.org/us-gaap/2025#ProductMember  http://fasb.org/us-gaap/2025#ProductMember        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      cvs:store    cvs:clinic    cvs:people    cvs:segment    cvs:program    cvs:security    xbrli:pure    cvs:lease    cvs:state    cvs:claim     0000064803    2026-01-01  2026-03-31      0000064803    2026-04-29      0000064803   us-gaap:ProductMember     2026-01-01  2026-03-31      0000064803   us-gaap:ProductMember     2025-01-01  2025-03-31      0000064803    2025-01-01  2025-03-31      0000064803   us-gaap:ServiceMember     2026-01-01  2026-03-31      0000064803   us-gaap:ServiceMember     2025-01-01  2025-03-31      0000064803    2026-03-31      0000064803    2025-12-31      0000064803    2024-12-31      0000064803    2025-03-31      0000064803   us-gaap:CommonStockMember     2025-12-31      0000064803   us-gaap:TreasuryStockCommonMember     2025-12-31      0000064803   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2025-12-31      0000064803   us-gaap:RetainedEarningsMember     2025-12-31      0000064803   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-12-31      0000064803   us-gaap:ParentMember     2025-12-31      0000064803   us-gaap:NoncontrollingInterestMember     2025-12-31      0000064803   us-gaap:RetainedEarningsMember     2026-01-01  2026-03-31      0000064803   us-gaap:ParentMember     2026-01-01  2026-03-31      0000064803   us-gaap:NoncontrollingInterestMember     2026-01-01  2026-03-31      0000064803   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-01  2026-03-31      0000064803   us-gaap:CommonStockMember     2026-01-01  2026-03-31      0000064803   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2026-01-01  2026-03-31      0000064803   us-gaap:TreasuryStockCommonMember     2026-01-01  2026-03-31      0000064803   us-gaap:CommonStockMember     2026-03-31      0000064803   us-gaap:TreasuryStockCommonMember     2026-03-31      0000064803   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2026-03-31      0000064803   us-gaap:RetainedEarningsMember     2026-03-31      0000064803   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-03-31      0000064803   us-gaap:ParentMember     2026-03-31      0000064803   us-gaap:NoncontrollingInterestMember     2026-03-31      0000064803   us-gaap:CommonStockMember     2024-12-31      0000064803   us-gaap:TreasuryStockCommonMember     2024-12-31      0000064803   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2024-12-31      0000064803   us-gaap:RetainedEarningsMember     2024-12-31      0000064803   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0000064803   us-gaap:ParentMember     2024-12-31      0000064803   us-gaap:NoncontrollingInterestMember     2024-12-31      0000064803   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-31      0000064803   us-gaap:ParentMember     2025-01-01  2025-03-31      0000064803   us-gaap:NoncontrollingInterestMember     2025-01-01  2025-03-31      0000064803   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-03-31      0000064803   us-gaap:CommonStockMember     2025-01-01  2025-03-31      0000064803   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2025-01-01  2025-03-31      0000064803   us-gaap:TreasuryStockCommonMember     2025-01-01  2025-03-31      0000064803   us-gaap:CommonStockMember     2025-03-31      0000064803   us-gaap:TreasuryStockCommonMember     2025-03-31      0000064803   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2025-03-31      0000064803   us-gaap:RetainedEarningsMember     2025-03-31      0000064803   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-31      0000064803   us-gaap:ParentMember     2025-03-31      0000064803   us-gaap:NoncontrollingInterestMember     2025-03-31      0000064803   cvs:PharmacyAndConsumerHealthSegmentMember     2026-03-31      0000064803   cvs:HealthServicesSegmentMember     2026-03-31      0000064803   cvs:HealthCareBenefitsSegmentMember     2026-03-31      0000064803   cvs:IndividualExchangeProductLineMember     2025-01-01  2025-03-31      0000064803   cvs:IndividualExchangeProductLineMember  cvs:OtherCostAndExpenseOperatingMember     2025-01-01  2025-03-31      0000064803   cvs:IndividualExchangeProductLineMember  cvs:PolicyholderBenefitsAndClaimsIncurredNetMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PharmacyRevenueMember  cvs:HealthCareBenefitsSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PharmacyRevenueMember  cvs:HealthServicesSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PharmacyRevenueMember  cvs:PharmacyAndConsumerHealthSegmentMember     2026-01-01  2026-03-31      0000064803   cvs:CorporateAndReconcilingItemsMember  cvs:PharmacyRevenueMember  cvs:CorporateAndOtherSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:PharmacyRevenueMember     2026-01-01  2026-03-31      0000064803   cvs:PharmacyRevenueMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:FrontStoreRevenueMember  cvs:HealthCareBenefitsSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:FrontStoreRevenueMember  cvs:HealthServicesSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:FrontStoreRevenueMember  cvs:PharmacyAndConsumerHealthSegmentMember     2026-01-01  2026-03-31      0000064803   cvs:CorporateAndReconcilingItemsMember  cvs:FrontStoreRevenueMember  cvs:CorporateAndOtherSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:FrontStoreRevenueMember     2026-01-01  2026-03-31      0000064803   cvs:FrontStoreRevenueMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PremiumsMember  cvs:HealthCareBenefitsSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PremiumsMember  cvs:HealthServicesSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PremiumsMember  cvs:PharmacyAndConsumerHealthSegmentMember     2026-01-01  2026-03-31      0000064803   cvs:CorporateAndReconcilingItemsMember  cvs:PremiumsMember  cvs:CorporateAndOtherSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:PremiumsMember     2026-01-01  2026-03-31      0000064803   cvs:PremiumsMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:HealthCareBenefitsSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:HealthServicesSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PharmacyAndConsumerHealthSegmentMember     2026-01-01  2026-03-31      0000064803   cvs:CorporateAndReconcilingItemsMember  cvs:CorporateAndOtherSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:IntersegmentEliminationMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  us-gaap:ProductAndServiceOtherMember  cvs:HealthCareBenefitsSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  us-gaap:ProductAndServiceOtherMember  cvs:HealthServicesSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  us-gaap:ProductAndServiceOtherMember  cvs:PharmacyAndConsumerHealthSegmentMember     2026-01-01  2026-03-31      0000064803   cvs:CorporateAndReconcilingItemsMember  us-gaap:ProductAndServiceOtherMember  cvs:CorporateAndOtherSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:IntersegmentEliminationMember  us-gaap:ProductAndServiceOtherMember     2026-01-01  2026-03-31      0000064803   us-gaap:ProductAndServiceOtherMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  us-gaap:SalesChannelThroughIntermediaryMember  cvs:HealthServicesSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  us-gaap:SalesChannelDirectlyToConsumerMember  cvs:HealthServicesSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:SalesChannelOtherMember  cvs:HealthServicesSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PharmacyRevenueMember  cvs:HealthCareBenefitsSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PharmacyRevenueMember  cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PharmacyRevenueMember  cvs:PharmacyAndConsumerHealthSegmentMember     2025-01-01  2025-03-31      0000064803   cvs:CorporateAndReconcilingItemsMember  cvs:PharmacyRevenueMember  cvs:CorporateAndOtherSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:PharmacyRevenueMember     2025-01-01  2025-03-31      0000064803   cvs:PharmacyRevenueMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:FrontStoreRevenueMember  cvs:HealthCareBenefitsSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:FrontStoreRevenueMember  cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:FrontStoreRevenueMember  cvs:PharmacyAndConsumerHealthSegmentMember     2025-01-01  2025-03-31      0000064803   cvs:CorporateAndReconcilingItemsMember  cvs:FrontStoreRevenueMember  cvs:CorporateAndOtherSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:FrontStoreRevenueMember     2025-01-01  2025-03-31      0000064803   cvs:FrontStoreRevenueMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PremiumsMember  cvs:HealthCareBenefitsSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PremiumsMember  cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PremiumsMember  cvs:PharmacyAndConsumerHealthSegmentMember     2025-01-01  2025-03-31      0000064803   cvs:CorporateAndReconcilingItemsMember  cvs:PremiumsMember  cvs:CorporateAndOtherSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:PremiumsMember     2025-01-01  2025-03-31      0000064803   cvs:PremiumsMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:HealthCareBenefitsSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:PharmacyAndConsumerHealthSegmentMember     2025-01-01  2025-03-31      0000064803   cvs:CorporateAndReconcilingItemsMember  cvs:CorporateAndOtherSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:IntersegmentEliminationMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  us-gaap:ProductAndServiceOtherMember  cvs:HealthCareBenefitsSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  us-gaap:ProductAndServiceOtherMember  cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  us-gaap:ProductAndServiceOtherMember  cvs:PharmacyAndConsumerHealthSegmentMember     2025-01-01  2025-03-31      0000064803   cvs:CorporateAndReconcilingItemsMember  us-gaap:ProductAndServiceOtherMember  cvs:CorporateAndOtherSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:IntersegmentEliminationMember  us-gaap:ProductAndServiceOtherMember     2025-01-01  2025-03-31      0000064803   us-gaap:ProductAndServiceOtherMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  us-gaap:SalesChannelThroughIntermediaryMember  cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  us-gaap:SalesChannelDirectlyToConsumerMember  cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:OperatingSegmentsMember  cvs:SalesChannelOtherMember  cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   cvs:HealthServicesSegmentMember     2024-12-31      0000064803   cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember  cvs:MedicareSharedSavingsProgramMember  cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   cvs:DebtAndEquitySecuritiesAvailableForSaleMember     2026-03-31      0000064803   cvs:DebtAndEquitySecuritiesAvailableForSaleMember     2025-12-31      0000064803   cvs:MortgageLoansMember     2026-03-31      0000064803   cvs:MortgageLoansMember     2025-12-31      0000064803   us-gaap:OtherInvestmentsMember     2026-03-31      0000064803   us-gaap:OtherInvestmentsMember     2025-12-31      0000064803   us-gaap:USGovernmentAgenciesDebtSecuritiesMember     2026-03-31      0000064803   us-gaap:USStatesAndPoliticalSubdivisionsMember     2026-03-31      0000064803   us-gaap:DomesticCorporateDebtSecuritiesMember     2026-03-31      0000064803   us-gaap:ForeignCorporateDebtSecuritiesMember     2026-03-31      0000064803   us-gaap:ResidentialMortgageBackedSecuritiesMember     2026-03-31      0000064803   us-gaap:CommercialMortgageBackedSecuritiesMember     2026-03-31      0000064803   cvs:OtherAssetBackedSecuritiesMember     2026-03-31      0000064803   us-gaap:RedeemablePreferredStockMember     2026-03-31      0000064803   us-gaap:USGovernmentAgenciesDebtSecuritiesMember     2025-12-31      0000064803   us-gaap:USStatesAndPoliticalSubdivisionsMember     2025-12-31      0000064803   us-gaap:DomesticCorporateDebtSecuritiesMember     2025-12-31      0000064803   us-gaap:ForeignCorporateDebtSecuritiesMember     2025-12-31      0000064803   us-gaap:ResidentialMortgageBackedSecuritiesMember     2025-12-31      0000064803   us-gaap:CommercialMortgageBackedSecuritiesMember     2025-12-31      0000064803   cvs:OtherAssetBackedSecuritiesMember     2025-12-31      0000064803   us-gaap:RedeemablePreferredStockMember     2025-12-31      0000064803   cvs:SupportingExperienceRatedProductsMember     2026-03-31      0000064803   cvs:SupportingExperienceRatedProductsMember     2025-12-31      0000064803   us-gaap:DebtSecuritiesMember     2026-01-01  2026-03-31      0000064803   us-gaap:DebtSecuritiesMember     2025-01-01  2025-03-31      0000064803   cvs:MortgageLoansMember     2026-01-01  2026-03-31      0000064803   cvs:MortgageLoansMember     2025-01-01  2025-03-31      0000064803   us-gaap:OtherInvestmentsMember     2026-01-01  2026-03-31      0000064803   us-gaap:OtherInvestmentsMember     2025-01-01  2025-03-31      0000064803   us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:USStatesAndPoliticalSubdivisionsMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:USStatesAndPoliticalSubdivisionsMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:USStatesAndPoliticalSubdivisionsMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:DomesticCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:DomesticCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:DomesticCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:ForeignCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:ForeignCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:ForeignCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:ResidentialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:ResidentialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:ResidentialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:CommercialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:CommercialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:CommercialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   cvs:OtherAssetBackedSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   cvs:OtherAssetBackedSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   cvs:OtherAssetBackedSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:RedeemablePreferredStockMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:RedeemablePreferredStockMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:RedeemablePreferredStockMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:USStatesAndPoliticalSubdivisionsMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:USStatesAndPoliticalSubdivisionsMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:USStatesAndPoliticalSubdivisionsMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:DomesticCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:DomesticCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:DomesticCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:ForeignCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:ForeignCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:ForeignCorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:ResidentialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:ResidentialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:ResidentialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:CommercialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:CommercialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:CommercialMortgageBackedSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   cvs:OtherAssetBackedSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   cvs:OtherAssetBackedSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   cvs:OtherAssetBackedSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:RedeemablePreferredStockMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:RedeemablePreferredStockMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:RedeemablePreferredStockMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0000064803   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2026-03-31      0000064803   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0000064803   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-12-31      0000064803   us-gaap:CashAndCashEquivalentsMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:CashAndCashEquivalentsMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:CashAndCashEquivalentsMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:CashAndCashEquivalentsMember     2026-03-31      0000064803   us-gaap:CashAndCashEquivalentsMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:CashAndCashEquivalentsMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:CashAndCashEquivalentsMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:CashAndCashEquivalentsMember     2025-12-31      0000064803   us-gaap:DebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   us-gaap:DebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   us-gaap:DebtSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   us-gaap:DebtSecuritiesMember     2026-03-31      0000064803   us-gaap:DebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   us-gaap:DebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   us-gaap:DebtSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   us-gaap:DebtSecuritiesMember     2025-12-31      0000064803   cvs:CommonAndCollectiveTrustsMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   cvs:CommonAndCollectiveTrustsMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   cvs:CommonAndCollectiveTrustsMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   cvs:CommonAndCollectiveTrustsMember     2026-03-31      0000064803   cvs:CommonAndCollectiveTrustsMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   cvs:CommonAndCollectiveTrustsMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   cvs:CommonAndCollectiveTrustsMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   cvs:CommonAndCollectiveTrustsMember     2025-12-31      0000064803   cvs:SeparateAccountExcludingOtherReceivablesAndOtherPayablesMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000064803   cvs:SeparateAccountExcludingOtherReceivablesAndOtherPayablesMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000064803   cvs:SeparateAccountExcludingOtherReceivablesAndOtherPayablesMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000064803   cvs:SeparateAccountExcludingOtherReceivablesAndOtherPayablesMember     2026-03-31      0000064803   cvs:SeparateAccountExcludingOtherReceivablesAndOtherPayablesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000064803   cvs:SeparateAccountExcludingOtherReceivablesAndOtherPayablesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000064803   cvs:SeparateAccountExcludingOtherReceivablesAndOtherPayablesMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000064803   cvs:SeparateAccountExcludingOtherReceivablesAndOtherPayablesMember     2025-12-31      0000064803   us-gaap:OtherNoncurrentAssetsMember     2026-03-31      0000064803   cvs:HealthCareBenefitsSegmentMember     2026-01-01  2026-03-31      0000064803   cvs:HealthCareBenefitsSegmentMember     2025-01-01  2025-03-31      0000064803   cvs:CorporateAndOtherSegmentMember     2026-01-01  2026-03-31      0000064803   cvs:CorporateAndOtherSegmentMember     2025-01-01  2025-03-31      0000064803   cvs:LargeCasePensionsMember     2026-03-31      0000064803   cvs:LargeCasePensionsMember     2025-03-31      0000064803   cvs:LongTermCareMember     2026-03-31      0000064803   cvs:LongTermCareMember     2025-03-31      0000064803   cvs:A2022RepurchaseProgramMember     2022-11-17      0000064803   cvs:A2022RepurchaseProgramMember     2026-03-31      0000064803   cvs:A2021RepurchaseProgramMember     2021-12-09      0000064803   cvs:A2021RepurchaseProgramMember     2026-03-31      0000064803   cvs:A2021RepurchaseProgramMember     2026-01-01  2026-03-31      0000064803   cvs:A2021RepurchaseProgramMember     2025-01-01  2025-03-31      0000064803   us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2025-12-31      0000064803   us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2024-12-31      0000064803   us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2026-01-01  2026-03-31      0000064803   us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2025-01-01  2025-03-31      0000064803   us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2026-03-31      0000064803   us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2025-03-31      0000064803   cvs:AOCIChangeInDiscountRateOnInsuranceReservesMember     2025-12-31      0000064803   cvs:AOCIChangeInDiscountRateOnInsuranceReservesMember     2024-12-31      0000064803   cvs:AOCIChangeInDiscountRateOnInsuranceReservesMember     2026-01-01  2026-03-31      0000064803   cvs:AOCIChangeInDiscountRateOnInsuranceReservesMember     2025-01-01  2025-03-31      0000064803   cvs:AOCIChangeInDiscountRateOnInsuranceReservesMember     2026-03-31      0000064803   cvs:AOCIChangeInDiscountRateOnInsuranceReservesMember     2025-03-31      0000064803   us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2025-12-31      0000064803   us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2024-12-31      0000064803   us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2026-01-01  2026-03-31      0000064803   us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2025-01-01  2025-03-31      0000064803   us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2026-03-31      0000064803   us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2025-03-31      0000064803   us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember     2025-12-31      0000064803   us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember     2024-12-31      0000064803   us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember     2026-01-01  2026-03-31      0000064803   us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember     2025-01-01  2025-03-31      0000064803   us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember     2026-03-31      0000064803   us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember     2025-03-31      0000064803   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2025-12-31      0000064803   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2024-12-31      0000064803   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2026-01-01  2026-03-31      0000064803   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2025-01-01  2025-03-31      0000064803   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2026-03-31      0000064803   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2025-03-31      0000064803   us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember     2025-12-31      0000064803   us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember     2024-12-31      0000064803   us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember     2026-03-31      0000064803   us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember     2025-03-31      0000064803   cvs:StockOptionsAndStockAppreciationRightsMember     2026-01-01  2026-03-31      0000064803   cvs:StockOptionsAndStockAppreciationRightsMember     2025-01-01  2025-03-31      0000064803   cvs:RestrictedStockUnitsRSUsAndPerformanceStockUnitsPSUsMember     2026-01-01  2026-03-31      0000064803   cvs:RestrictedStockUnitsRSUsAndPerformanceStockUnitsPSUsMember     2025-01-01  2025-03-31      0000064803   cvs:UnitedStatesExRel.BehnkeV.CVSCaremarkCorporationEtAl.Member     2025-01-01  2025-12-31      0000064803   cvs:SettlementFrameworkMember     2026-03-31      0000064803   cvs:U.S.ExRel.BassanEtAl.V.OmnicareInc.AndCVSHealthCorp.Member  cvs:OmnicareInc.Member     2025-04-01  2025-04-30      0000064803   cvs:U.S.ExRel.BassanEtAl.V.OmnicareInc.AndCVSHealthCorp.Member  cvs:OmnicareInc.Member     2025-07-01  2025-07-31      0000064803   cvs:U.S.ExRel.BassanEtAl.V.OmnicareInc.AndCVSHealthCorp.Member  cvs:OmnicareIncAndCVSHealthCorporationMember     2025-07-01  2025-07-31      0000064803   cvs:U.S.ExRel.BassanEtAl.V.OmnicareInc.AndCVSHealthCorp.Member     2026-03-31      0000064803   cvs:StockholderMattersClassActionComplaintsMember     2024-07-01  2026-03-31      0000064803   cvs:InReCVSHealthCorporationDerivativeLitigationMember     2024-07-01  2026-03-31      0000064803   cvs:InReCVSHealthCorporationStockholderDerivativeLitigationMember     2024-07-01  2026-03-31      0000064803   cvs:InReCVSHealthCorporationStockholderDerivativeLitigationAndDavidowV.LynchEtAl.Member     2024-07-01  2026-03-31      0000064803   cvs:HealthServicesSegmentMember     2026-01-01  2026-03-31      0000064803   cvs:PharmacyAndConsumerHealthSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:HealthCareBenefitsSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:HealthServicesSegmentMember     2026-01-01  2026-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:PharmacyAndConsumerHealthSegmentMember     2026-01-01  2026-03-31      0000064803   cvs:OperatingSegmentsAndCorporateNonSegmentMember     2026-01-01  2026-03-31      0000064803   cvs:PharmacyAndConsumerHealthSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:HealthCareBenefitsSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:HealthServicesSegmentMember     2025-01-01  2025-03-31      0000064803   us-gaap:IntersegmentEliminationMember  cvs:PharmacyAndConsumerHealthSegmentMember     2025-01-01  2025-03-31      0000064803   cvs:OperatingSegmentsAndCorporateNonSegmentMember     2025-01-01  2025-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+(Mark One)
+☑      QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  March 31, 2026
+or
+☐      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _________ to_________
+Commission File Number:  001-01011
+CVS HEALTH CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware       05-0494040
+(State or other jurisdiction of incorporation or organization)     (I.R.S. Employer Identification No.)
+One CVS Drive ,  Woonsocket ,  Rhode Island
+02895
+(Address of principal executive offices)      (Zip Code)
+Registrant’s telephone number, including area code:
+(401)   765-1500
+Former name, former address and former fiscal year, if changed since last report:
+N/A
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol(s)    Name of each exchange on which registered
+Common Stock, par value $0.01 per share      CVS      New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.                                                                                     ☑       Yes          ☐      No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).                                                                                                                                          ☑        Yes         ☐      No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer     ☑    Accelerated filer                         ☐
+Non-accelerated filer    ☐    Smaller reporting company         ☐
+Emerging growth company         ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).                ☐      Yes       ☑     No
+As of April 29, 2026, the registrant had  1,275,927,307  shares of common stock issued and outstanding.
+TABLE OF CONTENTS
+Page
+Part I    Financial Information
+Item 1.
+Financial Statements
+1
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+32
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+48
+Item 4.
+Controls and Procedures
+48
+Part II    Other Information
+Item 1.
+Legal Proceedings
+49
+Item 1A.
+Risk Factors
+49
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+49
+Item 3
+Defaults Upon Senior Securities
+49
+Item 4.
+Mine Safety Disclosures
+49
+Item 5.
+Other Information
+49
+Item 6.
+Exhibits
+50
+Signatures
+51
+Form 10-Q Table of Contents
+Part I.  Financial Information
+Item 1.  Financial Statements
+Index to Condensed Consolidated Financial Statements
+Page
+Condensed Consolidated Statements of Operations (Unaudited) for the three months ended March 31, 2026 and 2025
+2
+Condensed Consolidated Statements of Comprehensive Income (Unaudited) for the three months ended March 31, 2026 and 2025
+3
+Condensed Consolidated Balance Sheets (Unaudited) as of March 31, 2026 and December 31, 2025
+4
+Condensed Consolidated Statements of Cash Flows (Unaudited) for the three months ended March 31, 2026 and 2025
+5
+Condensed Consolidated Statements of Shareholders’ Equity (Unaudited) for the three months ended March 31, 2026 and 2025
+7
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+8
+Report of Independent Registered Public Accounting Firm
+31
+1
+Index to Condensed Consolidated Financial Statements
+CVS Health Corporation
+Condensed Consolidated Statements of Operations
+(Unaudited)
+Three Months Ended
+March 31,
+In millions, except per share amounts    2026     2025
+Revenues:
+Products    $     62,226        $     57,669
+Premiums     33,791         32,820
+Services     3,835         3,579
+Net investment income     574         520
+Total revenues     100,426         94,588
+Operating costs:
+Cost of products sold       55,444         51,057
+Health care costs     29,358         29,135
+Operating expenses     10,944         11,022
+Total operating costs     95,746         91,214
+Operating income
+4,680         3,374
+Interest expense    ( 774 )      ( 785 )
+Other income     32         28
+Income before income tax provision
+3,938         2,617
+Income tax provision     981         835
+Net income
+2,957         1,782
+Net income attributable to noncontrolling interests
+( 14 )      ( 3 )
+Net income attributable to CVS Health
+$     2,943        $     1,779
+Net income per share attributable to CVS Health:
+Basic    $     2.31        $     1.41
+Diluted    $     2.30        $     1.41
+Weighted average shares outstanding:
+Basic     1,273         1,261
+Diluted     1,279         1,264
+See accompanying notes to condensed consolidated financial statements (unaudited).
+2
+Index to Condensed Consolidated Financial Statements
+CVS Health Corporation
+Condensed Consolidated Statements of Comprehensive Income
+(Unaudited)
+Three Months Ended
+March 31,
+In millions    2026     2025
+Net income
+$     2,957        $     1,782
+Other comprehensive income (loss), net of tax:
+Net unrealized investment gains (losses)    ( 244 )       216
+Change in discount rate on long-duration insurance reserves     43        ( 33 )
+Net cash flow hedges    ( 4 )      ( 4 )
+Other comprehensive income (loss)    ( 205 )       179
+Comprehensive income     2,752         1,961
+Comprehensive income attributable to noncontrolling interests    ( 14 )      ( 3 )
+Comprehensive income attributable to CVS Health    $     2,738        $     1,958
+See accompanying notes to condensed consolidated financial statements (unaudited).
+3
+Index to Condensed Consolidated Financial Statements
+CVS Health Corporation
+Condensed Consolidated Balance Sheets
+(Unaudited)
+In millions, except per share amounts    March 31,
+2026     December 31,
+2025
+Assets:
+Cash and cash equivalents    $     9,542        $     8,453
+Investments     2,260         2,145
+Accounts receivable, net     40,992         39,779
+Inventories     17,770         19,246
+Other current assets     4,253         5,091
+Total current assets     74,817         74,714
+Long-term investments     32,407         32,669
+Property and equipment, net     13,037         13,083
+Operating lease right-of-use assets     14,741         14,973
+Goodwill     85,478         85,478
+Intangible assets, net     25,070         25,508
+Other assets     7,424         7,113
+Total assets    $     252,974        $     253,538
+Liabilities:
+Accounts payable    $     16,922        $     17,641
+Pharmacy claims and discounts payable     26,149         26,344
+Health care costs payable      15,518         15,399
+Accrued expenses and other current liabilities
+22,258         22,387
+Other insurance liabilities     1,075         1,116
+Current portion of operating lease liabilities     1,904         1,737
+Current portion of long-term debt     2,580         4,068
+Total current liabilities     86,406         88,692
+Long-term operating lease liabilities     13,330         13,643
+Long-term debt     60,531         60,502
+Deferred income taxes     3,771         3,832
+Other long-term insurance liabilities     4,592         4,716
+Other long-term liabilities     6,707         6,771
+Total liabilities     175,337         178,156
+Shareholders’ equity:
+Preferred stock, par value $  0.01  :   0.1   shares authorized;     no    ne issued or outstanding
+—         —
+Common stock, par value $  0.01  :   3,200   shares authorized;  1,788  shares issued and  1,273  shares outstanding as of March 31, 2026 and  1,787  shares issued and  1,271  shares outstanding as of December 31, 2025 and capital surplus
+50,679         50,402
+Treasury stock, at cost:  515  and  516  shares as of March 31, 2026 and December 31, 2025
+( 36,706 )      ( 36,790 )
+Retained earnings     63,282         61,196
+Accumulated other comprehensive income
+201         406
+Total CVS Health shareholders’ equity     77,456         75,214
+Noncontrolling interests     181         168
+Total shareholders’ equity     77,637         75,382
+Total liabilities and shareholders’ equity    $     252,974        $     253,538
+See accompanying notes to condensed consolidated financial statements (unaudited).
+4
+Index to Condensed Consolidated Financial Statements
+CVS Health Corporation
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+Three Months Ended
+March 31,
+In millions    2026     2025
+Cash flows from operating activities:
+Cash receipts from customers    $     94,201        $     90,809
+Cash paid for inventory, prescriptions dispensed and health services rendered    ( 50,551 )      ( 48,433 )
+Insurance benefits paid     ( 28,398 )      ( 28,477 )
+Cash paid to other suppliers and employees    ( 10,775 )      ( 8,690 )
+Interest and investment income received     526         497
+Interest paid    ( 1,091 )      ( 1,012 )
+Income taxes refunded (paid)
+337        ( 138 )
+Net cash provided by operating activities     4,249         4,556
+Cash flows from investing activities:
+Proceeds from sales and maturities of investments     4,159         3,534
+Purchases of investments    ( 4,186 )      ( 3,552 )
+Purchases of property and equipment    ( 849 )      ( 743 )
+Acquisitions
+( 5 )      ( 20 )
+Other     7         19
+Net cash used in investing activities    ( 874 )      ( 762 )
+Cash flows from financing activities:
+Commercial paper borrowings (repayments), net     —        ( 859 )
+Repayments of long-term debt    ( 1,518 )      ( 743 )
+Dividends paid    ( 847 )      ( 840 )
+Proceeds from exercise of stock options     103         144
+Payments for taxes related to net share settlement of equity awards    ( 9 )      ( 11 )
+Other    ( 47 )      ( 23 )
+Net cash used in financing activities    ( 2,318 )      ( 2,332 )
+Net increase in cash, cash equivalents and restricted cash
+1,057         1,462
+Cash, cash equivalents and restricted cash at the beginning of the period     8,712         8,884
+Cash, cash equivalents and restricted cash at the end of the period    $     9,769        $     10,346
+5
+Index to Condensed Consolidated Financial Statements
+CVS Health Corporation
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+Three Months Ended
+March 31,
+In millions    2026     2025
+Reconciliation of net income to net cash provided by operating activities:
+Net income
+$     2,957        $     1,782
+Adjustments required to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization     1,115         1,154
+Stock-based compensation     266         126
+Loss on sale of subsidiary
+—         236
+Deferred income taxes and other items
+( 91 )      ( 169 )
+Change in operating assets and liabilities, net of effects from acquisitions:
+Accounts receivable, net    ( 1,205 )      ( 3,053 )
+Inventories     1,476         722
+Other assets     479        ( 1,101 )
+Accounts payable and pharmacy claims and discounts payable    ( 562 )       2,619
+Health care costs payable and other insurance liabilities     10         364
+Other liabilities    ( 196 )       1,876
+Net cash provided by operating activities    $     4,249        $     4,556
+See accompanying notes to condensed consolidated financial statements (unaudited).
+6
+Index to Condensed Consolidated Financial Statements
+CVS Health Corporation
+Condensed Consolidated Statements of Shareholders’ Equity
+(Unaudited)
+Attributable to CVS Health
+Number of shares
+outstanding
+Common
+Stock and
+Capital
+Surplus   (2)
+Treasury
+Stock   (1)
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total
+CVS Health
+Shareholders’
+Equity    Noncontrolling
+Interests    Total
+Shareholders’
+Equity
+Common
+Shares
+Treasury
+Shares   (1)
+In millions
+Balance as of December 31, 2025
+1,787       ( 516 )      $     50,402       $    ( 36,790 )     $     61,196       $     406       $     75,214       $     168       $     75,382
+Net income    —      —       —      —       2,943       —       2,943        14        2,957
+Other comprehensive loss (Note 6)
+—      —       —      —      —      ( 205 )     ( 205 )     —      ( 205 )
+Stock option activity, stock awards and other     1       —        277       —      —      —       277       —       277
+ESPP issuances, net of purchase of treasury shares
+—       1        —       84       —      —       84       —       84
+Common stock dividends
+($ 0.665  per share)
+—      —       —      —      ( 857 )     —      ( 857 )     —      ( 857 )
+Other decreases in noncontrolling interests
+—      —       —      —      —      —       —       ( 1 )     ( 1 )
+Balance as of March 31, 2026
+1,788       ( 515 )      $     50,679       $    ( 36,706 )     $     63,282       $     201       $     77,456       $     181       $     77,637
+Balance as of December 31, 2024
+1,778       ( 518 )      $     49,661       $    ( 36,818 )     $     62,837       $    ( 120 )     $     75,560       $     170       $     75,730
+Net income    —      —       —      —       1,779       —       1,779        3        1,782
+Other comprehensive income (Note 6)
+—      —       —      —      —       179        179       —       179
+Stock option activity, stock awards and other     1       —        176       —      —      —       176       —       176
+ESPP issuances, net of purchase of treasury shares
+—       1        —       83       —      —       83       —       83
+Common stock dividends
+($ 0.665  per share)
+—      —       —      —      ( 848 )     —      ( 848 )     —      ( 848 )
+Other increases in noncontrolling interests
+—      —       —      —      —      —       —        8        8
+Balance as of March 31, 2025
+1,779       ( 517 )      $     49,837       $    ( 36,735 )     $     63,768       $     59       $     76,929       $     181       $     77,110
+_____________________________________________
+(1)   Treasury shares include     1     million shares held in trust and treasury stock includes $    29     million related to shares held in trust as of March 31, 2026 and 2025, and December 31, 2025 and 2024.
+(2)   Common stock and capital surplus includes the par value of common stock of $    18     million as of March 31, 2026 and 2025, and December 31, 2025 and 2024.
+See accompanying notes to condensed consolidated financial statements (unaudited).
+7
+Index to Condensed Consolidated Financial Statements
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+1.   Significant Accounting Policies
+Description of Business
+CVS Health Corporation, together with its subsidiaries (collectively, “CVS Health” or the “Company”), is a leading health solutions company simplifying health care one person, one family and one community at a time. As of March 31, 2026, the Company had approximately  9,000  retail locations, more than  1,000  walk-in and primary care medical clinics and a leading pharmacy benefits manager with approximately  88  million plan members and expanding specialty pharmacy solutions. The Company also serves an estimated more than  37  million people through a broad range of health insurance products and related services. The Company is creating new sources of value through its integrated model, allowing it to expand into personalized, technology driven care delivery and health services, increasing access to quality care, delivering better health outcomes and lowering overall health care costs.
+The Company has  four  reportable segments: Health Care Benefits, Health Services, Pharmacy & Consumer Wellness and Corporate/Other, which are described below.
+Health Care Benefits Segment
+The Health Care Benefits segment operates as one of the nation’s leading diversified health care benefits providers through its Aetna  ®   operations. The Health Care Benefits segment has the information and resources to help members, in consultation with their health care professionals, make more informed decisions about their health care. The Health Care Benefits segment offers a broad range of health insurance products and related services, including medical, pharmacy, dental and behavioral health plans, medical management capabilities, Medicare Advantage and Medicare Supplement plans, prescription drug plans (“PDPs”) and Medicaid health care management services. The Health Care Benefits segment’s primary customers, its members, primarily access the segment’s products and services through employer groups, government-sponsored plans or individually. The Health Care Benefits segment also serves customers who purchase products and services that are ancillary to its health insurance products. The Company refers to insurance products (where it assumes all or a majority of the risk for medical and dental care costs) as “Insured” and administrative services contract products (where the plan sponsor assumes all or a majority of the risk for medical and dental care costs) as “ASC.”
+Health Services Segment
+The Health Services segment provides a full range of pharmacy benefit management (“PBM”) solutions through its CVS Caremark  ®   operations and delivers health care services in its medical clinics, virtually, and in the home. PBM solutions include plan design offerings and administration, formulary management, retail pharmacy network management services, and specialty and mail order pharmacy services. In addition, the Company provides clinical services, disease management services, medical spend management and pharmacy and/or other administrative services for providers and federal 340B drug pricing program covered entities (“Covered Entities”). The Company operates a group purchasing organization that negotiates pricing for the purchase of pharmaceuticals and rebates with pharmaceutical manufacturers on behalf of its participants and provides various administrative, management and reporting services to pharmaceutical manufacturers. The segment also works directly with pharmaceutical manufacturers to commercialize and/or co-produce high quality biosimilar products through its Cordavis  TM   subsidiary. The Health Services segment’s health care delivery assets include Signify Health, Inc. (“Signify Health”), a leader in health risk assessments, and Oak Street Health, Inc. (“Oak Street Health”), a leading multi-payor operator of value-based primary care centers serving Medicare eligible patients. The Health Services segment’s clients and customers are primarily employers, insurance companies, unions, government employee groups, health plans, PDPs, Medicaid managed care plans, the U.S. Centers for Medicare & Medicaid Services (“  CMS”)  , plans offered on public and private health insurance exchanges and other sponsors of health benefit plans throughout the U.S., patients who receive care in the Health Services segment’s medical clinics, virtually or in the home, as well as Covered Entities.
+Pharmacy & Consumer Wellness Segment
+The Pharmacy & Consumer Wellness segment dispenses prescriptions in its CVS Pharmacy  ®   retail locations and through its infusion operations, provides ancillary pharmacy services including pharmacy patient care programs and vaccination administration, and sells a wide assortment of health and wellness products and general merchandise. The segment also provides pharmacy fulfillment services to support the Health Services segment’s specialty and mail order pharmacy offerings. As of March 31, 2026, the Pharmacy & Consumer Wellness segment operated approximately  9,000  retail locations, as well as online retail pharmacy websites, retail specialty pharmacy stores, compounding pharmacies and branches for infusion and enteral nutrition services.
+8
+Corporate/Other Segment
+The Company presents the remainder of its financial results in the Corporate/Other segment, which primarily consists of:
+•  Management and administrative expenses to support the Company’s overall operations, which include certain aspects of executive management and the corporate relations, legal, compliance, human resources and finance departments, information technology, digital, data and analytics, as well as acquisition-related integration costs; and
+•  Products for which the Company no longer solicits or accepts new customers, such as its large case pensions and long-term care insurance products.
+Basis of Presentation
+The accompanying unaudited condensed consolidated financial statements of CVS Health and its subsidiaries have been prepared in accordance with the rules and regulations of the U.S. Securities and Exchange Commission (the “SEC”) regarding interim financial reporting. In accordance with such rules and regulations, certain information and accompanying note disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) have been omitted, although the Company believes the disclosures included herein are adequate to make the information presented not misleading. These unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto which are included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025 (the “2025 Form 10-K”).
+In the opinion of management, the accompanying unaudited condensed consolidated financial statements include all adjustments, consisting only of normal recurring adjustments, necessary for a fair presentation of the results for the interim periods presented. Because of the influence of various factors on the Company’s operations, including business combinations, certain holidays and other seasonal influences, net income for any interim period may not be comparable to the same interim period in previous years or necessarily indicative of income for the full year.
+Principles of Consolidation
+The unaudited condensed consolidated financial statements include the accounts of the Company and its majority-owned subsidiaries and variable interest entities (“VIEs”) for which the Company is the primary beneficiary. All material intercompany balances and transactions have been eliminated.
+The Company continually evaluates its investments to determine if they represent variable interests in a VIE. If the Company determines that it has a variable interest in a VIE, the Company then evaluates if it is the primary beneficiary of the VIE. The evaluation is a qualitative assessment as to whether the Company has the ability to direct the activities of a VIE that most significantly impact the entity’s economic performance. The Company consolidates a VIE if it is considered to be the primary beneficiary.
+Assets and liabilities of VIEs for which the Company is the primary beneficiary were not significant to the Company’s unaudited condensed consolidated financial statements. VIE creditors do not have recourse against the general credit of the Company.
+Reclassifications
+Certain prior year amounts within the unaudited condensed consolidated balance sheet have been reclassified to conform with the current year presentation.
+Restricted Cash
+Restricted cash included in other current assets on the unaudited condensed consolidated balance sheets primarily represents funds held on behalf of members. Restricted cash included in other assets on the unaudited condensed consolidated balance sheets represents amounts held in a trust in one of the Company’s captive insurance companies to satisfy collateral requirements associated with the assignment of certain insurance policies. All restricted cash is invested in demand deposits, time deposits and money market funds.
+9
+The following is a reconciliation of cash and cash equivalents on the unaudited condensed consolidated balance sheets to total cash, cash equivalents and restricted cash on the unaudited condensed consolidated statements of cash flows:
+In millions    March 31,
+2026     December 31,
+2025
+Cash and cash equivalents    $     9,542        $     8,453
+Restricted cash (included in other current assets)     14         59
+Restricted cash (included in other assets)     213         200
+Total cash, cash equivalents and restricted cash in the statements of cash flows    $     9,769        $     8,712
+Accounts Receivable
+Accounts receivable are stated net of allowances for credit losses, customer credit allowances, contractual allowances and estimated terminations.   Accounts receivable, net as of March 31, 2026 and December 31, 2025 was composed of the following:
+In millions    March 31,
+2026     December 31,
+2025
+Trade receivables    $     12,511        $     10,563
+Vendor and manufacturer receivables     14,144         15,564
+Premium receivables     7,633         5,753
+Other receivables     6,704         7,899
+Total accounts receivable, net    $     40,992        $     39,779
+The Company’s allowance for credit losses was $ 200  million and $ 182  million as of March 31, 2026 and December 31, 2025, respectively.  When developing an estimate of the Company’s expected credit losses, the Company considers all available relevant information regarding the collectability of cash flows, including historical information, current conditions and reasonable and supportable forecasts of future economic conditions over the contractual life of the receivable. The Company’s accounts receivable are short duration in nature and typically settle in less than 30 days.
+Premium Deficiency Reserves
+The Company evaluates its short-duration insurance contracts to determine if it is probable that a loss will be incurred. For purposes of determining premium deficiency losses, contracts are grouped consistent with the Company’s method of acquiring, servicing and measuring the profitability of such contracts. For each contract grouping, a premium deficiency reserve is recognized when it is probable that expected future incurred claims, including costs to maintain the contract grouping, exceed anticipated future premiums and reinsurance recoveries. Anticipated investment income is not considered in the calculation of premium deficiency reserves. A premium deficiency is first recognized by charging any unamortized acquisition costs to operating expenses, and to the extent the premium deficiency is greater than the unamortized acquisition costs, a premium deficiency reserve liability is established and reflected in health care costs payable on the unaudited condensed consolidated balance sheets. Losses recognized as a premium deficiency reserve result in a beneficial effect in subsequent periods as subsequent costs under these contracts are then charged to this previously established liability.
+The Company did  not  establish any premium deficiency reserves during the three months ended March 31, 2026.
+During the first quarter of 2025, the Company determined it had a premium deficiency in its individual exchange product line related to the remainder of the 2025 coverage year and, accordingly, recorded a premium deficiency reserve of $ 448  million. The premium deficiency reserve consisted of a $ 17  million write-off of unamortized acquisition costs, which was recorded in operating expenses, and $ 431  million recorded in health care costs, which was subsequently utilized throughout the remainder of 2025. The Company did not establish a premium deficiency reserve for any other product line during the three months ended March 31, 2025.
+10
+Revenue Recognition
+Disaggregation of Revenue
+The following tables disaggregate the Company’s revenue by major source in each segment for the three months ended March 31, 2026 and 2025:
+In millions    Health Care
+Benefits     Health
+Services     Pharmacy &
+Consumer
+Wellness      Corporate/
+Other     Intersegment
+Eliminations     Consolidated
+Totals
+Three Months Ended March 31, 2026
+Major goods/services lines:
+Pharmacy    $     —        $     45,655        $     26,123        $     —        $    ( 14,839 )      $     56,939
+Front Store     —         —         5,259         —         —         5,259
+Premiums     33,792         —         —         12        ( 13 )       33,791
+Net investment income     462         —         —         112         —         574
+Other     1,717         2,582         607         2        ( 1,045 )       3,863
+Total    $     35,971        $     48,237        $     31,989        $     126        $    ( 15,897 )      $     100,426
+Health Services distribution channel:
+Pharmacy network   (1)
+$     25,149
+Mail & specialty   (2)
+20,506
+Other       2,582
+Total      $     48,237
+Three Months Ended March 31, 2025
+Major goods/services lines:
+Pharmacy    $     —        $     41,182        $     26,076        $     —        $    ( 14,751 )      $     52,507
+Front Store     —         —         5,243         —         —         5,243
+Premiums     32,808         —         —         12         —         32,820
+Net investment income     387         14         —         119         —         520
+Other     1,615         2,266         593         2        ( 978 )       3,498
+Total    $     34,810        $     43,462        $     31,912        $     133        $    ( 15,729 )      $     94,588
+Health Services distribution channel:
+Pharmacy network   (1)
+$     23,114
+Mail & specialty   (2)
+18,068
+Net investment income       14
+Other       2,266
+Total      $     43,462
+_____________________________________________
+(1)  Health Services pharmacy network is defined as claims filled at retail and specialty retail pharmacies, including pharmacies owned by the Company, as well as activity associated with Maintenance Choice  ®  , which permits eligible client plan members to fill their maintenance prescriptions through mail order delivery or at a CVS pharmacy retail store for the same price as mail order.
+(2)  Health Services mail & specialty is defined as specialty mail claims inclusive of Specialty Connect  ®   claims picked up at a retail pharmacy, as well as mail order and specialty claims fulfilled by the Pharmacy & Consumer Wellness segment.
+ACO REACH and MSSP Exit
+Prior to the first quarter of 2025, the Company’s Health Services segment provided enablement services to health systems primarily through  two  programs administered by CMS: the Accountable Care Organization Realizing Equity, Access and Community Health (“ACO REACH”) program and the Medicare Shared Savings Program (“MSSP”). During the first quarter of 2025, the Company determined that it would substantially exit both the ACO REACH program and the MSSP as further
+11
+described below. In connection with these actions, during the three months ended March 31, 2025, the Company recorded a loss on Accountable Care assets of $ 247  million, which was reflected in operating expenses within the Health Services segment.
+ACO REACH
+In February 2025, the Company informed CMS of its plans to voluntarily terminate substantially all of its participation in the ACO REACH program effective March 31, 2025. In connection with the commencement of the wind down of its ACO REACH operations, the Company incurred costs of $ 11  million during the three months ended March 31, 2025.
+MSSP
+In March 2025, the Company also divested its MSSP operations to Wellvana Health, LLC. The Company recorded a pre-tax loss on the divestiture of $ 236  million during the three months ended March 31, 2025, which included the removal of intangible assets and goodwill totaling $ 342  million. The consideration received related to this agreement was not material.
+New Accounting Pronouncements Not Yet Adopted
+Disaggregation of Income Statement Expenses
+In November 2024, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2024-03,   Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses  . The standard requires the Company to provide further disaggregated information of relevant expense captions within its consolidated statements of operations, including the purchases of inventory, employee compensation, depreciation and intangible asset amortization, as well as the inclusion of other specific expenses, gains and losses required by existing GAAP. The new standard also requires the Company to disclose its total selling expenses and, on an annual basis, provide a qualitative description of its selling expenses. The standard is effective for fiscal years beginning after December 15, 2026 and interim periods within fiscal years beginning after December 15, 2027, with early adoption permitted. The standard may be applied prospectively or retrospectively. While the standard will require additional disclosures related to certain expenses included in the consolidated statements of operations, the standard is not expected to have any impact on the Company’s consolidated operating results, financial condition or cash flows.
+Internal-Use Software
+In September 2025, the FASB issued ASU 2025-06,   Targeted Improvements to the Accounting for Internal-Use Software  . This standard is intended to modernize the accounting for internal-use software. Under the new standard, the Company will capitalize eligible costs when (i) management has authorized and committed to funding the software project, and (ii) it is probable that the project will be completed and the software will be used to perform the function intended. The standard is effective for fiscal years, and interim periods within those fiscal years, beginning after December 15, 2027, with early adoption permitted as of the beginning of a fiscal year. The standard may be applied prospectively, retrospectively or using a modified transition approach. The Company is currently evaluating the impact that this standard will have on the Company’s consolidated operating results, cash flows, financial condition and related disclosures.
+12
+2.   Investments
+Total investments as of March 31, 2026 and December 31, 2025 were as follows:
+March 31, 2026     December 31, 2025
+In millions    Current     Long-term     Total     Current     Long-term     Total
+Debt securities available for sale    $     2,104        $     26,287        $     28,391        $     1,997        $     26,721        $     28,718
+Mortgage loans     156         1,339         1,495         148         1,376         1,524
+Other investments     —         4,781         4,781         —         4,572         4,572
+Total investments    $     2,260        $     32,407        $     34,667        $     2,145        $     32,669        $     34,814
+Debt Securities
+Debt securities available for sale as of March 31, 2026 and December 31, 2025 were as follows:
+In millions
+Amortized
+Cost   (1)
+Gross
+Unrealized
+Gains     Gross
+Unrealized
+Losses     Fair
+Value
+March 31, 2026
+Debt securities:
+U.S. government securities        $     2,725        $     20        $    ( 10 )      $     2,735
+States, municipalities and political subdivisions         273         2        ( 7 )       268
+U.S. corporate securities         15,104         143        ( 314 )       14,933
+Foreign securities         3,024         47        ( 50 )       3,021
+Residential mortgage-backed securities         1,090         10        ( 31 )       1,069
+Commercial mortgage-backed securities         1,889         14        ( 28 )       1,875
+Other asset-backed securities         4,474         9        ( 7 )       4,476
+Redeemable preferred securities         14         —         —         14
+Total debt securities   (2)
+$     28,593        $     245        $    ( 447 )      $     28,391
+December 31, 2025
+Debt securities:
+U.S. government securities        $     2,691        $     39        $    ( 8 )      $     2,722
+States, municipalities and political subdivisions         296         3        ( 7 )       292
+U.S. corporate securities         14,657         262        ( 231 )       14,688
+Foreign securities         2,981         78        ( 31 )       3,028
+Residential mortgage-backed securities         1,065         14        ( 29 )       1,050
+Commercial mortgage-backed securities         1,974         28        ( 23 )       1,979
+Other asset-backed securities         4,921         25        ( 2 )       4,944
+Redeemable preferred securities         15         —         —         15
+Total debt securities   (2)
+$     28,600        $     449        $    ( 331 )      $     28,718
+_____________________________________________
+(1)  There was   no   allowance for expected credit losses recorded on available-for-sale debt securities as of March 31, 2026 or December 31, 2025.
+(2)  Investment risks associated with the Company’s experience-rated products generally do not impact the Company’s consolidated operating results. As of March 31, 2026, debt securities with a fair value of $ 433  million, gross unrealized capital gains of $ 6  million and gross unrealized capital losses of $ 19  million, and as of December 31, 2025, debt securities with a fair value of $ 475  million, gross unrealized capital gains of $ 10  million and gross unrealized capital losses of $ 16  million were included in total debt securities, but support experience-rated products. Changes in net unrealized capital gains (losses) on these securities are not reflected in accumulated other comprehensive income.
+13
+The amortized cost and fair value of debt securities as of March 31, 2026 are shown below by contractual maturity. Actual maturities may differ from contractual maturities because securities may be restructured, called or prepaid, or the Company intends to sell a security prior to maturity.
+In millions    Amortized
+Cost     Fair
+Value
+Due to mature:
+Less than one year    $     850        $     852
+One year through five years     11,487         11,534
+After five years through ten years     5,706         5,685
+Greater than ten years     3,097         2,900
+Residential mortgage-backed securities     1,090         1,069
+Commercial mortgage-backed securities     1,889         1,875
+Other asset-backed securities     4,474         4,476
+Total    $     28,593        $     28,391
+14
+Summarized below are the debt securities the Company held as of March 31, 2026 and December 31, 2025 that were in an unrealized capital loss position, aggregated by the length of time the investments have been in that position:
+Less than 12 months     Greater than 12 months     Total
+In millions, except number of securities    Number
+of
+Securities     Fair
+Value     Unrealized
+Losses     Number
+of
+Securities     Fair
+Value     Unrealized
+Losses     Number
+of
+Securities     Fair
+Value     Unrealized
+Losses
+March 31, 2026
+Debt securities:
+U.S. government securities     151        $     597        $     5         71        $     149        $     5         222        $     746        $     10
+States, municipalities and political subdivisions     34         84         1         63         91         6         97         175         7
+U.S. corporate securities     3,450         5,547         96         1,287         1,787         218         4,737         7,334         314
+Foreign securities     602         1,136         22         220         300         28         822         1,436         50
+Residential mortgage-backed securities     150         303         3         281         223         28         431         526         31
+Commercial mortgage-backed securities     220         750         9         76         163         19         296         913         28
+Other asset-backed securities     657         1,660         6         21         27         1         678         1,687         7
+Redeemable preferred securities     4         6         —         —         —         —         4         6         —
+Total debt securities      5,268        $     10,083        $     142         2,019        $     2,740        $     305         7,287        $     12,823        $     447
+December 31, 2025
+Debt securities:
+U.S. government securities     50        $     156        $     2         80        $     168        $     6         130        $     324        $     8
+States, municipalities and political subdivisions     16         28         —         89         136         7         105         164         7
+U.S. corporate securities     1,045         1,634         23         1,541         2,149         208         2,586         3,783         231
+Foreign securities     180         310         2         303         449         29         483         759         31
+Residential mortgage-backed securities     67         124         1         303         272         28         370         396         29
+Commercial mortgage-backed securities     84         290         1         126         269         22         210         559         23
+Other asset-backed securities     136         314         1         19         27         1         155         341         2
+Redeemable preferred securities     —         —         —         4         6         —         4         6         —
+Total debt securities      1,578        $     2,856        $     30         2,465        $     3,476        $     301         4,043        $     6,332        $     331
+The Company reviewed the securities in the table above and concluded that they are performing assets generating investment income to support the needs of the Company’s business. In performing this review, the Company considered factors such as the quality of the investment security based on research performed by the Company’s internal credit analysts and external rating agencies and the prospects of realizing the carrying value of the security based on the investment’s current prospects for recovery. Unrealized capital losses as of March 31, 2026 were generally caused by interest rate increases and not by unfavorable changes in the credit quality associated with these securities. As of March 31, 2026, the Company did not intend to sell these securities, and did not believe it was more likely than not that it would be required to sell these securities prior to the anticipated recovery of their amortized cost basis.
+15
+Net Investment Income
+Sources of net investment income for the three months ended March 31, 2026 and 2025 were as follows:
+Three Months Ended
+March 31,
+In millions    2026     2025
+Debt securities    $     351        $     323
+Mortgage loans     22         21
+Other investments     230         209
+Gross investment income     603         553
+Investment expenses    ( 13 )      ( 12 )
+Net investment income (excluding net realized capital losses)
+590         541
+Net realized capital losses
+( 16 )      ( 21 )
+Net investment income
+$     574        $     520
+Excluding amounts related to experience-rated products, proceeds from the sale of available-for-sale debt securities and the related gross realized capital gains and losses for the three months ended March 31, 2026 and 2025 were as follows:
+Three Months Ended
+March 31,
+In millions    2026     2025
+Proceeds from sales    $     2,950        $     2,185
+Gross realized capital gains     27         12
+Gross realized capital losses     28         39
+3.   Fair Value
+The preparation of the Company’s unaudited condensed consolidated financial statements in accordance with GAAP requires certain assets and liabilities to be reflected at their fair value and others to be reflected on another basis, such as an adjusted historical cost basis. The Company’s assets and liabilities carried at fair value have been classified within one of three levels of a hierarchy established by GAAP. The following are the levels of the hierarchy and a brief description of the type of valuation information (“valuation inputs”) that qualifies a financial asset or liability for each level:
+•  Level 1 – Unadjusted quoted prices for identical assets or liabilities in active markets.
+•  Level 2 – Valuation inputs other than Level 1 that are based on observable market data. These include: quoted prices for similar assets in active markets, quoted prices for identical assets in inactive markets, valuation inputs that are observable that are not prices (such as interest rates and credit risks) and valuation inputs that are derived from or corroborated by observable markets.
+•  Level 3 – Developed from unobservable data, reflecting the Company’s assumptions.
+For a description of the methods and assumptions that are used to estimate the fair value and determine the fair value hierarchy classification of each class of financial instrument, see Note 5 ‘‘Fair Value’’ in the 2025 Form 10-K.
+16
+There were   no   financial liabilities measured at fair value on a recurring basis on the unaudited condensed consolidated balance sheets as of March 31, 2026 or December 31, 2025.  Financial assets measured at fair value on a recurring basis on the unaudited condensed consolidated balance sheets as of March 31, 2026 and December 31, 2025 were as follows:
+In millions    Level 1     Level 2     Level 3     Total
+March 31, 2026
+Cash and cash equivalents    $     3,188        $     6,354        $     —        $     9,542
+Debt securities:
+U.S. government securities     2,726         9         —         2,735
+States, municipalities and political subdivisions     —         268         —         268
+U.S. corporate securities     —         14,929         4         14,933
+Foreign securities     —         3,021         —         3,021
+Residential mortgage-backed securities     —         1,069         —         1,069
+Commercial mortgage-backed securities     —         1,875         —         1,875
+Other asset-backed securities     —         4,476         —         4,476
+Redeemable preferred securities     —         14         —         14
+Total debt securities     2,726         25,661         4         28,391
+Equity securities     78         134         198         410
+Total    $     5,992        $     32,149        $     202        $     38,343
+December 31, 2025
+Cash and cash equivalents    $     4,030        $     4,423        $     —        $     8,453
+Debt securities:
+U.S. government securities     2,713         9         —         2,722
+States, municipalities and political subdivisions     —         292         —         292
+U.S. corporate securities     —         14,682         6         14,688
+Foreign securities     —         3,028         —         3,028
+Residential mortgage-backed securities     —         1,050         —         1,050
+Commercial mortgage-backed securities     —         1,979         —         1,979
+Other asset-backed securities     —         4,944         —         4,944
+Redeemable preferred securities     —         15         —         15
+Total debt securities     2,713         25,999         6         28,718
+Equity securities     105         30         198         333
+Total    $     6,848        $     30,452        $     204        $     37,504
+During the three months ended March 31, 2026 and 2025, transfers into or out of Level 3 were not material.
+17
+The carrying value and estimated fair value classified by level of fair value hierarchy for financial instruments carried on the unaudited condensed consolidated balance sheets at adjusted cost or contract value as of March 31, 2026 and December 31, 2025 were as follows:
+Carrying
+Value      Estimated Fair Value
+In millions     Level 1     Level 2     Level 3     Total
+March 31, 2026
+Assets:
+Mortgage loans    $     1,495        $     —        $     —        $     1,489        $     1,489
+Equity securities   (1)
+625        N/A     N/A     N/A     N/A
+Liabilities:
+Long-term debt     63,111         59,707         —         —         59,707
+December 31, 2025
+Assets:
+Mortgage loans    $     1,524        $     —        $     —        $     1,524        $     1,524
+Equity securities   (1)
+555        N/A     N/A     N/A     N/A
+Liabilities:
+Long-term debt     64,570         62,321         —         —         62,321
+_____________________________________________
+(1)  It was not practical to estimate the fair value of these investments as they represent shares of unlisted companies.
+Separate Accounts
+Separate accounts assets relate to the Company’s large case pensions products and represent funds maintained to meet specific objectives of contract holders. Since contract holders bear the investment risk of these assets, a corresponding separate accounts liability has been established equal to the assets. Separate accounts assets and liabilities are carried at fair value and are included in other assets and other long-term liabilities, respectively, on the unaudited condensed consolidated balance sheets. During the three months ended March 31, 2026, changes in separate accounts assets and liabilities were not material.  Separate accounts assets as of March 31, 2026 and December 31, 2025 were as follows:
+March 31, 2026     December 31, 2025
+In millions    Level 1     Level 2     Level 3     Total     Level 1     Level 2     Level 3     Total
+Cash and cash equivalents    $     1        $     154        $     —        $     155        $     1        $     155        $     —        $     156
+Debt securities
+18         353         2         373         30         361         2         393
+Common/collective trusts     —         1,374         —         1,374         —         1,445         —         1,445
+Total   (1)
+$     19        $     1,881        $     2        $     1,902        $     31        $     1,961        $     2        $     1,994
+_____________________________________________
+(1)  Excludes $ 77  million of other receivables as of March 31, 2026.
+18
+4.   Insurance Liabilities
+Health Care Costs Payable
+The following table shows the components of the change in health care costs payable during the three months ended March 31, 2026 and 2025:
+Three Months Ended
+March 31,
+In millions    2026     2025
+Health care costs payable, beginning of the period    $     15,399        $     15,064
+Less: Reinsurance recoverables     90         81
+Less: Impact of discount rate on long-duration insurance reserves   (1)
+( 20 )      ( 1 )
+Health care costs payable, beginning of the period, net     15,329         14,984
+Add: Components of incurred health care costs
+Current year     30,374         30,293
+Prior years    ( 1,093 )      ( 1,651 )
+Total incurred health care costs   (2)
+29,281         28,642
+Less: Claims paid
+Current year     18,255         19,312
+Prior years     10,951         9,749
+Total claims paid     29,206         29,061
+Health care costs payable, end of the period, net     15,404         14,565
+Add: Premium deficiency reserve
+—         431
+Add: Reinsurance recoverables     132         114
+Add: Impact of discount rate on long-duration insurance reserves   (1)
+( 18 )       2
+Health care costs payable, end of the period    $     15,518        $     15,112
+_____________________________________________
+(1)  Reflects the difference between the current discount rate and the locked-in discount rate on long-duration insurance reserves which is recorded within accumulated other comprehensive income on the unaudited condensed consolidated balance sheets.
+(2)  Total incurred health care costs for the three months ended March 31, 2026 and 2025 in the table above exclude $ 31  million and $ 16  million, respectively, of health care costs recorded in the Health Care Benefits segment that are included in other insurance liabilities on the unaudited condensed consolidated balance sheets, as well as $  46   million of health care costs recorded in the Corporate/Other segment for both the three months ended March 31, 2026 and 2025 that are included in other insurance liabilities on the unaudited condensed consolidated balance sheets. Total incurred health care costs for the three months ended March 31, 2025 also exclude $ 431  million for a premium deficiency reserve for the 2025 coverage year related to the Company’s individual exchange product line.
+The Company’s estimates of prior years’ health care costs payable decreased by $ 1.1  billion and $ 1.7  billion, respectively, in the three months ended March 31, 2026 and 2025, because claims were settled for amounts less than originally estimated (i.e., the amount of claims incurred was lower than originally estimated), primarily due to lower health care cost trends as well as the actual claim submission time being faster than originally assumed (i.e., the Company’s completion factors were higher than originally assumed) in estimating health care costs payable at the end of the prior year.
+As of March 31, 2026, the Company’s liabilities for the ultimate cost of (i) services rendered to the Company’s Insured members but not yet reported to the Company and (ii) claims which have been reported to the Company but not yet paid (collectively, “IBNR”) plus expected development on reported claims totaled approximately $ 10.6  billion. The majority of the Company’s liabilities for IBNR plus expected development on reported claims as of March 31, 2026 related to the current year.
+Future Policy Benefits
+Future policy benefits consist primarily of reserves for products for which the Company no longer solicits or accepts new customers, including limited payment pension and annuity contracts (referred to as “large case pensions”) and long-term care insurance contracts. Contracts are grouped into cohorts by contract type and issue year. The liability for future policy benefits is adjusted for differences between actual and expected experience. During the three months ended March 31, 2026 and 2025, changes in the liability for future policy benefits were not material.
+19
+The weighted-average interest rates used in the measurement of the long-duration insurance liabilities as of March 31, 2026 and 2025 were as follows:
+March 31,
+2026     March 31,
+2025
+Large case pensions
+Interest accretion rate     4.21 %      4.20 %
+Current discount rate     5.34 %      5.31 %
+Long-term care
+Interest accretion rate     5.11 %      5.11 %
+Current discount rate     5.68 %      5.60 %
+The weighted-average durations (in years) of the long-duration insurance liabilities as of March 31, 2026 and 2025 were as follows:
+March 31,
+2026     March 31,
+2025
+Large case pensions     7.2       7.3
+Long-term care     11.1       11.6
+5.   Shareholders’ Equity
+Share Repurchase Programs
+The following share repurchase programs have been authorized by CVS Health Corporation’s Board of Directors (the “Board”):
+In billions
+Authorization Date
+Authorized
+Remaining as of
+March 31, 2026
+November 17, 2022 (“2022 Repurchase Program”)    $     10.0        $     10.0
+December 9, 2021 (“2021 Repurchase Program”)     10.0         1.5
+Each of the share repurchase programs was effective immediately and permit the Company to effect repurchases from time to time through a combination of open market repurchases, privately negotiated transactions, accelerated share repurchase (“ASR”) transactions, and/or other derivative transactions. Both the 2022 and 2021 Repurchase Programs can be modified or terminated by the Board at any time.
+During the three months ended March 31, 2026 and 2025, the Company did   not   repurchase any shares of its common stock.
+Dividends
+The quarterly cash dividend declared by the Board was $  0.665   per share in both the three months ended March 31, 2026 and 2025. CVS Health Corporation has paid cash dividends every quarter since becoming a public company. Future dividend payments will depend on the Company’s earnings, capital requirements, financial condition and other factors considered relevant by the Board.
+20
+6.   Other Comprehensive Income (Loss)
+Shareholders’ equity included the following activity in accumulated other comprehensive income (loss) for the three months ended March 31, 2026 and 2025:
+Three Months Ended
+March 31,
+In millions    2026     2025
+Net unrealized investment gains (losses):
+Beginning of period balance    $     206        $    ( 399 )
+Other comprehensive income (loss) before reclassifications (  $( 328 ) and $ 188  pretax)
+( 254 )       187
+Amounts reclassified from accumulated other comprehensive income (loss) (  $ 13  and $ 32  pretax)     (1)
+10         29
+Other comprehensive income (loss)
+( 244 )       216
+End of period balance    ( 38 )      ( 183 )
+Change in discount rate on long-duration insurance reserves:
+Beginning of period balance     215         265
+Other comprehensive income (loss) before reclassifications (  $ 54  and $( 41 ) pretax)
+43        ( 33 )
+Other comprehensive income (loss)
+43        ( 33 )
+End of period balance     258         232
+Foreign currency translation adjustments:
+Beginning of period balance     7        ( 4 )
+Other comprehensive income
+—         —
+End of period balance     7        ( 4 )
+Net cash flow hedges:
+Beginning of period balance     216         229
+Amounts reclassified from accumulated other comprehensive income   ($( 5 ) and $( 6 ) pretax)     (2)
+( 4 )      ( 4 )
+Other comprehensive loss
+( 4 )      ( 4 )
+End of period balance     212         225
+Pension and other postretirement benefits:
+Beginning of period balance    ( 238 )      ( 211 )
+Other comprehensive income
+—         —
+End of period balance    ( 238 )      ( 211 )
+Total beginning of period accumulated other comprehensive income (loss)
+406        ( 120 )
+Total other comprehensive income (loss)
+( 205 )       179
+Total end of period accumulated other comprehensive income
+$     201        $     59
+_____________________________________________
+(1)  Amounts reclassified from accumulated other comprehensive income (loss) for specifically identified debt securities are included in net investment income in the unaudited condensed consolidated statements of operations.
+(2)  Amounts reclassified from accumulated other comprehensive income for specifically identified cash flow hedges are included in interest expense in the unaudited condensed consolidated statements of operations. The Company expects to reclassify approximately $ 16  million, net of tax, in net gains associated with its cash flow hedges into net income within the next 12 months.
+21
+7.   Earnings Per Share
+Earnings per share is computed using the treasury stock method. Stock options and stock appreciation rights to purchase  4  million and  10  million shares of common stock were outstanding, but were excluded from the calculation of diluted earnings per share for the three months ended March 31, 2026 and 2025, respectively, because their exercise prices were greater than the average market price of the common shares and, therefore, the effect would be antidilutive.
+The following is a reconciliation of basic and diluted earnings per share for the three months ended March 31, 2026 and 2025:
+Three Months Ended
+March 31,
+In millions, except per share amounts    2026     2025
+Numerator for earnings per share calculation:
+Net income attributable to CVS Health    $      2,943         $      1,779
+Denominator for earnings per share calculation:
+Weighted average shares, basic     1,273         1,261
+Restricted stock units and performance stock units     5         2
+Stock options and stock appreciation rights     1         1
+Weighted average shares, diluted     1,279         1,264
+Earnings per share:
+Basic    $     2.31        $     1.41
+Diluted    $     2.30        $     1.41
+8.   Commitments and Contingencies
+Lease Guarantees
+Between 1995 and 1997, the Company sold or spun off a number of subsidiaries, including Linens ‘n Things and Marshalls. In many cases, when a former subsidiary leased a store, the Company provided a guarantee of the former subsidiary’s lease obligations for the initial lease term and any extension thereof pursuant to a renewal option provided for in the lease prior to the time of the disposition. When the subsidiaries were disposed of and accounted for as discontinued operations, the Company’s guarantees remained in place, although each initial purchaser agreed to indemnify the Company for any lease obligations the Company was required to satisfy. If any of the purchasers or any of the former subsidiaries fail to make the required payments under a store lease, the Company could be required to satisfy those obligations. As of March 31, 2026, the Company guaranteed  59  such store leases (excluding the lease guarantees related to Linens ‘n Things, which have been recorded as a liability on the unaudited condensed consolidated balance sheets), with the maximum remaining lease term extending through 2036.
+Guaranty Fund Assessments, Market Stabilization and Other Non-Voluntary Risk Sharing Pools
+Under guaranty fund laws existing in all states, insurers doing business in those states can be assessed (in most states up to prescribed limits) for certain obligations of insolvent insurance companies to policyholders and claimants. The life and health insurance guaranty associations in which the Company participates that operate under these laws respond to insolvencies of long-term care insurers and life insurers as well as health insurers. The Company’s assessments generally are based on a formula relating to the Company’s health care premiums in the state compared to the premiums of other insurers. Certain states allow assessments to be recovered over time as offsets to premium taxes. Some states have similar laws relating to health maintenance organizations (“HMOs”) and/or other payors such as not-for-profit consumer-governed health plans established under the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010. It is reasonably possible that in the future the Company may record a liability and expense relating to insolvencies which could have a material adverse effect on the Company’s operating results, financial condition and cash flows. While historically the Company has ultimately recovered more than half of guaranty fund assessments through statutorily permitted premium tax offsets, significant increases in assessments could lead to legislative and/or regulatory actions that limit future offsets.
+HMOs in certain states in which the Company does business are subject to assessments, including market stabilization and other risk-sharing pools, for which the Company is assessed charges based on incurred claims, demographic membership mix and other factors. The Company establishes liabilities for these assessments based on applicable laws and regulations. In certain
+22
+states, the ultimate assessments the Company pays are dependent upon the Company’s experience relative to other entities subject to the assessment, and the ultimate liability is not known at the financial statement date. While the ultimate amount of the assessment is dependent upon the experience of all pool participants, the Company believes it has adequate reserves to cover such assessments.
+Litigation and Regulatory Proceedings
+The Company has been involved or is currently involved in numerous legal and regulatory proceedings, which may include claims of or relating to bad faith, medical or professional malpractice, breach of fiduciary duty, claims processing and billing, dispensing of medications, the use of medical testing devices in the in-home evaluation setting, non-compliance with state and federal regulatory regimes, marketing misconduct, denial of or failure to timely or appropriately pay or administer claims and benefits, provider network structure (including the use of performance-based networks and termination of provider contracts), rescission of insurance coverage, improper disclosure or use of personal information, anticompetitive practices, including antitrust violations, the Company’s participation in the 340B program, general contractual matters, product liability, intellectual property litigation, discrimination and employment litigation. Some of these other legal proceedings are or are purported to be class actions or derivative claims. The Company is defending itself against the claims brought in these matters.
+The Company is also a party to government investigations, audits, reviews, claims enforcement actions and litigation. These include routine, regular and special investigations, audits, subpoenas, civil investigative demands (“CIDs”) and reviews by   CMS, state insurance and health and welfare departments,   the U.S. Department of Justice (the “DOJ”),   state Attorneys General, the U.S. Drug Enforcement Administration (the “DEA”), the U.S. Federal Trade Commission (the “FTC”) and other governmental authorities.
+Legal proceedings, in general, and securities, class action and multi-district litigation, in particular, and governmental special investigations, audits, reviews, litigation and enforcement proceedings can be expensive and disruptive. Some of the litigation matters may purport or be determined to be class actions, mass actions and/or involve parties seeking large and/or indeterminate amounts, including punitive or exemplary damages, and may remain unresolved for several years. The Company also may be named from time to time in   qui tam   actions initiated by private third parties that could also be separately pursued by a governmental body. The results of legal proceedings, including government investigations, are often uncertain and difficult to predict, and the costs incurred in these matters can be substantial, regardless of the outcome.
+The Company records accruals for outstanding legal matters when it believes it is probable that a loss will be incurred and the amount can be reasonably estimated. The Company evaluates, on a quarterly basis, developments in legal matters that could affect the amount of any accrual and developments that would make a loss contingency both probable and reasonably estimable. If a loss contingency is not both probable and reasonably estimable, the Company does not establish an accrued liability. Other than the controlled substances litigation accruals described below and as otherwise noted, none of the Company’s accruals for outstanding legal matters are material individually or in the aggregate to the Company’s unaudited condensed consolidated balance sheets. The Company recognizes gain contingencies when the contingency becomes realizable. Contingent gains related to refunds requested from the U.S. Customs and Border Protection for International Emergency Economic Powers Act tariffs paid on imports are not expected to be material to the Company’s consolidated operating results, financial condition or cash flows upon recognition.
+Except as otherwise noted, the Company cannot predict with certainty the timing or outcome of the legal matters described below, and the Company is unable to reasonably estimate a possible loss or range of possible loss in excess of amounts already accrued for these matters. The Company believes that its defenses and assertions in pending legal proceedings have merit and does not believe that any of these pending matters, after consideration of applicable reserves and rights to indemnification, will have a material adverse effect on the Company’s financial position. Substantial unanticipated verdicts, fines and rulings, however, do sometimes occur, which could result in judgments against the Company, entry into settlements or a revision to its expectations regarding the outcome of certain matters, and such developments could have a material adverse effect on its results of operations. In addition, as a result of governmental investigations or proceedings, the Company may be subject to damages, civil or criminal fines or penalties, or other sanctions including possible suspension or loss of licensure and/or exclusion from participating in government programs. The outcome of such governmental investigations or proceedings could be material to the Company.
+Usual and Customary Pricing Litigation
+The Company is named as a defendant in a number of lawsuits that allege that the Company’s retail pharmacies overcharged for prescription drugs by not submitting the correct usual and customary price during the claims adjudication process. These actions are brought by a number of different types of plaintiffs, including private payors and government payors, and are based
+23
+on different legal theories. Some of these cases are brought as putative class actions in which classes have been certified, and one of the cases asserts state false claims act claims by several state attorneys general in an intervened complaint filed in April 2025 and unsealed in May 2025. The Company is defending itself against these claims.
+PBM Litigation and Investigations
+The Company is named as a defendant in a number of lawsuits and is subject to a number of investigations concerning its PBM practices.
+The Company is facing multiple lawsuits, including by state Attorneys General, governmental subdivisions, private parties and several putative class actions, regarding drug pricing and its rebate arrangements with drug manufacturers. These complaints, brought by a number of different types of plaintiffs under a variety of legal theories, generally allege that rebate agreements between the drug manufacturers and PBMs caused inflated prices for certain drug products. The majority of these cases have now been transferred into a multi-district litigation in the U.S. District Court for the District of New Jersey. The Company is defending itself against these claims. The Company has also received subpoenas, CIDs, and other requests for documents and information from, and is being investigated by, the DOJ, the U.S. Department of Health and Human Services (“HHS”), the FTC and Attorneys General of several states and the District of Columbia regarding its PBM practices, including pharmacy contracting practices and reimbursement, pricing and rebates. The Company has been providing documents and information in response to these subpoenas, CIDs and requests for information. In September 2024, the FTC filed an administrative complaint against the three largest PBMs (the “PBM Group”) and their affiliated group purchasing organizations, including subsidiaries of the Company. The complaint alleged that the PBM Group and their affiliated group purchasing organizations engaged in anti-competitive and unfair practices that “artificially” increased insulin costs. In March 2026, the Company and the FTC staff executed a proposed settlement agreement that, if accepted by the Commission, would resolve its outstanding investigations related to the Company’s PBM and affiliated pharmacy businesses, including rebate, pharmacy network, contract, and vertical integration issues. The proposed settlement is under consideration by the Commission and, if accepted, would be subject to a public comment period after which the Commission would decide whether to issue a final order. The Commission has halted its insulin litigation against the Company pending the outcome of this process.
+United States ex rel. Behnke v. CVS Caremark Corporation, et al.   (U.S. District Court for the Eastern District of Pennsylvania). In April 2018, the Court unsealed a complaint filed in February 2014. The government has declined to intervene in this case. The relator alleges that the Company submitted, or caused to be submitted, to Part D of the Medicare program Prescription Drug Event data and/or Direct and Indirect Remuneration reports that misrepresented true prices paid by the Company’s PBM to pharmacies for drugs dispensed to Part D beneficiaries with prescription benefits administered by the Company’s PBM. Following a two-week trial, the Court issued a split decision and ruled that the Company was liable under the False Claims Act as to certain claims. After trebling damages and assessing penalties, the court entered judgment for $ 291  million, for which the Company recorded a litigation reserve in the year ended December 31, 2025. The Company has appealed to the Third Circuit Court of Appeals.
+Controlled Substances Litigation, Audits and Subpoenas
+Forty-five  states, the District of Columbia, and all eligible United States territories are participating in a settlement resolving substantially all opioid claims against Company entities by participating states and political subdivisions but not private plaintiffs. A high percentage of eligible subdivisions within the participating states also have elected to join the settlement. The settlement agreement is available at nationalopioidsettlement.com. The Company has separately entered into settlement agreements with  four  states – Florida, West Virginia, New Mexico and Nevada – and a high percentage of eligible subdivisions within those states also have elected to participate. The Company has also reached an agreement to resolve claims by third-party payors; that agreement remains subject to a class approval process.
+The final settlement agreements contain certain contingencies related to payment obligations. Because these contingencies are inherently unpredictable, the assessment requires judgments about future events. As of March 31, 2026, the Company’s remaining accrual related to these opioid litigation matters was approximately $ 4.0  billion. The amount of ultimate loss may differ from the amount accrued by the Company.
+The State of Maryland has elected not to participate, and thus subdivisions within the State of Maryland may not participate, in the settlement. The State of Maryland has issued a civil subpoena for information from the Company, and litigation is pending with certain subdivisions within the State of Maryland as well as other non-participating subdivisions in other geographies, including the City of Philadelphia, and private parties such as hospitals. Trial in a case brought by a group of Florida hospitals concluded in December 2025 when the Court declared a mistrial due to a deadlocked jury; a new trial is scheduled to begin in August 2026. The Company is defending itself against the claims made in these cases.
+24
+Because of the many uncertainties associated with any settlement arrangement or other resolution of opioid-related litigation matters, and because the Company continues to actively defend ongoing litigation for which it believes it has defenses and assertions that have merit, the Company is not able to reasonably estimate the range of ultimate possible loss for all opioid-related litigation matters at this time. The outcome of these legal matters could have a material effect on the Company’s business, financial condition, operating results and/or cash flows.
+In December 2024, the DOJ intervened in a previously sealed   qui tam   action and filed an amended complaint in the U.S. District Court for the District of Rhode Island, alleging, among other claims, violations of the federal Controlled Substances Act and the federal False Claims Act based on the filling of opioid and other controlled substance prescriptions at CVS Pharmacy locations nationwide. The Company is defending itself against the claims made in this case. Separately, the Company has been served with subpoenas issued by the U.S. Attorney’s Office for the Western District of Virginia, seeking records related to, among other things, commercial arrangements between the Company’s PBM and opioid manufacturers.
+Prescription Processing Litigation and Investigations
+The Company is named as a defendant in a number of lawsuits and is subject to a number of investigations concerning its prescription processing practices, including related to billing government payors for prescriptions, and the following:
+U.S. ex rel. Bassan et al. v. Omnicare, Inc. and CVS Health Corp.   (U.S. District Court for the Southern District of New York). In December 2019, the U.S. Attorney’s Office for the Southern District of New York filed a complaint-in-intervention in this previously sealed   qui tam   case. The complaint alleges that for certain non-skilled nursing facilities, Omnicare, LLC (“Omnicare”) improperly filled prescriptions where a valid prescription did not exist and that these dispensing events violated the federal False Claims Act. In April 2025, the jury found both Omnicare and CVS Health Corporation liable. The jury awarded approximately $ 136  million due to Omnicare’s conduct. This amount is automatically required to be tripled by statute to approximately $ 407  million. Accordingly, a litigation reserve was recorded related to this matter in the three months ended March 31, 2025. The jury found no damages attributable to CVS Health Corporation. In July 2025, the Court awarded penalties against Omnicare for $ 542  million, for which the Company recorded an incremental litigation reserve in the three months ended June 30, 2025. The Court also found CVS Health Corporation to be jointly and severally liable for $ 165  million of the $ 542  million in penalties. The Company has filed an appeal to the Second Circuit. On September 22, 2025, Omnicare initiated a voluntary court-supervised Chapter 11 bankruptcy process and was deconsolidated in the three months ended September 30, 2025. The litigation reserve of $ 165  million that CVS Health Corporation was jointly and severally liable for remained as a liability on the unaudited condensed consolidated balance sheet as of March 31, 2026.
+U.S. ex rel. Gill et al. v. CVS Health Corp. et al.   (U.S. District Court for the Northern District of Illinois). In July 2022, the Delaware Attorney General’s Office moved for partial intervention as to allegations under the Delaware false claims act related to not escheating alleged overpayments in this previously sealed   qui tam   case. The federal government and the remaining states declined to intervene on other additional theories in the relator’s complaint, except that the federal government filed a notice of intervention for the limited purpose of defending the constitutionality of the   qui tam   provisions of the False Claims Act. The Company is defending itself against all of the claims.
+Provider Proceedings
+The Company is named as a defendant in purported class actions and individual lawsuits arising out of its practices related to the payment of claims for services rendered to its members by providers with whom the Company has a contract and with whom the Company does not have a contract (“out-of-network providers”). Among other things, these lawsuits allege that the Company paid too little to its health plan members and/or providers for out-of-network services (including COVID-19 testing) and/or otherwise allege that the Company failed to timely or appropriately pay or administer claims and benefits (including the Company’s post payment audit and collection practices).
+The Company also has received subpoenas and/or requests for documents and other information from, and been investigated by, the DOJ, state Attorneys General and other state and/or federal regulators, legislators and agencies relating to claims payments, and the Company is involved in other litigation regarding its out-of-network benefit payment and administration practices. It is reasonably possible that others could initiate additional litigation or additional regulatory action against the Company with respect to its out-of-network benefit payment and/or administration practices.
+25
+CMS Actions
+CMS regularly audits the Company’s performance to determine its compliance with CMS’s regulations and its contracts with CMS and to assess the quality of services it provides to Medicare beneficiaries. CMS uses various payment mechanisms to allocate and adjust premium payments to the Company’s and other companies’ Medicare plans by considering the applicable health status of Medicare members as supported by information prepared, maintained and provided by providers. The Company collects claim and encounter data from providers and generally relies on providers to appropriately code their submissions to the Company and document their medical records, including the diagnosis data submitted to the Company with claims. CMS pays increased premiums to Medicare Advantage plans and Medicare PDP plans for members who have certain medical conditions identified with specific diagnosis codes. Federal regulators review and audit the providers’ medical records to determine whether those records support the related diagnosis codes that determine the members’ health status and the resulting risk-adjusted premium payments to the Company. In that regard, CMS has instituted risk adjustment data validation (“RADV”) audits of various Medicare Advantage plans, including the Company’s plans, to validate coding practices and supporting medical record documentation maintained by providers and the resulting risk-adjusted premium payments to the plans. CMS may require the Company to refund premium payments if the Company’s risk-adjusted premiums are not properly supported by medical record data. The Office of the Inspector General of the U.S. Department of Health and Human Services (the “OIG”) also is auditing the Company’s risk adjustment-related data and that of other companies. The Company expects CMS and the OIG to continue these types of audits. CMS has announced its intention to audit all contracts as a standard practice. CMS’ auditing methodology is subject to pending litigation, so the Company is not able to determine the methodology, and potential extrapolation, that would be used for future audits.
+Medicare and Medicaid Litigation and Investigations
+The Company has received CIDs from the Civil Division of the DOJ in connection with investigations of the Company’s identification and/or submission of diagnosis codes related to risk adjustment payments, including patient chart review processes, under Parts C and D of the Medicare program. The Company is cooperating with the government and providing documents and information in response to these CIDs.
+In May 2017, the Company received a CID from the U.S. Attorney’s Office for the Southern District of New York requesting documents and information concerning possible false claims submitted to Medicare in connection with reimbursements for prescription drugs under the Medicare Part D program. The Company has been cooperating with the government and providing documents and information in response to this CID.
+U.S. ex rel. Andrew Shea v. Aetna Life Insurance Company, et al.   (U.S. District Court for the District of Massachusetts). In May 2025, the U.S. Attorney’s Office for the District of Massachusetts filed a complaint-in-intervention in this previously sealed   qui tam   case. The complaint alleges that the Company and two other large health insurance companies, paid kickbacks to insurance brokers to induce them to direct patients to their Medicare Advantage plans and, as a result, claims made to the government in connection with those plans violated the federal False Claims Act and Anti-Kickback Statute. The complaint also alleges that the Company engaged in discriminatory conduct. The Company is defending itself against these claims.
+In addition, awards to the Company and others of certain government contracts, particularly Medicaid contracts and other contracts with government customers in the Company’s Health Care Benefits segment, frequently are subject to protests by unsuccessful bidders. These protests may result in awards to the Company being reversed, delayed, or modified. The loss or delay in implementation of any government contract could adversely affect the Company’s operating results. The Company will continue to defend contract awards it receives.
+Stockholder Matters
+The Company has received several demands for inspection of books and records pursuant to Delaware General Corporation Law Section 220 (“Section 220 demands”). Section 220 demands generally relate to potential breaches of fiduciary duties by the Board in relation to its oversight of certain matters, such as opioids and PBM and retail practices. While responding to Section 220 demands may consume Company resources, Section 220 demands themselves are not material to the Company unless they lead to formal complaints or legal actions.
+Beginning in February 2019, multiple class action complaints, as well as a derivative complaint, were filed by putative plaintiffs against the Company and certain current and former officers and directors. The plaintiffs in these cases assert a variety of causes of action under federal securities laws that are premised on allegations that the defendants made certain omissions and misrepresentations relating to the performance of the Company’s former LTC business unit. Since filing, several of the cases
+26
+have been consolidated, and three have resolved. In February 2025, the District of Rhode Island granted the Company’s motion to dismiss   In re CVS Health Corp. Securities Act Litigation   (formerly known as   Waterford  ) and in March 2025 plaintiffs filed a notice of appeal of that decision to the First Circuit. A derivative case in the District of Rhode Island,   Lovoi v. Aguirre  , had been stayed pending the outcome of the   Waterford   case, and will remain stayed pending the resolution of the appeal. The Company and its current and former officers and directors are defending themselves against remaining claims.
+Beginning in July 2024,  two  purported class action complaints, as well as multiple derivative complaints, were filed by putative plaintiffs against the Company and certain current and former officers and directors. The plaintiffs in these cases assert a variety of causes of action under federal securities laws and state law that are premised on allegations that the defendants made certain omissions and misrepresentations relating to the profitability of the Health Care Benefits segment.  Two  purported class actions were filed and have been consolidated in the U.S. District Court for the Southern District of New York. In May 2025, the defendants filed a motion to dismiss the amended consolidated class action complaint captioned as   Louisiana Sheriffs’ Pension and Relief Fund, et al. v. CVS Health Corp., et al.      Two  derivative cases were also filed in the Southern District of New York and have been consolidated as   In re     CVS Health Corporation Derivative Litigation  .      Two  derivative cases filed in the District of Rhode Island   have been consolidated as   In re CVS Health Corporation Stockholder Derivative Litigation  . The consolidated derivative actions have been stayed pending the outcome of any motion to dismiss in the consolidated   Louisiana Sheriffs’   securities class action.      Three  additional derivative cases   were filed in Rhode Island Superior Court: two have been consolidated as   In re CVS Health Corporation Stockholder Derivative Litigation   and the third is   Davidow v. Lynch, et al  ., and these cases have also been stayed on similar terms as the other actions. The Company and the individual defendants are defending themselves against these claims. In January 2025, the Board received a stockholder demand containing allegations substantially similar to those made in the class action and derivative matters, and requesting that it take certain actions, including investigating whether any Board members or officers breached their fiduciary duties related to those allegations, and bringing litigation to recover the Company’s damages if any such misconduct is found. The Board has determined to defer a decision on the demand pending developments in the related litigation.
+27
+9.   Segment Reporting
+The Company has  four  reportable segments: Health Care Benefits, Health Services, Pharmacy & Consumer Wellness and Corporate/Other. The Company’s segments maintain separate financial information, and the Chief Operating Decision Maker (the “CODM”), the Company’s Chief Executive Officer, evaluates the segments’ operating results on a regular basis in deciding how to allocate resources among the segments and in assessing segment performance. The CODM evaluates the performance of the Company’s segments based on adjusted operating income. Total assets by segment are not used by the CODM to assess the performance of, or allocate resources to, the Company’s segments, therefore total assets by segment are not disclosed.
+Adjusted operating income (loss) is defined as operating income (loss) (GAAP measure) excluding the impact of amortization of intangible assets, net realized capital gains or losses and other items, if any, that neither relate to the ordinary course of the Company’s business nor reflect the Company’s underlying business performance. The CODM uses adjusted operating income as its principal measure of segment performance as it enhances the CODM’s ability to compare past financial performance with current performance and analyze underlying business performance and trends. Non-GAAP financial measures the Company discloses, such as consolidated adjusted operating income, should not be considered a substitute for, or superior to, financial measures determined or calculated in accordance with GAAP.
+The following are reconciliations of financial measures of the Company’s segments to the consolidated totals:
+Three Months Ended March 31, 2026
+In millions    Health Care
+Benefits
+Health
+Services   (1)
+Pharmacy &
+Consumer
+Wellness     Corporate/
+Other
+Consolidated
+Totals
+Revenues from external customers    $     35,477        $     42,609        $     21,752        $     14        $     99,852
+Intersegment revenues     32         5,628         10,237        —        15,897
+Net investment income
+462         —         —         112         574
+Total revenues     35,971         48,237         31,989         126         116,323
+Intersegment eliminations   (2)
+( 15,897 )
+Total consolidated revenues            $     100,426
+Less: Net realized capital gains (losses)
+1         —         —        ( 17 )
+Cost of products sold     —         44,719         25,790         —
+Health care costs     28,579         1,302         —         46
+Operating expenses, excluding other segment items   (3)
+4,350         727         5,002         674
+Adjusted operating income (loss)    $     3,041        $     1,489        $     1,197        $    ( 577 )      $     5,150
+Reconciliation of principal measure of segment performance to consolidated operating income:
+Amortization of intangible assets   (4)
+442
+Net realized capital losses   (5)
+16
+Acquisition-related integration costs   (6)
+12
+Operating income (GAAP measure)
+4,680
+Interest expense            ( 774 )
+Other income             32
+Income before income tax provision
+$     3,938
+Depreciation and amortization    $     340        $     258        $     406        $     111        $     1,115
+28
+Three Months Ended March 31, 2025
+In millions    Health Care
+Benefits
+Health
+Services   (1)
+Pharmacy &
+Consumer
+Wellness     Corporate/
+Other
+Consolidated
+Totals
+Revenues from external customers    $     34,405        $     38,096        $     21,553        $     14        $     94,068
+Intersegment revenues     18         5,352         10,359        —        15,729
+Net investment income
+387         14         —         119         520
+Total revenues     34,810         43,462         31,912         133         110,317
+Intersegment eliminations   (2)
+( 15,729 )
+Total consolidated revenues            $     94,588
+Less: Net realized capital gains (losses)
+( 21 )       15         —        ( 15 )
+Cost of products sold     —         40,115         25,804         —
+Health care costs     28,637         1,047         —         46
+Operating expenses, excluding other segment items   (3)
+4,201         682         4,795         432
+Adjusted operating income (loss)    $     1,993        $     1,603        $     1,313        $    ( 330 )      $     4,579
+Reconciliation of principal measure of segment performance to consolidated operating income:
+Amortization of intangible assets   (4)
+499
+Net realized capital losses   (5)
+21
+Acquisition-related integration costs   (6)
+45
+Legacy litigation charge   (7)
+387
+Loss on Accountable Care assets   (8)
+247
+Office real estate optimization charges   (9)
+6
+Operating income (GAAP measure)             3,374
+Interest expense            ( 785 )
+Other income             28
+Income before income tax provision            $     2,617
+Depreciation and amortization    $     405        $     261        $     384        $     104        $     1,154
+_____________________________________________
+(1)  Total revenues of the Health Services segment include approximately $ 3.8  billion and $ 3.7  billion of retail co-payments for the three months ended March 31, 2026 and 2025, respectively.
+(2)  Intersegment revenue eliminations relate to intersegment revenue generating activities that occur between the Health Care Benefits segment, the Health Services segment, and/or the Pharmacy & Consumer Wellness segment.
+(3)  Other segment items for each reportable segment consist of the impact of amortization of intangible assets and other items, if any, that neither relate to the ordinary course of the Company’s business nor reflect the Company’s underlying business performance.
+(4)  The Company’s acquisition activities have resulted in the recognition of intangible assets as required under the acquisition method of accounting which consist primarily of trademarks, customer contracts/relationships, covenants not to compete, technology, provider networks and value of business acquired. Definite-lived intangible assets are amortized over their estimated useful lives and are tested for impairment when events indicate that the carrying value may not be recoverable. The amortization of intangible assets is reflected in operating expenses within each segment. Although intangible assets contribute to the Company’s revenue generation, the amortization of intangible assets does not directly relate to the underwriting of the Company’s insurance products, the services performed for the Company’s customers or the sale of the Company’s products or services. Additionally, intangible asset amortization expense typically fluctuates based on the size and timing of the Company’s acquisition activity. Accordingly, the Company believes excluding the amortization of intangible assets enhances the Company’s and investors’ ability to compare the Company’s past financial performance with its current performance and to analyze underlying business performance and trends. Intangible asset amortization excluded from the related non-GAAP financial measure represents the entire amount recorded within the Company’s GAAP financial statements, and the revenue generated by the associated intangible assets has not been excluded from the related non-GAAP financial measure. Intangible asset amortization is excluded from the related non-GAAP financial measure because the amortization, unlike the related revenue, is not affected by operations of any particular period unless an intangible asset becomes impaired or the estimated useful life of an intangible asset is revised.
+(5)  The Company’s net realized capital gains and losses arise from various types of transactions, primarily in the course of managing a portfolio of assets that support the payment of insurance liabilities. Net realized capital gains and losses are reflected in net investment income within each segment. These capital gains and losses are the result of investment decisions, market conditions and other economic developments that are unrelated to the performance of the Company’s business, and the amount and timing of these capital gains and losses do not directly relate to the underwriting of the Company’s insurance products, the services performed for the Company’s customers or the sale of the Company’s products or services. Accordingly, the Company believes excluding net realized capital gains and losses enhances the Company’s and investors’ ability to compare the Company’s past financial performance with its current performance and to analyze underlying business performance and trends.
+29
+(6)  During the three months ended March 31, 2026 and 2025, the acquisition-related integration costs relate to the acquisitions of Signify Health and Oak Street Health. The acquisition-related integration costs are reflected in operating expenses within the Corporate/Other segment.
+(7)  During the three months ended March 31, 2025, the Company recorded a legacy litigation charge related to a court decision associated with its past business practices. The legacy litigation charge was reflected in operating expenses within the Pharmacy & Consumer Wellness segment.
+(8)  During the three months ended March 31, 2025, the loss on the wind down and sale of Accountable Care assets represents the pre-tax loss on the divestiture of the Company’s MSSP operations, as well as costs incurred in connection with the wind down of the Company’s ACO REACH operations. The loss on Accountable Care assets was reflected in operating expenses within the Health Services segment.
+(9)  During the three months ended March 31, 2025, the office real estate optimization charges primarily relate to the abandonment of leased real estate and the related right-of-use assets and property and equipment in connection with the Company’s evaluation of corporate office real estate space. The office real estate optimization charges were reflected in operating expenses within each segment.
+30
+Index to Condensed Consolidated Financial Statements
+Report of Independent Registered Public Accounting Firm
+To the Shareholders and the Board of Directors of CVS Health Corporation
+Results of Review of Interim Financial Statements
+We have reviewed the accompanying condensed consolidated balance sheet of CVS Health Corporation (the Company) as of March 31, 2026, the related condensed consolidated statements of operations, comprehensive income, shareholders’ equity and cash flows for the three-month periods ended March 31, 2026 and 2025, and the related notes (collectively referred to as the “condensed consolidated interim financial statements”). Based on our reviews, we are not aware of any material modifications that should be made to the condensed consolidated interim financial statements for them to be in conformity with U.S. generally accepted accounting principles.
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheet of the Company as of December 31, 2025, the related consolidated statements of operations, comprehensive income, shareholders’ equity and cash flows for the year then ended, and the related notes (not presented herein); and in our report dated February 10, 2026, we expressed an unqualified audit opinion on those consolidated financial statements. In our opinion, the information set forth in the accompanying condensed consolidated balance sheet as of December 31, 2025, is fairly stated, in all material respects, in relation to the consolidated balance sheet from which it was derived.
+Basis for Review Results
+These financial statements are the responsibility of the Company’s management. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the SEC and the PCAOB. We conducted our review in accordance with the standards of the PCAOB. A review of interim financial statements consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+/s/ Ernst & Young LLP
+Boston, Massachusetts
+May 6, 2026
+31
+Form 10-Q Table of Contents
+Item 2.   Management’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”)
+Overview of Business
+CVS Health Corporation, together with its subsidiaries (collectively, “CVS Health,” the “Company,” “we,” “our” or “us”), is a leading health solutions company simplifying health care one person, one family and one community at a time. As of March 31, 2026, the Company had approximately 9,000 retail locations, more than 1,000 walk-in and primary care medical clinics and a leading pharmacy benefits manager with approximately 88 million plan members and expanding specialty pharmacy solutions. The Company also serves an estimated more than 37 million people through a broad range of health insurance products and related services. The Company is creating new sources of value through its integrated model, allowing it to expand into personalized, technology driven care delivery and health services, increasing access to quality care, delivering better health outcomes and lowering overall health care costs.
+The Company has four reportable segments: Health Care Benefits, Health Services, Pharmacy & Consumer Wellness and Corporate/Other, which are described below.
+Health Care Benefits Segment
+The Health Care Benefits segment operates as one of the nation’s leading diversified health care benefits providers through its Aetna  ®   operations. The Health Care Benefits segment offers a broad range of health insurance products and related services, including medical, pharmacy, dental and behavioral health plans, medical management capabilities, Medicare Advantage and Medicare Supplement plans, prescription drug plans (“PDPs”) and Medicaid health care management services. The Company refers to insurance products (where it assumes all or a majority of the risk for medical and dental care costs) as “Insured” and administrative services contract products (where the plan sponsor assumes all or a majority of the risk for medical and dental care costs) as “ASC.”
+Health Services Segment
+The Health Services segment provides a full range of pharmacy benefit management (“PBM”) solutions through its CVS Caremark  ®   operations and delivers health care services in its medical clinics, virtually, and in the home. PBM solutions include plan design offerings and administration, formulary management, retail pharmacy network management services, and specialty and mail order pharmacy services. In addition, the Company provides clinical services, disease management services, medical spend management and pharmacy and/or other administrative services for providers and federal 340B drug pricing program covered entities (“Covered Entities”). The Company operates a group purchasing organization that negotiates pricing for the purchase of pharmaceuticals and rebates with pharmaceutical manufacturers on behalf of its participants and provides various administrative, management and reporting services to pharmaceutical manufacturers. The segment also works directly with pharmaceutical manufacturers to commercialize and/or co-produce high quality biosimilar products through its Cordavis  TM   subsidiary. The Health Services segment’s health care delivery assets include Signify Health, Inc. (“Signify Health”), a leader in health risk assessments, and Oak Street Health, Inc. (“Oak Street Health”), a leading multi-payor operator of value-based primary care centers serving Medicare eligible patients.
+Pharmacy & Consumer Wellness Segment
+The Pharmacy & Consumer Wellness segment dispenses prescriptions in its CVS Pharmacy  ®   retail locations and through its infusion operations, provides ancillary pharmacy services including pharmacy patient care programs and vaccination administration, and sells a wide assortment of health and wellness products and general merchandise. The segment also provides pharmacy fulfillment services to support the Health Services segment’s specialty and mail order pharmacy offerings.
+Corporate/Other Segment
+The Company presents the remainder of its financial results in the Corporate/Other segment, which primarily consists of management and administrative expenses to support the Company’s overall operations and products for which the Company no longer solicits or accepts new customers, such as its large case pensions and long-term care insurance products.
+See Note 1 ‘‘Significant Accounting Policies’’ included in Item 1 of this 10-Q and Part 1, Item 1 “Business” included in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025 (the “2025 Form 10-K”) for further information on the Company’s reportable segments.
+32
+Operating Results
+The following discussion explains the material changes in the Company’s operating results for the three months ended March 31, 2026 and 2025, and the significant developments affecting the Company’s financial condition since December 31, 2025. We strongly recommend that you read our audited consolidated financial statements and notes thereto and Management’s Discussion and Analysis of Financial Condition and Results of Operations, which are included in the 2025 Form 10-K.
+Summary of Consolidated Financial Results
+Three Months Ended
+March 31,
+Change
+In millions    2026     2025         $     %
+Revenues:
+Products    $    62,226       $    57,669           $    4,557       7.9     %
+Premiums    33,791       32,820           971       3.0     %
+Services    3,835       3,579           256       7.2     %
+Net investment income    574       520           54       10.4     %
+Total revenues    100,426       94,588           5,838       6.2     %
+Operating costs:
+Cost of products sold    55,444       51,057           4,387       8.6     %
+Health care costs    29,358       29,135           223       0.8     %
+Operating expenses    10,944       11,022           (78)      (0.7)    %
+Total operating costs    95,746       91,214           4,532       5.0     %
+Operating income
+4,680       3,374           1,306       38.7     %
+Interest expense    (774)      (785)          11       1.4     %
+Other income    32       28           4       14.3     %
+Income before income tax provision
+3,938       2,617           1,321       50.5     %
+Income tax provision    981       835           146       17.5     %
+Net income
+2,957       1,782           1,175       65.9     %
+Net income attributable to noncontrolling interests
+(14)      (3)          (11)      (366.7)    %
+Net income attributable to CVS Health
+$    2,943       $    1,779           $    1,164       65.4     %
+Commentary - Three Months Ended March 31, 2026 vs. 2025
+Revenues
+•  Total revenues increased $5.8 billion, or 6.2%, in the three months ended March 31, 2026 compared to the prior year primarily driven by revenue growth across all operating segments.
+•  Please see “Segment Analysis” later in this report for additional information about the revenues of the Company’s segments.
+Operating expenses
+•  Operating expenses remained relatively consistent in the three months ended March 31, 2026 compared to the prior year primarily due to the absence of a $387 million legacy litigation charge and a $247 million pre-tax loss on the wind down and sale of Accountable Care assets, both recorded in the prior year, largely offset by continued business investments, operating expenses to support increased volume from the Rite Aid asset acquisitions and the retroactive effect of a change in a state law related to non-income taxes.
+•  Please see “Segment Analysis” later in this report for additional information about the operating expenses of the Company’s segments.
+Operating income
+•  Operating income increased $1.3 billion, or 38.7%, in the three months ended March 31, 2026 compared to the prior year primarily due to improved operating performance in the Health Care Benefits segment, as well as the absence of the $387 million legacy litigation charge and the $247 million pre-tax loss on the wind down and sale of Accountable Care assets, both recorded in the prior year.
+33
+•  Please see “Segment Analysis” later in this report for additional information about the operating results of the Company’s segments.
+Income tax provision
+•  The effective income tax rate was 24.9% for the three months ended March 31, 2026 compared to 31.9% for the three months ended March 31, 2025. The change in the effective income tax rate was primarily due to the absence of the impact of the non-deductible legacy litigation charge recorded in the prior year.
+34
+Trends and Uncertainties
+The Company believes you should consider the following business and regulatory trends and uncertainties:
+Business Trends and Uncertainties
+•  Utilization persisted at elevated levels in the first quarter of 2026. Although the level of utilization is difficult to accurately predict, utilization beyond current elevated levels may pressure the Company’s Health Care Benefits segment and its health care delivery assets in its Health Services segment in 2026.
+•  The Company continues to share with clients a larger portion of rebates, fees and/or discounts received from pharmaceutical manufacturers, and typically offers clients minimum pricing guarantees that cannot always be achieved. The Company also faces increasing pressure from pharmaceutical manufacturers with respect to the calculation and collection of rebates. In addition, marketplace dynamics and regulatory changes have limited the Company’s ability to offer plan sponsors pricing that includes retail network “differential” or “spread.” The Company expects these trends to continue.
+•  Changes in the economic environment, including inflation, the implementation of new tariffs or changes in tariffs, including the impact of tariffs on trade relations between the U.S. and foreign countries, and labor and other market dynamics could create exposure for increased costs and supply chain disruptions that can adversely impact consumer demand, the ability to deliver client savings or the Company’s financial results.
+•  Consumer confidence and a decline in consumer discretionary spending, as well as a shift to value, grocery and digital retailers, could drive lower front store sales in the Pharmacy & Consumer Wellness segment.
+•  Heightened geopolitical tensions could contribute to an increase in likelihood of factors that may negatively impact the Company’s financial results, including an economic slowdown, a recession, financial market volatility, increased supply chain costs or supply chain disruptions, fluctuations in interest rates or other monetary and fiscal policy measures and cyberattacks.
+Regulatory Trends and Uncertainties
+•  The Company is exposed to funding and regulation of, and changes in government policy with respect to and/or funding or regulation of, the various Medicare and Medicaid programs in which the Company participates, including changes in the amounts payable to us under those programs and/or new reforms or surcharges on existing programs, including changes to applicable risk adjustment mechanisms.
+•  Legislation and/or regulations seeking to regulate PBM activities in a comprehensive manner have been proposed or enacted in a majority of states and on the federal level. In addition, some states have recently enacted or are considering legislation related to prohibiting pharmacy licensure for pharmacies affiliated with a PBM. This legislative and regulatory activity could adversely affect the Company’s ability to conduct business on commercially reasonable terms and the Company’s ability to standardize its PBM products and services across state lines and/or could limit the Company’s ability to provide both pharmacy and PBM services within the same state.
+For additional information regarding these and other trends and uncertainties, see Item 1A, “Risk Factors” and Part I, Item 1 “Business - Government Regulation” included in the 2025 Form 10-K.
+35
+Segment Analysis
+The following discussion of segment operating results is presented based on the Company’s reportable segments in accordance with the accounting guidance for segment reporting and is consistent with the segment disclosure in Note 9 ‘‘Segment Reporting’’ to the unaudited condensed consolidated financial statements.
+The Company has four reportable segments: Health Care Benefits, Health Services, Pharmacy & Consumer Wellness and Corporate/Other. The Company’s segments maintain separate financial information, and the Chief Operating Decision Maker (the “CODM”) evaluates the segments’ operating results on a regular basis in deciding how to allocate resources among the segments and in assessing segment performance. The Company’s CODM is the Chief Executive Officer. The CODM evaluates the performance of the Company’s segments based on adjusted operating income. Adjusted operating income (loss) is defined as operating income (loss) as measured by accounting principles generally accepted in the United States of America (“GAAP”) excluding the impact of amortization of intangible assets, net realized capital gains or losses and other items, if any, that neither relate to the ordinary course of the Company’s business nor reflect the Company’s underlying business performance. See the reconciliations of operating income (loss) (GAAP measure) to adjusted operating income (loss) below for further context regarding the items excluded from operating income (loss) in determining adjusted operating income (loss). The CODM uses adjusted operating income as its principal measure of segment performance as it enhances the CODM’s ability to compare past financial performance with current performance and analyze underlying business performance and trends. Non-GAAP financial measures the Company discloses, such as consolidated adjusted operating income, should not be considered a substitute for, or superior to, financial measures determined or calculated in accordance with GAAP.
+The following are reconciliations of financial measures of the Company’s segments to the consolidated totals:
+In millions    Health Care
+Benefits
+Health
+Services   (1)
+Pharmacy &
+Consumer
+Wellness     Corporate/
+Other
+Intersegment
+Eliminations   (2)
+Consolidated
+Totals
+Three Months Ended
+March 31, 2026
+Total revenues    $    35,971       $    48,237       $    31,989       $    126       $    (15,897)      $    100,426
+Adjusted operating income (loss)    3,041       1,489       1,197       (577)      —       5,150
+March 31, 2025
+Total revenues    $    34,810       $    43,462       $    31,912       $    133       $    (15,729)      $    94,588
+Adjusted operating income (loss)    1,993       1,603       1,313       (330)      —       4,579
+_____________________________________________
+(1)  Total revenues of the Health Services segment include approximately $3.8 billion and $3.7 billion of retail co-payments for the three months ended March 31, 2026 and 2025, respectively.
+(2)  Intersegment revenue eliminations relate to intersegment revenue generating activities that occur between the Health Care Benefits segment, the Health Services segment, and/or the Pharmacy & Consumer Wellness segment.
+36
+The following are reconciliations of consolidated operating income (GAAP measure) to consolidated adjusted operating income, as well as reconciliations of segment GAAP operating income (loss) to segment adjusted operating income (loss):
+Three Months Ended March 31, 2026
+In millions    Health Care
+Benefits     Health
+Services     Pharmacy &
+Consumer
+Wellness     Corporate/
+Other       Consolidated
+Totals
+Operating income (loss) (GAAP measure)    $    2,806       $    1,347       $    1,134       $    (607)        $    4,680
+Amortization of intangible assets   (1)
+236       142       63       1         442
+Net realized capital (gains) losses   (2)
+(1)      —       —       17         16
+Acquisition-related integration costs   (3)
+—       —       —       12         12
+Adjusted operating income (loss)
+$    3,041       $    1,489       $    1,197       $    (577)        $    5,150
+Three Months Ended March 31, 2025
+In millions    Health Care
+Benefits     Health
+Services     Pharmacy &
+Consumer
+Wellness     Corporate/
+Other       Consolidated
+Totals
+Operating income (loss) (GAAP measure)    $    1,674       $    1,227       $    864       $    (391)        $    3,374
+Amortization of intangible assets   (1)
+294       144       60       1         499
+Net realized capital (gains) losses   (2)
+21       (15)      —       15         21
+Acquisition-related integration costs   (3)
+—       —       —       45         45
+Legacy litigation charge   (4)
+—       —       387       —         387
+Loss on Accountable Care assets   (5)
+—       247       —       —         247
+Office real estate optimization charges   (6)
+4       —       2       —         6
+Adjusted operating income (loss)    $    1,993       $    1,603       $    1,313       $    (330)        $    4,579
+_____________________________________________
+(1)  The Company’s acquisition activities have resulted in the recognition of intangible assets as required under the acquisition method of accounting which consist primarily of trademarks, customer contracts/relationships, covenants not to compete, technology, provider networks and value of business acquired. Definite-lived intangible assets are amortized over their estimated useful lives and are tested for impairment when events indicate that the carrying value may not be recoverable. The amortization of intangible assets is reflected in operating expenses within each segment. Although intangible assets contribute to the Company’s revenue generation, the amortization of intangible assets does not directly relate to the underwriting of the Company’s insurance products, the services performed for the Company’s customers or the sale of the Company’s products or services. Additionally, intangible asset amortization expense typically fluctuates based on the size and timing of the Company’s acquisition activity. Accordingly, the Company believes excluding the amortization of intangible assets enhances the Company’s and investors’ ability to compare the Company’s past financial performance with its current performance and to analyze underlying business performance and trends. Intangible asset amortization excluded from the related non-GAAP financial measure represents the entire amount recorded within the Company’s GAAP financial statements, and the revenue generated by the associated intangible assets has not been excluded from the related non-GAAP financial measure. Intangible asset amortization is excluded from the related non-GAAP financial measure because the amortization, unlike the related revenue, is not affected by operations of any particular period unless an intangible asset becomes impaired or the estimated useful life of an intangible asset is revised.
+(2)  The Company’s net realized capital gains and losses arise from various types of transactions, primarily in the course of managing a portfolio of assets that support the payment of insurance liabilities. Net realized capital gains and losses are reflected in net investment income within each segment. These capital gains and losses are the result of investment decisions, market conditions and other economic developments that are unrelated to the performance of the Company’s business, and the amount and timing of these capital gains and losses do not directly relate to the underwriting of the Company’s insurance products, the services performed for the Company’s customers or the sale of the Company’s products or services. Accordingly, the Company believes excluding net realized capital gains and losses enhances the Company’s and investors’ ability to compare the Company’s past financial performance with its current performance and to analyze underlying business performance and trends.
+(3)  During the three months ended March 31, 2026 and 2025, the acquisition-related integration costs relate to the acquisitions of Signify Health and Oak Street Health. The acquisition-related integration costs are reflected in operating expenses within the Corporate/Other segment.
+(4)  During the three months ended March 31, 2025, the Company recorded a legacy litigation charge related to a court decision associated with its past business practices. The legacy litigation charge was reflected in operating expenses within the Pharmacy & Consumer Wellness segment.
+(5)  During the three months ended March 31, 2025, the loss on the wind down and sale of Accountable Care assets represents the pre-tax loss on the divestiture of the Company’s Medicare Shared Savings Program (“MSSP”) operations, as well as costs incurred in connection with the wind down of the Company’s ACO REACH operations. The loss on Accountable Care assets was reflected in operating expenses within the Health Services segment.
+(6)  During the three months ended March 31, 2025, the office real estate optimization charges primarily relate to the abandonment of leased real estate and the related right-of-use assets and property and equipment in connection with the Company’s evaluation of corporate office real estate space. The office real estate optimization charges were reflected in operating expenses within each segment.
+37
+Health Care Benefits Segment
+The following table summarizes the Health Care Benefits segment’s performance for the respective periods:
+Three Months Ended
+March 31,
+Change
+In millions, except percentages and basis points (“bps”)    2026     2025         $     %
+Revenues:
+Premiums    $    33,792     $    32,808         $    984       3.0     %
+Services    1,717     1,615         102       6.3     %
+Net investment income    462     387         75       19.4     %
+Total revenues    35,971     34,810         1,161       3.3     %
+Health care costs    28,579     28,637         (58)      (0.2)    %
+MBR (Health care costs as a % of premium revenues)    84.6     %     87.3     %         (270)    bps
+Operating expenses    $    4,586     $    4,499         $    87       1.9     %
+Operating expenses as a % of total revenues    12.7     %     12.9     %
+Operating income
+$    2,806     $    1,674         $    1,132       67.6     %
+Operating income as a % of total revenues
+7.8     %     4.8     %
+Adjusted operating income   (1)
+$    3,041     $    1,993         $    1,048       52.6     %
+Adjusted operating income as a % of total revenues
+8.5     %     5.7     %
+Premium revenues (by business):
+Government    $    27,783     $    24,902         $    2,881       11.6     %
+Commercial    6,009     7,906         (1,897)      (24.0)    %
+_____________________________________________
+(1)  See “Segment Analysis” above in this report for a reconciliation of Health Care Benefits segment operating income (GAAP measure) to adjusted operating income, which represents the Company’s principal measure of segment performance.
+Commentary - Three Months Ended March 31, 2026 vs. 2025
+Revenues
+•  Total revenues increased $1.2 billion, or 3.3%, in the three months ended March 31, 2026 compared to the prior year primarily driven by an increase in the Government business, partially offset by a decline as a result of the Company’s exit of the individual exchange business in 2026.
+Medical Benefit Ratio (“MBR”)
+•  Medical benefit ratio is calculated by dividing the Health Care Benefits segment’s health care costs by premium revenues and represents the percentage of premium revenues spent on medical benefits for the segment’s Insured members. Management uses MBR to assess the underlying business performance and underwriting of its insurance products, understand variances between actual results and expected results and identify trends in period-over-period results. MBR provides management and investors with information useful in assessing the operating results of the Health Care Benefits segment’s Insured products.
+•  The MBR decreased to 84.6% in the three months ended March 31, 2026 compared to 87.3% in the prior year primarily driven by improved underlying performance in the Government business and the absence of the $448 million premium deficiency reserve recorded within the individual exchange product line in the prior year, partially offset by lower favorable prior-year development.
+Operating expenses
+•  Operating expenses in the Health Care Benefits segment include selling, general and administrative expenses and depreciation and amortization expenses.
+•  Operating expenses remained relatively consistent in the three months ended March 31, 2026 compared to the prior year.
+Adjusted operating income
+•  Adjusted operating income increased $1.0 billion, or 52.6%, for the three months ended March 31, 2026 compared to the prior year primarily driven by improved underlying performance in the Government business and the absence of the premium deficiency reserve recorded in the prior year, partially offset by lower favorable prior-year development.
+38
+The following table summarizes the Health Care Benefits segment’s medical membership for the respective periods:
+March 31, 2026     December 31, 2025       March 31, 2025
+In thousands    Insured     ASC     Total     Insured     ASC     Total           Insured     ASC     Total
+Medical membership:
+Commercial    2,462       15,872       18,334       3,447       15,350       18,797             3,961       15,250       19,211
+Medicare Advantage    4,175       —       4,175       4,267       —       4,267             4,220       —       4,220
+Medicare Supplement    1,192       —       1,192       1,202       —       1,202             1,253       —       1,253
+Medicaid    1,938       366       2,304       1,952       373       2,325             1,983       412       2,395
+Total medical membership    9,767       16,238       26,005       10,868       15,723       26,591             11,417       15,662       27,079
+Supplemental membership information:
+Medicare Prescription Drug Plan (stand-alone)    3,889           4,041                 4,094
+Medical Membership
+•  Medical membership represents the number of members covered by the Health Care Benefits segment’s Insured and ASC medical products and related services at a specified point in time. Management uses this metric to understand variances between actual medical membership and expected amounts as well as trends in period-over-period results. This metric provides management and investors with information useful in understanding the impact of medical membership on the Health Care Benefits segment’s total revenues and operating results.
+•  Medical membership as of March 31, 2026 of 26.0 million decreased approximately 600 thousand members compared with December 31, 2025 reflecting the Company’s exit of the individual exchange business in 2026, partially offset by an increase in Commercial ASC membership.
+Medicare Update
+On April 6, 2026, the U.S. Centers for Medicare & Medicaid Services (“  CMS”)   issued its final notice detailing final 2027 Medicare Advantage payment rates. Final 2027 Medicare Advantage rates resulted in an expected average increase in revenue for the Medicare Advantage industry of 2.48%, excluding the CMS estimate of Medicare Advantage risk score trend.
+39
+Health Services Segment
+The following table summarizes the Health Services segment’s performance for the respective periods:
+Three Months Ended
+March 31,
+Change
+In millions, except percentages    2026     2025         $     %
+Revenues:
+Products    $    45,726     $    41,135         $    4,591       11.2     %
+Services    2,511     2,313         198       8.6     %
+Net investment income    —     14         (14)      (100.0)    %
+Total revenues    48,237     43,462         4,775       11.0     %
+Cost of products sold    44,719     40,115         4,604       11.5     %
+Health care costs    1,302     1,047         255       24.4     %
+Operating expenses    869     1,073         (204)      (19.0)    %
+Operating expenses as a % of total revenues    1.8     %     2.5     %
+Operating income
+$    1,347     $    1,227         $    120       9.8     %
+Operating income as a % of total revenues
+2.8     %     2.8     %
+Adjusted operating income   (1)
+$    1,489     $    1,603         $    (114)      (7.1)    %
+Adjusted operating income as a % of total revenues    3.1     %     3.7     %
+Revenues (by distribution channel):
+Pharmacy network   (2)
+$    25,149     $    23,114         $    2,035       8.8     %
+Mail & specialty   (3)
+20,506     18,068         2,438       13.5     %
+Other     2,582     2,266         316       13.9     %
+Net investment income    —     14         (14)      (100.0)    %
+Pharmacy claims processed   (4)
+464.7     464.2         0.5       0.1     %
+_____________________________________________
+(1)  See “Segment Analysis” above in this report for a reconciliation of Health Services segment operating income (GAAP measure) to adjusted operating income, which represents the Company’s principal measure of segment performance.
+(2)  Pharmacy network revenues relate to claims filled at retail and specialty retail pharmacies, including pharmacies owned by the Company, as well as activity associated with Maintenance Choice, which permits eligible client plan members to fill their maintenance prescriptions through mail order delivery or at a CVS pharmacy retail store for the same price as mail order.
+(3)  Mail & specialty revenues relate to specialty mail claims inclusive of Specialty Connect  ®   claims picked up at a retail pharmacy, as well as mail order and specialty claims fulfilled by the Pharmacy & Consumer Wellness segment.
+(4)  Includes an adjustment to convert 90-day prescriptions to the equivalent of three 30-day prescriptions. This adjustment reflects the fact that these prescriptions include approximately three times the amount of product days supplied compared to a normal prescription.
+Commentary - Three Months Ended March 31, 2026 vs. 2025
+Revenues
+•  Total revenues increased $4.8 billion, or 11.0%, in the three months ended March 31, 2026 compared to the prior year primarily driven by pharmacy drug mix and brand inflation, partially offset by continued pharmacy client price improvements.
+Operating expenses
+•  Operating expenses in the Health Services segment include selling, general and administrative expenses, as well as depreciation and amortization expense.
+•  Operating expenses decreased $204 million, or 19.0%, in the three months ended March 31, 2026 compared to the prior year. The decrease was primarily driven by the absence of the $247 million pre-tax loss on the wind down and sale of Accountable Care assets recorded in the prior year.
+Adjusted operating income
+•  Adjusted operating income decreased $114 million, or 7.1%, in the three months ended March 31, 2026 compared to the prior year primarily driven by continued pharmacy client price improvements, partially offset by improved purchasing economics and pharmacy drug mix.
+40
+Pharmacy claims processed
+•  Pharmacy claims processed represents the number of prescription claims processed through the Company’s pharmacy benefits manager and dispensed by either its retail network pharmacies or the Company’s mail and specialty pharmacies. Management uses this metric to understand variances between actual claims processed and expected amounts as well as trends in period-over-period results. This metric provides management and investors with information useful in understanding the impact of pharmacy claim volume on segment total revenues and operating results.
+•  Pharmacy claims processed remained relatively consistent on a 30-day equivalent basis in the three months ended March 31, 2026 compared to the prior year.
+41
+Pharmacy & Consumer Wellness Segment
+The following table summarizes the Pharmacy & Consumer Wellness segment’s performance for the respective periods:
+Three Months Ended
+March 31,
+Change
+In millions, except percentages    2026     2025         $     %
+Revenues:
+Products    $    31,339     $    31,285         $    54       0.2     %
+Services    650     627         23       3.7     %
+Total revenues    31,989     31,912         77       0.2     %
+Cost of products sold    25,790     25,804         (14)      (0.1)    %
+Operating expenses     5,065     5,244         (179)      (3.4)    %
+Operating expenses as a % of total revenues    15.8     %     16.4     %
+Operating income
+$    1,134     $    864         $    270       31.3     %
+Operating income as a % of total revenues    3.5     %     2.7     %
+Adjusted operating income   (1)
+$    1,197     $    1,313         $    (116)      (8.8)    %
+Adjusted operating income as a % of total revenues    3.7     %     4.1     %
+Revenues (by major goods/service lines):
+Pharmacy    $    26,123     $    26,076         $    47       0.2     %
+Front Store     5,259     5,243         16       0.3     %
+Other    607     593         14       2.4     %
+Prescriptions filled   (2)
+451.2     435.5         15.7       3.6     %
+Same store sales increase (decrease):   (3)
+Total    2.8     %     14.2     %
+Pharmacy    3.1     %     17.7     %
+Front Store    1.2     %     (0.3)    %
+Prescription volume   (2)
+6.8     %     6.7     %
+_____________________________________________
+(1)  See “Segment Analysis” above in this report for a reconciliation of Pharmacy & Consumer Wellness segment operating income (GAAP measure) to adjusted operating income, which represents the Company’s principal measure of segment performance.
+(2)  Includes an adjustment to convert 90-day prescriptions to the equivalent of three 30-day prescriptions. This adjustment reflects the fact that these prescriptions include approximately three times the amount of product days supplied compared to a normal prescription.
+(3)  Same store sales and prescription volume represent the change in revenues and prescriptions filled in the Company’s retail pharmacy stores that have been operating for greater than one year and digital sales initiated online or through mobile applications and fulfilled through the Company’s distribution centers, expressed as a percentage that indicates the increase or decrease relative to the comparable prior period. Same store metrics exclude revenues and prescriptions from infusion services operations and long-term care pharmacies. Management uses these metrics to evaluate the performance of existing stores on a comparable basis and to inform future decisions regarding existing stores and new locations. Same-store metrics provide management and investors with information useful in understanding the portion of current revenues and prescriptions resulting from organic growth in existing locations versus the portion resulting from opening new stores.
+Commentary - Three Months Ended March 31, 2026 vs. 2025
+Revenues
+•  Total revenues remained relatively consistent in the three months ended March 31, 2026 compared to the prior year primarily driven by pharmacy drug mix, increased prescription volume, including contributions from the Company’s Rite Aid asset acquisitions which were completed during the third quarter of 2025, and brand inflation. These increases were largely offset by regulatory-related price reductions on certain drugs, the impact of recent generic drug introductions and pharmacy reimbursement pressure.
+•  Pharmacy same store sales increased 3.1% in the three months ended March 31, 2026 compared to the prior year. The increase was primarily driven by pharmacy drug mix, the 6.8% increase in pharmacy same store prescription volume on a 30-day equivalent basis and brand inflation, partially offset by regulatory-related price reductions on certain drugs, the impact of recent generic drug introductions and pharmacy reimbursement pressure.
+•  Front store same store sales increased 1.2% in the three months ended March 31, 2026 compared to the prior year.
+42
+Operating expenses
+•  Operating expenses in the Pharmacy & Consumer Wellness segment consist of selling, general and administrative expenses which include payroll, employee benefits and occupancy costs associated with the segment’s stores and pharmacy fulfillment operations, advertising expenses, as well as depreciation and amortization expense.
+•  Operating expenses decreased $179 million, or 3.4%, in the three months ended March 31, 2026 compared to the prior year primarily due to the absence of the $387 million legacy litigation charge recorded in the prior year, partially offset by continued business investments and operating expenses to support increased volume from the Rite Aid asset acquisitions.
+Adjusted operating income
+•  Adjusted operating income decreased $116 million, or 8.8%, in the three months ended March 31, 2026 compared to the prior year primarily driven by pharmacy reimbursement pressure, continued business investments, lower contributions from seasonal illnesses and greater weather disruption compared to the prior year. These decreases were partially offset by increased prescription volume and contributions from the Company’s Rite Aid asset acquisitions.
+Prescriptions filled
+•  Prescriptions filled represents the number of prescriptions dispensed through the Pharmacy & Consumer Wellness segment’s retail pharmacies and infusion services operations, as well as through the Omnicare, LLC (“Omnicare”) long-term care pharmacies prior to their deconsolidation during the third quarter of 2025. Management uses this metric to understand variances between actual prescriptions dispensed and expected amounts as well as trends in period-over-period results. This metric provides management and investors with information useful in understanding the impact of prescription volume on segment total revenues and operating results.
+•  Prescriptions filled increased 3.6% on a 30-day equivalent basis in the three months ended March 31, 2026 compared to the prior year primarily driven by incremental volume resulting from the Company’s Rite Aid prescription file acquisitions and increased utilization, partially offset by the absence of long-term care pharmacy prescription volume following the deconsolidation of Omnicare in September 2025.
+43
+Corporate/Other Segment
+The following table summarizes the Corporate/Other segment’s performance for the respective periods:
+Three Months Ended
+March 31,
+Change
+In millions, except percentages    2026     2025         $     %
+Revenues:
+Premiums     $    12       $    12           $    —       —     %
+Services    2       2           —       —     %
+Net investment income    112       119           (7)      (5.9)    %
+Total revenues    126       133           (7)      (5.3)    %
+Health care costs    46       46           —       —     %
+Operating expenses    687       478           209       43.7     %
+Operating loss
+(607)      (391)          (216)      (55.2)    %
+Adjusted operating loss   (1)
+(577)      (330)          (247)      (74.8)    %
+_____________________________________________
+(1)  See “Segment Analysis” above in this report for a reconciliation of Corporate/Other segment operating loss (GAAP measure) to adjusted operating loss, which represents the Company’s principal measure of segment performance.
+Commentary - Three Months Ended March 31, 2026 vs. 2025
+Revenues
+•  Revenues primarily relate to products for which the Company no longer solicits or accepts new customers, such as large case pensions and long-term care insurance products.
+•  Total revenues remained relatively consistent in the three months ended March 31, 2026 compared to the prior year.
+Adjusted operating loss
+•  Adjusted operating loss increased $247 million, or 74.8%, in the three months ended March 31, 2026 compared to the prior year primarily driven by the retroactive effect of a change in a state law related to non-income taxes and increased business investments.
+44
+Liquidity and Capital Resources
+Cash Flows
+The Company maintains a level of liquidity sufficient to allow it to meet its cash needs in the short-term. Over the long term, the Company manages its cash and capital structure to maximize shareholder return, maintain its financial condition and maintain flexibility for future strategic initiatives. The Company continuously assesses its regulatory capital requirements, working capital needs, debt and leverage levels, debt maturity schedule, capital expenditure requirements, dividend payouts, potential share repurchases and future investments or acquisitions. The Company believes its operating cash flows, commercial paper program, credit facilities, as well as any potential future borrowings, will be sufficient to fund these future payments and long-term initiatives. As of March 31, 2026, the Company had approximately $9.5 billion in cash and cash equivalents, approximately $2.2 billion of which was held by the parent company or nonrestricted subsidiaries.
+The net change in cash, cash equivalents and restricted cash during the three months ended March 31, 2026 and 2025 was as follows:
+Three Months Ended
+March 31,     Change
+In millions, except percentages    2026     2025     $     %
+Net cash provided by operating activities    $    4,249       $    4,556       $    (307)      (6.7)    %
+Net cash used in investing activities    (874)      (762)      (112)      (14.7)    %
+Net cash used in financing activities    (2,318)      (2,332)      14       0.6     %
+Net increase in cash, cash equivalents and restricted cash    $    1,057       $    1,462       $    (405)      (27.7)    %
+Commentary
+•  Net cash provided by operating activities   decreased by $307 million in the three months ended March 31, 2026 compared to the prior year. The decrease was primarily due to the timing of payments and receipts.
+•  Net cash used in investing activities   remained relatively consistent in the three months ended March 31, 2026 compared to the prior year.
+•  Net cash used in financing activities   remained relatively consistent in the three months ended March 31, 2026 compared to the prior year as repayments of commercial paper in the prior year were largely offset by higher repayments of long-term debt in the three months ended March 31, 2026.
+Short-term Borrowings
+Commercial Paper and Back-up Credit Facilities
+The Company did not have any commercial paper outstanding as of March 31, 2026. In connection with its commercial paper program, the Company maintains three $2.5 billion, five-year unsecured back-up revolving credit facilities, which expire in May 2028, 2029 and 2030. The credit facilities allow for borrowings at various rates that are dependent, in part, on the Company’s public debt ratings and require the Company to pay a weighted average quarterly facility fee of approximately 0.03%, regardless of usage. As of March 31, 2026, there were no borrowings outstanding under any of the Company’s back-up credit facilities.
+Federal Home Loan Bank of Boston (“FHLBB”)
+A subsidiary of the Company is a member of the FHLBB. As a member, the subsidiary has the ability to obtain cash advances, subject to certain minimum collateral requirements. The maximum borrowing capacity available from the FHLBB as of March 31, 2026 was approximately $1.4 billion. As of March 31, 2026, there were no outstanding advances from the FHLBB.
+Debt Covenants
+The Company’s back-up revolving credit facilities and unsecured senior notes contain customary restrictive financial and operating covenants. These covenants do not include an acceleration of the Company’s debt maturities in the event of a downgrade in the Company’s credit ratings. The Company does not believe the restrictions contained in these covenants materially affect its financial or operating flexibility. As of March 31, 2026, the Company was in compliance with all of its debt covenants.
+45
+Debt Ratings
+As of March 31, 2026, the Company’s long-term debt was rated “BBB” by Fitch Ratings, Inc. (“Fitch”), “Baa3” by Moody’s Ratings (“Moody’s”) and “BBB” by Standard & Poor’s Financial Services LLC (“S&P”), and its commercial paper program was rated “F2” by Fitch, “P-3” by Moody’s and “A-2” by S&P. The outlook on the Company’s long-term debt is “Negative” by both Fitch and S&P and “Stable” by Moody’s. In assessing the Company’s credit strength, the Company believes that Fitch, Moody’s and S&P considered, among other things, the Company’s capital structure and financial policies, as well as its consolidated balance sheet, its historical acquisition activity and other financial information, including the Company’s expectations for future earnings and cash flows. Although the Company currently believes its long-term debt ratings will remain investment grade, it cannot predict the future actions of Moody’s, S&P and/or Fitch. The Company’s debt ratings have a direct impact on its future borrowing costs, access to capital markets and new store operating lease costs.
+Share Repurchase Programs
+The following share repurchase programs have been authorized by CVS Health Corporation’s Board of Directors (the “Board”):
+In billions
+Authorization Date
+Authorized
+Remaining as of
+March 31, 2026
+November 17, 2022 (“2022 Repurchase Program”)    $    10.0       $    10.0
+December 9, 2021 (“2021 Repurchase Program”)    10.0       1.5
+Each of the share repurchase programs was effective immediately and permit the Company to effect repurchases from time to time through a combination of open market repurchases, privately negotiated transactions, accelerated share repurchase (“ASR”) transactions, and/or other derivative transactions. Both the 2022 and 2021 Repurchase Programs can be modified or terminated by the Board at any time.
+During the three months ended March 31, 2026 and 2025, the Company did not repurchase any shares of its common stock.
+Dividends
+The quarterly cash dividend declared by the Board was $0.665 per share in both the three months ended March 31, 2026 and 2025. CVS Health Corporation has paid cash dividends every quarter since becoming a public company. Future dividend payments will depend on the Company’s earnings, capital requirements, financial condition and other factors considered relevant by the Board.
+Critical Accounting Policies
+The Company prepares the unaudited condensed consolidated financial statements in conformity with generally accepted accounting principles, which require management to make certain estimates and apply judgment. Estimates and judgments are based on historical experience, current trends and other factors that management believes to be important at the time the unaudited condensed consolidated financial statements are prepared. On a regular basis, the Company reviews its accounting policies and how they are applied and disclosed in the unaudited condensed consolidated financial statements. While the Company believes the historical experience, current trends and other factors considered by management support the preparation of the unaudited condensed consolidated financial statements in conformity with generally accepted accounting principles, actual results could differ from estimates, and such differences could be material.
+For a full description of the Company’s other critical accounting policies, see “Critical Accounting Policies” in Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of the 2025 Form 10-K.
+46
+Form 10-Q Table of Contents
+Cautionary Statement Concerning Forward-Looking Statements
+The Private Securities Litigation Reform Act of 1995 (the “Reform Act”) provides a “safe harbor” for forward-looking statements, so long as (1) those statements are identified as forward-looking and (2) the statements are accompanied by meaningful cautionary statements that identify important factors that could cause actual results to differ materially from those discussed in the statement. We want to take advantage of these safe harbor provisions.
+Certain information contained in this Quarterly Report on Form 10-Q (this “report”) is forward-looking within the meaning of the Reform Act or Securities and Exchange Commission rules. This information includes, but is not limited to the forward-looking information in Management’s Discussion and Analysis of Financial Condition and Results of Operations included in Part I, Item 2 of this report. In addition, throughout this report and our other reports and communications, we use the following words or variations or negatives of these words and similar expressions when we intend to identify forward-looking statements:
+·    Anticipates    ·    Believes    ·    Can    ·    Continue    ·    Could
+·    Estimates    ·    Evaluate    ·    Expects    ·    Explore    ·    Forecast
+·    Guidance    ·    Intends    ·    Likely    ·    May    ·    Might
+·    Outlook    ·    Plans    ·    Potential    ·    Predict    ·    Probable
+·    Projects    ·    Seeks    ·    Should    ·    View    ·    Will
+All statements addressing the future operating performance of CVS Health or any segment or any subsidiary and/or future events or developments, including, but not limited to, statements relating to the Company’s investment portfolio, operating results, cash flows and/or financial condition, statements relating to corporate strategy, statements relating to future revenue, operating income or adjusted operating income, earnings per share or adjusted earnings per share, Health Care Benefits segment business, sales results and/or trends, medical cost trends, medical membership, Medicare Part D membership, medical benefit ratios and/or operations, Health Services segment business, sales results and/or trends and/or operations, Pharmacy & Consumer Wellness segment business, sales results and/or trends and/or operations, incremental investment spending, interest expense, effective tax rate, weighted-average share count, cash flow from operations, net capital expenditures, cash available for debt repayment, statements related to possible, proposed, pending or completed acquisitions, joint ventures, investments or combinations that involve, among other things, the timing or likelihood of receipt of regulatory approvals, the timing of completion, integration synergies, net synergies and integration risks and other costs, enterprise modernization, transformation, leverage ratio, cash available for enhancing shareholder value, inventory reduction, turn rate and/or loss rate, debt ratings and actions taken by ratings agencies, the Company’s ability to attract or retain customers and clients, store development and/or relocations, new product development, and the impact of industry and regulatory developments, as well as statements expressing optimism or pessimism about future operating results or events, are forward-looking statements within the meaning of the Reform Act.
+Forward-looking statements rely on a number of estimates, assumptions and projections concerning future events, and are subject to a number of significant risks and uncertainties and other factors that could cause actual results to differ materially from those statements. Many of these risks and uncertainties and other factors are outside our control.
+Certain additional risks and uncertainties and other factors are described under “Risk Factors” included in Part I, Item 1A of the 2025 Form 10-K and under “Risk Factors” included in Part II, Item 1A of this report; these are not the only risks and uncertainties we face. There can be no assurance that the Company has identified all the risks that may affect it. Additional risks and uncertainties not presently known to the Company or that the Company currently believes to be immaterial also may adversely affect the Company’s businesses. If any of those risks or uncertainties develops into actual events, those events or circumstances could have a material adverse effect on the Company’s businesses, operating results, cash flows, financial condition and/or stock price, among other effects.
+You should not put undue reliance on forward-looking statements. Any forward-looking statement speaks only as of the date of this report, and we disclaim any intention or obligation to update or revise forward-looking statements, whether as a result of new information, future events, uncertainties or otherwise.
+47
+Form 10-Q Table of Contents
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk
+The Company has not experienced any material changes in exposures to market risk since   December 31, 2025  . See the information contained in Part II, Item 7A “Quantitative and Qualitative Disclosures About Market Risk” of the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2025 for a discussion of the Company’s exposures to market risk.
+Item 4.  Controls and Procedures
+Evaluation of disclosure controls and procedures:   The Company’s Chief Executive Officer and Chief Financial Officer, after evaluating the effectiveness of the design and operation of the Company’s disclosure controls and procedures (as defined in Securities Exchange Act Rules 13a‑15(f) and 15d‑15(f)) as of March 31, 2026, have concluded that as of such date the Company’s disclosure controls and procedures were adequate and effective and designed to provide reasonable assurance that material information relating to the Company and its subsidiaries would be made known to such officers on a timely basis.
+Changes in internal control over financial reporting:   There has been no change in the Company’s internal control over financial reporting identified in connection with the evaluation required by paragraph (d) of Rule 13a-15 or Rule 15d-15 that occurred in the three months ended March 31, 2026 that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+48
+Form 10-Q Table of Contents
+Part II.  Other Information
+Item 1.  Legal Proceedings
+The information contained in Note 8 ‘‘Commitments and Contingencies’’ contained in “Notes to Condensed Consolidated Financial Statements (Unaudited)” in Part I, Item 1 of this Quarterly Report on Form 10-Q is incorporated by reference herein.
+Item 1A.  Risk Factors
+There have been no material changes to the “Risk Factors” disclosed in Part I, Item 1A of the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2025. Those risk factors could adversely affect the Company’s businesses, operating results, cash flows and/or financial condition as well as the market price of CVS Health Corporation’s common stock.
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds
+(c) Stock Repurchases
+The following table presents the total number of shares purchased in the three months ended March 31, 2026, the average price paid per share and the approximate dollar value of shares that still could have been purchased at the end of the applicable fiscal period, pursuant to the share repurchase programs authorized by CVS Health Corporation’s Board of Directors on November 17, 2022 and December 9, 2021. See Note 5 ‘‘Shareholders’ Equity’’ contained in “Notes to Condensed Consolidated Financial Statements (Unaudited)” in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional information.
+Fiscal Period    Total Number
+of Shares
+Purchased     Average
+Price Paid per
+Share     Total Number of Shares
+Purchased as Part of
+Publicly Announced
+Plans or Programs     Approximate Dollar
+Value of Shares that
+May Yet Be
+Purchased Under the
+Plans or Programs
+January 1, 2026 through January 31, 2026    —       $    —       —       $    11,500,000,143
+February 1, 2026 through February 28, 2026    —       $    —       —       $    11,500,000,143
+March 1, 2026 through March 31, 2026    —       $    —       —       $    11,500,000,143
+—         —
+Item 3.        Defaults Upon Senior Securities
+None.
+Item 4.        Mine Safety Disclosures
+Not Applicable.
+Item 5.        Other Information
+Securities Trading Plans of Directors and Executive Officers
+During the three months ended March 31, 2026, none of our directors or executive officers   adopted   or   terminated   any contract, instruction or written plan for the purchase or sale of CVS Health Corporation securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) or any “non-Rule 10b5-1 trading arrangement.”
+49
+Form 10-Q Table of Contents
+Item 6.  Exhibits
+The exhibits listed in this Item 6 are filed as part of this Quarterly Report on Form 10-Q. Exhibits marked with an asterisk (*) are management contracts or compensatory plans or arrangements. Exhibits other than those listed are omitted because they are not required to be listed or are not applicable. Pursuant to Item 601(b)(4)(iii) of Regulation S-K, the Registrant hereby agrees to furnish to the U.S. Securities and Exchange Commission a copy of any omitted instrument that is not required to be listed.
+INDEX TO EXHIBITS
+10
+Material contracts
+10.1*
+Restrictive Covenant Agreement dated November 15, 2024 between the Registrant and Steven H. Nelson.
+10.2*
+Change in Control Agreement effective   as of   November 15, 2024 between the Registrant and Steven H. Nelson.
+10.3*
+Restrictive Covenant Agreement dated March 29, 2025 between the Registrant and Brian Newman.
+10.4*
+Change in Control Agreement effective   as of   April 1, 2025 between the Registrant and Brian Newman.
+10.5*†
+The Registrant’s Severance Plan for Non-Store Employees, Amended and Restated as of March 15, 2026.
+10.6*
+Form of Restricted Stock Unit Agreement between the Registrant and selected employees of the Registrant.
+10.7*
+Form of Nonqualified Stock Option Agreement between the Registrant and selected executives of the Registrant.
+10.8*
+Form of Nonqualified Stock Option Agreement between the Registrant and selected employees of the Registrant.
+10.9*†
+Form of Performance Stock Unit Agreement between the Registrant and selected employees of the Registrant.
+15    Letter re: unaudited interim financial information
+15.1
+Letter from Ernst & Young LLP acknowledging awareness of the use of a report dated   May   6  ,     2  0  2  6   related to their reviews of interim financial information.
+31    Rule 13a-14(a)/15d-14(a) Certifications
+31.1
+Certification by the Chief Executive Officer.
+31.2
+Certification by the Chief Financial Officer.
+32    Section 1350 Certifications
+32.1
+Certification by the Chief Executive Officer.
+32.2
+Certification by the Chief Financial Officer.
+101
+101
+The following materials from the CVS Health Corporation Quarterly Report on Form 10-Q for the three months ended March 31, 2026 formatted in Inline XBRL: (i) the Condensed Consolidated Statements of Operations, (ii) the Condensed Consolidated Statements of Comprehensive Income, (iii) the Condensed Consolidated Balance Sheets, (iv) the Condensed Consolidated Statements of Cash Flows, (v) the Condensed Consolidated Statements of Shareholders’ Equity and (vi) the related Notes to Condensed Consolidated Financial Statements. The instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+104
+104
+Cover Page Interactive Data File - The cover page from the Company’s Quarterly Report on Form 10-Q for the quarter ended March 31, 2026, formatted in Inline XBRL (included as Exhibit 101).
+† The appendixes to this exhibit have been omitted in accordance with Regulation S-K Item 601(a)(5). The Registrant agrees to furnish supplementally a copy of all omitted appendixes to the Securities and Exchange Commission upon its request.
+50
+Form 10-Q Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+CVS HEALTH CORPORATION
+Date:    May 6, 2026    By:
+/s/ Brian O. Newman
+Brian O. Newman
+Executive Vice President and Chief Financial Officer

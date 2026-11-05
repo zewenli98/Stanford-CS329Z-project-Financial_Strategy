@@ -1,0 +1,1341 @@
+abnb-20250930
+0001559720  12/31  2025  Q3  false  http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent  http://fasb.org/us-gaap/2025#OtherAssetsNoncurrent  http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent  http://fasb.org/us-gaap/2025#AccountsPayableAndAccruedLiabilitiesCurrent  http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent  http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent  180  449  367  270  273        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      xbrli:pure    abnb:jurisdiction    iso4217:EUR    abnb:segments     0001559720    2025-01-01  2025-09-30      0001559720   us-gaap:CommonClassAMember     2025-10-20      0001559720   us-gaap:CommonClassBMember     2025-10-20      0001559720   us-gaap:CommonClassCMember     2025-10-20      0001559720   abnb:CommonClassHMember     2025-10-20      0001559720    2024-12-31      0001559720    2025-09-30      0001559720   us-gaap:CommonClassAMember     2025-09-30      0001559720   us-gaap:CommonClassAMember     2024-12-31      0001559720   us-gaap:CommonClassBMember     2024-12-31      0001559720   us-gaap:CommonClassBMember     2025-09-30      0001559720   us-gaap:CommonClassCMember     2024-12-31      0001559720   us-gaap:CommonClassCMember     2025-09-30      0001559720   abnb:CommonClassHMember     2024-12-31      0001559720   abnb:CommonClassHMember     2025-09-30      0001559720    2024-07-01  2024-09-30      0001559720    2025-07-01  2025-09-30      0001559720    2024-01-01  2024-09-30      0001559720   us-gaap:CommonStockMember     2023-12-31      0001559720   us-gaap:AdditionalPaidInCapitalMember     2023-12-31      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-12-31      0001559720   us-gaap:RetainedEarningsMember     2023-12-31      0001559720    2023-12-31      0001559720   us-gaap:RetainedEarningsMember     2024-01-01  2024-03-31      0001559720    2024-01-01  2024-03-31      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-01-01  2024-03-31      0001559720   us-gaap:CommonStockMember     2024-01-01  2024-03-31      0001559720   us-gaap:AdditionalPaidInCapitalMember     2024-01-01  2024-03-31      0001559720   us-gaap:CommonStockMember     2024-03-31      0001559720   us-gaap:AdditionalPaidInCapitalMember     2024-03-31      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-03-31      0001559720   us-gaap:RetainedEarningsMember     2024-03-31      0001559720    2024-03-31      0001559720   us-gaap:RetainedEarningsMember     2024-04-01  2024-06-30      0001559720    2024-04-01  2024-06-30      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-04-01  2024-06-30      0001559720   us-gaap:CommonStockMember     2024-04-01  2024-06-30      0001559720   us-gaap:AdditionalPaidInCapitalMember     2024-04-01  2024-06-30      0001559720   us-gaap:CommonStockMember     2024-06-30      0001559720   us-gaap:AdditionalPaidInCapitalMember     2024-06-30      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-06-30      0001559720   us-gaap:RetainedEarningsMember     2024-06-30      0001559720    2024-06-30      0001559720   us-gaap:RetainedEarningsMember     2024-07-01  2024-09-30      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-07-01  2024-09-30      0001559720   us-gaap:CommonStockMember     2024-07-01  2024-09-30      0001559720   us-gaap:AdditionalPaidInCapitalMember     2024-07-01  2024-09-30      0001559720   us-gaap:CommonStockMember     2024-09-30      0001559720   us-gaap:AdditionalPaidInCapitalMember     2024-09-30      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-09-30      0001559720   us-gaap:RetainedEarningsMember     2024-09-30      0001559720    2024-09-30      0001559720   us-gaap:CommonStockMember     2024-12-31      0001559720   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0001559720   us-gaap:RetainedEarningsMember     2024-12-31      0001559720   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-31      0001559720    2025-01-01  2025-03-31      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-03-31      0001559720   us-gaap:CommonStockMember     2025-01-01  2025-03-31      0001559720   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-03-31      0001559720   us-gaap:CommonStockMember     2025-03-31      0001559720   us-gaap:AdditionalPaidInCapitalMember     2025-03-31      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-31      0001559720   us-gaap:RetainedEarningsMember     2025-03-31      0001559720    2025-03-31      0001559720   us-gaap:RetainedEarningsMember     2025-04-01  2025-06-30      0001559720    2025-04-01  2025-06-30      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-04-01  2025-06-30      0001559720   us-gaap:CommonStockMember     2025-04-01  2025-06-30      0001559720   us-gaap:AdditionalPaidInCapitalMember     2025-04-01  2025-06-30      0001559720   us-gaap:CommonStockMember     2025-06-30      0001559720   us-gaap:AdditionalPaidInCapitalMember     2025-06-30      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-06-30      0001559720   us-gaap:RetainedEarningsMember     2025-06-30      0001559720    2025-06-30      0001559720   us-gaap:RetainedEarningsMember     2025-07-01  2025-09-30      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-07-01  2025-09-30      0001559720   us-gaap:CommonStockMember     2025-07-01  2025-09-30      0001559720   us-gaap:AdditionalPaidInCapitalMember     2025-07-01  2025-09-30      0001559720   us-gaap:CommonStockMember     2025-09-30      0001559720   us-gaap:AdditionalPaidInCapitalMember     2025-09-30      0001559720   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-09-30      0001559720   us-gaap:RetainedEarningsMember     2025-09-30      0001559720   abnb:RevenueMember     2024-07-01  2024-09-30      0001559720   abnb:RevenueMember     2025-07-01  2025-09-30      0001559720   abnb:RevenueMember     2024-01-01  2024-09-30      0001559720   abnb:RevenueMember     2025-01-01  2025-09-30      0001559720   abnb:OperationsAndSupportMember     2024-07-01  2024-09-30      0001559720   abnb:OperationsAndSupportMember     2025-07-01  2025-09-30      0001559720   abnb:OperationsAndSupportMember     2024-01-01  2024-09-30      0001559720   abnb:OperationsAndSupportMember     2025-01-01  2025-09-30      0001559720   abnb:SalesAndMarketingExpenseMember     2024-07-01  2024-09-30      0001559720   abnb:SalesAndMarketingExpenseMember     2025-07-01  2025-09-30      0001559720   abnb:SalesAndMarketingExpenseMember     2024-01-01  2024-09-30      0001559720   abnb:SalesAndMarketingExpenseMember     2025-01-01  2025-09-30      0001559720   srt:NorthAmericaMember     2024-07-01  2024-09-30      0001559720   srt:NorthAmericaMember     2025-07-01  2025-09-30      0001559720   srt:NorthAmericaMember     2024-01-01  2024-09-30      0001559720   srt:NorthAmericaMember     2025-01-01  2025-09-30      0001559720   us-gaap:EMEAMember     2024-07-01  2024-09-30      0001559720   us-gaap:EMEAMember     2025-07-01  2025-09-30      0001559720   us-gaap:EMEAMember     2024-01-01  2024-09-30      0001559720   us-gaap:EMEAMember     2025-01-01  2025-09-30      0001559720   srt:LatinAmericaMember     2024-07-01  2024-09-30      0001559720   srt:LatinAmericaMember     2025-07-01  2025-09-30      0001559720   srt:LatinAmericaMember     2024-01-01  2024-09-30      0001559720   srt:LatinAmericaMember     2025-01-01  2025-09-30      0001559720   srt:AsiaPacificMember     2024-07-01  2024-09-30      0001559720   srt:AsiaPacificMember     2025-07-01  2025-09-30      0001559720   srt:AsiaPacificMember     2024-01-01  2024-09-30      0001559720   srt:AsiaPacificMember     2025-01-01  2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:ShortTermInvestmentsMember     2024-12-31      0001559720   us-gaap:AssetBackedSecuritiesMember  us-gaap:ShortTermInvestmentsMember     2024-12-31      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:ShortTermInvestmentsMember     2024-12-31      0001559720   us-gaap:CommercialPaperMember  us-gaap:ShortTermInvestmentsMember     2024-12-31      0001559720   us-gaap:CertificatesOfDepositMember  us-gaap:ShortTermInvestmentsMember     2024-12-31      0001559720   us-gaap:ShortTermInvestmentsMember     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:OtherNoncurrentAssetsMember     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:ShortTermInvestmentsMember     2025-09-30      0001559720   us-gaap:AssetBackedSecuritiesMember  us-gaap:ShortTermInvestmentsMember     2025-09-30      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:ShortTermInvestmentsMember     2025-09-30      0001559720   us-gaap:CommercialPaperMember  us-gaap:ShortTermInvestmentsMember     2025-09-30      0001559720   us-gaap:CertificatesOfDepositMember  us-gaap:ShortTermInvestmentsMember     2025-09-30      0001559720   us-gaap:ShortTermInvestmentsMember     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:OtherNoncurrentAssetsMember     2025-09-30      0001559720    2024-01-01  2024-12-31      0001559720   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:AssetBackedSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:AssetBackedSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:AssetBackedSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:AssetBackedSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherCurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherCurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherCurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherCurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0001559720   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:CommercialPaperMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:AssetBackedSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:AssetBackedSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:AssetBackedSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:AssetBackedSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:USTreasuryAndGovernmentMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:CommercialPaperNotIncludedWithCashAndCashEquivalentsMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:CertificatesOfDepositMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherCurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherCurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherCurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:ForeignExchangeMember  us-gaap:OtherCurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:CorporateDebtSecuritiesMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:ForeignExchangeMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-09-30      0001559720   us-gaap:ForeignExchangeMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-09-30      0001559720   us-gaap:ForeignExchangeMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-09-30      0001559720   us-gaap:ForeignExchangeMember  us-gaap:FairValueMeasurementsRecurringMember     2025-09-30      0001559720   us-gaap:ForeignExchangeContractMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-12-31      0001559720   us-gaap:ForeignExchangeContractMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-09-30      0001559720   us-gaap:ForeignExchangeContractMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:NondesignatedMember     2024-12-31      0001559720   us-gaap:ForeignExchangeContractMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember  us-gaap:NondesignatedMember     2025-09-30      0001559720   us-gaap:ForeignExchangeContractMember  abnb:AccruedExpensesAccountsPayableAndOtherCurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-12-31      0001559720   us-gaap:ForeignExchangeContractMember  abnb:AccruedExpensesAccountsPayableAndOtherCurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-09-30      0001559720   us-gaap:ForeignExchangeContractMember  abnb:AccruedExpensesAccountsPayableAndOtherCurrentLiabilitiesMember  us-gaap:NondesignatedMember     2024-12-31      0001559720   us-gaap:ForeignExchangeContractMember  abnb:AccruedExpensesAccountsPayableAndOtherCurrentLiabilitiesMember  us-gaap:NondesignatedMember     2025-09-30      0001559720   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-07-01  2024-09-30      0001559720   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-07-01  2025-09-30      0001559720   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-01-01  2024-09-30      0001559720   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-01-01  2025-09-30      0001559720   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-07-01  2025-09-30      0001559720   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-09-30      0001559720   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-01-01  2024-09-30      0001559720   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-07-01  2024-09-30      0001559720   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-01-01  2024-12-31      0001559720   us-gaap:ForeignExchangeContractMember     2024-07-01  2024-09-30      0001559720   us-gaap:ForeignExchangeContractMember     2025-07-01  2025-09-30      0001559720   us-gaap:ForeignExchangeContractMember     2024-01-01  2024-09-30      0001559720   us-gaap:ForeignExchangeContractMember     2025-01-01  2025-09-30      0001559720   us-gaap:ForeignExchangeMember  us-gaap:NondesignatedMember     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:NondesignatedMember     2025-09-30      0001559720   us-gaap:ForeignExchangeMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001559720   us-gaap:ForeignExchangeMember  us-gaap:CashFlowHedgingMember     2025-09-30      0001559720   abnb:SeniorNotesDue2026Member  us-gaap:ConvertibleDebtMember     2021-03-08      0001559720   abnb:SeniorNotesDue2026Member  us-gaap:ConvertibleDebtMember     2025-09-30      0001559720   abnb:SeniorNotesDue2026Member  us-gaap:ConvertibleDebtMember     2024-12-31      0001559720   us-gaap:RevolvingCreditFacilityMember  abnb:A2022CreditFacilityMember     2022-01-01  2022-12-31      0001559720   us-gaap:RevolvingCreditFacilityMember  abnb:A2022CreditFacilityMember     2022-12-31      0001559720   us-gaap:LetterOfCreditMember  abnb:A2022CreditFacilityMember  us-gaap:LineOfCreditMember     2022-12-31      0001559720   us-gaap:RevolvingCreditFacilityMember  abnb:A2022CreditFacilityMember     2025-09-30      0001559720   us-gaap:LetterOfCreditMember  abnb:A2022CreditFacilityMember  us-gaap:LineOfCreditMember     2025-09-30      0001559720   srt:MinimumMember  abnb:WebHostingServicesAgreementMember     2025-06-30      0001559720   srt:MaximumMember  abnb:WebHostingServicesAgreementMember     2025-06-30      0001559720   abnb:WebHostingServicesAgreementMember     2025-06-30      0001559720   abnb:WebHostingServicesAgreementMember     2025-06-01  2025-06-30      0001559720   abnb:SponsorshipAgreementMember     2025-06-01  2025-06-30      0001559720   srt:MinimumMember  abnb:SponsorshipAgreementMember     2025-06-30      0001559720   srt:MaximumMember  abnb:SponsorshipAgreementMember     2025-06-30      0001559720   abnb:SponsorshipAgreementMember     2025-06-30      0001559720   srt:MinimumMember     2025-01-01  2025-09-30      0001559720   srt:MaximumMember     2025-01-01  2025-09-30      0001559720   srt:MinimumMember     2025-09-30      0001559720   srt:MaximumMember     2025-09-30      0001559720   srt:MinimumMember  abnb:CanadaDigitalServiceTaxMember     2025-09-30      0001559720   srt:MaximumMember  abnb:CanadaDigitalServiceTaxMember     2025-09-30      0001559720   abnb:HostsWithholdingTaxObligationsMember     2024-12-31      0001559720   abnb:HostsWithholdingTaxObligationsMember     2025-09-30      0001559720   srt:MinimumMember  abnb:WithholdingIncomeTaxesMember     2025-01-01  2025-09-30      0001559720   srt:MaximumMember  abnb:WithholdingIncomeTaxesMember     2025-01-01  2025-09-30      0001559720   us-gaap:ForeignCountryMember     2023-12-13  2023-12-13      0001559720   us-gaap:ForeignCountryMember  us-gaap:TaxYear2022Member     2024-12-01  2024-12-31      0001559720   us-gaap:ForeignCountryMember  us-gaap:TaxYear2023Member     2025-01-01  2025-01-31      0001559720   us-gaap:ForeignCountryMember     2024-12-01  2024-12-31      0001559720   us-gaap:ForeignCountryMember     2025-01-01  2025-01-31      0001559720   country:ES     2025-07-31      0001559720   country:ES     2025-09-30      0001559720   us-gaap:InternalRevenueServiceIRSMember     2020-12-01  2020-12-31      0001559720   us-gaap:RestrictedStockUnitsRSUMember     2024-01-01  2024-09-30      0001559720   us-gaap:RestrictedStockUnitsRSUMember     2025-01-01  2025-09-30      0001559720   us-gaap:EmployeeStockOptionMember     2024-07-01  2024-09-30      0001559720   us-gaap:EmployeeStockOptionMember     2025-07-01  2025-09-30      0001559720   us-gaap:EmployeeStockOptionMember     2024-01-01  2024-09-30      0001559720   us-gaap:EmployeeStockOptionMember     2025-01-01  2025-09-30      0001559720   us-gaap:RestrictedStockUnitsRSUMember     2024-07-01  2024-09-30      0001559720   us-gaap:RestrictedStockUnitsRSUMember     2025-07-01  2025-09-30      0001559720   abnb:ShareRepurchaseProgram2024Member     2024-02-29      0001559720   abnb:ShareRepurchaseProgram2025Member     2025-08-31      0001559720   us-gaap:CommonClassAMember     2025-07-01  2025-09-30      0001559720   us-gaap:CommonClassAMember     2025-01-01  2025-09-30      0001559720   us-gaap:CommonClassAMember     2024-07-01  2024-09-30      0001559720   us-gaap:CommonClassAMember     2024-01-01  2024-09-30      0001559720   abnb:ClassACommonStockWarrantsMember     2024-12-31      0001559720   abnb:ClassACommonStockWarrantsMember     2024-06-30      0001559720   abnb:ReportableSegmentMember     2024-07-01  2024-09-30      0001559720   abnb:ReportableSegmentMember     2025-07-01  2025-09-30      0001559720   abnb:ReportableSegmentMember     2024-01-01  2024-09-30      0001559720   abnb:ReportableSegmentMember     2025-01-01  2025-09-30      0001559720   abnb:AristotleBaloghMember     2025-07-01  2025-09-30      0001559720   abnb:AristotleBaloghMember     2025-09-30      0001559720   abnb:NathanBlecharczykMember     2025-07-01  2025-09-30      0001559720   abnb:NathanBlecharczykMember     2025-09-30      0001559720   abnb:KennethChenaultMember     2025-07-01  2025-09-30      0001559720   abnb:KennethChenaultMember     2025-09-30      0001559720   abnb:BrianCheskyMember     2025-07-01  2025-09-30      0001559720   abnb:BrianCheskyMember     2025-09-30      0001559720   abnb:JosephGebbiaMember     2025-07-01  2025-09-30      0001559720   abnb:JosephGebbiaMember     2025-09-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM  10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  September 30, 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from_____ to _____
+Commission File Number:  001-39778
+______________
+Airbnb, Inc.
+(Exact Name of Registrant as Specified in Its Charter)
+______________
+Delaware       26-3051428
+(State or Other Jurisdiction of Incorporation or Organization)     (I.R.S. Employer Identification No.)
+888 Brannan Street
+San Francisco ,  California   94103
+(Address of Principal Executive Offices) (Zip Code)
+( 415 )  728-0108
+(Registrant’s Telephone Number, Including Area Code)
+______________
+Securities registered pursuant to Section 12(b) of the Act:
+Title of Each Class
+Trading Symbol(s)
+Name of Each Exchange on Which Registered
+Class A common stock, par value $0.0001 per share
+ABNB      The Nasdaq Stock Market
+______________
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes  ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes  ☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer     ☒     Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No  ☒
+As of October 20, 2025,  425,294,120  shares of the registrant's Class A common stock were outstanding,  181,055,636  shares of the registrant's Class B common stock were outstanding,  no  shares of the registrant’s Class C common stock were outstanding, and  9,200,000  shares of the registrant’s Class H common stock were outstanding.
+Table of Contents
+AIRBNB, INC.
+Form 10-Q
+TABLE OF CONTENTS
+Page
+Special Note Regarding Forward-Looking Statements
+1
+PART I. FINANCIAL INFORMATION
+Item 1.
+Condensed Consolidated Financial Statements (unaudited)
+3
+Condensed Consolidated Balance Sheets
+3
+Condensed   Consolidated Statements of Operations
+4
+Condensed Consolidated Statements of Comprehensive Income
+5
+Condensed Consolidated Statements of Stockholders’ Equity
+6
+Condensed   Consolidated Statements of Cash Flows
+8
+Notes to Condensed Consolidated Financial Statements
+9
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+23
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+33
+Item 4.
+Controls and Procedures
+33
+PART II. OTHER INFORMATION
+Item 1.
+Legal Proceedings
+34
+Item 1A.
+Risk Factors
+34
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+34
+Item 3.
+Defaults Upon Senior Securities
+34
+Item 4.
+Mine Safety Disclosures
+34
+Item 5.
+Other Information
+35
+Item 6.
+Exhibits
+35
+Signatures
+36
+Table of Contents
+Special Note Regarding Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, about us and our industry that involve substantial risks and uncertainties. All statements other than statements of historical facts contained in this Quarterly Report on Form 10-Q, including statements regarding our strategy, future financial condition, future operations, projected costs, prospects, plans, objectives of management, and expected market growth, are forward-looking statements. In some cases, investors can identify forward-looking statements because they contain words such as “may,” “will,” “shall,” “should,” “expects,” “plans,” “anticipates,” “could,” “intends,” “target,” “projects,” “contemplates,” “believes,” “estimates,” “predicts,” “potential,” “goal,” “objective,” “seeks,” or “continue” or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans, or intentions. Forward-looking statements contained in this Quarterly Report on Form 10-Q include, but are not limited to, statements about:
+•  our global expansion efforts, including our expectations regarding our global markets strategy and future investments in less mature markets;
+•  our expansion efforts beyond travel accommodations and our expectations regarding our multi-year product roadmap;
+•  our expectations regarding new products and offerings and investments in our platform;
+•  our initiatives related to trust and safety on our platform;
+•  our expectations regarding our technology platform and our continued technological investments, and expectations regarding improvements to our foundational technology;
+•  our expectations regarding our investment in and the impact of our brand marketing, communications, and performance marketing strategy, and our ability to continue to attract guests and hosts to our platform through direct and unpaid channels;
+•  our ability to stay in compliance with laws and regulations that currently apply or may become applicable to our business, both in the United States and internationally, and our expectations regarding various laws and restrictions that relate to our business;
+•  our expectations regarding the sufficiency of our insurance coverage;
+•  our expectations regarding the impact of future regulations on our business;
+•  our efforts to work with policymakers and governments to update laws and regulations that affect hosts and/or guests and to dispute regulations that unreasonably restrict the right to host;
+•  the effects of seasonal trends on our results of operations;
+•  our ability to attract and retain hosts and guests;
+•  our expectations regarding host activities, host earnings, and our investments in our host community;
+•  our expectations regarding guest activities and our investments in our guest community;
+•  our expectations regarding our revenue growth rate;
+•  our expectations regarding our reliance on third-party payment service providers;
+•  our ability to successfully compete in our industry;
+•  our ability to maintain, protect, and enhance our intellectual property;
+•  our ability to successfully defend litigation brought against us and our expectations around the resolution of pending legal matters;
+•  our expectations around declaring or paying cash dividends, entering into credit agreements or other borrowing arrangements, or repaying debt;
+•  future activity under our share repurchase program;
+•  the effects of our stakeholder approach to decision-making;
+•  our expectations regarding the resilience of our model and our ability to adapt to changes in the travel industry or economic environment;
+•  anticipated trends, developments, and challenges in our industry and business;
+•  the effects of inflation, tariffs, foreign currency fluctuations, and other macroeconomic conditions, global events, and geopolitical conflicts on the travel industry and our future operational results;
+•  our expectations regarding our financial performance, including our revenue, expenses, Adjusted Earnings Before Interest, Taxes, Depreciation, and Amortization, and Free Cash Flow;
+•  our expectations regarding future operating performance, including Nights and Seats Booked, Gross Booking Value (“GBV”), Average Daily Rate, and GBV per Nights and Seats Booked;
+•  the sufficiency of our cash, cash equivalents, and investments to meet our liquidity needs, and any future efforts to raise additional capital or incur additional indebtedness;
+•  the impact of exchange rate changes on our cash balances and our ability to effectively manage our exposure to fluctuations in foreign currency exchange rates;
+•  our expectations regarding our income tax liabilities, lodging tax obligations, and other non-income tax liabilities, fluctuations in our effective tax rate, and uncertain tax positions;
+•  our expectations regarding the adequacy of our reserves and settlement discussions related to tax audits;
+•  our expectations regarding the impact of tax law changes;
+•  our expectations regarding our valuation allowance against our deferred tax assets, including related to our research and development tax credit generation; and
+•  our expectations regarding the impact of new accounting standards on our financial statements.
+We caution investors that the foregoing list does not contain all of the forward-looking statements made in this Quarterly Report on Form 10-Q. Forward-looking statements should not be relied upon as predictions of future events. We have based the forward-looking statements contained in this Quarterly Report on Form 10-Q primarily on our current expectations, estimates, forecasts, and projections about future events and trends that we believe may affect our business, results of operations, financial condition, and prospects. Although we believe that we have a reasonable basis for each forward-looking statement contained in this Quarterly Report on Form 10-Q, we cannot guarantee that the future results, levels of activity, performance, or events and circumstances reflected in the forward-looking statements will be achieved or occur at all. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, and other factors. Risks that contribute to the uncertain nature of the forward-looking statements include, among others, the Company’s ability to retain existing hosts and guests and add new hosts and guests; any decline or disruption in the travel and hospitality industries related to economic downturn; the Company’s ability to compete successfully; changes to the laws and regulations that may limit hosts’
+1
+Table of Contents
+ability and willingness to provide their listings, and/or result in significant fines, liabilities, and penalties to the Company; the effect of extensive regulation and oversight, litigation, and other proceedings related to the Company’s business in a variety of areas; the effects of pandemics or public health crises on the Company’s business, the travel industry, travel trends, and the global economy generally; the Company’s ability to maintain its brand and reputation, and effectively drive traffic to its platform; the effectiveness of the Company’s strategy and business initiatives, including measures to improve trust and safety; the Company’s operations in international markets; the Company’s indebtedness; the Company’s final closing procedures, final adjustments, and other developments that may arise in the course of audit and review procedures; and changes in political, business, and economic conditions; as well as other risks listed or described from time to time in the Company’s filings with the Securities and Exchange Commission (the “SEC”), including our Annual Report on Form 10-K for the fiscal year ended December 31, 2024. Moreover, we operate in a highly competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Quarterly Report on Form 10-Q. The results, events, and circumstances reflected in the forward-looking statements may not be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements.
+The forward-looking statements made in this Quarterly Report on Form 10-Q relate only to events as of the date on which the statements are made available. We undertake no obligation to update any forward-looking statements made in this Quarterly Report on Form 10-Q to reflect events or circumstances after the date of this Quarterly Report on Form 10-Q or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions, or expectations disclosed in our forward-looking statements, and investors should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, or investments we may make.
+In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Quarterly Report on Form 10-Q, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely upon these statements.
+This Quarterly Report on Form 10-Q and the documents that we reference in this Quarterly Report on Form 10-Q and have filed as exhibits to this Quarterly Report on Form 10-Q should be read completely and with the understanding that our actual future results may be materially different from what we expect. We qualify all of the forward-looking statements in this Quarterly Report on Form 10-Q by these cautionary statements.
+2
+Table of Contents
+PART I - FINANCIAL INFORMATION
+Item 1. Condensed Consolidated Financial Statements
+Airbnb, Inc.
+Condensed Consolidated Balance Sheets
+(in millions, except par value)
+(unaudited)
+December 31,
+2024    September 30,
+2025
+Assets
+Current assets:
+Cash and cash equivalents    $     6,864       $     7,528
+Short-term investments      3,747        4,156
+Funds receivable and amounts held on behalf of customers     5,931        7,209
+Prepaids and other current assets      638        645
+Total current assets     17,180        19,538
+Deferred income tax assets
+2,439        2,146
+Goodwill and intangible assets, net     777        773
+Other assets, noncurrent     563        607
+Total assets    $     20,959       $     23,064
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accrued expenses, accounts payable, and other current liabilities    $     2,614       $     3,012
+Funds payable and amounts payable to customers     5,931        7,209
+Current portion of long-term debt
+—        1,998
+Unearned fees     1,616        1,820
+Total current liabilities     10,161        14,039
+Long-term debt     1,995        —
+Other liabilities, noncurrent     391        415
+Total liabilities     12,547        14,454
+Commitments and contingencies (Note 9)
+Stockholders’ equity:
+Common stock, $  0.0001   par value:
+Class A - authorized   2,000   shares;   434   and   427   shares issued & outstanding, respectively;
+Class B - authorized   710   shares;   189   and   181   shares issued & outstanding, respectively;
+Class C - authorized   2,000   shares;     zero     shares issued & outstanding, respectively; and
+Class H - authorized   26   shares;   9   shares issued and   zero   shares outstanding, respectively
+—        —
+Additional paid-in capital     12,602        13,437
+Accumulated other comprehensive income (loss)
+35       ( 79 )
+Accumulated deficit    ( 4,225 )     ( 4,748 )
+Total stockholders’ equity     8,412        8,610
+Total liabilities and stockholders’ equity    $     20,959       $     23,064
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+3
+Table of Contents
+Airbnb, Inc.
+Condensed Consolidated Statements of Operations
+(in millions, except per share amounts)
+(unaudited  )
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2024    2025     2024    2025
+Revenue    $     3,732       $     4,095        $     8,622       $     9,463
+Costs and expenses:
+Cost of revenue     465        549         1,451        1,599
+Operations and support     369        365         992        1,000
+Product development     524        587         1,518        1,765
+Sales and marketing     514        639         1,601        1,893
+General and administrative     335        330         937        931
+Total costs and expenses     2,207        2,470         6,499        7,188
+Income from operations     1,525        1,625         2,123        2,275
+Interest income     207        180         635        543
+Other income (expense), net
+3       ( 13 )      ( 49 )     ( 74 )
+Income before income taxes     1,735        1,792         2,709        2,744
+Provision for income taxes     367        418         522        574
+Net income     $     1,368       $     1,374        $     2,187       $     2,170
+Net income per share attributable to Class A and Class B common stockholders:
+Basic    $     2.17       $     2.25        $     3.45       $     3.53
+Diluted    $     2.13       $     2.21        $     3.38       $     3.47
+Weighted-average shares used in computing net income per share attributable to Class A and Class B common stockholders:
+Basic     631        611         634        616
+Diluted     642        621         648        626
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+4
+Table of Contents
+Airbnb, Inc.
+Condensed Consolidated Statements of Comprehensive Income
+(in millions)
+(unaudited)
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2024    2025     2024    2025
+Net income     $     1,368       $     1,374        $     2,187       $     2,170
+Other comprehensive income (loss):
+Net unrealized gain on available-for-sale marketable securities, net of tax     13        4         8        9
+Net unrealized gain (loss) on cash flow hedges, net of tax    ( 68 )      46        ( 6 )     ( 157 )
+Foreign currency translation adjustments     13       ( 1 )       —        34
+Other comprehensive income (loss)    ( 42 )      49         2       ( 114 )
+Comprehensive income     $     1,326       $     1,423        $     2,189       $     2,056
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+5
+Table of Contents
+Airbnb, Inc.
+Condensed Consolidated Statements of Stockholders’ Equity
+(in millions)
+(  unaudited)
+Nine months ended September 30, 2024
+Common Stock    Additional
+Paid-In
+Capital    Accumulated
+Other
+Comprehensive Loss    Accumulated
+Deficit    Total
+Stockholders’ Equity
+Shares
+Amount
+Balances as of December 31, 2023     638       $     —       $     11,639       $    ( 49 )     $    ( 3,425 )     $     8,165
+Net income    —      —      —      —       264        264
+Other comprehensive income    —      —      —       40       —       40
+Common stock and stock-based awards issued, net of shares withheld for employee taxes     3       —      ( 122 )     —      —      ( 122 )
+Stock-based compensation    —      —       302       —      —       302
+Repurchases of common stock    ( 5 )     —      —      —      ( 753 )     ( 753 )
+Balances as of March 31, 2024     636        —        11,819       ( 9 )     ( 3,914 )      7,896
+Net income    —      —      —      —       555        555
+Other comprehensive loss    —      —      —       4       —       4
+Common stock and stock-based awards issued, net of shares withheld for employee taxes     2       —      ( 88 )     —      —      ( 88 )
+Shares issued upon net settlement of warrants exercised     1       —      —      —      —      —
+Stock-based compensation    —      —       385       —      —       385
+Repurchases of common stock    ( 5 )     —      —      —      ( 750 )     ( 750 )
+Balances as of June 30, 2024     634        —        12,116       ( 5 )     ( 4,109 )      8,002
+Net income    —      —      —      —       1,368        1,368
+Other comprehensive income    —      —      —      ( 42 )     —      ( 42 )
+Common stock and stock-based awards issued, net of shares withheld for employee taxes     1       —      ( 103 )     —      —      ( 103 )
+Stock-based compensation    —      —       365       —      —       365
+Repurchases of common stock    ( 8 )     —      —      —      ( 1,102 )     ( 1,102 )
+Balances as of September 30, 2024     627       $     —       $     12,378       $    ( 47 )     $    ( 3,843 )     $     8,488
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+6
+Table of Contents
+Airbnb, Inc.
+Condensed Consolidated Statements of Stockholders’ Equity
+(in millions)
+(  unaudited)
+Nine months ended September 30, 2025
+Common Stock    Additional
+Paid-In
+Capital
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Accumulated
+Deficit    Total
+Stockholders’ Equity
+Shares
+Amount
+Balances as of December 31, 2024     623       $     —       $     12,602       $     35       $    ( 4,225 )     $     8,412
+Net income    —      —      —      —       154        154
+Other comprehensive loss    —      —      —      ( 56 )     —      ( 56 )
+Common stock and stock-based awards issued, net of shares withheld for employee taxes     2       —      ( 124 )     —      —      ( 124 )
+Stock-based compensation    —      —       363       —      —       363
+Repurchases of common stock    ( 6 )     —      —      —      ( 812 )     ( 812 )
+Balances as of March 31, 2025     619        —        12,841       ( 21 )     ( 4,883 )      7,937
+Net income    —      —      —      —       642        642
+Other comprehensive income    —      —      —      ( 107 )     —      ( 107 )
+Common stock and stock-based awards issued, net of shares withheld for employee taxes     2       —      ( 98 )     —      —      ( 98 )
+Stock-based compensation    —      —       425       —      —       425
+Repurchases of common stock    ( 8 )     —      —      —      ( 1,017 )     ( 1,017 )
+Balances as of June 30, 2025     613        —        13,168       ( 128 )     ( 5,258 )      7,782
+Net income    —      —      —      —       1,374        1,374
+Other comprehensive income    —      —      —       49       —       49
+Common stock and stock-based awards issued, net of shares withheld for employee taxes     2       —      ( 132 )     —      —      ( 132 )
+Stock-based compensation    —      —       401       —      —       401
+Repurchases of common stock    ( 7 )     —      —      —      ( 864 )     ( 864 )
+Balances as of September 30, 2025     608       $     —       $     13,437       $    ( 79 )     $    ( 4,748 )     $     8,610
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+7
+Table of Contents
+Airbnb, Inc.
+Condensed Consolidated Statements of Cash Flows
+(in millions)
+(unaudited)
+Nine Months Ended September 30,
+2024    2025
+Cash flows from operating activities:
+Net income     $     2,187       $     2,170
+Adjustments to reconcile net income to cash provided by operating activities:
+Stock-based compensation expense     1,039        1,181
+Deferred income taxes     304        336
+Other, net     93        210
+Changes in operating assets and liabilities:
+Prepaids and other assets    ( 22 )     ( 204 )
+Accrued expenses and other liabilities     218        229
+Unearned fees     233        198
+Net cash provided by operating activities     4,052        4,120
+Cash flows from investing activities:
+Purchases of short-term investments    ( 2,449 )     ( 2,660 )
+Sales and maturities of short-term investments     2,079        2,252
+Other investing activities, net    ( 26 )     ( 40 )
+Net cash used in investing activities    ( 396 )     ( 448 )
+Cash flows from financing activities:
+Change in funds payable and amounts payable to customers     665        670
+Repurchases of common stock    ( 2,592 )     ( 2,694 )
+Taxes paid related to net share settlement of equity awards
+( 422 )     ( 431 )
+Proceeds from exercise of equity awards and employee stock purchase plan
+107        78
+Net cash used in financing activities
+( 2,242 )     ( 2,377 )
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash     117        658
+Net increase in cash, cash equivalents, and restricted cash     1,531        1,953
+Cash, cash equivalents, and restricted cash, beginning of period     12,667        12,760
+Cash, cash equivalents, and restricted cash, end of period    $     14,198       $     14,713
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+8
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+Note 1.  Description of Business
+Airbnb, Inc. (the “Company” or “Airbnb”) operates a global platform for unique stays, experiences, and services. The Company’s marketplace model connects hosts and guests (collectively referred to as “customers”) online or through mobile devices to book spaces, experiences, and services around the world.
+Note 2.  Summary of Significant Accounting Policies
+Basis of Presentation
+The accompanying unaudited condensed consolidated financial statements have been prepared in conformity with generally accepted accounting principles in the United States of America (“U.S. GAAP”) and the applicable rules and regulations of the Securities and Exchange Commission (the “SEC”) regarding interim financial information. Certain information and note disclosures normally included in the consolidated financial statements prepared in accordance with U.S. GAAP have been condensed or omitted pursuant to such rules and regulations. As such, the information included in this Quarterly Report on Form 10-Q should be read in conjunction with the audited consolidated financial statements and the related notes thereto as of and for the year ended December 31, 2024, included in the Company’s Annual Report on Form 10-K, filed with the SEC on February 13, 2025 (“2024 Annual Report”). The results for the interim periods are not necessarily indicative of results for the full year. Certain immaterial amounts in prior periods have been reclassified to conform to the current period presentation.
+In the opinion of management, these unaudited condensed consolidated financial statements reflect all adjustments, consisting only of normal recurring adjustments, which are necessary for the fair statement of the unaudited condensed consolidated financial position, results of operations, and cash flows for these interim periods.
+Principles of Consolidation
+The accompanying unaudited condensed consolidated financial statements include the accounts of the Company and its wholly-owned subsidiaries in accordance with consolidation accounting guidance. All intercompany transactions have been eliminated in consolidation.
+Use of Estimates
+The preparation of the Company’s unaudited condensed consolidated financial statements in conformity with U.S. GAAP requires management to make certain estimates and assumptions that affect the amounts reported in the unaudited condensed consolidated financial statements and accompanying notes. The Company regularly evaluates its estimates, including those related to bad debt reserves, fair value of investments, useful lives of long-lived assets and intangible assets, valuation of goodwill and intangible assets from acquisitions, contingent liabilities, insurance reserves, revenue recognition, valuation of common stock, stock-based compensation, and income and non-income taxes, among others. Actual results could differ materially from these estimates.
+As the impact of the macroeconomic and geopolitical conditions, including inflation, interest rates, foreign currency fluctuations, tariffs, and trade controls continue to evolve, estimates and assumptions about future events and their effects cannot be determined with certainty and therefore require increased judgment. These estimates and assumptions may change in future periods and will be recognized in the unaudited condensed consolidated financial statements as new events occur and additional information becomes known. To the extent the Company’s actual results differ materially from those estimates and assumptions, the Company’s future unaudited condensed consolidated financial statements could be affected.
+Recently Adopted Accounting Standards
+There are no recently adopted accounting pronouncements.
+Recently Issued Accounting Standards Not Yet Adopted
+In November 2024, the Financial Accounting Standards Board (the “FASB”) issued an update to improve the disclosures about an entity’s expenses, for both annual and interim periods in a tabular format in the footnotes to the financial statements, to include disaggregated information about specific categories underlying certain income statement expense line items. The update is effective for public companies on a prospective basis, with the option for retrospective application in fiscal years beginning after December 15, 2026, and interim periods within fiscal years beginning after December 15, 2027. Early adoption is permitted. The Company is currently evaluating the standard to determine its impact on the Company's disclosures.
+In December 2023, the FASB issued an update to standardize income tax disclosures primarily related to the presentation of the effective tax rate reconciliation and income taxes paid information in the financial statements and disclosures. The update is effective for fiscal years beginning after December 15, 2024, and may be presented on a prospective or retrospective basis. The Company plans to implement the updated disclosures prospectively for fiscal year 2025.
+In July 2025, the FASB issued an update that allows companies to apply a practical expedient when estimating credit losses on current accounts receivable and contract assets. The update is effective for fiscal years beginning after December 15, 2025, and interim periods within those fiscal years. Early adoption is permitted. The Company is currently evaluating the impact of adopting this standard on its unaudited condensed consolidated financial statements.
+9
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+In September 2025, the FASB issued an update to simplify the criteria required to capitalize internally developed software. The update simplifies the capitalization guidance by removing all references to software development project stages so that the guidance is neutral to different software development methods. The update is effective for fiscal years beginning after December 15, 2027, and interim periods within those fiscal years. Early adoption is permitted. The Company is currently evaluating the impact of adopting this standard on its unaudited condensed consolidated financial statements.
+There are other new accounting pronouncements issued by the FASB that the Company has adopted or will adopt, as applicable, and the Company does not believe any of these accounting pronouncements have had, or will have, a material impact on its unaudited condensed consolidated financial statements or disclosures.
+Note 3.  Supplemental Financial Statement Information
+Cash, Cash Equivalents, and Restricted Cash
+The following table reconciles cash, cash equivalents, and restricted cash reported on the Company’s unaudited condensed consolidated balance sheets to the total amount presented in the unaudited condensed consolidated statements of cash flows (in millions):
+December 31,
+2024    September 30,
+2025
+Cash and cash equivalents    $     6,864       $     7,528
+Cash and cash equivalents included in funds receivable and amounts held on behalf of customers     5,871        7,150
+Restricted cash included in prepaids and other current assets
+25        35
+Total cash, cash equivalents, and restricted cash presented in the unaudited condensed consolidated statements of cash flows    $     12,760       $     14,713
+Supplemental Disclosures of Cash Flow Information
+Supplemental cash flow information consisted of the following (in millions):
+Nine Months Ended
+September 30,
+2024    2025
+Cash paid for income taxes, net of refunds
+$     302       $     180
+Non-cash financing activities:
+Net settlement of cashless warrants exercised    $     22       $     —
+Supplemental disclosures of balance sheet information
+Supplemental balance sheet information consisted of the following (in millions):
+December 31,
+2024    September 30,
+2025
+Prepaids and other current assets:
+Customer receivables    $     175       $     214
+Customer receivables reserve    ( 28 )     ( 34 )
+Other     491        465
+Prepaids and other current assets    $     638       $     645
+Other assets, noncurrent:
+Property and equipment, net    $     147       $     122
+Operating lease right-of-use assets       144        150
+Other     272        335
+Other assets, noncurrent    $     563       $     607
+10
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+December 31,
+2024    September 30,
+2025
+Accrued expenses, accounts payable, and other current liabilities:
+Indirect taxes payable and estimated lodging and withholding tax liabilities
+$     1,055       $     1,213
+Compensation and employee benefits     498        543
+Accounts payable     142        181
+Operating lease liabilities, current       63        67
+Other
+856        1,008
+Accrued expenses, accounts payable, and other current liabilities    $     2,614       $     3,012
+Other liabilities, noncurrent:
+Operating lease liabilities, noncurrent      $     236       $     213
+Other
+155        202
+Other liabilities, noncurrent    $     391       $     415
+Payments to Customers
+The Company makes payments to customers as part of its incentive programs (composed of referral programs and marketing promotions) and refund activities. The payments are generally in the form of coupon credits to be applied toward future bookings or as cash refunds.
+The following table summarizes total payments made to customers (in millions):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2024    2025     2024    2025
+Reductions to revenue
+$     153       $     152        $     358       $     373
+Charges to operations and support
+43        28         93        75
+Charges to sales and marketing expense
+25        21         44        52
+Total payments made to customers
+$     221       $     201        $     495       $     500
+Revenue Disaggregated by Geographic Region
+The following table presents revenue disaggregated by listing location (in millions):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2024    2025     2024    2025
+North America    $     1,572       $     1,619        $     3,895       $     4,050
+Europe, the Middle East, and Africa
+1,726        1,969         3,341        3,799
+Latin America     199        235         691        809
+Asia Pacific     235        272         695        805
+Total revenue disaggregated by geographic region    $     3,732       $     4,095        $     8,622       $     9,463
+11
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+Note 4.  Investments
+The following tables summarize the Company’s investments by major security type (in millions):
+December 31, 2024
+Amortized
+Cost     Gross
+Unrealized
+Gains    Gross
+Unrealized
+Losses    Total
+Estimated
+Fair Value
+Short-term investments
+Debt securities:
+Corporate debt securities    $     2,176       $     4       $    ( 3 )     $     2,177
+Mortgage-backed and asset-backed securities
+381        1       ( 4 )      378
+Government bonds     224        —        —        224
+Commercial paper     214        —        —        214
+Certificates of deposit     52        —        —        52
+Total debt securities     3,047        5       ( 7 )      3,045
+Time deposits     702       —      —       702
+Total short-term investments
+$     3,749       $     5       $    ( 7 )     $     3,747
+Long-term investments   (1)
+Debt securities:
+Corporate debt securities    $     13       $     —       $    ( 9 )     $     4
+September 30, 2025
+Amortized
+Cost    Gross
+Unrealized
+Gains    Gross
+Unrealized
+Losses    Total
+Estimated
+Fair Value
+Short-term investments
+Debt securities:
+Corporate debt securities
+$     2,264       $     11       $     —       $     2,275
+Mortgage-backed and asset-backed securities
+437        2       ( 3 )      436
+Government bonds
+246        —        —        246
+Commercial paper
+187        —        —        187
+Certificates of deposit
+130        —        —        130
+Total debt securities     3,264        13       ( 3 )      3,274
+Time deposits     882       —      —       882
+Total short-term investments
+$     4,146       $     13       $    ( 3 )     $     4,156
+Long-term investments   (1)
+Debt securities:
+Corporate debt securities    $     13       $     —       $    ( 9 )     $     4
+(1)  Classified within other assets, noncurrent on the unaudited condensed consolidated balance sheets.
+As of December 31, 2024 and September 30, 2025, the Company did   not   have any available-for-sale debt securities for which the Company recorded credit-related losses.
+Unrealized gains and losses before reclassifications from accumulate  d other comprehensive income (loss) (“AOCI”) to other income (expense), net, and realized gains and losses reclassified from AOCI to other income (expense), net, were immaterial for the three and nine months ended September 30, 2024 and 2025.
+Debt securities in an unrealized loss position had an estimated fair value of $ 1.1  billion and $ 267  million, and unrealized losses of $ 17  million and $ 12  million as of December 31, 2024 and September 30, 2025, respectively. A total of $ 269  million and $ 60  million of these securities, with unrealized losses of $ 14  million and $ 12  million, were in a continuous unrealized loss position for more than twelve months as of December 31, 2024 and September 30, 2025, respectively.
+12
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+The following table summarizes the contractual maturities of the Company’s available-for-sale debt securities (in millions):
+September 30, 2025
+Amortized
+Cost    Estimated
+Fair Value
+Due within one year    $     1,570       $     1,574
+Due after one year through five years
+1,607        1,606
+Due after five years
+100        98
+Total    $     3,277       $     3,278
+Investments Accounted for Under the Equity Method
+As of   December 31, 2024 and September 30, 2025  , the carrying values of the Company’s equity method investments in privately-held companies were $ 47  million and $ 48  million, respectively. The Company recorded an impairment charge of $ 7  million for the nine months ended September 30,   2025  . There were  no  impairment charges recorded for the three months ended September 30,   2025.   There were  no  impairment charges recorded during the nine months ended September 30,   2024. U  nrealized losses were immaterial for the   three and nine months ended September 30, 2024 and 2025  .
+Equity Investments Without Readily Determinable Fair Value
+The Company holds investments in privately-held companies in the form of equity securities without readily determinable fair values and in which the Company does not have a controlling interest or significant influence. These investments had a net carrying value of $ 38  million   and   $ 16  million as of   December 31, 2024 and September 30, 2025, respectively,   and are classified within other assets, noncurrent on the unaudited condensed consolidated balance sheets.
+For the nine months ended September 30,   2025  , the Company recorded a non-cash impairment charge of $ 30  million due to a decline in an investee’s financial condition. There was an upward adjustment of $ 8  million for an observable price change recorded for the three months ended September 30,   2025.   For the nine months ended September 30,   2024  , the Company recorded a non-cash impairment charge of $ 45  million due to a downward adjustment for an observable price change. There were   no   upward or downward adjustments for observable price changes or impairment charges recorded for the three months ended September 30, 2024.
+As of   September 30, 2025  , the cumulative impairment and downward adjustments for observable price changes were $ 108  million.
+Note 5.  Fair Value Measurements and Financial Instruments
+The following table summarizes the Company’s financial assets and liabilities measured at fair value on a recurring basis (in millions):
+December 31, 2024
+Level 1    Level 2    Level 3    Total
+Assets
+Cash and cash equivalents:
+Money market funds    $     1,635       $     —       $     —       $     1,635
+Commercial paper     —        152        —        152
+Government bonds     —        33        —        33
+Corporate debt securities     —        2        —        2
+Total cash and cash equivalents     1,635        187        —        1,822
+Short-term investments:
+Corporate debt securities     —        2,177        —        2,177
+Mortgage-backed and asset-backed securities     —        378        —        378
+Government bonds     —        224        —        224
+Commercial paper     —        214        —        214
+Certificates of deposit     —        52        —        52
+Total short-term investments    $     —       $     3,045       $     —       $     3,045
+13
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+December 31, 2024
+Level 1    Level 2    Level 3    Total
+Funds receivable and amounts held on behalf of customers:
+Money market funds    $     1,340       $     —       $     —       $     1,340
+Prepaids and other current assets:
+Foreign exchange derivative assets     —        114        —        114
+Other assets, noncurrent:
+Foreign exchange derivative assets     —        6        —        6
+Corporate debt securities     —        —        4        4
+Total assets at fair value    $     2,975       $     3,352       $     4       $     6,331
+Liabilities
+Accrued expenses, accounts payable, and other current liabilities:
+Foreign exchange derivative liabilities    $     —       $     20       $     —       $     20
+September 30, 2025
+Level 1    Level 2    Level 3    Total
+Assets
+Cash and cash equivalents:
+Money market funds    $     1,793       $     —       $     —       $     1,793
+Commercial paper     —        139        —        139
+Government bonds     —        21        —        21
+Corporate debt securities     —        1        —        1
+Total cash and cash equivalents     1,793        161        —        1,954
+Short-term investments:
+Corporate debt securities     —        2,275        —        2,275
+Mortgage-backed and asset-backed securities     —        436        —        436
+Government bonds     —        246        —        246
+Commercial paper     —        187        —        187
+Certificates of deposit     —        130        —        130
+Total short-term investments     —        3,274        —        3,274
+Funds receivable and amounts held on behalf of customers:
+Money market funds     2,485        —        —        2,485
+Prepaids and other current assets:
+Foreign exchange derivative assets     —        8        —        8
+Other assets, noncurrent:
+Corporate debt securities     —        —        4        4
+Total assets at fair value    $     4,278       $     3,443       $     4       $     7,725
+Liabilities
+Accrued expenses, accounts payable and other current liabilities:
+Foreign exchange derivative liabilities    $     —       $     90       $     —       $     90
+There were no material changes in unrealized losses included in other comprehensive income (loss) relating to investments measured at fair value for which the Company has utilized Level 3 inputs to determine fair value during the nine months ended September 30, 2024 and 2025.
+There were no transfers of financial instruments into or out of Level 3 during the nine months ended September 30, 2024 and 2025.
+Note 6.  Derivative Instruments and Hedging
+The Company has a portion of its business denominated and transacted in foreign currencies, which subjects the Company to foreign exchange risk, and it uses derivative instruments to manage financial exposures that occur in the normal course of business. The Company does not hold or issue derivatives for trading or speculative purposes.
+The Company may elect to designate certain derivatives to partially offset its business exposure to foreign exchange risk. However, the Company may choose not to hedge certain exposures for a variety of reasons including accounting considerations or the prohibitive
+14
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+economic cost of hedging particular exposures. There can be no assurance the hedges will offset more than a portion of the financial impact resulting from movements in foreign exchange rates.
+Foreign Exchange Risk
+To protect revenue from fluctuations in foreign currency exchange rates, the Company may enter into forward contracts, option contracts, or other instruments, and may designate these instruments as cash flow hedges. The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue, for up to  18  months.
+The Company may also enter into derivative instruments that are not designated as accounting hedges to offset a portion of the foreign currency exchange gains and losses generated by the remeasurement of certain assets and liabilities denominated in non-functional currencies.
+The following table summarizes the effect of derivative instruments on the Company’s unaudited condensed consolidated balance sheets (in millions):
+Derivative Assets  (1)(2)
+Location
+December 31,
+2024    September 30,
+2025
+Derivatives designated as hedging instruments:
+Foreign exchange contracts (current)     Prepaids and other current assets    $     90       $     3
+Derivatives not designated as hedging instruments:
+Foreign exchange contracts (current)    Prepaids and other current assets    $     23       $     5
+Derivative Liabilities  (1)(2)
+Location
+December 31,
+2024    September 30,
+2025
+Derivatives designated as hedging instruments:
+Foreign exchange contracts (current)
+Accrued expenses, accounts payable, and other current liabilities
+$     —       $     85
+Derivatives not designated as hedging instruments:
+Foreign exchange contracts (current)    Accrued expenses, accounts payable, and other current liabilities    $     20       $     5
+(1)  Derivative assets and derivatives liabilities are measured using Level 2 inputs.
+(2)  The noncurrent derivative assets and liabilities were immaterial.
+To limit credit risk, the Company generally enters into master netting arrangements with the respective counterparties to the Company’s derivative contracts, under which the Company is allowed to settle transactions with a single net amount payable by one party to the other. As of September 30, 2025, the potential effect of these rights of offset associated with the Company’s derivative contracts would be a reduction to both derivative assets and liabilities of $  8   million, resulting in net derivative assets of $ 1  million and net derivative liabilities of $ 82  million.
+Effect of Derivative Instruments Designated as Hedging Instruments on AOCI
+The following table presents the impact of derivative instruments designated as cash flow hedges on AOCI, net of tax (in millions):
+Gain (Loss) Recognized in Other Comprehensive Income (Loss)
+Three Months Ended September 30,     Nine Months Ended September 30,
+2024    2025     2024    2025
+Derivatives designated as cash flow hedges:
+Foreign exchange contracts
+$    ( 65 )     $     4        $     6       $    ( 198 )
+Realized losses on derivative instruments designated as hedging instruments reclassified from AOCI to revenue in the unaudited condensed consolidated statements of operations were $ 42  million and $ 41  million for the three and nine months ended September 30, 2025, respectively. Realized gains on derivative instruments reclassified from AOCI to revenue were   immaterial   for the three and nine months ended September 30, 2024.
+15
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+As of December 31, 2024 and September 30, 2025, cumulative unrealized gains (losses) recorded in AOCI, net of tax, related to derivative instruments designated as hedging instruments were $ 80  million and $( 77 ) million, respectively.
+Derivative Instruments Not Designated as Hedging Instruments
+The following table presents the impact of activity of derivative instruments not designated as hedging instruments on the unaudited condensed consolidated statements of operations (in millions):
+Realized Gain (Loss) on Derivatives
+Unrealized Loss on Derivatives
+Three Months Ended September 30,     Nine Months Ended September 30,     Three Months Ended September 30,     Nine Months Ended September 30,
+2024    2025     2024    2025     2024    2025     2024    2025
+Derivatives not designated as hedging instruments:
+Foreign exchange contracts    $    ( 15 )     $     22        $    ( 34 )     $     50        $    ( 38 )     $    ( 16 )      $    ( 4 )     $    ( 4 )
+The total notional amount of outstanding derivatives not designated as hedging instruments was $ 2.1  billion and $ 1.3  billion as of December 31, 2024 and September 30, 2025, respectively.
+Cash Flow Hedges
+The total notional amount of outstanding foreign currency derivatives designated as cash flow hedges was $ 2.5  billion and $ 2.6  billion as of December 31, 2024 and September 30, 2025, respectively.
+As of September 30, 2025, approximately $ 76  million of deferred net losses on both outstanding and matured derivatives in AOCI were expected to be reclassified to revenue during the next 12 months concurrent with the underlying hedged transactions which will be recorded in revenue. Actual amounts ultimately reclassified to revenue are dependent on the exchange rates in effect when derivative contracts currently outstanding mature.
+Note 7.  Debt
+Convertible Senior Notes
+On March 8, 2021, the Company issued $ 2.0  billion aggregate principal amount of  0 % convertible senior notes due March 15, 2026 (the "2026 Notes") pursuant to an indenture, dated March 8, 2021 (the "Indenture"), between the Company and U.S. Bank National Association, as trustee. The 2026 Notes were offered and sold in a private offering to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended.
+As of both December 31, 2024 and September 30, 2025, total outstanding debt, net of unamortized debt discount and debit issuance costs, was $  2.0   billion and the effective interest rate was   0.2  %. Debt issuance costs related to the 2026 Notes totaled $ 21  million and were comprised of commissions payable to the initial purchasers and third-party offering costs. These costs are amortized to interest expense using the effective interest method over the contractual term. Interest expense was immaterial for both the three and nine months ended September 30, 2024 and 2025.
+As of September 30, 2025, the if-converted value of the 2026 Notes did not exceed the outstanding principal amount.
+As of September 30, 2025, the total estimated fair value of the 2026 Notes was $ 2.0  billion and was determined based on a market approach using actual bids and offers of the 2026 Notes in an over-the-counter market on the last trading day of the period, or Level 2 inputs.
+2022 Credit Facility
+In 2022, the Company entered into a  five-year  unsecured Revolving Credit Agreement, which provides for initial commitments by a group of lenders led by Morgan Stanley Senior Funding, Inc. of $ 1.0  billion (“2022 Credit Facility”). The 2022 Credit Facility provides a $ 200  million sub-limit for the issuance of letters of credit.
+The 2022 Credit Facility contains customary events of default, and affirmative and negative covenants, including restrictions on the Company’s and certain of its subsidiaries’ ability to incur debt and liens, undergo fundamental changes, as well as certain financial covenants. The Company was in compliance with all financial covenants as of September 30, 2025.
+As of September 30, 2025,  no  amounts were drawn under the 2022 Credit Facility and outstanding letters of credit totaled $ 25  million.
+Note 8.  Stock-Based Compensation
+Stock-Based Compensation Expense
+Stock-based compensation expense was $ 362  million and $ 399  million for the three months ended September 30, 2024 and 2025, respectively, and $ 1.0  billion and $ 1.2  billion for the nine months ended September 30, 2024 and 2025, respectively.
+16
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+Stock Option and Restricted Stock Unit Activity
+A summary of stock option and restricted stock unit (“RSU”) activity under the Company’s equity incentive plans was as follows (in millions, except per share amounts):
+Outstanding
+Stock Options
+Outstanding
+RSUs
+Number of
+Shares    Weighted-
+Average
+Exercise
+Price     Number of
+Shares    Weighted-
+Average
+Grant
+Date Fair
+Value
+As of December 31, 2024       5       $     93.53         30       $     97.93
+Granted       1        142.06         13        136.85
+Exercised/Vested      ( 1 )      52.19        ( 8 )      139.65
+Canceled       —        —        ( 2 )      140.54
+As of September 30, 2025       5       $     104.97         33       $     101.42
+Number of
+Shares    Weighted-
+Average
+Exercise
+Price
+Weighted-
+Average
+Remaining
+Contractual
+Life (Years)
+Aggregate
+Intrinsic
+Value
+Options outstanding as of September 30, 2025     5       $     104.97        5.64     $     170
+Options exercisable as of September 30, 2025     4       $     91.14        4.58     $     169
+Note 9.  Commitments and Contingencies
+Commitments
+In June 2025, the Company signed a new enterprise agreement with a web-hosting service company for cloud hosting and related services. The agreement extends through 2031 and results in annual minimum purchase commitments of $ 202  million to $ 457  million per contract year, totaling $ 1.9  billion over the  six-year  term.
+In June 2025, the Company also signed a  three-year  sponsorship agreement, which includes annual minimum service commitments of $ 11  million to $ 34  million per contract year, totaling $ 55  million.
+No other significant new or amended commitments occurred outside the ordinary course of business during the nine months ended September 30, 2025. Refer to Note 13 in Part II, Item 8 of the Company’s 2024 Annual Report for further details on commitments.
+Lodging Tax Obligations and Other Non-Income Tax Matters
+Lodging Tax Obligations
+Some states and localities in the U. S. and elsewhere in the world impose transient occupancy or lodging accommodations taxes (“Lodging Taxes”) on the use or occupancy of lodging accommodations or other traveler services. As of September 30, 2025, the Company collected and remitted Lodging Taxes in approximately  33,000  jurisdictions around the world on behalf of its hosts. Such Lodging Taxes are generally remitted to tax jurisdictions within a  30 - to  90 -day period following the end of each month.
+As of December 31, 2024 and September 30, 2025, the Company had an obligation to remit Lodging Taxes collected from guests on bookings in these jurisdictions totaling $ 312  million and $ 496  million, respectively. These payables were recorded in accrued expenses, accounts payable, and other current liabilities on the unaudited condensed consolidated balance sheets.
+In jurisdictions where the Company does not collect and remit Lodging Taxes, hosts are primarily responsible for such taxes. The Company has estimated Lodging Tax liabilities in a certain number of jurisdictions with respect to state, city, and local taxes where management believes it is probable that the Company can be held jointly liable with hosts for taxes and the related amounts can be reasonably estimated. As of December 31, 2024 and September 30, 2025, accrued obligations related to these estimated taxes, including estimated penalties and interest, totaled $ 83  million and $ 80  million, respectively. As of September 30, 2025, the Company estimates that the reasonably possible loss related to certain Lodging Taxes that can be determined in excess of the amounts accrued is between $ 55  million to $ 65  million; however, no assurance can be given as to the outcomes and the Company could be subject to significant additional tax liabilities. With respect to all other jurisdictions’ Lodging Taxes for which a loss is probable or reasonably possible, the Company is unable to determine an estimate of the possible loss or range of loss beyond the amounts already accrued.
+The Company’s potential obligations with respect to Lodging Taxes could be affected by various factors, which include, but are not limited to, whether the Company determines or any tax authority asserts that the Company has a responsibility to collect lodging and related taxes
+17
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+on either historical or future transactions, or by the introduction of new ordinances and taxes that subject the Company’s operations to such taxes. Accordingly, the ultimate resolution of Lodging Taxes may be greater or less than the liabilities that the Company has recorded.
+The Company is currently involved in disputes brought by certain domestic and international states and localities involving the payment of Lodging Taxes. These jurisdictions are asserting that the Company is liable or jointly liable with hosts to collect and remit Lodging Taxes. These disputes are in various stages and the Company continues to vigorously defend these claims. The Company believes that the statutes at issue impose a Lodging Tax obligation on the person exercising the taxable privilege of providing accommodations, or the Company’s hosts.
+The imposition of such taxes on the Company could increase the cost of a guest booking and potentially cause a reduction in the volume of bookings on the Company’s platform, which would adversely impact the Company’s results of operations. The Company will continue to monitor the application and interpretation of lodging and related taxes and ordinances and will adjust accruals, as appropriate, based on any new information or further developments.
+Other Non-Income Taxes
+The Company is under audit and inquiry by various domestic and foreign tax authorities with regard to non-income tax matters. The subject matter of these contingent liabilities primarily arises from the Company’s transactions with its customers. Such disputes involve the applicability of transactional taxes (such as sales, value-added, business, digital service, and similar taxes) to services provided, as well as the applicability of withholding tax on payments made to hosts.
+The Company has estimated transactional tax liabilities where management believes it is probable that the Company can be held liable for such taxes and the related amounts can be reasonably estimated. As of December 31, 2024, accrued obligations related to these estimated taxes, including estimated penalties and interest, totaled $ 55  million. As of September 30, 2025, there were  no  accrued obligations related to these tax liabilities. In addition, the Company has identified reasonably possible exposures related to transactional taxes and business taxes and has not accrued for these amounts since the likelihood of the contingent liability is less than probable. As of September 30, 2025, the Company estimates that the reasonably possible loss related to these matters in excess of the amounts accrued is between $ 236  million and $ 256  million; however, no assurance can be given as to the outcomes and the Company could be subject to significant additional tax liabilities.
+As of December 31, 2024 and September 30, 2025, the Company accrued a total of $ 227  million and $ 185  million of estimated tax liabilities, including interest and penalties, related to hosts’ withholding tax obligations, respectively. As of September 30, 2025, the Company estimates that the reasonably possible loss related to withholding income taxes that can be determined in excess of the amounts accrued is between $ 153  million to $ 163  million; however, no assurance can be given as to the outcomes and the Company could be subject to significant additional tax liabilities. Due to the inherent complexity and uncertainty of these matters and judicial processes in certain jurisdictions, the final outcomes may exceed the estimated liabilities recorded.
+In 2017, Italy passed a law purporting to require short-term rental platforms that process payments to withhold and remit host income tax and collect and remit tourist tax, amongst other obligations (“2017 Law”). The Company challenged this law before the Italian courts and the Court of Justice of the European Union (“CJEU”). On December 13, 2023, without admitting any liability, Airbnb Ireland signed an agreement with the Italian Revenue Agency (“ITA”) in settlement of the 2017-2021 audit period for an aggregate payment of  576  million Euro ($ 621  million). In December 2024, Airbnb Ireland signed a similar agreement in settlement of the 2022 audit period for an aggregate payment of  139  million Euro ($ 150  million). In January 2025, Airbnb Ireland entered into an agreement with the Italian Revenue Agency to close the 2023 audit period for an aggregate payment of  179  million Euro ($ 186  million). Of this amount,  123  million Euro was paid in December of 2024, while  56  million Euro, which was recognized as a liability as of December 31, 2024, was paid in January 2025. In 2024, Airbnb Ireland commenced withholding on host payments related to Italian listings.
+With respect to all other transactional taxes and withholding tax on payments made to hosts for which a loss is probable or reasonably possible, the Company is unable to determine an estimate of the possible loss or range of loss beyond the amounts already accrued.
+Payroll Taxes
+The Company is subject to regular payroll tax examinations by various international, state and local jurisdictions. Although management believes its tax withholding remittance practices are appropriate, the Company may be subject to additional tax liabilities, including interest and penalties, if any tax authority disagrees with the Company’s withholding and remittance practices, or if there are changes in laws, regulations, administrative practices, principles, or interpretations related to payroll tax withholding in the various international, state, and local jurisdictions.
+Legal and Regulatory Matters
+The Company has been and is currently a party to various legal and regulatory matters arising in the normal course of business. Such proceedings and claims, even if not meritorious, can require significant financial and operational resources, including the diversion of management’s attention from the Company’s business objectives.
+Regulatory Matters
+The Company operates in a complex legal and regulatory environment and its operations are subject to various U.S. and foreign laws, rules, and regulations, including those related to: Internet activities; short-term rentals, long-term rentals, and home sharing; real estate, property rights, housing, and land use; travel and hospitality; privacy and data protection; intellectual property; competition; health and safety; protection of minors; consumer protection; employment; payments, money transmission, economic and trade sanctions, anti-corruption,
+18
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+and anti-bribery; taxation; and others. In addition, the nature of the Company’s business exposes it to inquiries and potential claims related to the compliance of the business with applicable law and regulations. In some instances, applicable laws and regulations do not yet exist or are being applied, interpreted, or implemented to address aspects of the Company’s business, and such adoption, interpretation, or implementation could further alter or impact the Company’s business.
+In certain instances, the Company has been party to litigation with municipalities relating to or arising out of regulations. In addition, the implementation and enforcement of regulation can have an impact on the Company’s business.
+In July 2025, Airbnb received a letter from the Spanish Ministry of Consumer Affairs proposing to assess a fine of approximately € 110  million in connection with alleged non-compliance with short-term rental listing regulations in Spain. In September 2025, the Spanish Ministry of Consumer Affairs subsequently reduced the fine to approximately € 65  million. Airbnb has disputed the fine and the applicability of these rules to short-term listings, and any potential loss is neither probable or estimable at this time. Global regulatory requirements and challenges affecting our business continue to increase. These challenges may have a material impact on our business, results of operations, and financial condition.
+Intellectual Property
+The Company has been and is currently subject to claims relating to intellectual property, including alleged patent infringement. Adverse results in such lawsuits may include awards of substantial monetary damages, costly royalty or licensing agreements, or orders preventing the Company from offering certain features, functionalities, products, or services, and may also cause the Company to change its business practices or require development of non-infringing products or technologies, which could result in a loss of revenue or otherwise harm its business. To date, the Company has not incurred any material costs as a result of such cases and has not recorded any material liabilities in its unaudited condensed consolidated financial statements related to such matters.
+Litigation and Other Legal Proceedings
+The Company is currently involved in, and may in the future be involved in, legal proceedings, claims, and government investigations in the ordinary course of business. These include proceedings, claims, and investigations relating to, among other things, regulatory matters, commercial matters, intellectual property, competition, tax, employment, pricing, discrimination, consumer rights, personal injury, and property rights.
+Depending on the nature of the proceeding, claim, or investigation, the Company may be subject to monetary damage awards, fines, penalties, and/or injunctive orders. Furthermore, the outcome of these matters could materially adversely affect the Company’s business, results of operations, and financial condition. The outcomes of legal proceedings, claims, and government investigations are inherently unpredictable and subject to significant judgment to determine the likelihood and amount of loss related to such matters. While it is not possible to determine the outcomes, the Company believes based on its current knowledge that the resolution of all such pending matters will not, either individually or in the aggregate, have a material adverse effect on the Company’s business, results of operations, financial condition, or cash flows.
+The Company establishes an accrued liability for loss contingencies related to legal matters when a loss is both probable and reasonably estimable. These accruals represent management’s best estimate of probable losses. Such currently accrued amounts are immaterial to the Company’s unaudited condensed consolidated financial statements. However, management’s views and estimates related to these matters may change in the future, as new events and circumstances arise and the matters continue to develop. Until the final resolution of legal matters, there may be an exposure to losses in excess of the amounts accrued. With respect to outstanding legal matters, the Company believes based on its current knowledge that the amount or range of reasonably possible loss will not, either individually or in the aggregate, have a material adverse effect on the Company’s business, results of operations, financial condition, or cash flows. Legal fees are expensed as incurred.
+Host Protections
+The Company offers AirCover coverage, which includes but is not limited to, the Company’s Host Damage Protection program that provides protection of up to $ 3  million for direct physical loss or damage to a host’s covered property caused by guests during a confirmed booking and when the host and guest are unable to resolve the dispute. The Company retains risk and also maintains insurance from third parties on a per claim basis to protect the Company’s financial exposure under this program. In addition, through third-party insurers and self-insurance mechanisms, including a wholly-owned captive insurance subsidiary, the Company provides insurance coverage for third-party bodily injury or property damage liability claims that occur during a stay. The Company’s Host Liability Insurance and Experiences Liability Insurance consists of a commercial general liability policy, with hosts and the Company as named insureds and landlords of hosts as additional insureds. The Host Liability Insurance and Experiences Liability Insurance provides primary coverage for up to $ 1  million per occurrence, subject to a $ 1  million cap per listing location, and includes various conditions, limitations, and exclusions.
+Indemnifications
+The Company has entered into indemnification agreements with certain of its employees, officers, and directors. The indemnification agreements and the Company’s Amended and Restated Bylaws (the “Bylaws”) require the Company to indemnify its directors and officers and those employees who have entered into indemnification agreements to the fullest extent not prohibited by Delaware law. Subject to certain limitations, the indemnification agreements and Bylaws also require the Company to advance expenses incurred by its directors and officers and those employees who have entered into indemnification agreements. No demands have been made upon the Company to provide indemnification or advancement under the indemnification agreements or the Bylaws, and thus, there are no indemnification or advancement claims that the Company is aware of that could have a material adverse effect on the Company’s business, results of operations, financial condition, or cash flows.
+19
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+In the ordinary course of business, the Company has included limited indemnification provisions in certain agreements with parties with whom the Company has commercial relations, which provisions are of varying scope and terms with respect to indemnification of certain matters, which may include losses arising out of the Company’s breach of such agreements or out of intellectual property infringement claims made by third parties. It is not possible to determine the maximum potential loss under these indemnification provisions due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each particular provision. To date, no significant costs have been incurred, either individually or collectively, in connection with the Company’s indemnification provisions.
+Note 10.  Income Taxes
+The Company’s tax provision for interim periods is determined by using an estimated annual effective tax rate, adjusted for discrete items arising in that quarter. In each quarter, the Company updates the estimated annual effective tax rate and makes a year-to-date adjustment to the provision. The estimated annual effective tax rate is subject to significant volatility due to several factors, including accurately predicting the proportion of the Company’s pre-tax income before provision for income taxes in multiple jurisdictions, the U.S. tax benefits from foreign derived intangible income, audit-related developments, and the effects of tax law changes.
+The Company recorded income tax expense of $ 367  million and $ 418  million for the three months ended September 30, 2024 and 2025, respectively, and $ 522  million and $ 574  million for the nine months ended September 30, 2024 and 2025, respectively. The effective tax rate for the three and nine-month periods ended September 30, 2025 was higher than the same periods in the prior year primarily due to the recognition of a $ 213  million valuation allowance against deferred tax assets related to Corporate Alternative Minimum Tax (“CAMT”) credits, partially offset by reduced taxes accrued driven by a larger foreign derived intangible income benefit and the release of a $  60   million uncertain tax position relating to prior years.
+On July 4, 2025, the One Big Beautiful Bill Act (the “OBBBA”) was signed into law. Included in this legislation are provisions that allow for the immediate expensing of domestic U.S. research and development expenses and changes to the U.S. taxation of foreign derived intangible income. Following the enactment of the OBBBA, management concluded that it is no longer more-likely-than-not that the Company will be able to utilize its federal CAMT credits. No prudent and feasible tax-planning strategies are currently available that would allow the Company to utilize its historic CAMT credits. The Company's policy is to not consider the impact of future years’ CAMT in its valuation allowance assessment for regular deferred tax assets. The amount of the valuation allowance may be adjusted in future quarters if estimates of future taxable income change. The Company will continue to evaluate the full impact of legislative changes as more guidance becomes available.
+The Company regularly assesses the need for a valuation allowance against its deferred tax assets each quarter. In making that assessment, the Company considers both positive and negative evidence in the various jurisdictions in which it operates related to the likelihood of realization of the deferred tax assets to determine, based on the weight of available evidence, whether it is more likely than not that some or all of the deferred tax assets will not be realized. As of September 30, 2025, based on all available positive and negative evidence, having demonstrated sustained profitability, which is objective and verifiable, and taking into account anticipated future earnings, the Company concluded that it is more likely than not that its U.S. federal and state deferred tax assets will be realizable, with the exception of California research and development credits, capital loss carryovers, certain losses subject to the dual consolidated loss rules, and CAMT credits as noted above. As of September 30, 2025, the Company continued to maintain a valuation allowance against its California research and development credit deferred tax assets due to the uncertainty regarding realizability of these deferred tax assets as they have not met the “more likely than not” realization criteria, particularly as the Company expects research and development tax credit generation to exceed its ability to use the credits in future years. When a change in valuation allowance is recognized during an interim period, the change in valuation allowance resulting from current year income is included in the annual effective tax rate and the release of valuation allowance supported by projections of future taxable income is recorded as a discrete tax benefit in the interim period. The Company will continue to monitor the need for a valuation allowance against its deferred tax assets on a quarterly basis.
+The Company’s significant tax jurisdictions include the U. S., California, and Ireland. The Company is currently under examination for income taxes by the Internal Revenue Service (“IRS”) for the 2013, 2016, 2017, and 2018 tax years. The primary issue under examination in the 2013 audit is the valuation of the Company’s international intellectual property which was sold to a subsidiary in 2013. In December 2020, the Company received a Notice of Proposed Adjustment (“NOPA”) from the IRS which proposed an increase to the Company’s U.S. taxable income that could result in additional income tax expense and cash liability of $ 1.3  billion, plus penalties and interest, which exceeds the reserve recorded in its consolidated financial statements by more than $ 1.0  billion. The Company strongly disagrees with the proposed adjustment and continues to vigorously contest it. In February 2021, the Company submitted a protest to the IRS describing its disagreement with the proposed adjustment and requesting the case be transferred to the IRS Independent Office of Appeals (“IRS Appeals”). In December 2021, the Company received a rebuttal from the IRS with the same proposed adjustments that were in the NOPA. In January 2022, the Company entered into an administrative dispute process with IRS Appeals. An acceptable outcome was not reached with IRS Appeals, and in May 2024, the Company received a Statutory Notice of Deficiency (“Notice”) from the IRS related to the aforementioned valuation of its international intellectual property. The Notice claims that the Company owes $ 1.3  billion in tax, plus penalties and interest. The Company will continue to pursue all available remedies to resolve this dispute. In July 2024, the Company petitioned the U.S. Tax Court (“Tax Court”) for redetermination, and if necessary, the Company will appeal the Tax Court’s decision to the appropriate appellate court. The Company believes that adequate amounts have been reserved for any adjustments that may ultimately result from these examinations. If the IRS prevails in the assessment of additional tax due based on its position and such tax and related interest and penalties, if any, exceeds the Company’s current reserves, such outcome could have a material adverse impact on the Company’s financial position and results of operations, and any assessment of additional tax could require a significant cash payment and have a material adverse impact on the Company’s unaudited condensed consolidated statements of cash flows.
+On August 16, 2022, the Inflation Reduction Act was signed into law, with tax provisions primarily focused on implementing a 15% minimum tax known as the CAMT on global adjusted financial statement income and a 1% excise tax on net share repurchases. The Inflation Reduction Act became effective beginning in fiscal year 2023.
+20
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+In 2021, the Organization for Economic Co-operation and Development (“OECD”) established an inclusive framework on base erosion and profit shifting and agreed on a two-pillar solution to global taxation, focusing on global profit allocation, known as Pillar One and a 15% global minimum effective tax rate, known as Pillar Two. The OECD issued Pillar Two model rules and continues to release guidance on these rules. The inclusive framework calls for tax law changes by participating countries to further take effect in 2025. Various countries, including the European Union, have enacted or have announced plans to enact new tax laws to implement the global minimum tax. The Company has considered the applicable tax law changes on Pillar Two implementation in the relevant countries, and concluded there was no material impact to the tax provision for the three and nine months ended September 30, 2025.
+Note 11.  Net Income per Share
+The following table sets forth the computation of basic and diluted net income per share attributable to common stockholders (in millions, except per share amounts):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2024    2025     2024    2025
+Net income     $     1,368       $     1,374        $     2,187       $     2,170
+Add: convertible notes interest expense, net of tax     1        1         2        3
+Net income - diluted    $     1,369       $     1,375        $     2,189       $     2,173
+Weighted-average shares in computing net income per share attributable to Class A and Class B common stockholders:
+Basic     631        611         634        616
+Effect of dilutive securities     11        10         14        10
+Diluted     642        621         648        626
+Net income per share attributable to Class A and Class B common stockholders:
+Basic    $     2.17       $     2.25        $     3.45       $     3.53
+Diluted    $     2.13       $     2.21        $     3.38       $     3.47
+As of both   September 30, 2024 and 2025  ,   9.6   million shares of RSUs were excluded from net income per share because they are subject to market and performance conditions that were not achieved as of such date.
+Additionally, the following securities were not included in the computation of diluted shares outstanding because the effect would be anti-dilutive (in millions):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2024    2025    2024    2025
+Stock options     2        3         2        2
+RSUs     8        14         11        13
+Total     10        17         13        15
+Share Repurchase Program
+In February 2024, the Company announced that its board of directors approved a share repurchase program to purchase up to $ 6.0  billion of the Company’s Class A common stock.
+In August 2025, the Company announced that its board of directors approved a new share repurchase program with authorization to purchase up to an additional $ 6.0  billion of the Company's Class A common stock.
+Share repurchases under the share repurchase programs may be made through a variety of methods, which may include open market purchases, privately negotiated transactions, block trades, or accelerated share repurchase transactions, or by any combination of such methods. Any such repurchases will be made from time to time subject to market and economic conditions, applicable legal requirements, and other relevant factors. The share repurchase programs do not obligate the Company to repurchase any specific number of shares and may be modified, suspended, or terminated at any time at the Company’s discretion.
+During the three and nine months ended September 30, 2025, the Company repurchased and subsequently retired  6.7  million and  20.9  million shares of Class A common stock for $ 857  million and $ 2.7  billion, respectively. As of September 30, 2025, the Company had $ 6.6  billion available to repurchase shares of Class A common stock under its share repurchase programs.
+During the three and nine months ended September 30, 2024, the Company repurchased and subsequently retired  8.7  million and  18.3  million shares of Class A common stock for $ 1.1  billion and $ 2.6  billion, respectively.
+21
+Table of Contents
+Airbnb, Inc.
+Notes to Condensed Consolidated Financial Statements (unaudited)
+Class A Common Stock Warrants
+In 2024, the Company had warrants outstanding to purchase shares of Class A common stock with an exercise price of $ 28.355  per share. During the three months ended June 30, 2024, all the outstanding warrants were exercised to purchase  0.8  million shares of Class A common stock. The warrants were exercised on a cashless basis, resulting in the issuance of  0.7  million shares of the Class A common stock.
+Note 12  .    Segment Information
+Segment Information
+Operating segments are defined as components of an entity for which discrete financial information is available and is regularly reviewed by the Chief Operating Decision Maker (“CODM”) in making decisions regarding resource allocation and performance assessment. The Company’s CODM is its Chief Executive Officer. The Company has  one  operating segment and  one  reportable segment. The CODM assesses financial performance and decides how to allocate resources based on consolidated net income. Segment assets are reported on the Company’s unaudited condensed consolidated balance sheets.
+The following table sets forth the Company’s significant segment expenses (in millions):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2024    2025     2024    2025
+Revenue    $     3,732       $     4,095        $     8,622       $     9,463
+Less:
+Merchant fees and chargebacks
+373        447         1,178        1,282
+Salaries and benefits     422        504         1,268        1,493
+Marketing     357        407         1,140        1,257
+Stock-based compensation expense
+362        399         1,039        1,181
+Professional and third-party services  (1)
+293        330         823        910
+Non-income taxes     100        68         238        175
+Other items  (2)
+300        315         813        890
+Total cost and expense     2,207        2,470         6,499        7,188
+Income from operations     1,525        1,625         2,123        2,275
+Interest income     207        180         635        543
+Other income (expense), net     3       ( 13 )      ( 49 )     ( 74 )
+Income before income taxes     1,735        1,792         2,709        2,744
+Provision for income taxes     367        418         522        574
+Net income     $     1,368       $     1,374        $     2,187       $     2,170
+(1)  Professional and third-party services primarily include expenses related to customer support partners, consultants and third-party service providers, contingent workforce, legal, audit, and tax.
+(2)  Other items primarily include expenses and costs related to data hosting services, insurance, customer relations, and software and equipment.
+22
+Table of Contents
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following discussion and analysis of our financial condition and results of operations should be read together with our unaudited condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q and with our audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2024 (“2024 Annual Report”). This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under the section titled “Risk Factors” of our 2024 Annual Report. Our historical results are not necessarily indicative of the results that may be expected for any period in the future.
+Overview
+We are a community based on connection and belonging—a community that was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country and region across the globe. Every day, hosts offer unique stays, experiences, and services that make it possible for guests to connect with communities in a more authentic way.
+We have five stakeholders and we have designed our Company with all of them in mind. Along with employees and shareholders, we serve hosts, guests, and the communities in which they live. We intend to make long-term decisions considering all of our stakeholders because their collective success is key for our business to thrive.
+Third Quarter Financial Highlights
+Revenue for the three months ended September 30, 2025 grew by 10% to $4.1 billion, compared to the same period in the prior year. The increase was primarily due to an increase in the number of check-ins relating to Nights and Seats Booked and a modest increase in Average Daily Rate (“ADR”).
+Net income for the three months ended September 30, 2025 increased slightly by $6 million to $1.4 billion, compared to the same period in the prior year. This increase was primarily due to revenue growth, largely offset by an increase in payroll-related expenses, lower interest income due to declining interest rates, and an increase to the income tax provision due to the recording of a valuation allowance against deferred tax assets associated with corporate alternative minimum tax (“CAMT”) credits.
+Cash provided by operating activities was $1.4 billion for the three months ended September 30, 2025, compared to $1.1 billion in the same period in the prior year. Free Cash Flow  1   was $1.3 billion for the three months ended September 30, 2025, compared to $1.1 billion in the same period in the prior year.
+During the three months ended September 30, 2025, we repurchased 6.7 million shares of Class A common stock for $857 million, leaving $6.6 billion available to repurchase under our share repurchase programs.
+Macroeconomic and Geopolitical Conditions on our Business
+As we look forward, we recognize the potential impact of challenging macroeconomic and geopolitical conditions on our business, including inflation, interest rates, foreign currency fluctuations, tariffs and trade controls, and potential decreased consumer spending. To date, these conditions have not had a material impact on our business, results of operations, cash flows, and financial condition; however, the impact in the future of these macroeconomic and geopolitical conditions on our business, results of operations, cash flows, and financial condition is uncertain and will depend on future developments that we may not be able to accurately predict.
+Key Business Metrics and Non-GAAP Financial Measures
+We track the following key business metrics and financial measures that are not calculated and presented in accordance with generally accepted accounting principles in the United States of America (“U.S. GAAP”) (“non-GAAP financial measures”) to evaluate our operating performance, identify trends, formulate financial projections, and make strategic decisions. Accordingly, we believe that these key business metrics and non-GAAP financial measures provide useful information to investors and others in understanding and evaluating our results of operations in the same manner as our management team. We believe that non-GAAP financial information, when taken collectively, may be helpful to investors because it provides consistency and comparability with past financial performance, and assists in comparisons with other companies, some of which use similar non-GAAP financial information to supplement their U.S. GAAP results.
+These key business metrics and non-GAAP financial measures are presented for supplemental informational purposes only, should not be considered a substitute for financial information presented in accordance with U.S. GAAP, and may be different from similarly titled metrics or measures presented by other companies. A reconciliation of each non-GAAP financial measure to the most directly comparable financial measure stated in accordance with U.S. GAAP is provided under the subsection titled “— Adjusted EBITDA Reconciliation” and “— Free Cash Flow Reconciliation” below. Investors are encouraged to review the related U.S. GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable U.S. GAAP financial measures.
+1   A reconciliation of non-GAAP financial measures to the most comparable U.S. GAAP financial measures is provided under the subsection titled “Key Business Metrics and Non-GAAP Financial Measures— Free Cash Flow Reconciliation” below.
+23
+Table of Contents
+Key Business Metrics
+We review the following key business metrics to measure our performance, identify trends, formulate financial projections, and make strategic decisions. We are not aware of any uniform standards for calculating these key metrics, which may hinder comparability with other companies that may calculate similarly titled metrics in a different way.
+The following table summarizes our key business metrics, for each period presented below (in millions, except percentages):
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2024    2025    % Change     2024    2025    % Change
+Nights and Seats Booked
+123      134      9     %     381      411      8     %
+Gross Booking Value    $    20,085      $    22,892      14     %     $    64,223      $    70,855      10     %
+Nights and Seats Booked
+Nights and Seats Booked is a key measure of the scale of our platform, which in turn drives our financial performance. Nights and Seats Booked on our platform in a period represents the sum of the total number of nights booked for stays and the total number of seats booked for experiences and services, net of cancellations and alterations that occurred in that period. For example, a booking made on February 15 would be reflected in Nights and Seats Booked for our quarter ended March 31. If, in the example, the booking were canceled on May 15, Nights and Seats Booked would be reduced by the cancellation for our quarter ended June 30. A night can include one or more guests and can be for a listing with one or more bedrooms. Nights and Seats Booked grows as we attract new customers to our platform and as repeat guests increase their activity on our platform. A seat is booked for each participant in an experience or service. Substantially all of the bookings on our platform to date have come from nights. We believe Nights and Seats Booked is a key business metric to help investors and others understand and evaluate our results of operations in the same manner as our management team, as it represents a single unit of transaction on our platform.
+During the three and nine months ended September 30, 2025, the increase in Nights and Seats Booked, compared to the same periods in the prior year, was driven by growth across all regions, with the strongest growth percentages in Latin America and Asia Pacific, as we continue to focus on international expansion.
+Gross Booking Value
+GBV represents the dollar value of bookings on our platform in a period and is inclusive of host earnings, service fees, cleaning fees, and taxes, net of cancellations and alterations that occurred during that period. The timing of recording GBV and any related cancellations is similar to that described in the subsection titled “— Key Business Metrics and Non-GAAP Financial Measures — Nights and Seats Booked” above. Revenue from the booking is recognized upon check-in; accordingly, GBV is a leading indicator of revenue. The entire amount of a booking is reflected in GBV during the quarter in which booking occurs, whether the guest pays the entire amount of the booking upfront or elects to use our Pay Less Upfront program. Growth in GBV reflects our ability to attract and retain customers and reflects growth in Nights and Seats Booked.
+During the three and nine months ended September 30, 2025, the increase in GBV, compared to the same periods in the prior year, was primarily due to an increase in Nights and Seats Booked. We saw GBV growth across all regions, with the strongest growth percentages in Latin America and Asia Pacific.
+Non-GAAP Financial Measures
+Our non-GAAP financial measures include Adjusted EBITDA, Adjusted EBITDA Margin, Free Cash Flow and Free Cash Flow Margin, which are described below. A reconciliation of each non-GAAP financial measure to the most directly comparable financial measure stated in accordance with U.S. GAAP is provided below. Investors are encouraged to review the related U.S. GAAP financial measures and the reconciliation of these non-GAAP financial measures to their most directly comparable U.S. GAAP financial measures. Adjusted EBITDA and Adjusted EBITDA Margin have limitations as a financial measure, should be considered as supplemental in nature, and are not meant as a substitute for the related financial information prepared in accordance with U.S. GAAP. Because of these limitations, Adjusted EBITDA and Adjusted EBITDA Margin should be considered alongside other financial performance measures, including net income and net income margin as well as our other U.S. GAAP results. Free Cash Flow and Free Cash Flow Margin have limitations as analytical tools and should not be considered in isolation or as a substitute for analysis of other U.S. GAAP financial measures, such as net cash provided by operating activities and net cash provided by operating activities margin. Free Cash Flow and Free Cash Flow Margin do not reflect our ability to meet future contractual commitments and may be calculated differently by other companies in our industry, limiting their usefulness as comparative measures.
+24
+Table of Contents
+Non-GAAP Measure    Definition    Purpose of Non-GAAP Measure
+Adjusted EBITDA &
+Adjusted EBITDA Margin
+Adjusted EBITDA  : Net income adjusted for:
+•  provision for income taxes,
+•  other income (expense), net,
+•  interest income,
+•  depreciation and amortization,
+•  stock-based compensation expense,
+•  acquisition-related impacts consisting of gains (losses) recognized on changes in the fair value of contingent consideration arrangements,
+•  lodging taxes for which we may have joint and several liability with hosts for collecting and remitting such taxes, withholding taxes on payments made to hosts and any related settlements, and transactional taxes where there is significant uncertainty as to how the taxes apply to our platform, and
+•  stock-settlement obligations, which represent employer and related taxes related to our Initial Public Offering (“IPO”).
+Adjusted EBITDA Margin  : Adjusted EBITDA divided by revenue.
+•  Enhances comparability on a consistent basis and provides investors with useful insight into the underlying trends of the business.
+•  Used by management to make operating decisions such as evaluating performance, performing strategic planning, and budgeting.
+Free Cash Flow & Free Cash Flow Margin
+Free Cash Flow  : Net cash provided by operating activities less purchases of property and equipment.
+Free Cash Flow Margin:   Free Cash Flow divided by revenue.
+•  Indicator of liquidity that provides information to our management and investors about the amount of cash generated from operations, after purchases of property and equipment, that can be used for strategic initiatives.
+•  Used by management to measure operational performance, to assess our ability to generate cash from ongoing business operations, and to make decisions about capital allocation.
+Constant currency revenue growth rate
+The change in the current period revenue over the prior comparable period where current period foreign currency revenue is translated using the exchange rates of the comparative period.
+•  Enhances comparability and provides investors with useful insight into the operational changes in revenue.
+•  Used by management for financial and operational decision-making and as a means to evaluate performance by excluding the effects of foreign currency volatility which is not indicative of our core operating results.
+The following table summarizes our non-GAAP financial measures, along with the most directly comparable U.S. GAAP measure (in millions, except percentages):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2024    2025     2024    2025
+Net income     $    1,368      $    1,374       $    2,187      $    2,170
+Net income margin    37     %    34     %     25     %    23     %
+Adjusted EBITDA    $    1,958      $    2,051       $    3,276      $    3,511
+Adjusted EBITDA Margin    52     %    50     %     38     %    37     %
+Net cash provided by operating activities    $    1,078      $    1,356       $    4,052      $    4,120
+Net cash provided by operating activities margin    29     %    33     %     47     %    44     %
+Free Cash Flow    $    1,074      $    1,349       $    4,026      $    4,092
+Free Cash Flow Margin    29     %    33     %     47     %    43     %
+25
+Table of Contents
+Adjusted EBITDA Reconciliation
+The following is a reconciliation of net income to Adjusted EBITDA (in millions, except percentages):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2024    2025     2024    2025
+Revenue    $    3,732      $    4,095       $    8,622      $    9,463
+Net income     $    1,368      $    1,374       $    2,187      $    2,170
+Adjusted to exclude the following:
+Provision for income taxes    367      418       522      574
+Other (income) expense, net
+(3)     13       49      74
+Interest income    (207)     (180)      (635)     (543)
+Depreciation and amortization    15      22       43      68
+Stock-based compensation expense    362      399       1,039      1,181
+Acquisition-related impacts
+(2)     1       5      (1)
+Lodging taxes, host withholding taxes, and transactional taxes, net
+58      4       66      (7)
+Stock-settlement obligations related to IPO
+—      —       —      (5)
+Adjusted EBITDA    $    1,958      $    2,051       $    3,276      $    3,511
+Adjusted EBITDA Margin
+52     %    50     %     38     %    37     %
+The above items are excluded from our Adjusted EBITDA measure because they are non-cash in nature, or because the amount and timing of these items are unpredictable, not driven by core results of operations, and renders comparisons with prior periods and competitors less meaningful.
+The increase in Adjusted EBITDA for the three and nine months ended September 30, 2025, compared to the same periods in the prior year, was primarily due to revenue growth from an increase in the number of check-ins for Nights and Seats Booked and a slight increase in ADR.
+Free Cash Flow Reconciliation
+The following is a reconciliation of net cash provided by operating activities to Free Cash Flow (in millions, except percentages):
+Three Months Ended
+September 30,     Nine Months Ended
+September 30,
+2024    2025     2024    2025
+Revenue    $    3,732      $    4,095       $    8,622      $    9,463
+Net cash provided by operating activities    $    1,078      $    1,356       $    4,052      $    4,120
+Purchases of property and equipment    (4)     (7)      (26)     (28)
+Free Cash Flow    $    1,074      $    1,349       $    4,026      $    4,092
+Free Cash Flow Margin
+29     %    33     %     47     %    43     %
+Our Free Cash Flow is impacted by the timing of GBV because we collect our service fees at the time of booking, which is generally before a stay or experience occurs. Funds held on behalf of our customers and amounts payable to our customers do not impact Free Cash Flow, except interest earned on these funds.
+Constant Currency
+In addition to revenue growth rates derived from revenue presented in accordance with U.S. GAAP, we disclose the percentage change in our current period revenue from the corresponding prior period by comparing the change in revenue using constant currencies. We present constant currency revenue growth rate information to provide a framework for assessing how our underlying revenue performed excluding the effect of changes in exchange rates. We use the percentage change in constant currency revenues for financial and operational decision-making and as a means to evaluate period-to-period comparisons. We believe the presentation of revenue on a constant currency basis in addition to the U.S. GAAP presentation helps improve the ability to understand our performance because it excludes the effects of foreign currency volatility that are not indicative of our core operating results.
+26
+Table of Contents
+Seasonality
+Our business is seasonal, reflecting typical travel behavior patterns over the course of the calendar year. In a typical year, the first, second, and third quarters have higher Nights and Seats Booked than the fourth quarter, as guests plan for travel during the peak travel season, which is in the third quarter for North America and Europe, the Middle East, and Africa.
+Our key business metrics, including GBV and Adjusted EBITDA, can also be impacted by the timing of holidays and other events. We experience seasonality in our GBV that is generally consistent with the seasonality of Nights and Seats Booked. Revenue and Adjusted EBITDA have historically been, and are expected to continue to be, highest in the third quarter when we have the most check-ins, which is the point at which we recognize revenue. Seasonal trends in our GBV impact Free Cash Flow for any given quarter. A significant portion of our costs are relatively fixed across quarters or vary in line with the volume of transactions, and we historically achieve our highest GBV in the first and second quarters of the year with comparatively lower check-ins. As a result, increases in unearned fees typically make our Free Cash Flow and Free Cash Flow Margin the highest in the first two quarters of the year. We typically see a slight decline in GBV and a peak in check-ins in the third quarter, which results in a decrease in unearned fees, a lower sequential decrease in Free Cash Flow, and a greater decline in GBV in the fourth quarter, where Free Cash Flow is typically lower.
+Results of Operations
+The following table sets forth our results of operations (in millions, except percentages):
+Three Months Ended September 30,
+2024    % of Revenue     2025    % of Revenue     % Change
+Revenue    $    3,732      100     %     $    4,095      100     %     10     %
+Costs and expenses:
+Cost of revenue    465      12       549      13       18
+Operations and support  (1)
+369      10       365      9       (1)
+Product development  (1)
+524      14       587      14       12
+Sales and marketing  (1)
+514      14       639      16       24
+General and administrative  (1)
+335      9       330      8       (1)
+Total costs and expenses    2,207      59       2,470      60       12
+Income from operations    1,525      41       1,625      40       7
+Interest income    207      6       180      4       (13)
+Other income (expense), net    3      —       (13)     —       (533)
+Income before income taxes    1,735      47       1,792      44       3
+Provision for income taxes    367      10       418      10       14
+Net income     $    1,368      37     %     $    1,374      34     %     —     %
+(1)  Includes stock-based compensation expense as follows (in millions, except percentages):
+Three Months Ended September 30,
+2024
+% of Total
+2025
+% of Total
+% Change
+Operations and support    $    22      6     %     $    22      6     %     —     %
+Product development    230      63       254      63       10
+Sales and marketing    43      12       54      14       26
+General and administrative    67      19       69      17       3
+Stock-based compensation expense    $    362      100     %     $    399      100     %     10     %
+27
+Table of Contents
+The following table sets forth our results of operations (in millions, except percentages):
+Nine Months Ended September 30,
+2024    % of Revenue     2025    % of Revenue     % Change
+Revenue    $    8,622      100     %     $    9,463      100     %     10     %
+Costs and expenses:
+Cost of revenue    1,451      16       1,599      16       10
+Operations and support  (1)
+992      12       1,000      11       1
+Product development  (1)
+1,518      18       1,765      19       16
+Sales and marketing  (1)
+1,601      19       1,893      20       18
+General and administrative  (1)
+937      11       931      10       (1)
+Total costs and expenses    6,499      76       7,188      76       11
+Income from operations    2,123      24       2,275      24       7
+Interest income    635      7       543      6       (14)
+Other income (expense), net    (49)     —       (74)     (1)      (51)
+Income before income taxes    2,709      31       2,744      29       1
+Provision for income taxes    522      6       574      6       10
+Net income     $    2,187      25     %     $    2,170      23     %     (1)    %
+(1)  Includes stock-based compensation expense as follows (in millions, except percentages):
+Nine Months Ended September 30,
+2024
+% of Total
+2025
+% of Total
+% Change
+Operations and support    $    65      6     %     $    66      6     %     2     %
+Product development    654      63       763      64       17
+Sales and marketing    124      12       150      13       21
+General and administrative    196      19       202      17       3
+Stock-based compensation expense    $    1,039      100     %     $    1,181      100     %     14     %
+Comparison of the Three and Nine Months Ended September 30, 2025 with the Same Periods in 2024
+Revenue
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2024    2025
+% Change
+2024    2025
+% Change
+(in millions, except percentages)
+Revenue    $    3,732      $    4,095      10     %     $    8,622      $    9,463      10     %
+Three Months Ended September 30, 2025 Compared with the Same Period in 2024
+Revenue increased $363 million, or 10%, primarily due to an increase in the number of check-ins relating to Nights and Seats Booked and a modest increase in ADR. On a constant-currency basis, revenue increased 10% compared to the same period in the prior year.
+Nine Months Ended September 30, 2025 Compared with the Same Period in 2024
+Revenue increased $841 million, or 10%, primarily due to an increase in the number of check-ins relating to Nights and Seats Booked. On a constant-currency basis, revenue increased 10% compared to the same period in the prior year.
+Cost of Revenue
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2024    2025
+% Change
+2024    2025
+% Change
+(in millions, except percentages)
+Cost of revenue    $    465      $    549      18     %     $    1,451      $    1,599      10     %
+Percentage of revenue    12     %    13     %      16     %    16     %
+28
+Table of Contents
+Three Months Ended September 30, 2025 Compared with the Same Period in 2024
+Cost of revenue increased $84 million, or 18%, primarily due to a $78 million increase in merchant fees, largely due to higher pay-in volumes and a decrease in incentives from card-processor credits in the prior year, and a $7 million increase in amortization costs related to capitalized internal-use software projects.
+Nine Months Ended September 30, 2025 Compared with the Same Period in 2024
+Cost of revenue increased $148 million, or 10%, primarily due to a $130 million increase in merchant fees, largely due to higher pay-in volumes, a $26 million increase in amortization costs related to capitalized internal-use software projects, and a $24 million increase in data hosting services. These increases were partially offset by a reduction in chargebacks of $26 million and a reduction in other service costs of $11 million, which includes authentication, translation, and SMS services.
+Operations and Support
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2024    2025
+% Change
+2024    2025
+% Change
+(in millions, except percentages)
+Operations and support    $    369      $    365      (1)    %     $    992      $    1,000      1     %
+Percentage of revenue    10     %    9     %      12     %    11     %
+Three Months Ended September 30, 2025 Compared with the Same Period in 2024
+Operations and support expense decreased $4 million, or 1%, primarily due to a $17 million decrease in customer relations costs resulting from lower refunds and credits related to customer satisfaction, partially offset by an increase in payroll-related expenses of $7 million, an increase in insurance costs of $3 million, due to higher premiums as a result of higher nights booked, and a $3 million increase in expensed software and equipment.
+Nine Months Ended September 30, 2025 Compared with the Same Period in 2024
+Operations and support expense increased $8 million, or 1%, primarily due to a $21 million increase in payroll-related expenses, an increase in insurance costs of $15 million, due to higher premiums as a result of higher nights booked, an $8 million increase in allocated costs for facilities and information technology, and an increase in expensed software and equipment of $7 million. These increases were partially offset by a decrease in third-party customer service costs of $25 million, due to ongoing partner site optimization, and a $21 million decrease in customer relations costs resulting from lower refunds and credits related to customer satisfaction.
+Product Development
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2024    2025
+% Change
+2024    2025
+% Change
+(in millions, except percentages)
+Product development    $    524      $    587      12     %     $    1,518      $    1,765      16     %
+Percentage of revenue    14     %    14     %      18     %    19     %
+Three and Nine Months Ended September 30, 2025 with the Same Periods in 2024
+Product development expense increased $63 million, or 12%, and $247 million, or 16%, primarily due to a $64 million and $231 million increase in payroll-related expenses for the three and nine months ended September 30, 2025, respectively, driven by an increase in average headcount.
+29
+Table of Contents
+Sales and Marketing
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2024    2025
+% Change
+2024    2025
+% Change
+(in millions, except percentages)
+Brand and performance marketing    $    332      $    380      14     %     $    1,086      $    1,204      11     %
+Field operations and policy    182      259      42     %     515      689      34     %
+Total sales and marketing    $    514      $    639      24     %     $    1,601      $    1,893      18     %
+Percentage of revenue    14     %    16     %      19     %    20     %
+Three Months Ended September 30, 2025 Compared with the Same Period in 2024
+Sales and marketing expense increased $125 million, or 24%, primarily due to a $45 million increase in marketing activities, a $32 million increase in payroll-related expenses, and a $31 million increase in third-party service provider expenses related to our product launch and other initiatives.
+Nine Months Ended September 30, 2025 Compared with the Same Period in 2024
+Sales and marketing expense increased $292 million, or 18%, primarily due to a $98 million increase in marketing activities, an $80 million increase in third-party service provider expenses, primarily related to our product launch, and a $78 million increase in payroll-related expenses.
+General and Administrative
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2024    2025
+% Change
+2024    2025
+% Change
+(in millions, except percentages)
+General and administrative    $    335      $    330      (1)    %     $    937      $    931      (1)    %
+Percentage of revenue    9     %    8     %      11     %    10     %
+Three Months Ended September 30, 2025 Compared with the Same Period in 2024
+General and administrative expense decreased $5 million, or 1%, primarily due to a $34 million decrease in non-income taxes, mainly reflecting a one-time charge related to digital services taxes (“DST”) for France in the prior year. This was partially offset by an increase in payroll related expenses of $15 million and a $13 million increase in non-income tax-related fees and penalties.
+Nine Months Ended September 30, 2025 Compared with the Same Period in 2024
+General and administrative expense decreased $6 million, or 1%, primarily due to a $65 million decrease in non-income taxes, mainly reflecting one-time adjustments applied to DST for France and Canada in the prior year. This was partially offset by an increase in payroll-related expenses of $31 million and an increase in professional service fees of $28 million.
+Interest Income
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2024    2025
+% Change
+2024    2025
+% Change
+(in millions, except percentages)
+Interest income    $    207      $    180      (13)    %     $    635      $    543      (14)    %
+Three and Nine Months Ended September 30, 2025 with the Same Periods in 2024
+Interest income decreased by $27 million, or 13%, and $92 million, or 14%, for the three and nine months ended September 30, 2025, respectively, due to lower interest rates, partially offset by higher cash and investment balances.
+30
+Table of Contents
+Other Income (Expense), Net
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2024    2025
+% Change
+2024    2025
+% Change
+(in millions, except percentages)
+Other income (expense), net    $    3      $    (13)     (533)    %     $    (49)     $    (74)     51     %
+Three Months Ended September 30, 2025 Compared with the Same Period in 2024
+Other income (expense), net decreased $16 million, or 533%, primarily due to net foreign exchange losses of $19 million.
+Nine Months Ended September 30, 2025 Compared with the Same Period in 2024
+Other income (expense), net increased $25 million, or 51%, primarily due to net foreign exchange losses of $39 million, partially offset by lower impairment charges on investments in privately-held companies compared to the prior year and a gain on investment in the current year.
+Provision for Income Taxes
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2024    2025
+% Change
+2024    2025
+% Change
+(in millions, except percentages)
+Provision for income taxes    $    367      $    418      14     %     $    522      $    574      10     %
+Effective tax rate    21     %    23     %      19     %    21     %
+Three Months Ended September 30, 2025 Compared with the Same Period in 2024
+The provision for income taxes increased by $51 million, or 14%, due to the recognition of a $213 million valuation allowance against deferred tax assets related to CAMT credits, partially offset by reduced taxes accrued driven by a larger foreign derived intangible income benefit and the release of a $60 million uncertain tax position relating to prior years. See Note 10,   Income Taxes  , to our unaudited condensed consolidated financial statements included in Item 1 of Part 1 of this Quarterly Report on Form 10-Q for additional information.
+On July 4, 2025, the One Big Beautiful Bill Act (the “OBBBA”) was signed into law. Included in this legislation are provisions that allow for the immediate expensing of domestic U.S. research and development expenses and changes to the U.S. taxation of foreign derived intangible income. Following the enactment of the OBBBA during the quarter, management concluded it is no longer more-likely-than-not that we are able to utilize our historic CAMT credits. No prudent and feasible tax-planning strategies are currently available to utilize the existing CAMT credits. Our policy is to not consider the impact of future years’ CAMT in our valuation allowance assessment for regular deferred tax assets. The amount of the valuation allowance may be adjusted in future quarters if estimates of future taxable income change. We will continue to evaluate the full impact of legislative changes as more guidance becomes available.
+Nine Months Ended September 30, 2025 Compared with the Same Period in 2024
+The provision for income taxes increased by $52 million, or 10%, due to the recognition of a $213 million valuation allowance against deferred tax assets related to CAMT credits, partially offset by reduced taxes accrued driven by a larger foreign derived intangible income benefit and the release of a $60 million uncertain tax position relating to prior years.
+Liquidity and Capital Resources
+Sources and Conditions of Liquidity
+As of September 30, 2025, our principal sources of liquidity were cash, cash equivalents, and short-term investments totaling $11.7 billion. As of September 30, 2025, cash and cash equivalents totaled $7.5 billion, which included $2.5 billion held by our foreign subsidiaries. Cash and cash equivalents consist of cash on deposit with banks and interest-bearing accounts and highly-liquid securities with an original maturity of 90 days or less. As of September 30, 2025, short-term investments totaled $4.2 billion. Short-term investments primarily consist of highly-liquid investment grade corporate debt securities, time deposits, commercial paper, certificates of deposit, U.S. government and government agency debt securities (“government bonds”), and mortgage-backed and asset-backed securities. These short-term investments do not include funds of $7.2 billion as of September 30, 2025, that were held for bookings in advance of guests completing check-ins, which are recorded separately on our unaudited condensed consolidated balance sheets in funds receivable and amounts held on behalf of customers with a corresponding liability in funds payable and amounts payable to customers.
+Our cash and cash equivalents are generally held at large global systemically important banks (“G-SIBs”) which are subject to high capital requirements and are required to regularly perform stringent stress tests related to their ability to absorb capital losses. Our cash, cash equivalents, and short-term investments held outside the U.S. may be repatriated, subject to certain limitations, and would be available to
+31
+Table of Contents
+be used to fund our domestic operations. However, repatriation of such funds may result in additional tax liabilities. We believe that our existing cash, cash equivalents, and short-term investments balances in the U. S. are sufficient to fund our working capital needs.
+We have access to $1.0 billion of commitments and a $200 million sub-limit for the issuance of letters of credit under the 2022 Credit Facility. As of September 30, 2025, no amounts were drawn under the 2022 Credit Facility and outstanding letters of credit totaled $25 million. See Note 7,   Debt  , to our unaudited condensed consolidated financial statements included in Item 1 of Part 1 of this Quarterly Report on Form 10-Q for additional information.
+Material Cash Requirements
+As of September 30, 2025, we had outstanding $2.0 billion in aggregate principal amount of indebtedness of our 0% convertible senior notes due in March 2026. In March 2021, in connection with the pricing of the 2026 Notes, we entered into privately negotiated capped call transactions (the “Capped Calls”) with certain of the initial purchasers and other financial institutions (the "option counterparties") at a cost of approximately $100 million. The cap price of the Capped Calls was $360.80 per share of Class A common stock, which represented a premium of 100% over the last reported sale price of the Class A common stock of $180.40 per share on March 3, 2021, subject to certain customary adjustments under the terms of the Capped Calls.
+In June 2025, we signed a new enterprise agreement with a web-hosting service company for cloud hosting and related services to spend or incur an aggregate of at least $1.9 billion, which extends through 2031. Additionally, we signed a sponsorship agreement to spend or incur an aggregate of at least $55 million through 2027. See Note 9   Commitments and Contingencies,   to our unaudited condensed consolidated financial statements included in Item 1 of Part 1 of this Quarterly Report on Form 10-Q for further information regarding these commitments.
+In February 2024, our board of directors approved a share repurchase program to purchase up to $6.0 billion of our Class A common stock. In August 2025, our board of directors approved a new share repurchase program with an authorization to purchase up to an additional $6.0 billion of our Class A common stock. Share repurchases under the share repurchase programs may be made through a variety of methods, which may include open market purchases, privately negotiated transactions, block trades, or accelerated share repurchase transactions or by any combination of such methods. Any such repurchases will be made from time to time subject to market and economic conditions, applicable legal requirements, and other relevant factors. The share repurchase programs do not obligate us to repurchase any specific number of shares and may be modified, suspended, or terminated at any time at our discretion. During the three and nine months ended September 30, 2025, we repurchased 6.7 million and 20.9 million shares of Class A common stock for $857 million and $2.7 billion, respectively, through our share repurchase programs. As of September 30, 2025, we had $6.6 billion available to repurchase shares of Class A common stock under our share repurchase programs.
+Cash Flows
+The following table summarizes our cash flows (in millions):
+Nine Months Ended September 30,
+2024    2025
+Net cash provided by operating activities    $    4,052      $    4,120
+Net cash used in investing activities    (396)     (448)
+Net cash used in financing activities
+(2,242)     (2,377)
+Effect of exchange rate changes on cash, cash equivalents, and restricted cash
+117      658
+Net increase in cash, cash equivalents, and restricted cash    $    1,531      $    1,953
+Net cash provided by operating activities for the nine months ended September 30, 2025 was $4.1 billion, which was primarily due to net income of $2.2 billion, and $233 million provided by net working capital items, including unearned fees, resulting from growth in bookings. Additionally, we had adjustments for non-cash charges primarily consisting of $1.2 billion of stock-based compensation expense.
+Net cash used in investing activities for the nine months ended September 30, 2025 was $448 million, which was primarily due to purchases of short-term investments, partially offset by proceeds resulting from sales and maturities of short-term investments.
+Net cash used in financing activities for the nine months ended September 30, 2025 was $2.4 billion, primarily due to share repurchases of $2.7 billion and taxes paid related to net share settlement of equity awards of $431 million, partially offset by an increase in funds payable and amounts payable to customers of $670 million.
+The effect of exchange rate changes on cash, cash equivalents, and restricted cash on our unaudited condensed consolidated statements of cash flows relates to certain assets, principally cash balances held on behalf of customers, that are denominated in currencies other than the functional currency of certain of our subsidiaries. For the nine months ended September 30, 2025, we recorded an increase of $658 million in cash, cash equivalents, and restricted cash, primarily due to the weakening of the U.S. dollar against major currencies, mainly the Euro and British Pound. The impact of exchange rate changes on cash balances can serve as a natural hedge for the effect of exchange rates on our liabilities to our hosts and guests.
+We assess our liquidity in terms of our ability to generate cash to fund our short- and long-term cash requirements. As such, we believe that the cash flows generated from operating activities will meet our anticipated cash requirements in the short-term, which include the repayment of our 0% convertible senior notes due in March 2026. In addition to normal working capital requirements, we anticipate that our short- and long-term cash requirements will include share repurchases, introduction of new products and offerings, timing and extent of
+32
+Table of Contents
+spending to support our efforts to develop our platform, debt repayments, and expansion of sales and marketing activities. Our future capital requirements, however, will depend on many factors, including, but not limited to our growth, headcount, and ability to attract and retain customers on our platform. Additionally, we may in the future raise additional capital or incur additional indebtedness to continue to fund our strategic initiatives. On a long-term basis, we would rely on either our access to the capital markets or our credit facility for any long-term funding not provided by operating cash flows and cash on hand. In the event that additional financing is required from outside sources, we may seek to raise additional funds at any time through equity, equity-linked arrangements, and/or debt, which may not be available on favorable terms, or at all. If we are unable to raise additional capital when desired and at reasonable rates, our business, results of operations, and financial condition could be materially adversely affected. Our liquidity is subject to various risks including the risks identified in Item 3. "  Quantitative and Qualitative Disclosures about Market Risk  " of Part 1 of this Quarterly Report on Form 10-Q.
+Critical Accounting Estimates
+Our discussion and analysis of our financial condition and results of operations are based upon our unaudited condensed consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of these unaudited condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, costs and expenses, and related disclosures. See Part II, Item 7. "  Management's Discussion and Analysis of Financial Condition and Results of Operations  " in our 2024     Annual Report for a discussion of the assumptions and judgments involved in our critical accounting estimates. On an ongoing basis, we evaluate our estimates and assumptions. Our actual results may differ from these estimates under different assumptions or conditions.
+Recent Accounting Pronouncements
+See Note 2,   Summary of Significant Accounting Policies  , to our unaudited condensed consolidated financial statements included in Item 1 of Part 1 of this Quarterly Report on Form 10-Q for a description of recently adopted accounting pronouncements and recently issued accounting pronouncements not yet adopted.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+There have been no material changes in our market risk during the three and nine months ended September 30,   2025  . For additional information, see Part II, Item 7A. "  Quantitative and Qualitative Disclosures About Market Risk  " in our 2024 Annual Report.
+Item 4. Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+Our management, with the participation of our principal executive officer and principal financial officer, conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on that evaluation, our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures were effective as of September 30, 2025, the end of the period covered by this Quarterly Report on Form 10-Q, to provide reasonable assurance that information required to be disclosed by us in reports that we file or submit under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms and (ii) accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure.
+Changes in Internal Control Over Financial Reporting
+There were no changes in our internal control over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act, during the quarter ended September 30, 2025 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Limitations on Controls
+Our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their desired objectives. Management does not expect, however, that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all error and fraud. Any control system, no matter how well designed and operated, is based upon certain assumptions and can provide only reasonable, not absolute, assurance that its objectives will be met. Further, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, within our Company have been detected.
+33
+Table of Contents
+PART II - OTHER INFORMATION
+Item 1. Legal Proceedings
+We are currently involved in, and may in the future be involved in, legal proceedings, claims, and government investigations in the ordinary course of business. These include proceedings, claims, and investigations relating to, among other things, regulatory matters, commercial matters, intellectual property, competition, tax, employment, pricing, discrimination, consumer rights, personal injury, and property rights. See Note 9,   Commitments and Contingencies,   to our unaudited condensed consolidated financial statements included in Item 1 of Part 1 of this Quarterly Report on Form 10-Q.
+Depending on the nature of the proceeding, claim, or investigation, we may be subject to monetary damage awards, fines, penalties, or injunctive orders. Furthermore, the outcome of these matters could materially adversely affect our business, results of operations, and financial condition. The outcomes of legal proceedings, claims, and government investigations are inherently unpredictable and subject to significant judgment to determine the likelihood and amount of loss related to such matters. While it is not possible to determine the outcomes, we believe based on our current knowledge that the resolution of all such pending matters will not, either individually or in the aggregate, have a material adverse effect on our business, results of operations, cash flows, or financial condition.
+Item 1A. Risk Factors
+There have been no material changes from the risk factors set forth in Part I, Item IA of our Annual Report on Form 10-K for the fiscal year ended December 31, 2024 (the “2024 Annual Report”). Our business, operations, and financial results are subject to various risks and uncertainties that could materially adversely affect our business, results of operations, financial condition, and the trading price of our Class A common stock. Investors should carefully read and consider the risks and uncertainties included in the 2024 Annual Report, together with all of the other information in the 2024 Annual Report and this Quarterly Report on Form 10-Q, including the section titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and our unaudited condensed consolidated financial statements and related notes, and other documents that we file with the U.S. Securities and Exchange Commission. The risks and uncertainties described in these reports may not be the only ones we face. The factors discussed in these reports, among others, could cause our actual results to differ materially from historical results and those expressed in forward-looking statements made by us or on our behalf in filings with the SEC, press releases, communications with investors, and oral statements.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+The following table sets forth information relating to repurchases of our equity securities during the three months ended September 30, 2025 (in millions, except per share amounts):
+Period
+Total Number of Shares Purchased
+Average Price Paid per
+Share   (1)
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Approximate Dollar Value of Shares That May Yet be Purchased Under the Plans or Programs   (2)(3)
+July 1 - 31    2    $138.02    2    $7,246
+August 1 - 31    2    $125.96    2    $6,941
+September 1 - 30    3    $124.18    3    $6,646
+Total    7    $128.70    7
+(1)  Includes broker commissions.
+(2)  On February 13, 2024, we announced that our board of directors approved a share repurchase program with authorization to purchase up to $6.0 billion of our Class A common stock at management’s discretion. The share repurchase program does not have an expiration date, does not obligate us to repurchase any specific number of shares, and may be modified, suspended, or terminated at any time at our discretion.
+(3)  On August 6, 2025, we announced that our board of directors approved a share repurchase program with authorization to purchase up to an additional $6.0 billion of our Class A common stock at management’s discretion. The share repurchase program does not have an expiration date, does not obligate us to repurchase any specific number of shares, and may be modified, suspended, or terminated at any time at our discretion.
+Item 3. Defaults Upon Senior Securities
+None.
+Item 4. Mine Safety Disclosures
+Not applicable.
+34
+Table of Contents
+Item 5. Other Information
+Director and Officer 10b5-1 Trading Plans (“10b5-1 Plans”)
+The following table sets forth the material terms of 10b5-1 Plans intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) that were adopted, terminated, or modified by our directors and officers during the three months ended September 30, 2025:
+Name and Title of Director or Officer    Action
+Date
+Expiration Date    Maximum Number of Shares to be Sold Under the Plan
+Aristotle Balogh ,  Chief Technology Officer
+Adopt
+8/27/2025      2/23/2026      181,498
+Nathan Blecharczyk ,  Chief Strategy Officer and Director
+Adopt
+8/28/2025      11/20/2026      2,224,176
+Kenneth Chenault ,  Director
+Adopt
+8/29/2025      8/31/2026      16,692
+Brian Chesky ,  Chief Executive Officer and Director
+Adopt
+8/25/2025      5/22/2026      690,000
+Joseph Gebbia ,  Director
+Adopt
+8/29/2025      5/29/2026      1,752,860
+There were    no    “non-Rule 10b5-1 trading arrangements,” as defined in Item 408(c) of Regulation S-K, adopted, terminated, or modified by our directors or officers during the three months ended September 30, 2025.
+Item 6. Exhibits
+The documents listed in the Exhibit Index of this Quarterly Report on Form 10-Q are incorporated herein by reference or are filed with this Quarterly Report on Form 10-Q, in each case as indicated herein (numbered in accordance with Item 601 of Regulation S-K).
+Exhibit Index
+Incorporated by
+Reference
+Exhibit
+Number
+Exhibit Description
+Form
+File Number
+Date
+Number
+Filed
+Herewith
+3.1
+Restated Certificate of Incorporation of the Registrant
+8-K     001-39778     6/7/2024     3.1
+3.2
+Amended and Restated Bylaws of the Registrant
+8-K     001-39778     12/14/2020     3.2
+31.1
+Certification of Principal Executive Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+X
+31.2
+Certification of Principal Financial Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+X
+32.1*
+Certifications of Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+X
+101     The following unaudited condensed financial statements from the Company’s 10-Q, formatted as Inline XBRL: (i) Condensed Consolidated Balance Sheets, (ii) Condensed Consolidated Statements of Operations (iii), Condensed Consolidated Statements of Comprehensive Income, (iv) Condensed Consolidated Statements of Stockholders’ Equity, (v) Condensed Consolidated Statements of Cash Flows, and (vi) Notes to Condensed Consolidated Financial Statements             X
+104     Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)             X
+*  The certifications attached as Exhibit 32.1 that accompany this Quarterly Report on Form 10-Q are deemed furnished and not filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of Airbnb, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Quarterly Report on Form 10-Q, irrespective of any general incorporation language contained in such filing.
+35
+Table of Contents
+Signatures
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+AIRBNB, INC.
+By:
+/s/ BRIAN CHESKY
+Date: November 6, 2025
+Brian Chesky
+Chief Executive Officer
+(Principal Executive Officer)
+By:
+/s/ ELINOR MERTZ
+Date: November 6, 2025
+Elinor Mertz
+Chief Financial Officer
+(Principal Financial Officer)
+36

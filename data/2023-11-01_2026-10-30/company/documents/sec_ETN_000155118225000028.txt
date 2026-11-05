@@ -1,0 +1,1259 @@
+etn-20250630
+0001551182  false  2025  Q2  12/31  http://fasb.org/us-gaap/2025#AccountsPayableCurrent  http://fasb.org/us-gaap/2025#CostOfRevenue http://fasb.org/us-gaap/2025#OtherNonoperatingIncome http://fasb.org/us-gaap/2025#ResearchAndDevelopmentExpense http://fasb.org/us-gaap/2025#SellingGeneralAndAdministrativeExpense        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      xbrli:pure    etn:installment    iso4217:EUR    etn:taxCase    utr:lb     0001551182    2025-01-01  2025-06-30      0001551182   us-gaap:CommonStockMember     2025-01-01  2025-06-30      0001551182   etn:SeniorNotes4.450Due2030Member     2025-01-01  2025-06-30      0001551182   etn:SeniorNotes3.625Due2035Member     2025-01-01  2025-06-30      0001551182    2025-06-30      0001551182    2025-04-01  2025-06-30      0001551182    2024-04-01  2024-06-30      0001551182    2024-01-01  2024-06-30      0001551182    2024-12-31      0001551182    2023-12-31      0001551182    2024-06-30      0001551182   etn:NordicEPODASMember     2024-05-31      0001551182   etn:FibrebondCorporationMember     2025-04-01  2025-04-01      0001551182   etn:FibrebondCorporationMember     2024-03-01  2025-02-28      0001551182   etn:FibrebondCorporationMember     2025-04-01      0001551182   etn:FibrebondCorporationMember  us-gaap:CostOfSalesMember     2025-04-01  2025-06-30      0001551182   etn:FibrebondCorporationMember  us-gaap:SellingGeneralAndAdministrativeExpensesMember     2025-04-01  2025-06-30      0001551182   etn:FibrebondCorporationMember  us-gaap:OtherIncomeMember     2025-04-01  2025-06-30      0001551182   etn:FibrebondCorporationMember     2025-04-01  2025-06-30      0001551182   srt:ScenarioForecastMember  etn:UltraPCSLimitedMember     2026-01-01  2026-06-30      0001551182   etn:ResilientPowerSystemsInc.Member  us-gaap:SubsequentEventMember     2025-07-11  2025-07-11      0001551182   us-gaap:ProductMember  etn:ElectricalAmericasSegmentMember     2025-04-01  2025-06-30      0001551182   us-gaap:ProductMember  etn:ElectricalAmericasSegmentMember     2024-04-01  2024-06-30      0001551182   us-gaap:ProductMember  etn:ElectricalAmericasSegmentMember     2025-01-01  2025-06-30      0001551182   us-gaap:ProductMember  etn:ElectricalAmericasSegmentMember     2024-01-01  2024-06-30      0001551182   etn:SystemsMember  etn:ElectricalAmericasSegmentMember     2025-04-01  2025-06-30      0001551182   etn:SystemsMember  etn:ElectricalAmericasSegmentMember     2024-04-01  2024-06-30      0001551182   etn:SystemsMember  etn:ElectricalAmericasSegmentMember     2025-01-01  2025-06-30      0001551182   etn:SystemsMember  etn:ElectricalAmericasSegmentMember     2024-01-01  2024-06-30      0001551182   etn:ElectricalAmericasSegmentMember     2025-04-01  2025-06-30      0001551182   etn:ElectricalAmericasSegmentMember     2024-04-01  2024-06-30      0001551182   etn:ElectricalAmericasSegmentMember     2025-01-01  2025-06-30      0001551182   etn:ElectricalAmericasSegmentMember     2024-01-01  2024-06-30      0001551182   us-gaap:ProductMember  etn:ElectricalGlobalSegmentMember     2025-04-01  2025-06-30      0001551182   us-gaap:ProductMember  etn:ElectricalGlobalSegmentMember     2024-04-01  2024-06-30      0001551182   us-gaap:ProductMember  etn:ElectricalGlobalSegmentMember     2025-01-01  2025-06-30      0001551182   us-gaap:ProductMember  etn:ElectricalGlobalSegmentMember     2024-01-01  2024-06-30      0001551182   etn:SystemsMember  etn:ElectricalGlobalSegmentMember     2025-04-01  2025-06-30      0001551182   etn:SystemsMember  etn:ElectricalGlobalSegmentMember     2024-04-01  2024-06-30      0001551182   etn:SystemsMember  etn:ElectricalGlobalSegmentMember     2025-01-01  2025-06-30      0001551182   etn:SystemsMember  etn:ElectricalGlobalSegmentMember     2024-01-01  2024-06-30      0001551182   etn:ElectricalGlobalSegmentMember     2025-04-01  2025-06-30      0001551182   etn:ElectricalGlobalSegmentMember     2024-04-01  2024-06-30      0001551182   etn:ElectricalGlobalSegmentMember     2025-01-01  2025-06-30      0001551182   etn:ElectricalGlobalSegmentMember     2024-01-01  2024-06-30      0001551182   etn:OriginalEquipmentManufacturersMember  etn:AerospaceSegmentMember     2025-04-01  2025-06-30      0001551182   etn:OriginalEquipmentManufacturersMember  etn:AerospaceSegmentMember     2024-04-01  2024-06-30      0001551182   etn:OriginalEquipmentManufacturersMember  etn:AerospaceSegmentMember     2025-01-01  2025-06-30      0001551182   etn:OriginalEquipmentManufacturersMember  etn:AerospaceSegmentMember     2024-01-01  2024-06-30      0001551182   etn:AftermarketDistributionAndEndUserMember  etn:AerospaceSegmentMember     2025-04-01  2025-06-30      0001551182   etn:AftermarketDistributionAndEndUserMember  etn:AerospaceSegmentMember     2024-04-01  2024-06-30      0001551182   etn:AftermarketDistributionAndEndUserMember  etn:AerospaceSegmentMember     2025-01-01  2025-06-30      0001551182   etn:AftermarketDistributionAndEndUserMember  etn:AerospaceSegmentMember     2024-01-01  2024-06-30      0001551182   etn:IndustrialandOtherMember  etn:AerospaceSegmentMember     2025-04-01  2025-06-30      0001551182   etn:IndustrialandOtherMember  etn:AerospaceSegmentMember     2024-04-01  2024-06-30      0001551182   etn:IndustrialandOtherMember  etn:AerospaceSegmentMember     2025-01-01  2025-06-30      0001551182   etn:IndustrialandOtherMember  etn:AerospaceSegmentMember     2024-01-01  2024-06-30      0001551182   etn:AerospaceSegmentMember     2025-04-01  2025-06-30      0001551182   etn:AerospaceSegmentMember     2024-04-01  2024-06-30      0001551182   etn:AerospaceSegmentMember     2025-01-01  2025-06-30      0001551182   etn:AerospaceSegmentMember     2024-01-01  2024-06-30      0001551182   etn:CommercialMember  etn:VehicleSegmentMember     2025-04-01  2025-06-30      0001551182   etn:CommercialMember  etn:VehicleSegmentMember     2024-04-01  2024-06-30      0001551182   etn:CommercialMember  etn:VehicleSegmentMember     2025-01-01  2025-06-30      0001551182   etn:CommercialMember  etn:VehicleSegmentMember     2024-01-01  2024-06-30      0001551182   etn:PassengerAndLightDutyMember  etn:VehicleSegmentMember     2025-04-01  2025-06-30      0001551182   etn:PassengerAndLightDutyMember  etn:VehicleSegmentMember     2024-04-01  2024-06-30      0001551182   etn:PassengerAndLightDutyMember  etn:VehicleSegmentMember     2025-01-01  2025-06-30      0001551182   etn:PassengerAndLightDutyMember  etn:VehicleSegmentMember     2024-01-01  2024-06-30      0001551182   etn:VehicleSegmentMember     2025-04-01  2025-06-30      0001551182   etn:VehicleSegmentMember     2024-04-01  2024-06-30      0001551182   etn:VehicleSegmentMember     2025-01-01  2025-06-30      0001551182   etn:VehicleSegmentMember     2024-01-01  2024-06-30      0001551182   etn:EMobilitySegmentMember     2025-04-01  2025-06-30      0001551182   etn:EMobilitySegmentMember     2024-04-01  2024-06-30      0001551182   etn:EMobilitySegmentMember     2025-01-01  2025-06-30      0001551182   etn:EMobilitySegmentMember     2024-01-01  2024-06-30      0001551182    2025-07-01      2025-06-30      0001551182   etn:ElectricalAmericasSegmentMember     2024-12-31      0001551182   etn:ElectricalAmericasSegmentMember     2025-06-30      0001551182   etn:ElectricalGlobalSegmentMember     2024-12-31      0001551182   etn:ElectricalGlobalSegmentMember     2025-06-30      0001551182   etn:AerospaceSegmentMember     2024-12-31      0001551182   etn:AerospaceSegmentMember     2025-06-30      0001551182   etn:VehicleSegmentMember     2024-12-31      0001551182   etn:VehicleSegmentMember     2025-06-30      0001551182   etn:EMobilitySegmentMember     2024-12-31      0001551182   etn:EMobilitySegmentMember     2025-06-30      0001551182   etn:A2025EuroNotesMember  us-gaap:SeniorNotesMember     2025-05-09      0001551182   etn:A2025EuroNotesMember  us-gaap:SeniorNotesMember     2025-05-09  2025-05-09      0001551182   etn:A2025NotesMember  us-gaap:SeniorNotesMember     2025-05-09      0001551182   etn:A2025NotesMember  us-gaap:SeniorNotesMember     2025-05-09  2025-05-09      0001551182   country:US  us-gaap:PensionPlansDefinedBenefitMember     2025-04-01  2025-06-30      0001551182   country:US  us-gaap:PensionPlansDefinedBenefitMember     2024-04-01  2024-06-30      0001551182   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2025-04-01  2025-06-30      0001551182   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2024-04-01  2024-06-30      0001551182   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2025-04-01  2025-06-30      0001551182   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2024-04-01  2024-06-30      0001551182   country:US  us-gaap:PensionPlansDefinedBenefitMember     2025-01-01  2025-06-30      0001551182   country:US  us-gaap:PensionPlansDefinedBenefitMember     2024-01-01  2024-06-30      0001551182   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2025-01-01  2025-06-30      0001551182   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2024-01-01  2024-06-30      0001551182   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2025-01-01  2025-06-30      0001551182   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2024-01-01  2024-06-30      0001551182   etn:TaxYears20052012Member  us-gaap:SecretariatOfTheFederalRevenueBureauOfBrazilMember     2025-06-30      0001551182   etn:TaxYears20052012Member  us-gaap:SecretariatOfTheFederalRevenueBureauOfBrazilMember     2019-11-30      0001551182   etn:TaxYears20092012Member  us-gaap:SecretariatOfTheFederalRevenueBureauOfBrazilMember     2024-07-10      0001551182   etn:TaxYears20092012Member  us-gaap:SecretariatOfTheFederalRevenueBureauOfBrazilMember     2024-07-11      0001551182   etn:TaxYears20052008Member  us-gaap:SecretariatOfTheFederalRevenueBureauOfBrazilMember     2021-08-31      0001551182   etn:TaxYears20052008Member  us-gaap:SecretariatOfTheFederalRevenueBureauOfBrazilMember     2024-04-04      0001551182   us-gaap:SecretariatOfTheFederalRevenueBureauOfBrazilMember     2025-06-30      0001551182   us-gaap:CommonStockMember     2024-12-31      0001551182   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0001551182   us-gaap:RetainedEarningsMember     2024-12-31      0001551182   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0001551182   us-gaap:TrustForBenefitOfEmployeesMember     2024-12-31      0001551182   us-gaap:ParentMember     2024-12-31      0001551182   us-gaap:NoncontrollingInterestMember     2024-12-31      0001551182   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-31      0001551182   us-gaap:ParentMember     2025-01-01  2025-03-31      0001551182   us-gaap:NoncontrollingInterestMember     2025-01-01  2025-03-31      0001551182    2025-01-01  2025-03-31      0001551182   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-03-31      0001551182   us-gaap:CommonStockMember     2025-01-01  2025-03-31      0001551182   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-03-31      0001551182   us-gaap:CommonStockMember     2025-03-31      0001551182   us-gaap:AdditionalPaidInCapitalMember     2025-03-31      0001551182   us-gaap:RetainedEarningsMember     2025-03-31      0001551182   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-31      0001551182   us-gaap:TrustForBenefitOfEmployeesMember     2025-03-31      0001551182   us-gaap:ParentMember     2025-03-31      0001551182   us-gaap:NoncontrollingInterestMember     2025-03-31      0001551182    2025-03-31      0001551182   us-gaap:RetainedEarningsMember     2025-04-01  2025-06-30      0001551182   us-gaap:ParentMember     2025-04-01  2025-06-30      0001551182   us-gaap:NoncontrollingInterestMember     2025-04-01  2025-06-30      0001551182   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-04-01  2025-06-30      0001551182   us-gaap:CommonStockMember     2025-04-01  2025-06-30      0001551182   us-gaap:AdditionalPaidInCapitalMember     2025-04-01  2025-06-30      0001551182   us-gaap:CommonStockMember     2025-06-30      0001551182   us-gaap:AdditionalPaidInCapitalMember     2025-06-30      0001551182   us-gaap:RetainedEarningsMember     2025-06-30      0001551182   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-06-30      0001551182   us-gaap:TrustForBenefitOfEmployeesMember     2025-06-30      0001551182   us-gaap:ParentMember     2025-06-30      0001551182   us-gaap:NoncontrollingInterestMember     2025-06-30      0001551182   us-gaap:CommonStockMember     2023-12-31      0001551182   us-gaap:AdditionalPaidInCapitalMember     2023-12-31      0001551182   us-gaap:RetainedEarningsMember     2023-12-31      0001551182   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-12-31      0001551182   us-gaap:TrustForBenefitOfEmployeesMember     2023-12-31      0001551182   us-gaap:ParentMember     2023-12-31      0001551182   us-gaap:NoncontrollingInterestMember     2023-12-31      0001551182   us-gaap:RetainedEarningsMember     2024-01-01  2024-03-31      0001551182   us-gaap:ParentMember     2024-01-01  2024-03-31      0001551182   us-gaap:NoncontrollingInterestMember     2024-01-01  2024-03-31      0001551182    2024-01-01  2024-03-31      0001551182   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-01-01  2024-03-31      0001551182   us-gaap:CommonStockMember     2024-01-01  2024-03-31      0001551182   us-gaap:AdditionalPaidInCapitalMember     2024-01-01  2024-03-31      0001551182   us-gaap:CommonStockMember     2024-03-31      0001551182   us-gaap:AdditionalPaidInCapitalMember     2024-03-31      0001551182   us-gaap:RetainedEarningsMember     2024-03-31      0001551182   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-03-31      0001551182   us-gaap:TrustForBenefitOfEmployeesMember     2024-03-31      0001551182   us-gaap:ParentMember     2024-03-31      0001551182   us-gaap:NoncontrollingInterestMember     2024-03-31      0001551182    2024-03-31      0001551182   us-gaap:RetainedEarningsMember     2024-04-01  2024-06-30      0001551182   us-gaap:ParentMember     2024-04-01  2024-06-30      0001551182   us-gaap:NoncontrollingInterestMember     2024-04-01  2024-06-30      0001551182   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-04-01  2024-06-30      0001551182   us-gaap:CommonStockMember     2024-04-01  2024-06-30      0001551182   us-gaap:AdditionalPaidInCapitalMember     2024-04-01  2024-06-30      0001551182   us-gaap:CommonStockMember     2024-06-30      0001551182   us-gaap:AdditionalPaidInCapitalMember     2024-06-30      0001551182   us-gaap:RetainedEarningsMember     2024-06-30      0001551182   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-06-30      0001551182   us-gaap:TrustForBenefitOfEmployeesMember     2024-06-30      0001551182   us-gaap:ParentMember     2024-06-30      0001551182   us-gaap:NoncontrollingInterestMember     2024-06-30      0001551182   etn:A2022ProgramMember     2022-02-23      0001551182   etn:A2022ProgramMember     2022-02-23  2022-02-23      0001551182   etn:A2025ProgramMember     2025-02-27      0001551182   etn:A2025ProgramMember     2025-02-27  2025-02-27      0001551182   etn:A2025And2022ProgramMember     2025-04-01  2025-06-30      0001551182   etn:A2025And2022ProgramMember     2025-01-01  2025-06-30      0001551182   etn:A2022ProgramMember     2024-04-01  2024-06-30      0001551182   etn:A2022ProgramMember     2024-01-01  2024-06-30      0001551182   etn:AOCIDerivativeQualifyingAsHedgeExcludedComponentAndAccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2024-12-31      0001551182   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2024-12-31      0001551182   us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember     2024-12-31      0001551182   us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember     2024-12-31      0001551182   etn:AOCIDerivativeQualifyingAsHedgeExcludedComponentAndAccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2025-01-01  2025-06-30      0001551182   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2025-01-01  2025-06-30      0001551182   us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember     2025-01-01  2025-06-30      0001551182   etn:AOCIDerivativeQualifyingAsHedgeExcludedComponentAndAccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2025-06-30      0001551182   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2025-06-30      0001551182   us-gaap:AccumulatedGainLossCashFlowHedgeIncludingNoncontrollingInterestMember     2025-06-30      0001551182   us-gaap:AociIncludingPortionAttributableToNoncontrollingInterestMember     2025-06-30      0001551182   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  etn:AccumulatedGainLossNetInvestmentHedgeParentMember     2025-01-01  2025-06-30      0001551182   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-01-01  2025-06-30      0001551182   us-gaap:InterestRateContractMember  us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-01-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-01-01  2025-06-30      0001551182   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-01-01  2025-06-30      0001551182   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-06-30      0001551182   us-gaap:FairValueInputsLevel1Member     2025-06-30      0001551182   us-gaap:FairValueInputsLevel2Member     2025-06-30      0001551182   us-gaap:FairValueInputsLevel3Member     2025-06-30      0001551182   us-gaap:FairValueInputsLevel1Member     2024-12-31      0001551182   us-gaap:FairValueInputsLevel2Member     2024-12-31      0001551182   us-gaap:FairValueInputsLevel3Member     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherNoncurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember  srt:MinimumMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember  srt:MaximumMember     2025-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:OtherAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:OtherLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:OtherNoncurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2025-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember  srt:MinimumMember     2025-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember  srt:MaximumMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherNoncurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:OtherAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:OtherLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:OtherNoncurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2025-06-30      0001551182   us-gaap:OtherAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-06-30      0001551182   us-gaap:OtherNoncurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-06-30      0001551182   us-gaap:OtherLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-06-30      0001551182   us-gaap:OtherNoncurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:NondesignatedMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherAssetsMember  us-gaap:NondesignatedMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherLiabilitiesMember  us-gaap:NondesignatedMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:NondesignatedMember  srt:MinimumMember     2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:NondesignatedMember  srt:MaximumMember     2025-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:OtherAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:OtherLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:OtherNoncurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherNoncurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember  srt:MinimumMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember  srt:MaximumMember     2024-12-31      0001551182   us-gaap:CommodityContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:CommodityContractMember  us-gaap:OtherAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:CommodityContractMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:CommodityContractMember  us-gaap:OtherLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:CommodityContractMember  us-gaap:OtherNoncurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember     2024-12-31      0001551182   us-gaap:CommodityContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember  srt:MinimumMember     2024-12-31      0001551182   us-gaap:CommodityContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:CashFlowHedgingMember  srt:MaximumMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherNoncurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherNoncurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2024-12-31      0001551182   us-gaap:OtherAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-12-31      0001551182   us-gaap:OtherNoncurrentAssetsMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-12-31      0001551182   us-gaap:OtherLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-12-31      0001551182   us-gaap:OtherNoncurrentLiabilitiesMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:NondesignatedMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherAssetsMember  us-gaap:NondesignatedMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:OtherLiabilitiesMember  us-gaap:NondesignatedMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:NondesignatedMember  srt:MinimumMember     2024-12-31      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:NondesignatedMember  srt:MaximumMember     2024-12-31      0001551182   srt:MinimumMember     2025-01-01  2025-06-30      0001551182   srt:MaximumMember     2025-01-01  2025-06-30      0001551182   etn:NonDerivativeNetInvestmentHedgeMember     2025-06-30      0001551182   etn:NonDerivativeNetInvestmentHedgeMember     2024-12-31      0001551182   etn:CopperMember  us-gaap:CommodityContractMember     2025-01-01  2025-06-30      0001551182   etn:CopperMember  srt:MinimumMember     2025-01-01  2025-06-30      0001551182   etn:CopperMember  srt:MaximumMember     2025-01-01  2025-06-30      0001551182   us-gaap:InterestRateSwapMember     2025-06-30      0001551182   us-gaap:InterestRateSwapMember     2024-12-31      0001551182   us-gaap:InterestRateSwapMember  us-gaap:LongTermDebtMember     2025-06-30      0001551182   us-gaap:InterestRateSwapMember  us-gaap:LongTermDebtMember     2024-12-31      0001551182   us-gaap:LongTermDebtMember     2025-06-30      0001551182   us-gaap:LongTermDebtMember     2024-12-31      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesRevenueNetMember     2025-04-01  2025-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2025-04-01  2025-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2025-04-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesRevenueNetMember     2025-04-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2025-04-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2025-04-01  2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:NetInvestmentHedgingMember  us-gaap:SalesRevenueNetMember     2025-04-01  2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:NetInvestmentHedgingMember  us-gaap:CostOfSalesMember     2025-04-01  2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:NetInvestmentHedgingMember  us-gaap:InterestExpenseMember     2025-04-01  2025-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesRevenueNetMember     2024-04-01  2024-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2024-04-01  2024-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2024-04-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesRevenueNetMember     2024-04-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2024-04-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2024-04-01  2024-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesRevenueNetMember     2024-01-01  2024-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2024-04-01  2024-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2024-01-01  2024-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesRevenueNetMember     2025-01-01  2025-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2025-01-01  2025-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2025-01-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesRevenueNetMember     2025-01-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2025-01-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2025-01-01  2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:NetInvestmentHedgingMember  us-gaap:SalesRevenueNetMember     2025-01-01  2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:NetInvestmentHedgingMember  us-gaap:CostOfSalesMember     2025-01-01  2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:NetInvestmentHedgingMember  us-gaap:InterestExpenseMember     2025-01-01  2025-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesRevenueNetMember     2024-01-01  2024-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2024-01-01  2024-06-30      0001551182   etn:ForwardStartingFloatingtoFixedInterestRateSwapMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2024-01-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:SalesRevenueNetMember     2024-01-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2024-01-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:InterestExpenseMember     2024-01-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:InterestExpenseMember     2025-04-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:InterestExpenseMember     2024-04-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:InterestExpenseMember     2025-01-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:InterestExpenseMember     2024-01-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  etn:NetsalesandCostofproductssoldMember     2025-04-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  etn:NetsalesandCostofproductssoldMember     2024-04-01  2024-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2025-04-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2025-04-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2024-04-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  us-gaap:InterestExpenseMember     2025-04-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  us-gaap:InterestExpenseMember     2024-04-01  2024-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2025-04-01  2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2024-04-01  2024-06-30      0001551182   us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2025-04-01  2025-06-30      0001551182   us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2024-04-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  etn:NetsalesandCostofproductssoldMember     2025-01-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  etn:NetsalesandCostofproductssoldMember     2024-01-01  2024-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2025-01-01  2025-06-30      0001551182   us-gaap:CommodityContractMember  us-gaap:CashFlowHedgingMember  us-gaap:CostOfSalesMember     2024-01-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2025-01-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2024-01-01  2024-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  us-gaap:InterestExpenseMember     2025-01-01  2025-06-30      0001551182   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  us-gaap:InterestExpenseMember     2024-01-01  2024-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2025-01-01  2025-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2024-01-01  2024-06-30      0001551182   us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2025-01-01  2025-06-30      0001551182   us-gaap:NetInvestmentHedgingMember  etn:GainLossOnDispositionOfBusinessMember     2024-01-01  2024-06-30      0001551182   us-gaap:CrossCurrencyInterestRateContractMember  us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:NetInvestmentHedgingMember     2024-12-31      0001551182    2024-01-01  2025-06-30      0001551182   us-gaap:EmployeeSeveranceMember     2025-06-30      0001551182   us-gaap:FacilityClosingMember     2025-06-30      0001551182   us-gaap:EmployeeSeveranceMember     2025-04-01  2025-06-30      0001551182   us-gaap:EmployeeSeveranceMember     2024-04-01  2024-06-30      0001551182   us-gaap:EmployeeSeveranceMember     2025-01-01  2025-06-30      0001551182   us-gaap:EmployeeSeveranceMember     2024-01-01  2024-06-30      0001551182   us-gaap:FacilityClosingMember     2025-04-01  2025-06-30      0001551182   us-gaap:FacilityClosingMember     2024-04-01  2024-06-30      0001551182   us-gaap:FacilityClosingMember     2025-01-01  2025-06-30      0001551182   us-gaap:FacilityClosingMember     2024-01-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalAmericasSegmentMember     2025-04-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalAmericasSegmentMember     2024-04-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalAmericasSegmentMember     2025-01-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalAmericasSegmentMember     2024-01-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalAmericasSegmentMember     2024-01-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalGlobalSegmentMember     2025-04-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalGlobalSegmentMember     2024-04-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalGlobalSegmentMember     2025-01-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalGlobalSegmentMember     2024-01-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalGlobalSegmentMember     2024-01-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:AerospaceSegmentMember     2025-04-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:AerospaceSegmentMember     2024-04-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:AerospaceSegmentMember     2025-01-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:AerospaceSegmentMember     2024-01-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:AerospaceSegmentMember     2024-01-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:VehicleSegmentMember     2025-04-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:VehicleSegmentMember     2024-04-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:VehicleSegmentMember     2025-01-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:VehicleSegmentMember     2024-01-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:VehicleSegmentMember     2024-01-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:EMobilitySegmentMember     2025-04-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:EMobilitySegmentMember     2024-04-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:EMobilitySegmentMember     2025-01-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:EMobilitySegmentMember     2024-01-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:EMobilitySegmentMember     2024-01-01  2025-06-30      0001551182   us-gaap:CorporateNonSegmentMember     2025-04-01  2025-06-30      0001551182   us-gaap:CorporateNonSegmentMember     2024-04-01  2024-06-30      0001551182   us-gaap:CorporateNonSegmentMember     2025-01-01  2025-06-30      0001551182   us-gaap:CorporateNonSegmentMember     2024-01-01  2024-06-30      0001551182   us-gaap:CorporateNonSegmentMember     2024-01-01  2025-06-30      0001551182   us-gaap:EmployeeSeveranceMember     2023-12-31      0001551182   us-gaap:FacilityClosingMember     2023-12-31      0001551182   us-gaap:EmployeeSeveranceMember     2024-01-01  2024-12-31      0001551182   us-gaap:FacilityClosingMember     2024-01-01  2024-12-31      0001551182    2024-01-01  2024-12-31      0001551182   us-gaap:EmployeeSeveranceMember     2024-12-31      0001551182   us-gaap:FacilityClosingMember     2024-12-31      0001551182   us-gaap:OperatingSegmentsMember     2025-04-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember     2024-04-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember     2025-01-01  2025-06-30      0001551182   us-gaap:OperatingSegmentsMember     2024-01-01  2024-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalAmericasSegmentMember     2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalAmericasSegmentMember     2024-12-31      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalGlobalSegmentMember     2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:ElectricalGlobalSegmentMember     2024-12-31      0001551182   us-gaap:OperatingSegmentsMember  etn:AerospaceSegmentMember     2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:AerospaceSegmentMember     2024-12-31      0001551182   us-gaap:OperatingSegmentsMember  etn:VehicleSegmentMember     2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:VehicleSegmentMember     2024-12-31      0001551182   us-gaap:OperatingSegmentsMember  etn:EMobilitySegmentMember     2025-06-30      0001551182   us-gaap:OperatingSegmentsMember  etn:EMobilitySegmentMember     2024-12-31      0001551182   us-gaap:OperatingSegmentsMember     2025-06-30      0001551182   us-gaap:OperatingSegmentsMember     2024-12-31      0001551182   us-gaap:CorporateNonSegmentMember     2025-06-30      0001551182   us-gaap:CorporateNonSegmentMember     2024-12-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+☑      QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  June 30, 2025
+OR
+☐      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _____ to ______
+Commission file number    000-54863
+EATON CORPORATION plc
+(Exact name of registrant as specified in its charter)
+Ireland       98-1059235
+(State or other jurisdiction of incorporation or organization)     (IRS Employer Identification Number)
+Eaton House,       30 Pembroke Road,      Dublin 4,      Ireland       D04 Y0C2
+(Address of principal executive offices)     (Zip Code)
++353      1637 2900
+(Registrant's telephone number, including area code)
+Not applicable
+(Former name, former address and former fiscal year if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class     Trading Symbol     Name of each exchange on which registered
+Ordinary shares ($0.01 par value)       ETN       New York Stock Exchange
+4.450% Senior Notes due 2030       ETN/30       New York Stock Exchange
+3.625% Senior Notes due 2035       ETN/35       New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes    ☑   No   ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes    ☑   No   ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer," “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer     ☑         Accelerated filer    ☐         Non-accelerated filer     ☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange
+Act.   ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes    ☐    No   ☑
+There were  389.3  million Ordinary Shares outstanding as of June 30, 2025.
+Table of Contents
+TABLE OF CONTENTS
+PART I — FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+2
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+28
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+41
+ITEM 4. CONTROLS AND PROCEDURES
+42
+PART II — OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+42
+ITEM 1A. RISK FACTORS
+42
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+42
+ITEM 5. OTHER INFORMATION
+42
+ITEM 6. EXHIBITS
+43
+SIGNATURES
+45
+Table of Contents
+PART I — FINANCIAL INFORMATION
+ITEM 1.  FINANCIAL STATEMENTS.
+EATON CORPORATION plc
+CONSOLIDATED STATEMENTS OF INCOME
+Three months ended
+June 30     Six months ended
+June 30
+(In millions except for per share data)    2025     2024     2025     2024
+Net sales    $     7,028        $     6,350        $     13,404        $     12,293
+Cost of products sold     4,431         3,940         8,361         7,665
+Selling and administrative expense     1,149         1,021         2,197         2,046
+Research and development expense     192         196         390         385
+Interest expense - net     71         29         103         59
+Other income - net    ( 1 )      ( 32 )      ( 10 )      ( 58 )
+Income before income taxes     1,186         1,195         2,363         2,195
+Income tax expense     203         201         415         379
+Net income     982         994         1,947         1,816
+Less net income for noncontrolling interests    ( 1 )      ( 1 )      ( 2 )      ( 2 )
+Net income attributable to Eaton ordinary shareholders    $     982        $     993        $     1,945        $     1,814
+Net income per share attributable to Eaton ordinary shareholders
+Diluted    $     2.51        $     2.48        $     4.96        $     4.52
+Basic     2.52         2.49         4.97         4.54
+Weighted-average number of ordinary shares outstanding
+Diluted     391.4         401.0         392.5         401.5
+Basic     390.3         399.2         391.2         399.6
+Cash dividends declared per ordinary share    $     1.04        $     0.94        $     2.08        $     1.88
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+2
+Table of Contents
+EATON CORPORATION plc
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+Three months ended
+June 30     Six months ended
+June 30
+(In millions)    2025     2024     2025     2024
+Net income    $     982        $     994        $     1,947        $     1,816
+Less net income for noncontrolling interests    ( 1 )      ( 1 )      ( 2 )      ( 2 )
+Net income attributable to Eaton ordinary shareholders     982         993         1,945         1,814
+Other comprehensive income (loss), net of tax
+Currency translation and related hedging instruments     179        ( 125 )       263        ( 178 )
+Pensions and other postretirement benefits    ( 21 )       13        ( 24 )       30
+Cash flow hedges    ( 3 )      ( 10 )       8        ( 14 )
+Other comprehensive income (loss) attributable to Eaton
+ordinary shareholders     155        ( 122 )       247        ( 162 )
+Total comprehensive income attributable to Eaton
+ordinary shareholders    $     1,137        $     871        $     2,192        $     1,652
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+3
+Table of Contents
+EATON CORPORATION plc
+CONSOLIDATED BALANCE SHEETS
+(In millions)    June 30, 2025     December 31, 2024
+Assets
+Current assets
+Cash    $     398        $     555
+Short-term investments     186         1,525
+Accounts receivable - net     5,486         4,619
+Inventory     4,581         4,227
+Prepaid expenses and other current assets     1,246         874
+Total current assets     11,897         11,801
+Property, plant and equipment
+Land and buildings     2,299         2,239
+Machinery and equipment     7,328         6,823
+Gross property, plant and equipment     9,627         9,062
+Accumulated depreciation    ( 5,595 )      ( 5,333 )
+Net property, plant and equipment     4,032         3,729
+Other noncurrent assets
+Goodwill     15,790         14,713
+Other intangible assets     5,227         4,658
+Operating lease assets     709         806
+Deferred income taxes     621         609
+Other assets     2,230         2,066
+Total assets    $     40,507        $     38,381
+Liabilities and shareholders’ equity
+Current liabilities
+Short-term debt    $     1,111        $     —
+Current portion of long-term debt     1,134         674
+Accounts payable     3,762         3,678
+Accrued compensation     529         670
+Other current liabilities     3,058         2,835
+Total current liabilities     9,594         7,857
+Noncurrent liabilities
+Long-term debt     8,751         8,478
+Pension liabilities     758         741
+Other postretirement benefits liabilities     161         164
+Operating lease liabilities     587         669
+Deferred income taxes     280         275
+Other noncurrent liabilities     1,728         1,667
+Total noncurrent liabilities     12,265         11,994
+Shareholders’ equity
+Ordinary shares ( 389.3  million outstanding in 2025 and  392.9  million in 2024)
+4         4
+Capital in excess of par value     12,780         12,731
+Retained earnings     9,917         10,096
+Accumulated other comprehensive loss    ( 4,095 )      ( 4,342 )
+Shares held in trust     —        ( 1 )
+Total Eaton shareholders’ equity     18,606         18,488
+Noncontrolling interests     41         43
+Total equity     18,647         18,531
+Total liabilities and equity    $     40,507        $     38,381
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+Table of Contents
+EATON CORPORATION plc
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+Six months ended
+June 30
+(In millions)    2025     2024
+Operating activities
+Net income    $     1,947        $     1,816
+Adjustments to reconcile to net cash provided by operating activities
+Depreciation and amortization     493         452
+Deferred income taxes     123         9
+Pension and other postretirement benefits expense     20         11
+Contributions to pension plans    ( 58 )      ( 64 )
+Contributions to other postretirement benefits plans    ( 9 )      ( 8 )
+Changes in working capital    ( 1,397 )      ( 784 )
+Other - net     37        ( 11 )
+Net cash provided by operating activities     1,156         1,421
+Investing activities
+Capital expenditures for property, plant and equipment    ( 349 )      ( 370 )
+Cash paid for acquisition of businesses, net of cash acquired    ( 1,450 )      ( 51 )
+Proceeds from sales of property, plant and equipment     53         77
+Investments in associate companies    ( 16 )      ( 68 )
+Return of investment from associate companies     —         33
+Sales (purchases) of short-term investments - net     1,343        ( 126 )
+Proceeds from (payments for) settlement of currency exchange contracts
+not designated as hedges - net
+( 21 )       1
+Other - net    ( 49 )      ( 7 )
+Net cash used in investing activities    ( 490 )      ( 511 )
+Financing activities
+Proceeds from borrowings     1,058         1,084
+Payments on borrowings    ( 713 )      ( 399 )
+Short-term debt, net     1,111        ( 4 )
+Cash dividends paid    ( 818 )      ( 756 )
+Exercise of employee stock options     29         46
+Repurchase of shares    ( 1,307 )      ( 738 )
+Employee taxes paid from shares withheld     ( 46 )      ( 63 )
+Other - net    ( 11 )      ( 8 )
+Net cash used in financing activities    ( 697 )      ( 839 )
+Effect of currency on cash    ( 126 )      ( 20 )
+Total increase (decrease) in cash    ( 157 )       52
+Cash at the beginning of the period     555         488
+Cash at the end of the period    $     398        $     540
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+Table of Contents
+EATON CORPORATION plc
+NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+Amounts are in millions unless indicated otherwise (per share data assume dilution). Columns and rows may not add and the sum of components may not equal total amounts reported due to rounding.
+Note 1.      BASIS OF PRESENTATION
+The accompanying unaudited condensed consolidated financial statements of Eaton Corporation plc (Eaton or the Company) have been prepared in accordance with generally accepted accounting principles for interim financial information, the instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly, they do not include all of the information and footnotes required by United States generally accepted accounting principles (US GAAP) for complete financial statements. However, in the opinion of management, all adjustments (consisting of normal recurring accruals) have been made that are necessary for a fair presentation of the condensed consolidated financial statements for the interim periods.
+This Form 10-Q should be read in conjunction with the consolidated financial statements and related notes included in Eaton’s 2024 Form 10-K. The interim period results are not necessarily indicative of the results to be expected for the full year. Management has evaluated subsequent events through the date this Form 10-Q was filed with the Securities and Exchange Commission.
+Adoption of New Accounting Standard
+Eaton adopted Accounting Standards Update 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, in the fourth quarter of 2024 on a retrospective basis. This accounting standard requires additional segment disclosures on an annual and interim basis, including significant segment expenses that are regularly provided to the chief operating decision maker. The standard does not change how operating segments and reportable segments are determined. The adoption of the standard did not have a material impact on the condensed consolidated financial statements.
+Recently Issued Accounting Pronouncements
+In December 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures (ASU 2023-09). This accounting standard requires disaggregated income tax disclosures on an annual basis, including information on the Company’s effective income tax rate reconciliation and income taxes paid. ASU 2023-09 is effective for annual reporting periods beginning after December 15, 2024, and may be applied prospectively or retrospectively. The Company is evaluating the impact of ASU 2023-09 and expects the standard will only impact its income taxes disclosures with no material impact to the consolidated financial statements.
+In November 2024, the FASB issued Accounting Standards Update 2024-03, Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses (ASU 2024-03). This accounting standard requires disaggregated income statement expense disclosures on an annual and interim basis, including inventory purchases, employee compensation, depreciation, and intangible asset amortization for each income statement line item that contains these expenses. The standard also requires disclosure of total selling expenses on an annual and interim basis, and the definition of those expenses disclosed annually. ASU 2024-03 is effective for annual reporting periods beginning after December 15, 2026 and interim reporting periods beginning after December 15, 2027, and may be applied prospectively or retrospectively. The Company is evaluating the impact of ASU 2024-03 and expects the standard will only impact its disclosures with no material impact to the consolidated financial statements.
+6
+Table of Contents
+Note 2.     ACQUISITIONS OF BUSINESSES
+Acquisition of Exertherm
+On May 20, 2024, Eaton acquired Exertherm, a U.K.-based provider of thermal monitoring solutions for electrical equipment. Exertherm is reported within the Electrical Americas business segment.
+Acquisition of a  49 %     stake in NordicEPOD AS
+On May 31, 2024, Eaton acquired a  49  percent stake in NordicEPOD AS, which designs and assembles standardized power modules for data centers in the Nordic region. Eaton accounts for this investment on the equity method of accounting and it is reported within the Electrical Global business segment.
+Acquisition of Fibrebond Corporation
+On April 1, 2025, Eaton acquired Fibrebond Corporation (Fibrebond) for $ 1.45  billion, net of cash acquired. Fibrebond is a U.S. based designer and builder of pre-integrated modular power enclosures for data center, industrial, utility and communications customers. Fibrebond had sales of approximately $ 378  million for the twelve months ended February 28, 2025, and is reported within the Electrical Americas business segment.
+The acquisition of Fibrebond has been accounted for using the acquisition method of accounting which requires the assets acquired and liabilities assumed be recognized at their respective fair values on the acquisition date.  The table below summarizes the preliminary estimated fair values of the assets acquired and liabilities assumed on the acquisition date. These preliminary estimates will continue to be revised during the measurement period as third-party valuations are received and finalized, further information becomes available and additional analyses are performed, and these differences could have a material impact on Eaton's preliminary purchase price allocation.
+(In millions)         April 1, 2025
+Accounts receivable          $     50
+Inventory          96
+Prepaid expenses and other current assets          72
+Property, plant and equipment          104
+Other intangible assets          709
+Other assets          3
+Accounts payable         ( 48 )
+Other current liabilities         ( 106 )
+Other noncurrent liabilities         ( 2 )
+Total identifiable net assets         $     878
+Goodwill          572
+Total consideration, net of cash received         $     1,450
+Goodwill is calculated as the excess of the consideration transferred over the net assets recognized and represents the anticipated synergies of acquiring Fibrebond. Goodwill recognized as a result of the acquisition is expected to be deductible for tax purposes. Other intangible assets of $ 709  million are expected to include customer relationships, backlog, trademarks and technology. Given the timing of the acquisition, Eaton utilized a benchmarking approach based on similar acquisitions to determine the preliminary fair values for intangible assets. See Note 6 for additional information about goodwill.
+As part of the acquisition, Eaton assumed $ 240  million of employee transaction and retention awards. Awards vest in  six  equal annual installments starting in the second quarter of 2025, subject to continued employment with Eaton. Forfeited employee awards are paid to former Fibrebond shareholders annually. Eaton recognizes compensation expense for the awards over the requisite service period and any employee forfeitures owed to former Fibrebond shareholders are expensed immediately in Other income - net. During the second quarter of 2025, compensation expense of $ 34  million, $ 11  million and $ 2  million were included in Costs of products sold, Selling and administrative expense, and Other income - net, respectively.
+Eaton's 2025 condensed consolidated financial statements include Fibrebond results of operations, including segment operating profit of $ 44  million on sales of $ 144  million, from the date of acquisition through June 30, 2025.
+7
+Table of Contents
+Agreement to Acquire Ultra PCS Limited
+On June 16, 2025, Eaton signed an agreement to acquire Ultra PCS Limited (Ultra PCS), which is headquartered in the United Kingdom with operations in the U.K. and the United States. Ultra PCS produces electronic controls, sensing, stores ejection and data processing solutions, enabling mission success for global aerospace customers in the air and on the ground. Under the terms of the agreement, Eaton will pay $ 1.55  billion for Ultra PCS. The transaction is subject to customary closing conditions and regulatory approvals and is expected to close in the first half of 2026. Ultra PCS will be reported within the Aerospace business segment.
+Agreement to Acquire Resilient Power Systems Inc.
+On July 11, 2025, Eaton signed an agreement to acquire Resilient Power Systems Inc., a leading North American developer and manufacturer of innovative energy solutions, including solid-state transformer-based technology. Under the terms of the agreement, Eaton will pay $ 55  million of cash at closing and contingent future consideration and other payments that could reach $ 95  million based on 2025 through 2028 revenue performance, achievement of technology-based milestones, and in certain cases subject to management's continued employment with Eaton. The transaction is subject to customary closing conditions and is expected to close in the third quarter of 2025. Resilient Power Systems Inc. will be reported within the Electrical Americas business segment.
+8
+Table of Contents
+Note 3.     REVENUE RECOGNITION
+Sales are recognized when obligations under the terms of the contract are satisfied and control of promised goods or services have transferred to our customers. Control is transferred when the customer has the ability to direct the use of and obtain benefits from the goods or services. Sales are measured at the amount of consideration the Company expects to be paid in exchange for these products or services.
+The following table provides disaggregated sales by lines of businesses, geographic destination, market channel or end market, as applicable, for the Company's operating segments:
+Three months ended
+June 30     Six months ended
+June 30
+(In millions)    2025     2024     2025     2024
+Electrical Americas
+Products    $     817        $     745        $     1,560        $     1,478
+Systems     2,533         2,132         4,800         4,089
+Total    $     3,350        $     2,877        $     6,360        $     5,567
+Electrical Global
+Products    $     1,008        $     882        $     1,946        $     1,726
+Systems     744         724         1,416         1,380
+Total    $     1,753        $     1,606        $     3,362        $     3,105
+Aerospace
+Original Equipment Manufacturers    $     409        $     389        $     795        $     744
+Aftermarket     396         329         746         620
+Industrial and Other     275         237         518         462
+Total    $     1,080        $     955        $     2,059        $     1,826
+Vehicle
+Commercial    $     377        $     454        $     736        $     889
+Passenger and Light Duty     287         269         544         558
+Total    $     663        $     723        $     1,280        $     1,447
+eMobility    $     182        $     189        $     343        $     348
+Total net sales    $     7,028        $     6,350        $     13,404        $     12,293
+The timing of revenue recognition, billings and cash collections results in billed accounts receivable, unbilled receivables (revenue recognized exceeds amount billed to the customer), and deferred revenue (advance payments and billings in excess of revenue recognized). Accounts receivable from customers were $ 4,923  million and $ 4,079  million at June 30, 2025 and December 31, 2024, respectively. Amounts are billed as work progresses in accordance with agreed-upon contractual terms, either at periodic intervals or upon achievement of contractual milestones. These assets and liabilities are reported on the Consolidated Balance Sheets on a contract-by-contract basis at the end of each reporting period. Unbilled receivables were $ 510  million and $ 330  million at June 30, 2025 and December 31, 2024, respectively, and are recorded in Prepaid expenses and other current assets. The increase in unbilled receivables reflects higher revenue recognized and not yet billed from increased business activity in 2025 and unbilled receivables associated with the Fibrebond acquisition.
+9
+Table of Contents
+Changes in the deferred revenue liabilities are as follows:
+(In millions)    Deferred Revenue
+Balance at January 1, 2025
+$     618
+Customer deposits and billings     1,902
+Revenue recognized in the period    ( 1,862 )
+Deferred revenue from business acquisition     73
+Translation     15
+Balance at June 30, 2025
+$     746
+(In millions)    Deferred Revenue
+Balance at January 1, 2024
+$     626
+Customer deposits and billings     1,333
+Revenue recognized in the period    ( 1,306 )
+Balance at June 30, 2024
+$     653
+Deferred revenue liabilities of $ 725  million and $ 602  million as of June 30, 2025 and December 31, 2024, respectively, were included in Other current liabilities on the Consolidated Balance Sheets with the remaining balance presented in Other noncurrent liabilities.
+A significant portion of open orders placed with Eaton are by original equipment manufacturers or distributors. These open orders are not considered firm as they have been historically subject to releases by customers. In measuring backlog of unsatisfied or partially satisfied obligations, only the amount of orders to which customers are firmly committed are included. Using this criterion, total backlog at June 30, 2025 was approximately $ 17.5  billion. At June 30, 2025, approximately  70 % of this backlog is targeted for delivery to customers in the next  twelve months  and the rest thereafter.
+Note 4.     CREDIT LOSSES FOR RECEIVABLES
+Receivables are exposed to credit risk based on the customers’ ability to pay which is influenced by, among other factors, their financial liquidity position. Eaton’s receivables are generally short-term in nature with a majority outstanding less than 90 days.
+Eaton performs ongoing credit evaluation of its customers and maintains sufficient allowances for potential credit losses. The Company evaluates the collectability of its receivables based on the length of time the receivable is past due, and any anticipated future write-off based on historic experience adjusted for market conditions. The Company's segments, supported by our global credit department, perform the credit evaluation and monitoring process to estimate and manage credit risk. The process includes an evaluation of credit losses for both the overall segment receivable and specific customer balances. The process also includes review of customer financial information and credit ratings, approval and monitoring of customer credit limits, and an assessment of market conditions. The Company may also require prepayment from customers to mitigate credit risk. Receivable balances are written off against an allowance for credit losses after a final determination of collectability has been made.
+Accounts receivable are net of an allowance for credit losses of $ 56  million and $ 55  million at June 30, 2025 and December 31, 2024, respectively. The change in the allowance for credit losses includes expense and net write-offs, none of which are significant.
+Note 5.     INVENTORY
+Inventory is carried at lower of cost or net realizable value.  The components of inventory are as follows:
+(In millions)    June 30, 2025     December 31, 2024
+Raw materials    $     1,710        $     1,614
+Work-in-process     1,214         1,038
+Finished goods     1,656         1,576
+Total inventory    $     4,581        $     4,227
+10
+Table of Contents
+Note 6.     GOODWILL
+Changes in the carrying amount of goodwill by segment are as follows:
+(In millions)    January 1, 2025     Additions         Translation     June 30, 2025
+Electrical Americas    $     7,396        $     576            $     28        $     8,000
+Electrical Global     3,842         —             334         4,176
+Aerospace     2,856         —             133         2,989
+Vehicle     285         —             5         290
+eMobility     333         —             2         335
+Total    $     14,713        $     576            $     502        $     15,790
+The 2025 additions to goodwill relate primarily to the anticipated synergies of acquiring Fibrebond. The allocation of the Fibrebond purchase price is preliminary and will be completed during the measurement period.
+Note 7.     SUPPLY CHAIN FINANCE PROGRAM
+The Company negotiates payment terms directly with its suppliers for the purchase of goods and services. In addition, a third-party financial institution offers a voluntary supply chain finance (SCF) program that enables certain of the Company’s suppliers, at the supplier’s sole discretion, to sell receivables due from the Company to the financial institution on terms directly negotiated with the financial institution. If a supplier elects to participate in the SCF program, the supplier decides which invoices are sold to the financial institution and the Company has no economic interest in a supplier’s decision to sell an invoice. Payments by the Company to participating suppliers are paid to the financial institution on the invoice due date, regardless of whether an individual invoice is sold by the supplier to the financial institution. The amounts due to the financial institution for suppliers that participate in the SCF program are included in  Accounts payable  on the Consolidated Balance Sheets, and the associated payments are included in operating activities on the Condensed Consolidated Statements of Cash Flows.
+The changes in SCF obligations are as follows:
+(In millions)    SCF Obligations
+Balance at January 1, 2025
+$     398
+Invoices confirmed during the period     811
+Invoices paid during the period    ( 739 )
+Balance at June 30, 2025
+$     470
+(In millions)    SCF Obligations
+Balance at January 1, 2024
+$     369
+Invoices confirmed during the period     695
+Invoices paid during the period    ( 695 )
+Translation    ( 1 )
+Balance at June 30, 2024
+$     367
+11
+Table of Contents
+Note 8.     DEBT
+On May 9, 2025, a subsidiary of Eaton issued Euro denominated notes (2025 Euro Notes) with a face amount of € 500  million ($ 564  million). The 2025 Euro Notes mature in 2035 with interest payable annually at a rate of  3.625 % per annum. The issuer received proceeds totaling € 494  million ($ 558  million) from the 2025 Euro Notes issuance, net of financing costs and discounts. The 2025 Euro Notes are fully and unconditionally guaranteed on an unsubordinated, unsecured basis by Eaton and certain of its direct and indirect subsidiaries. The 2025 Euro Notes contain customary optional redemption and par call provisions. The 2025 Euro Notes also contain a change of control provision which requires the Company to make an offer to purchase all or any part of the 2025 Euro Notes at a purchase price of  101 % of the principal amount plus accrued and unpaid interest. The capitalized deferred financing fees are amortized in Interest expense - net over the term of the 2025 Euro Notes. The 2025 Euro Notes are subject to customary non-financial covenants.
+Also on May 9, 2025, the same subsidiary of Eaton issued senior notes (2025 Notes) with a face amount of $ 500  million. The 2025 Notes mature in 2030 with interest payable semi-annually at a rate of  4.45 % per annum. The issuer received proceeds totaling $ 495  million from the 2025 Notes issuance, net of financing costs and discounts. The 2025 Notes are fully and unconditionally guaranteed on an unsubordinated, unsecured basis by Eaton and certain of its direct and indirect subsidiaries. The 2025 Notes contain customary optional redemption and par call provisions. The 2025 Notes also contain a change of control provision which requires the Company to make an offer to purchase all or any part of the 2025 Notes at a purchase price of  101 % of the principal amount plus accrued and unpaid interest. The capitalized deferred financing fees are amortized in Interest expense - net over the term of the 2025 Notes. The 2025 Notes are subject to customary non-financial covenants.
+12
+Table of Contents
+Note 9.     RETIREMENT BENEFITS PLANS
+The components of retirement benefits expense (income) are as follows:
+United States
+pension benefit expense       Non-United States
+pension benefit expense       Other postretirement
+benefits expense
+Three months ended June 30
+(In millions)    2025     2024       2025     2024       2025     2024
+Service cost    $     4        $     5          $     11        $     11          $     —        $     —
+Interest cost     34         34           23         22           3         3
+Expected return on plan assets    ( 47 )      ( 48 )        ( 33 )      ( 33 )         —         —
+Amortization     3         3           4         2          ( 3 )      ( 3 )
+( 6 )      ( 6 )         5         2           —         —
+Settlements     9         10           3         2           —         —
+Total expense    $     3        $     4          $     8        $     4          $     —        $     —
+United States
+pension benefit expense     Non-United States pension benefit expense     Other postretirement
+benefits expense (income)
+Six months ended June 30
+(In millions)    2025     2024       2025     2024       2025     2024
+Service cost    $     8        $     9          $     22        $     23          $     —        $     —
+Interest cost     68         67           44         43           5         5
+Expected return on plan assets    ( 95 )      ( 95 )        ( 64 )      ( 66 )         —         —
+Amortization     7         5           8         5          ( 6 )      ( 6 )
+( 12 )      ( 14 )         10         5          ( 1 )      ( 1 )
+Settlements     18         19           5         3           —         —
+Total expense (income)    $     6        $     5          $     15        $     8          $    ( 1 )      $    ( 1 )
+The components of retirement benefits expense (income) other than service costs are included in Other income - net.
+During 2020, the Company announced it was freezing its United States pension plans for its non-union employees. The freeze was effective January 1, 2021 for non-union U.S. employees whose retirement benefit was determined under a cash balance formula and is effective January 1, 2026 for non-union U.S. employees whose retirement benefit is determined under a final average pay formula.
+Note 10.     LEGAL CONTINGENCIES
+Eaton is subject to a broad range of claims, administrative proceedings, and legal proceedings, including, but not limited to, claims for punitive damages, penalties, and interest, in a variety of matters, including, but not limited to, contract, indemnity, tax, patent infringement, intellectual property, personal injury, commercial, warranty, product liability, environmental, antitrust and trade regulation, class action, and labor and employment matters. Eaton is also subject to legal claims from historic products which may have contained asbestos. Insurance may cover some of the costs associated with claims and proceedings involving Eaton. Although it is not possible to predict with certainty the outcome or cost of these matters, the Company believes they will not have a material adverse effect on the condensed consolidated financial statements.
+13
+Table of Contents
+Note 11.     INCOME TAXES
+The effective income tax rate for the second quarter of 2025 was expense of  17.2 % compared to expense of  16.8 % for the second quarter of 2024. The effective income tax rate for the first six months of 2025 was expense of  17.6 % compared to expense of  17.3 % for the first six months of 2024. The increase in the effective tax rate in the second quarter and first six months of 2025 was primarily due to greater levels of income in higher tax jurisdictions.
+Brazil Tax Years 2005-2012
+The Company has  two  Brazilian tax cases primarily relating to the amortization of certain goodwill generated from the acquisition of third-party businesses and corporate reorganizations. One case involves tax years 2005-2008 (Case 1), and the other involves tax years 2009-2012 (Case 2). Case 2 is proceeding on a more accelerated timeline than Case 1. For Case 2, the Company received a tax assessment in 2014 that included interest and penalties. In November 2019, the Company received an unfavorable result at the final tax administrative appeals level, resulting in an alleged tax deficiency of $ 24  million plus $ 116  million of interest and penalties (translated at the June 30, 2025 exchange rate). The Company is challenging this assessment in the judicial system and, on April 18, 2022, received an unfavorable decision at the first judicial level. On April 27, 2022, the Company filed a motion for clarification relating to that decision. On May 20, 2022, the court largely upheld its prior decision without further clarification. On June 9, 2022, the Company filed its notice of appeal to the second level court. On July 11, 2024, the court published a favorable decision resulting in the cancellation of a portion of the penalties imposed by the tax authorities. As a result of the favorable decision, the alleged interest and penalties was reduced from $ 116  million to $ 83  million (translated at the June 30, 2025 exchange rate).     The Company intends to continue its challenge of the assessment in the judicial system.
+As previously disclosed for Case 1, the Company received a separate tax assessment alleging a tax deficiency of $ 30  million plus $ 116  million of interest and penalties (translated at the June 30, 2025 exchange rate), which the Company is challenging in the judicial system. On April 4, 2024, the court published a favorable decision resulting in a reduction to the Case 1 assessment for the goodwill generated from the acquisition of a third-party business. In the same decision, the court confirmed the cancellation of a portion of the penalties imposed by the tax authorities. In May 2025, Eaton obtained a favorable decision that cancelled a portion of the assessment due to the expiration of the statute of limitations. As a result of the favorable decisions, the alleged tax deficiency was reduced to $ 22  million plus $ 60  million of interest and penalties (translated at the June 30, 2025 exchange rate).     The remainder of Case 1 is still pending resolution at the first judicial level.
+Both cases are expected to take several years to resolve through the Brazilian judicial system and require provision of certain assets as security for the alleged deficiencies. As of June 30, 2025, the Company pledged Brazilian real estate assets with net book value of $ 17  million and provided additional security in the form of bank secured bonds and insurance bonds totaling $ 91  million and a cash deposit of $ 22  million (translated at the June 30, 2025 exchange rate).
+14
+Table of Contents
+Note 12.     EATON SHAREHOLDERS' EQUITY
+The changes in Shareholders’ equity are as follows:
+Ordinary shares     Capital in excess of par value     Retained earnings     Accumulated other comprehensive loss     Shares held in trust     Total Eaton shareholders' equity     Noncontrolling interests     Total equity
+(In millions)    Shares     Dollars
+Balance at January 1, 2025
+392.9        $     4        $     12,731        $     10,096        $    ( 4,342 )      $    ( 1 )      $     18,488        $     43        $     18,531
+Net income    —       —       —        964        —       —        964         1         965
+Other comprehensive income, net of tax                            92                92                92
+Cash dividends paid and accrued    —       —       —       ( 411 )      —       —       ( 411 )      ( 2 )      ( 413 )
+Issuance of shares under equity-based
+compensation plans     0.4        —       ( 19 )      —       —       —       ( 19 )      —       ( 19 )
+Changes in noncontrolling interest of
+consolidated subsidiaries - net    —       —       —       —       —       —       —       ( 1 )      ( 1 )
+Repurchase of shares    ( 1.9 )      —       —       ( 608 )      —       —       ( 608 )      —       ( 608 )
+Balance at March 31, 2025
+391.3         4         12,711         10,041        ( 4,250 )      ( 1 )       18,506         41         18,547
+Net income    —       —       —        982        —       —        982         1         982
+Other comprehensive income, net of tax                                 155                155                155
+Cash dividends paid    —       —       —       ( 407 )      —       —       ( 407 )      —       ( 407 )
+Issuance of shares under equity-based
+compensation plans     0.2        —        69        ( 1 )      —       —        68        —        68
+Changes in noncontrolling interest of
+consolidated subsidiaries - net    —       —       —       —       —       —       —       ( 1 )      ( 1 )
+Repurchase of shares    ( 2.3 )      —       —       ( 698 )      —       —       ( 698 )      —       ( 698 )
+Balance at June 30, 2025
+389.3        $     4        $     12,780        $     9,917        $    ( 4,095 )      $     —        $     18,606        $     41        $     18,647
+Ordinary shares     Capital in excess of par value     Retained earnings     Accumulated other comprehensive loss     Shares held in trust     Total Eaton shareholders' equity     Noncontrolling interests     Total equity
+(In millions)    Shares     Dollars
+Balance at January 1, 2024
+399.4        $     4        $     12,634        $     10,305        $    ( 3,906 )      $    ( 1 )      $     19,036        $     33        $     19,069
+Net income    —       —       —        821        —       —        821         1         822
+Other comprehensive loss, net of tax                           ( 40 )             ( 40 )      —       ( 40 )
+Cash dividends paid and accrued    —       —       —       ( 381 )      —       —       ( 381 )      —       ( 381 )
+Issuance of shares under equity-based
+compensation plans     0.9        —       ( 4 )      ( 1 )      —       —       ( 5 )      —       ( 5 )
+Repurchase of shares    ( 0.5 )      —       —       ( 138 )      —       —       ( 138 )      —       ( 138 )
+Balance at March 31, 2024
+399.8         4         12,630         10,605        ( 3,946 )      ( 1 )       19,292         34         19,326
+Net income    —       —       —        993        —       —        993         1         994
+Other comprehensive loss, net of tax                                ( 122 )             ( 122 )             ( 122 )
+Cash dividends paid    —       —       —       ( 375 )      —       —       ( 375 )      —       ( 375 )
+Issuance of shares under equity-based
+compensation plans     0.1        —        31        —       —       —        31        —        31
+Repurchase of shares    ( 1.9 )      —       —       ( 600 )      —       —       ( 600 )      —       ( 600 )
+Balance at June 30, 2024
+398.1        $     4        $     12,662        $     10,622        $    ( 4,069 )      $    ( 1 )      $     19,219        $     35        $     19,254
+On February 23, 2022, the Board of Directors adopted a share repurchase program for repurchases of ordinary shares up to $ 5.0  billion to be made during the  three-year  period commencing on that date (2022 Program). On February 27, 2025, the Board of Directors renewed the 2022 Program by providing authority for up to $ 9.0  billion in repurchases to be made during the  three-year  period commencing on that date (2025 Program). Under the 2025 Program, the ordinary shares are expected to be repurchased over time, depending on market conditions, the market price of ordinary shares, capital levels, and other considerations. During the three and six months ended June 30, 2025,  2.3  million and  4.2  million ordinary shares, respectively, were repurchased under the 2025 or 2022 Programs in the open market at a total cost of $ 698  million and $ 1,306  million, respectively. During the three and six months ended June 30, 2024,  1.9  million and  2.3  million ordinary shares, respectively, were repurchased under the 2022 program in the open market at a total cost of $ 600  million and $ 738  million, respectively.
+15
+Table of Contents
+The changes in Accumulated other comprehensive loss are as follows:
+(In millions)    Currency translation and related hedging instruments     Pensions and other postretirement benefits     Cash flow
+hedges     Total
+Balance at January 1, 2025
+$    ( 3,399 )      $    ( 1,044 )      $     101        $    ( 4,342 )
+Other comprehensive income (loss) before
+reclassifications     269        ( 52 )       11         228
+Amounts reclassified from Accumulated other
+comprehensive loss (income)    ( 6 )       28        ( 3 )       19
+Net current-period Other comprehensive
+income (loss)     263        ( 24 )       8         247
+Balance at June 30, 2025
+$    ( 3,136 )      $    ( 1,068 )      $     109        $    ( 4,095 )
+The reclassifications out of Accumulated other comprehensive loss are as follows:
+(In millions)     Six months ended
+June 30, 2025     Consolidated Statements
+of Income classification
+Gains and (losses) on net investment hedges (amount excluded
+from effectiveness testing)
+Currency exchange contracts     $     6        Interest expense - net
+Tax expense      —
+Total, net of tax      6
+Amortization of defined benefits pensions and other
+postretirement benefits items
+Actuarial loss and prior service cost     ( 32 )     1
+Tax benefit      4
+Total, net of tax     ( 28 )
+Gains and (losses) on cash flow hedges
+Floating-to-fixed interest rate swaps      7        Interest expense - net
+Currency exchange contracts     ( 3 )      Net sales and Cost of products sold
+Tax expense     ( 1 )
+Total, net of tax      3
+Total reclassifications for the period     $    ( 19 )
+1   These components of Accumulated other comprehensive loss are included in the computation of net periodic benefit cost. See Note 9 for additional information about pension and other postretirement benefits items.
+16
+Table of Contents
+Net Income Per Share Attributable to Eaton Ordinary Shareholders
+A summary of the calculation of net income per share attributable to Eaton ordinary shareholders is as follows:
+Three months ended
+June 30     Six months ended
+June 30
+(In millions except for per share data)    2025     2024     2025     2024
+Net income attributable to Eaton ordinary shareholders    $     982        $     993        $     1,945        $     1,814
+Weighted-average number of ordinary shares outstanding - diluted     391.4         401.0         392.5         401.5
+Less dilutive effect of equity-based compensation     1.1         1.8         1.3         1.9
+Weighted-average number of ordinary shares outstanding - basic     390.3         399.2         391.2         399.6
+Net income per share attributable to Eaton ordinary shareholders
+Diluted    $     2.51        $     2.48        $     4.96        $     4.52
+Basic     2.52         2.49         4.97         4.54
+For the second quarter and first six months of 2025,   0.1   million stock options were excluded from the calculation of diluted net income per share attributable to Eaton ordinary shareholders because the exercise price of the options exceeded the average market price of the ordinary shares during the period and their effect, accordingly, would have been antidilutive. For the second quarter and first six months of 2024, all stock options were included in the calculation of diluted net income per share attributable to Eaton ordinary shareholders because they were all dilutive.
+Note 13.      FAIR VALUE MEASUREMENTS
+Fair value is measured based on an exit price, representing the amount that would be received to sell an asset or paid to satisfy a liability in an orderly transaction between market participants. Fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or liability. As a basis for considering such assumptions, a fair value hierarchy is established, which categorizes the inputs used in measuring fair value as follows: (Level 1) observable inputs such as quoted prices in active markets; (Level 2) inputs, other than the quoted prices in active markets, that are observable either directly or indirectly; and (Level 3) unobservable inputs in which there is little or no market data, which require the reporting entity to develop its own assumptions.
+A summary of financial instruments recognized at fair value, and the fair value measurements used, is as follows:
+(In millions)    Total     Quoted prices in active markets for identical assets
+(Level 1)     Other observable inputs
+(Level 2)     Unobservable inputs
+(Level 3)
+June 30, 2025
+Cash    $     398        $     398        $     —        $     —
+Short-term investments     186         186         —         —
+Net derivative contracts    ( 37 )       —        ( 37 )       —
+December 31, 2024
+Cash    $     555        $     555        $     —        $     —
+Short-term investments     1,525         1,525         —         —
+Net derivative contracts    ( 16 )       —        ( 16 )       —
+Eaton values its financial instruments using an industry standard market approach, in which prices and other relevant information is generated by market transactions involving identical or comparable assets or liabilities.
+Other Fair Value Measurements
+Long-term debt and the current portion of long-term debt had a carrying value of $ 9,885  million and fair value of $ 9,516  million at June 30, 2025 compared to $ 9,152  million and $ 8,651  million, respectively, at December 31, 2024. The fair value of Eaton's debt instruments was estimated using prevailing market interest rates on debt with similar creditworthiness, terms and maturities and is considered a Level 2 fair value measurement.
+17
+Table of Contents
+Note 14.     DERIVATIVE FINANCIAL INSTRUMENTS AND HEDGING ACTIVITIES
+In the normal course of business, Eaton is exposed to certain risks related to fluctuations in interest rates, currency exchange rates and commodity prices. The Company uses various derivative and non-derivative financial instruments, primarily interest rate swaps, currency forward exchange contracts, currency swaps and commodity contracts to manage risks from these market fluctuations. The instruments used by Eaton are straightforward, non-leveraged instruments. The counterparties to these instruments are financial institutions with strong credit ratings. Eaton maintains control over the size of positions entered into with any one counterparty and regularly monitors the credit rating of these institutions. Such instruments are not purchased and sold for trading purposes.
+Derivative financial instruments are accounted for at fair value and recognized as assets or liabilities in the Consolidated Balance Sheets. Accounting for the gain or loss resulting from the change in the fair value of the derivative financial instrument depends on whether it has been designated as part of a hedging relationship, is effective and the nature of the hedging activity. Eaton formally documents all relationships between derivative financial instruments accounted for as designated hedges and the hedged item, as well as its risk-management objective and strategy for undertaking the hedge transaction. This process includes linking derivative financial instruments to a recognized asset or liability, specific firm commitment, forecasted transaction, or net investment in a foreign operation. These financial instruments can be designated as:
+•  Hedges of the change in the fair value of a recognized fixed-rate asset or liability, or the firm commitment to acquire such an asset or liability (a fair value hedge); for these hedges, the gain or loss from the derivative financial instrument, as well as the offsetting loss or gain on the hedged item attributable to the hedged risk, are recognized in income during the period of change in fair value.
+•  Hedges of the variable cash flows of a recognized variable-rate asset or liability, or the forecasted acquisition of such an asset or liability (a cash flow hedge); for these hedges, the gain or loss from the derivative financial instrument is recognized in Accumulated other comprehensive income and reclassified to income in the same period when the gain or loss on the hedged item is included in income.
+•  Hedges of the currency exposure related to a net investment in a foreign operation (a net investment hedge); for these hedges, the gain or loss from the derivative financial instrument is recognized in Accumulated other comprehensive income and reclassified to income in the same period when the gain or loss related to the net investment in the foreign operation is included in income.
+The gain or loss from a derivative financial instrument designated as a hedge is classified in the same line of the Consolidated Statements of Income as the offsetting loss or gain on the hedged item. The cash flows resulting from these financial instruments are classified in operating activities on the Condensed Consolidated Statements of Cash Flows.
+For derivatives that are not designated as a hedge, any gain or loss is immediately recognized in income. The majority of derivatives used in this manner relate to risks resulting from assets or liabilities denominated in a foreign currency and certain commodity contracts that arise in the normal course of business.
+Eaton uses currency exchange contracts, cross-currency interest rate swaps, and certain of its debt denominated in foreign currency to hedge portions of its net investments in foreign operations against foreign currency exposure (net investment hedges). The Company uses the spot rate method to assess hedge effectiveness when derivative financial instruments are used in net investment hedges. Under this method, changes in the fair value of currency exchange contracts attributable to changes in the spot exchange rate and changes in the fair value of cross-currency interest rate swaps are recognized in Accumulated other comprehensive loss. Changes related to the forward rate of currency exchange contracts are excluded from the hedging relationship and the forward points are amortized to Interest expense - net on a straight-line basis over the term of the contract. Interest accruals on cross-currency interest rate swaps are excluded from the hedging relationship and recognized in Interest expense - net. The cash flows resulting from currency exchange contracts and cross-currency interest rate swaps are classified in investing activities on the Condensed Consolidated Statements of Cash Flows.
+18
+Table of Contents
+Derivative Financial Statement Impacts
+The fair value of derivative financial instruments recognized in the Consolidated Balance Sheets is as follows:
+(In millions)    Notional
+amount     Other
+current
+assets     Other
+noncurrent
+assets     Other
+current
+liabilities     Other
+noncurrent
+liabilities     Type of
+hedge     Term
+June 30, 2025
+Derivatives designated as hedges
+Currency exchange contracts    $     435        $     17        $     —        $     8        $     —        Cash flow
+1  to  11  months
+Commodity contracts     5         —         —         —         —        Cash flow
+1  to  12  months
+Currency exchange contracts     656         —         —         —         —        Net investment
+3  months
+Cross-currency interest rate swaps     523         —         —         —         51        Net investment
+5  years
+Total          $     18        $     —        $     8        $     51
+Derivatives not designated as hedges
+Currency exchange contracts    $     3,966        $     13              $     9
+1  to  7  months
+December 31, 2024
+Derivatives designated as hedges
+Forward starting floating-to-fixed interest rate swaps
+$     156        $     —        $     —        $     —        $     1        Cash flow      11  years
+Currency exchange contracts     499         12         —         14         —        Cash flow
+1  to  13  months
+Commodity contracts     4         —         —         —         —        Cash flow
+1  to  11  months
+Currency exchange contracts     545         3         —         —         —        Net investment
+3  months
+Total          $     15        $     —        $     14        $     1
+Derivatives not designated as hedges
+Currency exchange contracts    $     4,945        $     13              $     29
+1  to  7  months
+The currency exchange contracts shown in the table above as derivatives not designated as hedges are primarily contracts entered into to manage currency volatility or exposure on intercompany receivables, payables and loans. While Eaton does not elect hedge accounting treatment for these derivatives, Eaton targets managing  95 % to  100 % of the intercompany balance sheet exposure to minimize the effect of currency volatility related to the movement of goods and services in the normal course of its operations. This activity represents the great majority of these currency exchange contracts. The cash flows resulting from the settlement of these derivatives have been classified in investing activities in the Condensed Consolidated Statements of Cash Flows.
+Foreign currency denominated debt designated as non-derivative net investment hedging instruments had a carrying value on an after-tax basis of $ 3,988  million at June 30, 2025 and $ 3,105  million at December 31, 2024.
+As of June 30, 2025, the volume of outstanding commodity contracts that were entered into to hedge forecasted transactions:
+Commodity     June 30, 2025       Term
+Copper      1        Millions of pounds
+1  to  12  months
+19
+Table of Contents
+The following amounts were recorded on the Consolidated Balance Sheets related to fixed-to-floating interest rate swaps:
+(In millions)    Carrying amount of the hedged
+assets (liabilities)
+Cumulative amount of fair value hedging adjustment included in the carrying amount of the hedged asset (liabilities)  1
+Location on Consolidated Balance Sheets    June 30, 2025      December 31, 2024     June 30, 2025     December 31, 2024
+Long-term debt    $    ( 502 )       $    ( 647 )      $    ( 34 )      $    ( 37 )
+1   At June 30, 2025 and December 31, 2024, these amounts include the cumulative liability amount of fair value hedging adjustments remaining for which the hedge accounting has been discontinued of $ 34  million and $ 37  million, respectively.
+The impact of hedging activities to the Consolidated Statements of Income is as follows:
+Three months ended June 30, 2025
+(In millions)    Net Sales     Cost of products sold     Interest expense - net
+Amounts from Consolidated Statements of Income    $     7,028        $     4,431        $     71
+Gain (loss) on derivatives designated as cash flow hedges
+Forward starting floating-to-fixed interest rate swaps
+Hedged item    $     —        $     —        $    ( 3 )
+Derivative designated as hedging instrument     —         —         3
+Currency exchange contracts
+Hedged item    $    ( 1 )      $    ( 4 )      $     —
+Derivative designated as hedging instrument     1         4         —
+Gain (loss) on derivatives designated as net investment hedges
+Cross-currency interest rate swaps
+Initial value of component excluded from effectiveness testing
+amortized to earnings    $     —        $     —        $     2
+Three months ended June 30, 2024
+(In millions)    Net Sales     Cost of products sold     Interest expense - net
+Amounts from Consolidated Statements of Income    $     6,350        $     3,940        $     29
+Gain (loss) on derivatives designated as cash flow hedges
+Forward starting floating-to-fixed interest rate swaps
+Hedged item    $     —        $     —        $    ( 3 )
+Derivative designated as hedging instrument     —         —         3
+Currency exchange contracts
+Hedged item    $     2        $    ( 4 )      $     —
+Derivative designated as hedging instrument    ( 2 )       4         —
+Commodity contracts
+Hedged item    $     —        $    ( 1 )      $     —
+Derivative designated as hedging instrument     —         1         —
+20
+Table of Contents
+Six months ended June 30, 2025
+(In millions)    Net Sales     Cost of products sold     Interest expense - net
+Amounts from Consolidated Statements of Income    $     13,404        $     8,361        $     103
+Gain (loss) on derivatives designated as cash flow hedges
+Forward starting floating-to-fixed interest rate swaps
+Hedged item    $     —        $     —        $    ( 7 )
+Derivative designated as hedging instrument     —         —         7
+Currency exchange contracts
+Hedged item    $     2        $     1        $     —
+Derivative designated as hedging instrument    ( 2 )      ( 1 )       —
+Gain (loss) on derivatives designated as net investment hedges
+Cross-currency interest rate swaps
+Initial value of component excluded from effectiveness testing
+amortized to earnings    $     —        $     —        $     3
+Six months ended June 30, 2024
+(In millions)    Net Sales     Cost of products sold     Interest expense - net
+Amounts from Consolidated Statements of Income    $     12,293        $     7,665        $     59
+Gain (loss) on derivatives designated as cash flow hedges
+Forward starting floating-to-fixed interest rate swaps
+Hedged item    $     —        $     —        $    ( 6 )
+Derivative designated as hedging instrument     —         —         6
+Currency exchange contracts
+Hedged item    $     —        $    ( 12 )      $     —
+Derivative designated as hedging instrument     —         12         —
+The impact of derivatives not designated as hedges to the Consolidated Statements of Income is as follows:
+Gain (loss) recognized in Consolidated Statements of Income     Consolidated Statements of Income classification
+Three months ended
+June 30
+(In millions)    2025     2024
+Gain (loss) on derivatives not designated as hedges
+Currency exchange contracts    $    ( 16 )      $    ( 29 )      Interest expense - net
+Total    $    ( 16 )      $    ( 29 )
+21
+Table of Contents
+Gain (loss) recognized in Consolidated Statements of Income     Consolidated Statements of Income classification
+Six months ended
+June 30
+(In millions)    2025     2024
+Gain (loss) on derivatives not designated as hedges
+Currency exchange contracts    $     3        $    ( 9 )      Interest expense - net
+Total    $     3        $    ( 9 )
+The impact of derivative and non-derivative instruments designated as hedges to the Consolidated Statements of Income and Comprehensive Income is as follows:
+Gain (loss) recognized in
+other comprehensive
+income (loss)     Location of gain (loss)
+reclassified from
+Accumulated other
+comprehensive loss     Gain (loss) reclassified
+from Accumulated other
+comprehensive loss
+Three months ended
+June 30       Three months ended
+June 30
+(In millions)    2025     2024       2025     2024
+Derivatives designated as cash
+flow hedges
+Forward starting floating-to-fixed
+interest rate swaps    $    ( 1 )      $     4        Interest expense - net     $     3        $     3
+Currency exchange contracts     6        ( 12 )      Net sales and Cost of products sold      5         3
+Commodity contracts     —         3        Cost of products sold      —         1
+Derivatives designated as net
+investment hedges
+Currency exchange contracts
+Effective portion    ( 9 )       5        Gain (loss) on sale of business      —         —
+Amount excluded from effectiveness
+testing     4         —        Interest expense - net      4         3
+Cross-currency interest rate swaps
+Effective portion    ( 45 )       —        Gain (loss) on sale of business      —         —
+Amount excluded from effectiveness
+testing not amortized to earnings     3         —        Gain (loss) on sale of business      —         —
+Non-derivative designated as net
+investment hedges
+Foreign currency denominated debt    ( 272 )       26        Gain (loss) on sale of business      —         —
+Total    $    ( 314 )      $     26          $     12        $     10
+22
+Table of Contents
+Gain (loss) recognized in
+other comprehensive
+income (loss)     Location of gain (loss)
+reclassified from
+Accumulated other
+comprehensive loss     Gain (loss) reclassified
+from Accumulated other
+comprehensive loss
+Six months ended
+June 30       Six months ended
+June 30
+(In millions)    2025     2024       2025     2024
+Derivatives designated as cash
+flow hedges
+Forward starting floating-to-fixed
+interest rate swaps    $     3        $     6        Interest expense - net     $     7        $     6
+Currency exchange contracts     10        ( 10 )      Net sales and Cost of products sold     ( 3 )       11
+Commodity contracts     1         4        Cost of products sold      —         —
+Derivatives designated as net
+investment hedges
+Currency exchange contracts
+Effective portion    ( 16 )       16        Gain (loss) on sale of business      —         —
+Amount excluded from effectiveness
+testing     5         3        Interest expense - net      6         7
+Cross-currency interest rate swaps
+Effective portion    ( 62 )       —        Gain (loss) on sale of business      —         —
+Amount excluded from effectiveness
+testing not amortized to earnings     11         —        Gain (loss) on sale of business      —         —
+Non-derivative designated as net
+investment hedges
+Foreign currency denominated debt    ( 394 )       98        Gain (loss) on sale of business      —         —
+Total    $    ( 442 )      $     118          $     10        $     25
+The pre-tax gain (loss) on derivative financial instruments designated as net investment hedges included in Accumulated other comprehensive loss is as follows:
+Gain (loss) included in Accumulated other comprehensive loss
+(In millions)    June 30, 2025     December 31, 2024
+Effective portion
+Currency exchange contracts    $     11      $     27
+Cross-currency interest rate swaps    ( 62 )      —
+Amount excluded from effectiveness testing
+Currency exchange contracts    $     —      $     1
+Cross-currency interest rate swaps     11       —
+At June 30, 2025, a gain of $ 12  million of estimated unrealized net gains or losses associated with our cash flow hedges were expected to be reclassified to income from Accumulated other comprehensive loss within the next twelve months. These reclassifications relate to our designated foreign currency and commodity hedges that will mature in the next twelve months.
+23
+Table of Contents
+Note 15.     RESTRUCTURING CHARGES
+During the first quarter of 2024, Eaton implemented a multi-year restructuring program to accelerate opportunities to optimize its operations and global support structure. These actions will better align the Company's functions to support anticipated growth and drive greater effectiveness throughout the Company. Since the inception of the program, the Company has incurred charges of $ 244  million. This restructuring program is expected to be completed in 2026 and is expected to incur additional expenses related to workforce reductions of $ 164  million and plant closing and other costs of $ 67  million, resulting in total estimated charges of $ 475  million for the entire program.
+A summary of restructuring program charges is as follows:
+Three months ended
+June 30     Six months ended
+June 30
+(In millions except for per share data)    2025     2024     2025     2024
+Workforce reductions    $     7        $     9        $     19        $     68
+Plant closing and other     17         7         23         11
+Total before income taxes     24         15         42         78
+Income tax benefit     5         3         9         18
+Total after income taxes    $     18        $     12        $     33        $     61
+Per ordinary share - diluted    $     0.05        $     0.03        $     0.08        $     0.15
+Restructuring program charges related to the following segments:
+Three months ended
+June 30     Six months ended
+June 30     Restructuring program charges incurred from inception through
+(In millions)    2025     2024     2025     2024     June 30, 2025
+Electrical Americas    $     9        $     1        $     10        $     8        $     22
+Electrical Global     5         4         19         27         106
+Aerospace     —         —         —         8         9
+Vehicle     2         4         4         27         43
+eMobility     2         —         2         —         27
+Corporate     6         7         7         7         36
+Total    $     24        $     15        $     42        $     78        $     244
+A summary of liabilities related to workforce reductions, plant closing, and other associated costs is as follows:
+(In millions)    Workforce reductions     Plant closing and other     Total
+Balance at January 1, 2024
+$     35        $     6        $     41
+Liability recognized, net     120         83         202
+Payments, utilization and translation    ( 59 )      ( 81 )      ( 141 )
+Balance at December 31, 2024
+96         7         103
+Liability recognized, net     19         23         42
+Payments, utilization and translation    ( 27 )      ( 23 )      ( 50 )
+Balance at June 30, 2025
+$     88        $     7        $     94
+These restructuring program charges were included in  Cost of products sold, Selling and administrative expense, Research and development expense, or Other income - net , as appropriate. In Business Segment Information, these restructuring program charges are treated as Corporate items. See Note 16 for additional information about business segments.
+24
+Table of Contents
+Note 16.     BUSINESS SEGMENT INFORMATION
+Operating segments are defined as components of an enterprise about which separate financial information is available that is evaluated on a regular basis by the chief operating decision maker, or decision making group, in deciding how to allocate resources to an individual segment and in assessing performance. The Company's chief operating decision maker is the chief executive officer. Eaton's operating segments are Electrical Americas, Electrical Global, Aerospace, Vehicle, and eMobility. Operating profit (loss) includes the operating profit from intersegment sales. For additional information regarding Eaton's business segments, see Note 19 to the consolidated financial statements contained in the 2024 Form 10-K.
+The chief operating decision maker uses segment operating profit (loss) as an input to assess segment performance and determine appropriate resource allocations, including capital, financial, and employee resources. Segment operating profit (loss) results are regularly evaluated versus annual profit plan, forecast and/or prior year.
+Other segment items are primarily comprised of Cost of products sold, Selling and administrative expense, Research and development expense, depreciation of property, plant and equipment, and certain items included in Other income – net on the Consolidated Statements of Income. The Company's chief operating decision maker manages these items on a consolidated basis.
+25
+Table of Contents
+Business Segment Information
+Three months ended June 30     Six months ended June 30
+(In millions)    2025     2024     2025     2024
+Net sales
+Electrical Americas    $     3,350        $     2,877        $     6,360        $     5,567
+Electrical Global     1,753         1,606         3,362         3,105
+Aerospace     1,080         955         2,059         1,826
+Vehicle     663         723         1,280         1,447
+eMobility     182         189         343         348
+Total net sales    $     7,028        $     6,350        $     13,404        $     12,293
+Other segment items
+Electrical Americas    $     2,363        $     2,018        $     4,469        $     3,923
+Electrical Global     1,400         1,301         2,709         2,527
+Aerospace     840         749         1,593         1,419
+Vehicle     550         593         1,071         1,201
+eMobility     192         187         358         350
+Total other segment items    $     5,346        $     4,848        $     10,200        $     9,420
+Segment operating profit (loss)
+Electrical Americas    $     987        $     859        $     1,891        $     1,644
+Electrical Global     353         305         653         578
+Aerospace     240         206         466         407
+Vehicle     113         130         209         246
+eMobility    ( 10 )       2        ( 15 )      ( 2 )
+Total segment operating profit     1,682         1,502         3,204         2,873
+Corporate
+Intangible asset amortization expense    ( 129 )      ( 106 )      ( 235 )      ( 212 )
+Interest expense - net    ( 71 )      ( 29 )      ( 103 )      ( 59 )
+Pension and other postretirement benefits income      5         9         10         20
+Restructuring program charges    ( 24 )      ( 15 )      ( 42 )      ( 78 )
+Other expense - net    ( 277 )      ( 166 )      ( 471 )      ( 349 )
+Income before income taxes     1,186         1,195         2,363         2,195
+Income tax expense     203         201         415         379
+Net income     982         994         1,947         1,816
+Less net income for noncontrolling interests    ( 1 )      ( 1 )      ( 2 )      ( 2 )
+Net income attributable to Eaton ordinary shareholders    $     982        $     993        $     1,945        $     1,814
+26
+Table of Contents
+(In millions)    June 30, 2025     December 31, 2024
+Identifiable assets
+Electrical Americas    $     5,783        $     4,933
+Electrical Global     3,637         3,233
+Aerospace     2,592         2,392
+Vehicle     2,101         1,987
+eMobility     727         633
+Total identifiable assets     14,840         13,178
+Goodwill     15,790         14,713
+Other intangible assets     5,227         4,658
+Corporate     4,650         5,833
+Total assets    $     40,507        $     38,381
+Three months ended June 30     Six months ended June 30
+(In millions)    2025     2024     2025     2024
+Capital expenditures for property, plant and equipment
+Electrical Americas    $     98        $     72        $     155        $     164
+Electrical Global     49         37         89         67
+Aerospace     22         20         39         34
+Vehicle     18         26         30         45
+eMobility     5         21         14         40
+Total     191         176         327         350
+Corporate     11         11         22         20
+Total expenditures for property, plant and equipment    $     202        $     187        $     349        $     370
+Three months ended June 30     Six months ended June 30
+(In millions)    2025     2024     2025     2024
+Depreciation of property, plant and equipment
+Electrical Americas    $     33        $     29        $     64        $     57
+Electrical Global     27         25         53         49
+Aerospace     18         17         36         34
+Vehicle     24         24         48         47
+eMobility     8         6         15         12
+Total     111         100         216         198
+Corporate     9         9         19         18
+Total depreciation of property, plant and equipment    $     121        $     109        $     236        $     216
+27
+Table of Contents
+ITEM 2.  MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+Amounts are in millions of dollars or shares unless indicated otherwise (per share data assume dilution). Columns and rows may not add and the sum of components may not equal total amounts reported due to rounding.
+COMPANY OVERVIEW
+Eaton Corporation plc (Eaton or the Company) is an intelligent power management company dedicated to protecting the environment and improving the quality of life for people everywhere. We make products for the data center, utility, industrial, commercial, machine building, residential, aerospace and mobility markets. We are capitalizing on the megatrends of the energy transition, electrification, and digitalization. The reindustrialization of and growth of megaprojects in North America and increased global infrastructure spending focused on clean energy programs are expanding our end markets and positioning Eaton for growth for years to come. We are strengthening our participation across the entire electrical power value chain and benefiting from momentum in the data center and utility end markets as well as a growth cycle in the commercial aerospace and defense markets. We are guided by our commitment to operate sustainably and with the highest ethical standards. Our work is accelerating the planet’s transition to renewable energy sources, helping to solve the world’s most urgent power management challenges, and building a more sustainable society for people today and for future generations.
+Founded in 1911, Eaton has continuously evolved to meet the changing and expanding needs of our stakeholders. With revenues of nearly $25 billion in 2024, the Company serves customers in more than 160 countries.
+Portfolio Changes
+The Company continues to actively manage its portfolio of businesses to deliver on its strategic objectives. The Company is focused on deploying its capital toward businesses that provide opportunities for above-market growth, strong returns, and align with secular trends and its power management strategies. During 2024 and 2025, Eaton continued to selectively add businesses to strengthen its portfolio.
+Acquisitions of businesses and investments in associate companies     Date of acquisition     Business segment
+Exertherm     May 20, 2024     Electrical Americas
+A U.K. based provider of thermal monitoring solutions for electrical equipment.
+NordicEPOD AS     May 31, 2024     Electrical Global
+A 49 percent stake in NordicEPOD AS, which designs and assembles standardized power modules for data centers in the Nordic region.
+Fibrebond Corporation     April 1, 2025     Electrical Americas
+A U.S. based designer and builder of pre-integrated modular power enclosures for data center, industrial, utility and communications customers.
+On June 16, 2025, Eaton signed an agreement to acquire Ultra PCS Limited (Ultra PCS), which is headquartered in the United Kingdom with operations in the U.K. and the United States. Ultra PCS produces electronic controls, sensing, stores ejection and data processing solutions, enabling mission success for global aerospace customers in the air and on the ground. Ultra PCS will be reported within the Aerospace business segment.
+On July 11, 2025, Eaton signed an agreement to acquire Resilient Power Systems Inc., a leading North American developer and manufacturer of innovative energy solutions, including solid-state transformer-based technology. Resilient Power Systems Inc. will be reported within the Electrical Americas business segment.
+Additional information related to acquisitions of businesses is presented in Note 2.
+28
+Table of Contents
+RESULTS OF OPERATIONS
+Non-GAAP Financial Measures
+The following discussion of Consolidated Financial Results includes certain non-GAAP financial measures. These financial measures include adjusted earnings and adjusted earnings per ordinary share, each of which differs from the most directly comparable measure calculated in accordance with generally accepted accounting principles (GAAP). A reconciliation of adjusted earnings and adjusted earnings per ordinary share to the most directly comparable GAAP measure is included in the Consolidated Financial Results table below. Management believes that these financial measures are useful to investors because they provide additional meaningful financial information that should be considered when assessing our business performance and trends, and they allow investors to more easily compare Eaton’s financial performance period to period. Management uses this information in monitoring and evaluating the on-going performance of Eaton.
+Acquisition and Divestiture Charges
+Eaton incurs integration charges and transaction costs to acquire and integrate businesses, and transaction, separation and other costs to divest and exit businesses. Eaton also recognizes gains and losses on the sale of businesses. A summary of these Corporate items is as follows:
+Three months ended
+June 30     Six months ended
+June 30
+(In millions except for per share data)    2025     2024     2025     2024
+Acquisition integration, divestiture charges and transaction costs    $    70       $    10       $    80       $    27
+Income tax benefit    16       3       19       7
+Total after income taxes    $    54       $    8       $    61       $    20
+Per ordinary share - diluted    $    0.14       $    0.02       $    0.16       $    0.05
+Acquisition integration, divestiture charges and transaction costs in 2025 are primarily related to the acquisitions of Fibrebond and Exertherm, transactions completed prior to 2023, and other charges to acquire and exit businesses. Costs in 2025 include $47 million of employee transaction and retention award compensation expense related to the acquisition of Fibrebond. Acquisition integration, divestiture charges and transaction costs in 2024 are primarily related to acquisitions completed prior to 2023, and include other charges and income to acquire and exit businesses. These charges were included in Cost of products sold, Selling and administrative expense, Research and development expense, or Other income - net. In Business Segment Information in Note 16, the charges were included in Other expense - net.
+Restructuring Programs
+During the first quarter of 2024, Eaton implemented a multi-year restructuring program to accelerate opportunities to optimize its operations and global support structure. These actions will better align the Company's functions to support anticipated growth and drive greater effectiveness throughout the Company. Since the inception of the program, the Company has incurred charges of $244 million. This restructuring program is expected to be completed in 2026 and is expected to incur additional expenses related to workforce reductions of $164 million and plant closing and other costs of $67 million, resulting in total estimated charges of $475 million for the entire program. The Company expects mature year benefits of $375 million when the multi-year program is fully implemented.
+Additional information related to these restructuring programs is presented in Note 15.
+Intangible Asset Amortization Expense
+Intangible asset amortization expense is as follows:
+Three months ended
+June 30     Six months ended
+June 30
+(In millions except for per share data)    2025     2024     2025     2024
+Intangible asset amortization expense    $    129       $    106       $    235       $    212
+Income tax benefit    28       23       50       45
+Total after income taxes    $    101       $    83       $    185       $    167
+Per ordinary share - diluted    $    0.25       $    0.20       $    0.47       $    0.42
+29
+Table of Contents
+Consolidated Financial Results
+Three months ended
+June 30     Increase (decrease)     Six months ended
+June 30     Increase (decrease)
+(In millions except for per share data)    2025     2024      2025     2024
+Net sales    $    7,028       $    6,350       11     %     $    13,404       $    12,293       9     %
+Gross profit    2,597       2,410       8     %     5,043       4,628       9     %
+Percent of net sales    37.0     %     38.0     %           37.6     %     37.6     %
+Income before income taxes    1,186       1,195       (1)    %     2,363       2,195       8     %
+Net income    982       994       (1)    %     1,947       1,816       7     %
+Less net income for noncontrolling interests    (1)      (1)            (2)      (2)
+Net income attributable to Eaton ordinary shareholders    982       993       (1)    %     1,945       1,814       7     %
+Excluding acquisition and divestiture charges, after-tax    54       8             61       20
+Excluding restructuring program charges, after-tax    18       12         33       61
+Excluding intangible asset amortization expense, after-tax    101       83         185       167
+Adjusted earnings    $    1,155       $    1,096       5     %     $    2,225       $    2,062       8     %
+Net income per share attributable to Eaton ordinary shareholders - diluted    $    2.51       $    2.48       1     %     $    4.96       $    4.52       10     %
+Excluding per share impact of acquisition and divestiture charges, after-tax    0.14       0.02             0.16       0.05
+Excluding per share impact of restructuring program charges, after-tax    0.05       0.03         0.08       0.15
+Excluding per share impact of intangible asset amortization expense, after-tax    0.25       0.20         0.47       0.42
+Adjusted earnings per ordinary share    $    2.95       $    2.73       8     %     $    5.67       $    5.14       10     %
+Net Sales
+Changes in Net sales:    Three months ended June 30, 2025     Six months ended June 30, 2025
+Organic growth    8     %     8     %
+Acquisitions of businesses
+2     %     1     %
+Foreign currency    1     %     —     %
+Total increase in Net sales    11     %     9     %
+The increase in organic sales   in the   second   quarter of   2025 was due to strength in data center end-markets in the Electrical Americas and Electrical Global business segments, strength in commercial & institutional end-markets in the Electrical Americas business segment, strength in machine OEM and residential end-markets in the Electrical Global business segment, and strength in commercial aftermarket and military aftermarket in the Aerospace business segment, partially offset by weakness in industrial end-markets in the Electrical Americas and Electrical Global business segments, weakness in the North American truck market in the Vehicle business segment, and weakness in the North American region in the eMobility business segment.
+The increase in organic sales   in the first   six   months of   2025 was due to strength in data center end-markets in the Electrical Americas and Electrical Global business segments, strength in utility end-markets in the Electrical Americas business segment, strength in machine OEM end-markets in the Electrical Global business segment, and strength in commercial aftermarket and military aftermarket in the Aerospace business segment, partially offset by weakness in industrial end-markets in the Electrical Americas and Electrical Global business segments, weakness in the North American truck market in the Vehicle business segment, and weakness in the North American region in the eMobility business segment.
+30
+Table of Contents
+Gross Profit
+Gross profit margin decreased from 38.0% in the second quarter of 2024 to 37.0% in the second quarter of 2025. Material factors affecting this decrease were a 240 basis point decline from commodity and wage inflation, a 70 basis point decline from unfavorable product mix, a 50 basis point decline from higher acquisition and divestiture charges, and a 30 basis point decline from higher intangible asset amortization expense, partially offset by a 250 basis point increase from higher sales and a 100 basis point increase from operating efficiencies.
+Gross profit margin was flat at 37.6% in both the   first   six   months   of 2024 and 2025. Material factors affecting the gross profit margin were a 220 basis point increase from higher sales and a 110 basis point increase from operating efficiencies, partially offset by a 210 basis point decline from higher wage and commodity inflation, a 70 basis point decline from unfavorable product mix, and a 20 basis point decline from higher acquisition and divestiture charges.
+Income Taxes
+The effective income tax rate for the second quarter of 2025 was expense of 17.2% compared to expense of 16.8% for the second quarter of 2024. The effective income tax rate for the first six months of 2025 was expense of 17.6% compared to expense of 17.3% for the first six months of 2024. The increase in the effective tax rate in the second quarter and first six months of 2025 was primarily due to greater levels of income in higher tax jurisdictions.
+Net Income
+Changes in Net income attributable to Eaton ordinary shareholders and Net income per share attributable to Eaton ordinary shareholders - diluted are summarized as follows:
+Three months ended     Six months ended
+(In millions except for per share data)    Dollars     Per share     Dollars     Per share
+June 30, 2024
+$    993       $    2.48       $    1,814       $    4.52
+Business segment results of operations
+Operational performance    135       0.35       255       0.65
+Foreign currency    14       0.03       17       0.04
+Corporate
+Intangible asset amortization expense    (18)      (0.05)      (18)      (0.05)
+Restructuring program charges    (6)      (0.02)      28       0.07
+Acquisition and divestiture charges    (46)      (0.12)      (41)      (0.11)
+Other corporate items    (81)      (0.20)      (102)      (0.25)
+Tax rate impact    (10)      (0.02)      (8)      (0.02)
+Impact of shares    —       0.06       —       0.11
+June 30, 2025
+$    982       $    2.51       $    1,945       $    4.96
+31
+Table of Contents
+Business Segment Results of Operations
+The following is a discussion of Net sales, operating profit (loss) and operating margin by business segment. Additionally, the Company uses the following metrics as indicators of customer demand and future revenue expectations in the Electrical Americas, Electrical Global, and Aerospace business segments. The Company believes these metrics are useful to investors for the same reasons.
+•  Backlog: Includes orders to which customers are firmly committed
+•  Organic change in backlog: Percentage change in backlog, excluding (1) the impact of foreign currency, (2) divestitures, and (3) firm orders in place prior to closing of business acquisitions
+•  Organic change in customer orders: Percentage change in firm customer orders on a trailing twelve month basis, excluding (1) the impact of foreign currency, (2) divestitures, and (3) firm orders in place prior to closing of business acquisitions
+•  Book-to-bill: Average of the ratio of firm customer orders to Net sales for the last four quarters
+Electrical Americas
+Three months ended
+June 30     Increase (decrease)     Six months ended
+June 30     Increase (decrease)
+($ in millions)    2025     2024      2025     2024
+Net sales    $    3,350       $    2,877       16     %     $    6,360       $    5,567       14     %
+Operating profit    $    987       $    859       15     %     $    1,891       $    1,644       15     %
+Operating margin    29.5     %     29.9     %           29.7     %     29.5     %
+Changes in Net sales:
+Organic growth        12     %         12     %
+Acquisitions of businesses
+5     %         3     %
+Foreign currency        (1)    %         (1)    %
+Total increase in Net sales        16     %         14     %
+Change from June 30
+Performance metrics:          June 30, 2025     June 30, 2024     2025 vs. 2024     2024 vs. 2023
+Backlog          $    11,377       $    9,698       17     %     28     %
+Organic change in backlog              6     %     29     %
+Organic change in customer orders              2     %     11     %
+Book-to-bill          1.1     1.2
+The increase in organic sales in the second quarter of 2025 was due to strength in data center and commercial & institutional end-markets, partially offset by weakness in industrial end-markets. The increase in organic sales in the   first   six   months   of 2025 was due to strength in data center and utility end-markets, partially offset by weakness in industrial end-markets.
+The operating margin decreased from 29.9% in the second quarter of 2024 to 29.5% in the second quarter of 2025. Material factors affecting this decrease were a 380 basis point decline from higher commodity and wage inflation and a 120 basis point decline from higher costs to support growth initiatives, partially offset by a 340 basis point increase from higher sales and a 100 basis point increase from operating efficiencies. The operating margin increased from 29.5% in the   first   six   months   of 2024 to 29.7% in the   first   six   months   of 2025. Material factors affecting this increase were a 350 basis point increase from higher sales and a 100 basis point increase from operating efficiencies, partially offset by a 290 basis point decline from higher commodity and wage inflation and a 90 basis point decline from higher costs to support growth initiatives.
+Strong demand signals continue to underpin our data center market outlook. One hyperscaler customer has paused or slowed some early-stage data center projects, while also making significant investments.
+32
+Table of Contents
+Electrical Global
+Three months ended
+June 30     Increase (decrease)     Six months ended
+June 30     Increase (decrease)
+($ in millions)    2025     2024      2025     2024
+Net sales    $    1,753       $    1,606       9     %     $    3,362       $    3,105       8     %
+Operating profit    $    353       $    305       16     %     $    653       $    578       13     %
+Operating margin    20.1     %     19.0     %           19.4     %     18.6     %
+Changes in Net sales:
+Organic growth        7     %         8     %
+Foreign currency        2     %         —     %
+Total increase in Net sales        9     %         8     %
+Change from June 30
+Performance metrics:    June 30, 2025     June 30, 2024     2025 vs. 2024     2024 vs. 2023
+Backlog    $    1,771       $    1,751       1     %     15     %
+Organic change in backlog        (3)    %     16     %
+Organic change in customer orders        (1)    %     7     %
+Book-to-bill    1.0     1.1
+The increase in organic sales in the second quarter of 2025 was due to strength in data center, machine OEM, and residential end-markets, partially offset by weakness in industrial end markets. The increase in organic sales in the   first   six   months   of 2025 was due to strength in data center and machine OEM end-markets, partially offset by weakness in industrial end markets. Additionally, the increase in organic sales in the second quarter   and first   six   months   of 2025 was due to strength in the European and Asia Pacific regions.
+The operating margin increased from 19.0% in the second quarter of 2024 to 20.1% in the second quarter of 2025. Material factors affecting this increase were a 230 basis point increase from higher sales and a 210 basis point increase from operating efficiencies, partially offset by a 170 basis point decline from unfavorable product mix and a 160 basis point decline from higher commodity and wage inflation. The operating margin increased from 18.6% in the   first   six   months   of 2024 to 19.4% in the   first   six   months   of 2025. Material factors affecting this increase were a 210 basis point increase from higher sales and a 190 basis point increase from operating efficiencies, partially offset by a 190 basis point decline from higher commodity and wage inflation and a 130 basis point decline from unfavorable product mix.
+Strong demand signals continue to underpin our data center market outlook. One hyperscaler customer has paused or slowed some early-stage data center projects, while also making significant investments.
+33
+Table of Contents
+Aerospace
+Three months ended
+June 30     Increase (decrease)     Six months ended
+June 30     Increase (decrease)
+($ in millions)    2025     2024      2025     2024
+Net sales    $    1,080       $    955       13     %     $    2,059       $    1,826       13     %
+Operating profit    $    240       $    206       17     %     $    466       $    407       14     %
+Operating margin    22.2     %     21.5     %           22.6     %     22.3     %
+Changes in Net sales:
+Organic growth        11     %         12     %
+Foreign currency        2     %         1     %
+Total increase in Net sales        13     %         13     %
+Change from June 30
+Performance metrics:     June 30, 2025     June 30, 2024     2025 vs. 2024     2024 vs. 2023
+Backlog     $    4,025       $    3,463       16     %     14     %
+Organic change in backlog         14     %     14     %
+Organic change in customer orders         10     %     4     %
+Book-to-bill     1.1     1.1
+The increase in organic sales in the second quarter   and first   six   months   of 2025 was due to broad-based strength across all markets, with particular strength in commercial aftermarket and military aftermarket.
+The operating margin increased from 21.5% in second quarter of 2024 to 22.2% in second quarter of 2025. Material factors affecting this increase were a 500 basis point increase from higher sales, partially offset by a 240 basis point decline from higher commodity and wage inflation, a 110 basis point decline from unfavorable product mix, and a 60 basis point decline from higher costs to support growth initiatives. The operating margin increased from 22.3% in the   first   six   months   of 2024 to 22.6% in the   first   six   months   of 2025. Material factors affecting this increase were a 480 basis point increase from higher sales, partially offset by a 220 basis point decline from higher commodity and wage inflation, a 120 basis point decline due to the sale of a production facility in the first quarter of 2024, and a 80 basis point decline from higher costs to support growth initiatives.
+34
+Table of Contents
+Vehicle
+Three months ended
+June 30     Increase (decrease)     Six months ended
+June 30     Increase (decrease)
+(In millions)    2025     2024      2025     2024
+Net sales    $    663       $    723       (8)    %     $    1,280       $    1,447       (12)    %
+Operating profit    $    113       $    130       (13)    %     $    209       $    246       (15)    %
+Operating margin    17.0     %     18.0     %           16.3     %     17.0     %
+Changes in Net sales:
+Organic growth        (8)    %         (10)    %
+Foreign currency        —     %         (2)    %
+Total decrease in Net sales        (8)    %         (12)    %
+The decrease in organic sales in the second quarter   and first   six   months   of 2025 was due to weakness in the North American truck market.
+The operating margin decreased from 18.0% in the second quarter of 2024 to 17.0% in the second quarter of 2025. Material factors affecting this decrease were a 260 basis point decline due to the sale of a non-production facility in the second quarter of 2024 and a 120 basis point decline from higher commodity and wage inflation, partially offset by a 240 basis point increase from operating efficiencies. The operating margin decreased from 17.0% in the   first   six   months   of 2024 to 16.3% in the   first   six   months   of 2025. Material factors affecting this decrease were a 170 basis point decline from higher commodity and wage inflation, a 130 basis point decline due to the sale of a non-production facility in the second quarter of 2024 and a 60 basis point decline from lower sales, partially offset by a 280 basis point increase from operating efficiencies.
+eMobility
+Three months ended
+June 30     Increase (decrease)     Six months ended
+June 30     Increase (decrease)
+(In millions)    2025     2024      2025     2024
+Net sales    $    182       $    189       (4)    %     $    343       $    348       (1)    %
+Operating profit (loss)    $    (10)      $    2       (600)    %     $    (15)      $    (2)      (650)    %
+Operating margin    (5.8)    %     1.3     %           (4.3)    %     (0.6)    %
+Changes in Net sales:
+Organic growth        (7)    %         (2)    %
+Foreign currency        3     %         1     %
+Total increase in Net sales        (4)    %         (1)    %
+The decrease in organic sales in the in the second quarter   and first   six   months   of 2025 was due to weakness in the North American region, partially offset by strength in the European region.
+The operating margin decreased from 1.3% in the second quarter of 2024 to negative 5.8% in the second quarter of 2025. Material factors affecting this decrease were a 500 basis point decline from the sale of non-production facilities in the second quarter of 2024, a 440 basis point decline from higher commodity inflation, and a 320 basis point decline from operating inefficiencies, partially offset by a 520 basis point increase from favorable product mix. The operating margin decreased from negative 0.6% in the   first   six   months   of 2024 to negative 4.3% in the   first   six   months   of 2025. Material factors affecting this decrease were a 440 basis point decline from higher commodity inflation and a 420 basis point decline from the sale of non-production facilities in the second quarter of 2024, partially offset by a 370 basis point increase from favorable product mix.
+35
+Table of Contents
+Corporate Expense
+Three months ended
+June 30     Increase (decrease)     Six months ended
+June 30     Increase (decrease)
+(In millions)    2025     2024      2025     2024
+Intangible asset amortization expense    $    129       $    106       22     %     $    235       $    212       11     %
+Interest expense - net    71       29       145     %     103       59       75     %
+Pension and other postretirement benefits income    (5)      (9)      (44)    %     (10)      (20)      (50)    %
+Restructuring program charges    24       15       60     %     42       78       (46)    %
+Other expense - net    277       166       67     %     471       349       35     %
+Total corporate expense    $    496       $    307       62     %     $    841       $    678       24     %
+Total corporate expense increased from $307 million in the second quarter of 2024 to $496 million in the second quarter of 2025. Material factors affecting this increase were higher Other expense - net, Interest expense - net, and Intangible asset amortization expense. The increase in Other expense - net is primarily due to higher acquisition and divestiture costs. Total corporate expense increased from $678 million in the   first   six   months   of 2024 to $841 million in the   first   six   months   of 2025. Material factors affecting this increase were higher Other expense - net and Interest expense - net. The increase in Other expense - net is primarily due to higher acquisition and divestiture costs.
+36
+Table of Contents
+LIQUIDITY, CAPITAL RESOURCES, AND FINANCIAL CONDITION
+Liquidity and Financial Condition
+Eaton’s objective is to finance its business through operating cash flow and an appropriate mix of equity and long-term and short-term debt. By diversifying its debt maturity structure, Eaton reduces liquidity risk.
+On May 9, 2025, a subsidiary of Eaton issued Euro denominated notes (2025 Euro Notes) with a face amount of €500 million ($564 million). The 2025 Euro Notes mature in 2035 with interest payable annually at a rate of 3.625% per annum. The issuer received proceeds totaling €494 million ($558 million) from the 2025 Euro Notes issuance, net of financing costs and discounts. The 2025 Euro Notes are fully and unconditionally guaranteed on an unsubordinated, unsecured basis by Eaton and certain of its direct and indirect subsidiaries. The 2025 Euro Notes contain customary optional redemption and par call provisions. The 2025 Euro Notes also contain a change of control provision which requires the Company to make an offer to purchase all or any part of the 2025 Euro Notes at a purchase price of 101% of the principal amount plus accrued and unpaid interest. The capitalized deferred financing fees are amortized in Interest expense - net over the term of the 2025 Euro Notes. The 2025 Euro Notes are subject to customary non-financial covenants.
+Also on May 9, 2025, the same subsidiary of Eaton issued senior notes (2025 Notes) with a face amount of $500 million. The 2025 Notes mature in 2030 with interest payable semi-annually at a rate of 4.45% per annum. The issuer received proceeds totaling $495 million from the 2025 Notes issuance, net of financing costs and discounts. The 2025 Notes are fully and unconditionally guaranteed on an unsubordinated, unsecured basis by Eaton and certain of its direct and indirect subsidiaries. The 2025 Notes contain customary optional redemption and par call provisions. The 2025 Notes also contain a change of control provision which requires the Company to make an offer to purchase all or any part of the 2025 Notes at a purchase price of 101% of the principal amount plus accrued and unpaid interest. The capitalized deferred financing fees are amortized in Interest expense - net over the term of the 2025 Notes. The 2025 Notes are subject to customary non-financial covenants.
+The Company maintains revolving credit facilities consisting of a $500 million 364-day revolving credit facility that will expire on September 29, 2025 and a $2,500 million five-year revolving credit facility that will expire on October 1, 2027. The revolving credit facilities totaling $3,000 million are used to support commercial paper borrowings and are fully and unconditionally guaranteed by Eaton and certain of its direct and indirect subsidiaries on an unsubordinated, unsecured basis. There were no borrowings outstanding under Eaton’s revolving credit facilities at June 30, 2025. The Company maintains access to the commercial paper markets through its $3,000 million commercial paper program, of which $1,110 million was outstanding on June 30, 2025, used primarily to manage fluctuations in working capital.
+Over the course of a year, cash, short-term investments, and short-term debt may fluctuate in order to manage global liquidity. As of June 30, 2025 and December 31, 2024, Eaton had cash of $398 million and $555 million, short-term investments of $186 million and $1,525 million, respectively, with $1,111 million short-term debt as of June 30, 2025 and no short-term debt as of December 31, 2024. Eaton believes it has the operating flexibility, cash flow, cash and short-term investment balances, availability under existing revolving credit facilities, and access to capital markets in excess of the liquidity necessary to meet future operating needs of the business, fund capital expenditures and acquisitions of businesses, as well as scheduled payments of long-term debt.
+On April 1, 2025, the Company paid $1.45 billion, net of cash acquired, to acquire Fibrebond Corporation.
+Eaton was in compliance with each of its debt covenants for all periods presented.
+37
+Table of Contents
+Cash Flows
+A summary of cash flows is as follows:
+Six months ended
+June 30     Change
+from 2024
+(In millions)    2025       2024
+Net cash provided by operating activities    $    1,156         $    1,421       $    (265)
+Net cash used in investing activities    (490)        (511)      21
+Net cash used in financing activities    (697)        (839)      142
+Effect of currency on cash    (126)        (20)      (106)
+Total increase (decrease) in cash    $    (157)        $    52
+Operating Cash Flow
+Net cash provided by operating activities decreased by $265 million in the   first   six   months   of 2025 compared to 2024. Material factors affecting this decrease were higher working capital balances of $613 million, partially offset by higher net income of $131 million.
+Investing Cash Flow
+Net cash used in investing activities decreased by $21 million in the   first   six   months   of 2025 compared to 2024. Material factors affecting this decrease were sales of short-term investments of $1,343 million in 2025 compared to purchases of short-term investments of $126 million in 2024, partially offset by cash paid for business acquisitions of $1,450 million in 2025 compared to $51 million in 2024.
+Financing Cash Flow
+Net cash used in financing activities decreased by $142 million in the   first   six   months   of 2025 compared to 2024. Material factors affecting this decrease were net proceeds of short-term debt of $1,111 million in 2025 compared to net payments of short-term debt of $4 million in 2024, partially offset by an increase in repurchase of shares to $1,307 million in 2025 from $738 million in 2024 and an increase in payments on borrowings to $713 million in 2025 from $399 million in 2024.
+38
+Table of Contents
+Uses of Cash
+Capital Expenditures
+Capital expenditures were $349 million and $370 million in the   first   six   months   of 2025 and 2024, respectively. The Company plans to increase capital expenditures over the next several years to expand production capacity across various markets to support anticipated growth. As a result, Eaton expects approximately $900 million in capital expenditures in 2025.
+Dividends
+Cash dividend payments were $818 million and $756 million in the   first   six   months   of 2025 and 2024, respectively. Payment of quarterly dividends in the future depends upon the Company’s ability to generate net income and operating cash flows, among other factors, and is subject to declaration by the Eaton Board of Directors. The Company intends to continue to pay quarterly dividends in 2025.
+Share Repurchases
+On February 23, 2022, the Board of Directors adopted a share repurchase program for repurchases of ordinary shares up to $5.0 billion to be made during the three-year period commencing on that date (2022 Program). On February 27, 2025, the Board of Directors renewed the 2022 Program by providing authority for up to $9.0 billion in repurchases to be made during the three-year period commencing on that date (2025 Program). Under the 2025 Program, the ordinary shares are expected to be repurchased over time, depending on market conditions, the market price of ordinary shares, capital levels, and other considerations. During the three and six months ended June 30, 2025, 2.3 million and 4.2 million ordinary shares, respectively, were repurchased under the 2025 or 2022 Programs in the open market at a total cost of $698 million and $1,306 million, respectively. During the three and six months ended June 30, 2024, 1.9 million and 2.3 million ordinary shares, respectively, were repurchased under the 2022 program in the open market at a total cost of $600 million and $738 million, respectively.
+Acquisition of Businesses and Investments in Associate Companies
+The Company paid cash of $1,450 million and $51 million to acquire businesses in the first six months of 2025 and 2024, respectively. The Company paid cash of $16 million and $68 million for investments in associate companies in the first six months of 2025 and 2024, respectively. The Company will continue to focus on deploying its capital toward businesses that provide opportunities for higher growth and strong returns, and align with secular trends and its power management strategies.
+Debt
+The Company manages a number of short-term and long-term debt instruments, including commercial paper. At June 30, 2025, the Company had Short-term debt of $1,111 million, Current portion of long-term debt of $1,134 million, and Long-term debt of $8,751 million. The Company believes it has the operating flexibility, cash flow, and access to capital markets to meet scheduled payments of long-term debt.
+Supply Chain Finance Program
+A third-party financial institution offers a voluntary supply chain finance (SCF) program that enables certain of the Company’s suppliers, at the supplier’s sole discretion, to sell receivables due from the Company to the financial institution on terms directly negotiated with the financial institution. The SCF program does not have a significant impact on the Company’s liquidity as payments by the Company to participating suppliers are paid to the financial institution on the invoice due date, regardless of whether an individual invoice is sold by the supplier to the financial institution. For additional information on the SCF program, see Note 7.
+39
+Table of Contents
+Guaranteed Debt
+Issuers, Guarantors and Guarantor Structure
+Eaton Corporation has issued senior notes pursuant to indentures dated April 1, 1994 (the 1994 Indenture), November 20, 2012 (the 2012 Indenture), September 15, 2017 (the 2017 Indenture), and August 23, 2022 (as supplemented by the First and Second Supplemental Indentures of the same date and the Third Supplemental Indenture dated May 18, 2023, the 2022 Indenture). Eaton Capital Unlimited Company, a subsidiary of Eaton, is the issuer of four outstanding series of debt securities sold in offshore transactions under Regulation S promulgated under the Securities Act (the Eurobonds) and Registered Senior Notes (as defined below) issued under an indenture dated May 9, 2025 (as supplemented by the First and Second Supplemental Indentures of the same date, the 2025 Indenture). The senior notes issued under the 1994, 2012, 2017, 2022, and 2025 Indentures are registered under the Securities Act of 1933, as amended (the Registered Senior Notes). The Eurobonds and the Registered Senior Notes (together, the Senior Notes) comprise substantially all of Eaton’s long-term indebtedness.
+Substantially all of the Senior Notes (with limited exceptions), together with the credit facilities described above under Liquidity and Financial Condition (the Credit Facilities), are guaranteed by Eaton and 17 of its subsidiaries. Accordingly, they rank equally with each other. However, because these obligations are not secured, they would be effectively subordinated to any existing or future secured indebtedness of Eaton and its subsidiaries. As of June 30, 2025, Eaton has no material, long-term secured debt. The guaranteed Registered Senior Notes are also structurally subordinated to the liabilities of Eaton's subsidiaries that are not guarantors. Except as described below under Future Guarantors, Eaton is not obligated to cause its subsidiaries to guarantee the Registered Senior Notes.
+The table set forth in Exhibit 22 filed with this Form 10-Q details the primary obligors and guarantors with respect to the guaranteed Registered Senior Notes.
+Terms of Guarantees of Registered Securities
+Payment of principal and interest on the Registered Senior Notes is guaranteed, on an unsecured, unsubordinated basis by the subsidiaries of Eaton set forth in the table referenced in the 10-K Exhibit 22. Each guarantee is full and unconditional, and joint and several. Each guarantor’s guarantee is an unsecured obligation that ranks equally with all its other unsecured and unsubordinated indebtedness. The obligations of each guarantor under its guarantee of the Registered Senior Notes are subject to a customary savings clause or similar provision designed to prevent such guarantee from constituting a fraudulent conveyance or otherwise legally impermissible or voidable obligation.
+Though the terms of the indentures vary slightly, generally, each guarantee of the Registered Senior Notes by a guarantor that is a subsidiary of Eaton Corporation provides that it will be automatically and unconditionally released and discharged under certain circumstances, including, but not limited to:
+(a)  the consummation of certain types of transactions permitted under the applicable indenture, including one that results in such guarantor ceasing to be a subsidiary; and
+(b)  for Registered Senior Notes issued under the 2022 and 2025 Indentures, when such guarantor is a guarantor or issuer of indebtedness in an aggregate outstanding principal amount of less than 25% of our total outstanding indebtedness.
+Further, each guarantee by a direct or indirect parent of Eaton Corporation (other than Eaton) provides that it will also be released if:
+(c)  such guarantee (so long as the guarantor is not obligated under any other U.S. debt obligations), becomes prohibited by any applicable law, rule or regulation or by any contractual obligation; or
+(d)  such guarantee results in material adverse tax consequences to Eaton or any of its subsidiaries (so long as the applicable guarantor is not obligated under any other U.S. debt obligation).
+The guarantee of Eaton does not contain any release provisions.
+Future Guarantors
+The 2012 and 2017 Indentures generally provide that, with certain limited exceptions, any subsidiary of Eaton must become a guarantor if it becomes obligated as borrower or guarantor under any series of debt securities or a syndicated credit facility. Further, the 2012 and 2017 Indentures provide that any entity that becomes a direct or indirect parent entity of Eaton Corporation and holds any material assets, with certain limited exceptions, or owes any material liabilities must become a guarantor. The 2022 and 2025 Indentures provide only that, with certain limited exceptions, any subsidiary of Eaton must become a guarantor if it becomes obligated as borrower or guarantor under indebtedness with an aggregate outstanding principal amount in excess of 25% of the Parent and its Subsidiaries’ then-outstanding indebtedness.
+The 1994 Indenture does not contain provisions with respect to future guarantors.
+40
+Table of Contents
+Summarized Financial Information of Guarantors and Issuers
+(In millions)    June 30, 2025     December 31, 2024
+Current assets    $    3,942       $    5,027
+Noncurrent assets    13,222       13,225
+Current liabilities    5,198       3,738
+Noncurrent liabilities    10,714       10,564
+Amounts due to subsidiaries that are non-issuers and non-guarantors - net    9,358       10,334
+(In millions)      Six months ended
+June 30, 2025
+Net sales      $    7,949
+Sales to subsidiaries that are non-issuers and non-guarantors      489
+Cost of products sold      5,629
+Expense from subsidiaries that are non-issuers and non-guarantors - net      370
+Net income      594
+The financial information presented is that of the issuers and the guarantors, which includes Eaton Corporation plc, on a combined basis and the financial information of non-issuer and non-guarantor subsidiaries has been excluded. Intercompany balances and transactions between the issuers and guarantors have been eliminated, and amounts due from, amounts due to, and transactions with non-issuer and non-guarantor subsidiaries have been presented separately.
+FORWARD-LOOKING STATEMENTS
+This Form 10-Q Report contains forward-looking statements concerning litigation, expected capital expenditures, future dividend payments, anticipated share repurchases, liquidity, the anticipated closing of acquisitions, anticipated capital deployment, data center market demand, and expected restructuring program charges and benefits. These statements may discuss goals, intentions and expectations as to future trends, plans, events, results of operations or financial condition, or state other information relating to Eaton, based on current beliefs of management as well as assumptions made by, and information currently available to, management. Forward-looking statements generally will be accompanied by words such as “anticipate,” “believe,” “could,” “estimate,” “expect,” “forecast,” “guidance,” “intend,” “may,” “possible,” “potential,” “predict,” “project” or other similar words, phrases or expressions. These statements should be used with caution and are subject to various risks and uncertainties, many of which are outside Eaton’s control. The following factors could cause actual results to differ materially from those in the forward-looking statements: global pandemics; unanticipated changes in the markets for the Company’s business segments; unanticipated downturns in business relationships with customers or their purchases from us; the availability of credit to customers and suppliers; supply chain disruptions, competitive pressures on sales and pricing; unanticipated changes in the cost of material, labor and other production costs, or unexpected costs that cannot be recouped in product pricing; the introduction of disruptive or competing technologies; unexpected technical or marketing difficulties; unexpected or adverse determinations with respect to claims, charges, audits, investigations, court or administrative proceedings, litigation, arbitrations, judgements, or dispute resolutions; strikes or other labor unrest at Eaton or at our customers or suppliers; the impact of acquisitions and divestitures unanticipated difficulties integrating acquisitions; the effect, interpretation, or application of new or existing laws, regulations, legal proceedings or accounting pronouncements, tariffs and governmental regulations; interest rate changes; tax rate changes or exposure to additional income tax liability; stock market and currency fluctuations; war, geopolitical tensions, natural disasters, civil or political unrest or terrorism; and unanticipated deterioration of economic and financial conditions in the United States and around the world. Eaton does not assume any obligation to update these forward-looking statements.
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+There have been no material changes in exposures to market risk since December 31, 2024.
+41
+Table of Contents
+ITEM 4.  CONTROLS AND   PROCEDURES.
+Evaluation of Disclosure Controls and Procedures - Pursuant to SEC Rule 13a-15, an evaluation was performed under the supervision and with the participation of Eaton’s management, including Paulo Ruiz - Principal Executive Officer; and Olivier Leonetti - Principal Financial Officer, of the effectiveness of the design and operation of the Company's disclosure controls and procedures. Based on that evaluation, management concluded that Eaton’s disclosure controls and procedures were effective as of June 30, 2025.
+Disclosure controls and procedures are designed to ensure that information required to be disclosed in Eaton’s reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in Eaton’s reports filed under the Exchange Act is accumulated and communicated to management, including Eaton’s Principal Executive Officer and Principal Financial Officer, to allow timely decisions regarding required disclosure.
+During the second quarter of 2025, there was no change in Eaton’s internal control over financial reporting that materially affected, or is reasonably likely to materially affect, internal control over financial reporting. Management is currently evaluating the impact of businesses acquired in the past twelve months on Eaton's internal control over financial reporting.
+PART II — OTHER INFORMATION
+ITEM 1.  LEGAL PROCEEDINGS.
+Information regarding the Company's current legal proceedings is presented in Note 10 of the Notes to the condensed consolidated financial statements.
+ITEM 1A.  RISK FACTORS.
+“Item 1A. Risk Factors” in Eaton's 2024 Form 10-K includes a discussion of the Company's risk factors. There have been no material changes from the risk factors described in the 2024 Form 10-K.
+ITEM 2.  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS.
+(c) Issuer's Purchases of Equity Securities
+During the second quarter of 2025, 2.3 million ordinary shares were repurchased in the open market at a total cost of $698 million. These shares were repurchased under the programs approved by the Board of Directors on February 27, 2025 (the 2025 Program) and February 23, 2022 (the 2022 Program). A summary of the shares repurchased in the second quarter of 2025 is as follows:
+Month     Total number
+of shares
+purchased     Average
+price paid
+per share     Total number of
+shares purchased as
+part of publicly
+announced
+plans or programs     Approximate dollar value of shares that may yet be purchased under the plans or programs (in millions)
+April     529,612       $    271.38       529,612       $    8,699
+May     1,356,649       $    307.41       1,356,649       $    8,282
+June     411,777       $    333.51       411,777       $    8,145
+Total     2,298,038       $    303.79       2,298,038
+ITEM 5.    OTHER INFORMATION.
+During the three months ended June 30, 2025, no director or officer of the Company   adopted  , amended or   terminated   a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+42
+Table of Contents
+ITEM 6.  EXHIBITS.
+Eaton Corporation plc
+Second Quarter 2025 Report on Form 10-Q
+3 (i)
+Certificate of Incorporation — Incorporated by reference to the Form S-8 filed November 30, 2012
+3 (ii)
+Amended and Restated Memorandum and Articles of Incorporation — Incorporated by reference to the Form 8-K filed on May 1, 2017
+4.1
+Description of Eaton Corporation plc’s Securities registered pursuant to Section 12 of the Securities Exchange Act of 1934 (incorporated by reference to Exhibit 4.1 of the registrant's Form 10-K filed on February 26, 2020)
+4.2
+Indenture dated as of November 20, 2012, among Turlock Corporation, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as trustee (incorporated by reference to Exhibit 4.1 of Eaton Corporation plc's Form 8-K Current Report filed on November 26, 2012 (Commission File No. 333-182303))
+4.3
+Supplemental Indenture No. 1, dated as of November 30, 2012, among Eaton Corporation, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as trustee (incorporated by reference to Exhibit 4.2 of the registrant's Form S-4 filed on September 6, 2013)
+4.4
+Supplemental Indenture No. 2, dated as of January 8, 2013, among Eaton Corporation, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as trustee (incorporated by reference   to   Exhibit 4.3 of the registrant's Form S-4 filed on September 6, 2013)
+4.5
+Supplemental Indenture No. 3, dated as of December 20, 2013, among Eaton Corporation, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as trustee (incorporated by reference   to   Exhibit 4.4 of the registrant's Form 10-K filed on February 28, 2018)
+4.6
+Supplemental Indenture No. 4, dated as of December 20, 2017 and effective as of January 1, 2018, among Eaton Corporation, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as trustee (incorporated by reference   to   Exhibit 4.5 of the registrant's Form 10-K filed on February 28, 2018)
+4.7
+Supplemental Indenture No. 5, dated as of February 16, 2018, among Eaton Corporation, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as trustee (incorporated by reference   to   Exhibit 4.6 of the registrant's Form 10-K filed on February 28, 2018)
+4.8
+Indenture dated as of August 23, 2022, among Eaton Corporation, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as Trustee
+4.9
+First Supplemental Indenture dated as of August 23, 2022, among Eaton Corporation, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as Trustee
+4.10
+Second Supplemental Indenture dated as of August 23, 2022, among Eaton Corporation, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as Trustee
+4.11
+Indenture dated as of May 9, 2025, among Eaton Capital Unlimited Company, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as Trustee (incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K filed on May 9, 2025)
+4.12
+First Supplemental Indenture dated as of May 9, 2025, among Eaton Capital Unlimited Company, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as Trustee (incorporated by reference to Exhibit 4.2 to the Current Report on Form 8-K filed on May 9, 2025)
+4.13
+Second Supplemental Indenture dated as of May 9, 2025, among Eaton Capital Unlimited Company, the guarantors named therein and The Bank of New York Mellon Trust Company, N.A., as Trustee (incorporated by reference to Exhibit 4.3 to the Current Report on Form 8-K filed on May 9, 2025)
+4.14     Pursuant to Regulation S-K Item 601(b)(4), Eaton agrees to furnish to the SEC, upon request, a copy of the instruments defining the rights of holders of its long-term debt other than those set forth in Exhibits (4.2 - 4.13) hereto
+10.1
+5-Year Revolving Credit Agreement, dated as of October 3, 2022, among Eaton Corporation, the guarantors from time to time party thereto, the several lenders from time to time parties thereto, Citibank, N.A., as Administrative Agent, Citibank, N.A., JPMorgan Chase Bank, N.A. and BofA Securities, Inc. as joint lead arrangers and joint bookrunners, JPMorgan Chase Bank, N.A., as syndication agent and Bank of America, N.A. as documentation agent - Incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K filed on October 7, 2022
+10.2
+364-Day Revolving Credit Agreement, dated as of September 30, 2024, among Eaton Corporation, the guarantors from time to time party thereto, the several lenders from time to time parties thereto, Citibank, N.A., as Administrative Agent, Citibank, N.A., JPMorgan Chase Bank, N.A. and BofA Securities, Inc., as joint lead arrangers and joint bookrunners, JPMorgan Chase Bank, N.A., as syndication agent and Bank of America, N.A. as documentation agent - Incorporated by reference to Exhibit 10.2 to the Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024
+43
+Table of Contents
+22
+T  able   of Senior Notes, Issuer and Guarantors   —     Filed in conju  n  ctio  n with this Form 10-Q Report *
+31.1
+Certification of Principal Executive Officer (Pursuant to Rule 13a-14(a)) — Filed in conjunction with this Form 10-Q Report *
+31.2
+Certification of Principal Financial Officer (Pursuant to Rule 13a-14(a)) — Filed in conjunction with this Form 10-Q Report *
+32.1
+Certification of Principal Executive Officer (Pursuant to Rule 13a-14(b) as adopted pursuant to Section 906 of the Sarbanes-Oxley Act) — Filed in conjunction with this Form 10-Q Report *
+32.2
+Certification of Principal Financial Officer (Pursuant to Rule 13a-14(b) as adopted pursuant to Section 906 of the Sarbanes-Oxley Act) — Filed in conjunction with this Form 10-Q Report *
+101.INS     XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. *
+101.SCH     XBRL Taxonomy Extension Schema Document *
+101.CAL     XBRL Taxonomy Extension Calculation Linkbase Document *
+101.DEF     XBRL Taxonomy Extension Label Definition Document *
+101.LAB     XBRL Taxonomy Extension Label Linkbase Document *
+101.PRE     XBRL Taxonomy Extension Presentation Linkbase Document *
+104     Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+_______________________________
+*     Submitted electronically herewith.
+44
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+EATON CORPORATION plc
+Registrant
+Date:    August 5, 2025    By:    /s/ Olivier Leonetti
+Olivier Leonetti
+Principal Financial Officer
+(On behalf of the registrant and as Principal Financial Officer)
+45

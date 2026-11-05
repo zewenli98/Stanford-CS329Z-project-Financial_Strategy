@@ -1,0 +1,1848 @@
+cop-20260331
+0001163165  12-31  2026  Q1  false  P7Y0M0D  P1Y        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      xbrli:pure    cop:affiliate    cop:award    utr:Bcf    iso4217:CAD      iso4217:USD    utr:Boe      cop:segment     0001163165    2026-01-01  2026-03-31      0001163165   us-gaap:CommonStockMember     2026-01-01  2026-03-31      0001163165   cop:SevenPercentDebenturesDueTwentyTwentyNineMember     2026-01-01  2026-03-31      0001163165    2026-03-31      0001163165    2025-01-01  2025-03-31      0001163165    2025-12-31      0001163165    2024-12-31      0001163165    2025-03-31      0001163165   cop:AustraliaPacificAplngMember     2026-03-31      0001163165   cop:PortArthurLNGMember     2026-03-31      0001163165   cop:QatarEnergyLNGN3Member     2026-03-31      0001163165   cop:QatarEnergyLNGN3Member  cop:QatarEnergyMember     2026-03-31      0001163165   cop:QatarEnergyLNGN3Member  cop:MitsuiCoLtdMember     2026-03-31      0001163165   cop:QatarEnergyLNGNFE4Member     2026-03-31      0001163165   cop:QatarEnergyLNGNFE4Member  cop:QatarEnergyMember     2026-03-31      0001163165   cop:QatarEnergyLNGNFE4Member  cop:ChinaNationalPetroleumCorporationMember     2026-03-31      0001163165   cop:QatarEnergyLNGNFS3Member     2026-03-31      0001163165   cop:QatarEnergyLNGNFS3Member  cop:QatarEnergyMember     2026-03-31      0001163165   cop:QatarLiquifiedGasCompanyMember     2026-03-31      0001163165   cop:A6875DebenturesDue2026Member  us-gaap:UnsecuredDebtMember     2026-03-31      0001163165   cop:VariableRateDebtBondsMember     2026-03-31      0001163165   cop:AustraliaPacificAplngMember  cop:FinanceReserveGuaranteeMember  srt:MinimumMember     2026-01-01  2026-03-31      0001163165   cop:AustraliaPacificAplngMember  cop:FinanceReserveGuaranteeMember  srt:MaximumMember     2026-01-01  2026-03-31      0001163165   cop:AustraliaPacificAplngMember  cop:FinanceReserveGuaranteeMember     2026-03-31      0001163165   cop:QatarEnergyLNGNFEAndQatarEnergyLNGNFS3Member  cop:JointVentureObligationGuaranteeMember     2026-01-01  2026-03-31      0001163165   cop:QatarEnergyLNGNFEAndQatarEnergyLNGNFS3Member  cop:JointVentureObligationGuaranteeMember     2026-03-31      0001163165   cop:EquatorialGuineaGuranteesMember  us-gaap:PaymentGuaranteeMember     2026-01-01  2026-03-31      0001163165   cop:EquatorialGuineaGuranteesMember  us-gaap:PaymentGuaranteeMember     2026-03-31      0001163165   cop:OtherGuaranteesMember     2026-03-31      0001163165   srt:MinimumMember  cop:OtherGuaranteesMember     2026-01-01  2026-03-31      0001163165   srt:MaximumMember  cop:OtherGuaranteesMember     2026-01-01  2026-03-31      0001163165   us-gaap:IndemnificationGuaranteeMember     2026-03-31      0001163165   cop:UnitedStatesAndCanadaMember  cop:CleanupRemediationActivitiesMember     2026-01-01  2026-03-31      0001163165   country:VE  cop:ConocoPhillipsVersusPetroleosDeVenezuelaMember     2019-03-01  2019-03-31      0001163165   country:VE  cop:ConocoPhillipsVersusPetroleosDeVenezuelaMember     2026-03-31      0001163165   country:VE  cop:ConocoPhillipsVersusPetroleosDeVenezuela2Member     2026-03-31      0001163165   country:VE  cop:ConocoPhillipsVersusPetroleosDeVenezuela2Member     2018-04-01  2018-04-30      0001163165   country:VE  cop:ConocoPhillipsVersusPetroleosDeVenezuela2Member     2019-08-02  2019-08-02      0001163165   cop:OuterContinentalShelfLeaseMember  cop:PhillipsPetroleumCompanyMember     2020-10-31      0001163165   cop:OuterContinentalShelfLeaseMember  cop:PhillipsPetroleumCompanyMember     2020-10-01  2020-10-31      0001163165   us-gaap:CommodityContractMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember     2026-03-31      0001163165   us-gaap:CommodityContractMember  us-gaap:PrepaidExpensesAndOtherCurrentAssetsMember     2025-12-31      0001163165   us-gaap:CommodityContractMember  us-gaap:OtherAssetsMember     2026-03-31      0001163165   us-gaap:CommodityContractMember  us-gaap:OtherAssetsMember     2025-12-31      0001163165   us-gaap:CommodityContractMember  cop:OtherAccrualsMember     2026-03-31      0001163165   us-gaap:CommodityContractMember  cop:OtherAccrualsMember     2025-12-31      0001163165   us-gaap:CommodityContractMember  us-gaap:OtherLiabilitiesMember     2026-03-31      0001163165   us-gaap:CommodityContractMember  us-gaap:OtherLiabilitiesMember     2025-12-31      0001163165   us-gaap:CommodityContractMember  us-gaap:SalesMember     2026-01-01  2026-03-31      0001163165   us-gaap:CommodityContractMember  us-gaap:SalesMember     2025-01-01  2025-03-31      0001163165   us-gaap:CommodityContractMember  us-gaap:OtherIncomeMember     2026-01-01  2026-03-31      0001163165   us-gaap:CommodityContractMember  us-gaap:OtherIncomeMember     2025-01-01  2025-03-31      0001163165   us-gaap:CommodityContractMember  us-gaap:CostOfSalesMember     2026-01-01  2026-03-31      0001163165   us-gaap:CommodityContractMember  us-gaap:CostOfSalesMember     2025-01-01  2025-03-31      0001163165   us-gaap:CommodityContractMember  cop:NaturalGasPowerAndCarbonDioxideEmissionsFlatPriceMember  us-gaap:ShortMember     2026-01-01  2026-03-31      0001163165   us-gaap:CommodityContractMember  cop:NaturalGasPowerAndCarbonDioxideEmissionsFlatPriceMember  us-gaap:ShortMember     2025-01-01  2025-09-30      0001163165   us-gaap:CommodityContractMember  cop:NaturalGasPowerAndCarbonDioxideEmissionsBasisMember  us-gaap:ShortMember     2026-01-01  2026-03-31      0001163165   us-gaap:CommodityContractMember  cop:NaturalGasPowerAndCarbonDioxideEmissionsBasisMember  us-gaap:ShortMember     2025-01-01  2025-09-30      0001163165    2023-12-31      0001163165   us-gaap:InterestRateSwapMember     2026-01-01  2026-03-31      0001163165   us-gaap:InterestRateSwapMember     2025-01-01  2025-03-31      0001163165   us-gaap:CashMember     2026-03-31      0001163165   us-gaap:CashMember     2025-12-31      0001163165   us-gaap:DemandDepositsMember     2026-03-31      0001163165   us-gaap:DemandDepositsMember     2025-12-31      0001163165   cop:RemainingMaturities1To90DaysMember  us-gaap:BankTimeDepositsMember     2026-03-31      0001163165   cop:RemainingMaturities1To90DaysMember  us-gaap:BankTimeDepositsMember     2025-12-31      0001163165   cop:RemainingMaturities91To180DaysMember  us-gaap:BankTimeDepositsMember     2026-03-31      0001163165   cop:RemainingMaturities91To180DaysMember  us-gaap:BankTimeDepositsMember     2025-12-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:BankTimeDepositsMember     2026-03-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:BankTimeDepositsMember     2025-12-31      0001163165   cop:RemainingMaturities1To90DaysMember  us-gaap:USGovernmentDebtSecuritiesMember     2026-03-31      0001163165   cop:RemainingMaturities1To90DaysMember  us-gaap:USGovernmentDebtSecuritiesMember     2025-12-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:CorporateDebtSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:CorporateDebtSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:CorporateDebtSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:CorporateDebtSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:CommercialPaperMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:CommercialPaperMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:USGovernmentDebtSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:USGovernmentDebtSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:USGovernmentDebtSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:USGovernmentDebtSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:ForeignGovernmentDebtMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:ForeignGovernmentDebtMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:ForeignGovernmentDebtMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:ForeignGovernmentDebtMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:AssetBackedSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:AssetBackedSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:AssetBackedSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:AssetBackedSecuritiesMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesWithinOneYearMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   cop:RemainingMaturitiesGreaterThanOneYearThroughEightYearsMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   srt:MinimumMember     2026-01-01  2026-03-31      0001163165   srt:MaximumMember     2026-01-01  2026-03-31      0001163165   us-gaap:CorporateDebtSecuritiesMember     2026-03-31      0001163165   us-gaap:CorporateDebtSecuritiesMember     2025-12-31      0001163165   us-gaap:CommercialPaperMember     2026-03-31      0001163165   us-gaap:CommercialPaperMember     2025-12-31      0001163165   us-gaap:USGovernmentDebtSecuritiesMember     2026-03-31      0001163165   us-gaap:USGovernmentDebtSecuritiesMember     2025-12-31      0001163165   us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember     2026-03-31      0001163165   us-gaap:USGovernmentCorporationsAndAgenciesSecuritiesMember     2025-12-31      0001163165   us-gaap:ForeignGovernmentDebtMember     2026-03-31      0001163165   us-gaap:ForeignGovernmentDebtMember     2025-12-31      0001163165   us-gaap:AssetBackedSecuritiesMember     2026-03-31      0001163165   us-gaap:AssetBackedSecuritiesMember     2025-12-31      0001163165   cop:InEventOfDowngradeBelowInvestmentGradeMember     2026-03-31      0001163165   cop:SurmontMember     2023-10-31      0001163165   cop:SurmontMember     2023-10-01  2023-10-31      0001163165   us-gaap:FairValueInputsLevel1Member     2026-03-31      0001163165   us-gaap:FairValueInputsLevel2Member     2026-03-31      0001163165   us-gaap:FairValueInputsLevel3Member     2026-03-31      0001163165   us-gaap:FairValueInputsLevel1Member     2025-12-31      0001163165   us-gaap:FairValueInputsLevel2Member     2025-12-31      0001163165   us-gaap:FairValueInputsLevel3Member     2025-12-31      0001163165   cop:SurmontMember     2026-01-01  2026-03-31      0001163165   cop:SurmontMember     2023-10-01  2026-03-31      0001163165   us-gaap:FairValueInputsLevel3Member  us-gaap:ValuationTechniqueDiscountedCashFlowMember  srt:MinimumMember  cop:MeasurementInputCommodityPriceOutlookMember     2026-03-31      0001163165   us-gaap:FairValueInputsLevel3Member  us-gaap:ValuationTechniqueDiscountedCashFlowMember  srt:MaximumMember  cop:MeasurementInputCommodityPriceOutlookMember     2026-03-31      0001163165   us-gaap:FairValueInputsLevel3Member  us-gaap:ValuationTechniqueDiscountedCashFlowMember  srt:ArithmeticAverageMember  cop:MeasurementInputCommodityPriceOutlookMember     2026-03-31      0001163165   us-gaap:FairValueInputsLevel3Member  us-gaap:ValuationTechniqueDiscountedCashFlowMember  srt:MinimumMember  cop:MeasurementInputCommodityPriceOutlookMember     2025-12-31      0001163165   us-gaap:FairValueInputsLevel3Member  us-gaap:ValuationTechniqueDiscountedCashFlowMember  srt:MaximumMember  cop:MeasurementInputCommodityPriceOutlookMember     2025-12-31      0001163165   us-gaap:FairValueInputsLevel3Member  us-gaap:ValuationTechniqueDiscountedCashFlowMember  srt:ArithmeticAverageMember  cop:MeasurementInputCommodityPriceOutlookMember     2025-12-31      0001163165   us-gaap:CommodityContractMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   us-gaap:CommodityContractMember  us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   us-gaap:CommodityContractMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2026-03-31      0001163165   us-gaap:CommodityContractMember  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-12-31      0001163165   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0001163165   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0001163165   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2026-03-31      0001163165   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-12-31      0001163165   us-gaap:CommonStockMember     2025-12-31      0001163165   us-gaap:AdditionalPaidInCapitalMember     2025-12-31      0001163165   us-gaap:TreasuryStockCommonMember     2025-12-31      0001163165   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-12-31      0001163165   us-gaap:RetainedEarningsMember     2025-12-31      0001163165   us-gaap:RetainedEarningsMember     2026-01-01  2026-03-31      0001163165   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-01  2026-03-31      0001163165   us-gaap:TreasuryStockCommonMember     2026-01-01  2026-03-31      0001163165   us-gaap:AdditionalPaidInCapitalMember     2026-01-01  2026-03-31      0001163165   us-gaap:CommonStockMember     2026-03-31      0001163165   us-gaap:AdditionalPaidInCapitalMember     2026-03-31      0001163165   us-gaap:TreasuryStockCommonMember     2026-03-31      0001163165   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-03-31      0001163165   us-gaap:RetainedEarningsMember     2026-03-31      0001163165   us-gaap:CommonStockMember     2024-12-31      0001163165   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0001163165   us-gaap:TreasuryStockCommonMember     2024-12-31      0001163165   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0001163165   us-gaap:RetainedEarningsMember     2024-12-31      0001163165   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-31      0001163165   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-03-31      0001163165   us-gaap:TreasuryStockCommonMember     2025-01-01  2025-03-31      0001163165   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-03-31      0001163165   us-gaap:CommonStockMember     2025-03-31      0001163165   us-gaap:AdditionalPaidInCapitalMember     2025-03-31      0001163165   us-gaap:TreasuryStockCommonMember     2025-03-31      0001163165   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-31      0001163165   us-gaap:RetainedEarningsMember     2025-03-31      0001163165   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-12-31      0001163165   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2025-12-31      0001163165   us-gaap:AccumulatedTranslationAdjustmentMember     2025-12-31      0001163165   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-12-31      0001163165   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2026-01-01  2026-03-31      0001163165   us-gaap:AccumulatedTranslationAdjustmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-01-01  2026-03-31      0001163165   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-03-31      0001163165   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2026-03-31      0001163165   us-gaap:AccumulatedTranslationAdjustmentMember     2026-03-31      0001163165   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-03-31      0001163165   us-gaap:RelatedPartyMember     2026-03-31      0001163165   us-gaap:RelatedPartyMember     2025-12-31      0001163165   us-gaap:RelatedPartyMember     2026-01-01  2026-03-31      0001163165   us-gaap:RelatedPartyMember     2025-01-01  2025-03-31      0001163165   country:US  us-gaap:PensionPlansDefinedBenefitMember     2026-01-01  2026-03-31      0001163165   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2026-01-01  2026-03-31      0001163165   country:US  us-gaap:PensionPlansDefinedBenefitMember     2025-01-01  2025-03-31      0001163165   us-gaap:ForeignPlanMember  us-gaap:PensionPlansDefinedBenefitMember     2025-01-01  2025-03-31      0001163165   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2026-01-01  2026-03-31      0001163165   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2025-01-01  2025-03-31      0001163165   cop:PhysicalGasContractsMember     2026-01-01  2026-03-31      0001163165   cop:PhysicalGasContractsMember     2025-01-01  2025-03-31      0001163165   cop:FinancialDerivativeContractsMember     2026-01-01  2026-03-31      0001163165   cop:FinancialDerivativeContractsMember     2025-01-01  2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:AlaskaSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:LowerFortyEightMember     2026-01-01  2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:CanadaOperatingSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:EuropeMiddleEastAndNorthAfricaSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:AsiaPacificOperatingSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:TotalSegmentsMember     2026-01-01  2026-03-31      0001163165   us-gaap:CorporateNonSegmentMember  cop:CorporateSegmentMember     2026-01-01  2026-03-31      0001163165   cop:OperatingSegmentsAndCorporateNonSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:AlaskaSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:LowerFortyEightMember     2026-01-01  2026-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:CanadaOperatingSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:EuropeMiddleEastAndNorthAfricaSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:AsiaPacificOperatingSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:TotalSegmentsMember     2026-01-01  2026-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:CorporateSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:IntersegmentEliminationMember     2026-01-01  2026-03-31      0001163165   cop:AlaskaSegmentMember     2026-01-01  2026-03-31      0001163165   cop:LowerFortyEightMember     2026-01-01  2026-03-31      0001163165   cop:CanadaOperatingSegmentMember     2026-01-01  2026-03-31      0001163165   cop:EuropeMiddleEastAndNorthAfricaSegmentMember     2026-01-01  2026-03-31      0001163165   cop:AsiaPacificOperatingSegmentMember     2026-01-01  2026-03-31      0001163165   cop:TotalSegmentsMember     2026-01-01  2026-03-31      0001163165   cop:CorporateSegmentMember     2026-01-01  2026-03-31      0001163165   cop:PhysicalGasContractsMember  cop:LowerFortyEightMember     2026-01-01  2026-03-31      0001163165   cop:PhysicalGasContractsMember  cop:CanadaOperatingSegmentMember     2026-01-01  2026-03-31      0001163165   cop:PhysicalGasContractsMember  cop:EuropeMiddleEastAndNorthAfricaSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:AlaskaSegmentMember     2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:LowerFortyEightMember     2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:CanadaOperatingSegmentMember     2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:EuropeMiddleEastAndNorthAfricaSegmentMember     2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:AsiaPacificOperatingSegmentMember     2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:TotalSegmentsMember     2026-03-31      0001163165   us-gaap:CorporateNonSegmentMember     2026-03-31      0001163165   us-gaap:CorporateNonSegmentMember     2026-01-01  2026-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:AlaskaSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:LowerFortyEightMember     2025-01-01  2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:CanadaOperatingSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:EuropeMiddleEastAndNorthAfricaSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:AsiaPacificOperatingSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:TotalSegmentsMember     2025-01-01  2025-03-31      0001163165   us-gaap:CorporateNonSegmentMember  cop:CorporateSegmentMember     2025-01-01  2025-03-31      0001163165   cop:OperatingSegmentsAndCorporateNonSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:AlaskaSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:LowerFortyEightMember     2025-01-01  2025-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:CanadaOperatingSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:EuropeMiddleEastAndNorthAfricaSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:AsiaPacificOperatingSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:TotalSegmentsMember     2025-01-01  2025-03-31      0001163165   us-gaap:IntersegmentEliminationMember  cop:CorporateSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:IntersegmentEliminationMember     2025-01-01  2025-03-31      0001163165   cop:AlaskaSegmentMember     2025-01-01  2025-03-31      0001163165   cop:LowerFortyEightMember     2025-01-01  2025-03-31      0001163165   cop:CanadaOperatingSegmentMember     2025-01-01  2025-03-31      0001163165   cop:EuropeMiddleEastAndNorthAfricaSegmentMember     2025-01-01  2025-03-31      0001163165   cop:AsiaPacificOperatingSegmentMember     2025-01-01  2025-03-31      0001163165   cop:TotalSegmentsMember     2025-01-01  2025-03-31      0001163165   cop:CorporateSegmentMember     2025-01-01  2025-03-31      0001163165   cop:PhysicalGasContractsMember  cop:LowerFortyEightMember     2025-01-01  2025-03-31      0001163165   cop:PhysicalGasContractsMember  cop:CanadaOperatingSegmentMember     2025-01-01  2025-03-31      0001163165   cop:PhysicalGasContractsMember  cop:EuropeMiddleEastAndNorthAfricaSegmentMember     2025-01-01  2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:AlaskaSegmentMember     2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:LowerFortyEightMember     2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:CanadaOperatingSegmentMember     2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:EuropeMiddleEastAndNorthAfricaSegmentMember     2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:AsiaPacificOperatingSegmentMember     2025-03-31      0001163165   us-gaap:OperatingSegmentsMember  cop:TotalSegmentsMember     2025-03-31      0001163165   us-gaap:CorporateNonSegmentMember     2025-03-31      0001163165   us-gaap:CorporateNonSegmentMember     2025-01-01  2025-03-31      0001163165   srt:CrudeOilMember     2026-01-01  2026-03-31      0001163165   srt:CrudeOilMember     2025-01-01  2025-03-31      0001163165   srt:NaturalGasReservesMember     2026-01-01  2026-03-31      0001163165   srt:NaturalGasReservesMember     2025-01-01  2025-03-31      0001163165   srt:NaturalGasLiquidsReservesMember     2026-01-01  2026-03-31      0001163165   srt:NaturalGasLiquidsReservesMember     2025-01-01  2025-03-31      0001163165   cop:OtherMember     2026-01-01  2026-03-31      0001163165   cop:OtherMember     2025-01-01  2025-03-31      0001163165   cop:CrudeOilProductLineMember     2026-01-01  2026-03-31      0001163165   cop:CrudeOilProductLineMember     2025-01-01  2025-03-31      0001163165   cop:NaturalGasProductLineMember     2026-01-01  2026-03-31      0001163165   cop:NaturalGasProductLineMember     2025-01-01  2025-03-31      0001163165   cop:PowerMember     2026-01-01  2026-03-31      0001163165   cop:PowerMember     2025-01-01  2025-03-31      0001163165   country:US     2026-01-01  2026-03-31      0001163165   country:US     2025-01-01  2025-03-31      0001163165   us-gaap:NonUsMember     2026-01-01  2026-03-31      0001163165   us-gaap:NonUsMember     2025-01-01  2025-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended    March 31, 2026
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ___________________ to ___________________
+Commission file number:    001-32395
+ConocoPhillips
+(Exact name of registrant as specified in its charter)
+Delaware      01-0562944
+(State or other jurisdiction of incorporation or organization)    (I.R.S. Employer Identification No.)
+925 N. Eldridge Parkway ,  Houston ,  TX   77079
+(Address of principal executive offices) (Zip Code)
+281 - 293-1000
+(Registrant's telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading symbols
+Name of each exchange on which registered
+Common Stock, $.01 Par Value
+COP
+New York Stock Exchange
+7% Debentures due 2029
+CUSIP—718507BK1
+New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes    ☒   No   ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes    ☒   No   ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer    ☒      Accelerated filer   ☐      Non-accelerated filer   ☐      Smaller reporting company    ☐       Emerging growth company    ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes   ☐   No    ☒
+The registrant had  1,218,294,007  shares of common stock, $.01 par value, outstanding at March 31, 2026.
+Table of Contents
+Page
+Commonly Used Abbreviations
+1
+Part I—Financial Information
+Item 1. Financial Statements
+Consolidated Income Statement
+2
+Consolidated Statement of Comprehensive Income
+3
+Consolidated Balance Sheet
+4
+Consolidated Statement of Cash Flows
+5
+Notes to Consolidated Financial Statements
+6
+Note  1 —Basis of Presentation
+6
+Note  2 —Inventories
+6
+Note  3 —Investments and Long-Term Receivables
+6
+Note  4 —Debt
+6
+Note  5 —Guarantees
+7
+Note  6 —Contingencies, Commitments and Accrued Environmental Costs
+7
+Note  7 —Derivative and Financial Instruments
+10
+Note  8 —Fair Value Measurement
+13
+Note  9 —Changes in Equity
+16
+Note  10 —Accumulated Other Comprehensive Income (Loss)
+16
+Note  11 —Cash Flow Information
+17
+Note  12 —Related Party Transactions
+17
+Note  13 —Employee Benefit Plans
+18
+Note  14 —Sales and Other Operating Revenues
+19
+Note  15 —Earnings Per Share
+20
+Note  16 —Segment Disclosures and Related Information
+20
+Note  17 —Income Taxes
+24
+Note  18 —New Accounting Standards
+24
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+25
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+44
+Item 4. Controls and Procedures
+44
+Part II—Other Information
+Item 1. Legal Proceedings
+45
+Item 1A. Risk Factors
+45
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+45
+Item 5. Other Information
+45
+Item 6. Exhibit s
+46
+Signature
+47
+Commonly Used Abbreviations
+Table of Contents
+Commonly Used Abbreviations
+The following industry-specific, accounting and other terms, and abbreviations may be commonly used in this report.
+Currencies
+Accounting
+$ or USD
+U.S. dollar
+ARO
+asset retirement obligation
+CAD
+Canadian dollar
+ASC
+accounting standards codification
+EUR
+Euro
+ASU
+accounting standards update
+GBP
+NOK
+British pound
+Norwegian kroner
+DD&A
+depreciation, depletion and amortization
+EPS
+earnings per share
+Units of Measurement
+FASB
+Financial Accounting Standards
+Board
+BBL
+barrel
+BCF
+billion cubic feet
+FIFO
+first-in, first-out
+BOE
+barrel of oil equivalent
+G&A
+general and administrative
+MBD
+thousand barrels per day
+GAAP
+generally accepted accounting principles
+MCF
+thousand cubic feet
+MM
+million
+LIFO
+last-in, first-out
+MMBOE
+million barrels of oil equivalent
+NPNS
+normal purchase normal sale
+MBOED
+thousand barrels of oil equivalent per
+PP&E
+properties, plants and equipment
+day
+VIE
+variable interest entity
+MMBOED
+million barrels of oil equivalent
+per day
+MMBTU
+million British thermal units
+MMCFD
+million cubic feet per day
+Miscellaneous
+MTPA    million tonnes per annum
+EPA
+Environmental Protection Agency
+ESG
+environmental, social and governance
+Industry
+EU
+European Union
+BLM
+Bureau of Land Management
+FERC
+Federal Energy Regulatory Commission
+CBM
+coalbed methane
+CCS
+carbon capture and storage
+GHG
+greenhouse gas
+E&P
+exploration and production
+HSE
+health, safety and environment
+FEED
+front-end engineering and design
+ICC
+International Chamber of Commerce
+FID    final investment decision
+ICSID
+World Bank’s International
+FPS
+floating production system
+Centre for Settlement of
+FPSO    floating production, storage and     Investment Disputes
+offloading
+IRS
+Internal Revenue Service
+G&G
+geological and geophysical
+OTC
+over-the-counter
+JOA
+joint operating agreement
+NYSE
+New York Stock Exchange
+LNG
+liquefied natural gas
+SEC
+U.S. Securities and Exchange
+NGLs
+natural gas liquids
+Commission
+OPEC
+Organization of Petroleum
+TSR
+total shareholder return
+Exporting Countries
+U.K.
+United Kingdom
+PSC
+production sharing contract
+U.S.
+United States of America
+PUDs
+proved undeveloped reserves
+SAGD
+steam-assisted gravity drainage
+WCS
+Western Canadian Select
+WTI
+West Texas Intermediate
+1
+ConocoPhillips      2026 Q1 10-Q
+Financial Statements
+Table of Contents
+PART I. Financial Information
+Item 1.    Financial Statements
+Consolidated Income Statement
+ConocoPhillips
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Revenues and other income
+Sales and other operating revenues
+$     15,761          16,517
+Equity in earnings of affiliates
+247          392
+Gain (loss) on dispositions
+5          79
+Other income
+41          113
+Total revenues and other income
+16,054          17,101
+Costs and expenses
+Purchased commodities
+6,283          6,188
+Production and operating expenses
+2,276          2,506
+Selling, general and administrative expenses
+193          191
+Exploration expenses
+109          117
+Depreciation, depletion and amortization
+2,906          2,746
+Impairments
+19          1
+Taxes other than income taxes
+607          551
+Accretion on discounted liabilities
+97          94
+Interest and debt expense
+198          205
+Foreign currency transaction (gain) loss
+—          30
+Other expenses
+3          6
+Total costs and expenses
+12,691          12,635
+Income (loss) before income taxes
+3,363          4,466
+Income tax provision (benefit)
+1,180          1,617
+Net income (loss)
+$     2,183          2,849
+Net income (loss) per share of common stock   (dollars)
+Basic    $     1.78          2.23
+Diluted     1.78          2.23
+Weighted-average common shares outstanding   (in thousands)
+Basic     1,224,036          1,273,350
+Diluted     1,224,960          1,274,879
+See Notes to Consolidated Financial Statements.
+ConocoPhillips      2026 Q1 10-Q
+2
+Financial Statements
+Table of Contents
+Consolidated Statement of Comprehensive Income
+ConocoPhillips
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Net income (loss)
+$     2,183          2,849
+Other comprehensive income (loss), net of tax:
+Defined benefit plans
+( 16 )      7
+Unrealized holding gain (loss) on securities
+( 6 )      2
+Foreign currency translation adjustments
+( 95 )      70
+Other comprehensive income (loss), net of tax
+( 117 )      79
+Comprehensive income (loss)
+$     2,066          2,928
+See Notes to Consolidated Financial Statements.
+3
+ConocoPhillips      2026 Q1 10-Q
+Financial Statements
+Table of Contents
+Consolidated Balance Sheet
+ConocoPhillips
+Millions of Dollars
+March 31
+2026    December 31
+2025
+Assets
+Cash and cash equivalents
+$     5,877          6,497
+Short-term investments
+486          484
+Accounts and notes receivable, net
+7,050          5,813
+Inventories
+1,910          1,873
+Prepaid expenses and other current assets
+906          865
+Total current assets
+16,229          15,532
+Investments and long-term receivables
+10,320          10,185
+Net properties, plants and equipment (net of accumulated DD&A of $ 93,460  and
+$ 90,396 , respectively)
+93,141          93,239
+Other assets
+3,035          2,983
+Total assets
+$     122,725          121,939
+Liabilities
+Accounts payable
+$     7,017          6,218
+Short-term debt
+1,065          1,020
+Accrued income and other taxes
+2,129          1,835
+Employee benefit obligations
+505          1,136
+Other accruals
+1,870          1,763
+Total current liabilities
+12,586          11,972
+Long-term debt
+22,262          22,424
+Asset retirement obligations and accrued environmental costs
+8,366          8,214
+Deferred income taxes
+12,389          12,237
+Employee benefit obligations
+944          969
+Other liabilities and deferred credits
+1,637          1,636
+Total liabilities
+58,184          57,452
+Equity
+Common stock (  2,500,000,000   shares authorized at $  0.01   par value)
+Issued (2026— 2,255,873,510  shares; 2025— 2,253,518,282  shares)
+Par value
+23          23
+Capital in excess of par
+77,761          77,728
+Treasury stock (at cost: 2026— 1,037,579,503  shares; 2025— 1,028,350,186  shares)
+( 77,231 )     ( 76,217 )
+Accumulated other comprehensive income (loss)
+( 6,028 )     ( 5,911 )
+Retained earnings
+70,016          68,864
+Total equity
+64,541          64,487
+Total liabilities and equity
+$     122,725          121,939
+See Notes to Consolidated Financial Statements.
+ConocoPhillips      2026 Q1 10-Q
+4
+Financial Statements
+Table of Contents
+Consolidated Statement of Cash Flows
+ConocoPhillips
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Cash flows from operating activities
+Net income (loss)
+$     2,183          2,849
+Adjustments to reconcile net income (loss) to net cash provided by operating activities
+Depreciation, depletion and amortization
+2,906          2,746
+Impairments
+19          1
+Dry hole costs and leasehold impairments
+34          61
+Accretion on discounted liabilities
+97          94
+Deferred taxes
+102         ( 71 )
+Distributions more (less) than income from equity affiliates
+7         ( 19 )
+(Gain) loss on dispositions
+( 5 )     ( 79 )
+Other
+44         ( 115 )
+Working capital adjustments
+Decrease (increase) in accounts and notes receivable
+( 1,141 )      280
+Decrease (increase) in inventories
+( 39 )     ( 26 )
+Decrease (increase) in prepaid expenses and other current assets
+( 95 )     ( 134 )
+Increase (decrease) in accounts payable
+507          518
+Increase (decrease) in taxes and other accruals
+( 324 )      10
+Net cash provided by operating activities
+4,295          6,115
+Cash flows from investing activities
+Capital expenditures and investments
+( 2,948 )     ( 3,378 )
+Working capital changes associated with investing activities
+162          827
+Proceeds from asset dispositions
+9          635
+Net sales (purchases) of investments
+( 30 )     ( 400 )
+Other
+( 1 )     ( 30 )
+Net cash used in investing activities
+( 2,808 )     ( 2,346 )
+Cash flows from financing activities
+Repayment of debt
+( 114 )     ( 547 )
+Issuance of company common stock
+( 35 )     ( 52 )
+Repurchase of company common stock
+( 1,006 )     ( 1,500 )
+Dividends paid
+( 1,032 )     ( 998 )
+Other
+1         ( 40 )
+Net cash used in financing activities
+( 2,186 )     ( 3,137 )
+Effect of exchange rate changes on cash, cash equivalents and restricted cash
+29          83
+Net change in cash, cash equivalents and restricted cash
+( 670 )      715
+Cash, cash equivalents and restricted cash at beginning of period
+6,916          5,905
+Cash, cash equivalents and restricted cash at end of period
+$     6,246          6,620
+Restricted cash of $ 65  million is included in the "Prepaid expenses and other current assets" line of our Consolidated Balance Sheet at December 31, 2025.
+Restricted cash of $ 369  million and $ 354  million is included in the "Other assets" line of our Consolidated Balance Sheet at March 31, 2026, and December 31, 2025, respectively.
+See Notes to Consolidated Financial Statements.
+5
+ConocoPhillips      2026 Q1 10-Q
+Notes to Consolidated Financial Statements
+Table of Contents
+Notes to Consolidated Financial Statements
+Note 1—Basis of Presentation
+The interim-period financial information presented in the financial statements included in this report is unaudited and, in the opinion of management, includes all known accruals and adjustments necessary for a fair presentation of the consolidated financial position of ConocoPhillips, its results of operations and cash flows for such periods. All such adjustments are of a normal and recurring nature, unless otherwise disclosed. Certain notes and other information have been condensed or omitted from the interim financial statements included in this report; therefore, these financial statements should be read in conjunction with the consolidated financial statements and notes included in our 2025 Annual Report on Form 10-K. Certain prior year financial statement line items have been reclassified to conform to the current year presentation.
+Note 2—Inventories
+Millions of Dollars
+March 31
+2026    December 31
+2025
+Crude oil and products
+$     1,054          1,000
+Materials and supplies
+856          873
+Total inventories
+$     1,910          1,873
+Inventories valued on the LIFO basis
+$     672          609
+Note 3—Investments and Long-Term Receivables
+Australia Pacific LNG Pty Ltd. (APLNG)
+In Australia, we hold a  47.5  percent shareholding interest in APLNG. At March 31, 2026, the outstanding balance of APLNG's debt was $ 3.1  billion. The last principal and interest payment on the debt is due in September 2032.    See Note  5 .
+At March 31, 2026, the carrying value of our equity method investment in APLNG was approximately $ 5.0  billion.
+Port Arthur LNG (PALNG)
+We hold a  30  percent direct equity investment in PALNG, a joint venture for the development of a large-scale LNG facility.
+At March 31, 2026, the carrying value of our equity method investment in PALNG was approximately $ 1.6  billion.
+Qatar LNG
+Our equity method investments in Qatar include the following:
+•  QatarEnergy LNG N(3) (N3)— 30  percent owned joint venture with affiliates of QatarEnergy ( 68.5  percent) and Mitsui & Co., Ltd. ( 1.5  percent)—produces and liquefies natural gas from Qatar’s North Field, as well as exports LNG.
+•  QatarEnergy LNG NFE(4) (NFE4)— 25  percent owned joint venture with affiliates of QatarEnergy ( 70  percent) and China National Petroleum Corporation ( 5  percent)—participant in the North Field East LNG project.
+•  QatarEnergy LNG NFS(3) (NFS3)— 25  percent owned joint venture with an affiliate of QatarEnergy ( 75  percent)—participant in the North Field South LNG project.
+At March 31, 2026, the carrying value of our equity method investments in Qatar was approximately $ 1.8  billion.
+Note 4—Debt
+Our debt balance at March 31, 2026, was $ 23.3  billion, compared with $ 23.4  billion at December 31, 2025  .
+In the first quarter of 2026, the company retired $ 67  million principal amount of our  6.875 % Notes at maturity.
+At March 31, 2026, we had $ 283  million of certain variable rate demand bonds (VRDBs) outstanding with maturities ranging through 2035. The VRDBs are redeemable at the option of the bondholders on any business day. If they are ever redeemed, we have the ability and intent to refinance on a long-term basis; therefore, the VRDBs are included in the “Long-term debt” line on our consolidated balance sheet.
+ConocoPhillips      2026 Q1 10-Q
+6
+Notes to Consolidated Financial Statements
+Table of Contents
+Note 5—Guarantees
+At March 31, 2026, we were liable for certain contingent obligations under various contractual arrangements as described below. We recognize a liability, at inception, for the fair value of our obligation as a guarantor for newly issued or modified guarantees. Unless the carrying amount of the liability is noted below, we have not recognized a liability because the fair value of the obligation is immaterial. In addition, unless otherwise stated, we are not currently performing with any significance under the guarantee and expect future performance to be either immaterial or have only a remote chance of occurrence.
+APLNG Guarantees
+We have multiple outstanding guarantees in connection with our  47.5  percent ownership interest in APLNG. These guarantees have remaining terms of  seven  to  20  years, and the maximum potential future payments related to these guarantees are approximately $ 1,680  million. At March 31, 2026, the carrying value of these guarantees was approximately $ 49  million.
+QatarEnergy LNG Guarantees
+We have guaranteed our portion of certain fiscal and other joint venture obligations as a shareholder in NFE4 and NFS3. These guarantees have an approximate  30 -year term with no maximum limit. At March 31, 2026, the carrying value of these guarantees was approximately $ 14  million.
+Equatorial Guinea Guarantees
+We have guaranteed payment obligations as a shareholder in both Equatorial Guinea LNG Operations, S.A., a fully owned subsidiary of Equatorial Guinea LNG Holdings Limited, and Alba Plant LLC with regard to certain agreements to process third-party gas.     These guarantees have  two years  remaining, and the maximum potential future payments related to these guarantees are approximately $ 116  million. At March 31, 2026, the carrying value of these guarantees was approximately $ 4  million.
+Other Guarantees
+We have other guarantees with maximum future potential payment amounts totaling approximately $ 560  million, which consist primarily of guarantees of the residual value of leased office buildings and guarantees of the residual value of corporate aircraft. These guarantees have remaining terms of  one  to  five years  and would become payable if certain asset values are lower than guaranteed amounts at the end of the lease or contract term, business conditions decline at guaranteed entities or as a result of nonperformance of contractual terms by guaranteed parties. At March 31, 2026, there was no liability recognized for these guarantees.
+Indemnifications
+Over the years, we have entered into agreements to sell ownership interests in certain legal entities, joint ventures and assets that gave rise to qualifying indemnifications. These agreements include indemnifications for taxes and environmental liabilities. The carrying amount recorded for these indemnification obligations at March 31, 2026, was approximately $ 30  million. Those related to environmental issues have terms that are generally indefinite, and the maximum amounts of future payments are generally unlimited. Although it is reasonably possible future payments may exceed amounts recorded, due to the nature of the indemnifications, it is not possible to make a reasonable estimate of the maximum potential amount of future payments.    See Note  6       for additional information about environmental liabilities.
+Note 6—Contingencies, Commitments and Accrued Environmental Costs
+A number of lawsuits involving a variety of claims arising in the ordinary course of business have been filed against ConocoPhillips. We also may be required to remove or mitigate the effects on the environment of the placement, storage, disposal or release of certain chemical, mineral and petroleum substances at various active and inactive sites. We regularly assess the need for accounting recognition or disclosure of these contingencies. In the case of all known contingencies (other than those related to income taxes), we accrue a liability when the loss is probable and the amount is reasonably estimable. If a range of amounts can be reasonably estimated and no amount within the range is a better estimate than any other amount, then the low end of the range is accrued. We do not reduce these liabilities for potential insurance or third-party recoveries. We accrue receivables for insurance or other third-party recoveries when applicable. With respect to income tax-related contingencies, we use a cumulative probability-weighted loss accrual in cases where sustaining a tax position is less than certain.
+Based on currently available information, we believe it is remote that future costs related to known contingent liability exposures will exceed current accruals by an amount that would have a material adverse impact on our consolidated financial statements. As we learn new facts concerning contingencies, we reassess our position both with respect to
+7
+ConocoPhillips      2026 Q1 10-Q
+Notes to Consolidated Financial Statements
+Table of Contents
+accrued liabilities and other potential exposures. Estimates particularly sensitive to future changes include contingent liabilities recorded for environmental remediation, tax and legal matters. Estimated future environmental remediation costs are subject to change due to such factors as the uncertain magnitude of cleanup costs, the unknown time and extent of such remedial actions that may be required and the determination of our liability in proportion to that of other responsible parties. Estimated future costs related to tax and legal matters are subject to change as events evolve and as additional information becomes available during the administrative and litigation processes.
+Environmental
+We are subject to international, federal, state and local environmental laws and regulations and record accruals for environmental liabilities based on management’s best estimates. These estimates are based on currently available facts, existing technology and presently enacted laws and regulations, taking into account stakeholder and business considerations. When measuring environmental liabilities, we also consider our prior experience in remediation of contaminated sites, other companies’ cleanup experience and data released by the U.S. EPA or other organizations. We consider unasserted claims in our determination of environmental liabilities, and we accrue them in the period they are both probable and reasonably estimable.
+Although liability of those potentially responsible for environmental remediation costs is generally joint and several for federal sites and frequently so for other sites, we are usually only one of many companies cited at a particular site. Due to the joint and several liabilities, we could be responsible for all cleanup costs related to any site at which we have been designated as a potentially responsible party. We have been successful to date in sharing cleanup costs with other financially sound companies. Many of the sites at which we are potentially responsible are still under investigation by the U.S. EPA or the agency concerned. Prior to actual cleanup, those potentially responsible normally assess the site conditions, apportion responsibility and determine the appropriate remediation. In some instances, we may have no liability or may attain a settlement of liability. Where it appears that other potentially responsible parties may be financially unable to bear their proportional share, we consider this inability in estimating our potential liability, and we adjust our accruals accordingly. As a result of various acquisitions in the past, we assumed certain environmental obligations. Some of these environmental obligations are mitigated by indemnifications made by others for our benefit, and some of the indemnifications are subject to dollar limits and time limits.
+We are currently participating in environmental assessments and cleanups at numerous federal Superfund and other comparable state and international sites. After an assessment of environmental exposures for cleanup and other costs, we make accruals on an undiscounted basis (except those acquired in a business combination, which we record on a discounted basis) for planned investigation and remediation activities for sites where it is probable future costs will be incurred and these costs can be reasonably estimated. We have not reduced these accruals for possible insurance recoveries.
+For remediation activities in the U.S. and Canada, our consolidated balance sheet included total accrued environmental costs of $ 230  million at March 31, 2026, compared with $ 220  million at December 31, 2025. We expect to incur a substantial amount of these expenditures within the next  30  years. In the future, we may be involved in additional environmental assessments, cleanups and proceedings.
+Litigation and Other Contingencies
+We are subject to various lawsuits and claims including, but not limited to, matters involving oil and gas royalty and severance tax payments, gas measurement and valuation methods, contract disputes, environmental damages, climate change, personal injury and property damage. Our primary exposures for such matters relate to alleged royalty and tax underpayments on certain federal, state and privately owned properties, claims of alleged environmental contamination and damages from historic operations and climate change. We will continue to defend ourselves vigorously in these matters.
+Our legal organization applies its knowledge, experience and professional judgment to the specific characteristics of our cases, employing a litigation management process to manage and monitor the legal proceedings against us. Our process facilitates the early evaluation and quantification of potential exposures in individual cases. This process also enables us to track those cases that have been scheduled for trial and/or mediation. Based on professional judgment and experience in using these litigation management tools and available information about current developments in all our cases, our legal organization regularly assesses the adequacy of current accruals and determines if adjustment of existing accruals, or establishment of new accruals, is required.
+ConocoPhillips      2026 Q1 10-Q
+8
+Notes to Consolidated Financial Statements
+Table of Contents
+We have contingent liabilities resulting from throughput agreements with pipeline and processing companies not associated with financing arrangements. Under these agreements, we may be required to provide any such company with additional funds through advances and penalties for fees related to throughput capacity not utilized. In addition, at March 31, 2026, we had performance obligations secured by letters of credit of $ 391  million (issued as direct bank letters of credit) related to various purchase commitments for materials, supplies, commercial activities and services incident to the ordinary conduct of business.
+In 2007, the government of Venezuela expropriated ConocoPhillips’ interests in the Petrozuata and Hamaca heavy oil ventures, as well as the offshore Corocoro development project. In response, ConocoPhillips initiated international arbitration proceedings before the ICSID. In   March 2019, an ICSID tribunal unanimously ordered the government of Venezuela to pay ConocoPhillips approximately   $ 8.7  billion   (later reduced to $ 8.5  billion) plus interest for the unlawful expropriation of the projects. On January 22, 2025, an ICSID annulment committee dismissed Venezuela’s application to annul the tribunal’s decision and upheld the $ 8.5  billion award plus interest in full. Separate arbitrations before the ICC resulted in additional awards against Petróleos de Venezuela, S.A. (PDVSA) and  three  of its affiliates, including an award for approximately $ 2  billion plus interest, for the Petrozuata and Hamaca projects, and a $ 33  million award, for the Corocoro project, plus interest. Cumulatively, as of   March 31, 2026  , the company has received approximately   $ 795  million   in connection with the first ICC award.   Collection actions for all  three  awards are ongoing. ConocoPhillips has ensured that all actions related to these arbitration awards meet all appropriate U.S. regulatory requirements, including those related to any applicable sanctions imposed by the U.S. against Venezuela.
+Beginning in 2017, governmental entities and individuals in several states/territories in the U.S. have filed lawsuits against oil and gas companies, including ConocoPhillips, seeking compensatory damages and equitable relief to abate alleged climate change related impacts. Additional lawsuits with similar allegations are expected to be filed. The legal and factual issues are unprecedented; therefore, there is significant uncertainty about the scope of the claims and alleged damages and any potential impact on the company’s financial condition. ConocoPhillips believes these lawsuits are factually and legally meritless and are an inappropriate vehicle to address the challenges associated with climate change and will vigorously defend against such lawsuits.
+Several Louisiana parishes and the State of Louisiana have filed numerous lawsuits under Louisiana’s State and Local Coastal Resources Management Act (SLCRMA) against oil and gas companies, including ConocoPhillips, seeking compensatory damages for contamination and erosion of the Louisiana coastline allegedly caused by historical oil and gas operations. ConocoPhillips entities are defendants in several of the lawsuits and will vigorously defend against them. Because plaintiffs’ SLCRMA theories are unprecedented, there is uncertainty about these claims (both as to scope and damages), and we continue to evaluate our exposure in these lawsuits while assessing options for early resolution.
+In October 2020, the Bureau of Safety and Environmental Enforcement (BSEE) ordered the prior owners of Outer Continental Shelf (OCS) Lease P-0166, including ConocoPhillips, to decommission the lease facilities, including two offshore platforms located near Carpinteria, California. This order was sent after the current owner of OCS Lease P-0166 relinquished the lease and abandoned the lease platforms and facilities. BSEE’s order to ConocoPhillips is premised on its connection to Phillips Petroleum Company, a legacy company of ConocoPhillips, which held a historical  25  percent interest in this lease and operated these facilities but sold its interest approximately  30  years ago. ConocoPhillips continues to evaluate its exposure in this matter.
+In July 2021, a federal securities class action was filed against Concho Resources Inc. (Concho), certain of Concho’s officers, and ConocoPhillips as Concho’s successor in the United States District Court for the Southern District of Texas. On October 21, 2021, the court issued an order appointing Utah Retirement Systems and the Construction Laborers Pension Trust for Southern California as lead plaintiffs (Lead Plaintiffs). On January 7, 2022, the Lead Plaintiffs filed their consolidated complaint alleging that Concho made materially false and misleading statements regarding its business and operations in violation of the federal securities laws and seeking unspecified damages, attorneys’ fees, costs, equitable/injunctive relief and such other relief that may be deemed appropriate. The defendants filed a motion to dismiss the consolidated complaint on March 8, 2022. On June 23, 2023, the court denied defendants’ motion as to most defendants including Concho/ConocoPhillips. On April 7, 2025, the court certified a class. We believe the allegations in the action are without merit and are vigorously defending this litigation.
+9
+ConocoPhillips      2026 Q1 10-Q
+Notes to Consolidated Financial Statements
+Table of Contents
+Note 7—Derivative and Financial Instruments
+We use futures, forwards, swaps and options in various markets to meet our customer needs, capture market opportunities and manage foreign exchange currency risk.
+Commodity Derivative Instruments
+Our commodity business primarily consists of natural gas, crude oil, bitumen, NGLs, LNG and power.
+Commodity derivative instruments are held at fair value on our consolidated balance sheet. Where these balances have the right of setoff, they are presented on a net basis. Related cash flows are recorded as operating activities on our consolidated statement of cash flows. On our consolidated income statement, gains and losses are recognized either on a gross basis if directly related to our physical business or a net basis if held for trading. Gains and losses related to contracts that meet and are designated with the NPNS exception are recognized upon settlement. We generally apply this exception to eligible crude contracts and certain gas contracts. We do not apply hedge accounting for our commodity derivatives.
+The following table presents the gross fair values of our commodity derivatives, excluding collateral, on our consolidated balance sheet:
+Millions of Dollars
+March 31
+2026    December 31
+2025
+Assets
+Prepaid expenses and other current assets
+$     1,173          491
+Other assets
+147          113
+Liabilities
+Other accruals
+1,103          438
+Other liabilities and deferred credits
+141          100
+The gains (losses) from commodity derivatives included in our consolidated income statement are presented in the following table:
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Sales and other operating revenues
+$     159          59
+Other income
+( 5 )     ( 4 )
+Purchased commodities
+( 69 )     ( 39 )
+The table below summarizes our net exposures resulting from outstanding commodity derivative contracts:
+Open Position
+Long (Short)
+March 31
+2026    December 31
+2025
+Commodity
+Natural gas and power (BCF equivalent)
+Fixed price    ( 20 )     ( 15 )
+Basis    ( 15 )     ( 17 )
+ConocoPhillips      2026 Q1 10-Q
+10
+Notes to Consolidated Financial Statements
+Table of Contents
+Interest Rate Derivative Instruments
+I  n 2023, PALNG executed interest rate swaps that had the effect of converting  60  percent of the projected term loans outstanding to finance the cost of development and construction of Phase 1 from floating- to fixed-rate. In 2024, PALNG dedesignated a portion of the interest rate swaps as a cash flow hedge and the remaining portion was dedesignated during the first quarter of 2025.     Changes in the fair value of the dedesignated hedging instruments are reported in the “Equity in earnings of affiliates” line on our consolidated income statement.
+For the three-month period ended March 31, 2026, and March 31, 2025, we recognized a loss of $ 9  million and a gain of $ 15  million, respectively, in “Equity in earnings of affiliates” related to the swaps.
+Financial Instruments
+We invest in financial instruments with maturities based on our cash forecasts for the various accounts and currency pools we manage. The types of financial instruments in which we currently invest include:
+•  Time deposits: Interest bearing deposits placed with financial institutions for a predetermined amount of time.
+•  Demand deposits: Interest bearing deposits placed with financial institutions. Deposited funds can be withdrawn without notice.
+•  Commercial paper: Unsecured promissory notes issued by a corporation, commercial bank or government agency purchased at a discount to mature at par.
+•  U.S. government or government agency obligations: Securities issued by the U.S. government or U.S. government agencies.
+•  Foreign government obligations: Securities issued by foreign governments.
+•  Corporate bonds: Unsecured debt securities issued by corporations.
+•  Asset-backed securities: Collateralized debt securities.
+The following investments are carried on our consolidated balance sheet at cost plus accrued interest, and the table reflects remaining maturities at March 31, 2026, and December 31, 2025:
+Millions of Dollars
+Carrying Amount
+Cash and cash equivalents
+Short-term investments
+March 31
+2026    December 31
+2025    March 31
+2026    December 31
+2025
+Cash    $     416          543
+Demand deposits
+3,605          3,781
+Time deposits
+1 to 90 days
+1,543          975        14          6
+91 to 180 days
+5          17
+Within one year
+8          8
+U.S. government obligations
+1 to 90 days
+311          1,198       —        —
+$     5,875          6,497        27          31
+11
+ConocoPhillips      2026 Q1 10-Q
+Notes to Consolidated Financial Statements
+Table of Contents
+The following investments in debt securities classified as available for sale are carried at fair value on our consolidated balance sheet at March 31, 2026, and December 31, 2025:
+Millions of Dollars
+Carrying Amount
+Cash and cash equivalents    Short-term investments    Investments and long-term
+receivables
+March 31
+2026    December 31
+2025    March 31
+2026    December 31
+2025    March 31
+2026    December 31
+2025
+Major Security Type
+Corporate bonds
+$    —        —       365          308        634          651
+Commercial paper
+2          —        45          72
+U.S. government obligations    —        —       24          46        257          224
+U.S. government agency obligations
+—        —       1          1
+Foreign government obligations
+8          9        10          9
+Asset-backed securities
+17          18        266          263
+$     2          —        459          453        1,168          1,148
+Cash and cash equivalents and short-term investments have remaining maturities within one year. Investments and long-term receivables have remaining maturities that vary from greater than  one year  through  12  years.
+The following table summarizes the amortized cost basis and fair value of investments in debt securities classified as available for sale:
+Millions of Dollars
+Amortized Cost Basis
+Fair Value
+March 31
+2026    December 31
+2025    March 31
+2026    December 31
+2025
+Major Security Type
+Corporate bonds
+$     998          953        999          959
+Commercial paper
+47          72        47          72
+U.S. government obligations
+281          268        281          270
+U.S. government agency obligations
+1          1        1          1
+Foreign government obligations
+18          18        18          18
+Asset-backed securities
+283          280        283          281
+$     1,628          1,592        1,629          1,601
+No allowance for credit losses has been recorded on investments in debt securities which are in an unrealized loss position.
+For the three-month periods ended March 31, 2026, and March 31, 2025, proceeds from sales and redemptions of investments in debt securities classified as available for sale were     $ 209  million and $ 211  million, respectively. Gross realized gains and losses included in earnings from those sales and redemptions were negligible. The cost of securities sold and redeemed is determined using the specific identification method.
+ConocoPhillips      2026 Q1 10-Q
+12
+Notes to Consolidated Financial Statements
+Table of Contents
+Credit Risk
+Financial instruments subject to concentrations of credit risk primarily include cash equivalents, short‑ and long‑term investments in high‑quality debt securities, OTC derivative contracts, and trade receivables. Cash and investments are diversified across high‑quality commercial paper, government money market funds, U.S. government and agency obligations, high-quality corporate bonds and asset‑backed securities, foreign government obligations and deposits with major financial institutions. Credit risk from OTC derivatives is managed through counterparty credit limits, margining and collateral requirements, while exchange‑cleared derivatives carry minimal risk but expose us to broker receivables related to margin postings. Trade receivables are broadly diversified geographically, generally have short payment terms and are actively monitored with collateral and netting arrangements used where appropriate.
+Certain of our derivative contracts require us to post collateral if exposure exceeds fixed or credit‑rating‑dependent thresholds, which generally decrease with lower ratings and fall to zero below investment grade, with cash as the primary form of collateral and letters of credit permitted in some cases. The aggregate fair value of all derivative instruments with such credit risk-related contingent features that were in a liability position was $  73   million at both March 31, 2026, and December 31, 2025. For these instruments,   no   collateral was posted at March 31, 2026, or December 31, 2025. If our credit rating had been downgraded below investment grade at March 31, 2026, we would have been required to post $ 34  million of additional collateral, either with cash or letters of credit.
+Note 8—Fair Value Measurement
+We carry a portion of our assets and liabilities at fair value that are measured at the reporting date using an exit price (i.e., the price that would be received to sell an asset or paid to transfer a liability) and disclosed according to the quality of valuation inputs under the fair value hierarchy.
+The classification of an asset or liability is based on the lowest level of input significant to its fair value. Those that are initially classified as Level 3 are subsequently reported as Level 2 when the fair value derived from unobservable inputs is inconsequential to the overall fair value, or if corroborated market data becomes available. Assets and liabilities initially reported as Level 2 are subsequently reported as Level 3 if corroborated market data is no longer available. There were no material transfers into or out of Level 3 during the three-month period ended March 31, 2026, or during the year ended December 31, 2025.
+Recurring Fair Value Measurement
+Financial assets and liabilities reported at fair value on a recurring basis include our investments in debt securities classified as available for sale, commodity derivatives and our contingent consideration arrangement related to the Surmont acquisition.
+•  Level 1 derivative assets and liabilities primarily represent exchange-traded futures and options that are valued using unadjusted prices available from the underlying exchange. Level 1 financial assets also include our investments in U.S. government obligations classified as available for sale debt securities, which are valued using exchange prices.
+•  Level 2 derivative assets and liabilities primarily represent OTC swaps, options and forward purchase and sale contracts that are valued using adjusted exchange prices, prices provided by brokers or pricing service companies that are all corroborated by market data. Level 2 financial assets also include our investments in debt securities classified as available for sale including investments in corporate bonds, commercial paper, asset-backed securities, U.S. government agency obligations and foreign government obligations that are valued using pricing provided by brokers or pricing service companies that are corroborated with market data.
+•  Level 3 derivative assets and liabilities consist of OTC swaps, options and forward purchase and sale contracts where a significant portion of fair value is calculated from underlying market data that is not readily available. The derived value uses industry standard methodologies that may consider the historical relationships among various commodities, modeled market prices, time value, volatility factors and other relevant economic measures. The use of these inputs results in management’s best estimate of fair value. Level 3 commodity derivative activity was not material for all periods presented.
+•  Level 3 liabilities include the fair value of future quarterly contingent payments associated with the Surmont acquisition. In October 2023, we completed our acquisition of the remaining  50  percent working interest in Surmont, an asset in our Canada segment, from TotalEnergies EP Canada Ltd. The consideration for the acquisition included a contingent consideration arrangement requiring payment of up to $ 0.4  billion CAD over a  five-year  term. The contingent payments represent $ 2  million for every dollar that WCS pricing exceeds $ 52  per barrel during the month, subject to certain production targets being achieved. The undiscounted amount we could pay under this arrangement was up to $ 0.3  billion USD at closing.
+13
+ConocoPhillips      2026 Q1 10-Q
+Notes to Consolidated Financial Statements
+Table of Contents
+The following table summarizes the fair value hierarchy for gross financial assets and liabilities (i.e., unadjusted where the right of setoff exists for commodity derivatives accounted for at fair value on a recurring basis):
+Millions of Dollars
+March 31, 2026     December 31, 2025
+Level 1
+Level 2
+Level 3
+Total
+Level 1
+Level 2
+Level 3
+Total
+Assets
+Investments in debt securities
+$     281          1,348          —          1,629           270        1,331        —        1,601
+Commodity derivatives
+992          255          73          1,320           306        230        68        604
+Total assets
+$     1,273          1,603          73          2,949           576        1,561        68        2,205
+Liabilities
+Commodity derivatives    $     980          181          83          1,244           354        124        60        538
+Contingent consideration     —          —          78          78           —        —        —        —
+Total liabilities
+$     980          181          161          1,322           354        124        60        538
+For the three-month period ended March 31, 2026, we made  no  payments under the contingent consideration arrangement, and a total of $ 237  million has been paid since the date of the Surmont acquisition, included in the "Other" line within the financing activities section of our consolidated statement of cash flows. The range and arithmetic average of the significant unobservable inputs used in the Level 3 fair value measurement were as follows:
+Fair Value
+(Millions of
+Dollars)    Valuation
+Technique    Unobservable
+Input
+Range
+(Arithmetic Average)
+Contingent consideration - Surmont as of:
+March 31, 2026
+$     78       Discounted cash flow    Commodity price outlook* ($/BOE)
+$ 81.58  - $ 84.28  ($ 82.93 )
+December 31, 2025
+—
+$ 43.17  - $ 51.97  ($ 46.47 )
+*Commodity price outlook based on a combination of external pricing service companies' outlooks and internal outlook.
+The following table summarizes those commodity derivative balances subject to the right of setoff as presented on our consolidated balance sheet. We have elected to offset the recognized fair value amounts for multiple derivative instruments executed with the same counterparty in our financial statements when a legal right of setoff exists.
+Millions of Dollars
+Amounts Subject to Right of Setoff
+Gross
+Amounts
+Recognized
+Amounts Not
+Subject to
+Right of Setoff
+Gross
+Amounts
+Gross
+Amounts
+Offset
+Net
+Amounts
+Presented
+Cash
+Collateral
+Net
+Amounts
+March 31, 2026
+Assets    $     1,320          5          1,315          1,017          298          42          256
+Liabilities     1,244          1          1,243          1,017          226          45          181
+December 31, 2025
+Assets    $     604        2        602        361        241        6        235
+Liabilities     538        1        537        361        176        53        123
+At March 31, 2026, and December 31, 2025, we did not present any amounts gross on our consolidated balance sheet where we had the right of setoff.
+ConocoPhillips      2026 Q1 10-Q
+14
+Notes to Consolidated Financial Statements
+Table of Contents
+Reported Fair Values of Financial Instruments
+We used the following methods and assumptions to estimate the fair value of financial instruments:
+•  Cash and cash equivalents and short-term investments: The carrying amount reported on the balance sheet approximates fair value. For those investments classified as available for sale debt securities, the carrying amount reported on the balance sheet is fair value.
+•  Accounts and notes receivable (including long-term and related parties): The carrying amount reported on the balance sheet approximates fair value.
+•  Investments in debt securities classified as available for sale: The fair value of investments in debt securities categorized as Level 1 in the fair value hierarchy is measured using exchange prices. The fair value of investments in debt securities categorized as Level 2 in the fair value hierarchy is measured using pricing provided by brokers or pricing service companies that are corroborated with market data.    See   Note  7   .
+•  Accounts payable (including related parties) and floating-rate debt: The carrying amount of accounts payable and floating-rate debt reported on the balance sheet approximates fair value.
+•  Fixed-rate debt: The estimated fair value of fixed-rate debt is measured using prices available from a pricing service that is corroborated by market data; therefore, these liabilities are categorized as Level 2 in the fair value hierarchy.
+•  Commercial paper: The carrying amount of our commercial paper instruments approximates fair value and is reported on the balance sheet as short-term debt.
+The following table summarizes the net fair value of financial instruments (i.e., adjusted where the right of setoff exists for commodity derivatives):
+Millions of Dollars
+Carrying Amount
+Fair Value
+March 31
+2026    December 31
+2025     March 31
+2026    December 31
+2025
+Financial assets
+Commodity derivatives
+$     261          237         261          237
+Investments in debt securities
+1,629          1,601         1,629          1,601
+Financial liabilities
+Total debt, excluding finance leases
+22,573          22,643         22,420          22,698
+Commodity derivatives
+182          124         182          124
+15
+ConocoPhillips      2026 Q1 10-Q
+Notes to Consolidated Financial Statements
+Table of Contents
+Note 9—Changes in Equity
+Millions of Dollars
+Common Stock
+Par
+Value
+Capital in
+Excess of
+Par
+Treasury
+Stock
+Accum. Other
+Comprehensive
+Income (Loss)
+Retained
+Earnings
+Total
+For the three months ended March 31, 2026
+Balances at December 31, 2025    $     23        77,728       ( 76,217 )     ( 5,911 )      68,864        64,487
+Net income (loss)         2,183          2,183
+Other comprehensive income (loss)       ( 117 )      ( 117 )
+Dividend declared ($ 0.84  per common share)
+( 1,032 )     ( 1,032 )
+Repurchase of company common stock      ( 1,006 )       ( 1,006 )
+Excise tax on share repurchases      ( 7 )       ( 7 )
+Distributed under benefit plans      33             33
+Other           ( 1 )       1          —
+Balances at March 31, 2026    $     23          77,761         ( 77,231 )     ( 6,028 )      70,016          64,541
+Millions of Dollars
+Common Stock
+Par
+Value
+Capital in
+Excess of
+Par
+Treasury
+Stock
+Accum. Other
+Comprehensive
+Income (Loss)
+Retained
+Earnings
+Total
+For the three months ended March 31, 2025
+Balances at December 31, 2024    $     23        77,529       ( 71,152 )     ( 6,473 )      64,869        64,796
+Net income (loss)         2,849        2,849
+Other comprehensive income (loss)        79         79
+Dividend declared ($ 0.78  per common share)
+( 998 )     ( 998 )
+Repurchase of company common stock      ( 1,500 )       ( 1,500 )
+Excise tax on share repurchases      ( 13 )       ( 13 )
+Distributed under benefit plans
+25           25
+Other      ( 1 )       1        —
+Balances at March 31, 2025
+$     23        77,554       ( 72,666 )     ( 6,394 )      66,721        65,238
+Note 10—Accumulated Other Comprehensive Income (Loss)
+Accumulated other comprehensive income (loss) in the equity section of our consolidated balance sheet includes:
+Millions of Dollars
+Defined Benefit
+Plans
+Unrealized Holding Gain/(Loss) on
+Securities
+Foreign
+Currency
+Translation
+Unrealized Gain/(Loss) on Hedging Activities
+Accumulated
+Other
+Comprehensive
+Income/(Loss)
+December 31, 2025    $    ( 335 )      8       ( 5,602 )      18       ( 5,911 )
+Other comprehensive income (loss)
+( 16 )     ( 6 )     ( 95 )      —         ( 117 )
+March 31, 2026    $    ( 351 )      2         ( 5,697 )      18         ( 6,028 )
+ConocoPhillips      2026 Q1 10-Q
+16
+Notes to Consolidated Financial Statements
+Table of Contents
+Note 11—Cash Flow Information
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Cash payments
+Interest
+$     296          214
+Income taxes
+$     669          1,188
+Net Sales (Purchases) of Investments
+Short-term investments purchased
+$    ( 7 )     ( 419 )
+Short-term investments sold
+162          158
+Long-term investments purchased
+( 232 )     ( 192 )
+Long-term investments sold
+47          53
+Total sales (purchases) of investments    $    ( 30 )     ( 400 )
+Note 12—Related Party Transactions
+The following tables summarize the related party balances and activities which are primarily with equity affiliates:
+Millions of Dollars
+March 31
+2026    December 31
+2025
+Balance Sheet
+Accounts and notes receivable
+$     74          79
+Accounts payable
+51          64
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Income Statement
+Operating revenues and other income
+$     11          24
+Purchased commodities
+( 3 )      2
+Production and operating expenses and selling, general and administrative expenses
+45          85
+17
+ConocoPhillips      2026 Q1 10-Q
+Notes to Consolidated Financial Statements
+Table of Contents
+Note 13—Employee Benefit Plans
+Pension and Postretirement Plans
+Millions of Dollars
+Pension Benefits
+Other Benefits
+2026     2025     2026     2025
+U.S.
+Int'l.
+U.S.
+Int'l.
+Components of net periodic benefit cost
+Three months ended March 31
+Service cost
+$     11           8           15         8         —           —
+Interest cost
+21           34           23         31         1           2
+Expected return on plan assets
+( 20 )      ( 53 )      ( 19 )      ( 45 )
+Amortization of prior service cost (credit)
+—           —           —         —        ( 1 )      ( 6 )
+Recognized net actuarial loss (gain)
+2           9           3         11         —           —
+Settlements     9           —           —         1         —           —
+Net periodic benefit cost
+$     23          ( 2 )       22         6         —          ( 4 )
+The components of net periodic benefit cost, other than the service cost component, are included in the "Other expenses" line of our consolidated income statement.
+During the three-month period ended March 31, 2026, lump-sum benefit payments exceeded the sum of service and interest costs for the year for the U.S. qualified pension plan. As a result, we recognized a proportionate share of prior actuarial losses from other comprehensive income as pension settlement expense of $ 9  million. In conjunction with the recognition of pension settlement expense, the fair market value of the pension plan assets was updated, and the pension benefit obligation of the U.S. qualified pension plan was remeasured at March 31, 2026. At the measurement date, the net pension liability increased by $ 39  million, primarily due to lower than premised return on assets, partially offset by an increase in the discount rate, resulting in a corresponding decrease to other comprehensive income.
+Severance Accrual
+The following table summarizes our severance accrual activity for the three-month period ended March 31, 2026:
+Millions of Dollars
+Balance at December 31, 2025
+$     378
+Accruals     10
+Benefit payments    ( 248 )
+Foreign currency translation adjustment    ( 1 )
+Balance at March 31, 2026*
+$     139
+*Of the balance at March 31, 2026, $ 82  million is classified as short-term. Partner recoveries of $ 53  million are accrued as receivables as of March 31, 2026.
+ConocoPhillips      2026 Q1 10-Q
+18
+Notes to Consolidated Financial Statements
+Table of Contents
+Note 14—Sales and Other Operating Revenues
+Revenue from Contracts with Customers
+The following table provides further disaggregation of our consolidated sales and other operating revenues:
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Revenue from contracts with customers
+$     13,500          14,479
+Revenue from contracts outside the scope of ASC Topic 606
+Physical contracts meeting the definition of a derivative
+2,139          1,970
+Financial derivative contracts
+122          68
+Consolidated sales and other operating revenues
+$     15,761          16,517
+We apply the practical expedient allowed in ASC Topic 606, “Revenue from Contracts with Customers,” and do not disclose the aggregate amount of the transaction price allocated to performance obligations or when we expect to recognize revenues that are unsatisfied as of the end of the reporting period.
+Revenues from contracts outside the scope of ASC Topic 606 relate primarily to physical gas contracts at market prices, which qualify as derivatives accounted for under ASC Topic 815, “Derivatives and Hedging,” and for which we have not elected NPNS. There is no significant difference in contractual terms or the policy for recognition of revenue from these contracts and those within the scope of ASC Topic 606. Further disaggregation of revenues is provided in    Note  16 —Segment Disclosures and Related Information .
+Receivables from Contracts with Customers
+At March 31, 2026, and December 31, 2025, the “Accounts and notes receivable, net” line on our consolidated balance sheet, presented net of allowances of $  4   million for each period, included trade receivables of $ 5,842  million compared with $ 4,416  million at December 31, 2025, and included both contracts with customers within the scope of ASC Topic 606 and those that are outside the scope of ASC Topic 606. We typically receive payment within 30 days or less (depending on the terms of the invoice) once delivery is made. Revenues that are outside the scope of ASC Topic 606 relate primarily to physical natural gas sales contracts at market prices for which we do not elect NPNS and are therefore accounted for as a derivative under ASC Topic 815. There is little distinction in the nature of the customer or credit quality of trade receivables associated with natural gas sold under contracts for which NPNS has not been elected compared with trade receivables where NPNS has been elected.
+19
+ConocoPhillips      2026 Q1 10-Q
+Notes to Consolidated Financial Statements
+Table of Contents
+Note 15—Earnings Per Share
+The following table presents the calculation of net income (loss) available to common shareholders and basic and diluted EPS. For the periods presented in the table below, diluted EPS calculated under the two-class method was more dilutive.
+Millions of Dollars
+(except per share amounts)
+Three Months Ended
+March 31
+2026    2025
+Basic earnings per share
+Net income (loss)    $     2,183          2,849
+Less: Dividends and undistributed earnings
+allocated to participating securities     6      9
+Net income (loss) available to common shareholders    $     2,177          2,840
+Weighted-average common shares outstanding (in millions)     1,224      1,273
+Net income (loss) per share of common stock    $     1.78          2.23
+Diluted earnings per share
+Net income (loss) available to common shareholders    $     2,177          2,840
+Weighted-average common shares outstanding (in millions)     1,224      1,273
+Add: Dilutive impact of options and unvested
+non-participating RSU/PSUs (in millions)     1      2
+Weighted-average diluted shares outstanding (in millions)     1,225      1,275
+Net income (loss) per share of common stock    $     1.78          2.23
+Note 16—Segment Disclosures and Related Information
+We explore for, produce, transport and market crude oil, bitumen, natural gas, LNG and NGLs on a worldwide basis. We manage our operations through  five  operating segments, which are primarily defined by geographic region: Alaska; Lower 48 (L48); Canada; Europe, Middle East and North Africa (EMENA); and Asia Pacific (AP).
+Corporate and Other (Corporate) represents income and costs not directly associated with an operating  segment , such as most interest expense, premiums on early retirement of debt, corporate overhead and certain technology activities, including licensing revenues. Corporate assets include all cash and cash equivalents and short-term investments.
+Our chief operating decision maker (CODM) is our Chairman of the Board of Directors and Chief Executive Officer, who evaluates performance and allocates resources among our operating segments based on each segment's net income (loss). This is done through the annual budget and forecasting process.
+Intersegment sales are at prices that approximate market.
+ConocoPhillips      2026 Q1 10-Q
+20
+Notes to Consolidated Financial Statements
+Table of Contents
+Analysis of Results by Operating Segment
+Three Months Ended March 31, 2026    Millions of Dollars
+Alaska    L48    Canada    EMENA    AP    Segments Total    Corporate    Consolidated Total
+Segment sales and other operating revenues
+Sales and other operating revenues  #
+$     1,523          11,086          1,673          1,627          501          16,410          22          16,432
+Intersegment eliminations     —         ( 6 )     ( 656 )      —          —         ( 662 )     ( 9 )     ( 671 )
+Consolidated sales and other operating revenues     1,523          11,080          1,017          1,627          501          15,748          13          15,761
+Significant segment expenses*
+Production and operating expenses     475          1,253          189          257          80          2,254          22          2,276
+DD&A     352          2,051          152          239          103          2,897          9          2,906
+Income tax provision (benefit)     92          395          27          725          60          1,299         ( 119 )      1,180
+Total     919          3,699          368          1,221          243          6,450         ( 88 )      6,362
+Other segment items
+Equity in earnings of affiliates     —          —          —         ( 95 )     ( 164 )     ( 259 )      12         ( 247 )
+Interest income     —          —          —          —          —          —         ( 109 )     ( 109 )
+Interest and debt expense     —          —          —          —          —          —          198          198
+Other**     310          5,978          564          236          127          7,215          159          7,374
+Total     310          5,978          564          141         ( 37 )      6,956          260          7,216
+Net income (loss)    $     294          1,403          85          265          295          2,342         ( 159 )      2,183
+#  Includes revenue from physical contracts meeting the definition of a derivative that are outside the scope of ASC Topic 606 for the L48, Canada and EMENA segments of $ 1.7  billion, $ 0.2  billion and $ 0.2  billion, respectively.
+*The significant segment expense categories and amounts in the table above align with segment-level information that is regularly provided to the CODM.
+**Other segment items not required to be separately disclosed for each reportable segment include:
+Gain (loss) on dispositions:   L48 and Corporate
+Other income:   L48, Canada, EMENA and Corporate
+Purchased commodities:   Alaska, L48, Canada, EMENA and AP
+Selling, general and administrative expenses:   L48, Canada, EMENA, AP and Corporate
+Exploration expenses, Taxes other than income taxes and Accretion on discounted liabilities:   Alaska, L48, Canada, EMENA, AP and Corporate
+Impairments:   Alaska and L48
+Foreign currency transaction (gain) loss:   Canada, EMENA, AP and Corporate
+Other expenses:   EMENA and Corporate
+Other Segment Disclosures
+Three Months Ended March 31, 2026    Millions of Dollars
+Alaska    L48    Canada    EMENA    AP    Segment Totals    Corporate    Consolidated Total
+Equity investments     $     3          1          —          2,354          4,950          7,308          1,648          8,956
+Total assets     20,808          62,678          9,892          10,839          8,328          112,545          10,180          122,725
+Capital expenditures and investments     949          1,505          121          262          82          2,919          29          2,948
+21
+ConocoPhillips      2026 Q1 10-Q
+Notes to Consolidated Financial Statements
+Table of Contents
+Three Months Ended March 31, 2025    Millions of Dollars
+Alaska    L48    Canada    EMENA    AP    Segment Totals    Corporate    Consolidated Total
+Segment sales and other operating revenues
+Sales and other operating revenues  #
+$     1,610        11,548        1,532        1,940        424        17,054        18        17,072
+Intersegment eliminations     —        —       ( 547 )      —        —       ( 547 )     ( 8 )     ( 555 )
+Consolidated sales and other operating revenues     1,610        11,548        985        1,940        424        16,507        10        16,517
+Significant segment expenses*
+Production and operating expenses     506        1,491        201        224        65        2,487        19        2,506
+DD&A     355        1,904        131        219        119        2,728        18        2,746
+Income tax provision (benefit)     139        448        81        922        64        1,654       ( 37 )      1,617
+Total     1,000        3,843        413        1,365        248        6,869        —        6,869
+Other segment items
+Equity in earnings of affiliates     —       ( 4 )      —       ( 173 )     ( 206 )     ( 383 )     ( 9 )     ( 392 )
+Interest income     —        —        —        —       ( 2 )     ( 2 )     ( 74 )     ( 76 )
+Interest and debt expense     —        —        —        —        —        —        205        205
+Other**     283        5,919        316        329        73        6,920        142        7,062
+Total     283        5,915        316        156       ( 135 )      6,535        264        6,799
+Net income (loss)    $     327        1,790        256        419        311        3,103       ( 254 )      2,849
+#  Includes revenue from physical contracts meeting the definition of a derivative that are outside the scope of ASC Topic 606 for the L48, Canada and EMENA segments of $ 1.5  billion, $ 0.2  billion and $ 0.3  billion, respectively.
+*The significant segment expense categories and amounts in the table above align with segment-level information that is regularly provided to the CODM.
+**Other segment items not required to be separately disclosed for each reportable segment include:
+Gain (loss) on dispositions:   L48 and Corporate
+Other income:   L48, Canada, EMENA, AP and Corporate
+Purchased commodities:   Alaska, L48, Canada, EMENA and AP
+Selling, general and administrative expenses, Exploration Expenses, Taxes other than income taxes and Accretion on discounted liabilities:   Alaska, L48, Canada, EMENA, AP and Corporate
+Impairments:   EMENA
+Foreign currency transaction (gain) loss:   Canada, EMENA, AP and Corporate
+Other expenses:   L48, EMENA and Corporate
+Other Segment Disclosures
+Three Months Ended March 31, 2025    Millions of Dollars
+Alaska    L48    Canada    EMENA    AP    Segment Totals    Corporate    Consolidated Total
+Equity investments    $     4        125        —        2,056        4,988        7,173        1,589        8,762
+Total assets     18,587        66,294        9,604        10,191        8,331        113,007        11,247        124,254
+Capital expenditures and investments     1,046        1,814        165        274        54        3,353        25        3,378
+ConocoPhillips      2026 Q1 10-Q
+22
+Notes to Consolidated Financial Statements
+Table of Contents
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Consolidated sales and other operating revenues
+Crude oil
+$     10,258          10,833
+Natural gas
+2,504          2,832
+Natural gas liquids
+922          1,055
+Other*
+2,077          1,797
+Total
+$     15,761          16,517
+*Includes bitumen, power and LNG.
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Revenue from physical contracts meeting the definition of a derivative outside the scope of ASC Topic 606
+Crude oil
+$     110          109
+Natural gas
+1,701          1,646
+Power
+328          215
+Total
+$     2,139          1,970
+Sales and other operating revenues by geographic location
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+U.S.
+$     12,516          13,112
+International     3,245          3,405
+Worldwide consolidated
+$     15,761          16,517
+*Sales and other operating revenues are attributable to countries based on the location of the selling operation.
+23
+ConocoPhillips      2026 Q1 10-Q
+Notes to Consolidated Financial Statements
+Table of Contents
+Note 17—Income Taxes
+Our effective tax rate for the three-month periods ended March 31, 2026, and March 31, 2025, was  35.1  percent and  36.2  percent, respectively. The change in the effective tax rate for the three-month period ended March 31, 2026, is primarily due to a shift in our mix of income among taxing jurisdictions, partially offset by the March 31, 2025 change to our valuation allowance, described below.
+During the first quarter of 2025, our valuation allowance decreased $ 56  million, relating to the expected utilization of previously unrecognized capital loss carryforwards due to our agreement to sell our interests in the Ursa and Europa fields, and the Ursa Oil Pipeline Company LLC to Shell Offshore Inc. and Shell Pipeline Company LP, respectively.
+The company has ongoing income tax audits in a number of jurisdictions. The government agents in charge of these audits regularly request additional time to complete audits, which we generally grant, and conversely, occasionally close audits unpredictably.
+Note 18—New Accounting Standards
+In November 2024, the FASB issued ASU No. 2024-03, “Disaggregation of Income Statement Expenses” to disaggregate the disclosures about a public business entity’s expenses (including purchases of inventory, employee compensation, depreciation, depletion and amortization) in commonly presented expense captions. The ASU will impact our financial statement disclosures only and will be applied prospectively with retrospective application permitted. The ASU is effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027, and early adoption is permitted. We are currently evaluating the impact of the adoption of this ASU.
+ConocoPhillips      2026 Q1 10-Q
+24
+Management’s Discussion and Analysis
+Table of Contents
+Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Management’s Discussion and Analysis is the company’s analysis of its financial performance and of significant trends that may affect future performance. It should be read in conjunction with the financial statements and notes. It contains forward-looking statements including, without limitation, statements relating to the company’s plans, strategies, objectives, expectations and intentions that are made pursuant to the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995. The words “ambition,” “anticipate,” “believe,” “budget,” “continue,” “could,” “effort,” “estimate,” “expect,” “forecast,” “goal,” “guidance,” “intend,” “may,” “objective,” “outlook,” “plan,” “potential,” “predict,” “projection,” “seek,” “should,” “target,” “will,” “would” and similar expressions identify forward-looking statements. The company does not undertake to update, revise or correct any of the forward-looking information unless required to do so under the federal securities laws. Readers are cautioned that such forward-looking statements should be read in conjunction with the company’s disclosures under the heading: “CAUTIONARY STATEMENT FOR THE PURPOSES OF THE ‘SAFE HARBOR’ PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995,” beginning on page    43   .
+The terms “earnings” and “loss” as used in Management’s Discussion and Analysis refer to net income (loss).
+Business Environment and Executive Overview
+ConocoPhillips is one of the world’s leading E&P companies based on production and reserves, with operations and activities in 14 countries. Our diverse, low cost of supply portfolio includes resource-rich unconventional plays in North America; conventional assets in North America, Europe, Africa and Asia; global LNG developments; oil sands in Canada; and an inventory of global exploration prospects. Headquartered in Houston, Texas, at March 31, 2026, we employed approximately 9,700 people worldwide and had total assets of $123 billion.
+Overview
+At ConocoPhillips, we anticipate that commodity prices will continue to be cyclical and volatile, and our view is that a successful business strategy in the E&P industry must be resilient in lower price environments while also retaining upside during periods of higher prices. As such, we are unhedged, remain committed to our disciplined investment framework and continually monitor market fundamentals, including the impacts associated with geopolitical tensions and conflicts, global demand for our products, oil and gas inventory levels, governmental policies, tariffs, inflation and supply chain disruptions. We continue to closely monitor the macroeconomic environment and the ongoing market volatility in the energy landscape and across global markets for implications to our business, results of operations and financial condition.
+Geopolitical tensions in the Middle East, including the ongoing conflict involving Iran, have increased volatility in global energy markets and may elevate risks to regional operations, infrastructure and shipping routes. We have investments in LNG facilities in Qatar, including one producing asset and two projects under construction. In March 2026, due to the conflict, QatarEnergy constrained LNG production at its major Ras Laffan facilities. Our investments have not been damaged, and there are no indications of impairment. However, further escalation could adversely affect operations, LNG transportation and construction and have broader supply chain impacts. Production from our Qatar investments was approximately four percent of total company production volumes in 2025. The company continues to monitor developments and prioritize the safety of personnel and the integrity of our operations.    See Note  3  .
+As the global energy industry continues to evolve, we remain committed to creating long-term value for our stockholders. We believe ConocoPhillips plays an essential role in responsibly meeting the global demand for energy, while continuing to deliver competitive returns on and of capital and working to meet our previously established emissions-reduction targets. Our value proposition to deliver competitive returns to stockholders through price cycles is guided by our foundational principles which consist of maintaining balance sheet strength, providing peer-leading distributions, making disciplined investments and demonstrating responsible and reliable ESG performance.
+In 2025, we made clear commitments to enhance portfolio value and structural profitability, and we remain focused on
+seeing those commitments through to completion. In the second half of 2025, we announced incremental cost reductions
+and margin enhancements exceeding $1 billion anticipated on a run-rate basis by year-end 2026, reflecting continued
+progress toward delivering sustainable improvements in our cost structure and margins.
+25
+ConocoPhillips      2026 Q1 10-Q
+Management’s Discussion and Analysis
+Table of Contents
+Production was 2,309 MBOED in the first quarter of 2026, a decrease of 80 MBOED from the same period a year ago. After adjusting for impacts from closed acquisitions and dispositions, first-quarter     2026 production decreased by 14 MBOED or one percent from the same period a year ago.
+First-quarter 2026 production resulted in $4.3 billion of cash provided by operating activities. We returned $2.0 billion to shareholders, consisting of $1.0 billion through share repurchases and $1.0 billion through our ordinary dividend. We ended the quarter with cash, cash equivalents, restricted cash and short-term investments totaling $6.7 billion and long-term investments in debt securities of $1.2 billion.
+Also in the first quarter of 2026, we re-invested $2.9 billion into the business in the form of capital expenditures and investments, with over half of the expenditures related to flexible, short-cycle unconventional plays in the Lower 48 segment.
+In April 2026, we declared a second-quarter ordinary dividend of $0.84 per share.
+ConocoPhillips      2026 Q1 10-Q
+26
+Management’s Discussion and Analysis
+Table of Contents
+Business Environment
+Commodity prices are the most significant factor impacting our profitability and related returns on and of capital to our shareholders. Dynamics that could influence world energy markets and commodity prices include, but are not limited to, global economic health, supply or demand disruptions or fears thereof caused by civil unrest, global pandemics, military conflicts, actions taken by OPEC Plus and other major oil producing countries, environmental laws, tariffs, governmental policies and weather-related disruptions. Our strategy is to create value through price cycles by delivering on the financial, operational and ESG priorities that underpin our value proposition.
+Our earnings and operating cash flows generally correlate with price levels for crude oil and natural gas, which are subject to factors external to the company and over which we have no control. The following graph depicts the trend in average benchmark prices for WTI crude oil, Brent crude oil and U.S. Henry Hub natural gas:
+The following table presents average prices for the first quarter of 2026 compared to the first quarter of 2025.
+Three Months Ended
+March 31
+Industry Prices    2026    2025    Change
+Brent ($ per BBL)    80.61    75.66    7     %
+WTI ($ per BBL)    71.93    71.42    1     %
+Henry Hub ($ per MMBTU)    5.05    3.65    38     %
+Average Realized Prices
+Crude ($ per BBL)    73.47        71.65      3     %
+Bitumen ($ per BBL)    50.37        45.29      11     %
+Gas ($ per MCF)    4.09        5.62      (27)    %
+Total ($ per BOE)    50.36        53.34      (6)    %
+Oil and bitumen prices were higher in the first quarter of 2026 compared to the same period of 2025 as Middle East supply disruptions corresponded to higher market prices.
+U.S. Henry Hub prices improved due to Winter Storm Fern impacts on market supplies. The risk of volatility in regional markers remains throughout 2026.
+Total realized prices were lower in the first quarter of 2026 compared to the same period of 2025 despite increased commodity prices, primarily due to lower realized gas prices in the Permian.
+27
+ConocoPhillips      2026 Q1 10-Q
+Management’s Discussion and Analysis
+Table of Contents
+Key Operating and Financial Summary
+•  Reported first-quarter 2026 earnings per share of $1.78;
+•  Generated cash provided by operating activities of $4.3 billion;
+•  Declared second-quarter ordinary dividend of $0.84 per share;
+•  Updated full-year production and capital guidance, operating cost guidance unchanged;
+•  Delivered total company and Lower 48 production of 2,309 MBOED and 1,453 MBOED, respectively;
+•  Distributed   $2.0 billion to shareholders, including $1.0 billion through share repurchases and $1.0 billion through the ordinary dividend;
+•  Conducted successful Willow winter construction season with project achieving 50% completion;
+•  Completed four-well Alaska winter exploration program with evaluation underway and secured high-priority acreage in National Petroleum Reserve in Alaska (NPR-A) lease sale;
+•  Enhanced Lower 48 capital efficiency by more than doubling percentage of 3-mile plus lateral length wells drilled compared with prior year;
+•  Executed LNG tolling agreement for third-party operated gas volumes in Equatorial Guinea, extending life of LNG facility well into the next decade; and
+•  Ended the quarter with cash, cash equivalents, restricted cash and short-term investments of $6.7 billion and long-term investments of $1.2 billion.
+Outlook
+Production and Capital
+For the second quarter, the company is excluding Qatar from production guidance, given uncertainty surrounding the conflict in the Middle East. Second-quarter production is expected to be 2.185 to 2.215 MMBOED.
+Full-year production is expected to be 2.295 to 2.325 MMBOED. This reflects a 20 MBOED annual adjustment for Qatar, given the exclusion of Qatar production from second-quarter guidance, as well as a 15 MBOED annual royalty rate adjustment at Surmont due to higher oil prices.
+Capital spending for 2026 is expected to be $12 to $12.5 billion.
+All other guidance remains unchanged.
+ConocoPhillips      2026 Q1 10-Q
+28
+Results of Operations
+Table of Contents
+Results of Operations
+Unless otherwise indicated, discussion of consolidated results for the three-month period ended March 31, 2026, is based on a comparison with the corresponding period of 2025. Throughout the document, certain totals and percentages may differ from the precise sum of the underlying components due to rounding.
+Consolidated Results
+Summary Operating Statistics
+Three Months Ended
+March 31
+2026    2025
+Average Net Production
+Crude oil (MBD)
+Consolidated operations
+1,100        1,153
+Equity affiliates
+11        13
+Total crude oil
+1,111        1,166
+Natural gas liquids (MBD)
+Consolidated operations
+408        394
+Equity affiliates
+7        8
+Total natural gas liquids
+415        402
+Bitumen (MBD)
+118        143
+Natural gas (MMCFD)
+Consolidated operations
+2,822        2,840
+Equity affiliates
+1,166        1,230
+Total natural gas
+3,988        4,070
+Total Production   (MBOED)
+2,309        2,389
+Total Production   (MMBOE)
+208        215
+Dollars Per Unit
+Average Sales Prices
+Crude oil (per BBL)
+Consolidated operations
+$    73.52        71.61
+Equity affiliates
+68.79        75.57
+Total crude oil
+73.47        71.65
+Natural gas liquids (per BBL)
+Consolidated operations    20.06        24.86
+Equity affiliates
+46.27        52.34
+Total natural gas liquids
+20.42        25.40
+Bitumen (per BBL)
+50.37        45.29
+Natural gas (per MCF)
+Consolidated operations    3.34        4.76
+Equity affiliates
+5.87        7.56
+Total natural gas
+$    4.09        5.62
+29
+ConocoPhillips      2026 Q1 10-Q
+Results of Operations
+Table of Contents
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Exploration Expenses
+General administrative, geological and geophysical,
+lease rental and other
+$    75        56
+Leasehold impairment
+25        18
+Dry hole
+9        43
+Total exploration expenses    $    109        117
+Total Company Production
+We explore for, produce, transport and market crude oil, bitumen, natural gas, LNG and NGLs on a worldwide basis. In the quarter ended March 31, 2026, our operations were producing in the U.S., Australia, Canada, China, Equatorial Guinea, Libya, Malaysia, Norway and Qatar.
+Total production in the first quarter of 2026 was 2,309 MBOED, a decrease of 80 MBOED or three percent from the same period a year ago. Production decreases were primarily driven by normal field decline.
+Production decreases were partly offset by new wells online in the Lower 48, Canada, Alaska, China, Australia and Libya.
+After adjusting for impacts from closed acquisitions and dispositions, first-quarter     2026 production decreased by 14 MBOED or one percent from the same period a year ago.
+ConocoPhillips      2026 Q1 10-Q
+30
+Results of Operations
+Table of Contents
+Income Statement Analysis
+Unless otherwise indicated, all results in Income Statement Analysis are before-tax.
+Below is select financial data provided on a consolidated basis. The full Income Statement can be found in    Item 1. Financial Statements   .
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Sales and other operating revenues    $    15,761        16,517
+Equity in earnings of affiliates    247        392
+Purchased commodities    6,283        6,188
+Production and operating expenses    2,276        2,506
+Depreciation, depletion and amortization    2,906        2,746
+Taxes other than income taxes    607        551
+Sales and other operating revenues   for the three-month period of 2026 decreased $756 million. Decreases include lower volumes of $420 million and lower realized natural gas and NGL prices of $537 million. These decreases were partly offset by higher crude and bitumen prices of $243 million.
+Equity in earnings of affiliates   for the three-month period of 2026 decreased $145 million due to lower earnings primarily driven by lower prices and production. There were no impairment indicators identified during the quarter, and we continue to monitor the recoverability of our equity method investments.
+Purchased commodities   for the three-month period of 2026 increased $95 million, primarily due to higher power prices, higher power and gas volumes and higher LNG activity. These increases were partly offset by lower derivatives impacts and crude volumes.
+Production and operating expenses   for the three-month period of 2026 decreased $230 million, primarily due to lower activity levels and increased efficiencies.
+DD&A   for the three-month period of 2026 increased $160 million, primarily due to higher DD&A rates, driven by higher net book values from the finalized allocations of our Marathon Oil purchase price to specific assets and lower proved developed reserves as of December 31, 2025.
+31
+ConocoPhillips      2026 Q1 10-Q
+Results of Operations
+Table of Contents
+Segment Results
+Unless otherwise indicated, discussion of segment results for the three-month period ended March 31, 2026, is based on a comparison with the corresponding period of 2025 and are shown after-tax.
+A summary of the company's net income (loss) by business segment follows:
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Alaska
+$    294        327
+Lower 48
+1,403        1,790
+Canada
+85        256
+Europe, Middle East and North Africa
+265        419
+Asia Pacific
+295        311
+Segment Totals
+2,342        3,103
+Corporate and Other
+(159)     (254)
+Net income (loss)
+$    2,183        2,849
+For further discussion of segment results, see the following pages.
+ConocoPhillips      2026 Q1 10-Q
+32
+Results of Operations
+Table of Contents
+Alaska
+Three Months Ended
+March 31
+2026    2025
+Select financial data by segment before-tax   ($MM)
+Sales and other operating revenues    $    1,523        1,610
+Production and operating expenses    475        506
+Depreciation, depletion and amortization    352        355
+Taxes other than income taxes    148        60
+Net income (loss)   ($MM)
+$    294        327
+Average Net Production
+Crude oil (MBD)
+176        184
+Natural gas liquids (MBD)
+15        16
+Natural gas (MMCFD)
+25        48
+Total Production   (MBOED)
+195        208
+Total Production   (MMBOE)
+18        19
+Average Sales Prices
+Crude oil ($ per BBL)
+$    81.77        76.58
+Natural gas ($ per MCF)
+3.73        3.87
+The Alaska segment primarily explores for, produces, transports and markets crude oil, NGLs and natural gas. As of March 31, 2026, Alaska contributed 12 percent of our consolidated liquids production and one percent of our consolidated natural gas production.
+Net Income (Loss)
+Alaska reported earnings of $294 million in the first quarter of 2026, compared with earnings of $327 million in the first quarter of 2025.
+Earnings in the first quarter of 2026 included lower sales revenues resulting from lower produced volumes of $53 million and timing of sales. These decreases were partly offset by higher realized prices of $68 million. Additional decreases to earnings included higher taxes other than income taxes of $67 million, driven by the absence of an impact from the settlement of a contingent matter, and higher exploration expenses of $20 million, primarily driven by increased seismic work. Increases to earnings included lower production and operating expenses of $24 million driven by lower workover activity.
+Production
+Average production decreased 13 MBOED in the three-month period of 2026 primarily driven by normal field decline.
+The production decreases were partly offset by new wells online in the second half of 2025.
+33
+ConocoPhillips      2026 Q1 10-Q
+Results of Operations
+Table of Contents
+Lower 48
+Three Months Ended
+March 31
+2026    2025
+Select financial data by segment before-tax   ($MM)
+Sales and other operating revenues    $    11,080        11,548
+Production and operating expenses    1,253        1,491
+Depreciation, depletion and amortization    2,051        1,904
+Taxes other than income taxes    394        429
+Net income (loss)   ($MM)
+$    1,403        1,790
+Average Net Production
+Crude oil (MBD)
+731        753
+Natural gas liquids (MBD)
+377        363
+Natural gas (MMCFD)
+2,067        2,080
+Total Production   (MBOED)
+1,453        1,462
+Total Production   (MMBOE)
+131        132
+Average Sales Prices
+Crude oil ($ per BBL)
+$    70.30        69.47
+Natural gas liquids ($ per BBL)
+19.82        24.84
+Natural gas ($ per MCF)
+1.19        2.65
+The Lower 48 segment consists of operations located in the U.S. Lower 48 states and commercial operations. As of March 31, 2026, the Lower 48 contributed 68 percent of our consolidated liquids production and 73 percent of our consolidated natural gas production.
+Net Income (Loss)
+Lower 48 reported earnings of $1,403 million in the first quarter of 2026, compared with earnings of $1,790 million in the first quarter of 2025.
+Earnings in the first quarter of 2026 included lower sales revenues resulting from lower overall realized prices of $303 million, driven by lower gas realizations and NGL prices, and lower volumes of $85 million. Additional decreases to earnings include higher DD&A of $115 million, primarily driven by higher rates, due to higher net book values from the finalized allocations of our Marathon Oil purchase price to specific assets, and lower proved developed reserves as of December 31, 2025. Increases to earnings in the first quarter of 2026 included lower production and operating expenses of $186 million, primarily driven by efficiencies and decreased activity.
+Production
+Average production decreased nine MBOED in the three-month period of 2026. Production decreases were primarily driven by normal field decline and dispositions of assets in 2025.
+Decreases to production were partly offset by new wells online from our development programs in the Delaware Basin, Eagle Ford, Midland Basin and Bakken.
+ConocoPhillips      2026 Q1 10-Q
+34
+Results of Operations
+Table of Contents
+Canada
+Three Months Ended
+March 31
+2026    2025
+Select financial data by segment before-tax   ($MM)
+Sales and other operating revenues    $    1,017        985
+Production and operating expenses    189        201
+Depreciation, depletion and amortization    152        131
+Taxes other than income taxes    10        9
+Net income (loss)   ($MM)
+$    85        256
+Average Net Production
+Crude oil (MBD)
+16        17
+Natural gas liquids (MBD)
+7        6
+Bitumen (MBD)
+118        143
+Natural gas (MMCFD)
+131        109
+Total Production   (MBOED)
+164        184
+Total Production   (MMBOE)
+15        17
+Average Sales Prices
+Crude oil ($ per BBL)
+$    64.13        62.41
+Natural gas liquids ($ per BBL)
+29.33        27.96
+Bitumen ($ per BBL)
+50.37        45.29
+Natural gas ($ per MCF)*
+1.68        1.35
+*Average sales prices include unutilized transportation costs.
+The Canada segment operations include the Surmont oil sands development in Alberta, the Montney unconventional play in British Columbia and commercial operations. As of March 31, 2026, Canada contributed nine percent of our consolidated liquids production and five percent of our consolidated natural gas production.
+Net Income (Loss)
+Canada reported earnings of $85 million in the first quarter of 2026, compared with earnings of $256 million in the first quarter of 2025.
+Earnings in the first quarter of 2026 included higher sales revenues resulting from higher realized prices of $46 million and timing of sales. These increases were partly offset by lower volumes of $78 million and a pending claim of $63 million. Additional decreases to earnings included lower other income of $56 million primarily from a change in the fair value measurement associated with the Surmont contingent consideration arrangement.    See Note  8  .
+Production
+Average production decreased 20 MBOED in the three-month period of 2026. Decreases to production resulted from higher variable royalties in Surmont following a post-payout event in 2025 and a rate increase due to higher prices, as well as normal field decline. The Surmont royalties are based on a sliding scale ranging from 25 percent to 40 percent, calculated under the oil sands royalty regime as a percentage of gross revenue, net of allowable deductions post-payout, indexed to WTI prices between $55 CAD and $120 CAD.
+Production decreases were partly offset by new wells online in the Montney area.
+35
+ConocoPhillips      2026 Q1 10-Q
+Results of Operations
+Table of Contents
+Europe, Middle East and North Africa
+Three Months Ended
+March 31
+2026    2025
+Select financial data by segment before-tax   ($MM)
+Sales and other operating revenues    $    1,627        1,940
+Production and operating expenses    257        224
+Depreciation, depletion and amortization    239        219
+Taxes other than income taxes    15        12
+Net income (loss)   ($MM)
+$    265        419
+Consolidated Operations
+Average Net Production
+Crude oil (MBD)
+121        136
+Natural gas liquids (MBD)
+8        9
+Natural gas (MMCFD)
+525        538
+Total Production   (MBOED)
+216        235
+Total Production   (MMBOE)
+19        21
+Average Sales Prices
+Crude oil ($ per BBL)
+$    77.71        74.60
+Natural gas liquids ($ per BBL)
+22.46        23.76
+Natural gas ($ per MCF)
+11.71        13.16
+Production and sales prices exclude equity affiliates. See    Summary Operating Statistics    for equity affiliate totals.
+The Europe, Middle East and North Africa segment consists of operations principally located in the Norwegian sector of the North Sea and the Norwegian Sea, Qatar, Libya, Equatorial Guinea and commercial and terminalling operations in the U.K. As of March 31, 2026, our Europe, Middle East and North Africa operations contributed eight percent of our consolidated liquids production and 19 percent of our consolidated natural gas production.
+Net Income (Loss)
+Europe, Middle East and North Africa reported earnings of $265 million in the first quarter of 2026, compared with earnings of $419 million in the first quarter of 2025.
+Earnings in the first quarter of 2026 included lower revenues inclusive of lower volumes of $32 million and lower realized prices of $10 million primarily from lower gas prices, partly offset by higher crude prices. Additional decreases to earnings included lower earnings from equity affiliates of $21 million, primarily driven by lower prices and volumes and tax impacts of $60 million due to a shift in our mix of income among taxing jurisdictions.
+Consolidated Production
+Average consolidated production decreased 19 MBOED in the three-month period of 2026. Decreases to production were due to normal field decline and higher downtime in Libya and Norway.
+Production decreases were partly offset by new wells online in Libya and improved performance in Equatorial Guinea and Norway.
+Qatar
+We have investments in LNG facilities in Qatar, including one producing asset and two projects under construction. In March 2026, due to the conflict in the Middle East, QatarEnergy constrained LNG production at its major Ras Laffan facilities. Our investments have not been damaged, and there are no indications of impairment. However, further escalation could adversely affect operations, LNG transportation and construction and have broader supply chain impacts. The company continues to monitor developments and prioritize the safety of personnel and the integrity of our operations.    See Note  3  .
+ConocoPhillips      2026 Q1 10-Q
+36
+Results of Operations
+Table of Contents
+Asia Pacific
+Three Months Ended
+March 31
+2026    2025
+Select financial data by segment before-tax   ($MM)
+Sales and other operating revenues    $    501        424
+Production and operating expenses    80        65
+Depreciation, depletion and amortization    103        119
+Taxes other than income taxes    24        17
+Net income (loss)   ($MM)
+$    295        311
+Consolidated Operations
+Average Net Production
+Crude oil (MBD)    56        63
+Natural gas (MMCFD)
+74        65
+Total Production   (MBOED)
+69        74
+Total Production   (MMBOE)
+6        7
+Average Sales Prices
+Crude oil ($ per BBL)
+$    81.14        76.64
+Natural gas ($ per MCF)
+3.34        3.67
+Production and sales prices exclude equity affiliates. See    Summary Operating Statistics    for equity affiliate totals.
+The Asia Pacific segment has operations in China, Malaysia, Australia and commercial operations in China, Singapore and Japan. As of March 31, 2026, Asia Pacific contributed three percent of our consolidated liquids production and three percent of our consolidated natural gas production.
+Net Income (Loss)
+Asia Pacific reported earnings of $295 million in the first quarter of 2026, compared with earnings of $311 million in the first quarter of 2025.
+Earnings in the first quarter of 2026 included lower earnings from equity affiliates of $35 million, primarily due to lower LNG marker prices. Increases to earnings included lower exploration expenses of $31 million, primarily driven by the absence of dry hole expenses associated with certain suspended wells.
+Consolidated Production
+Average consolidated production decreased five MBOED in the three-month period of 2026. Decreases to production were primarily due to normal field decline.
+Production decreases were partly offset by development activity in Bohai Bay in China.
+37
+ConocoPhillips      2026 Q1 10-Q
+Results of Operations
+Table of Contents
+Corporate and Other
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Net income (loss)
+Net interest expense
+$    (78)     (111)
+Corporate G&A expenses
+(97)     (110)
+Technology
+(7)     (18)
+Other income (expense)
+23        (15)
+$    (159)     (254)
+Net interest expense consists of interest and debt expense, net of interest income and capitalized interest. Net interest expense decreased in the three-month period of 2026 due to higher interest income and higher capitalized interest partly offset by the absence of an impact from the settlement of a contingent matter.
+Corporate G&A expenses include compensation programs and staff costs. Corporate G&A expenses decreased in the three-month period of 2026, primarily due to the absence of transaction and integration expenses associated with our acquisition of Marathon Oil  .
+Technology includes our investments in low-carbon and other new technologies or businesses and licensing revenues. Other new technologies or businesses and licensing activities are focused on both conventional and tight oil reservoirs, shale gas, oil sands, enhanced oil recovery, as well as LNG.
+Other income (expense) or "Other" includes certain foreign currency transaction gains and losses, environmental costs associated with sites no longer in operation, other costs not directly associated with an operating segment, gains or losses on early retirement of debt, holding gains or losses on equity securities and pension settlement expense. "Other" was improved in the first quarter of 2026 primarily due to a consolidating tax adjustment.
+ConocoPhillips      2026 Q1 10-Q
+38
+Capital Resources and Liquidity
+Table of Contents
+Capital Resources and Liquidity
+Financial Indicators
+Millions of Dollars
+March 31
+2026    December 31
+2025
+Cash and cash equivalents    $    5,877        6,497
+Short-term investments    486        484
+Short-term debt    1,065        1,020
+Total debt    23,327        23,444
+Total equity    64,541        64,487
+Percent of total debt to capital*    27       %    27
+Percent of floating-rate debt to total debt    1       %    1
+*  Capital includes total debt and total equity.
+To meet our short-term and long-term liquidity requirements, we look to a variety of funding sources, including cash generated from operating activities, our commercial paper and credit facility programs and our ability to sell securities using our shelf registration statement. During the first three months of 2026, the primary uses of our available cash were $2.9 billion to support our ongoing capital expenditures and investments program, $1.0 billion to repurchase common stock, $1.0 billion to pay the ordinary dividend and $0.1 billion to retire debt.
+At March 31, 2026, we had total liquidity of $11.9 billion, comprised of cash and cash equivalents of $5.9 billion, short-term investments of $0.5 billion and available borrowing capacity under our credit facility of $5.5 billion. In addition, we have $1.2 billion of long-term investments in debt securities. We believe current cash balances and cash generated by operating activities, together with access to external sources of funds as described below in the “Significant Changes in Capital” section, will be sufficient to meet our funding requirements in the near- and long-term, including our capital spending program, capital return program and required debt payments.
+Significant Changes in Capital
+Operating Activities
+Cash provided by operating activities totaled $4.3 billion for the first three months of 2026 compared with $6.1 billion for the corresponding period of 2025. The decrease resulted from receivable timing, lower production and lower realized commodity prices.
+Our short-term and long-term operating cash flows are highly dependent on the prices for crude oil, bitumen, natural gas, LNG and NGLs. Prices and margins in our industry have historically been volatile, driven by market conditions beyond our control. Absent other mitigating factors, as these prices and margins fluctuate, we would expect a corresponding change in our operating cash flows.
+The level of absolute production volumes, as well as the product and location mix, is another significant factor impacting our cash flows. Future production is subject to numerous uncertainties, including, among others, the volatile crude oil and natural gas price environment, which may impact investment decisions; the effects of price changes on production sharing and variable-royalty contracts; acquisition and disposition of fields; field production decline rates; new technologies; operating efficiencies; timing of startups and major turnarounds; political instability; government regulations; weather-related disruptions; and the addition of proved reserves through exploratory success and their timely and cost-effective development. While we actively monitor and manage these factors, changes in production levels can cause variability in cash flows, although we generally experience less variability in our cash flows due to changes in production levels than due to changes in commodity prices.
+To maintain or grow our production volumes, we must continue adding to our proved reserve base. See the    “Capital Expenditures and Investments”    section.
+39
+ConocoPhillips      2026 Q1 10-Q
+Capital Resources and Liquidity
+Table of Contents
+Investing Activities
+For the first three months of 2026, we invested $2.9 billion in capital expenditures and investments. See the    “Capital Expenditures and Investments”    section.
+Proceeds from asset sales were immaterial in the first three months of 2026. In the first three months of 2025, proceeds from asset sales were $0.6 billion, primarily from the sale of assets in our Lower 48 segment.
+We invest in short-term and long-term investments as part of our cash investment strategy, the primary objective of which is to protect principal, maintain liquidity and provide yield and total returns. These investments include time deposits, commercial paper, as well as debt securities classified as available for sale. Short-term funds needed to support our operating plan and provide resiliency to react to short-term price volatility are invested in highly liquid instruments with maturities of less than one year. Funds we consider available to maintain resiliency in longer-term price downturns and to capture opportunities outside a given operating plan may be invested in instruments with maturities of greater than one year.    See N  ote    7.
+Investing activities in the first three months of 2026 included net purchases of $30 million of investments. We had net sales of $155 million of short-term investments and net purchases of $185 million of long-term investments  .    See Note  11.
+Financing Activities
+In the first quarter of 2026, the company retired $67 million principal amount of our 6.875% Notes at maturity.
+We have a revolving credit facility totaling $5.5 billion with a maturity date of February 2030. The credit facility may be used for direct bank borrowings, the issuance of letters of credit totaling up to $500 million or as support for our commercial paper program. With no commercial paper outstanding and no direct borrowings or letters of credit, we had access to $5.5 billion in available borrowing capacity under our revolving credit facility at March 31, 2026.
+Our debt balance at March 31, 2026, was $23.3 billion compared with $23.4 billion at December 31, 2025. The current portion of debt, including future payments for finance leases, is $1.1 billion at March 31, 2026. Debt payments are expected to be made using current cash balances and cash provided by operating activities.
+Fitch and Moody's affirmed our long-term debt credit ratings in February and April 2026, respectively. The current long-term debt credit ratings are:
+•  Fitch: “A” with a “stable” outlook
+•  S&P: “A-” with a “stable” outlook
+•  Moody's: “A2” with a “stable” outlook
+See Note  4   for additional information on debt.
+Certain of our project-related contracts, commercial contracts and derivative instruments contain provisions requiring us to post collateral. Many of these contracts and instruments permit us to post either cash or letters of credit as collateral. At March 31, 2026, and December 31, 2025, we had direct bank letters of credit of $391 million and $331 million, respectively, which secured performance obligations related to various purchase commitments incident to the ordinary conduct of business. In the event of a credit rating downgrade, we may be required to post additional letters of credit.
+Shelf Registration
+We have a universal shelf registration statement on file with the SEC under which we have the ability to issue and sell an indeterminate number of various types of debt and equity securities.
+Capital Requirements
+For information about our capital expenditures and investments, see the   “ Capital Expenditures and Investments ”   section.
+We believe in delivering value to our shareholders through our return of capital framework. The framework is structured to deliver a compelling, growing ordinary dividend and through-cycle share repurchases. We anticipate returning greater than 30 percent of cash from operating activities through cycles.
+In the first three months of 2026, we paid ordinary dividends of $0.84 per share, and in the first three months of 2025, we paid ordinary dividends of $0.78 per share.
+ConocoPhillips      2026 Q1 10-Q
+40
+Capital Resources and Liquidity
+Table of Contents
+In April 2026, we declared an ordinary dividend of $0.84 per share, payable June 1, 2026, to shareholders of record on May 11, 2026.
+In late 2016, we initiated our current share repurchase program. In October 2024, our Board of Directors approved an increase from our prior authorization of $45 billion by a total of the lesser of $20 billion or the number of shares issued in our acquisition of Marathon Oil, such that the company is not to exceed $65 billion in aggregate purchases. Share repurchases are made at management’s discretion, at prevailing prices, subject to market conditions and other factors. As of March 31, 2026, share repurchases since the inception of our current program totaled 495.3 million shares and $40.3 billion. In the three months ended March 31, 2026, we repurchased 9.2 million shares for a cost of $1.0 billion.
+Capital Expenditures and Investments
+Millions of Dollars
+Three Months Ended
+March 31
+2026    2025
+Alaska    $    949        1,046
+Lower 48    1,505        1,814
+Canada    121        165
+Europe, Middle East and North Africa    262        274
+Asia Pacific    82        54
+Segment Totals    2,919        3,353
+Corporate and Other    29        25
+Capital expenditures and investments    $    2,948        3,378
+During the first three months of 2026, capital expenditures and investments supported key operating activities and acquisitions, primarily:
+•  Appraisal and development activities in Alaska related to the Western North Slope, inclusive of Willow, development activities in the Greater Kuparuk Area and exploration in the NPR-A.
+•  Development activities in the Lower 48, primarily in the Delaware Basin, Eagle Ford, Midland Basin and Bakken.
+•  Appraisal and development activities in the Montney as well as development and optimization of Surmont in Canada.
+•  Development and appraisal activities across assets in Norway and development activities in Libya.
+•  Continued development activities in China.
+•  Investments in our global LNG operations.
+Our 2026 operating plan capital expenditure guidance is currently expected to be approximately $12 to $12.5 billion. Our capital expenditures and investments were $12.6 billion in 2025.
+41
+ConocoPhillips      2026 Q1 10-Q
+Capital Resources and Liquidity
+Table of Contents
+Guarantor Summarized Financial Information
+We have various cross guarantees among our Obligor Group: ConocoPhillips, ConocoPhillips Company and Burlington Resources LLC, with respect to publicly held debt securities. ConocoPhillips Company is 100 percent owned by ConocoPhillips. Burlington Resources LLC is 100 percent owned by ConocoPhillips Company. ConocoPhillips and/or ConocoPhillips Company have fully and unconditionally guaranteed the payment obligations of Burlington Resources LLC, with respect to its publicly held debt securities. Similarly, ConocoPhillips has fully and unconditionally guaranteed the payment obligations of ConocoPhillips Company with respect to its publicly held debt securities. In addition, ConocoPhillips Company has fully and unconditionally guaranteed the payment obligations of ConocoPhillips with respect to its publicly held debt securities. All guarantees are joint and several.
+The following tables present summarized financial information for the Obligor Group, as defined below:
+•  The Obligor Group will reflect guarantors and issuers of guaranteed securities consisting of ConocoPhillips, ConocoPhillips Company and Burlington Resources LLC.
+•  Consolidating adjustments for elimination of investments in and transactions between the collective guarantors and issuers of guaranteed securities are reflected in the balances of the summarized financial information.
+•  Non-Obligated Subsidiaries are excluded from the presentation.
+Transactions and balances reflecting activity between the Obligors and Non-Obligated Subsidiaries are presented below:
+Summarized Income Statement Data
+Millions of Dollars
+Three Months Ended
+March 31, 2026
+Revenues and Other Income
+$    11,181
+Income (loss) before income taxes*
+2,050
+Net income (loss)
+2,183
+*Includes approximately $3.9 billion of purchased commodities expense for transactions with Non-Obligated Subsidiaries.
+Summarized Balance Sheet Data
+Millions of Dollars
+March 31
+2026    December 31
+2025
+Current Assets
+$    8,091        8,206
+Amounts due from Non-Obligated Subsidiaries, current
+930        855
+Noncurrent Assets
+130,651        130,320
+Amounts due from Non-Obligated Subsidiaries, noncurrent
+10,647        11,231
+Current Liabilities
+4,874        4,947
+Amounts due to Non-Obligated Subsidiaries, current
+1,350        1,244
+Noncurrent Liabilities
+75,060        74,824
+Amounts due to Non-Obligated Subsidiaries, noncurrent
+53,008        52,813
+Contingencies
+We are subject to legal proceedings, claims and liabilities that arise in the ordinary course of business, including environmental obligations and climate-related risks.    See Note  6  .   For more discussion, please see the "Contingencies" section in Management's Discussion and Analysis of Financial Condition and Results of Operations of our 2025 Annual Report on Form 10-K.
+ConocoPhillips      2026 Q1 10-Q
+42
+Table of Contents
+Cautionary Statement for the Purposes of the “Safe Harbor” Provisions of the Private Securities Litigation Reform Act of 1995
+This report includes forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. All statements other than statements of historical fact included or incorporated by reference in this report, including, without limitation, statements regarding our future financial position, business strategy, budgets, projected revenues, costs and plans, objectives of management for future operations, are forward-looking statements. Examples of forward-looking statements contained in this report include our expected production growth and outlook on the business environment generally, our expected capital budget and capital expenditures and discussions concerning development or replacement of reserves and future dividends. You can often identify our forward-looking statements by the words “  ambition  ,” “  anticipate  ,” “  believe  ,” “  budget  ,” “  continue  ,” “  could  ,” “  effort  ,” “  estimate  ,” “  expect  ,” “  forecast  ,” “  goal  ,” “  guidance  ,” “  intend  ,” “  may  ,” “  objective  ,” “  outlook  ,” “  plan  ,” “  potential  ,” “  predict  ,” “  projection  ,” “  seek  ,” “  should  ,” “  target  ,” “  will  ,” “  would  ” and similar expressions.
+We based our forward-looking statements on our current expectations, estimates and projections about ourselves and the industries in which we operate in general. We caution you these statements are not guarantees of future performance as they involve assumptions that, while made in good faith, may prove to be incorrect or inaccurate, and involve risks and uncertainties we cannot predict. Accordingly, our actual outcomes and results may differ materially from what we have expressed or forecast in the forward-looking statements. Any differences could result from a variety of factors and uncertainties, including, but not limited to, the following:
+•  Effects of volatile commodity prices, including prolonged periods of low commodity prices, which may adversely impact our operating results and our ability to execute on our strategy and could result in recognition of impairment charges on our long-lived assets, leaseholds and nonconsolidated equity investments.
+•  Global and regional changes in the demand, supply, prices, differentials or other market conditions affecting oil and gas, including changes as a result of any ongoing military conflict and the global response to such conflict; geopolitical tensions; security threats on facilities and infrastructure; global health crises; the imposition or lifting of crude oil production quotas or other actions that might be imposed by OPEC and other producing countries; or the resulting company or third-party actions in response to such changes.
+•  The potential for insufficient liquidity or other factors, such as those described herein, that could impact our ability to repurchase shares and declare and pay dividends.
+•  Potential failures or delays in achieving expected reserve or production levels from existing and future oil and gas developments, including due to operating hazards, drilling risks and the inherent uncertainties in predicting reserves and reservoir performance.
+•  Reductions in our reserve replacement rates, whether as a result of significant declines in commodity prices or otherwise.
+•  Unsuccessful exploratory drilling activities or the inability to obtain access to exploratory acreage.
+•  Failure to progress or complete announced and future development plans related to constructing, modifying or operating E&P and LNG facilities, or unexpected changes in costs, inflationary pressures or technical equipment related to such plans.
+•  Significant operational or investment changes imposed by legislative and regulatory initiatives and international agreements addressing environmental concerns, including initiatives addressing the impact of global climate change, such as limiting or reducing GHG emissions; regulations concerning hydraulic fracturing, methane emissions, flaring or water disposal; and prohibitions on commodity exports.
+•  Broader societal attention to and efforts to address climate change may cause substantial investment in and increased adoption of competing or alternative energy sources.
+•  Risks, uncertainties and high costs that may prevent us from successfully executing on our Climate-related Risk Strategy.
+•  Lack or inadequacy of, or disruptions in, reliable transportation for our crude oil, bitumen, natural gas, LNG and NGLs.
+•  Inability to timely obtain or maintain permits, including those necessary for construction, drilling and/or development, or inability to make capital expenditures required to maintain compliance with any necessary permits or applicable laws or regulations.
+•  Potential disruption or interruption of our operations and any resulting consequences due to accidents; extraordinary weather events; supply chain disruptions; civil unrest; political events; war; terrorism; cybersecurity threats or information technology failures, constraints or disruptions.
+43
+ConocoPhillips      2026 Q1 10-Q
+Table of Contents
+•  Liability for remedial actions, including removal and reclamation obligations, under existing or future environmental regulations and litigation.
+•  Liability resulting from pending or future litigation or our failure to comply with applicable laws and regulations.
+•  General domestic and international economic, political and diplomatic developments, including deterioration of international trade relationships; the imposition of trade restrictions or tariffs relating to commodities and material or products (such as aluminum and steel) used in the operation of our business; expropriation of assets; changes in governmental policies relating to commodity pricing, including the imposition of price caps; sanctions; or other adverse regulations or taxation policies.
+•  Competition and consolidation in the oil and gas E&P industry, including competition for sources of supply, services, personnel and equipment.
+•  Any limitations on our access to capital or increase in our cost of capital or insurance, including as a result of illiquidity, changes or uncertainty in domestic or international financial markets, foreign currency exchange rate fluctuations or investment sentiment.
+•  Challenges or delays to our execution of, or successful implementation of any future asset dispositions or acquisitions we elect to pursue; potential disruption of our operations, including the diversion of management time and attention; our inability to realize anticipated cost savings or capital expenditure reductions; difficulties integrating acquired businesses and technologies; or other unanticipated changes.
+•  Our inability to deploy the net proceeds from any asset dispositions that are pending or that we elect to undertake in the future in the manner and timeframe we anticipate, if at all.
+•  The operation, financing and management of risks of our joint ventures.
+•  The ability of our customers and other contractual counterparties to satisfy their obligations to us, including our ability to collect payments when due from the government of Venezuela or   Petróleos de Venezuela, S.A.
+•  Uncertainty as to the long-term value of our common stock.
+•  The factors generally described in   Part I—Item 1A   in our 2025 Annual Report on Form 10-K and any additional risks described in our other filings with the SEC.
+Item 3.     Quantitative and Qualitative Disclosures About Market Risk
+Information about market risks for the three months ended March 31, 2026, does not differ materially from that discussed under Item 7A in our 2025 Annual Report on Form 10-K.
+Item 4.    Controls and Procedures
+We maintain disclosure controls and procedures designed to ensure information required to be disclosed in reports we file or submit under the Securities Exchange Act of 1934, as amended (the Act), is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to management, including our principal executive and principal financial officers, as appropriate, to allow timely decisions regarding required disclosure. At March 31, 2026, with the participation of our management, our Chairman and Chief Executive Officer (principal executive officer) and our Chief Financial Officer and Executive Vice President, Strategy and Commercial (principal financial officer) carried out an evaluation, pursuant to Rule 13a-15(b) of the Act, of ConocoPhillips’ disclosure controls and procedures (as defined in Rule 13a-15(e) of the Act). Based upon that evaluation, our Chairman and Chief Executive Officer and our Chief Financial Officer and Executive Vice President, Strategy and Commercial concluded our disclosure controls and procedures were operating effectively at March 31, 2026.
+There have been no changes in our internal control over financial reporting, as defined in Rule 13a-15(f) of the Act, in the period covered by this report that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+ConocoPhillips      2026 Q1 10-Q
+44
+Table of Contents
+PART II. Other Information
+Item 1.    Legal Proceedings
+ConocoPhillips has elected to use a $1 million threshold for disclosing certain proceedings arising under federal, state or local environmental laws when a governmental authority is a party. ConocoPhillips believes proceedings under this threshold are not material to ConocoPhillips' business and financial condition. Applying this threshold, there are no such proceedings to disclose for the quarter ended March 31, 2026.    See Note  6   for information regarding other legal and administrative proceedings.
+Item 1A.    Risk Factors
+There have been no material changes from the risk factors disclosed in Item 1A of our 2025 Annual Report on Form 10-K.
+Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+Millions of Dollars
+Period
+Total Number of
+Shares
+Purchased*
+Average Price Paid
+per Share
+Total Number of
+Shares Purchased as
+Part of Publicly
+Announced Plans or
+Programs
+Approximate Dollar
+Value of Shares That
+May Yet Be Purchased
+Under the Plans or
+Programs
+January 1 - 31, 2026    3,365,382      $    98.06      3,365,382      $    25,380
+February 1 - 28, 2026    2,893,733      108.34      2,893,733      25,067
+March 1 - 31, 2026    2,970,202      122.21      2,970,202      24,704
+9,229,317       9,229,317
+*There were no repurchases of common stock from company employees in connection with the company's broad-based employee incentive plans.
+In late 2016, we initiated our current share repurchase program. As of March 31, 2026, we had repurchased $40.3 billion of shares since 2016. In October 2024, our Board of Directors approved an increase from our previous authorization of $45 billion by a total of the lesser of $20 billion or the number of shares issued in our acquisition of Marathon Oil, such that the company is not to exceed $65 billion in aggregate repurchases. Repurchases are made at management’s discretion, at prevailing prices, subject to market conditions and other factors. Except as limited by applicable legal requirements, repurchases may be increased, decreased or discontinued at any time without prior notice. Shares of stock repurchased under the plan are held as treasury shares.   See Part I—Item 1A—Risk Factors –   “  Our ability to execute our capital return program is subject to certain considerations  ” in our 2025 Annual Report on Form 10-K.
+Item 5.    Other Information
+Insider Trading Arrangements
+During the three-month period ended March 31, 2026, no officer or director of the company   adopted   or   terminated   any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement.
+45
+ConocoPhillips      2026 Q1 10-Q
+Table of Contents
+Item 6.     Exhibits
+22 *
+Subsidiary Guarantors of Guaranteed Securities  .
+31.1*
+Certification of Chief Executive Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+31.2*
+Certification of Chief Financial Officer pursuant to Rule 13a-14(a) under the Securities Exchange Act of 1934.
+32* *
+Certifications pursuant to 18 U.S.C. Section 1350.
+101.INS*
+Inline XBRL Instance Document.
+101.SCH*
+Inline XBRL Schema Document.
+101.CAL*
+Inline XBRL Calculation Linkbase Document.
+101.LAB*
+Inline XBRL Labels Linkbase Document.
+101.PRE*
+Inline XBRL Presentation Linkbase Document.
+101.DEF*
+Inline XBRL Definition Linkbase Document.
+104*
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101).
+* Filed herewith.
+**Furnished herewith.
+ConocoPhillips      2026 Q1 10-Q
+46
+Table of Contents
+Signature
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+CONOCOPHILLIPS
+/s/ Kontessa Haynes-Welsh
+Kontessa Haynes-Welsh
+Vice President, Finance and Controller
+April 30, 2026
+47
+ConocoPhillips      2026 Q1 10-Q

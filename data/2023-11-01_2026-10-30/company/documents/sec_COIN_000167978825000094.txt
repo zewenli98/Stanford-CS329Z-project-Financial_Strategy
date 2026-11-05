@@ -1,0 +1,64 @@
+coin-20250514
+0001679788  FALSE         0001679788    2025-05-14  2025-05-14
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM  8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):  May 14, 2025
+Coinbase Global, Inc.
+(Exact name of registrant as specified in its charter)
+Delaware      001-40289      46-4707224
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+One Madison Avenue
+Suite 2400
+New York ,  NY
+10010
+(Address of principal executive offices)  1
+(Zip Code)  1
+Not Applicable
+(Registrant’s telephone number, including area code)  1
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instructions A.2. below):
+☐     Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐     Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐     Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐     Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol(s)    Name of each exchange on which registered
+Class A common stock, $0.00001 par value      COIN      The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company   ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+1   We are a remote-first company. Accordingly, we do not maintain a headquarters. We are including this address solely for the purpose of satisfying the Securities and Exchange Commission’s request. Stockholder communications may also be sent to the email address: secretary@coinbase.com.
+Item 1.05 Material Cybersecurity Incident.
+On May 11, 2025, Coinbase, Inc., a subsidiary of Coinbase Global, Inc. (“Coinbase” or the “Company”), received an email communication from an unknown threat actor claiming to have obtained information about certain Coinbase customer accounts, as well as internal Coinbase documentation, including materials relating to customer-service and account-management systems. The communication demanded money in exchange for not publicly disclosing the information. The threat actor appears to have obtained this information by paying multiple contractors or employees working in support roles outside the United States to collect information from internal Coinbase systems to which they had access in order to perform their job responsibilities. These instances of such personnel accessing data without business need were independently detected by the Company’s security monitoring in the previous months. Upon discovery, the Company had immediately terminated the personnel involved and also implemented heightened fraud-monitoring protections and warned customers whose information was potentially accessed in order to prevent misuse of any compromised information. Since receipt of the email, the Company has assessed the email to be credible, and has concluded that these prior instances of improper data access were part of a single campaign (the “Incident”) that succeeded in taking data from internal systems. The Company has not paid the threat actor’s demand and is cooperating with law enforcement in the investigation of this Incident.
+The Incident did not involve the compromise of passwords or private keys, and at no time were any of the targeted contractors or employees able to access customer funds. While the Company is still investigating the affected data, it included :
+•  Name, address, phone, and email;
+•  Masked Social Security (last 4 digits only);
+•  Masked bank-account numbers and some bank account identifiers;
+•  Government‑ID images (e.g., driver’s license, passport);
+•  Account data (balance snapshots and transaction history); and
+•  Limited corporate data (including documents, training material, and communications available to support agents).
+The Company is continuing to review and bolster its anti-fraud protections to mitigate the risk that the compromised information could be used in social-engineering attempts. To the extent any eligible retail customers previously sent funds to the threat actor as a direct result of this Incident, the Company intends to voluntarily reimburse them after it completes its review to confirm the facts. The Company is also in the process of opening a new support hub in the United States and taking other measures to harden its defenses to prevent this type of incident.
+While Coinbase has not experienced material operational impacts from these events as of the date hereof, the full financial impact of the Incident on the Company is still in the process of being assessed. Based on the information available to the Company on the date hereof and based on facts that continue to evolve, the Company has preliminarily estimated expenses to be within the range of approximately $180 million to $400 million relating to remediation costs and voluntary customer reimbursements relating to this Incident, prior to further review of potential losses, indemnification claims, and potential recoveries, which could meaningfully increase or decrease this estimate. The Company plans to aggressively pursue all remedies. As the Company’s investigation is ongoing, the full impact of these events are not yet known .
+Forward-Looking Statements
+This Current Report on Form 8-K contains forward-looking statements, including, but not limited to, statements regarding the Company’s current beliefs, understanding and expectations regarding the Incident, including but not limited to, a preliminary estimate of certain expenses relating to the Incident. Factors that could cause actual results to differ from those expressed in these forward-looking statements include the ongoing assessment of the Incident; legal, reputational and financial risks resulting from the Incident or additional cybersecurity incidents; and the risks described in the Company’s Annual Report on Form 10-K for the year ended December 31, 2024 and subsequent Quarterly Reports on Form 10-Q. All forward looking statements are based on information and estimates available
+to us as of the date hereof. Unless required by law, the Company expressly disclaims any obligation to update publicly any forward-looking statements, whether as result of new information, future events or otherwise.
+Item 9.01   Financial Statements and Exhibits.
+(d) Exhibits
+Exhibit No.          Description
+104     The cover page from this Current Report on Form 8-K, formatted in Inline XBRL.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+COINBASE GLOBAL, INC.
+Dated: May 15, 2025    By:    /s/ Alesia J. Haas
+Alesia J. Haas
+Chief Financial Officer

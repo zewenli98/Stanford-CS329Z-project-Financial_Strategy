@@ -1,0 +1,971 @@
+pg-20240331
+0000080424  06-30  2024  Q3  false         0000080424    2023-07-01  2024-03-31      0000080424   us-gaap:CommonStockMember     2023-07-01  2024-03-31      0000080424   us-gaap:CommonStockMember  exch:XNYS     2023-07-01  2024-03-31      0000080424   pg:A0.500due2024Domain     2023-07-01  2024-03-31      0000080424   pg:A0.625due2024Domain     2023-07-01  2024-03-31      0000080424   pg:A1.375due2025Domain     2023-07-01  2024-03-31      0000080424   pg:A0110Due2026Domain     2023-07-01  2024-03-31      0000080424   pg:A3250EURNotesDue2026Domain     2023-07-01  2024-03-31      0000080424   pg:A4.875EURdueMay2027Domain     2023-07-01  2024-03-31      0000080424   pg:A1.200due2028Domain     2023-07-01  2024-03-31      0000080424   pg:A1.250due2029Domain     2023-07-01  2024-03-31      0000080424   pg:A1.800due2029Domain     2023-07-01  2024-03-31      0000080424   pg:A6.250GBPdueJanuary2030Domain     2023-07-01  2024-03-31      0000080424   pg:A0350Due2030Domain     2023-07-01  2024-03-31      0000080424   pg:A0230Due2031Domain     2023-07-01  2024-03-31      0000080424   pg:A3250EURNotesDue2031Domain     2023-07-01  2024-03-31      0000080424   pg:A5.250GBPdueJanuary2033Domain     2023-07-01  2024-03-31      0000080424   pg:A1.875due2038Domain     2023-07-01  2024-03-31      0000080424   pg:A0900Due2041Domain     2023-07-01  2024-03-31      0000080424    2024-03-31     xbrli:shares     0000080424    2024-01-01  2024-03-31     iso4217:USD     0000080424    2023-01-01  2023-03-31      0000080424    2022-07-01  2023-03-31       iso4217:USD    xbrli:shares       0000080424    2023-06-30      0000080424   us-gaap:CommonStockMember     2023-12-31      0000080424   us-gaap:PreferredStockMember     2023-12-31      0000080424   us-gaap:AdditionalPaidInCapitalMember     2023-12-31      0000080424   pg:ReserveforESOPDebtRetirementMember     2023-12-31      0000080424   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-12-31      0000080424   us-gaap:TreasuryStockCommonMember     2023-12-31      0000080424   us-gaap:RetainedEarningsMember     2023-12-31      0000080424   us-gaap:NoncontrollingInterestMember     2023-12-31      0000080424    2023-12-31      0000080424   us-gaap:RetainedEarningsMember     2024-01-01  2024-03-31      0000080424   us-gaap:NoncontrollingInterestMember     2024-01-01  2024-03-31      0000080424   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-01-01  2024-03-31      0000080424   us-gaap:CommonStockMember     2024-01-01  2024-03-31      0000080424   us-gaap:TreasuryStockCommonMember     2024-01-01  2024-03-31      0000080424   us-gaap:AdditionalPaidInCapitalMember     2024-01-01  2024-03-31      0000080424   us-gaap:PreferredStockMember     2024-01-01  2024-03-31      0000080424   pg:ReserveforESOPDebtRetirementMember     2024-01-01  2024-03-31      0000080424   us-gaap:CommonStockMember     2024-03-31      0000080424   us-gaap:PreferredStockMember     2024-03-31      0000080424   us-gaap:AdditionalPaidInCapitalMember     2024-03-31      0000080424   pg:ReserveforESOPDebtRetirementMember     2024-03-31      0000080424   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-03-31      0000080424   us-gaap:TreasuryStockCommonMember     2024-03-31      0000080424   us-gaap:RetainedEarningsMember     2024-03-31      0000080424   us-gaap:NoncontrollingInterestMember     2024-03-31      0000080424   us-gaap:CommonStockMember     2023-06-30      0000080424   us-gaap:PreferredStockMember     2023-06-30      0000080424   us-gaap:AdditionalPaidInCapitalMember     2023-06-30      0000080424   pg:ReserveforESOPDebtRetirementMember     2023-06-30      0000080424   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-06-30      0000080424   us-gaap:TreasuryStockCommonMember     2023-06-30      0000080424   us-gaap:RetainedEarningsMember     2023-06-30      0000080424   us-gaap:NoncontrollingInterestMember     2023-06-30      0000080424   us-gaap:RetainedEarningsMember     2023-07-01  2024-03-31      0000080424   us-gaap:NoncontrollingInterestMember     2023-07-01  2024-03-31      0000080424   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-07-01  2024-03-31      0000080424   us-gaap:CommonStockMember     2023-07-01  2024-03-31      0000080424   us-gaap:TreasuryStockCommonMember     2023-07-01  2024-03-31      0000080424   us-gaap:AdditionalPaidInCapitalMember     2023-07-01  2024-03-31      0000080424   us-gaap:PreferredStockMember     2023-07-01  2024-03-31      0000080424   pg:ReserveforESOPDebtRetirementMember     2023-07-01  2024-03-31      0000080424   us-gaap:CommonStockMember     2022-12-31      0000080424   us-gaap:PreferredStockMember     2022-12-31      0000080424   us-gaap:AdditionalPaidInCapitalMember     2022-12-31      0000080424   pg:ReserveforESOPDebtRetirementMember     2022-12-31      0000080424   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-12-31      0000080424   us-gaap:TreasuryStockCommonMember     2022-12-31      0000080424   us-gaap:RetainedEarningsMember     2022-12-31      0000080424   us-gaap:NoncontrollingInterestMember     2022-12-31      0000080424    2022-12-31      0000080424   us-gaap:RetainedEarningsMember     2023-01-01  2023-03-31      0000080424   us-gaap:NoncontrollingInterestMember     2023-01-01  2023-03-31      0000080424   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-01-01  2023-03-31      0000080424   us-gaap:CommonStockMember     2023-01-01  2023-03-31      0000080424   us-gaap:TreasuryStockCommonMember     2023-01-01  2023-03-31      0000080424   us-gaap:AdditionalPaidInCapitalMember     2023-01-01  2023-03-31      0000080424   us-gaap:PreferredStockMember     2023-01-01  2023-03-31      0000080424   pg:ReserveforESOPDebtRetirementMember     2023-01-01  2023-03-31      0000080424   us-gaap:CommonStockMember     2023-03-31      0000080424   us-gaap:PreferredStockMember     2023-03-31      0000080424   us-gaap:AdditionalPaidInCapitalMember     2023-03-31      0000080424   pg:ReserveforESOPDebtRetirementMember     2023-03-31      0000080424   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-03-31      0000080424   us-gaap:TreasuryStockCommonMember     2023-03-31      0000080424   us-gaap:RetainedEarningsMember     2023-03-31      0000080424   us-gaap:NoncontrollingInterestMember     2023-03-31      0000080424    2023-03-31      0000080424   us-gaap:CommonStockMember     2022-06-30      0000080424   us-gaap:PreferredStockMember     2022-06-30      0000080424   us-gaap:AdditionalPaidInCapitalMember     2022-06-30      0000080424   pg:ReserveforESOPDebtRetirementMember     2022-06-30      0000080424   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-06-30      0000080424   us-gaap:TreasuryStockCommonMember     2022-06-30      0000080424   us-gaap:RetainedEarningsMember     2022-06-30      0000080424   us-gaap:NoncontrollingInterestMember     2022-06-30      0000080424    2022-06-30      0000080424   us-gaap:RetainedEarningsMember     2022-07-01  2023-03-31      0000080424   us-gaap:NoncontrollingInterestMember     2022-07-01  2023-03-31      0000080424   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-07-01  2023-03-31      0000080424   us-gaap:CommonStockMember     2022-07-01  2023-03-31      0000080424   us-gaap:TreasuryStockCommonMember     2022-07-01  2023-03-31      0000080424   us-gaap:AdditionalPaidInCapitalMember     2022-07-01  2023-03-31      0000080424   us-gaap:PreferredStockMember     2022-07-01  2023-03-31      0000080424   pg:ReserveforESOPDebtRetirementMember     2022-07-01  2023-03-31      0000080424   pg:FabricCareMember     2024-01-01  2024-03-31     xbrli:pure     0000080424   pg:FabricCareMember     2023-01-01  2023-03-31      0000080424   pg:FabricCareMember     2023-07-01  2024-03-31      0000080424   pg:FabricCareMember     2022-07-01  2023-03-31      0000080424   pg:HomeCareMember     2024-01-01  2024-03-31      0000080424   pg:HomeCareMember     2023-01-01  2023-03-31      0000080424   pg:HomeCareMember     2023-07-01  2024-03-31      0000080424   pg:HomeCareMember     2022-07-01  2023-03-31      0000080424   pg:BabyCareMember     2024-01-01  2024-03-31      0000080424   pg:BabyCareMember     2023-01-01  2023-03-31      0000080424   pg:BabyCareMember     2023-07-01  2024-03-31      0000080424   pg:BabyCareMember     2022-07-01  2023-03-31      0000080424   pg:FamilyCareMember     2024-01-01  2024-03-31      0000080424   pg:FamilyCareMember     2023-01-01  2023-03-31      0000080424   pg:FamilyCareMember     2023-07-01  2024-03-31      0000080424   pg:FamilyCareMember     2022-07-01  2023-03-31      0000080424   pg:HairCareMember     2024-01-01  2024-03-31      0000080424   pg:HairCareMember     2023-01-01  2023-03-31      0000080424   pg:HairCareMember     2023-07-01  2024-03-31      0000080424   pg:HairCareMember     2022-07-01  2023-03-31      0000080424   pg:SkinandPersonalCareMember     2024-01-01  2024-03-31      0000080424   pg:SkinandPersonalCareMember     2023-01-01  2023-03-31      0000080424   pg:SkinandPersonalCareMember     2023-07-01  2024-03-31      0000080424   pg:SkinandPersonalCareMember     2022-07-01  2023-03-31      0000080424   pg:GroomingMember     2024-01-01  2024-03-31      0000080424   pg:GroomingMember     2023-01-01  2023-03-31      0000080424   pg:GroomingMember     2023-07-01  2024-03-31      0000080424   pg:GroomingMember     2022-07-01  2023-03-31      0000080424   pg:OralCareMember     2024-01-01  2024-03-31      0000080424   pg:OralCareMember     2023-01-01  2023-03-31      0000080424   pg:OralCareMember     2023-07-01  2024-03-31      0000080424   pg:OralCareMember     2022-07-01  2023-03-31      0000080424   pg:PersonalHealthCareMember     2024-01-01  2024-03-31      0000080424   pg:PersonalHealthCareMember     2023-01-01  2023-03-31      0000080424   pg:PersonalHealthCareMember     2023-07-01  2024-03-31      0000080424   pg:PersonalHealthCareMember     2022-07-01  2023-03-31      0000080424   pg:FeminineCareMember     2024-01-01  2024-03-31      0000080424   pg:FeminineCareMember     2023-01-01  2023-03-31      0000080424   pg:FeminineCareMember     2023-07-01  2024-03-31      0000080424   pg:FeminineCareMember     2022-07-01  2023-03-31      0000080424   pg:BeautySegmentMember     2024-01-01  2024-03-31      0000080424   pg:BeautySegmentMember     2023-07-01  2024-03-31      0000080424   pg:BeautySegmentMember     2023-01-01  2023-03-31      0000080424   pg:BeautySegmentMember     2022-07-01  2023-03-31      0000080424   pg:GroomingSegmentMember     2024-01-01  2024-03-31      0000080424   pg:GroomingSegmentMember     2023-07-01  2024-03-31      0000080424   pg:GroomingSegmentMember     2023-01-01  2023-03-31      0000080424   pg:GroomingSegmentMember     2022-07-01  2023-03-31      0000080424   pg:HealthCareSegmentMember     2024-01-01  2024-03-31      0000080424   pg:HealthCareSegmentMember     2023-07-01  2024-03-31      0000080424   pg:HealthCareSegmentMember     2023-01-01  2023-03-31      0000080424   pg:HealthCareSegmentMember     2022-07-01  2023-03-31      0000080424   pg:FabricandHomeCareMember     2024-01-01  2024-03-31      0000080424   pg:FabricandHomeCareMember     2023-07-01  2024-03-31      0000080424   pg:FabricandHomeCareMember     2023-01-01  2023-03-31      0000080424   pg:FabricandHomeCareMember     2022-07-01  2023-03-31      0000080424   pg:BabyFeminineandFamilyCareSegmentMember     2024-01-01  2024-03-31      0000080424   pg:BabyFeminineandFamilyCareSegmentMember     2023-07-01  2024-03-31      0000080424   pg:BabyFeminineandFamilyCareSegmentMember     2023-01-01  2023-03-31      0000080424   pg:BabyFeminineandFamilyCareSegmentMember     2022-07-01  2023-03-31      0000080424   us-gaap:CorporateMember     2024-01-01  2024-03-31      0000080424   us-gaap:CorporateMember     2023-07-01  2024-03-31      0000080424   us-gaap:CorporateMember     2023-01-01  2023-03-31      0000080424   us-gaap:CorporateMember     2022-07-01  2023-03-31      0000080424   pg:BeautySegmentMember     2023-06-30      0000080424   pg:GroomingSegmentMember     2023-06-30      0000080424   pg:HealthCareSegmentMember     2023-06-30      0000080424   pg:FabricCareAndHomeCareSegmentMember     2023-06-30      0000080424   pg:BabyFeminineandFamilyCareSegmentMember     2023-06-30      0000080424   pg:FabricCareAndHomeCareSegmentMember     2023-07-01  2024-03-31      0000080424   pg:BeautySegmentMember     2024-03-31      0000080424   pg:GroomingSegmentMember     2024-03-31      0000080424   pg:HealthCareSegmentMember     2024-03-31      0000080424   pg:FabricCareAndHomeCareSegmentMember     2024-03-31      0000080424   pg:BabyFeminineandFamilyCareSegmentMember     2024-03-31      0000080424   us-gaap:FiniteLivedIntangibleAssetsMember     2024-03-31      0000080424   us-gaap:IndefinitelivedIntangibleAssetsMember     2024-03-31      0000080424   pg:GroomingMember     2023-07-01  2024-03-31      0000080424   us-gaap:IndefinitelivedIntangibleAssetsMember  pg:GilletteMember     2024-03-31      0000080424   pg:GilletteMember  country:RU     2023-06-30      0000080424   us-gaap:IndefinitelivedIntangibleAssetsMember  pg:GilletteMember  pg:A25bpsIncreaseDiscountRateMemberMember     2024-03-31      0000080424   pg:A25bpsDecreaseLongTermGrowthMember  us-gaap:IndefinitelivedIntangibleAssetsMember  pg:GilletteMember     2024-03-31      0000080424   us-gaap:IndefinitelivedIntangibleAssetsMember  pg:GilletteMember  pg:A50BpsDecreaseLongTermRoyaltyMember     2024-03-31      0000080424   us-gaap:EmployeeStockOptionMember     2024-01-01  2024-03-31      0000080424   us-gaap:EmployeeStockOptionMember     2023-01-01  2023-03-31      0000080424   us-gaap:EmployeeStockOptionMember     2023-07-01  2024-03-31      0000080424   us-gaap:EmployeeStockOptionMember     2022-07-01  2023-03-31      0000080424   us-gaap:PensionPlansDefinedBenefitMember     2024-01-01  2024-03-31      0000080424   us-gaap:PensionPlansDefinedBenefitMember     2023-01-01  2023-03-31      0000080424   us-gaap:PensionPlansDefinedBenefitMember     2023-07-01  2024-03-31      0000080424   us-gaap:PensionPlansDefinedBenefitMember     2022-07-01  2023-03-31      0000080424   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2024-01-01  2024-03-31      0000080424   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2023-01-01  2023-03-31      0000080424   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2023-07-01  2024-03-31      0000080424   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2022-07-01  2023-03-31      0000080424   us-gaap:LongTermDebtMember     2024-03-31      0000080424   us-gaap:LongTermDebtMember     2023-06-30      0000080424   us-gaap:FairValueHedgingMember  us-gaap:InterestRateContractMember     2024-03-31      0000080424   us-gaap:FairValueHedgingMember  us-gaap:InterestRateContractMember     2023-06-30      0000080424   us-gaap:ForeignExchangeContractMember  us-gaap:NetInvestmentHedgingMember     2024-03-31      0000080424   us-gaap:ForeignExchangeContractMember  us-gaap:NetInvestmentHedgingMember     2023-06-30      0000080424   us-gaap:DesignatedAsHedgingInstrumentMember     2024-03-31      0000080424   us-gaap:DesignatedAsHedgingInstrumentMember     2023-06-30      0000080424   us-gaap:ForeignExchangeContractMember  us-gaap:NondesignatedMember     2024-03-31      0000080424   us-gaap:ForeignExchangeContractMember  us-gaap:NondesignatedMember     2023-06-30      0000080424   us-gaap:FairValueHedgingMember  us-gaap:UnderlyingOtherMember     2024-03-31      0000080424   us-gaap:FairValueHedgingMember  us-gaap:UnderlyingOtherMember     2023-06-30      0000080424   us-gaap:NetInvestmentHedgingMember  us-gaap:UnderlyingOtherMember     2024-03-31      0000080424   us-gaap:NetInvestmentHedgingMember  us-gaap:UnderlyingOtherMember     2023-06-30      0000080424   us-gaap:ForeignExchangeContractMember  us-gaap:NetInvestmentHedgingMember     2024-01-01  2024-03-31      0000080424   us-gaap:ForeignExchangeContractMember  us-gaap:NetInvestmentHedgingMember     2023-01-01  2023-03-31      0000080424   us-gaap:ForeignExchangeContractMember  us-gaap:NetInvestmentHedgingMember     2023-07-01  2024-03-31      0000080424   us-gaap:ForeignExchangeContractMember  us-gaap:NetInvestmentHedgingMember     2022-07-01  2023-03-31      0000080424   us-gaap:NetInvestmentHedgingMember     2024-01-01  2024-03-31      0000080424   us-gaap:NetInvestmentHedgingMember     2023-01-01  2023-03-31      0000080424   us-gaap:NetInvestmentHedgingMember     2023-07-01  2024-03-31      0000080424   us-gaap:NetInvestmentHedgingMember     2022-07-01  2023-03-31      0000080424   us-gaap:FairValueHedgingMember  us-gaap:InterestRateContractMember     2024-01-01  2024-03-31      0000080424   us-gaap:FairValueHedgingMember  us-gaap:InterestRateContractMember     2023-01-01  2023-03-31      0000080424   us-gaap:FairValueHedgingMember  us-gaap:InterestRateContractMember     2023-07-01  2024-03-31      0000080424   us-gaap:FairValueHedgingMember  us-gaap:InterestRateContractMember     2022-07-01  2023-03-31      0000080424   pg:ForeignCurrencyContractsMember  us-gaap:NondesignatedMember     2024-01-01  2024-03-31      0000080424   pg:ForeignCurrencyContractsMember  us-gaap:NondesignatedMember     2023-01-01  2023-03-31      0000080424   pg:ForeignCurrencyContractsMember  us-gaap:NondesignatedMember     2023-07-01  2024-03-31      0000080424   pg:ForeignCurrencyContractsMember  us-gaap:NondesignatedMember     2022-07-01  2023-03-31      0000080424   us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2023-06-30      0000080424   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2023-06-30      0000080424   us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2023-06-30      0000080424   us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2023-07-01  2024-03-31      0000080424   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2023-07-01  2024-03-31      0000080424   us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2023-07-01  2024-03-31      0000080424   us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2024-03-31      0000080424   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2024-03-31      0000080424   us-gaap:AccumulatedForeignCurrencyAdjustmentIncludingPortionAttributableToNoncontrollingInterestMember     2024-03-31     pg:countries    pg:taxable_jurisdiction     0000080424   srt:MinimumMember     2023-07-01  2024-03-31     pg:audit     0000080424   srt:MaximumMember     2023-07-01  2024-03-31      0000080424   srt:MinimumMember     2024-03-31      0000080424   srt:MaximumMember     2024-03-31      0000080424   us-gaap:CostOfSalesMember     2024-01-01  2024-03-31      0000080424   us-gaap:SellingGeneralAndAdministrativeExpensesMember     2024-01-01  2024-03-31      0000080424   us-gaap:OtherNonoperatingIncomeExpenseMember     2024-01-01  2024-03-31      0000080424   us-gaap:CostOfSalesMember     2023-07-01  2024-03-31      0000080424   us-gaap:SellingGeneralAndAdministrativeExpensesMember     2023-07-01  2024-03-31      0000080424   us-gaap:OtherNonoperatingIncomeExpenseMember     2023-07-01  2024-03-31      0000080424   us-gaap:EmployeeSeveranceMember     2023-06-30      0000080424   us-gaap:FacilityClosingMember     2023-06-30      0000080424   us-gaap:OtherRestructuringMember     2023-06-30      0000080424   us-gaap:EmployeeSeveranceMember     2023-10-01  2023-12-31      0000080424   us-gaap:FacilityClosingMember     2023-10-01  2023-12-31      0000080424   us-gaap:OtherRestructuringMember     2023-10-01  2023-12-31      0000080424    2023-10-01  2023-12-31      0000080424   us-gaap:EmployeeSeveranceMember     2024-01-01  2024-03-31      0000080424   us-gaap:FacilityClosingMember     2024-01-01  2024-03-31      0000080424   us-gaap:OtherRestructuringMember     2024-01-01  2024-03-31      0000080424   us-gaap:EmployeeSeveranceMember     2023-07-01  2024-03-31      0000080424   us-gaap:FacilityClosingMember     2023-07-01  2024-03-31      0000080424   us-gaap:OtherRestructuringMember     2023-07-01  2024-03-31      0000080424   us-gaap:EmployeeSeveranceMember     2024-03-31      0000080424   us-gaap:FacilityClosingMember     2024-03-31      0000080424   us-gaap:OtherRestructuringMember     2024-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM  10-Q
+(Mark one)
+x     True     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the Quarterly Period Ended  March 31, 2024
+OR
+o     False     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                         to
+THE  PROCTER & GAMBLE CO MPANY
+(Exact name of registrant as specified in its charter)
+Ohio     OH      1-434       31-0411980
+(State of Incorporation)     (Commission File Number)     (I.R.S. Employer Identification Number)
+One Procter & Gamble Plaza       Cincinnati      OH
+One Procter & Gamble Plaza, Cincinnati, Ohio     45202
+(Address of principal executive offices)    (Zip Code)
+(   513   )    983-1100
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol    Name of each exchange on which registered
+Common Stock, without Par Value      PG      NYSE
+0.500% Notes due 2024      PG24A      NYSE
+0.625% Notes due 2024      PG24B      NYSE
+1.375% Notes due 2025      PG25      NYSE
+0.110% Notes due 2026      PG26D      NYSE
+3.250% EUR Notes due 2026      PG26E      NYSE
+4.875% EUR Notes due May 2027      PG27A      NYSE
+1.200% Notes due 2028      PG28      NYSE
+1.250% Notes due 2029      PG29B      NYSE
+1.800% Notes due 2029      PG29A      NYSE
+6.250% GBP Notes due January 2030      PG30      NYSE
+0.350% Notes due 2030      PG30C      NYSE
+0.230% Notes due 2031      PG31A      NYSE
+3.250% EUR Notes due 2031      PG31B      NYSE
+5.250% GBP Notes due January 2033      PG33      NYSE
+1.875% Notes due 2038      PG38      NYSE
+0.900% Notes due 2041      PG41      NYSE
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes     þ    No    o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes     þ    No    o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+þ
+Accelerated filer
+¨
+Non-accelerated filer
+¨
+Smaller reporting company
+¨
+False
+Emerging growth company
+¨
+False
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.      ¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes    o    No    þ    False
+There were  2,360,135,282  shares of Common Stock outstanding as of March 31, 2024.
+FORM 10-Q TABLE OF CONTENTS    Page
+PART I    Item 1.
+Financial Statements
+1
+Consolidated Statements of Earnings
+1
+Consolidated Statements of Comprehensive Income
+1
+Consolidated Balance Sheets
+2
+Consolidated Statements of Shareholders' Equity
+3
+Consolidated Statements of Cash Flows
+5
+Notes to Consolidated Financial Statements
+6
+Note 1: Basis of Presentation
+6
+Note 2: New Accounting Pronouncements and Policies
+6
+Note 3: Segment Information
+6
+Note 4: Goodwill and Intangible Assets
+7
+Note 5: Earnings Per Share
+9
+Note 6: Share-Based Compensation and Postretirement Benefits
+9
+Note 7: Risk Management Activities and Fair Value Measurements
+10
+Note 8: Accumulated Other Comprehensive Income/(Loss)
+11
+Note 9: Commitments and Contingencies
+11
+Note 10: Supplier Finance Programs
+12
+Note 11: Restructuring Program
+12
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+13
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+29
+Item 4.
+Controls and Procedures
+29
+PART II    Item 1.
+Legal Proceedings
+29
+Item 1A.
+Risk Factors
+30
+Item 2.
+Unregistered Sales of Equity Securities, Use of Proceeds and Issuer Purchases of Equity Securities
+30
+Item 5.
+Other Information
+30
+Item 6.
+Exhibits
+31
+Signature
+31
+The Procter & Gamble Company        1
+PART I. FINANCIAL INFORMATION
+Item 1.    Financial Statements
+THE PROCTER & GAMBLE COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF EARNINGS
+Three Months Ended March 31     Nine Months Ended March 31
+Amounts in millions except per share amounts    2024         2023     2024         2023
+NET SALES    $     20,195          $     20,068        $     63,507          $     61,453
+Cost of products sold     9,855           10,404         30,500           32,147
+Selling, general and administrative expense     5,880           5,416         17,006           15,334
+Indefinite-lived intangible asset impairment charge     —           —         1,341           —
+OPERATING INCOME     4,460           4,248         14,660           13,972
+Interest expense    ( 233 )      ( 222 )      ( 705 )      ( 516 )
+Interest income     104           83         366           191
+Other non-operating income, net     260           179         570           473
+EARNINGS BEFORE INCOME TAXES     4,592           4,288         14,891           14,120
+Income taxes     812           864         3,061           2,774
+NET EARNINGS     3,781           3,424         11,830           11,346
+Less: Net earnings attributable to noncontrolling interests     27           27         88           77
+NET EARNINGS ATTRIBUTABLE TO PROCTER & GAMBLE    $     3,754          $     3,397        $     11,742          $     11,269
+NET EARNINGS PER COMMON SHARE   (1)
+Basic    $     1.56          $     1.41        $     4.89          $     4.67
+Diluted    $     1.52          $     1.37        $     4.75          $     4.53
+(1)   Basic net earnings per common share and Diluted net earnings per common share are calculated on Net earnings attributable to Procter & Gamble.
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+Three Months Ended March 31     Nine Months Ended March 31
+Amounts in millions    2024     2023     2024     2023
+NET EARNINGS    $     3,781          $     3,424        $     11,830          $     11,346
+OTHER COMPREHENSIVE INCOME/(LOSS), NET OF TAX
+Foreign currency translation    ( 211 )       259        ( 128 )      ( 74 )
+Unrealized gains/(losses) on investment securities     —           1        ( 2 )      ( 2 )
+Unrealized gains/(losses) on defined benefit postretirement plans     7          ( 19 )      ( 23 )      ( 8 )
+TOTAL OTHER COMPREHENSIVE INCOME/(LOSS), NET OF TAX    ( 204 )       241        ( 153 )      ( 84 )
+TOTAL COMPREHENSIVE INCOME     3,577           3,665         11,677           11,262
+Less: Total comprehensive income attributable to noncontrolling interests     26           28         85           70
+TOTAL COMPREHENSIVE INCOME ATTRIBUTABLE TO PROCTER & GAMBLE    $     3,551          $     3,637        $     11,592          $     11,192
+See accompanying Notes to Consolidated Financial Statements.
+2        The Procter & Gamble Company
+THE PROCTER & GAMBLE COMPANY AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+Amounts in millions        March 31, 2024     June 30, 2023
+Assets
+CURRENT ASSETS
+Cash and cash equivalents        $     6,828          $     8,246
+Accounts receivable         6,124           5,471
+INVENTORIES
+Materials and supplies         1,676           1,863
+Work in process         971           956
+Finished goods         4,431           4,254
+Total inventories         7,077           7,073
+Prepaid expenses and other current assets         2,428           1,858
+TOTAL CURRENT ASSETS         22,458           22,648
+PROPERTY, PLANT AND EQUIPMENT, NET         22,027           21,909
+GOODWILL         40,567           40,659
+TRADEMARKS AND OTHER INTANGIBLE ASSETS, NET        22,193           23,783
+OTHER NONCURRENT ASSETS         12,353           11,830
+TOTAL ASSETS        $     119,598          $     120,829
+Liabilities and Shareholders' Equity
+CURRENT LIABILITIES
+Accounts payable        $     13,691          $     14,598
+Accrued and other liabilities         10,921           10,929
+Debt due within one year         7,729           10,229
+TOTAL CURRENT LIABILITIES         32,340           35,756
+LONG-TERM DEBT         24,253           24,378
+DEFERRED INCOME TAXES         6,284           6,478
+OTHER NONCURRENT LIABILITIES         6,386           7,152
+TOTAL LIABILITIES         69,264           73,764
+SHAREHOLDERS’ EQUITY
+Preferred stock         801           819
+Common stock – shares issued –    March 2024      4,009.2
+June 2023      4,009.2         4,009           4,009
+Additional paid-in capital         67,395           66,556
+Reserve for ESOP debt retirement        ( 737 )      ( 821 )
+Accumulated other comprehensive loss        ( 12,370 )      ( 12,220 )
+Treasury stock        ( 132,172 )      ( 129,736 )
+Retained earnings         123,132           118,170
+Noncontrolling interest         275           288
+TOTAL SHAREHOLDERS’ EQUITY         50,333           47,065
+TOTAL LIABILITIES AND SHAREHOLDERS’ EQUITY       $     119,598          $     120,829
+See accompanying Notes to Consolidated Financial Statements.
+The Procter & Gamble Company        3
+THE PROCTER & GAMBLE COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+Three Months Ended March 31, 2024
+Dollars in millions;
+shares in thousands    Common Stock    Preferred Stock    Additional Paid-In Capital    Reserve for ESOP Debt Retirement    Accumulated Other Comprehensive Income/(Loss)    Treasury Stock    Retained Earnings    Noncontrolling Interest    Total Shareholders' Equity
+Shares    Amount
+BALANCE DECEMBER 31, 2023     2,353,021       $ 4,009       $ 809       $ 66,935       ($ 782 )     ($ 12,167 )     ($ 131,887 )     $ 121,617       $ 294       $ 48,829
+Net earnings            3,754        27        3,781
+Other comprehensive income/(loss)         ( 203 )       ( 1 )     ( 204 )
+Dividends and dividend equivalents
+($ 0.9407  per share):
+Common           ( 2,221 )      ( 2,221 )
+Preferred           ( 69 )      ( 69 )
+Treasury stock purchases    ( 6,046 )          ( 977 )       ( 977 )
+Employee stock plans     12,201          459          685          1,144
+Preferred stock conversions     959        ( 8 )      1          7          —
+ESOP debt impacts         45          51         97
+Noncontrolling interest, net        —           ( 46 )     ( 46 )
+BALANCE MARCH 31, 2024     2,360,135         $ 4,009         $ 801         $ 67,395         ($ 737 )     ($ 12,370 )     ($ 132,172 )     $ 123,132         $ 275         $ 50,333
+Nine Months Ended March 31, 2024
+Dollars in millions;
+shares in thousands    Common Stock    Preferred Stock    Additional Paid-In Capital    Reserve for ESOP Debt Retirement    Accumulated Other Comprehensive Income/(Loss)    Treasury Stock    Retained Earnings    Noncontrolling Interest    Total Shareholders' Equity
+Shares    Amount
+BALANCE JUNE 30, 2023     2,362,120       $ 4,009       $ 819       $ 66,556       ($ 821 )     ($ 12,220 )     ($ 129,736 )     $ 118,170       $ 288       $ 47,065
+Net earnings            11,742        88        11,830
+Other comprehensive income/(loss)         ( 150 )       ( 3 )     ( 153 )
+Dividends and dividend equivalents
+($ 2.8221  per share):
+Common           ( 6,671 )      ( 6,671 )
+Preferred           ( 209 )      ( 209 )
+Treasury stock purchases    ( 22,768 )          ( 3,493 )       ( 3,493 )
+Employee stock plans     18,552          836          1,041          1,878
+Preferred stock conversions     2,232        ( 18 )      3          15          —
+ESOP debt impacts         85          99         184
+Noncontrolling interest, net        —           ( 98 )     ( 98 )
+BALANCE MARCH 31, 2024     2,360,135         $ 4,009         $ 801         $ 67,395         ($ 737 )     ($ 12,370 )     ($ 132,172 )     $ 123,132         $ 275         $ 50,333
+See accompanying Notes to Consolidated Financial Statements.
+4        The Procter & Gamble Company
+Three Months Ended March 31, 2023
+Dollars in millions;
+shares in thousands    Common Stock    Preferred Stock    Additional Paid-In Capital    Reserve for ESOP Debt Retirement    Accumulated Other Comprehensive Income/(Loss)    Treasury Stock    Retained Earnings    Noncontrolling Interest    Total Shareholders' Equity
+Shares    Amount
+BALANCE DECEMBER 31, 2022     2,359,144       $ 4,009       $ 831       $ 66,145       ($ 870 )     ($ 12,506 )     ($ 129,012 )     $ 115,858       $ 270       $ 44,725
+Net earnings            3,397        27        3,424
+Other comprehensive income/(loss)          240          1        241
+Dividends and dividend equivalents
+($ 0.9133  per share):
+Common           ( 2,160 )      ( 2,160 )
+Preferred           ( 69 )      ( 69 )
+Treasury stock purchases    ( 9,406 )          ( 1,351 )       ( 1,351 )
+Employee stock plans     6,290          170          353          523
+Preferred stock conversions     941        ( 9 )      1          8          —
+ESOP debt impacts         49          56         105
+Noncontrolling interest, net        —           ( 17 )     ( 17 )
+BALANCE MARCH 31, 2023     2,356,969       $ 4,009       $ 822       $ 66,316       ($ 821 )     ($ 12,266 )     ($ 130,002 )     $ 117,082       $ 281       $ 45,421
+Nine Months Ended March 31, 2023
+Dollars in millions;
+shares in thousands    Common Stock    Preferred Stock    Additional Paid-In Capital    Reserve for ESOP Debt Retirement    Accumulated Other Comprehensive Income/(Loss)    Treasury Stock    Retained Earnings    Noncontrolling Interest    Total Shareholders' Equity
+Shares    Amount
+BALANCE JUNE 30, 2022     2,393,877       $ 4,009       $ 843       $ 65,795       ($ 916 )     ($ 12,189 )     ($ 123,382 )     $ 112,429       $ 265       $ 46,854
+Net earnings            11,269        77        11,346
+Other comprehensive income/(loss)         ( 77 )       ( 7 )     ( 84 )
+Dividends and dividend equivalents
+($ 2.7399  per share):
+Common           ( 6,517 )      ( 6,517 )
+Preferred           ( 210 )      ( 210 )
+Treasury stock purchases    ( 52,021 )          ( 7,353 )       ( 7,353 )
+Employee stock plans     12,742          518          715          1,233
+Preferred stock conversions     2,371        ( 21 )      3          18          —
+ESOP debt impacts         95          111         206
+Noncontrolling interest, net        —           ( 54 )     ( 54 )
+BALANCE MARCH 31, 2023     2,356,969       $ 4,009       $ 822       $ 66,316       ($ 821 )     ($ 12,266 )     ($ 130,002 )     $ 117,082       $ 281       $ 45,421
+See accompanying Notes to Consolidated Financial Statements.
+The Procter & Gamble Company        5
+THE PROCTER & GAMBLE COMPANY AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Nine Months Ended March 31
+Amounts in millions    2024     2023
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH, BEGINNING OF PERIOD    $     8,246          $     7,214
+OPERATING ACTIVITIES
+Net earnings     11,830           11,346
+Depreciation and amortization     2,135           2,008
+Share-based compensation expense     433           406
+Deferred income taxes    ( 206 )      ( 360 )
+Gain on sale of assets    ( 51 )      ( 4 )
+Indefinite-lived intangible asset impairment charge     1,341           —
+Changes in:
+Accounts receivable    ( 692 )      ( 301 )
+Inventories    ( 47 )      ( 503 )
+Accounts payable and accrued and other liabilities     56          ( 609 )
+Other operating assets and liabilities    ( 1,196 )      ( 839 )
+Other     490           363
+TOTAL OPERATING ACTIVITIES     14,092           11,507
+INVESTING ACTIVITIES
+Capital expenditures    ( 2,539 )      ( 2,328 )
+Proceeds from asset sales     77           9
+Acquisitions, net of cash acquired    ( 21 )      ( 714 )
+Other investing activity    ( 503 )       331
+TOTAL INVESTING ACTIVITIES    ( 2,986 )      ( 2,702 )
+FINANCING ACTIVITIES
+Dividends to shareholders    ( 6,863 )      ( 6,710 )
+Additions to short-term debt with original maturities of more than three months     2,961           13,778
+Reductions in short-term debt with original maturities of more than three months    ( 7,523 )      ( 9,134 )
+Net additions/(reductions) to other short-term debt     2,331          ( 387 )
+Additions to long-term debt     1,598           2,569
+Reductions in long-term debt    ( 2,335 )      ( 1,877 )
+Treasury stock purchases    ( 3,490 )      ( 7,353 )
+Impact of stock options and other     965           861
+TOTAL FINANCING ACTIVITIES    ( 12,356 )      ( 8,253 )
+EFFECT OF EXCHANGE RATE CHANGES ON CASH, CASH EQUIVALENTS AND RESTRICTED CASH    ( 168 )      ( 170 )
+CHANGE IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH    ( 1,418 )       382
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH, END OF PERIOD    $     6,828          $     7,596
+See accompanying Notes to Consolidated Financial Statements.
+6        The Procter & Gamble Company
+THE PROCTER & GAMBLE COMPANY AND SUBSIDIARIES
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+1.  Basis of Presentation
+The accompanying unaudited Consolidated Financial Statements of The Procter & Gamble Company and subsidiaries ("the Company," "Procter & Gamble," "P&G," "we" or "our") should be read in conjunction with the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2023. We have prepared these statements in conformity with accounting principles generally accepted in the United States (U.S. GAAP) pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (SEC) for interim financial information. Note that certain columns and rows may not add due to rounding. In the opinion of management, the accompanying Consolidated Financial Statements contain all normal recurring adjustments necessary to present fairly the financial position, results of operations and cash flows for the interim periods reported. However, the results of operations included in such financial statements may not necessarily be indicative of annual results.
+2.  New Accounting Pronouncements and Policies
+In November 2023, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (ASU) No. 2023-07, “Segment Reporting: Improvements to Reportable Segment Disclosures.” This guidance requires disclosure of incremental segment information on an annual and interim basis. This amendment is effective for our fiscal year ending June 30, 2025 and our interim periods within the fiscal year ending June 30, 2026. We are currently assessing the impact of this guidance on our disclosures.
+In December 2023, the FASB issued ASU No. 2023-09, “Income Taxes: Improvements to Income Tax Disclosures.” This guidance requires consistent categories and greater disaggregation of information in the rate reconciliation and disclosures of income taxes paid by jurisdiction. This amendment is effective for our fiscal year ending June 30, 2026. We are currently assessing the impact of this guidance on our disclosures.
+No other new accounting pronouncement issued or effective during the fiscal year had, or is expected to have, a material impact on our Consolidated Financial Statements.
+3.  Segment Information
+Under U.S. GAAP, our operating segments are aggregated into five reportable segments: 1) Beauty, 2) Grooming, 3) Health Care, 4) Fabric & Home Care and 5) Baby, Feminine & Family Care. Our five reportable segments are comprised of:
+•  Beauty  : Hair Care (Conditioners, Shampoos, Styling Aids, Treatments); Skin and Personal Care (Antiperspirants and Deodorants, Personal Cleansing, Skin Care);
+•  Grooming  : Grooming (Appliances, Female Blades & Razors, Male Blades & Razors, Pre- and Post-Shave Products, Other Grooming);
+•  Health Care  : Oral Care (Toothbrushes, Toothpaste, Other Oral Care); Personal Health Care (Gastrointestinal, Pain Relief, Rapid Diagnostics, Respiratory, Vitamins/Minerals/Supplements, Other Personal Health Care);
+•  Fabric & Home Care  : Fabric Care (Fabric Enhancers, Laundry Additives, Laundry Detergents); Home Care (Air Care, Dish Care, P&G Professional, Surface Care); and
+•  Baby, Feminine & Family Care  : Baby Care (Baby Wipes, Taped Diapers and Pants); Feminine Care (Adult Incontinence, Feminine Care); Family Care (Paper Towels, Tissues, Toilet Paper).
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+The Procter & Gamble Company        7
+Our operating segments are comprised of similar product categories. Operating segments that individually accounted for 5% or more of consolidated net sales are as follows:
+% of Net sales by operating segment   (1)
+Three Months Ended March 31     Nine Months Ended March 31
+2024     2023     2024     2023
+Fabric Care     23        %      23      %      23        %      23      %
+Home Care     13        %      12      %      12        %      12      %
+Baby Care     9        %      10      %      9        %      10      %
+Family Care     9        %      9      %      9        %      8      %
+Hair Care     9        %      9      %      9        %      9      %
+Skin and Personal Care     9        %      9      %      9        %      10      %
+Grooming     8        %      8      %      8        %      8      %
+Oral Care     8        %      8      %      8        %      8      %
+Personal Health Care     6        %      6      %      7        %      6      %
+Feminine Care     6        %      6      %      6        %      6      %
+Total     100        %      100      %      100        %      100      %
+(1)   % of Net sales by operating segment excludes sales recorded in Corporate.
+The following is a summary of reportable segment results:
+Three Months Ended March 31     Nine Months Ended March 31
+Net Sales     Earnings/(Loss) Before Income Taxes     Net Earnings/(Loss)     Net Sales     Earnings/(Loss) Before Income Taxes     Net Earnings/(Loss)
+Beauty    2024    $     3,550          $     753          $     587          $     11,496          $     3,114          $     2,426
+2023     3,494         763         608         11,262         3,179         2,530
+Grooming    2024     1,539           379           303           4,997           1,450           1,165
+2023     1,495         382         308         4,763         1,381         1,116
+Health Care    2024     2,873           687           525           9,119           2,508           1,933
+2023     2,828         667         523         8,636         2,354         1,826
+Fabric & Home Care    2024     7,169           1,692           1,301           22,230           5,741           4,446
+2023     7,016         1,538         1,174         21,130         4,619         3,517
+Baby, Feminine & Family Care    2024     4,936           1,299           997           15,268           4,144           3,174
+2023     5,062         1,206         925         15,061         3,373         2,578
+Corporate    2024     128          ( 218 )       68           398          ( 2,066 )      ( 1,314 )
+2023     173        ( 268 )      ( 114 )       601        ( 786 )      ( 221 )
+Total Company    2024    $     20,195          $     4,592          $     3,781          $     63,507          $     14,891          $     11,830
+2023     20,068         4,288         3,424         61,453         14,120         11,346
+4.  Goodwill and Intangible Assets
+Goodwill is allocated by reportable segment as follows:
+Beauty     Grooming     Health Care     Fabric & Home Care     Baby, Feminine & Family Care     Total Company
+Goodwill at June 30, 2023    $     13,888        $     12,703        $     7,718        $     1,821        $     4,529        $     40,659
+Acquisitions and divestitures     —         —         —         —         —         —
+Translation and other    ( 32 )      ( 19 )      ( 24 )      ( 6 )      ( 11 )      ( 92 )
+Goodwill at March 31, 2024    $     13,856          $     12,685          $     7,695          $     1,815          $     4,518          $     40,567
+Goodwill decreased from June 30, 2023, due to currency translation.
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+8        The Procter & Gamble Company
+Identifiable intangible assets at March 31, 2024, were comprised of:
+Gross Carrying Amount     Accumulated Amortization
+Intangible assets with determinable lives    $     9,046        $    ( 6,499 )
+Intangible assets with indefinite lives     19,645         —
+Total identifiable intangible assets    $     28,691          $    ( 6,499 )
+Intangible assets with determinable lives consist of brands, patents, technology and customer relationships. The intangible assets with indefinite lives primarily consist of brands. The amortization expense of determinable-lived intangible assets for the three months ended March 31, 2024 and 2023, was $ 83  and $ 82 , respectively. For the nine months ended March 31, 2024 and 2023, amortization expense was $ 255  and $ 241 , respectively.
+Goodwill and indefinite-lived intangible assets are not amortized but are tested at least annually for impairment. We use the income method to estimate the fair value of these assets, which is based on forecasts of the expected future cash flows attributable to the respective assets. When appropriate, the market approach, which leverages comparable company revenue and earnings multiples, is weighted with the income approach to estimate fair value. If the resulting fair value is less than the asset's carrying value, that difference represents an impairment. Our annual impairment testing for goodwill and indefinite-lived intangible assets occurs during the three months ended December 31. Most of our goodwill reporting units have fair value cushions that significantly exceed their underlying carrying values.
+During the three months ended December 31, 2023, we determined that the fair value of the Gillette indefinite-lived intangible asset was less than its carrying amount. As a result, we recorded a non-cash impairment charge of $ 1.3  billion ($ 1.0  billion after tax) to reduce the carrying amount to be equivalent to the estimated fair value as of December 31, 2023. Following the impairment charge, the carrying value of the Gillette indefinite-lived intangible asset is $ 12.8  billion. The impairment charge arose due to a higher discount rate, weakening of several currencies relative to the U.S. dollar and the impact of a new restructuring program focused primarily in certain Enterprise Markets, including Argentina and Nigeria.
+While we have concluded that no triggering event has occurred during the quarter ended March 31, 2024, the Gillette indefinite-lived intangible asset is susceptible to further impairment risk. Adverse changes in the business or in the macroeconomic environment, including foreign currency devaluation, increasing global inflation, market contraction from an economic recession and the Russia-Ukraine War, could reduce the underlying cash flows used to estimate the fair value of the Gillette indefinite-lived intangible asset and trigger a further impairment charge. Further reduction of the Gillette business activities in Russia could reduce the estimated fair value. The Russia business accounted for approximately  4 % of Gillette net sales in the fiscal year ended June 30, 2023.
+The most significant assumptions utilized in the determination of the estimated fair value of the Gillette indefinite-lived intangible asset are the net sales growth rates (including residual growth rates), discount rate and royalty rates.
+Net sales growth rates could be negatively impacted by reductions or changes in demand for our Gillette products, which may be caused by, among other things: changes in the use and frequency of grooming products, shifts in demand away from one or more of our higher priced products to lower priced products or potential supply chain constraints. In addition, relative global and country/regional macroeconomic factors, including the Russia-Ukraine War, could result in additional and prolonged devaluation of other countries' currencies relative to the U.S. dollar. The residual growth rates represent the expected rate at which the Gillette brand is expected to grow beyond the shorter-term business planning period. The residual growth rates utilized in our fair value estimates are consistent with the brand operating plans and approximate expected long-term category market growth rates. The residual growth rate depends on overall market growth rates, the competitive environment, inflation, relative currency exchange rates and business activities that impact market share. As a result, the residual growth rate could be adversely impacted by a sustained deceleration in category growth, grooming habit changes, devaluation of currencies against the U.S. dollar or an increased competitive environment.
+The discount rate, which is consistent with a weighted average cost of capital that is likely to be expected by a market participant, is based upon industry required rates of return, including consideration of both debt and equity components of the capital structure. Our discount rate may be impacted by adverse changes in the macroeconomic environment, volatility in the equity and debt markets or other country specific factors, such as further devaluation of currencies against the U.S. dollar. Spot rates as of the fair value measurement date are utilized in our fair value estimates for cash flows outside the U.S.
+The royalty rate used to determine the estimated fair value for the Gillette indefinite-lived intangible asset is driven by historical and estimated future profitability of the underlying Gillette business. The royalty rate may be impacted by significant adverse changes in long-term operating margins.
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+The Procter & Gamble Company        9
+We performed a sensitivity analysis for the Gillette indefinite-lived intangible asset as part of our annual impairment testing during the three months ended December 31, 2023, utilizing reasonably possible changes in the assumptions for the discount rate, the short-term and residual growth rates and the royalty rate to demonstrate the potential impacts to estimated fair values.  The table below provides, in isolation, the estimated fair value impacts related to a 25 basis-point increase in the discount rate, a 25 basis-point decrease in our short-term and residual growth rates or a 50 basis-point decrease in our royalty rate, which may result in an additional impairment of the Gillette indefinite-lived intangible asset.
+Approximate Percent Change in Estimated Fair Value
++25 bps Discount Rate     -25 bps Growth Rates     -50 bps Royalty Rate
+Gillette indefinite-lived intangible asset    ( 5 )    %     ( 5 )    %     ( 4 )    %
+5.  Earnings Per Share
+Basic net earnings per common share are calculated by dividing Net earnings attributable to Procter & Gamble less preferred dividends by the weighted average number of common shares outstanding during the period. Diluted net earnings per common share are calculated by dividing Net earnings attributable to Procter & Gamble by the diluted weighted average number of common shares outstanding during the period. The diluted shares include the dilutive effect of stock options and other share-based awards based on the treasury stock method and the assumed conversion of preferred stock.
+Net earnings per common share were calculated as follows:
+CONSOLIDATED AMOUNTS    Three Months Ended March 31     Nine Months Ended March 31
+2024     2023     2024     2023
+Net earnings    $     3,781          $     3,424        $     11,830          $     11,346
+Less: Net earnings attributable to noncontrolling interests     27           27         88           77
+Net earnings attributable to P&G (Diluted)     3,754           3,397         11,742           11,269
+Less: Preferred dividends     69           69         209           210
+Net earnings attributable to P&G available to common shareholders (Basic)    $     3,685          $     3,328        $     11,533          $     11,059
+SHARES IN MILLIONS
+Basic weighted average common shares outstanding     2,360.5           2,359.1         2,359.5           2,370.2
+Add: Effect of dilutive securities
+Convertible preferred shares   (1)
+73.3           76.0         73.9           76.7
+Stock options and other unvested equity awards   (2)
+38.1           38.1         38.4           39.1
+Diluted weighted average common shares outstanding     2,472.0           2,473.2         2,471.8           2,486.0
+NET EARNINGS PER COMMON SHARE
+Basic    $     1.56          $     1.41        $     4.89          $     4.67
+Diluted    $     1.52          $     1.37        $     4.75          $     4.53
+(1)   An overview of preferred shares can be found in our Annual Report on Form 10-K for the fiscal year ended June 30, 2023.
+(2)   Excludes approximately  6  million and  21  million for the three months ended March 31, 2024 and 2023, respectively, and  6  million and  20  million for the nine months ended March 31, 2024 and 2023, respectively, of weighted average stock options outstanding because the exercise price of these options was greater than their average market value or their effect was antidilutive.
+6.  Share-Based Compensation and Postretirement Benefits
+The following table provides a summary of our share-based compensation expense and postretirement benefit impacts:
+Three Months Ended March 31     Nine Months Ended March 31
+2024     2023     2024     2023
+Share-based compensation expense    $     158          $     156        $     433          $     406
+Net periodic benefit cost for pension benefits     52           45         160           132
+Net periodic benefit credit for other retiree benefits    ( 156 )      ( 131 )      ( 467 )      ( 395 )
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+10        The Procter & Gamble Company
+7.   Risk Management Activities and Fair Value Measurements
+As a multinational company with diverse product offerings, we are exposed to market risks, such as changes in interest rates, currency exchange rates and commodity prices. There have been no significant changes in our risk management policies or activities during the nine months ended March 31, 2024.
+The Company has not changed its valuation techniques used in measuring the fair value of any financial assets and liabilities during the period. The Company recognizes transfers between levels within the fair value hierarchy, if any, at the end of each quarter. There were no transfers between levels during the periods presented. Also, there was no significant activity within the Level 3 assets and liabilities during the periods presented. Except for the impairment of the Gillette indefinite-lived intangible asset discussed in Note 4, there were no significant assets or liabilities that were re-measured at fair value on a non-recurring basis during the nine months ended March 31, 2024 and 2023.
+Cash equivalents were $ 5.4  billion and $ 6.8  billion as of March 31, 2024 and June 30, 2023, respectively, and are classified as Level 1 within the fair value hierarchy. The Company had no other material investments in debt or equity securities during the periods presented.
+The fair value of long-term debt was $ 26.4  billion and $ 26.9  billion as of March 31, 2024 and June 30, 2023, respectively. This includes the current portion of long-term debt instruments ($ 3.4  billion and $ 3.9  billion as of March 31, 2024 and June 30, 2023, respectively). Certain long-term debt (debt designated as a fair value hedge) is recorded at fair value. All other long-term debt is recorded at amortized cost but is measured at fair value for disclosure purposes. We consider our debt to be Level 2 in the fair value hierarchy. Fair values are generally estimated based on quoted market prices for identical or similar instruments.
+Disclosures about Financial Instruments
+The notional amounts and fair values of financial instruments used in hedging transactions as of March 31, 2024 and June 30, 2023, are as follows:
+Notional Amount     Fair Value Asset     Fair Value (Liability)
+March 31, 2024     June 30, 2023     March 31, 2024     June 30, 2023     March 31, 2024     June 30, 2023
+DERIVATIVES IN FAIR VALUE HEDGING RELATIONSHIPS
+Interest rate contracts    $     3,030          $     4,044        $     —          $     —        $    ( 323 )      $    ( 445 )
+DERIVATIVES IN NET INVESTMENT HEDGING RELATIONSHIPS
+Foreign currency interest rate contracts    $     10,926          $     11,005        $     79          $     26        $    ( 108 )      $    ( 631 )
+TOTAL DERIVATIVES DESIGNATED AS HEDGING INSTRUMENTS    $     13,956          $     15,049        $     79          $     26        $    ( 432 )      $    ( 1,076 )
+DERIVATIVES NOT DESIGNATED AS HEDGING INSTRUMENTS
+Foreign currency contracts    $     3,956          $     3,489        $     12          $     7        $    ( 23 )      $    ( 42 )
+TOTAL DERIVATIVES AT FAIR VALUE    $     17,912          $     18,538        $     91          $     33        $    ( 455 )      $    ( 1,118 )
+The fair value of the interest rate derivative asset/(liability) directly offsets the cumulative amount of the fair value hedging adjustment included in the carrying amount of the underlying debt obligation. The carrying amount of the underlying debt obligation, which includes the unamortized discount or premium and the fair value adjustment, was $ 2.7  billion and $ 3.6  billion as of March 31, 2024 and June 30, 2023, respectively. In addition to the foreign currency derivative contracts designated as net investment hedges, certain of our foreign currency denominated debt instruments are designated as net investment hedges. The carrying value of those debt instruments designated as net investment hedges, which includes the adjustment for the foreign currency transaction gain or loss on those instruments, was $ 10.5  billion and $ 11.8  billion as of March 31, 2024 and June 30, 2023, respectively.
+Derivative assets are presented in Prepaid expenses and other current assets or Other noncurrent assets. Derivative liabilities are presented in Accrued and other liabilities or Other noncurrent liabilities. Changes in the fair value of net investment hedges are recognized in the Foreign currency translation component of Other comprehensive income (OCI). All of the Company's derivative assets and liabilities measured at fair value are classified as Level 2 within the fair value hierarchy.
+Certain of the Company's financial instruments used in hedging transactions are governed by industry standard netting and collateral agreements with counterparties. If the Company's credit rating were to fall below the levels stipulated in the agreements, the counterparties could demand either collateralization or termination of the arrangements. The aggregate fair value of the instruments covered by these contractual features that are in a net liability position was $ 363  and $ 1,088  as of March 31, 2024 and June 30, 2023, respectively. The Company has not been required to post collateral as a result of these contractual features.
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+The Procter & Gamble Company        11
+Before tax gains on our financial instruments in hedging relationships are categorized as follows:
+Amount of Gain/(Loss) Recognized in OCI on Derivatives
+Three Months Ended March 31     Nine Months Ended March 31
+2024     2023     2024     2023
+DERIVATIVES IN NET INVESTMENT HEDGING RELATIONSHIPS   (1) (2)
+Foreign exchange contracts    $     269          $     (266)       $     67          $     (571)
+(1)       For the derivatives in net investment hedging relationships, the amount of gain excluded from effectiveness testing, which was recognized in earnings, was $ 53  and $ 64  for the three months ended March 31, 2024 and 2023, respectively. The amount of gain excluded from effectiveness testing was $ 182  and $ 179  for the   nine   months ended March 31, 2024 and 2023, respectively.
+(2)       In addition to the foreign currency derivative contracts designated as net investment hedges, certain of our foreign currency denominated debt instruments are designated as net investment hedges. The amount of gain/(loss) recognized in Accumulated other comprehensive income (AOCI) for such instruments was $ 262  and $( 242 ) for the three months ended March 31, 2024 and 2023, respectively. The amount of gain/(loss) recognized in Accumulated other comprehensive income (AOCI) for such instruments was $ 102  and $( 406 ) for the   nine       months ended March 31, 2024 and 2023, respectively.
+Amount of Gain/(Loss) Recognized in Earnings
+Three Months Ended March 31     Nine Months Ended March 31
+2024     2023     2024     2023
+DERIVATIVES IN FAIR VALUE HEDGING RELATIONSHIPS
+Interest rate contracts    $    ( 7 )      $     39        $     122          $    ( 141 )
+DERIVATIVES NOT DESIGNATED AS HEDGING INSTRUMENTS
+Foreign currency contracts    $    ( 84 )      $     38        $    ( 27 )      $    ( 13 )
+The gains/(losses) on the derivatives in fair value hedging relationships are fully offset by the mark-to-market impact of the related exposure. These are both recognized in Interest expense. The gains/(losses) on derivatives not designated as hedging instruments are substantially offset by the currency mark-to-market of the related exposure. These are both recognized in Selling, general and administrative expense (SG&A).
+8.  Accumulated Other Comprehensive Income/(Loss)
+The table below presents the changes in Accumulated other comprehensive income/(loss) attributable to Procter & Gamble (AOCI), including the reclassifications out of AOCI by component:
+Investment Securities     Postretirement Benefit Plans     Foreign Currency Translation     Total AOCI
+Balance at June 30, 2023    $     13        $     67        $    ( 12,300 )      $    ( 12,220 )
+OCI before reclassifications   (1)
+( 2 )      ( 3 )      ( 128 )      ( 133 )
+Amounts reclassified to the Consolidated Statement of Earnings   (2)
+( 19 )          ( 19 )
+Net current period OCI    ( 2 )      ( 23 )      ( 128 )      ( 153 )
+Less: OCI attributable to noncontrolling interests         —        ( 3 )      ( 3 )
+Balance at March 31, 2024    $     11          $     44          $    ( 12,425 )      $    ( 12,370 )
+(1)   Net of tax (benefit)/expense of $ 0 , $( 3 ) and $ 40  for gains/losses on investment securities, postretirement benefit plans and foreign currency translation, respectively. Income tax effects within foreign currency translation include impacts from items such as net investment hedge transactions.
+(2)   Net of tax (benefit)/expense of $ 0 , $( 3 ) and $ 0  for gains/losses on investment securities, postretirement benefit plans and foreign currency translation, respectively.
+Postretirement benefit plan amounts are reclassified from AOCI into Other non-operating income, net and included in the computation of net periodic postretirement costs.
+9.  Commitments and Contingencies
+Litigation
+We are subject, from time to time, to certain legal proceedings and claims arising out of our business, which cover a wide range of matters, including antitrust and trade regulation, product liability, advertising, contracts, environmental, patent and trademark matters, labor and employment matters and tax. While considerable uncertainty exists, in the opinion of management and our counsel, the ultimate resolution of the various lawsuits and claims will not materially affect our financial position, results of operations or cash flows.
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+12        The Procter & Gamble Company
+We are also subject to contingencies pursuant to environmental laws and regulations that in the future may require us to take action to correct the effects on the environment of prior manufacturing and waste disposal practices. Based on currently available information, we do not believe the ultimate resolution of environmental remediation will materially affect our financial position, results of operations or cash flows.
+Income Tax Uncertainties
+The Company is present in approximately  70  countries and over  150  taxable jurisdictions and, at any point in time, has  30 – 40  jurisdictional audits underway at various stages of completion. We evaluate our tax positions and establish liabilities for uncertain tax positions that may be challenged by local authorities and may not be fully sustained, despite our belief that the underlying tax positions are fully supportable. Uncertain tax positions are reviewed on an ongoing basis and are adjusted in light of changing facts and circumstances, including progress of tax audits, developments in case law and closing of statutes of limitations. Such adjustments are reflected in the tax provision as appropriate. We have tax years open ranging from 2010 and forward. We are generally not able to reliably estimate the timing and ultimate settlement amounts until the close of an audit. Based on information currently available, we anticipate that over the next 12-month period, audit activity could be completed related to uncertain tax positions in multiple jurisdictions for which we have accrued existing liabilities of approximately $ 90 , including interest and penalties.
+Additional information on the Commitments and Contingencies of the Company can be found in our Annual Report on Form 10-K for the fiscal year ended June 30, 2023.
+10.  Supplier Finance Programs
+The Company has an ongoing program to negotiate extended payment terms with its suppliers consistent with market practices. The Company also supports a Supply Chain Finance program (“SCF”) with several global financial institutions. Under SCF, the Company maintains an accounts payable system to facilitate participating suppliers' ability to sell receivables from the Company to a SCF bank. These participating suppliers negotiate their sales of receivables arrangements directly with the respective SCF bank. The Company is not party to those agreements, but the SCF banks allow the suppliers to utilize the Company’s creditworthiness in establishing credit spreads and associated costs. Under this model, this arrangement generally provides the suppliers with more favorable terms than they would be able to secure on their own. The Company has no economic interest in a supplier’s decision to sell a receivable. Once a qualifying supplier chooses to participate in SCF, the supplier selects which individual Company invoices to sell to the SCF bank. The Company’s obligations to its suppliers, including the amounts due and scheduled payment dates, are not impacted by the supplier’s decisions to finance amounts under these arrangements. The Company does not provide any form of guarantee under these financing arrangements. Our payment terms for suppliers under this program generally range from 60 to 180 days. All outstanding amounts related to suppliers participating in SCF are recorded within Accounts payable in our Consolidated Balance Sheets, and the associated payments are included in operating activities within our Consolidated Statements of Cash Flows. The amount due to suppliers participating in SCF and included in Accounts payable was approximately $ 5.2  billion as of March 31, 2024, $ 5.7  billion as of June 30, 2023, and $ 5.8  billion as of June 30, 2022.
+11.  Restructuring Program
+The Company has historically incurred an ongoing annual level of restructuring-type activities to maintain a competitive cost structure, including manufacturing and workforce optimization. Before tax costs incurred under the ongoing program have generally ranged from $ 250  to $ 500  annually. Consistent with our historical policies for restructuring-type activities, the restructuring program charges will be funded by and included within Corporate for management and segment reporting.
+In December 2023, the Company announced a limited market portfolio restructuring of its business operations, primarily in certain Enterprise Markets, including Argentina and Nigeria, to address challenging macroeconomic and fiscal conditions. In connection with this announcement, the Company expects to record incremental restructuring charges of $ 1.0  to $ 1.5  billion after tax, consisting primarily of foreign currency translation losses to be recognized as non-cash charges upon the substantial liquidation of operations in the affected markets.
+For the three months ended March 31, 2024, the Company incurred charges of $ 70  including $ 44  in Costs of products sold, $ 25  in SG&A and $ 1  in Other non-operating income. For the nine months ended March 31, 2024, the Company incurred charges of $ 252  including $ 154  in Costs of products sold, $ 93  in SG&A and $ 5  in Other non-operating income.
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+The Procter & Gamble Company        13
+The following table presents restructuring activity for the nine months ended March 31, 2024:
+Separation Costs     Asset-Related Costs     Other Costs     Total
+RESERVE JUNE 30, 2023    $     155        $     —        $     19        $     174
+Costs incurred for the six months ended December 31, 2023     109         42         30         181
+Costs incurred for the three months ended March 31, 2024     37         11         22         70
+Costs incurred for the nine months ended March 31, 2024     146         52         53         252
+Costs paid/settled for the nine months ended March 31, 2024    ( 190 )      ( 52 )      ( 52 )      ( 294 )
+RESERVE MARCH 31, 2024    $     112          $     —          $     19          $     131
+Separation Costs
+Employee separation costs relate to severance packages that are primarily voluntary and the amounts calculated are based on salary levels and past service periods.
+Asset-Related Costs
+Asset-related costs consist of both asset write-downs and accelerated depreciation for manufacturing consolidations. Asset write-downs relate to the establishment of a new fair value basis for assets held-for-sale or for disposal. These assets are written down to the lower of their current carrying basis or amounts expected to be realized upon disposal, less minor disposal costs. Charges for accelerated depreciation relate to long-lived assets that will be taken out of service prior to the end of their normal service period.
+Other Costs
+Other restructuring-type charges are incurred as a direct result of the restructuring plan. Such charges include asset removal and termination of contracts related to supply chain and overhead optimization.
+Item 2.    Management's Discussion and Analysis of Financial Condition and Results of Operations
+Forward-Looking Statements
+Certain statements in this report, other than purely historical information, including estimates, projections, statements relating to our business plans, objectives and expected operating results, and the assumptions upon which those statements are based, are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934. Forward-looking statements may appear throughout this report, including without limitation, the following sections: “Management's Discussion and Analysis,” “Risk Factors” and "Notes 4 and 9 to the Consolidated Financial Statements." These forward-looking statements generally are identified by the words “believe,” “project,” “expect,” “anticipate,” “estimate,” “intend,” “strategy,” “future,” “opportunity,” “plan,” “may,” “should,” “will,” “would,” “will be,” “will continue,” “will likely result” and similar expressions. Forward-looking statements are based on current expectations and assumptions, which are subject to risks and uncertainties that may cause results to differ materially from those expressed or implied in the forward-looking statements. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events or otherwise, except to the extent required by law.
+Risks and uncertainties to which our forward-looking statements are subject include, without limitation: (1) the ability to successfully manage global financial risks, including foreign currency fluctuations, currency exchange or pricing controls and localized volatility; (2) the ability to successfully manage local, regional or global economic volatility, including reduced market growth rates, and to generate sufficient income and cash flow to allow the Company to effect the expected share repurchases and dividend payments; (3) the ability to manage disruptions in credit markets or to our banking partners or changes to our credit rating; (4) the ability to maintain key manufacturing and supply arrangements (including execution of supply chain optimizations and sole supplier and sole manufacturing plant arrangements) and to manage disruption of business due to various factors, including ones outside of our control, such as natural disasters, acts of war (including the Russia-Ukraine War) or terrorism or disease outbreaks; (5) the ability to successfully manage cost fluctuations and pressures, including prices of commodities and raw materials and costs of labor, transportation, energy, pension and healthcare; (6) the ability to stay on the leading edge of innovation, obtain necessary intellectual property protections and successfully respond to changing consumer habits, evolving digital marketing and selling platform requirements and technological advances attained by, and patents granted to, competitors; (7) the ability to compete with our local and global competitors in new and existing sales channels, including by successfully responding to competitive factors such as prices, promotional incentives and trade terms for products; (8) the ability to manage and maintain key customer relationships; (9) the ability to protect our reputation and brand equity by successfully managing real or perceived issues, including concerns about safety, quality, ingredients, efficacy, packaging content, supply chain practices or similar matters that may arise; (10) the ability to successfully manage the financial, legal, reputational and operational risk associated with third-party relationships, such as our suppliers, contract manufacturers,
+Amounts in millions of dollars except per share amounts or as otherwise specified.
+14        The Procter & Gamble Company
+distributors, contractors and external business partners; (11) the ability to rely on and maintain key company and third-party information and operational technology systems, networks and services and maintain the security and functionality of such systems, networks and services and the data contained therein; (12) the ability to successfully manage uncertainties related to changing political and geopolitical conditions and potential implications such as exchange rate fluctuations and market contraction; (13) the ability to successfully manage current and expanding regulatory and legal requirements and matters (including, without limitation, those laws and regulations involving product liability, product and packaging composition, intellectual property, labor and employment, antitrust, privacy and data protection, tax, the environment, due diligence, risk oversight, accounting and financial reporting) and to resolve new and pending matters within current estimates; (14) the ability to manage changes in applicable tax laws and regulations; (15) the ability to successfully manage our ongoing acquisition, divestiture and joint venture activities, in each case to achieve the Company’s overall business strategy and financial objectives, without impacting the delivery of base business objectives; (16) the ability to successfully achieve productivity improvements and cost savings and manage ongoing organizational changes while successfully identifying, developing and retaining key employees, including in key growth markets where the availability of skilled or experienced employees may be limited; (17) the ability to successfully manage the demand, supply and operational challenges, as well as governmental responses or mandates, associated with a disease outbreak, including epidemics, pandemics or similar widespread public health concerns; (18) the ability to manage the uncertainties, sanctions and economic effects from the war between Russia and Ukraine; and (19) the ability to successfully achieve our ambition of reducing our greenhouse gas emissions and delivering progress towards our environmental sustainability priorities. A detailed discussion of risks and uncertainties that could cause actual results and events to differ materially from those projected herein is included in the section titled "Economic Conditions and Uncertainties" and the section titled "Risk Factors" (Part II, Item 1A) of this Form 10-Q.
+Purpose, Approach and Non-GAAP Measures
+The purpose of Management's Discussion and Analysis (MD&A) is to provide an understanding of Procter & Gamble's financial condition, results of operations and cash flows by focusing on changes in certain key measures from year to year. The MD&A is provided as a supplement to, and should be read in conjunction with, our Consolidated Financial Statements and accompanying Notes.
+The MD&A is organized in the following sections:
+•  Overview
+•  Summary of Results – Nine Months Ended March 31, 2024
+•  Economic Conditions and Uncertainties
+•  Results of Operations – Three and Nine Months Ended March 31, 2024
+•  Segment Results – Three and Nine Months Ended March 31, 2024
+•  Liquidity and Capital Resources
+•  Measures Not Defined by U.S. GAAP
+Throughout the MD&A we refer to measures used by management to evaluate performance, including unit volume growth, net sales, net earnings, diluted net earnings per common share (diluted EPS) and operating cash flow. We also refer to a number of financial measures that are not defined under U.S. GAAP, consisting of organic sales growth, Core earnings per share (Core EPS), adjusted free cash flow and adjusted free cash flow productivity. The explanation at the end of the MD&A provides the definition of these non-GAAP measures, details on the use and the derivation of these measures, as well as reconciliations to the most directly comparable U.S. GAAP measure.
+Management also uses certain market share and market consumption estimates to evaluate performance relative to competition despite some limitations on the availability and comparability of share and consumption information. References to market share and consumption in the MD&A are based on a combination of vendor-purchased traditional brick-and-mortar and online data in key markets as well as internal estimates. All market share references represent the percentage of sales of our products in dollar terms on a constant currency basis relative to all product sales in the category. The Company measures quarter and fiscal year to date market shares through the most recent period for which market share data is available, which typically reflects a lag time of one or two months as compared to the end of the reporting period. Management also uses unit volume growth to evaluate drivers of changes in net sales. Organic volume growth reflects year-over-year changes in unit volume excluding the impacts of acquisitions and divestitures and certain one-time items, if applicable, and is used to explain changes in organic sales. Certain columns and rows may not add due to rounding.
+OVERVIEW
+P&G is a global leader in the fast-moving consumer goods industry, focused on providing branded consumer packaged goods of superior quality and value to our consumers around the world. Our products are sold in approximately 180 countries and territories, primarily through mass merchandisers, e-commerce (including social commerce) channels, grocery stores, membership club stores, drug stores, department stores, distributors, wholesalers, specialty beauty stores (including airport
+The Procter & Gamble Company        15
+duty-free stores), high-frequency stores, pharmacies, electronics stores and professional channels. We also sell direct to individual consumers. We have on-the-ground operations in approximately 70 countries.
+Our market environment is highly competitive with global, regional and local competitors. In many of the markets and industry segments in which we sell our products, we compete against other branded products as well as retailers' private-label brands. Additionally, many of the product segments in which we compete are differentiated by price tiers (referred to as super-premium, premium, mid-tier and value-tier products). We believe we are well positioned in the industry segments and markets in which we operate, often holding a leadership or significant market share position.
+The table below lists our reportable segments, including the product categories and brand composition within each segment.
+Reportable Segments    Product Categories (Sub-Categories)    Major Brands
+Beauty
+Hair Care (  Conditioners, Shampoos, Styling Aids, Treatments  )
+Head & Shoulders, Herbal Essences, Pantene, Rejoice
+Skin and Personal Care (  Antiperspirants and Deodorants, Personal Cleansing, Skin Care  )
+Olay, Old Spice, Safeguard, Secret, SK-II
+Grooming
+Grooming (  Appliances, Female Blades & Razors, Male Blades & Razors, Pre- and Post-Shave Products, Other Grooming  )
+Braun, Gillette, Venus
+Health Care
+Oral Care (  Toothbrushes, Toothpastes, Other Oral Care  )
+Crest, Oral-B
+Personal Health Care (  Gastrointestinal, Pain Relief, Rapid Diagnostics, Respiratory, Vitamins/Minerals/Supplements, Other Personal Health Care  )
+Metamucil, Neurobion, Pepto-Bismol, Vicks
+Fabric & Home Care
+Fabric Care (  Fabric Enhancers, Laundry Additives, Laundry Detergents  )
+Ariel, Downy, Gain, Tide
+Home Care (  Air Care, Dish Care, P&G Professional, Surface Care  )
+Cascade, Dawn, Fairy, Febreze, Mr. Clean, Swiffer
+Baby, Feminine & Family Care
+Baby Care (  Baby Wipes, Taped Diapers and Pants  )
+Luvs, Pampers
+Feminine Care (  Adult Incontinence, Feminine Care  )
+Always, Always Discreet, Tampax
+Family Care (  Paper Towels, Tissues, Toilet Paper  )
+Bounty, Charmin, Puffs
+Throughout the MD&A, we reference business results by region, which are comprised of North America, Europe, Greater China, Latin America, Asia Pacific and India, Middle East and Africa (IMEA).
+The following table provides the percentage of net sales and net earnings by reportable business segment (excluding Corporate) for the three and nine months ended March 31, 2024:
+Three Months Ended March 31, 2024     Nine Months Ended March 31, 2024
+Net Sales     Net Earnings     Net Sales     Net Earnings
+Beauty    18     %     16     %     18     %     18     %
+Grooming    8     %     8     %     8     %     9     %
+Health Care    14     %     14     %     15     %     15     %
+Fabric & Home Care    36     %     35     %     35     %     34     %
+Baby, Feminine & Family Care    24     %     27     %     24     %     24     %
+Total Company    100       %     100       %     100       %     100       %
+RECENT DEVELOPMENTS
+Limited Market Portfolio Restructuring
+In December 2023, the Company announced a limited market portfolio restructuring of its business operations, primarily in certain Enterprise Markets, including Argentina and Nigeria, to address challenging macroeconomic and fiscal conditions. In connection with this announcement, the Company expects to record incremental restructuring charges of $1.0 to $1.5 billion after tax, consisting primarily of foreign currency translation losses to be recognized as non-cash charges upon the substantial liquidation of operations in the affected markets.
+Although the timing of the completion of this restructuring program has yet to be determined, the Company currently anticipates that these restructuring charges will be recognized in the fiscal years ending June 30, 2024 and 2025. Consistent with our historical policies for ongoing restructuring-type activities, resulting charges will be funded by and included within Corporate for segment reporting. Restructuring charges above the normal ongoing level of restructuring costs will be reported as non-core charges. For more details on the restructuring program, refer to Note 11 to the Consolidated Financial Statements.
+16        The Procter & Gamble Company
+Intangible Asset Impairment
+During the three months ended December 31, 2023, the Company recorded a $1.3 billion before tax ($1.0 billion after tax) non-cash impairment charge, on intangible assets acquired as part of the Company’s 2005 acquisition of The Gillette Company.
+The impairment charge arose from a reduction in the estimated fair value of the Gillette indefinite-lived intangible asset due to a higher discount rate, weakening of several currencies relative to the U.S. dollar and the impact of the non-core restructuring program described above. This impairment charge adjusted the carrying value of the Gillette indefinite-lived intangible asset to fair value. For a more detailed discussion of the Gillette impairment, refer to Note 4 to the Consolidated Financial Statements.
+SUMMARY OF RESULTS – Nine Months Ended March 31, 2024
+The following are highlights of results for the nine months ended March 31, 2024, versus the nine months ended March 31, 2023:
+•  Net sales increased 3% to $63.5 billion versus the prior year period. Net sales increased mid-single digits in Health Care, Fabric & Home Care and Grooming and low single digits in Beauty and Baby, Feminine & Family Care. Organic sales, which exclude the impacts of acquisitions and divestitures and foreign exchange, increased 4%. Organic sales increased high single digits in Grooming, mid-single digits in Fabric & Home Care and Health Care and low single digits in Baby, Feminine & Family Care and Beauty.
+•  Net earnings were $11.8 billion, an increase of $484 million, or 4%, versus the prior year period due to the increase in net sales, partially offset by the non-cash impairment charge of $1.0 billion after taxes related to the Gillette intangible asset.
+•  Net earnings attributable to Procter & Gamble were $11.7 billion, an increase of $473 million, or 4%, versus the prior year period.
+•  Diluted   EPS increased 5% to $4.75 due to the increase in net earnings  . Core EPS, which excludes the charge for the Gillette intangible asset impairment and incremental restructuring, increased 15% to $5.19.
+•  Operating cash flow was $14.1 billion. Adjusted free cash flow, which is defined as operating cash flow less capital expenditures and excluding payments for the transitional tax resulting from the U.S. Tax Act, was $12.0 billion. Adjusted free cash flow productivity, which is defined as adjusted free cash flow as a percentage of net earnings excluding the Gillette intangible asset impairment charge, was 93%.
+ECONOMIC CONDITIONS AND UNCERTAINTI  ES
+Global Economic Conditions.   Our products are sold in numerous countries across North America, Europe, Latin America, Asia, Australia and Africa, with more than half our sales generated outside the United States. Our largest international markets are Greater China, the United Kingdom, Canada, Japan and Germany and collectively comprised more than 20% of our net sales in the fiscal year 2023. As such, we are exposed to and impacted by global macroeconomic factors, geopolitical tensions, U.S. and foreign government policies and foreign exchange fluctuations. We are also exposed to market risks from operating in challenging environments including unstable economic, political and social conditions, civil unrest, military conflicts, natural disasters, debt and credit issues and currency controls or fluctuations. These risks can reduce our net sales or erode our operating margins and consequently reduce our net earnings and cash flows.
+Changes in Costs.   Our costs are subject to fluctuations, particularly due to changes in commodity and input material prices, transportation costs, other broader inflationary impacts and our own productivity efforts. We have significant exposures to certain commodities and input materials, in particular certain oil-derived materials like resins and paper-based materials like pulp.     Volatility in the market price of these commodities and input materials has a direct impact on our costs. Disruptions in our manufacturing, supply and distribution operations due to energy shortages, natural disasters, labor or freight constraints could also lead to increased costs. New or increased legal or regulatory requirements, along with initiatives to meet our sustainability goals, could also result in increased costs due to higher material costs and investments in facilities and equipment. We strive to implement, achieve and sustain cost improvement plans, including supply chain optimization and general overhead and workforce optimization. Increased pricing in response to certain inflationary or cost increases may also offset portions of the cost impacts; however, such price increases may impact product consumption. If we are unable to manage cost impacts through pricing actions and consistent productivity improvements, it may adversely impact our net sales, gross margin, operating margin, net earnings and cash flows.
+Foreign Exchange.   We have significant translation and transaction exposure to the fluctuation of exchange rates. Translation exposures relate to exchange rate impacts of measuring income statements of foreign subsidiaries that do not use the U.S. dollar as their functional currency. Transaction exposures relate to 1) the impact from input costs that are denominated in a currency other than the local reporting currency and 2) the revaluation of transaction-related working capital balances denominated in currencies other than the functional currency. In the past three years, weakening of certain foreign currencies versus the U.S. dollar has resulted in significant foreign exchange impacts leading to lower net sales, net earnings and cash flows. These fluctuations have significantly impacted our historical net sales, net earnings and cash flows and could do so in the future. Certain countries that are currently experiencing significant exchange rate fluctuations include Argentina, Russia and Turkey. Increased pricing in response to certain fluctuations in foreign currency exchange rates may offset portions of the currency
+The Procter & Gamble Company        17
+impacts but could also have a negative impact on the consumption of our products, which would negatively affect our net sales, gross margin, operating margin, net earnings and cash flows.
+Government Policies.   Our net sales, gross margin, operating margin, net earnings and cash flows could be affected by changes in U.S. or foreign government legislative, regulatory or enforcement policies. For example, our net earnings and cash flows could be affected by any future legislative or regulatory changes in U.S. or non-U.S. tax policy, including changes resulting from the current work being led by the OECD/G20 Inclusive Framework focused on "Addressing the Challenges of the Digitalization of the Economy." The breadth of the OECD project extends beyond pure digital businesses and is likely to impact most large multinational businesses by both redefining jurisdictional taxation rights and establishing a 15% global minimum tax. Our net sales, gross margin, operating margin, net earnings and cash flows may also be impacted by changes in U.S. and foreign government policies related to environmental and climate change matters. Additionally, we attempt to carefully manage our debt, currency and other exposures in certain countries with currency exchange, import authorization and pricing controls, such as Argentina, Egypt and Pakistan. Further, our net sales, gross margin, operating margin, net earnings and cash flows could be affected by changes to international trade agreements in North America and elsewhere. Changes in government policies in the above areas might cause an increase or decrease in our net sales, gross margin, operating margin, net earnings and cash flows.
+Russia-Ukraine War.   The war between Russia and Ukraine has negatively impacted our operations. Our Ukraine business includes two manufacturing sites and accounted for less than 1% of consolidated net sales and consolidated net earnings in the fiscal year ended June 30, 2023. Net assets of our Ukraine business accounted for less than 1% of consolidated net assets as of March 31, 2024. Our Russia business includes two manufacturing sites. Beginning in March 2022, the Company reduced its product portfolio, discontinued new capital investments and suspended media, advertising and promotional activity in Russia. The Russia business accounted for approximately 2% of consolidated net sales and consolidated net earnings in the fiscal year ended June 30, 2023. Net assets of our Russia business accounted for less than 2% of consolidated net assets as of March 31, 2024.
+Future impacts to the Company are difficult to predict due to the high level of uncertainty related to the war’s duration, evolution and ultimate resolution. Within Ukraine, there is a possibility of physical damage and destruction of our two manufacturing facilities. We may not be able to operate our manufacturing sites and source raw materials from our suppliers or ship finished products to our customers.
+Within Russia, we may not be able to continue our reduced operations at current levels due to sanctions and counter-sanctions, monetary, currency or payment controls, legislative restrictions or policies, restrictions on access to financial institutions and supply and transportation challenges. Our suppliers, distributors and retail customers are also impacted by the war and their ability to successfully maintain their operations could also impact our operations or negatively impact the sales of our products.
+More broadly, there could be additional negative impacts to our net sales, earnings and cash flows should the situation escalate beyond its current scope, including, among other potential impacts, economic recessions in certain neighboring countries or globally due to inflationary pressures and supply chain cost increases or the geographic proximity of the war relative to the rest of Europe.
+For additional information on risk factors that could impact our business results, please refer to Risk Factors in Part I, Item 1A of the Company's Form 10-K for the fiscal year ended June 30, 2023.
+18        The Procter & Gamble Company
+RESULTS OF OPERATIONS – Three Months Ended March 31, 2024
+The following discussion provides a review of results for the three months ended March 31, 2024, versus the three months ended March 31, 2023.
+Three Months Ended March 31
+Amounts in millions, except per share amounts    2024     2023     % Chg
+Net sales    $     20,195      $     20,068      1%
+Operating income     4,460       4,248      5%
+Earnings before income taxes     4,592       4,288      7%
+Net earnings     3,781       3,424      10%
+Net earnings attributable to Procter & Gamble     3,754       3,397      11%
+Diluted net earnings per common share     1.52       1.37      11%
+Core net earnings per common share    1.52     1.37     11%
+Three Months Ended March 31
+COMPARISONS AS A PERCENTAGE OF NET SALES    2024     2023     Basis Pt Chg
+Gross margin    51.2       %     48.2     %     300
+Selling, general & administrative expense    29.1       %     27.0     %     210
+Operating income    22.1       %     21.2     %     90
+Earnings before income taxes    22.7       %     21.4     %     130
+Net earnings    18.7       %     17.1     %     160
+Net earnings attributable to Procter & Gamble    18.6       %     16.9     %     170
+Net Sales
+Net sales for the quarter increased 1% to $20.2 billion. The increase in net sales was due to increased pricing of 3%, partially offset by unfavorable foreign exchange of 2%. Unit volume and mix had a neutral impact on net sales growth. Excluding the impact of acquisitions and divestitures and foreign exchange, organic sales increased 3%.
+The following table summarizes key drivers of the change in net sales by reportable segment:
+Net Sales Change Drivers 2024 vs. 2023 (Three Months Ended March 31)   (1)
+Volume with Acquisitions & Divestitures     Volume Excluding Acquisitions & Divestitures     Foreign Exchange     Price     Mix
+Other   (2)
+Net Sales Growth
+Beauty    1     %     1     %     (3)    %     4     %     (1)    %     1     %     2     %
+Grooming    2     %     2     %     (7)    %     10     %     (1)    %     (1)    %     3     %
+Health Care    (4)    %     (4)    %     (1)    %     4     %     3     %     —     %     2     %
+Fabric & Home Care    1     %     1     %     (1)    %     2     %     —     %     —     %     2     %
+Baby, Feminine & Family Care    (3)    %     (3)    %     (2)    %     2     %     1     %     —     %     (2)    %
+Total Company    —       %     —       %     (2)    %     3       %     —       %     —       %     1       %
+(1)  Net sales percentage changes are approximations based on quantitative formulas that are consistently applied.
+(2)  Other includes the sales mix impact from acquisitions and divestitures and rounding impacts necessary to reconcile volume to net sales.
+Operating Costs
+Gross margin increased 300 basis points to 51.2% of net sales for the quarter. The increase in gross margin was due to:
+•  260 basis points of manufacturing productivity savings,
+•  130 basis points of lower commodity costs and
+•  a 130 basis-point increase due to higher pricing.
+These impacts were partially offset by:
+•  a 100 basis-point decline from unfavorable product mix including the decline of the super-premium SK-II brand,
+•  a 90 basis-point decline from unfavorable foreign exchange impacts and
+•  30 basis points of product and packaging investments.
+The Procter & Gamble Company        19
+Total SG&A spending increased 9% to $5.9 billion versus the prior year period due to increased marketing spending and overhead costs. SG&A as a percentage of net sales increased 210 basis points to 29.1% due to the increase in marketing and overhead spending as a percentage of net sales. Marketing spending as a percentage of net sales increased 180 basis points as the increase in marketing spending was partially offset by the positive scale impacts of the net sales increase and productivity savings. Overhead costs as a percentage of net sales increased 50 basis points as wage inflation, foreign exchange and other cost increases were offset by the positive scale impacts of the net sales increase and productivity savings. Other operating expenses as a percentage of net sales decreased 20 basis points. Productivity-driven cost savings delivered 60 basis points of benefit to SG&A as a percentage of net sales.
+Non-Operating Expenses and Income
+Interest expense was $ 233  million for the quarter, an increase of $11 million versus the prior year period due primarily to higher interest rates. Interest income was $ 104  million for the quarter, an increase of $21 million versus the prior year period due primarily to higher interest rates. Other non-operating income was $ 260  million, which is an increase of $81 million versus the prior year period due to gains from the sale of minor brands.
+Income Taxes
+The effective income tax rate for the three months ended March 31, 2024, was 17.7%, compared to 20.1% for the three months ended March 31, 2023. The decrease in the effective tax rate was primarily driven by a 160 basis-point decrease from higher excess tax benefits of share-based compensation and decreases from discrete impacts related to uncertain tax positions.
+Net Earnings
+Operating income increased $212 million, or 5%, to $4.5 billion for the quarter, due to the increase in net sales and the increase in operating margin, the components of which are discussed above.
+Net earnings increased $357 million, or 10%, to $3.8 billion due to the increase in operating income, increase in non-operating income and a decrease in the effective tax rate. Foreign exchange had a negative impact of approximately $220 million on net earnings for the quarter, including both transactional and translational impacts from converting earnings from foreign subsidiaries to U.S. dollars. Net earnings attributable to Procter & Gamble increased $357 million, or 11%, to $3.8 billion for the quarter. Diluted EPS increased 11% to $1.52 versus the prior year period due to the increase in net earnings.
+RESULTS OF OPERATIONS – Nine Months Ended March 31, 2024
+The following discussion provides a review of results for the nine months ended March 31, 2024, versus the nine months ended March 31, 2023.
+Nine Months Ended March 31
+Amounts in millions, except per share amounts
+2024
+2023
+% Chg
+Net sales    $     63,507      $     61,453      3%
+Operating income     14,660       13,972      5%
+Earnings before income taxes     14,891       14,120      5%
+Net earnings     11,830       11,346      4%
+Net earnings attributable to Procter & Gamble     11,742       11,269      4%
+Diluted net earnings per common share     4.75       4.53      5%
+Core net earnings per common share    5.19     4.53     15%
+Nine Months Ended March 31
+COMPARISONS AS A PERCENTAGE OF NET SALES
+2024
+2023
+Basis Pt Chg
+Gross margin    52.0       %     47.7     %     430
+Selling, general & administrative expense    26.8       %     25.0     %     180
+Operating income    23.1       %     22.7     %     40
+Earnings before income taxes    23.4       %     23.0     %     40
+Net earnings    18.6       %     18.5     %     10
+Net earnings attributable to Procter & Gamble    18.5       %     18.3     %     20
+Net Sales
+Net sales for the period increased 3% to $63.5 billion. The increase in net sales was due to higher pricing of 5%, partially offset by unfavorable foreign exchange of 1%. Unit volume and mix were unchanged. Excluding the impact of acquisitions and divestitures and foreign exchange, organic sales increased 4%.
+20        The Procter & Gamble Company
+The following table summarizes key drivers of the change in net sales by reportable segment:
+Net Sales Change Drivers 2024 vs. 2023 (Nine Months Ended March 31)   (1)
+Volume with Acquisitions & Divestitures     Volume Excluding Acquisitions & Divestitures     Foreign Exchange     Price     Mix
+Other   (2)
+Net Sales Growth
+Beauty    1     %     —     %     (2)    %     5     %     (2)    %     —     %     2     %
+Grooming    —     %     —     %     (4)    %     8     %     1     %     —     %     5     %
+Health Care    (2)    %     (2)    %     1     %     5     %     2     %     —     %     6     %
+Fabric & Home Care    —     %     1     %     (1)    %     4     %     1     %     1     %     5     %
+Baby, Feminine & Family Care    (3)    %     (3)    %     (2)    %     5     %     1     %     —     %     1     %
+Total Company    —       %     —       %     (1)    %     5       %     —       %     (1)    %     3       %
+(1)  Net sales percentage changes are approximations based on quantitative formulas that are consistently applied.
+(2)  Other includes the sales mix impact from acquisitions and divestitures and rounding impacts necessary to reconcile volume to net sales.
+Operating Costs
+Gross margin increased 430 basis points to 52.0% of net sales for the period. The increase in gross margin was due to:
+•  a 220 basis-point increase due to higher pricing,
+•  220 basis points of manufacturing productivity savings and
+•  180 basis points of lower commodity costs.
+These impacts were partially offset by:
+•  a 70 basis-point decline from unfavorable foreign exchange impacts,
+•  a 60 basis-point decline from unfavorable product mix including the decline of the super-premium SK-II brand,
+•  30 basis points of product and packaging investments and
+•  30 basis points of one-time manufacturing related costs including capacity startup costs.
+Total SG&A spending increased 11% to $17.0 billion versus the prior year period due to increased marketing spending and overhead costs. SG&A as a percentage of net sales increased 180 basis points to 26.8% due to the increase in marketing spending and overhead spending as a percentage of sales. Marketing spending as a percentage of net sales increased 150 basis points as the increase in marketing spending was partially offset by the positive scale impacts of the net sales increase and productivity savings. Overhead costs as a percentage of net sales increased 20 basis points due to wage inflation and other cost increases, partially offset by the positive scale impacts of the net sales increase and productivity savings. Other operating expenses as a percentage of net sales increased 10 basis points. Productivity-driven cost savings delivered 80 basis points of benefit to SG&A as a percentage of net sales.
+In the period ended December 31, 2023, the Company recorded a non-cash impairment charge of $1.3 billion ($1.0 billion after tax) on the Gillette intangible asset. The impairment charge arose from a reduction in the estimated fair value of the Gillette indefinite-lived intangible asset due to a higher discount rate, weakening of several currencies relative to the U.S. dollar and the impact of the limited market portfolio restructuring program. For further discussion of the Gillette impairment charge, refer to Note 4 to the Consolidated Financial Statements.
+Non-Operating Expenses and Income
+Interest expense was $ 705  million for the period, an increase of $189 million versus the prior year period due primarily to higher interest rates. Interest income was $ 366  million for the period, an increase of $175 million versus the prior year period due primarily to higher interest rates. Other non-operating income was $ 570  million, which is an increase of $97 million versus the prior year period, due primarily to gains from the sale of minor brands and an increase in net non-operating benefits on postretirement plans.
+Income Taxes
+The effective income tax rate for the nine months ended March 31, 2024, was 20.6%, compared to 19.6% for the nine months ended March 31, 2023. The increase in the effective tax rate was primarily due to the net impacts of the prior year recognition of operating loss carryforwards, partially offset by decreases due to higher excess tax benefits of share-based compensation.
+Net Earnings
+Operating income increased $688 million, or 5%, to $14.7 billion for the period, due to the increase in net sales and the increase in gross margin, the components of which are described above. These benefits were partially offset by non-cash before tax impairment charges of $1.3 billion related to the Gillette intangible asset and an increase in SG&A spending as a percentage of net sales.
+The Procter & Gamble Company        21
+Net earnings increased $484 million, or 4%, to $11.8 billion, as the increase in operating income was partially offset by an increase in the effective tax rate. Foreign exchange had a negative impact of approximately $468 million on net earnings for the period, including both transactional and translational impacts from converting earnings from foreign subsidiaries to U.S. dollars. Net earnings attributable to Procter & Gamble increased $473 million, or 4%, to $11.7 billion for the period. Diluted EPS increased 5% to $4.75 versus the prior year period due to the increase in net earnings and a reduction in the weighted average number of shares outstanding. Core EPS, which represents diluted EPS excluding charges for incremental restructuring and the impairment of the Gillette intangible asset, increased 15% to $5.19.
+SEGMENT RESULTS – Three and Nine Months Ended March 31, 2024
+The following discussion provides a review of results by reportable business segment. Analysis of the results for the three and nine months ended March 31, 2024, is provided based on a comparison to the three and nine months ended March 31, 2023. The primary financial measures used to evaluate segment performance are net sales and net earnings. The table below provides supplemental information on net sales, earnings before income taxes and net earnings by reportable business segment for the three and nine months ended March 31, 2024, versus the comparable prior year period (dollar amounts in millions):
+Three Months Ended March 31, 2024
+Net Sales     % Change Versus Year Ago     Earnings/(Loss) Before Income Taxes     % Change Versus Year Ago     Net Earnings/(Loss)     % Change Versus Year Ago
+Beauty    $    3,550       2     %     $    753       (1)    %     $    587       (3)    %
+Grooming    1,539       3     %     379       (1)    %     303       (2)    %
+Health Care    2,873       2     %     687       3     %     525       —     %
+Fabric & Home Care    7,169       2     %     1,692       10     %     1,301       11     %
+Baby, Feminine & Family Care    4,936       (2)    %     1,299       8     %     997       8     %
+Corporate    128       N/A     (218)      N/A     68       N/A
+Total Company    $    20,195         1       %     $    4,592         7       %     $    3,781         10       %
+Nine Months Ended March 31, 2024
+Net Sales     % Change Versus Year Ago     Earnings/(Loss) Before Income Taxes     % Change Versus Year Ago     Net Earnings/(Loss)     % Change Versus Year Ago
+Beauty    $    11,496       2     %     $    3,114       (2)    %     $    2,426       (4)    %
+Grooming    4,997       5     %     1,450       5     %     1,165       4     %
+Health Care    9,119       6     %     2,508       7     %     1,933       6     %
+Fabric & Home Care    22,230       5     %     5,741       24     %     4,446       26     %
+Baby, Feminine & Family Care    15,268       1     %     4,144       23     %     3,174       23     %
+Corporate    398       N/A     (2,066)      N/A     (1,314)      N/A
+Total Company    $    63,507         3       %     $    14,891         5       %     $    11,830         4       %
+Beauty
+Three months ended March 31, 2024, compared with three     months ended March 31, 2023
+Beauty net sales increased 2% to $3.6 billion as the positive impacts of higher pricing of 4%, unit volume increase of 1% and benefit from acquisitions of 1% were partially offset by the negative impacts of unfavorable foreign exchange of 3% and unfavorable mix of 1% (due primarily to the decline of the super-premium SK-II brand, which has higher than segment-average selling prices). Excluding the impact of acquisitions and divestitures and foreign exchange, organic sales increased 3%. Global market share of the Beauty segment decreased 0.2 points.
+•  Hair Care net sales increased mid-single digits. Positive impacts of higher pricing (driven by Argentina, Europe and North America), a benefit from acquisitions and favorable geographic and brand mix (due to growth of the premium Native brand) were partially offset by negative impacts of unfavorable foreign exchange. Unit volume was unchanged as growth in North America (due to increased marketing support and distribution gains) and Latin America (due to market growth) was offset by a decline in IMEA (due to increased pricing and lower demand in the Middle East). Organic sales increased high single digits driven by more than 30% growth in Latin America, a double-digit increase in Europe and a high single-digit increase in North America, partially offset by a mid-single-digit decrease in Greater China. Global market share of the Hair Care category decreased 0.5 points.
+•  Skin and Personal Care net sales decreased low single digits. Negative impacts of unfavorable mix (due to the decline of the super-premium SK-II brand, which has higher than category-average selling prices) and unfavorable foreign exchange
+22        The Procter & Gamble Company
+were partially offset by an increase in unit volume and higher pricing (across all regions). The volume increase was driven by growth in North America (due to innovation in Personal Care) and Latin America (due to market growth). Organic sales decreased low single digits due to a 20% decline in Greater China, partially offset by high single-digit growth in North America. Global market share of the Skin and Personal Care category increased 0.1 points.
+Net earnings decreased 3% to $587 million as the increase in net sales was more than offset by a 90 basis-point decline in net earnings margin. Net earnings margin decreased as an increase in gross margin was more than fully offset by an increase in SG&A as a percentage of net sales and a higher effective tax rate. The gross margin improvement was driven by increased productivity savings and pricing, partially offset by negative product mix (due to the decline of the super-premium SK-II brand) and unfavorable foreign exchange impacts. SG&A as a percentage of net sales increased due primarily to an increase in marketing and overhead spending, partially offset by the positive scale effects of the net sales increase. The higher effective tax rate was driven by unfavorable geographic mix.
+Nine months ended March 31, 2024, compared with nine months ended March 31, 2023
+Beauty net sales increased 2% to $11.5 billion, as the positive impacts of higher pricing of 5% and a unit volume increase of 1% were partially offset by the negative impacts of unfavorable foreign exchange of 2% and unfavorable mix of 2% (due primarily to the decline of the super-premium SK-II brand, which has higher than segment-average selling prices). Excluding the impact of acquisitions and divestitures and foreign exchange, organic sales increased 3%. Global market share of the Beauty segment increased 0.1 points.
+•  Hair Care net sales increased high single digits. Positive impacts of higher pricing (driven by Latin America, Europe and North America), a benefit from acquisitions and favorable brand mix (due to growth of the premium Native brand) were partially offset by negative impacts of unfavorable foreign exchange. Unit volume was unchanged as growth in North America (due to innovation) and Latin America (due to market growth) was offset by a decline in Greater China (due to market contraction and distribution footprint changes). Organic sales increased high single digits due to a more than 30% growth in Latin America, low teens increase in Europe and double-digit increase in North America, partially offset by a high single-digit decline in Greater China. Global market share of the Hair Care category decreased 0.4 points.
+•  Skin and Personal Care net sales decreased low single digits. Negative impacts of unfavorable mix (due to the decline of the super-premium SK-II brand, which has higher than category-average selling prices) and unfavorable foreign exchange were partially offset by the positive impacts of higher pricing (across all regions) and an increase in unit volume. The increase in volume was driven by growth in North America and Europe (both due to innovation in Personal Care), partially offset by a decline in Greater China (due to the decline of the super-premium SK-II brand and market contraction). Organic sales decreased low single digits, due to a high-teens decline in Asia Pacific and a mid-teens decline in Greater China, partially offset by a double-digit increase in North America. Global market share of the Skin and Personal Care category increased 0.3 points.
+Net earnings decreased 4% to $2.4 billion, as the increase in net sales was more than offset by a 140 basis-point decline in net earnings margin. Net earnings margin decreased as an increase in gross margin was more than fully offset by an increase in SG&A as a percentage of net sales and a higher effective tax rate. The gross margin improvement was driven by increased pricing and productivity savings, partially offset by negative product mix (due to the decline of the super-premium SK-II brand) and unfavorable foreign exchange impacts. SG&A as a percentage of net sales increased due primarily to an increase in marketing and overhead spending and higher foreign exchange transactional charges, partially offset by the positive scale effects of the net sales increase. The higher effective tax rate was driven by unfavorable geographic mix.
+Grooming
+Three months ended March 31, 2024, compared with three     months ended March 31, 2023
+Grooming net sales increased 3% to $1.5 billion as the benefits of higher pricing of 10% (driven primarily by Argentina and Europe) and a 2% increase in unit volume were partially offset by unfavorable foreign exchange of 7% and unfavorable product mix of 1% (due to the disproportionate growth of disposables). The volume growth was driven primarily by Latin America and IMEA (both due to innovation), partially offset by a decline in Greater China (due to market contraction). Excluding the impact of acquisitions and divestitures and foreign exchange, organic sales increased 10% driven by a more than 50% growth in Latin America and double-digit growth in Europe, partially offset by a low single-digit decline in North America. Global market share of the Grooming segment increased 0.7 points.
+Net earnings decreased 2% to $303 million as the net sales growth was more than fully offset by a 90 basis-point decrease in net earnings margin. Net earnings margin decreased as an increase in gross margin was more than fully offset by an increase in SG&A as a percentage of net sales. The gross margin increase was driven by higher pricing and productivity savings, partially offset by unfavorable foreign exchange and unfavorable mix due to the growth of premium innovation that has lower than segment-average gross margins. SG&A as a percentage of net sales increased due primarily to an increase in marketing spending, partially offset by the positive scale effects of the net sales increase.
+The Procter & Gamble Company        23
+Nine months ended March 31, 2024, compared with nine months ended March 31, 2023
+Grooming net sales increased 5% to $5.0 billion as the benefits of higher pricing of 8% (driven primarily by Latin America and Europe) and favorable product mix (due to growth of premium shavers) of 1% were partially offset by unfavorable foreign exchange of 4%. Unit volume was unchanged as growth in Latin America and IMEA (both due to innovation) was offset by declines in Europe (due to increased pricing) and Greater China (due to market decline and increased pricing). Excluding the impact of acquisitions and divestitures and foreign exchange, Grooming organic sales increased 9% due to more than 30% growth in Latin America and double-digit growth in Europe, partially offset by a low single-digit decline in North America. Global market share of the Grooming segment increased 0.5 points.
+Net earnings increased 4% to $1.2 billion, due to the net sales growth. Net earnings margin was unchanged as an increase in gross margin was fully offset by an increase in SG&A as a percentage of net sales. The gross margin increase was driven by higher pricing and productivity savings, partially offset by unfavorable foreign exchange. SG&A as a percentage of net sales increased due to an increase in marketing spending and higher foreign exchange transactional charges, partially offset by the positive scale effects of the net sales increase.
+Health Care
+Three months ended March 31, 2024, compared with three     months ended March 31, 2023
+Health Care net sales increased 2% to $2.9 billion driven by higher pricing of 4% and favorable product mix of 3%, partially offset by a 4% decrease in unit volume and unfavorable foreign exchange of 1%. Excluding the impact of acquisitions and divestitures and foreign exchange, organic sales also increased 2%. Global market share of the Health Care segment increased 0.7 points.
+•  Oral Care net sales increased low single digits driven by the positive impacts of favorable product mix (due to growth of power brushes and premium paste, which have higher than category-average selling prices) partially offset by a decline in unit volume and unfavorable foreign exchange impacts. The decrease in unit volume was driven primarily by declines in Latin America (due to increased pricing and competitive activity), North America and Asia Pacific (both due to share losses). Organic sales increased mid-single digits driven by a double-digit increase in Europe and a low single-digit increase in North America, partially offset by a double-digit decrease in Asia Pacific. Global market share of the Oral Care category increased 0.3 points.
+•  Personal Health Care net sales were unchanged as the positive impacts of higher pricing (driven by Argentina and North America) were fully offset by a decrease in unit volume, unfavorable foreign exchange and unfavorable product mix (due to the decline of respiratory products, which have higher than category-average selling prices). The volume decrease was driven primarily by declines in IMEA (due to distribution rationalization), North America (due to market decline of respiratory products) and Latin America (due to market contraction). Organic sales increased low single digits driven by mid-single-digit growth in Latin America and low single-digit growth in North America, partially offset by a high single-digit decline in IMEA. Global market share of the Personal Health Care category increased 0.8 points.
+Net earnings were unchanged at $525 million as the net sales growth was fully offset by a 20 basis-point decrease in net earnings margin. Net earnings margin decreased as an increase in gross margin was more than fully offset by an increase in SG&A as a percentage of net sales and a higher effective tax rate. The gross margin increase was driven by higher pricing and productivity savings, partially offset by unfavorable product mix (due to a decline in respiratory products, which have higher than segment-average gross margins) and unfavorable foreign exchange. SG&A as a percentage of net sales increased due to increased marketing and overhead spending, partially offset by the positive scale impacts of the net sales increase and a decrease in other operating costs. The higher effective tax rate was driven by unfavorable geographic mix.
+Nine months ended March 31, 2024, compared with nine months ended March 31, 2023
+Health Care net sales increased 6% to $9.1 billion driven by higher pricing of 5%, favorable geographic and product mix of 2% and favorable foreign exchange of 1%, partially offset by a 2% decrease in unit volume. Excluding the impact of acquisitions and divestitures and foreign exchange, organic sales increased 5%. Global market share of the Health Care segment increased 0.7 points.
+•  Oral Care net sales increased mid-single digits due to the positive impacts of favorable product mix (due to growth of premium paste and power brushes, which have higher than category-average selling prices), higher pricing (driven by Europe, North America and Latin America) and favorable foreign exchange, partially offset by a decrease in unit volume. The unit volume decrease was due to a decline in Latin America (due to share losses) and Asia Pacific (due to increased pricing) partially offset by growth in Europe (due to market growth). Organic sales also increased mid-single digits due to a double-digit increase in Europe and a mid-single-digit increase in North America. Global market share of the Oral Care category increased 0.3 points.
+•  Personal Health Care net sales increased mid-single digits due to the positive impacts of higher pricing (driven by North America, Latin America and Europe) and favorable foreign exchange, partially offset by a decline in unit volume and unfavorable mix (due to the decline of respiratory products, that have higher than category-average selling prices). The decline in unit volume was driven by declines in IMEA, Asia Pacific and Latin America (all due to market contraction
+24        The Procter & Gamble Company
+including lower cough and cold incidence), partially offset by growth in North America (due to innovation). Organic sales increased mid-single digits due to mid-single-digit growth in North America and low single-digit growth in Europe. Global market share of the Personal Health Care category increased 0.8 points.
+Net earnings increased 6% to $1.9 billion due to the increase in net sales. Net earnings margin was unchanged as an increase in gross margin was offset by an increase in SG&A as a percentage of net sales and a higher effective tax rate. The gross margin increase was driven by higher pricing and productivity savings, partially offset by unfavorable product mix (due to a decline in respiratory and whitening products, both of which have higher than segment-average gross margins). SG&A as a percentage of net sales increased due to increased marketing and overhead spending, partially offset by the positive scale impacts of the net sales increase. The higher effective tax rate was driven by unfavorable geographic mix.
+Fabric & Home Care
+Three months ended March 31, 2024, compared with three months ended March 31, 2023
+Fabric & Home Care net sales increased 2% to $7.2 billion driven by higher pricing of 2% and a unit volume increase of 1%, partially offset by unfavorable foreign exchange of 1%. Excluding the impact of foreign exchange and acquisitions and divestitures, organic sales increased 3%. Global market share of the Fabric & Home Care segment decreased 0.1 points.
+•  Fabric Care net sales were unchanged as the positive impacts of higher pricing (driven primarily by Asia Pacific and Europe, partially offset by increased trade spending in North America) and favorable geographic mix were partially offset by unfavorable foreign exchange. Volume was unchanged as growth in North America was fully offset by declines in Asia Pacific (due to share losses) and IMEA (due to lower demand in the Middle East and increased pricing). Organic sales increased low single digits driven by a mid-single-digit increase in North America and a high single-digit increase in Europe, partially offset by a double-digit decrease in IMEA. Global market share of the Fabric Care category decreased 0.5 points.
+•  Home Care net sales increased mid-single digits. Positive impacts of a unit volume increase, higher pricing (driven primarily by Europe) and favorable premium product mix were partially offset by unfavorable foreign exchange. The increase in unit volume was due primarily to growth in North America (due to innovation) and Europe (due to increased marketing support), partially offset by a decline in Latin America (due to increased pricing). Organic sales increased high single digits driven by high single-digit growth in North America and mid-teens growth in Europe. Global market share of the Home Care category increased 0.5 points.
+Net earnings increased 11% to $1.3 billion due to the increase in net sales and a 140 basis-point improvement in net earnings margin. Net earnings margin increased due to an increase in gross margin partially offset by an increase in SG&A as a percentage of net sales. The gross margin increase was driven by increased productivity savings, lower commodity costs and higher pricing, partially offset by unfavorable mix due to the growth of premium products that have lower than segment-average gross margins. SG&A as a percentage of net sales increased due to an increase in marketing spending, partially offset by the positive scale effects of the net sales increase.
+Nine months ended March 31, 2024, compared with nine months ended March 31, 2023
+Fabric & Home Care net sales increased 5% to $22.2 billion driven by higher pricing of 4% and favorable product mix of 1%, partially offset by unfavorable foreign exchange of 1%. Unit volume was unchanged. Excluding the impact of foreign exchange and acquisitions and divestitures, organic sales increased 6%. Global market share of the Fabric & Home Care segment increased 0.2 points.
+•  Fabric Care net sales increased mid-single digits driven by the positive impacts of higher pricing (driven by Europe, Asia Pacific and Latin America) and favorable geographic mix. Unit volume was unchanged as growth in North America (due to market growth) was offset by declines in Asia Pacific (due to increased pricing) and Greater China (due to market contraction and portfolio rationalization). Organic sales also increased mid-single digits driven by a double-digit increase in Europe and a mid-single-digit increase in North America. Global market share of the Fabric Care category decreased 0.3 points.
+•  Home Care net sales increased high single digits. Positive impacts of higher pricing (driven primarily by Europe, North America and Latin America), favorable premium product mix and a unit volume increase were partially offset by unfavorable foreign exchange. The increase in volume was due to growth in North America (due to innovation), partially offset by decline in Latin America (due to increased pricing). Organic sales increased double digits driven by mid-teens growth in Europe and high single-digit growth in North America. Global market share of the Home Care category increased 0.9 points.
+Net earnings increased 26% to $4.4 billion due to the increase in net sales and a 340 basis-point improvement in net earnings margin. Net earnings margin increased due to an increase in gross margin, partially offset by an increase in SG&A as a percentage of net sales. The gross margin increase was driven by higher pricing, increased productivity savings and lower commodity costs. SG&A as a percentage of net sales increased due to an increase in marketing spending, partially offset by the positive scale effects of the net sales increase.
+The Procter & Gamble Company        25
+Baby, Feminine & Family Care
+Three months ended March 31, 2024, compared with three     months ended March 31, 2023
+Baby, Feminine & Family Care net sales decreased 2% to $4.9 billion due to a 3% decrease in unit volume and unfavorable foreign exchange of 2% partially offset by higher pricing of 2% and favorable mix of 1%. Excluding the impacts of foreign exchange and acquisitions and divestitures, organic sales were unchanged. Global market share of the Baby, Feminine & Family Care segment decreased 0.1 points.
+•  Baby Care net sales decreased high single digits. Negative impacts of a decrease in unit volume and unfavorable foreign exchange were partially offset by higher pricing (primarily driven by Argentina) and favorable product mix (due to a higher proportion of premium diapers, which have higher than category-average selling prices). The unit volume decline was due primarily to Europe (due to higher pricing), North America (due to market decline and competitive activity) and IMEA (due to lower demand in the Middle East and increased pricing). Organic sales decreased mid-single digits as a high single-digit decline in Europe and mid-single-digit decline in North America were partially offset by a more than 20% growth in Latin America. Global market share of the Baby Care category decreased 0.2 points.
+•  Feminine Care net sales increased low single digits. Positive impacts of higher pricing (driven primarily by Europe) and favorable mix (due to growth of premium products) were partially offset by a decrease in unit volume and unfavorable foreign exchange. The volume decrease was primarily driven by declines in Europe and Latin America (both due to increased pricing). Organic sales increased low single digits driven by an approximately 20% increase in Latin America and a low single-digit increase in Europe. Global market share of the Feminine Care category was unchanged.
+•  Net sales in Family Care, which is predominantly a North America business, increased low single digits driven by an increase in unit volume, partially offset by unfavorable product mix (due to growth of larger pack sizes with lower than category-average selling prices). Organic sales also increased low single digits. North America market share of the Family Care category decreased 0.1 points.
+Net earnings increased 8% to $997 million as the decrease in net sales was more than fully offset by a 190 basis-point increase in net earnings margin. Net earnings margin increased primarily due to an increase in gross margin, partially offset by an increase in SG&A as a percentage of net sales. Gross margin increased primarily due to increased productivity savings, lower commodity costs and increased pricing, partially offset by unfavorable foreign exchange. SG&A as a percentage of net sales increased due to an increase in marketing and overhead spending.
+Nine months ended March 31, 2024, compared with nine months ended March 31, 2023
+Baby, Feminine & Family Care net sales increased 1% to $15.3 billion driven by higher pricing of 5% and favorable product mix of 1%, partially offset by a 3% decrease in unit volume and unfavorable foreign exchange of 2%. Excluding the impacts of foreign exchange and acquisitions and divestitures, organic sales increased 3%. Global market share of the Baby, Feminine & Family Care segment decreased 0.1 points.
+•  Baby Care net sales decreased low single digits. Negative impacts of a decrease in unit volume and unfavorable foreign exchange were partially offset by higher pricing (driven primarily by Latin America and Europe) and favorable product mix (due to growth of premium diapers, which have higher than category-average selling prices). Volumes decreased in all regions led by Europe and North America, due to increased pricing and competitive activity. Organic sales increased low single digits driven by more than 20% growth in Latin America, partially offset by a mid-single-digit decline in Europe. Global market share of the Baby Care category decreased 0.2 points.
+•  Feminine Care net sales increased low single digits. Positive impacts of higher pricing (driven primarily by Europe, IMEA and Latin America) and favorable mix (due to growth of premium products) were partially offset by a decrease in unit volume and unfavorable foreign exchange. The volume decrease was driven primarily by declines in Europe and IMEA (both due to increased pricing), partially offset by growth in North America (due to increased marketing support and distribution gains). Organic sales increased mid-single digits driven by high single-digit increases in Europe and IMEA and a mid-single-digit increase in North America. Global market share of the Feminine Care category increased 0.3 points.
+•  Net sales in Family Care, which is predominantly a North America business, increased mid-single digits driven by higher pricing and a unit volume increase, partially offset by unfavorable product mix (due to growth of larger pack sizes with lower than category-average selling prices). Organic sales also increased mid-single digits. North America market share of the Family Care category decreased 0.2 points.
+Net earnings increased 23% to $3.2 billion due to the increase in net sales and a 370 basis-point increase in net earnings margin. Net earnings margin increased primarily due to an increase in gross margin, partially offset by an increase in SG&A as a percentage of net sales. Gross margin increased primarily due to lower commodity costs, increased pricing and increased productivity savings, partially offset by unfavorable foreign exchange. SG&A as a percentage of net sales increased due to an increase in marketing and overhead spending, partially offset by the positive scale impacts of the net sales increase.
+26        The Procter & Gamble Company
+Corporate
+Corporate includes certain operating and non-operating activities not allocated to specific business segments. These include but are not limited to incidental businesses managed at the corporate level, gains and losses related to certain divested brands or businesses, impacts from various financing and investing activities, impacts related to employee benefits, asset impairments and restructuring activities including manufacturing and workforce optimization. Corporate also includes reconciling items to adjust the accounting policies used within the reportable segments to U.S. GAAP. The most notable ongoing reconciling item is income taxes, which adjusts the blended statutory rates that are reflected in the reportable segments to the overall Company effective tax rate.
+For the three months ended March 31, 2024, Corporate net sales decreased $45 million to $128 million due to a decrease in net sales of incidental businesses managed at the corporate level. Corporate net earnings increased $182 million to $68 million for the quarter due to higher current period tax benefits (including excess tax benefits of share-based compensation) and gain from the sale of certain minor brands.
+For the nine months ended March 31, 2024, Corporate net sales decreased $203 million to $398 million due to a decrease in net sales of incidental businesses managed at the corporate level. Corporate net earnings decreased $1.1 billion to a loss of $1.3 billion due primarily to the impairment charge of the Gillette intangible asset.
+LIQUIDITY & CAPITAL RESOURCES
+Operating Activities
+Operating cash flow was $14.1 billion fiscal year to date, an increase of $2.6 billion versus the prior year period. Net earnings, adjusted for non-cash items (depreciation and amortization, intangible asset impairment, share-based compensation expense and deferred income taxes), generated $15.5 billion of operating cash flow. Working capital and other impacts used $1.4 billion of cash in the period primarily driven by an increase in accounts receivable from sales growth, a decrease in trade payables and a decrease in other liabilities. The decrease in trade payables resulted from reduced commodity costs, partially offset by the impact of our supplier finance program (see Note 10, Supplier Finance Programs). The decrease in other liabilities is primarily driven by postretirement benefit payments and the net periodic credit from other retiree benefits. Days sales outstanding increased by two days. Days inventory on hand increased by three days.
+Investing Activities
+Investing activities used $3.0 billion of cash fiscal year to date primarily driven by capital expenditures and the settlement of net investment hedges.
+Financing Activities
+Financing activities used $12.4 billion of net cash fiscal year to date, mainly due to dividends to shareholders, treasury stock purchases and a net debt decrease, partially offset by the impact of stock options and other.
+As of March 31, 2024, our current liabilities exceeded current assets by $9.9 billion. We anticipate being able to support our short-term liquidity and operating needs largely through cash generated from operations. We have strong short- and long-term debt ratings that have enabled and should continue to enable us to refinance our debt as it becomes due at favorable rates in commercial paper and bond markets. In addition, we have agreements with a diverse group of financial institutions that, if needed, should provide sufficient credit funding to meet short-term financing requirements.
+MEASURES NOT DEFINED BY U.S. GAAP
+In accordance with the SEC's Regulation S-K Item 10(e), the following provides definitions of the non-GAAP measures and the reconciliation to the most closely related GAAP measure. We believe that these measures provide useful perspective on underlying business trends (i.e., trends excluding non-recurring or unusual items) and results and provide a supplemental measure of period-to-period results. The non-GAAP measures described below are used by management in making operating decisions, allocating financial resources and for business strategy purposes. These measures may be useful to investors, as they provide supplemental information about business performance and provide investors a view of our business results through the eyes of management. These measures are also used to evaluate senior management and are a factor in determining their at-risk compensation. These non-GAAP measures are not intended to be considered by the user in place of the related GAAP measures but rather as supplemental information to our business results. These non-GAAP measures may not be the same as similar measures used by other companies due to possible differences in method and in the items or events being adjusted.
+Organic sales growth.   Organic sales growth is a non-GAAP measure of sales growth excluding the impacts of acquisitions and divestitures and foreign exchange from year-over-year comparisons. We believe this measure provides investors with a supplemental understanding of underlying sales trends by providing sales growth on a consistent basis. This measure is used in assessing the achievement of management goals for at-risk compensation.
+The Procter & Gamble Company        27
+The following table provides a numerical reconciliation of organic sales growth to reported net sales growth:
+Three Months Ended March 31, 2024    Net Sales Growth     Foreign Exchange Impact
+Acquisition & Divestiture Impact/Other   (1)
+Organic Sales Growth
+Beauty    2     %     3     %     (2)    %     3     %
+Grooming    3     %     7     %     —     %     10     %
+Health Care    2     %     1     %     (1)    %     2     %
+Fabric & Home Care    2     %     1     %     —     %     3     %
+Baby, Feminine & Family Care    (2)    %     2     %     —     %     —     %
+Total Company    1       %     2       %     —       %     3       %
+(1)  Acquisition & Divestiture Impact/Other includes the volume and mix impact of acquisitions and divestitures and rounding impacts necessary to reconcile net sales to organic sales.
+Nine Months Ended March 31, 2024    Net Sales Growth     Foreign Exchange Impact
+Acquisition & Divestiture Impact/Other   (1)
+Organic Sales Growth
+Beauty    2     %     2     %     (1)    %     3     %
+Grooming    5     %     4     %     —     %     9     %
+Health Care    6     %     (1)    %     —     %     5     %
+Fabric & Home Care    5     %     1     %     —     %     6     %
+Baby, Feminine & Family Care    1     %     2     %     —     %     3     %
+Total Company    3       %     1       %     —       %     4       %
+(1)  Acquisition & Divestiture Impact/Other includes the volume and mix impact of acquisitions and divestitures and rounding impacts necessary to reconcile net sales to organic sales.
+Adjusted free cash flow.   Adjusted free cash flow is defined as operating cash flow less capital expenditures and excluding payments for the transitional tax resulting from the U.S. Tax Act. Adjusted free cash flow represents the cash that the Company is able to generate after taking into account planned maintenance and asset expansion. We view adjusted free cash flow as an important measure because it is one factor used in determining the amount of cash available for dividends, share repurchases, acquisitions and other discretionary investments.
+The following table provides a numerical reconciliation of adjusted free cash flow ($ millions):
+Nine Months Ended March 31, 2024
+Operating Cash Flow     Capital Spending     U.S. Tax Act Payments     Adjusted Free Cash Flow
+$     14,092        $    ( 2,539 )      $    422       $    11,975
+Adjusted free cash flow productivity.   Adjusted free cash flow productivity is defined as the ratio of adjusted free cash flow to net earnings excluding the Gillette intangible asset impairment charge. We view adjusted free cash flow productivity as a useful measure to help investors understand P&G’s ability to generate cash. Adjusted free cash flow productivity is used by management in making operating decisions, in allocating financial resources and for budget planning purposes. This measure is also used in assessing the achievement of management goals for at-risk compensation.
+The following table provides a numerical reconciliation of adjusted free cash flow productivity ($ millions):
+Nine Months Ended March 31, 2024
+Adjusted Free Cash Flow     Net Earnings
+Adjustments to
+Net Earnings   (1)
+Net Earnings
+as Adjusted     Adjusted Free Cash
+Flow Productivity
+$    11,975       $     11,830        $    1,026       $    12,856       93     %
+(1)  Adjustments to Net Earnings relate to the Gillette intangible asset impairment charge announced in December 2023.
+28        The Procter & Gamble Company
+Core EPS.   Core EPS is a measure of the Company's diluted EPS excluding items that are not judged by management to be part of the Company's sustainable results or trends. Management views this non-GAAP measure as a useful supplemental measure of Company performance over time. This measure is also used in assessing the achievement of management goals for at-risk compensation. The Core earnings measures included in the following reconciliation tables refer to the equivalent GAAP measures adjusted as applicable for the following items:
+•  Incremental restructuring  : The Company has historically had an ongoing level of restructuring activities of approximately $250 - $500 million before tax. On December 5, 2023, the Company announced a limited market portfolio restructuring of its business operations, primarily in certain Enterprise Markets, including Argentina and Nigeria. The adjustment to Core earnings includes the restructuring charges that exceed the normal, recurring level of restructuring charges.
+•  Intangible asset impairment  : As discussed in Note 4 to the Consolidated Financial Statements, the Company recognized in the three months ended December 31, 2023, a non-cash, after-tax impairment charge of $1.0 billion ($1.3 billion before tax) to adjust the carrying value of the Gillette intangible asset acquired as part of the Company's 2005 acquisition of The Gillette Company.
+We do not view the above items to be part of our sustainable results, and their exclusion from core earnings measures provides a more comparable measure of year-on-year results. These items are also excluded when evaluating senior management in determining their at-risk compensation.
+THE PROCTER & GAMBLE COMPANY AND SUBSIDIARIES
+Reconciliation of Non-GAAP Measures
+Three Months Ended March 31, 2024     Three Months Ended March 31, 2023
+Amounts in millions except per share amounts    As Reported (GAAP)     Incremental Restructuring     Intangible Impairment     Core
+(Non-GAAP)
+As Reported
+(GAAP)   (1)
+Cost of products sold    $     9,855        $    (13)      $    —       $    9,842       $     10,404
+Selling, general and administrative expense     5,880        3       —       5,883        5,416
+Operating income     4,460        10       —       4,471        4,248
+Income taxes     812        —       —       812        864
+Net earnings attributable to P&G     3,754        10       —       3,763        3,397
+Core EPS
+Diluted net earnings per common share   (2)
+$     1.52        $    —       $    —       $    1.52       $     1.37
+(1)  For the three months ended March 31, 2023, there were no adjustments to or reconciling items for Core EPS.
+(2)  Diluted net earnings per common share are calculated on Net earnings attributable to Procter & Gamble.
+CHANGE VERSUS YEAR AGO
+Net earnings attributable to P&G    11     %
+Core net earnings attributable to P&G    11     %
+Diluted net earnings per common share    11     %
+Core EPS    11     %
+The Procter & Gamble Company        29
+THE PROCTER & GAMBLE COMPANY AND SUBSIDIARIES
+Reconciliation of Non-GAAP Measures
+Nine Months Ended March 31, 2024     Nine Months Ended March 31, 2023
+Amounts in millions except per share amounts    As Reported (GAAP)     Incremental Restructuring     Intangible Impairment     Core
+(Non-GAAP)
+As Reported
+(GAAP)   (1)
+Cost of products sold    $     30,500        $    (25)      $    —       $    30,475       $     32,147
+Selling, general and administrative expense     17,006        (4)      —       17,002        15,334
+Operating income     14,660        29       1,341       16,031        13,972
+Income taxes     3,061        (20)      315       3,357        2,774
+Net earnings attributable to P&G     11,742        49       1,026       12,817        11,269
+Core EPS
+Diluted net earnings per common share   (2)
+$     4.75        $    0.02       $    0.42       $    5.19       $     4.53
+(1)  For the nine months ended March 31, 2023, there were no adjustments to or reconciling items for Core EPS.
+(2)  Diluted net earnings per common share are calculated on Net earnings attributable to Procter & Gamble.
+CHANGE VERSUS YEAR AGO
+Net earnings attributable to P&G    4     %
+Core net earnings attributable to P&G    14     %
+Diluted net earnings per common share    5     %
+Core EPS    15     %
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+There have been no material changes in the Company’s exposure to market risk since June 30, 2023. Additional information can be found in Note 9, Risk Management Activities and Fair Value Measurements, of the Company's Form 10-K for the fiscal year ended June 30, 2023.
+Item 4.    Controls and Procedures
+Evaluation of Disclosure Controls and Procedures
+The Company’s Chairman of the Board, President and Chief Executive Officer, Jon R. Moeller, and the Company’s Chief Financial Officer, Andre Schulten, performed an evaluation of the Company’s disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934 (Exchange Act)) as of the end of the period covered by this report.
+Messrs. Moeller and Schulten have concluded that the Company’s disclosure controls and procedures were effective to ensure that information required to be disclosed in reports we file or submit under the Exchange Act is (1) recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and (2) accumulated and communicated to our management, including Messrs. Moeller and Schulten, to allow their timely decisions regarding required disclosure.
+Changes in Internal Control Over Financial Reporting
+There were no changes in our internal control over financial reporting that occurred during the Company’s fiscal quarter ended March 31, 2024, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+PART II. OTHER INFORMATION
+Item 1.    Legal Proceedings
+The Company is subject, from time to time, to certain legal proceedings and claims arising out of our business, which cover a wide range of matters, including antitrust and trade regulation, product liability, advertising, contracts, environmental issues, patent and trademark matters, labor and employment matters and tax. In addition, SEC regulations require that we disclose certain environmental proceedings arising under Federal, State or local law when a governmental authority is a party and such proceeding involves potential monetary sanctions that the Company reasonably believes will exceed a certain threshold ($1 million or more).
+There were no material changes during the quarter ended March 31, 2024, to our disclosure in Part II, Item 1, “Legal Proceedings” of our Form 10-Q for the quarter ended December 31, 2023. There are no other relevant matters to disclose under this Item for this period.
+30        The Procter & Gamble Company
+Item 1A.    Risk Factors
+For information on risk factors, please refer to "Risk Factors" in Part I, Item 1A of the Company's Form 10-K for the fiscal year ended June 30, 2023.
+Item 2.    Unregistered Sales of Equity Securities, Use of Proceeds and Issuer Purchases of Equity Securities
+ISSUER PURCHASES OF EQUITY SECURITIES
+Period
+Total Number of Shares Purchased   (1)
+Average Price Paid per Share   (2)
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs   (3)
+Approximate Dollar Value of Shares That May Yet Be Purchased Under Our Share Repurchase Program
+1/01/2024 - 1/31/2024    —       —       —
+(3)
+2/01/2024 - 2/29/2024    3,156,831       $158.39     3,156,831
+(3)
+3/01/2024 - 3/31/2024    3,107,656       160.89       3,107,656
+(3)
+Total    6,264,487         $159.63     6,264,487
+(1)  All transactions are reported on a trade date basis and were made in the open market with large financial institutions. This table excludes shares withheld from employees to satisfy tax withholding requirements on option exercises and other equity-based transactions. The Company administers cashless exercises through an independent third party and does not repurchase stock in connection with cashless exercises.
+(2)  Average price paid per share for open market transactions excludes commission.
+(3)  In accordance with the repurchase program announced on July 28, 2023, the Company reaffirmed in its earnings release on April 19, 2024, that it expects to reduce outstanding shares through direct share repurchases at a value of $5 to $6 billion in fiscal year 2024, notwithstanding any purchases under the Company's compensation and benefit plans. Purchases may be made in the open market and/or private transactions and purchases may be increased, decreased or discontinued at any time without prior notice. The share repurchases are authorized pursuant to a resolution issued by the Company's Board of Directors and are expected to be financed by a combination of operating cash flows and issuance of debt.
+Item 5.    Other Information
+During the three months ended March 31, 2024, none of our directors or officers adopted or terminated a "Rule 10b5-1 trading arrangement" or "non-Rule 10b5-1 trading arrangement" as defined in Item 408 of Regulation S-K.
+The Procter & Gamble Company        31
+Item 6.    Exhibits
+3  .  1
+Amended Articles of Incorporation (as amended by shareholders at the annual meeting on October 11, 2011 and consolidated by the Board of Directors on April 8, 2016) (Incorporated by reference to Exhibit (3-1) of the Company's Form 10-K for the year ended June 30, 2016)
+3  .  2
+Regulations (as approved by the Board of Directors on December 13, 2022, pursuant to authority granted by shareholders at the annual meeting on October 13, 2009) (Incorporated by reference to Exhibit (3-2) of the Company’s Current Report on Form 8-K filed December 13, 2022)
+4  .  1
+Indenture, dated as of September 3, 2009, between the Company and Deutsche Bank Trust Company Americas, as Trustee (Incorporated by reference to Exhibit (4-1) of the Company's Annual Report on Form 10-K for the year ended June 30, 2015)
+10.1
+Summary of Additional Personal Benefits Available to Certain Officers and Non-Employee Directors* +
+31.1
+Rule 13a-14(a)/15d-14(a) Certification – Chief Executive Officer    +
+31.2
+Rule 13a-14(a)/15d-14(a) Certification – Chief Financial Officer    +
+32.1
+Section 1350 Certifications – Chief Executive Officer    +
+32.2
+Section 1350 Certifications – Chief Financial Officer    +
+101.SCH    (1)
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL    (1)
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF    (1)
+Inline XBRL Taxonomy Definition Linkbase Document
+101.LAB    (1)
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE    (1)
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104       Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101)
+*    Compensatory plan or arrangement
++    Filed herewith
+(1)
+Pursuant to Rule 406T of Regulation S-T, this information is furnished and not filed for purposes of Sections 11 or 12 of the Securities Act of 1933 and Section 18 of the Securities Exchange Act of 1934, and otherwise is not subject to liability under these sections.
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned thereunto duly authorized.
+THE PROCTER & GAMBLE COMPANY
+April 19, 2024       /s/ MATTHEW W. JANZARUK
+Date       (Matthew W. Janzaruk)
+Senior Vice President - Chief Accounting Officer
+(Principal Accounting Officer)

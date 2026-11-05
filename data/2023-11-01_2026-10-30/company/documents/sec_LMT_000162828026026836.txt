@@ -1,0 +1,938 @@
+lmt-20260329
+0000936468  12/31  2026  Q1  FALSE  http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent  http://fasb.org/us-gaap/2025#OtherLiabilitiesNoncurrent        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      lmt:segment    xbrli:pure     0000936468    2026-01-01  2026-03-29      0000936468    2026-04-20      0000936468   us-gaap:ProductMember     2026-01-01  2026-03-29      0000936468   us-gaap:ProductMember     2025-01-01  2025-03-30      0000936468   us-gaap:ServiceMember     2026-01-01  2026-03-29      0000936468   us-gaap:ServiceMember     2025-01-01  2025-03-30      0000936468    2025-01-01  2025-03-30      0000936468    2026-03-29      0000936468    2025-12-31      0000936468    2024-12-31      0000936468    2025-03-30      0000936468   us-gaap:CommonStockMember     2025-12-31      0000936468   us-gaap:AdditionalPaidInCapitalMember     2025-12-31      0000936468   us-gaap:RetainedEarningsMember     2025-12-31      0000936468   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-12-31      0000936468   us-gaap:RetainedEarningsMember     2026-01-01  2026-03-29      0000936468   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-01  2026-03-29      0000936468   us-gaap:CommonStockMember     2026-01-01  2026-03-29      0000936468   us-gaap:AdditionalPaidInCapitalMember     2026-01-01  2026-03-29      0000936468   us-gaap:CommonStockMember     2026-03-29      0000936468   us-gaap:AdditionalPaidInCapitalMember     2026-03-29      0000936468   us-gaap:RetainedEarningsMember     2026-03-29      0000936468   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-03-29      0000936468   us-gaap:CommonStockMember     2024-12-31      0000936468   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0000936468   us-gaap:RetainedEarningsMember     2024-12-31      0000936468   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0000936468   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-30      0000936468   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-03-30      0000936468   us-gaap:CommonStockMember     2025-01-01  2025-03-30      0000936468   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-03-30      0000936468   us-gaap:CommonStockMember     2025-03-30      0000936468   us-gaap:AdditionalPaidInCapitalMember     2025-03-30      0000936468   us-gaap:RetainedEarningsMember     2025-03-30      0000936468   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember     2025-01-01  2025-03-30      0000936468   us-gaap:MaterialReconcilingItemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:MaterialReconcilingItemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:IntersegmentEliminationMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:IntersegmentEliminationMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:IntersegmentEliminationMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:IntersegmentEliminationMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:IntersegmentEliminationMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:IntersegmentEliminationMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:IntersegmentEliminationMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   us-gaap:IntersegmentEliminationMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   us-gaap:IntersegmentEliminationMember     2026-01-01  2026-03-29      0000936468   us-gaap:IntersegmentEliminationMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ProductMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ProductMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ProductMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ProductMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ServiceMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ServiceMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ServiceMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ServiceMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:FixedPriceContractMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:FixedPriceContractMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:FixedPriceContractMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:FixedPriceContractMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   us-gaap:FixedPriceContractMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:CostReimbursableContractMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:CostReimbursableContractMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:CostReimbursableContractMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:CostReimbursableContractMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   lmt:CostReimbursableContractMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:U.S.GovernmentMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:U.S.GovernmentMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:U.S.GovernmentMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:U.S.GovernmentMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   lmt:U.S.GovernmentMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:InternationalMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:InternationalMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:InternationalMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:InternationalMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   lmt:InternationalMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:UnitedStatesCommercialAndOtherMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:UnitedStatesCommercialAndOtherMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:UnitedStatesCommercialAndOtherMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:UnitedStatesCommercialAndOtherMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   lmt:UnitedStatesCommercialAndOtherMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  country:US  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  country:US  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  country:US  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  country:US  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   country:US     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  srt:EuropeMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  srt:EuropeMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  srt:EuropeMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  srt:EuropeMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   srt:EuropeMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  srt:AsiaPacificMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  srt:AsiaPacificMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  srt:AsiaPacificMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  srt:AsiaPacificMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   srt:AsiaPacificMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:MiddleEastMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:MiddleEastMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:MiddleEastMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:MiddleEastMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   us-gaap:MiddleEastMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:OtherRegionMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:OtherRegionMember  lmt:MissilesAndFireControlMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:OtherRegionMember  lmt:RotaryAndMissionSystemsMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:OtherRegionMember  lmt:SpaceMember     2026-01-01  2026-03-29      0000936468   lmt:OtherRegionMember     2026-01-01  2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ProductMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ProductMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ProductMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ProductMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ServiceMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ServiceMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ServiceMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:ServiceMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:FixedPriceContractMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:FixedPriceContractMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:FixedPriceContractMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:FixedPriceContractMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   us-gaap:FixedPriceContractMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:CostReimbursableContractMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:CostReimbursableContractMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:CostReimbursableContractMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:CostReimbursableContractMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   lmt:CostReimbursableContractMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:U.S.GovernmentMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:U.S.GovernmentMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:U.S.GovernmentMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:U.S.GovernmentMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   lmt:U.S.GovernmentMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:InternationalMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:InternationalMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:InternationalMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:InternationalMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   lmt:InternationalMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:UnitedStatesCommercialAndOtherMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:UnitedStatesCommercialAndOtherMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:UnitedStatesCommercialAndOtherMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:UnitedStatesCommercialAndOtherMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   lmt:UnitedStatesCommercialAndOtherMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  country:US  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  country:US  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  country:US  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  country:US  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   country:US     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  srt:EuropeMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  srt:EuropeMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  srt:EuropeMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  srt:EuropeMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   srt:EuropeMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  srt:AsiaPacificMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  srt:AsiaPacificMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  srt:AsiaPacificMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  srt:AsiaPacificMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   srt:AsiaPacificMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:MiddleEastMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:MiddleEastMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:MiddleEastMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  us-gaap:MiddleEastMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   us-gaap:MiddleEastMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:OtherRegionMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:OtherRegionMember  lmt:MissilesAndFireControlMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:OtherRegionMember  lmt:RotaryAndMissionSystemsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:OtherRegionMember  lmt:SpaceMember     2025-01-01  2025-03-30      0000936468   lmt:OtherRegionMember     2025-01-01  2025-03-30      0000936468   lmt:FThirtyFiveProgramMember  us-gaap:ProductConcentrationRiskMember  us-gaap:SalesRevenueNetMember  lmt:AeronauticsMember     2026-01-01  2026-03-29      0000936468   lmt:FThirtyFiveProgramMember  us-gaap:ProductConcentrationRiskMember  us-gaap:SalesRevenueNetMember  lmt:AeronauticsMember     2025-01-01  2025-03-30      0000936468   us-gaap:OperatingSegmentsMember  lmt:AeronauticsMember     2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:AeronauticsMember     2025-12-31      0000936468   us-gaap:OperatingSegmentsMember  lmt:MissilesAndFireControlMember     2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:MissilesAndFireControlMember     2025-12-31      0000936468   us-gaap:OperatingSegmentsMember  lmt:RotaryAndMissionSystemsMember     2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:RotaryAndMissionSystemsMember     2025-12-31      0000936468   us-gaap:OperatingSegmentsMember  lmt:SpaceMember     2026-03-29      0000936468   us-gaap:OperatingSegmentsMember  lmt:SpaceMember     2025-12-31      0000936468   us-gaap:OperatingSegmentsMember     2026-03-29      0000936468   us-gaap:OperatingSegmentsMember     2025-12-31      0000936468   us-gaap:CorporateNonSegmentMember     2026-03-29      0000936468   us-gaap:CorporateNonSegmentMember     2025-12-31      0000936468   lmt:F35ProgramAtAeronauticsMember     2026-01-01  2026-03-29      0000936468   lmt:MissileDefenseProgramsAtMFCMember     2026-01-01  2026-03-29      0000936468   us-gaap:PensionPlansDefinedBenefitMember     2026-01-01  2026-03-29      0000936468   us-gaap:PensionPlansDefinedBenefitMember     2025-01-01  2025-03-30      0000936468   lmt:NewYorkMetropolitanTransportationAuthorityMember     2009-04-24      0000936468   lmt:NewYorkMetropolitanTransportationAuthorityMember     2009-04-24  2009-04-24      0000936468   us-gaap:EquityFundsMember     2026-03-29      0000936468   us-gaap:EquityFundsMember  us-gaap:FairValueInputsLevel1Member     2026-03-29      0000936468   us-gaap:EquityFundsMember  us-gaap:FairValueInputsLevel2Member     2026-03-29      0000936468   us-gaap:EquityFundsMember     2025-12-31      0000936468   us-gaap:EquityFundsMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000936468   us-gaap:EquityFundsMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000936468   us-gaap:USGovernmentAgenciesDebtSecuritiesMember     2026-03-29      0000936468   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2026-03-29      0000936468   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2026-03-29      0000936468   us-gaap:USGovernmentAgenciesDebtSecuritiesMember     2025-12-31      0000936468   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000936468   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000936468   lmt:OtherSecuritiesMember     2026-03-29      0000936468   lmt:OtherSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2026-03-29      0000936468   lmt:OtherSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2026-03-29      0000936468   lmt:OtherSecuritiesMember     2025-12-31      0000936468   lmt:OtherSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000936468   lmt:OtherSecuritiesMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000936468   us-gaap:FairValueInputsLevel1Member     2026-03-29      0000936468   us-gaap:FairValueInputsLevel2Member     2026-03-29      0000936468   us-gaap:FairValueInputsLevel1Member     2025-12-31      0000936468   us-gaap:FairValueInputsLevel2Member     2025-12-31      0000936468   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember     2026-03-29      0000936468   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-12-31      0000936468   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2026-03-29      0000936468   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-12-31      0000936468   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember     2025-12-31      0000936468   lmt:AccumulatedOtherNetAdjustmentAttributableToParentMember     2025-12-31      0000936468   lmt:AccumulatedOtherNetAdjustmentAttributableToParentMember     2026-01-01  2026-03-29      0000936468   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetPriorServiceCostCreditMember     2026-01-01  2026-03-29      0000936468   lmt:AccumulatedDefinedBenefitPlansAdjustmentOtherThanPensionAdjustmentsMember     2026-01-01  2026-03-29      0000936468   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember     2026-01-01  2026-03-29      0000936468   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember     2026-03-29      0000936468   lmt:AccumulatedOtherNetAdjustmentAttributableToParentMember     2026-03-29      0000936468   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember     2024-12-31      0000936468   lmt:AccumulatedOtherNetAdjustmentAttributableToParentMember     2024-12-31      0000936468   lmt:AccumulatedOtherNetAdjustmentAttributableToParentMember     2025-01-01  2025-03-30      0000936468   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetPriorServiceCostCreditMember     2025-01-01  2025-03-30      0000936468   lmt:AccumulatedDefinedBenefitPlansAdjustmentOtherThanPensionAdjustmentsMember     2025-01-01  2025-03-30      0000936468   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember     2025-01-01  2025-03-30      0000936468   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentNetUnamortizedGainLossMember     2025-03-30      0000936468   lmt:AccumulatedOtherNetAdjustmentAttributableToParentMember     2025-03-30      0000936468   lmt:F16ProgramsMember     2026-01-01  2026-03-29      0000936468   lmt:C130ProgramsMember     2026-01-01  2026-03-29      0000936468   lmt:F35ProgramsMember     2026-01-01  2026-03-29      0000936468   lmt:AeronauticsMember  lmt:ClassifiedProgramMember     2025-01-01  2025-03-30      0000936468   lmt:InitialPhaseMember  lmt:AeronauticsMember  lmt:ClassifiedProgramMember     2025-03-31  2025-06-29      0000936468   lmt:InitialPhaseMember  lmt:AeronauticsMember  lmt:ClassifiedProgramMember     2026-03-29      0000936468   lmt:AeronauticsMember  lmt:ClassifiedProgramMember     2026-03-29      0000936468   lmt:MissilesAndFireControlMember  lmt:ClassifiedProgramMember     2026-03-29      0000936468   lmt:RotaryAndMissionSystemsMember  lmt:CanadianMaritimeHelicopterProgramMember     2026-03-29      0000936468   lmt:TurkishUtilityHelicopterProgramMember     2025-03-31  2025-06-29      0000936468   lmt:TurkishUtilityHelicopterProgramMember     2026-01-01  2026-03-29      0000936468   lmt:TurkishUtilityHelicopterProgramMember     2026-03-29      0000936468   lmt:PeriodOneMember   2026-03-30      2026-03-29      0000936468   lmt:PeriodTwoMember   2027-03-29      2026-03-29
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+(Mark One)
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  March 29, 2026
+or
+☐     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ______ to ______
+Commission file number:  1-11437
+LOCKHEED MARTIN CORPORATION
+(Exact name of registrant as specified in its charter)
+Maryland           52-1893632
+(State or other jurisdiction of
+incorporation or organization)         (I.R.S. Employer Identification No.)
+6801 Rockledge Drive,      Bethesda,      Maryland           20817
+(Address of principal executive offices)         (Zip Code)
+( 301 )  897-6000
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol    Name of each exchange on which registered
+Common Stock, $1 par value      LMT      New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes    ☒   No   ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes    ☒   No   ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non–accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b–2 of the Exchange Act.
+Large accelerated filer    ☒   Accelerated filer   ☐   Non–accelerated filer   ☐   Smaller reporting company    ☐    Emerging growth company    ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes    ☐      No   ☒
+There were  230,563,608  shares of our common stock, $1 par value per share, outstanding as of April 20, 2026.
+Table of Contents
+Lockheed Martin Corporation
+Form 10-Q
+For the Quarterly Period Ended March 29, 2026
+Table of Contents
+Page
+PART I. FINANCIAL INFORMATION
+ITEM 1.
+Financial Statements (Unaudited)
+Consolidated Statements of Earnings for the Quarters Ended March 29, 2026 and March 30, 2025
+3
+Consolidated Statements of Comprehensive Income for the Quarters Ended Ended March 29, 2026 and March 30, 2025
+4
+Consolidated Balance Sheets as of March 29, 2026 and December 31, 2025
+5
+Consolidated Statements of Cash Flows for the Quarters Ended March 29, 2026 and March 30, 2025
+6
+Consolidated Statements of Equity for the Quarters Ended March 29, 2026 and March 30, 2025
+7
+Notes to Consolidated Financial Statements
+8
+Report of Independent Registered Public Accounting Firm
+23
+ITEM 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+24
+ITEM 3.
+Quantitative and Qualitative Disclosures About Market Risk
+34
+ITEM 4.
+Controls and Procedures
+35
+PART II. OTHER INFORMATION
+ITEM 1.
+Legal Proceedings
+37
+ITEM 1A.
+Risk Factors
+37
+ITEM 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+38
+ITEM 5.
+Other Information
+38
+ITEM 6.
+Exhibits
+39
+SIGNATURE
+40
+Table of Contents
+PART I. FINANCIAL INFORMATION
+ITEM 1. Financial Statements
+Lockheed Martin Corporation
+Consolidated Statements of Earnings
+(unaudited; in millions, except per share data)
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Sales
+Products           $     14,831           $     14,936
+Services            3,190            3,027
+Total sales            18,021            17,963
+Operating costs and expenses
+Products           ( 13,398 )       ( 13,284 )
+Services           ( 2,784 )       ( 2,640 )
+Other unallocated, net            239            284
+Total operating costs and expenses           ( 15,943 )       ( 15,640 )
+Gross profit            2,078            2,323
+Other (expense) income, net           ( 15 )        49
+Operating profit            2,063            2,372
+Interest expense           ( 269 )       ( 268 )
+Non-service FAS pension expense
+( 80 )       ( 98 )
+Other non-operating income, net            60            30
+Earnings before income taxes            1,774            2,036
+Income tax expense           ( 286 )       ( 324 )
+Net earnings           $     1,488           $     1,712
+Earnings per common share
+Basic           $     6.47           $     7.30
+Diluted           $     6.44           $     7.28
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+3
+Table of Contents
+Lockheed Martin Corporation
+Consolidated Statements of Comprehensive Income
+(unaudited; in millions)
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Net earnings        $     1,488          $     1,712
+Other comprehensive income, net of tax
+Retirement benefits
+Amortization of net actuarial losses and prior service costs, net of tax of $ 16  million in 2026 and $ 17  million in 2025
+62           64
+Other, net of tax of $ 1  million in 2026 and $ 6  million in 2025
+( 16 )       65
+Other comprehensive income, net of tax         46           129
+Comprehensive income        $     1,534          $     1,841
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+4
+Table of Contents
+Lockheed Martin Corporation
+Consolidated Balance Sheets
+(in millions, except par value)
+March 29,
+2026     December 31,
+2025
+(unaudited)
+Assets
+Current assets
+Cash and cash equivalents     $     1,894           $     4,121
+Receivables, net      2,322            3,901
+Contract assets      15,885            13,001
+Inventories      4,251            3,524
+Other current assets      728            815
+Total current assets      25,080            25,362
+Property, plant and equipment, net      11,283            11,292
+Goodwill      11,306            11,314
+Intangible assets, net      1,837            1,887
+Deferred income taxes      2,802            2,975
+Other noncurrent assets      6,930            7,010
+Total assets     $     59,238           $     59,840
+Liabilities and equity
+Current liabilities
+Accounts payable     $     4,707           $     3,630
+Salaries, benefits and payroll taxes      2,676            3,184
+Contract liabilities      10,735            11,440
+Current maturities of long-term debt      168            1,168
+Other current liabilities      3,804            3,913
+Total current liabilities      22,090            23,335
+Long-term debt, net      20,529            20,532
+Accrued pension liabilities      3,923            3,915
+Other noncurrent liabilities      5,207            5,337
+Total liabilities      51,749            53,119
+Stockholders’ equity
+Common stock, $  1   par value per share
+230            229
+Additional paid-in capital      32            —
+Retained earnings      14,723            14,034
+Accumulated other comprehensive loss     ( 7,496 )       ( 7,542 )
+Total stockholders’ equity       7,489            6,721
+Total liabilities and equity     $     59,238           $     59,840
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+5
+Table of Contents
+Lockheed Martin Corporation
+Consolidated Statements of Cash Flows
+(unaudited; in millions)
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Operating activities
+Net earnings     $     1,488           $     1,712
+Adjustments to reconcile net earnings to net cash provided by operating activities
+Depreciation and amortization      398            397
+Stock-based compensation      83            60
+Deferred income taxes      161           ( 34 )
+Qualified defined benefit pension plans      92            111
+Changes in assets and liabilities
+Receivables, net      1,579            327
+Contract assets     ( 2,884 )       ( 1,720 )
+Inventories     ( 727 )       ( 125 )
+Accounts payable      1,222            1,680
+Contract liabilities     ( 705 )       ( 420 )
+Income taxes      103            339
+Other, net     ( 590 )       ( 918 )
+Net cash provided by operating activities      220            1,409
+Investing activities
+Capital expenditures     ( 511 )       ( 454 )
+Other, net     ( 30 )        24
+Net cash used for investing activities     ( 541 )       ( 430 )
+Financing activities
+Repayments of long-term debt     ( 1,000 )        —
+Repurchases of common stock      —           ( 750 )
+Dividends paid     ( 816 )       ( 796 )
+Other, net     ( 90 )       ( 113 )
+Net cash used for financing activities     ( 1,906 )       ( 1,659 )
+Net change in cash and cash equivalents     ( 2,227 )       ( 680 )
+Cash and cash equivalents at beginning of period      4,121            2,483
+Cash and cash equivalents at end of period     $     1,894           $     1,803
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+6
+Table of Contents
+Lockheed Martin Corporation
+Consolidated Statements of Equity
+(unaudited; in millions)
+Common
+Stock    Additional
+Paid-in
+Capital    Retained
+Earnings    Accumulated
+Other
+Comprehensive
+Loss      Total
+Equity
+Balance at December 31, 2025    $     229         $     —          $     14,034         $    ( 7,542 )          $     6,721
+Net earnings    —        —          1,488         —              1,488
+Other comprehensive income, net of tax    —        —         —         46               46
+Dividends declared ($ 3.45  per share)
+—        —         ( 799 )     —             ( 799 )
+Stock-based awards, ESOP activity and other
+1          32          —        —              33
+Balance at March 29, 2026    $     230         $     32          $     14,723         $    ( 7,496 )          $     7,489
+Balance at December 31, 2024    $     234       $     —        $     14,551       $    ( 8,452 )          $     6,333
+Net earnings    —      —        1,712       —            1,712
+Other comprehensive income, net of tax    —      —       —       129             129
+Dividends declared ($ 3.30  per share)
+—      —       ( 778 )     —           ( 778 )
+Repurchases of common stock    ( 2 )     ( 36 )      ( 712 )     —           ( 750 )
+Stock-based awards, ESOP activity and other
+1        36        —      —            37
+Balance at March 30, 2025    $     233       $     —        $     14,773       $    ( 8,323 )          $     6,683
+The accompanying notes are an integral part of these unaudited consolidated financial statements.
+7
+Table of Contents
+Lockheed Martin Corporation
+Notes to Consolidated Financial Statements (unaudited)
+NOTE 1 -      BASIS OF PRESENTATION
+We prepared these consolidated financial statements in accordance with U.S. generally accepted accounting principles (GAAP) for interim financial information, the instructions to Form 10-Q and Article 10 of U.S. Securities and Exchange Commission (SEC) Regulation S-X. Accordingly, they do not include all of the information and notes required by GAAP for complete financial statements.
+In the opinion of management, these consolidated financial statements reflect all adjustments that are of a normal recurring nature necessary for a fair presentation of our results of operations, financial condition, and cash flows for the interim periods presented. The preparation of these consolidated financial statements requires us to make estimates and assumptions that affect the amounts reported in the consolidated financial statements and accompanying notes. We base these estimates on historical experience and on various other assumptions that we believe are reasonable under the circumstances, the results of which form the basis for making judgments about the carrying amounts of assets and liabilities that are not readily apparent from other sources. Our actual results may differ materially from these estimates. Estimates inherent in the preparation of our consolidated financial statements include, but are not limited to, accounting for sales, cost recognition and profit booking rates; retirement benefits; environmental liabilities and assets for the portion of environmental costs that are probable of future recovery; evaluation of goodwill, intangible assets, investments and other assets for impairment; income taxes, including deferred income taxes; fair value measurements; and contingencies. The consolidated financial statements include the accounts of subsidiaries we control and variable interest entities if we are the primary beneficiary. We eliminate intercompany balances and transactions in consolidation. Additionally, as of March 29, 2026, we changed the presentation of capitalized software to be included in property, plant and equipment, net on our consolidated balance sheets. Amounts for December 31, 2025 have been conformed to the current period’s presentation.
+We close our books and records on the last Sunday of each interim calendar quarter, which was on March 29 for the first quarter of 2026 and March 30 for the first quarter of 2025, to align our financial closing with our business processes. The consolidated financial statements and tables of financial information included herein are labeled based on that convention. This practice only affects interim periods as our fiscal year ends on December 31.
+The results of operations for the interim periods presented are not necessarily indicative of results to be expected for the full year or future periods. Unless otherwise noted, we present all per share amounts cited in these consolidated financial statements on a “per diluted share” basis. These consolidated financial statements should be read in conjunction with the audited consolidated financial statements and notes thereto included in our Annual Report on Form 10-K for the year ended December 31, 2025 (2025 Form 10-K).
+NOTE 2 -  EARNINGS PER COMMON SHARE
+The weighted average number of shares outstanding used to compute earnings per common share were as follows (in millions):
+Quarters Ended
+March 29,
+2026    March 30,
+2025
+Weighted average common shares outstanding for basic computations          229.9           234.4
+Weighted average dilutive effect of equity awards
+1.2           0.9
+Weighted average common shares outstanding for diluted computations
+231.1           235.3
+We compute basic and diluted earnings per common share by dividing net earnings by the respective weighted average number of common shares outstanding for the periods presented. Our calculation of diluted earnings per common share also includes the dilutive effects for the assumed vesting of outstanding restricted stock units (RSUs) and performance stock units (PSUs) based on the treasury stock method. There were   no   significant anti-dilutive equity awards during the quarters ended March 29, 2026 and March 30, 2025. Basic and diluted weighted average common shares outstanding decreased in 2026 compared to 2025 due to share repurchases in 2025, but none during the quarter ended March 29, 2026.
+8
+Table of Contents
+NOTE 3 -      INFORMATION ON BUSINESS SEGMENTS
+Our operations are organized into   four   business segments, which also comprise our reportable segments: Aeronautics, Missiles and Fire Control (MFC), Rotary and Mission Systems (RMS) and Space. We generally organize our business segments based on the nature of products and services offered.
+Summary operating results for each of our business segments were as follows (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Sales
+Aeronautics          $     6,953           $     7,057
+Missiles and Fire Control           3,649            3,373
+Rotary and Mission Systems           3,991            4,328
+Space            3,428            3,205
+Total sales          $     18,021           $     17,963
+Operating costs and expenses
+Aeronautics          $     6,334           $     6,337
+Missiles and Fire Control           3,150            2,908
+Rotary and Mission Systems           3,559            3,858
+Space           3,139            2,821
+Total operating costs and expenses          $     16,182           $     15,924
+Operating profit     (a)
+Aeronautics          $     619           $     720
+Missiles and Fire Control           500            465
+Rotary and Mission Systems            423            521
+Space            281            379
+Total business segment operating profit           1,823            2,085
+Unallocated items
+FAS/CAS pension operating adjustment           421            379
+Intangible asset amortization expense          ( 50 )       ( 64 )
+Other, net
+( 131 )       ( 28 )
+Total unallocated items           240            287
+Total consolidated operating profit          $     2,063           $     2,372
+Intersegment sales
+Aeronautics          $     93           $     89
+Missiles and Fire Control           238            169
+Rotary and Mission Systems           595            564
+Space            81            83
+Total intersegment sales          $     1,007           $     905
+(a)  Operating profit by segment includes certain immaterial items, such as other income (primarily equity earnings) that are not presented separately in the table. Accordingly, the difference between sales less operating costs and expenses may not equal operating profit by segment.
+Segment results exclude intersegment transactions as these activities are eliminated in consolidation and are not considered in assessing the performance of each segment. As described below, segment operating profit also excludes other transactions that are not part of management’s evaluation of segment operating performance, which are included in “Unallocated items” to reconcile total segment operating profit to consolidated amounts. Business segment operating profit includes our share of earnings or losses from equity method investees as the operating activities of the equity method investees are closely aligned with the operations of our business segments. See “Note 10 - Other” for a discussion related to certain factors that may impact the comparability of sales and operating profit of our business segments.
+9
+Table of Contents
+Unallocated Items
+Business segment operating profit excludes the FAS/CAS pension operating adjustment discussed below, a portion of corporate costs not considered allowable or allocable to contracts with the U.S. Government under the applicable U.S. Government Cost Accounting Standards (CAS) or Federal Acquisition Regulations (FAR), and other items not considered part of management’s evaluation of segment operating performance such as stock-based compensation expense, changes in the fair value of assets and liabilities for deferred compensation plans, significant severance charges, significant asset impairments, intangible asset amortization expense, and other miscellaneous corporate activities. Collectively these items are included in “Unallocated items” to reconcile total segment operating profit to consolidated operating profit.
+FAS/CAS Pension Operating Adjustment
+Our business segments’ results of operations include pension expense only as calculated under CAS, which we refer to as CAS pension cost. We recover CAS pension cost through the pricing of our products and services on U.S. Government contracts and, therefore, recognize CAS pension cost in each of our business segments’ sales and operating costs and expenses. Our consolidated financial statements must present pension expense calculated in accordance with Financial Accounting Standards (FAS) requirements under U.S. GAAP. The operating portion of the total FAS/CAS pension adjustment represents the difference between the service cost component of FAS pension expense and total CAS pension cost. The non-service FAS pension expense components are included in non-service FAS pension expense in our consolidated statements of earnings. As a result, to the extent that CAS pension cost exceeds the service cost component of FAS pension expense, we have a favorable FAS/CAS pension operating adjustment.
+The total FAS/CAS pension adjustments, including the service and non-service cost components of FAS pension expense for our qualified defined benefit pension plans, were as follows (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Total FAS pension expense and CAS cost
+FAS pension expense
+$    ( 92 )       $    ( 111 )
+Less: CAS pension cost            433            392
+Total FAS/CAS pension adjustment           $     341           $     281
+Service and non-service cost reconciliation
+FAS pension service cost           $    ( 12 )       $    ( 13 )
+Less: CAS pension cost            433            392
+Total FAS/CAS pension operating adjustment            421            379
+Non-service FAS pension expense
+( 80 )       ( 98 )
+Total FAS/CAS pension adjustment           $     341           $     281
+10
+Table of Contents
+Disaggregation of Sales
+Sales by products and services, contract type, customer, and geographic region were as follows (in millions):
+Quarter Ended March 29, 2026
+Aeronautics     MFC     RMS     Space      Total
+Sales
+Products     $     5,505          $     3,323          $     3,172          $     2,831          $     14,831
+Services      1,448           326           819           597           3,190
+Total sales     $     6,953          $     3,649          $     3,991          $     3,428          $     18,021
+Sales by contract type
+Fixed-price     $     4,497          $     2,661          $     2,330          $     922          $     10,410
+Cost-reimbursable      2,456           988           1,661           2,506           7,611
+Total sales     $     6,953          $     3,649          $     3,991          $     3,428          $     18,021
+Sales by customer
+U.S. Government     $     4,133          $     2,372          $     2,468          $     3,337          $     12,310
+International   (a)
+2,809           1,277           1,473           83           5,642
+U.S. commercial and other      11           —           50           8           69
+Total sales     $     6,953          $     3,649          $     3,991          $     3,428          $     18,021
+Sales by geographic region
+United States     $     4,144          $     2,372          $     2,518          $     3,345          $     12,379
+Europe      1,437           587           571           30           2,625
+Asia Pacific      907           276           442           44           1,669
+Middle East      225           390           170           9           794
+Other      240           24           290           —           554
+Total sales     $     6,953          $     3,649          $     3,991          $     3,428          $     18,021
+Quarter Ended March 30, 2025
+Aeronautics     MFC     RMS     Space      Total
+Sales
+Products     $     5,746        $     3,017        $     3,496        $     2,677        $     14,936
+Services      1,311         356         832         528         3,027
+Total sales     $     7,057        $     3,373        $     4,328        $     3,205        $     17,963
+Sales by contract type
+Fixed-price     $     4,713        $     2,440        $     2,660        $     942        $     10,755
+Cost-reimbursable      2,344         933         1,668         2,263         7,208
+Total sales     $     7,057        $     3,373        $     4,328        $     3,205        $     17,963
+Sales by customer
+U.S. Government     $     4,642        $     2,391        $     2,787        $     3,129        $     12,949
+International   (a)
+2,405         978         1,468         71         4,922
+U.S. commercial and other      10         4         73         5         92
+Total sales     $     7,057        $     3,373        $     4,328        $     3,205        $     17,963
+Sales by geographic region
+United States     $     4,652        $     2,395        $     2,860        $     3,134        $     13,041
+Europe      1,247         395         304         22         1,968
+Asia Pacific      840         224         633         47         1,744
+Middle East      148         342         212         2         704
+Other      170         17         319         —         506
+Total sales     $     7,057        $     3,373        $     4,328        $     3,205        $     17,963
+(a)  International sales include foreign military sales (FMS) contracted through the U.S. Government and direct commercial sales to international governments and other international customers.
+11
+Table of Contents
+Our Aeronautics business segment includes our largest program, the F-35 Lightning II, an international multi-role, multi-variant, stealth fighter aircraft. Sales for the F-35 program represented approximately  27 % and  25 % of our total consolidated sales for the quarters ended March 29, 2026 and March 30, 2025.
+Assets
+Total assets for each of our business segments were as follows (in millions):
+March 29,
+2026     December 31,
+2025
+Assets
+Aeronautics     $     15,396           $     14,673
+MFC      7,501            6,304
+RMS      16,480            16,576
+Space       7,822            7,755
+Total business segment assets      47,199            45,308
+Corporate assets   (a)
+12,039            14,532
+Total assets     $     59,238           $     59,840
+(a)  Corporate assets primarily include cash and cash equivalents, deferred income taxes, assets for the portion of environmental costs that are probable of future recovery, property, plant and equipment used in our corporate operations, assets held in a trust for deferred compensation plans, and other marketable investments.
+NOTE 4 -  CONTRACT ASSETS AND LIABILITIES
+Contract assets and contract liabilities were as follows (in millions):
+March 29,
+2026     December 31,
+2025
+Contract assets      $     15,885           $     13,001
+Contract liabilities      10,735            11,440
+Contract assets include unbilled amounts typically resulting from sales under contracts when the percentage-of-completion cost-to-cost method of revenue recognition is utilized and revenue recognized exceeds the amount billed to the customer. These assets are primarily driven by the recognition of revenue related to the satisfaction or partial satisfaction of performance obligations for which we have not yet billed our customers. During the quarter ended March 29, 2026, contract assets increased $ 2.9  billion primarily due to the F-35 program at Aeronautics. There were   no   significant credit or impairment losses related to our contract assets during the quarters ended March 29, 2026 and March 30, 2025.
+Contract liabilities include advance payments and billings in excess of revenue recognized. These liabilities decreased $ 705  million during the quarter ended March 29, 2026, primarily due to revenue recognized in excess of payments received on performance obligations (primarily for integrated air and missile defense programs at MFC). During the quarter ended March 29, 2026, we recognized $ 3.0  billion of our contract liabilities at December 31, 2025 as revenue. During the quarter ended March 30, 2025, we recognized $ 3.2  billion of our contract liabilities at December 31, 2024 as revenue.
+12
+Table of Contents
+NOTE 5 -  INVENTORIES
+Inventories consisted of the following (in millions):
+March 29,
+2026     December 31,
+2025
+Materials, spares and supplies      $     665           $     659
+Work-in-process      3,388            2,667
+Finished goods      198            198
+Total inventories     $     4,251           $     3,524
+Costs incurred to fulfill a contract in advance of the contract being awarded are included in inventories as work-in-process if we determine that those costs relate directly to a contract or to an anticipated contract that we can specifically identify and determine that the contract award is probable, the costs generate or enhance resources that will be used in satisfying performance obligations, and the costs are recoverable (referred to as pre-contract costs). These advance procurement costs are generally incurred in order to enhance our ability to achieve schedule and certain customer milestones. Pre-contract costs that are initially capitalized in inventory are eventually generally recognized as operating costs consistent with the transfer of products and services to the customer upon the receipt of the anticipated contract. All other pre-contract costs, including start-up costs, are expensed as incurred. As of March 29, 2026 and December 31, 2025, $ 1.9  billion and $ 1.5  billion of pre-contract costs (primarily the F-35 program and classified contracts at Aeronautics and Sikorsky programs at RMS) were included in work-in-process inventories.
+NOTE 6 -      RETIREMENT BENEFITS
+The pretax FAS pension expense related to our qualified defined benefit pension plans consisted of the following (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Qualified defined benefit pension plans
+Operating:
+Service cost          $    ( 12 )       $    ( 13 )
+Non-operating:
+Interest cost           ( 347 )       ( 368 )
+Expected return on plan assets            354            360
+Amortization of actuarial losses           ( 80 )       ( 78 )
+Amortization of prior service costs          ( 7 )       ( 12 )
+Non-service FAS pension expense
+( 80 )       ( 98 )
+Total FAS pension expense
+$    ( 92 )       $    ( 111 )
+We record the service cost component of FAS pension expense for our qualified defined benefit pension plans in consolidated operating profit and the non-service components in non-service FAS pension expense on our consolidated statements of earnings.
+Total FAS income for our other retirement benefit plans was not material during the quarters ended March 29, 2026 and March 30, 2025 and is part of other non-operating income, net on our consolidated statements of earnings.
+The required funding of our qualified defined benefit pension plans is determined in accordance with the Employee Retirement Income Security Act of 1974 (ERISA), as amended, along with consideration of CAS and Internal Revenue Code rules. We made   no   contributions to our qualified defined benefit pension plans during the quarters ended March 29, 2026 and March 30, 2025.
+13
+Table of Contents
+NOTE 7 -  LEGAL PROCEEDINGS AND CONTINGENCIES
+Although we cannot predict the outcome of legal or other proceedings with certainty, where there is at least a reasonable possibility that a loss may be incurred, GAAP requires us to disclose an estimate of the reasonably possible loss or range of loss or make a statement that such an estimate cannot be made. We follow a thorough process in which we seek to estimate the reasonably possible loss or range of loss, and only if we are unable to make such an estimate do we conclude and disclose that an estimate cannot be made. Accordingly, unless otherwise indicated below in our discussion of legal proceedings or environmental matters, a reasonably possible loss or range of loss associated with any individual proceeding or matter cannot be estimated.
+Legal Proceedings
+We are a party to litigation and other proceedings that arise in the ordinary course of our business, including matters arising under federal, state, local and foreign requirements relating to the protection of the environment, and are subject to contingencies related to certain businesses we previously owned. These types of matters could result in fines, penalties, cost reimbursements or contributions, compensatory or treble damages or non-monetary sanctions or relief. We do not believe that these matters, including the legal proceedings described below, will have a material adverse effect on the company as a whole, notwithstanding that the unfavorable resolution of any matter may have a material effect on our net earnings and cash flows in the period in which it is recognized.
+Securities-Related Actions
+On July 28, 2025, a putative class action was filed—and subsequently amended on January 12, 2026—in United States District Court for the Southern District of New York against us and certain current and former members of our senior management. The shareholder plaintiffs assert claims under Sections 10(b) and 20(a) of the Securities Exchange Act of 1934 (Exchange Act), on behalf of persons and entities that purchased or otherwise acquired our securities between January 23, 2024 and July 21, 2025. Plaintiffs seek unspecified losses allegedly caused by alleged misstatements about certain classified programs in the Aeronautics and MFC business segments and F-35 program, which were allegedly revealed to be false when we announced estimated losses relating to certain of those programs. In addition, based on allegations substantially similar to the above-described securities class action, on September 11, 2025, a shareholder derivative complaint was filed in the United States District Court for the District of Maryland against current and former members of our Board of Directors and senior management. We are named as a nominal defendant. The derivative complaint asserts claims under Sections 14(a), 20(a), and 10(b) of the Exchange Act, as well as claims for breach of fiduciary duty, abuse of control, gross mismanagement, corporate waste, unjust enrichment, and contribution. Based on the information available to date, we do not believe that these matters will have a material adverse effect on our results of operations, financial condition, or liquidity.
+Lockheed Martin v. Metropolitan Transportation Authority
+On April 24, 2009, we filed a declaratory judgment action against the New York Metropolitan Transportation Authority and its Capital Construction Company (collectively, the MTA) asking the U.S. District Court for the Southern District of New York to find that the MTA is in material breach of our agreement based on the MTA’s failure to provide access to sites where work must be performed and the customer-furnished equipment necessary to complete the contract. The MTA filed an answer and counterclaim alleging that we breached the contract and subsequently terminated the contract for alleged default. The primary damages sought by the MTA are the costs to complete the contract and potential re-procurement costs. While we are unable to estimate the cost of another contractor to complete the contract and the costs of re-procurement, we note that our contract with the MTA had a total value of $ 323  million, of which $ 241  million was paid to us, and that the MTA is seeking damages of approximately $ 190  million. We dispute the MTA’s allegations and are defending against them. Additionally, following an investigation, our sureties on a performance bond related to this matter, who were represented by independent counsel, concluded that the MTA’s termination of the contract was improper. Finally, our declaratory judgment action was later amended to include claims for monetary damages against the MTA of approximately $ 95  million. This matter was taken under submission by the District Court in December 2014, after a five-week bench trial and the filing of post-trial pleadings by the parties. We continue to await a decision from the District Court. Although this matter relates to our former Information Systems & Global Solutions business (IS&GS), we retained responsibility for the litigation when we divested IS&GS in 2016.
+14
+Table of Contents
+Environmental Matters
+We are involved in proceedings and potential proceedings relating to soil, sediment, surface water, and groundwater contamination, disposal of hazardous substances, and other environmental matters at several of our current or former facilities, other facilities for which we may have contractual responsibility, and at third-party sites where we have been designated as a potentially responsible party (PRP). These proceedings could result in fines, penalties, cost reimbursements or contributions, compensatory or treble damages or non-monetary sanctions or relief.
+At March 29, 2026 and December 31, 2025, the aggregate amount of liabilities recorded for environmental remediation matters was $ 656  million and $ 659  million, most of which are recorded in   other noncurrent liabilities   on our consolidated balance sheets. We have recorded assets for the portion of environmental costs that are probable of future recovery totaling $ 602  million and $ 605  million at March 29, 2026 and December 31, 2025, most of which are recorded in other noncurrent assets on our consolidated balance sheets.
+We continue to pursue claims against other PRPs, including the U.S. Government, for recovery of costs incurred or for contribution to site remediation costs, and are conducting remediation activities under various consent decrees, orders, and agreements relating to soil, groundwater, sediment, or surface water contamination at certain sites of former or current operations. Under certain of these agreements, the U.S. Government and/or a private parties reimburse us an amount equal to a percentage, specific to each site, of expenditures for certain remediation activities in their capacity as PRPs under the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA).
+The timing and extent of remediation costs remain uncertain. New site-specific information or changes in federal or state regulation could increase current liability and recoverable asset estimates. We perform quarterly reviews of these liabilities and receivables, projecting costs, and recoveries over a period of approximately 20 years.
+Letters of Credit and Surety Bonds
+We have entered into standby letters of credit and surety bonds issued on our behalf by financial institutions, and we have directly issued guarantees to third parties primarily relating to advances received from customers and the guarantee of future performance on certain contracts. Letters of credit and surety bonds generally are available for draw down in the event we do not perform. We had total outstanding letters of credit and surety bonds aggregating $ 3.3  billion and $ 3.5  billion at March 29, 2026 and December 31, 2025.
+Other Contingencies
+As a U.S. Government contractor, we are subject to various audits and investigations by the U.S. Government to determine whether our operations are being conducted in accordance with applicable regulatory requirements. U.S. Government investigations of us, whether relating to U.S. Government contracts or conducted for other reasons, could result in civil or criminal penalties and administrative sanctions, including reductions of the value of contracts, contract modifications or terminations, forfeiture of profits, suspension of payments, repayments, fines or penalties being imposed upon us, suspension, proposed debarment, debarment from eligibility for future U.S. Government contracting, or suspension of export privileges. Reductions of the value of contracts, contract modifications or terminations, forfeiture of profits, suspension of payments, repayments, fines and penalties could have a material impact on financial condition and results of operations in any particular reporting period, and suspension or debarment could have a material adverse effect on us because of our dependence on contracts with the U.S. Government. U.S. Government investigations often take years to complete and many result in no adverse action against us. We also provide products and services to customers outside of the United States, which are subject to U.S. and foreign laws and regulations and foreign procurement policies and practices. Our compliance with local regulations or applicable U.S. Government regulations also may be audited or investigated.
+Additionally, in the normal course of business, we provide warranties to our customers associated with certain product sales. We record estimated warranty costs in the period in which the related products are delivered. The warranty liability is generally based on the number of months of warranty coverage remaining for the products delivered and the average historical monthly warranty payments. Warranty obligations incurred in connection with long-term production contracts are accounted for within the contract estimates at completion.
+15
+Table of Contents
+NOTE 8 -      FAIR VALUE MEASUREMENTS
+Assets and liabilities measured and recorded at fair value on a recurring basis consisted of the following (in millions):
+March 29, 2026     December 31, 2025
+Total     Level 1     Level 2       Total     Level 1     Level 2
+Assets
+Mutual funds     $     1,056          $     1,056          $     —            $     1,131        $     1,131        $     —
+U.S. Government securities      68           —           68             80         —         80
+Other securities      718           376           342             711         372         339
+Derivatives      42           —           42             47         —         47
+Liabilities
+Derivatives      117           —           117             113         —         113
+Substantially all assets measured at fair value, other than derivatives, represent assets held in a trust to fund certain of our non-qualified deferred compensation plans and are recorded in other noncurrent assets on our consolidated balance sheets. The fair values of mutual funds and certain other securities are determined by reference to the quoted market price per unit in active markets multiplied by the number of units held without consideration of transaction costs. The fair values of U.S. Government and certain other securities are determined using pricing models that use observable inputs (e.g., interest rates and yield curves observable at commonly quoted intervals), bids provided by brokers or dealers or quoted prices of securities with similar characteristics. The fair values of derivative instruments, which consist of foreign currency forward contracts, including embedded derivatives, and interest rate swap contracts, are primarily determined based on the present value of future cash flows using model-derived valuations that use observable inputs such as interest rates, credit spreads and foreign currency exchange rates.
+We also make investments in companies that we believe are advancing or developing new technologies applicable to our business. These investments are primarily in early-stage companies and may be in the form of common or preferred stock, warrants, convertible debt   securities, investments in funds or other investments. Most of these investments are in securities without readily determinable fair values (privately held securities), which are measured initially at cost and are then adjusted to fair value only if there is an observable price change or reduced for impairment, if applicable. The carrying amounts of the investments were $ 736  million and $ 669  million at March 29, 2026 and December 31, 2025. Net gains or losses recorded due to adjustments in valuation and/or sales of investments were not material for the quarters ended March 29, 2026 and March 30, 2025.
+We use derivative instruments principally to reduce our exposure to market risks from changes in foreign currency exchange rates and interest rates. We transact business globally and are subject to risks associated with changing foreign currency exchange rates. We do not enter into or hold derivative instruments for speculative trading purposes. These contracts hedge forecasted foreign currency transactions in order to minimize fluctuations in our earnings and cash flows associated with changes in foreign currency exchange rates. We designate foreign currency hedges as cash flow hedges. We enter into foreign currency hedges such as forward and option contracts that change in value as foreign currency exchange rates change. Our most significant foreign currency exposures relate to the British pound sterling, the euro, the Canadian dollar, the Australian dollar, the Norwegian kroner and the Polish zloty. We also are exposed to the impact of interest rate changes primarily through our borrowing activities. For fixed rate borrowings, we may use variable interest rate swaps, effectively converting fixed rate borrowings to variable rate borrowings in order to hedge changes in the fair value of the debt. These swaps are designated as fair value hedges. For variable rate borrowings, we may use fixed interest rate swaps, effectively converting variable rate borrowings to fixed rate borrowings in order to minimize the impact of interest rate changes on earnings. These swaps are designated as cash flow hedges. We also may enter into derivative instruments that are not designated as hedges and do not qualify for hedge accounting, which are intended to minimize certain economic exposures.
+16
+Table of Contents
+The aggregate notional amount of our outstanding interest rate swaps was $  1.3   billion at both March 29, 2026 and December 31, 2025. The aggregate notional amount of our outstanding foreign currency hedges was $ 7.3  billion and $ 7.2  billion at March 29, 2026 and December 31, 2025. The fair values of our outstanding interest rate swaps and foreign currency hedges at March 29, 2026 and December 31, 2025 were not significant. Derivative instruments did not have a material impact on net earnings and comprehensive income during the quarters ended March 29, 2026 and March 30, 2025. The impact of derivative instruments on our consolidated statements of cash flows is included in net cash provided by operating activities. Substantially all of our derivatives are designated for hedge accounting.
+In addition to the financial instruments listed in the table above, we hold other financial instruments, including cash and cash equivalents, receivables, accounts payable, commercial paper and debt. The carrying amounts for cash and cash equivalents, receivables and accounts payable approximated their fair values. The estimated fair value of our outstanding debt was $ 20.4  billion and $ 22.0  billion at March 29, 2026 and December 31, 2025. The outstanding principal amount of debt, including short-term and long-term debt, was $ 21.9  billion and $ 22.9  billion at March 29, 2026 and December 31, 2025, excluding $  1.2   billion of unamortized discounts and issuance costs at both March 29, 2026 and December 31, 2025. The estimated fair values of our outstanding debt were determined based on the present value of future cash flows using model-derived valuations that use observable inputs such as interest rates and credit spreads (Level 2).
+NOTE 9 -      STOCKHOLDERS’ EQUITY
+Dividends
+We paid cash dividends of $ 816  million ($ 3.45  per share) during the quarter ended March 29, 2026. The total amount of dividends declared may differ from the total amount of dividends paid during a period due to the timing of dividend-equivalents paid on RSUs and PSUs. These dividend-equivalents are accrued during the vesting period and are paid upon the vesting of the RSUs and PSUs, which primarily occurs in the first quarter each year.
+Accumulated Other Comprehensive Loss (AOCL)
+Changes in the balance of AOCL, net of tax, consisted of the following (in millions):
+Retirement
+Benefits     Other, net     AOCL
+Balance at December 31, 2025     $    ( 7,555 )      $     13          $    ( 7,542 )
+Other comprehensive loss before reclassifications     —         ( 23 )      ( 23 )
+Amounts reclassified from AOCL
+Amortization of net actuarial losses and prior service costs   (a)
+62          —          62
+Other     —          7           7
+Total reclassified from AOCL      62           7           69
+Total other comprehensive income      62          ( 16 )       46
+Balance at March 29, 2026     $    ( 7,493 )      $    ( 3 )      $    ( 7,496 )
+Balance at December 31, 2024     $    ( 8,288 )      $    ( 164 )      $    ( 8,452 )
+Other comprehensive income before reclassifications      —        58         58
+Amounts reclassified from AOCL
+Amortization of net actuarial losses and prior service costs   (a)
+64        —        64
+Other     —        7         7
+Total reclassified from AOCL      64         7         71
+Total other comprehensive income       64         65         129
+Balance at March 30, 2025     $    ( 8,224 )      $    ( 99 )      $    ( 8,323 )
+(a)      Reclassifications from AOCL related to retirement benefits were recorded as a component of FAS expense for each period presented.
+17
+Table of Contents
+NOTE 10 -  OTHER
+Contract Estimates
+We generate sales from long-term contracts for the research, design, development, manufacture, integration and sustainment of advanced technology systems, products and services. We recognize revenue as performance obligations are satisfied and the customer obtains control of the products and services. For performance obligations to deliver products with continuous transfer of control to the customer, revenue is recognized based on the extent of progress towards completion of the performance obligation, generally using the percentage-of-completion cost-to-cost measure of progress for our contracts because it best depicts the transfer of control to the customer as we incur costs on our contracts. For performance obligations in which control does not continuously transfer to the customer, we recognize revenue at the point in time in which each performance obligation is fully satisfied.
+Significant judgments and assumptions are made in estimating contract sales, costs, and profit. We estimate profit as the difference between total estimated sales and total estimated costs to complete the contract and recognize profit as costs are incurred (over time sales recognition) or when the customer accepts the product or service (point in time sales recognition). Contract sales may include estimates of variable consideration, including cost or performance incentives (such as award and incentive fees), un-priced change orders, requests for equitable adjustment (REAs), and contract claims. Variable consideration is included in total estimated sales to the extent it is probable that a significant reversal in the amount of cumulative sales recognized will not occur when the uncertainty associated with the variable consideration is subsequently resolved. We also estimate variable consideration as the most likely amount, which we expect to be entitled. Contract costs include significant estimates related to labor, subcontractors, materials, overhead, general and administrative expenses, and costs to fulfill our industrial cooperation agreements, sometimes referred to as offset or localization agreements, required under certain contracts with international customers. Significant estimates related to costs include, but are not limited to, the complexity and scope of the work to be performed, labor productivity and availability, labor rates including terms of collective bargaining arrangements, execution by our subcontractors, the availability and cost of materials including any impact from changing costs or inflation, the length of time to complete the performance obligation, overhead and general and administrative cost rates, and estimated useful lives of components and assets, among others. In particular, fixed-price development programs involve significant management judgment, as development contracts by nature have elements that have not been done before and thus, are highly subject to future unexpected changes in estimates as described below.
+At the outset of a long-term contract, we identify and monitor risks to the achievement of the technical, schedule and cost aspects of the contract, as well as our ability to earn variable consideration, and assess the effects of those risks on our estimates of sales and total costs to complete the contract. The estimates consider the technical requirements (e.g., a newly developed product versus a mature product), the schedule and associated tasks (e.g., the number and type of milestone events) and costs (e.g., labor, subcontractors, materials, overhead, general and administrative expenses, and offset or localization agreements). The initial profit booking rate of each contract considers risks surrounding the ability to achieve the technical requirements, schedule and costs in the initial estimated total costs to complete the contract. We review our estimates related to sales, cost, and profit for each contract at least annually or when a change in circumstances warrants a modification to a previous estimate. For significant contracts, we review our estimates more frequently. As part of this process, management reviews information including, but not limited to, any outstanding key contract matters, progress towards completion and the related program schedule, identified risks and opportunities, and the related changes in estimates of revenues and costs. Profit booking rates may increase during the performance of the contract if we successfully retire risks related to earning variable consideration and/or the technical, schedule and cost aspects of the contract, which decreases the estimated total costs to complete the contract or may increase the variable consideration we expect to receive on the contract, which we refer to as favorable profit booking rate adjustments. Conversely, our profit booking rates may decrease if the estimated total costs to complete the contract increase or our estimates of variable consideration we expect to receive decrease, which we refer to as unfavorable profit booking rate adjustments.
+We recognize changes in estimated contract sales or costs and the resulting changes in contract profit on a cumulative basis. Cumulative profit booking rate adjustments represent the cumulative effect of the changes on current and prior periods; sales and operating margins in future periods are recognized as if the revised estimates had been used since contract inception. Profit booking rate adjustments can have a significant effect on our financial statements and affect the comparability of our segment sales, operating profit and operating margin. Segment operating profit and margin can also be impacted favorably or unfavorably by, for example, certain items such as the positive resolution of contractual
+18
+Table of Contents
+matters, cost recoveries on severance and restructuring, insurance recoveries and gains on sales of assets, as well as unfavorable items including the adverse resolution of contractual matters, supply chain disruptions, restructuring charges (except for significant severance actions, which are excluded from segment operating results), reserves for disputes, certain asset impairments, and losses on sales of certain assets. When estimates of total costs to be incurred on a contract exceed total estimates of the transaction price, a provision for the entire loss is determined at the contract level and is recorded in the period in which the loss is evident, which we refer to as a reach-forward loss.
+The following table presents the effect of profit booking rate adjustments on our financial results (in millions, except per share data):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Sales           $     216           $     496
+Segment operating profit            215            480
+% of segment operating profit            12        %       23      %
+Net earnings            170            379
+Diluted earnings per share            0.74            1.61
+During the quarter ended March 29, 2026, we recorded unfavorable profit adjustments of $ 125  million on the F-16 program as a result of production performance and development delays, $ 85  million on the C-130 program as a result of continued diminishing manufacturing source integration challenges and associated delivery delays, and $ 130  million of favorable profit adjustment on the F-35 program. During the quarter ended March 30, 2025, we recorded $ 185  million of adjustments resulting from favorable performance upon completion on certain commercial civil space programs at our Space business segment and a classified program at our Aeronautics business segment.
+We have various development programs for new and upgraded products, services, and related technologies which have complex design and technical challenges. This development work is inherently uncertain and subject to significant variability in estimates of the cost and time required to complete the work by us and our suppliers. Many of these programs have cost-type contracting arrangements (e.g. cost-reimbursable or cost-plus-fee). In such cases, the associated financial risks are primarily in reduced fees, lower profit rates, or program cancellation if cost, schedule, or technical performance issues arise. However, some of our existing development programs are contracted on a fixed-price basis or include cost-type contracting for the development phase with fixed-price production options and our customers continue to implement procurement strategies such as these that shift risk to contractors. Competitively bid programs with fixed-price development work or fixed-price production options increase the risk of a reach-forward loss upon contract award and during the period of contract performance. Due to the complex and often experimental nature of development programs, we may experience (and have experienced in the past) technical and quality issues during the development of new products or technologies for a variety of reasons. Our development programs are ongoing, and while we believe the cost and fee estimates incorporated in the financial statements are appropriate, the technical complexity of these programs and fixed-price contract structure creates financial risk as estimated completion costs may exceed the current contract value, which could trigger earnings charges, termination provisions, or other financially significant exposures. These programs have risk for reach-forward losses if our estimated costs exceed our estimated contract revenues, and such losses could be significant to our financial results in any period that they are recognized. Any such losses are recognized in the period in which the loss is evident.
+19
+Table of Contents
+Aeronautics Classified Program
+We have experienced significant performance issues on an existing classified program at our Aeronautics business segment. The initial phase is on a fixed-price incentive fee contract with fixed-price incentive fee options for additional phases. Phases within the program involve highly complex design and systems integration. Challenges and performance issues continued into 2025 and had a greater impact on schedule and costs than previously estimated. There were also new, unanticipated events that occurred in 2025 that impacted the program’s performance, as described below. As a result of performance issues with the program, Aeronautics performed a comprehensive review of its design, integration, test, and other processes to achieve the technical requirements of the program, which was completed in the second quarter of 2025. The events that occurred in 2025, and the comprehensive review completed in the second quarter of 2025, resulted in significant changes in the program’s processes and testing approach and led to an extension of the program’s schedule, which drove a substantial increase in cost estimates. As a result, during the second quarter of 2025, we recognized additional reach-forward losses of $ 950  million across both phases of the program. The primary drivers of the additional reach-forward losses recognized in the second quarter of 2025 included: (1) software development performance degradation and integration findings observed over a continued period; (2) learnings in recent software and build experience on another program specifically relevant to the program; (3) significant changes in test plan resulting from customer discussions and changes in test execution strategy; (4) safety-critical and other necessary design and engineering changes in response to certain observed performance degradation and a discrete event; and (5) complete schedule realignment, including as a result of items (1) through (4).
+As of March 29, 2026, cumulative losses recognized to date on this program remained at approximately $ 1.8  billion across both phases. As of March 29, 2026, $ 450  million of the losses remained accrued in other current liabilities in our consolidated balance sheet. We continue to proactively manage the technical requirements and our performance, the remaining work and any future changes in scope or schedule, and estimated costs to complete the program, including future phases. Due to the nature of the highly complex design and systems integration on this program, we may need to record additional losses in future periods if performance issues, increases in scope, or increases in cost from prior estimates indicate that further losses are evident. Our estimates may change, in particular, as we conduct further development and testing on the program, which may lead to new findings or cause us to modify our expectations or understandings of the risks inherent in the program. Any such losses could be material to our financial results in any period that they are recognized. We and our industry team will continue to incur advanced procurement costs (also referred to as pre-contract costs) to enhance our ability to achieve the schedule and certain milestones which could be significant. We will monitor the recoverability of pre-contract costs, which could be impacted by our assessment of the customer’s decision regarding the funding of future phases of the program.
+MFC Classified Program
+Our MFC business segment has been performing under a competitively bid classified contract, which includes a cost-reimbursable base contract for the initial phase of the program and multiple fixed-price options for additional phases. We previously disclosed that the options may be exercised over the next several years and, if performed, we expect they would each be at a loss. Based upon performance to date, future requirements of the program, discussions with the customer, and anticipated customer funding, among other factors, we continue to believe it is probable that all unexercised options will be exercised. As we perform on the cost-reimbursable base contract and the options, we continue to evaluate our estimates of cost necessary to complete the scope on the contract. Our estimates could change based on our performance, supplier negotiations and their performance, macroeconomic impacts, and discoveries made in the execution of these options or on the cost-reimbursable base contract. As of March 29, 2026, cumulative losses recognized on the program remained at approximately $ 1.46  billion in total, of which, $ 1.12  billion remained accrued in other current liabilities in our consolidated balance sheet. Any changes to our estimates or assumptions may result in additional losses and such losses could be material to our financial results in any period that they are recognized.
+Canadian Maritime Helicopter Program
+Our RMS business segment has been performing the Canadian Maritime Helicopter Program (CMHP) under multiple contracts with the Canadian government. The program provides for design, development, and production of CH-148 aircraft (the Original Equipment contract), which is a military variant of the S-92 helicopter, and for logistical support to the fleet (the In Service Support contract) over an extended time period. The final aircraft under the program was delivered to Canada during the third quarter of 2025 and subsequently accepted. The program has experienced performance issues and we have previously recorded losses on the program. We have been in discussions with the Canadian government to potentially restructure certain contractual terms and conditions that may be beneficial to both parties. As of March 29, 2026, cumulative losses recognized on the program remained at approximately $ 670  million and approximately
+20
+Table of Contents
+$ 605  million of contract assets remained on the balance sheet. Any restructuring discussions may be prolonged or unsuccessful, and could result in a contract termination, and are dependent upon Canadian government resources and priorities and other factors outside of our control, such as trade relations with the United States. These items in addition to future performance issues or changes in our estimates may affect our ability to recover our costs, including recovery of the contract assets recognized on the balance sheet and our assessment of the reach-forward loss, and potential damages, which could be material to our financial results in any period that they are recognized.
+Türkish Utility Helicopter Program
+As previously disclosed, sanctions imposed in 2020 by the U.S. Government on Turkey’s defense procurement agency (SSB) and certain persons affected our ability to perform under our contracts with Türkish industry for the Türkish Utility Helicopter Program (TUHP), which anticipates co-production with Türkish industry for production of T70 helicopters for use in Türkiye, as well as the related provision of Türkish goods and services under buy-back or offset obligations. During the second quarter of 2025, we recognized a loss of $ 95  million in light of the status of restructuring discussions with our prime customer and the status of the TUHP. In the fourth quarter of 2025, we finalized an agreement with our prime contract customer to terminate the existing TUHP contracts and establish new contracts for a reduced scope of work, which became effective in January 2026. Our performance under the new contracts is subject to the receipt of U.S. export authorizations and we have obtained an amendment to our manufacturing license agreement and are in the process of obtaining the remaining licenses needed to support our obligations under the new contracts. If we are unsuccessful, our customer could drawdown on letters of credit, which could negatively affect our cash flows and our ability to recover our costs, and we could incur additional losses of up to approximately $ 115  million. As of March 29, 2026, cumulative losses recognized to date on the program remained at approximately $ 130  million and the program remains in a contract liability position on the balance sheet.
+Backlog
+Backlog (i.e., unfulfilled or remaining performance obligations) represents the sales we expect to recognize for our products and services for which control has not yet transferred to the customer. It is converted into sales in future periods as work is performed or deliveries are made. For our cost-reimbursable and fixed-priced-incentive contracts, the estimated consideration we expect to receive pursuant to the terms of the contract may exceed the contractual award amount. The estimated consideration is determined at the outset of the contract and is continuously reviewed throughout the contract period. In determining the estimated consideration, we consider the risks related to the technical, schedule and cost impacts to complete the contract and an estimate of any variable consideration. Periodically, we review these risks and may increase or decrease backlog accordingly. As the risks on such contracts are successfully retired, the estimated consideration from customers may be reduced, resulting in a reduction of backlog without a corresponding recognition of sales. As of March 29, 2026, our ending backlog was $ 186.4  billion. We expect to recognize approximately  34 % of our backlog over the next  12  months and a total of approximately  58 % over the next  24  months as revenue with the remainder recognized thereafter.
+Income Taxes
+Our effective income tax rates were  16.1 % and  15.9 % for the quarters ended March 29, 2026 and March 30, 2025. The rates for all periods benefited from the tax deductions for foreign derived deduction eligible income (formerly known as foreign derived intangible income), research and development tax credits, dividends paid to our defined contribution plans with an employee stock ownership plan feature and employee equity awards.
+21
+Table of Contents
+NOTE 11 -  RECENT ACCOUNTING PRONOUNCEMENTS
+In September 2025, the Financial Accounting Standards Board (FASB) issued Accounting Standards Update (  ASU) No. 2025-06,   Intangibles – Goodwill and Other – Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software  . This guidance removes all references to project stages throughout FASB Accounting Standards Codification (ASC) Subtopic 350-40,   Internal-Use Software   and clarifies the threshold entities apply to begin capitalizing costs. Under the new standard, cost capitalization should only commence when an entity has committed to funding a software project and it is probable the project will be completed and the software will be used for its intended function. The amendments are effective for annual reporting periods beginning after December 15, 2027 and interim reporting periods within those annual reporting periods. Entities may apply the guidance using a prospective, retrospective or modified transition approach. Early adoption is permitted as of the beginning of an annual reporting period. We are currently determining the preferred transition approach and assessing the impact of the ASU on our disclosures and financial statements, including the timing of its adoption.
+In November 2024, the FASB issued ASU No. 2024-03,   Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses      . The ASU requires entities to disclose certain expenses, including purchases of inventory, employee compensation, depreciation, and intangible asset amortization, by caption. In addition, entities must provide a qualitative description of the amounts remaining in relevant expense captions that are not separately disaggregated quantitatively. The amendments are effective for annual reporting periods beginning after December 15, 2026, and for interim reporting periods beginning after December 15, 2027, with early adoption permitted. We are evaluating the impact of this ASU and expect the standard will only affect our disclosures and will not impact our results of operations or financial condition.
+22
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+Board of Directors and Stockholders
+Lockheed Martin Corporation
+Results of Review of Interim Financial Statements
+We have reviewed the accompanying consolidated balance sheet of Lockheed Martin Corporation (the Company) as of March 29, 2026, the related consolidated statements of earnings, comprehensive income, cash flows and equity for the three-month periods ended March 29, 2026 and March 30, 2025, and the related notes (collectively referred to as the “consolidated interim financial statements”). Based on our reviews, we are not aware of any material modifications that should be made to the consolidated interim financial statements for them to be in conformity with U.S. generally accepted accounting principles.
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheet of the Company as of December 31, 2025, the related consolidated statements of earnings, comprehensive income, cash flows and equity for the year then ended, and the related notes (not presented herein); and in our report dated January 29, 2026, we expressed an unqualified audit opinion on those consolidated financial statements. In our opinion, the information set forth in the accompanying consolidated balance sheet as of December 31, 2025, is fairly stated, in all material respects, in relation to the consolidated balance sheet from which it has been derived.
+Basis for Review Results
+These financial statements are the responsibility of the Company’s management. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the SEC and the PCAOB. We conducted our review in accordance with the standards of the PCAOB. A review of interim financial statements consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+/s/ Ernst & Young LLP
+Tysons, Virginia
+April 23, 2026
+23
+Table of Contents
+ITEM 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations (MD&A) is intended to help the reader understand our results of operations and financial condition. The MD&A is provided as a supplement to, and should be read in conjunction with, our consolidated financial statements and notes to consolidated financial statements herein and with our Annual Report on Form 10-K for the year ended December 31, 2025 (2025 Form 10-K).
+BUSINESS OVERVIEW
+We are a global aerospace and defense technology company that builds and sustains the solutions America and its allies need to deter conflict and advance national security and scientific exploration objectives. Our four business areas – Aeronautics, Missiles and Fire Control, Rotary and Mission Systems, and Space – work as one company offering integrated solutions, at scale, across all warfighting domains. Our defense, space, intelligence, homeland security, information technology, and cybersecurity capabilities serve U.S. and international customers in defense, civil and commercial applications. Our principal customers are agencies of the U.S. Government and allies. During the quarter ended March 29, 2026, 69% of our $18.0 billion in sales were from the U.S. Government, either as a prime contractor or as a subcontractor (including 59% from U.S. Department of War (DoW), also known as the Department of Defense under 10 U.S.C. § 111(a)), and 31% were from international customers (including foreign military sales (FMS) contracted through the U.S. Government).
+Global Security
+We operate in a complex and evolving global security environment. Conflicts or tensions in areas such as the Middle East, Europe, and the Pacific region have heightened tensions and highlighted security requirements globally, including in these regions as well as the U.S. Although these tensions and conflicts may drive interest in specific products or services as countries seek to improve their security posture, our business primarily operates on a long-cycle basis. As a result, the U.S. Government has been broadly focused on increasing industry capacity to meet long-term demand. We continue to work with the U.S. Government, international partners, and our supply chain to increase capacity and enhance our ability to scale our operations to meet potential demand, deliver critical capabilities, and replenish depleted U.S. and allied stockpiles of products that have been consumed over the past several years.
+Global Economic and Geopolitical Environment
+Our business and financial performance are impacted by a combination of macroeconomic factors, such as inflationary pressures, impacts from technological change, and market volatility, as well as operational challenges, including supply chain delays and disruptions, and workforce challenges and labor shortfalls. These factors have contributed, and may continue to contribute, to increased costs, delays, disruptions and other performance challenges, as well as competing demands for limited resources to address such increased costs and other challenges, for our company, our suppliers and partners, and our customers.
+We have experienced, and continue to experience, supply chain challenges, including supplier shortages and performance issues. While on-time deliveries are stable, pressures remain in certain areas, and we are proactively working with our suppliers to meet our contract commitments. In addition, macroeconomic conditions including elevated levels of inflation present risks for us, our suppliers and the stability of the broader defense industrial base. Supply chain challenges, including both the availability and cost of goods, may be further impacted due to the imposition of tariffs and the availability of raw materials including rare earth minerals. If we experience significant supply chain issues or high rates of inflation, and are unable to successfully mitigate the impact, our future profits, margins and cash flows, particularly for existing fixed-price contracts, may be adversely affected. We remain committed to our ongoing efforts to increase the efficiency of our operations and improve the cost competitiveness and affordability of our products and services, which may, in part, offset cost increases from inflation.
+Certain materials and component parts that go into making our products are imported into the U.S. and are subject to tariffs, sanctions, embargoes, export and import controls, and other trade restrictions. Changes in trade policies, including tariffs and other restrictions, may affect the cost or availability of certain materials and components. While we continue to monitor these developments and pursue mitigation strategies where appropriate, excluding the near-term cash flow impact, we do not currently expect existing tariffs to have a material long-term impact on our results of operations.
+24
+Table of Contents
+Significant changes in tax, trade, or other policies either in the U.S. or other countries, as well as any fluctuation in foreign exchange rates as a result of such activity, could materially increase our tax burden, the price we pay for materials and component parts, the price our customers pay, and result in delays in products received or non-delivery from our suppliers as well as impact the availability of materials (including rare earth minerals), which could materially impact our business and financial results.
+In addition, recent government actions relating to rare earth minerals that are used in certain of our products have raised concerns about supply availability. We are monitoring the rare earth minerals supply chain and maintaining active engagement with our suppliers as the regulatory landscape evolves. If we are unable to successfully mitigate disruptions to the availability of rare earth minerals, our future profits, margins and cash flows may be adversely affected.
+For additional risks to the company related to the geopolitical and economic environment, see Part I, Item 1A, “Risk Factors” of our 2025 Form 10-K.
+U.S. Government Budget Environment
+Our primary customer is the U.S. Government, from which we derived 69% of our sales during the quarter ended March 29, 2026, including 59% from the DoW. Funding for U.S. Government programs is subject to a variety of factors that can affect our business, including the Administration’s budget requests and procurement priorities and policies, annual congressional budget authorization and appropriation processes, and other U.S. Government domestic and international priorities. U.S. Government spending levels, particularly defense spending, and timely funding thereof can affect our financial performance over the short and long term.
+The National Defense Authorization Act (NDAA) for FY 2026 was signed into law on December 18, 2025. This legislation authorizes $901 billion for Defense. On February 3, 2026, the President signed the Consolidated Appropriations Act, 2026 funding the DoW through the end of the fiscal year, September 30, 2026. This legislation provides $839.2 billion in funding for the DoW representing an $8.4 billion increase over the topline in the President’s DoW Budget Request. The One Big Beautiful Bill Act (the Tax Act) was signed by the President on July 4, 2025. The bill provides more than $150 billion in mandatory funding for the DoW available until September 30, 2029.
+On April 3, 2026, the Administration released the FY 2027 Defense topline request. The FY 2027 proposal seeks a historic $1.5 trillion defense budget, driven by a large discretionary base request and an additional $350 billion of mandatory funding through reconciliation. It emphasizes a $760 billion weapons‑procurement and modernization effort—highlighting commitment to munitions framework deals, Golden Dome missile defense, a major shipbuilding program, and an increase in F‑35 purchases. The approach is reliant upon Congress to pass a second reconciliation bill. We will continue to monitor the FY 2027 budget cycle as additional information is released.
+Despite the Administration indicating their desire for a significant increase in defense spending in FY 2027, we anticipate the federal budget, additional potential tax law changes, and regulatory environment will continue to be subject to debate and compromise shaped by, among other things, the Administration and Congress, heightened political tensions, the global security environment, inflationary pressures, and macroeconomic conditions. The result may be shifting funding priorities, which could have material impacts on defense spending broadly and our programs. Additionally, the Administration continues to take steps to evaluate government-wide and defense-specific staffing and procurement, which includes assessing mission priorities, procurement methods, program performance, and other factors and then potentially taking action based on those assessments. Those actions remain uncertain and could result in impacts to both our current and future business prospects and financial performance.
+See also the discussion of U.S. Government funding risks, in Part I, Item 1A, “Risk Factors” of our 2025 Form 10-K.
+25
+Table of Contents
+CONSOLIDATED RESULTS OF OPERATIONS
+Our operating cycle is primarily long-term and involves many types of contracts for the design, development, manufacture, integration, and sustainment of products and related activities with varying delivery schedules. Additionally, we close our books and records on the last Sunday of each month, except for the month of December, as our fiscal year ends on December 31, to align our financial closing with our business processes. Because of this, the number of weeks in a reporting quarter may vary slightly during the year and for comparable prior year periods. Consequently, the results of operations of a particular year, or year-to-year comparisons of sales and profits, may not be indicative of future operating results. The following discussions of comparative results should be reviewed in this context. All per share amounts cited in these discussions are presented on a “per diluted share” basis, unless otherwise noted.
+Our consolidated results of operations were as follows (in millions, except per share data):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Sales           $    18,021          $    17,963
+Operating costs and expenses           (15,943)       (15,640)
+Gross profit           2,078          2,323
+Other (expense) income, net           (15)       49
+Operating profit           2,063          2,372
+Interest expense           (269)       (268)
+Non-service FAS pension expense
+(80)       (98)
+Other non-operating income, net           60          30
+Earnings before income taxes           1,774          2,036
+Income tax expense           (286)       (324)
+Net earnings           $    1,488          $    1,712
+Diluted earnings per common share           $    6.44          $    7.28
+Certain amounts reported in other income, net, including our share of earnings or losses from equity method investees, are included in the operating profit of our business segments. Accordingly, such amounts are included in the discussion of our business segment results of operations.
+Sales and Operating Costs and Expenses
+We generate sales from the delivery of products and services to our customers. Substantially all of our contracts are accounted for using the percentage-of-completion cost-to-cost method. Under the percentage-of-completion cost-to-cost method, we record sales on contracts over time based upon our progress towards completion on a particular contract, generally using a cost-to-cost measure, as well as our estimate of the profit to be earned at completion.
+Operating costs and expenses, for both products and services, consist of materials, labor, subcontracting costs and an allocation of indirect costs (overhead and general and administrative), as well as the costs to fulfill our industrial cooperation agreements, sometimes referred to as offset agreements, required under certain contracts with international customers. For each of our contracts, we monitor the nature and amount of costs at the contract level, which form the basis for estimating our total costs to complete the contract.
+Except for potential impacts to our programs resulting from supply chain disruptions, inflation, and tariffs, we have not identified any additional developing trends in operating costs and expenses for products and services that could have a material impact on our future operations.
+26
+Table of Contents
+Our consolidated sales and operating costs and expenses were as follows (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Sales
+Products         $    14,831         $    14,936
+% of total sales         82.3    %     83.1    %
+Services         3,190         3,027
+% of total sales         17.7    %     16.9    %
+Total sales         $    18,021         $    17,963
+Operating costs and expenses
+Products         $    (13,398)      $    (13,284)
+% of product sales         90.3    %     88.9    %
+Services         (2,784)      (2,640)
+% of service sales         87.3    %     87.2    %
+Other unallocated, net         239         284
+Total operating costs and expenses         $    (15,943)      $    (15,640)
+Product Sales and Costs
+Product sales during the quarter ended March 29, 2026 decreased $105 million, or 1%, compared to the same period in 2025. Lower product sales of approximately $325 million at RMS and $240 million at Aeronautics were offset by higher product sales of $305 million at MFC and $155 million at Space. Lower product sales at RMS were due to lower volume on radar and CH-53K programs. Lower product sales at Aeronautics were due to lower volume on classified programs. Higher product sales at MFC were due to production ramp-up on PAC-3 contracts, Joint Air-to-Surface Standoff Missile (JASSM), Long Range Anti-Ship Missile (LRASM) and Precision Strike Missile (PrSM) programs. Higher product sales at Space were due to higher volume on Fleet Ballistic Missile (FBM) programs.
+Product costs during the quarter ended March 29, 2026 increased $114 million, or 1%, compared to the same period in 2025. Higher product costs of approximately of $255 million at MFC and $245 million at Space were offset by lower product costs of $245 million at RMS and $140 million at Aeronautics. These changes reflected production ramp-up at MFC, higher volume at Space and lower volumes at RMS and Aeronautics, as described above.
+Service Sales and Costs
+Service sales during the quarter ended March 29, 2026 increased $163 million, or 5%, compared to the same period in 2025. The increase was primarily attributable to due to higher service sales of approximately $135 million at Aeronautics as a result of higher volume on the F-35 sustainment contracts.
+Service costs during the quarter ended March 29, 2026 increased $144 million, or 5%, compared to the same period in 2025. The increase was primarily attributable to higher service costs of approximately $140 million at Aeronautics, which is consistent with the higher service sales as described above.
+Other Unallocated, Net
+Other unallocated, net primarily includes the FAS/CAS pension operating adjustment (which represents the difference between total CAS pension cost recorded in our business segments’ results of operations and the service cost component of FAS pension expense), stock-based compensation expense, changes in the fair value of assets and liabilities for deferred compensation plans, significant severance charges, significant asset impairments, intangible asset amortization expense, and other miscellaneous corporate activities. These items are not allocated to the business segments and, therefore, are not allocated to operating costs and expenses for products or services. Other unallocated, net reduced operating expenses by $239 million and $284 million during the quarters ended March 29, 2026 and March 30, 2025. The fluctuations in other unallocated, net were due to costs associated with various corporate items, none of which were individually significant.
+27
+Table of Contents
+Other (Expense) Income, Net
+Other expense, net was $15 million during the quarter ended March 29, 2026, compared to other income, net of $49 million during the quarter ended March 30, 2025. Other (expense) income, net, primarily includes earnings generated by equity method investees, as well as gains or losses for acquisitions, divestitures, and other items, none of which are individually significant. The decrease in other expense (income), net resulted primarily from an intellectual property license arrangement during the quarter ended March 30, 2025.
+Non-service FAS Pension Expense
+Non-service FAS pension expense was $80 million and $98 million during the quarters ended March 29, 2026 and March 30, 2025. See “Note 6 - Retirement Benefits” included in our Notes to Consolidated Financial Statements for additional information.
+Other Non-operating Income, net
+Other non-operating income, net primarily includes gains or losses related to adjustments in valuation of early-stage company investments or gains or losses upon the sale of these investments and interest income earned on cash and cash equivalents. Other non-operating income, net was $60 million and $30 million during the quarters ended March 29, 2026 and March 30, 2025. See “Note 8 - Fair Value Measurements” included in our Notes to Consolidated Financial Statements for additional information.
+Income Tax Expense
+Our effective income tax rates were 16.1% and 15.9% for the quarters ended March 29, 2026 and March 30, 2025. The rates for all periods benefited from the tax deductions for foreign derived deduction eligible income (formerly known as foreign derived intangible income), research and development tax credits, dividends paid to our defined contribution plans with an employee stock ownership plan feature and employee equity awards.
+Changes in U.S. (federal or state) or foreign tax laws and regulations, or their interpretation and application (including those with retroactive effect), could significantly impact our provision for income taxes, the amount of taxes payable, our deferred tax asset and liability balances, and stockholders’ equity. In addition to future changes in tax laws, the amount of net deferred tax assets will change periodically based on several factors, including the measurement of our retirement benefit obligations, actual cash contributions to our retirement benefit plans and the change in the amount or reevaluation of uncertain tax positions.
+On July 4, 2025, the President signed into law the Tax Act. Key provisions included the permanent reinstatement of immediate expensing for domestic research expenditures, the restoration of full expensing for qualified machinery, equipment and other short-lived assets, and several modifications to existing corporate alternative minimum tax (CAMT) and international tax provisions. On February 18, 2026, the U.S. Department of Treasury issued Notice 2026-7 (the Notice) providing additional interim guidance regarding the application of the CAMT. We are continuing to evaluate the impacts of the Tax Act and the Notice and there could be additional impacts to our financial results or cash flows.
+We are regularly under audit or examination by tax authorities, including U.S. and foreign tax authorities (Australia, Canada, India, Italy, Japan, Poland, the United Kingdom, and other countries). The final resolution of tax audits and any related administrative reviews or litigation could result in unanticipated increases in our tax expense and changes to the timing of tax payments, which could affect profitability and cash flows for any particular reporting period. These increases or changes could have a material impact on financial condition and results of operations in such period.
+The Organisation for Economic Co-operation and Development (OECD) has a framework to implement a global minimum corporate tax of 15% for companies with global revenue and profits above certain thresholds (referred to as Pillar 2). Although the U.S. has not enacted legislation to implement Pillar 2, certain countries in which we operate have adopted legislation, and other countries are in the process of introducing legislation to implement Pillar 2. The OECD issued new administrative guidance on January 5, 2026, with respect to Pillar 2 which modifies key aspects of the framework for countries to enact in their own laws. This new guidance reaffirms we do not expect Pillar 2 to have a material impact on our effective tax rate or our financial results or cash flows.
+28
+Table of Contents
+Net Earnings
+We reported net earnings of $1.5 billion ($6.44 per share) and and $1.7 billion ($7.28 per share) during the quarters ended March 29, 2026 and March 30, 2025. Net earnings and earnings per share for the quarter ended March 29, 2026 were affected by the factors mentioned above. Earnings per share also benefited from a net decrease of approximately 4.2 million weighted average common shares outstanding during the quarter ended March 29, 2026, compared to the same period in 2025. The reduction in weighted average common shares was a result of share repurchases in 2025, but none during the quarter ended March 29, 2026, partially offset by share issuances under our stock-based awards and certain defined contribution plans.
+BUSINESS SEGMENT RESULTS OF OPERATIONS
+Our operations are organized into four business segments, which also comprise our reportable segments: Aeronautics, Missiles and Fire Control (MFC), Rotary and Mission Systems (RMS) and Space. We generally organize our business segments based on the nature of products and services offered.
+Business segment operating profit excludes the FAS/CAS pension operating adjustment, a portion of corporate costs not considered allowable or allocable to contracts with the U.S. Government under the applicable U.S. Government Cost Accounting Standards (CAS) or federal acquisition regulations (FAR), and other items not considered part of management’s evaluation of segment operating performance. See “Note 3 - Information on Business Segments – Unallocated Items” included in our Notes to Consolidated Financial Statements for additional information.
+Sales and operating profit for each of our business segments were as follows (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Sales
+Aeronautics           $    6,953          $    7,057
+Missiles and Fire Control           3,649          3,373
+Rotary and Mission Systems           3,991          4,328
+Space            3,428          3,205
+Total sales           $    18,021          $    17,963
+Operating profit
+Aeronautics           $    619          $    720
+Missiles and Fire Control           500          465
+Rotary and Mission Systems            423          521
+Space            281          379
+Total business segment operating profit           1,823          2,085
+Unallocated items
+FAS/CAS pension operating adjustment           421          379
+Intangible asset amortization expense           (50)       (64)
+Other, net            (131)       (28)
+Total unallocated items           240          287
+Total consolidated operating profit           $    2,063          $    2,372
+Management evaluates performance on our contracts by focusing on sales and operating profit and not by type or amount of operating expense. Consequently, our discussion of business segment performance focuses on sales and operating profit, consistent with our approach for managing the business. This approach is consistent throughout the life cycle of our contracts, as management assesses the bidding of each contract by focusing on sales and operating profit and monitors performance on our contracts in a similar manner through their completion. This method and assumptions used to evaluate contracts and recognize revenue, including the use of percentage-of-completion accounting for contracts with continuous transfer of control to the customer, are consistent with those described in our 2025 Form 10-K under “Management’s Discussion and Analysis of Financial Condition and Results of Operations”. Additionally, for updates related to fixed-price contracts, see “Note 10 - Other” included in our Notes to Consolidated Financial Statements.
+29
+Table of Contents
+Changes in sales and operating profit generally are expressed in terms of volume, contract mix, and/or performance (referred to as profit booking rate adjustments). Changes in volume refer to increases or decreases in sales or operating profit resulting from varying production activity levels, deliveries or service levels on individual contracts. Volume changes in segment operating profit are typically based on the current profit booking rate for a particular contract. Contract mix primarily refers to changes in the ratio of contract type or life cycle (e.g., cost-type, fixed-price, development, production and/or sustainment) and other cost recoveries.
+Comparability of our segment sales, operating profit and operating margin may be impacted favorably or unfavorably by changes in profit booking rates on our contracts, see “Note 10 - Other” included in our Notes to Consolidated Financial Statements.
+The following table presents the effect of our consolidated net profit booking rate adjustments on segment operating profit (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Aeronautics           $    15          $    110
+Missiles and Fire Control           135          130
+Rotary and Mission Systems           35          85
+Space           30          155
+Total net adjustments to segment operating profit           $    215          $    480
+During the quarter ended March 29, 2026, we recorded unfavorable profit adjustments of $125 million on the F-16 program as a result of production performance and development delays, $85 million on the C-130 program as a result of continued diminishing manufacturing source integration challenges and associated delivery delays, and $130 million of favorable profit adjustment on the F-35 program. During the quarter ended March 30, 2025, we recorded $185 million of adjustments resulting from favorable performance upon completion on certain commercial civil space programs at our Space business segment and a classified program at our Aeronautics business segment.
+There are certain programs where there is a risk of additional losses, including Aeronautics, MFC and RMS business segments. For further discussion regarding the losses recognized on these programs, including factors that could contribute to potential future losses, see “Note 10 - Other” included in our Notes to Consolidated Financial Statements.
+Aeronautics
+Summary   operating results for our Aeronautics business segment were as follows (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Sales           $    6,953          $    7,057
+Operating profit           619          720
+Operating margin           8.9    %      10.2    %
+Aeronautics’ sales during the quarter ended March 29, 2026 decreased   $104 million  , or 1%, compared to the same period in 2025. The decrease was primarily attributable to lower sales of approximately $325 million on classified programs due to lower volume; and approximately $145 million for the F-16 program due to the sales impact of unfavorable profit adjustments recognized in first quarter of 2026 and lower production volume. These decreases were partially offset by higher sales of approximately $325 million for the F-35 program due to higher volume on sustainment contracts.
+30
+Table of Contents
+A  eronautics’   operating profit during the quarter ended March 29, 2026 decreased $101 million, or 14%, compared to the same period in 2025, primarily due to a $95 million decrease in profit booking rate adjustments. This decrease in profit book rate adjustments reflects $125 million of unfavorable profit adjustments on the F-16 program as a result of production performance and development delays; $55 million of net unfavorable profit adjustments on the C-130 program as a result of continued diminishing manufacturing source integration challenges and associated delivery delays; and the absence of an $80 million adjustment that occurred in the quarter ended March 30, 2025 resulting from favorable performance at completion on a classified program. These decreases in profit booking rate adjustments were partially offset by $130 million of higher favorable profit adjustments on the F-35 program.
+Additionally, during the first quarter of 2026, we delivered 32 F-35 aircraft. Since the program inception through March 29, 2026, we delivered 1,325 production F-35 aircraft, including 948 F-35A variants, 245 F-35B variants and 132 F-35C variants, and our backlog as of that date was 336 aircraft.
+Missiles and Fire Control
+Summary operating results for our MFC business segment were as follows (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Sales           $    3,649          $    3,373
+Operating profit           500          465
+Operating margin           13.7    %      13.8    %
+MFC’s sales during the quarter ended March 29, 2026 increased $276 million, or 8%, compared to the same period in 2025.   This increase was primarily attributable to production ramp-up of $190 million at integrated air and missile defense programs (existing contracts on PAC-3) and $75 million at tactical and strike missile programs (JASSM, LRASM and PrSM).
+MFC’s operating profit during the quarter ended March 29, 2026 increased $35 million, or 8%, compared to the same period in 2025.   This increase was primarily attributable to higher sales volume previously described.
+Rotary and Mission Systems
+Effective January 2026, the Integrated Warfare Systems and Sensors (IWSS) and C6ISR lines of business within RMS were restructured and renamed Sensors, Effectors & Mission Systems (SEMS) and Mission Integrated Command and Control (MIC2). This includes realignment of various programs, such as Aegis and River-Class Destroyer (RCD) moving from what was historically IWSS to MIC2, which more closely aligns with C6ISR. SEMS and MIC2 will therefore incorporate an updated mix of existing program portfolios designed to accelerate mission‑focused solutions and enhance our customers’ experience.
+Summary operating results for our RMS business segment were as follows (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Sales           $    3,991          $    4,328
+Operating profit           423          521
+Operating margin           10.6    %      12.0    %
+RMS’ sales during the quarter ended March 29, 2026 decreased $337 million, or 8%, compared to the same period in 2025. The decrease was primarily attributable to lower net sales of $170 million on SEMS programs due to lower volume on radar programs; and $110 million on Sikorsky helicopter programs (CH-53K, Seahawk and Black Hawk) primarily due to lower volume and the sales impact of unfavorable profit adjustments recognized in the quarter ended March 29, 2026.
+RMS’ operating profit during the quarter ended March 29, 2026 decreased $98 million, or 19%, compared to the same period in 2025. This was primarily attributable to a $50 million decrease in profit booking rate adjustments largely
+31
+Table of Contents
+driven by unfavorable profit adjustments on the CH-53K and Seahawk programs; and the absence of a $50 million cost recovery related to an intellectual property license arrangement that occurred in the quarter ended March 30, 2025.
+Space
+Summary operating results for our Space business segment were as follows (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Sales           $    3,428          $    3,205
+Operating profit           281          379
+Operating margin           8.2    %      11.8    %
+Space’s sales during the quarter ended March 29, 2026 increased $223 million, or 7%, compared to the same period in 2025. This increase was primarily attributable to higher sales volume of $245 million for strategic and missile defense programs on the FBM and Next Generation Interceptor (NGI) programs.
+Space’s operating profit during the quarter ended March 29, 2026 decreased $98 million, or 26%, compared to the same period in 2025. This decrease was primarily attributable to a $125 million decrease in profit booking rate adjustments driven by favorable performance at completion on certain commercial civil space programs for the quarter ended March 30, 2025; partially offset by an increase from higher sales volume previously described.
+FINANCIAL CONDITION
+Liquidity and Capital Resources
+At March 29, 2026, we had cash and cash equivalents of $1.9 billion that was generally available to fund ordinary business operations without significant legal, regulatory or other restrictions. Our principal source of liquidity is our cash from operations and access to credit markets. Access to credit markets includes our revolving credit facilities, including the ability to issue commercial paper. We may, as conditions warrant, issue commercial paper backed by our revolving credit facility to manage the timing of cash flows. There were no borrowings outstanding under the revolving credit facilities or the commercial paper program at March 29, 2026 or December 31, 2025.
+Cash received from customers is our primary source of cash from operations. However, from time to time, we fund customer programs ourselves pending government appropriations or prior to contract award. If we incur costs in excess of funds obligated on the contract or in advance of a contract award, this negatively affects our cash flows, and we may be at risk for reimbursement of the excess costs. In addition, when estimates of total costs to be incurred on a contract exceed total estimates of the transaction price, a provision for the entire loss is determined at the contract level and is recorded in the period in which the loss is evident, which we refer to as a reach-forward loss. These reach-forward losses do not have an immediate cash flow impact, but as future costs are incurred on these contracts, these losses will negatively impact cash flows over the remaining period of performance.
+Increases in costs due to tariffs may impact our cash flows, as we may not be able to fully recover these costs, and even if recovery is possible, it may not occur in the same period as the incurred costs. See “Business Overview” discussion above.
+Billing timetables and payment terms on our contracts vary based on a number of factors, including the contract type. We generally bill and collect cash more frequently under cost-reimbursable contracts, which represented approximately 42% of the sales we recorded during the quarter ended March 29, 2026, as we are authorized to bill as the costs are incurred. A number of our fixed-price contracts may provide for performance-based payments, which allow us to bill and collect cash as we perform on the contract as we achieve milestones. The amounts of performance-based payments and the related milestones are determined in the negotiation of each contract. The timing of such payments may differ from the timing of the costs incurred related to our contract performance, thereby affecting our cash flows.
+The U.S. Government has indicated that it would consider progress payments as the baseline for negotiating payment terms on fixed-price contracts, rather than performance-based payments. In contrast to negotiated performance-based payment terms, progress payment provisions correspond to a percentage of the amount of costs incurred during
+32
+Table of Contents
+the performance of the contract and are invoiced regularly as costs are incurred. Our cash flows may be affected if the U.S. Government changes its payment policies. The U.S. Government from time to time withholds payments on certain of our billings based on contract terms or regulatory provisions. Ultimately, the impact of policy changes or withholding payments may delay the receipt of cash, but the cumulative amount of cash collected during the life of the contract should not vary due to these items.
+We seek to maintain a disciplined and dynamic cash deployment strategy to invest in our business and key technologies to provide our customers with enhanced capabilities, enhance stockholder value, and position ourselves to take advantage of new business opportunities when they arise. Consistent with that strategy, we have continued to invest in our business and technologies through capital expenditures, independent research and development, and selective business acquisitions and investments. As we implement our digital and business transformation, which includes implementation of new systems, the timing of certain of our cash flows may be temporarily impacted within a calendar year.
+We continue to actively manage our debt levels, including maturities and interest rates. We seek to finance our business in a manner that preserves financial flexibility while minimizing borrowing costs to the extent practicable. We review changes in financial market and economic conditions to manage the types, amounts and maturities of our indebtedness. We may at times refinance existing indebtedness, vary our mix of variable-rate and fixed-rate debt or seek alternative financing sources or arrangements for our cash and operational needs.
+We also actively manage our pension obligations and expect to continue to opportunistically manage our pension obligations through additional contributions at our discretion, the purchase of group annuity contracts or other actions for portions of our outstanding defined benefit pension obligations using assets from the pension trust. See “Note 6 - Retirement Benefits” included in our Notes to Consolidated Financial Statements for additional information.
+The following table provides a summary of our cash flow information followed by a discussion of the key elements (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Cash and cash equivalents at beginning of year     $    4,121          $    2,483
+Operating activities
+Net earnings     1,488          1,712
+Noncash adjustments     642          423
+Changes in working capital     (1,515)       (258)
+Other, net     (395)       (468)
+Net cash provided by operating activities     220          1,409
+Net cash used for investing activities     (541)       (430)
+Net cash used for financing activities     (1,906)       (1,659)
+Net change in cash and cash equivalents     (2,227)       (680)
+Cash and cash equivalents at end of period     $    1,894          $    1,803
+Operating Activities
+Net cash provided by operating activities during the quarter ended March 29, 2026 decreased $1.2 billion compared to the same period in 2025. The decrease in cash from operations was primarily due to higher working capital largely as a result of timing of billing activities.
+Non-GAAP Financial Measure - Free Cash   Flow
+Free cash flow is a non-GAAP financial measure that we define as cash from operations less capital expenditures. Our capital expenditures are comprised of equipment and facilities infrastructure and information technology (inclusive of costs for the development or purchase of internal-use software that are capitalized). We use free cash flow to evaluate our business performance and overall liquidity. While management believes that free cash flow as a non-GAAP financial measure may be useful in evaluating our financial performance, it should be considered supplemental to, and not a
+33
+Table of Contents
+substitute for, financial information prepared in accordance with GAAP and may not be comparable to similarly titled measures used by other companies.
+The following table reconciles net cash provided by operating activities to free cash flow (in millions):
+Quarters Ended
+March 29,
+2026     March 30,
+2025
+Cash from operations     $    220          $    1,409
+Capital expenditures     (511)       (454)
+Free cash flow     $    (291)       $    955
+Free cash flow   d  uring the quarter ended March 29, 2026 decreased $1.2 billion compared to the same period in 2025 primarily due to operating cash flow drivers described above and higher software expenditures.
+Investing Activities
+Net cash used for investing activities   duri  ng the quarter ended March 29, 2026 increased $111 million compared to the same period in 2025. Capital expenditures totaled $511 million and $454 million during the quarter ended March 29, 2026 and March 30, 2025. The majority of our capital expenditures are for equipment and facilities infrastructure that generally are incurred to support new and existing programs across all of our business segments. We also incur capital expenditures for information technology to support programs and general enterprise information technology infrastructure, inclusive of costs for the development or purchase of internal-use software.
+Financing Activities
+Net cash used for financing activities   during t  he quarter ended March 29, 2026 increased $247 million compared to the same period in 2025. D  uri  ng the quarter ended March 29, 2026, we repaid $1.0 billion of long-term notes with a fixed interest rate of 3.55% according to their scheduled maturities. Additionally, d  uri  ng the quarter ended March 29, 2026, we did not make any repurchase of our common stock, compared to $750 million to repurchase 1.7 million shares during the same period in 2025.
+OTHER MATTERS
+Contingencies
+See “Note 7 - Legal Proceedings and Contingencies” included in our Notes to Consolidated Financial Statements for information regarding our contingent obligations, including off-balance sheet arrangements.
+Critical Accounting Policies
+There have been no significant changes to the critical accounting policies disclosed in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our 2025 Form 10-K.
+ITEM 3. Quantitative and Qualitative Disclosures About Market Risk
+As disclosed in Part II, Item 7A, “Quantitative and Qualitative Disclosures About Market Risk” of our 2025 Form 10-K, we transact business globally and are subject to risks associated with changing foreign currency exchange rates. We enter into foreign currency hedges such as forward and option contracts that change in value as foreign currency exchange rates change. Our exposures to market risk have not changed materially since December 31, 2025. See “Note 8 - Fair Value Measurements” included in our Notes to Consolidated Financial Statements for additional discussion.
+34
+Table of Contents
+ITEM 4. Controls and Procedures
+We performed an evaluation of the effectiveness of our disclosure controls and procedures as of March 29, 2026. The evaluation was performed with the participation of senior management of each business segment and key corporate functions, under the supervision of the Chief Executive Officer (CEO) and Chief Financial Officer (CFO). Based on this evaluation, the CEO and CFO concluded that our disclosure controls and procedures were operating and effective as of March 29, 2026.
+During the first quarter of 2026, we completed the first of a multi-year phased implementation of our new enterprise resource planning (ERP) system for one of our business segments, which is designed to streamline our processes and enhance the flow of information. We updated our internal controls to reflect changes to the financial reporting business processes impacted by the implementation. There have been no other changes in our internal control over financial reporting during the quarter ended March 29, 2026, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Forward-Looking Statements
+This Form 10-Q contains statements that, to the extent they are not recitations of historical fact, constitute forward-looking statements within the meaning of the federal securities laws, and are based on our current expectations and assumptions. The words “believe,” “estimate,” “anticipate,” “project,” “intend,” “expect,” “plan,” “outlook,” “scheduled,” “forecast” and similar expressions are intended to identify forward-looking statements. These statements are not guarantees of future performance and are subject to risks and uncertainties. Actual results may differ materially due to factors such as:
+•  our reliance on contracts with the U.S. Government, which are dependent on U.S. Government funding and can be terminated for convenience, and our ability to negotiate favorable contract terms;
+•  budget uncertainty, the risk of future budget cuts, the impact of continuing resolution funding mechanisms, the debt ceiling and government shutdowns, and changing funding and acquisition priorities;
+•  risks related to the development, production, sustainment, performance, schedule, cost and requirements of complex and technologically advanced programs, including the F-35 program;
+•  planned production rates and orders for significant programs, compliance with stringent performance and reliability standards, and materials availability, including government furnished equipment and rare earth minerals;
+•  the timing of contract awards or contract definitization, decisions by government customers to impose contract terms following undefinitized contract actions, achievement of performance milestones, customer acceptance of product deliveries, and receipt of customer payments;
+•  our ability to recover costs under U.S. Government contracts, the mix of fixed-price and cost-reimbursable contracts and the risks inherent in preparing estimates for fixed-price contracts (particularly for complex and technologically advanced programs);
+•  customer procurement and other policies, laws, regulations and executive actions that affect our and our industry’s, programs, future opportunities, and financial performance, including those relating to mission priorities, competing domestic and international spending, contracting terms (such as fixed-price requirements), acquisition process reforms, treatment of contractor performance issues, and contractor access to competitive opportunities;
+•  performance and/or financial viability of key suppliers, teammates, joint ventures (including United Launch Alliance), joint venture partners, subcontractors and customers;
+•  changes in economic, capital market and political conditions in the U.S. and globally;
+•  the impact of inflation and other cost pressures;
+•  government actions that restrict or prevent the sale or delivery of our products (such as delays in approvals for exports requiring Congressional notification);
+•  foreign policy and international trade actions taken by governments such as tariffs, sanctions, embargoes, export and import controls, buying preferences, and other trade restrictions;
+•  our success expanding into and doing business in adjacent markets and internationally and the risks posed by international sales, including potential effects from fluctuations in currency exchange rates;
+•  changes in non-U.S. national priorities and government budgets and planned orders;
+•  the competitive environment for our products and services;
+•  our ability to develop and commercialize new technologies and products, including emerging digital and network technologies and capabilities;
+•  our ability to benefit fully from or adequately protect our intellectual property rights;
+•  our ability to attract and retain a highly skilled workforce and the impact of work stoppages or other labor disruptions;
+35
+Table of Contents
+•  cyber or other security threats or other disruptions faced by us or our suppliers;
+•  our ability to implement and continue, and the timing and impact of, capitalization changes such as share repurchases, dividend payments and financing transactions, including as a result of presidential executive orders;
+•  the accuracy of our estimates and projections;
+•  changes in pension plan assumptions and actual returns on pension assets; cash funding requirements and pension annuity contracts and associated charges;
+•  realizing the anticipated benefits of acquisitions or divestitures, investments, joint ventures, teaming arrangements or internal reorganizations, and market volatility affecting the fair value of investments that are marked to market;
+•  our efforts to fund and increase production capabilities and the efficiency of its operations and improve the affordability of its products and services, including through digital transformation and cost reduction initiatives;
+•  the risk of an impairment of our assets, including the potential impairment of goodwill and intangibles;
+•  the availability and adequacy of our insurance and indemnities;
+•  compliance with laws, regulations, policies, and customer requirements relating to environmental matters;
+•  the impact of public health crises, natural disasters and other severe weather conditions on our business and financial results, including supply chain disruptions and delays, employee absences, and program delays;
+•  changes in accounting, U.S. or foreign tax, export or other laws, regulations, and policies and their interpretation or application, and changes in the amount or reevaluation of uncertain tax positions; and
+•  the outcome of legal proceedings, bid protests, environmental remediation efforts, audits, administrative reviews, government investigations or government allegations that we have failed to comply with law, other contingencies and U.S. Government identification of deficiencies in our business systems.
+These are only some of the factors that may affect the forward-looking statements contained in this Form 10-Q. For a discussion identifying additional important factors that could cause actual results to differ materially from those anticipated in the forward-looking statements, see our filings with the U.S. Securities and Exchange Commission (SEC) including, but not limited to, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” in our 2025 Form 10-K and subsequent Quarterly Reports on Form 10-Q. Our filings may be accessed through the Investor Relations page of our website, www.lockheedmartin.com/investor, or through the website maintained by the SEC at www.sec.gov. Information contained on or made available through our website or other websites mentioned in this Form 10-Q is not incorporated into and is not a part of this Form 10-Q, and any references to our website are intended to be inactive textual references only.
+Our actual financial results likely will be different from those projected due to the inherent nature of projections. Given these uncertainties, forward-looking statements should not be relied on in making investment decisions. The forward-looking statements contained in this Form 10-Q speak only as of the date of our filing. Except where required by applicable law, we expressly disclaim a duty to provide updates to forward-looking statements after the date of this Form 10-Q to reflect subsequent events, changed circumstances, changes in expectations, or the estimates and assumptions associated with them. The forward-looking statements in this Form 10-Q are intended to be subject to the safe harbor protection provided by the federal securities laws.
+36
+Table of Contents
+PART II. OTHER INFORMATION
+ITEM 1. Legal Proceedings
+For information regarding legal proceedings and environmental matters, including current estimates of the amounts that we believe are required for remediation or clean-up to the extent estimable, see “Note 7 - Legal Proceedings and Contingencies — Legal Proceedings and Environmental Matters” included in our Notes to Consolidated Financial Statements in this Form 10-Q, which is hereby incorporated by reference. For additional information and a description of previously reported matters, see also “Critical Accounting Policies – Environmental Matters” in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Note 14 – Legal Proceedings, Commitments and Contingencies,” in our 2025 Form 10-K.
+ITEM 1A. Risk Factors
+Except for the risk factor discussed below, there have been no other material changes to the risk factors disclosed in Part I, Item 1A, “Risk Factors” of our 2025 Form 10-K. These risks and uncertainties described in our risk factors have the potential to materially affect our business, results of operations, financial condition, cash flows, projected results and future prospects. These risks are not exclusive and additional risks to which we are subject include the factors mentioned under “Forward-Looking Statements” and the risks described in “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in this Form 10-Q.
+If we fail to successfully complete or manage acquisitions, divestitures, equity investments and other transactions or if acquired entities or equity investments fail to perform as expected, our financial results, business and future prospects could be harmed.
+We hold investments in joint ventures, including United Launch Alliance (ULA), that are accounted for under the equity method. Our investment in ULA was $544 million and $551 million at March 29, 2026 and December 31, 2025, respectively. To the extent that performance challenges associated with the development, production or launch of ULA’s Vulcan Centaur rocket adversely affect ULA’s business, financial condition or results of operations, we could be exposed to operating losses generated by the joint venture or impairments of our investment in the joint venture. Additionally, we expect to provide financial guarantees in support of ULA in the future and may be required to provide additional financial support to ULA to support its liquidity or ongoing operations.
+37
+Table of Contents
+ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds
+There were no sales of unregistered equity securities during the quarter ended March 29, 2026.
+The following table provides information about our repurchases of our common stock that is registered pursuant to Section 12 of the Securities Exchange Act of 1934 during the quarter ended March 29, 2026.
+Period   (a)
+Total Number
+of Shares
+Purchased    Average
+Price Paid
+Per Share
+Total Number of
+Shares
+Purchased as
+Part of Publicly
+Announced Plans
+or Programs   (b)
+Approximate Dollar Value of Shares That May Yet be Purchased Under the Plans or Programs   (b)
+(in millions)
+January 1, 2026 – January 25, 2026   (c)
+599        $    489.13        —       $    8,324
+January 26, 2026 – February 22, 2026   (c)
+—        $    —        —       $    8,324
+February 23, 2026 – March 29, 2026   (c)
+226,763        $    657.99        —       $    8,324
+Total   (c)
+227,362       $    657.55        —
+(a)  We close our books and records on the last Sunday of each month to align our financial closing with our business processes, except for the month of December, as our fiscal year ends on December 31. As a result, our fiscal months often differ from the calendar months. For example, March 29, 2026 was the last day of our March 2026 fiscal month.
+(b)  In 2010, our Board of Directors approved a share repurchase program pursuant to which we are authorized to repurchase our common stock in privately negotiated transactions or in the open market at prices per share not exceeding the then-current market prices. We did not repurchase any shares during the quarter ended March 29, 2026.
+(c)  During the quarter ended March 29, 2026, the total number of shares purchased included 227,362 shares that were transferred to us by employees in satisfaction of tax withholding obligations associated with the vesting of restricted stock units and performance stock units. These purchases were made pursuant to a separate authorization by our Board of Directors and are not included within the program.
+ITEM 5. Other Information
+None of our directors or executive officers  adopted  or  terminated  a Rule 10b5-1 trading arrangement or  adopted  or  terminated  a non-Rule 10b5-1 trading arrangement (as defined in Item 408(c) of Regulation S-K) during the quarter ended March 29, 2026.
+38
+Table of Contents
+ITEM 6. Exhibits
+Exhibit No.     Description
+10.1
+Form of 2026 Annual Restricted Stock Unit Award Agreement under the Lockheed Martin Corporation 2020 Incentive Performance Award Plan
+10.2
+Form of Performance Stock Unit Award Agreement (2026 - 2028 Performance Period) under the Lockheed Martin Corporation 2020 Incentive Performance Award Plan
+10.3
+2021 Lockheed Martin Corporation Management Incentive Compensation Plan as Amended and Restated Effective January 1, 2026
+15
+Acknowledgment of Independent Registered Public Accounting Firm
+31.1
+Certification of James D. Taiclet pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2
+Certification of Evan T. Scott pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32
+Certification of James D. Taiclet and Evan T. Scott pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS     XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+101.SCH     Inline XBRL Taxonomy Extension Schema Document
+101.CAL     Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF     Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB     Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE     Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104     Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document contained in Exhibit 101
+39
+Table of Contents
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Lockheed Martin Corporation
+(Registrant)
+Date: April 23, 2026         By: /s/ H. Edward Paul III
+H. Edward Paul III
+Vice President and Controller
+(Duly Authorized Officer and Chief Accounting Officer)
+40

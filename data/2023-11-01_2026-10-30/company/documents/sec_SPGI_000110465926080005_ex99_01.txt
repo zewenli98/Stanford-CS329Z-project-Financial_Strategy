@@ -1,0 +1,1066 @@
+EX-10.1
+3
+tm2619099d1_ex10-1.htm
+EXHIBIT 10.1
+Exhibit 10.1
+Execution Version
+Certain schedules and exhibits to this agreement have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted
+schedule and/or exhibit will be furnished supplementally to the SEC upon request.
+[***] Certain information in this document has been excluded
+pursuant to Regulation S-K, Item 601(a)(6). Such excluded information is not material and is the type that the registrant treats as private
+or confidential.
+TRANSITION SERVICES AGREEMENT
+dated as of
+June 30, 2026
+between
+S&P
+Global Inc.
+and
+MOBILITY GLOBAL INC.
+TABLE OF CONTENTS
+Page
+Article 1
+Definitions
+Section 1.01  . Definitions
+1
+Section 1.02 .  Other Definitional and Interpretative Provisions
+2
+Article 2
+Purchase and Sale of Services
+Section 2.01  . Provision and Receipt of Services
+3
+Section 2.02 .  Termination of Services
+4
+Section 2.03  . Service Provider Affiliates and Third-Party Providers
+5
+Section 2.04  . Third-Party Licenses and Consents
+5
+Section 2.05  . Third-Party Providers
+5
+Article 3
+Service Costs; Other Charges
+Section 3.01  . Service Costs Generally
+6
+Section 3.02  . Right to Offset
+6
+Section 3.03  . Taxes
+7
+Section 3.04  . Invoicing and Settlement of Service Costs
+8
+Article 4
+The Services
+Section 4.01  . Standards of Service
+9
+Section 4.02  . Changes to the Services
+9
+Section 4.03 .  Compliance Matters
+10
+Section 4.04  . Management of Services
+10
+Section 4.05 .  Policies and Procedures
+10
+Section 4.06 .  Limitations
+11
+Section 4.07 .  Service Coordinators
+12
+Section 4.08 .  Migration Plan
+12
+Article 5
+Disclaimer, Liability And Indemnification
+Section 5.01 .  Indemnification of Service Provider by SpinCo
+13
+Section 5.02  . Indemnification of SpinCo by Service Provider
+13
+Section 5.03  . Third-Party Claim Procedures
+13
+Section 5.04  . Calculation of Damages
+14
+i
+Section 5.05  . E xclusion Of Warranties
+15
+Section 5.06 .  Limitation of Liability
+15
+Article 6
+Term and Termination
+Section 6.01  . Term
+16
+Section 6.02  . Termination
+16
+Section 6.03  . Effect of Termination
+17
+Article 7
+Additional Agreements
+Section 7.01  . Intellectual Property
+17
+Section 7.02  . Data Protection Laws and Processing of Personal Information
+19
+Section 7.03  . Access to Information
+19
+Section 7.04  . Employment and Labor Matters
+19
+Section 7.05 .  Confidentiality
+20
+Article 8
+Miscellaneous
+Section 8.01 .  No Agency; Independent Contractor Status
+20
+Section 8.02 .  Force Majeure
+21
+Section 8.03 .  Entire Agreement
+21
+Section 8.04 .  Notices
+22
+Section 8.05  .   Governing Law
+22
+Section 8.06 .  Dispute Resolution
+22
+Section 8.07 .  WAIVER OF JURY TRIAL
+22
+Section 8.08 .  Severability
+23
+Section 8.09 .  Amendments and Waivers
+23
+Section 8.10 .  Successors and Assigns
+23
+Section 8.11 .  Expenses
+23
+Section 8.12 .  Specific Performance
+23
+Section 8.13 .  Counterparts; Effectiveness; No Third-Party Beneficiaries
+24
+Section 8.14 .  Further Assurances
+24
+Schedule A
+Services
+Schedule B
+Data Processing Addendum
+ii
+TRANSITION SERVICES AGREEMENT
+This  TRANSITION
+Services Agreement  (this “ Agreement ”) dated as of June 30, 2026 (the “ Effective Date ”)
+is being entered into by and between S&P Global Inc., a New York corporation (“ Service Provider ”), and Mobility
+Global Inc., a Delaware corporation (“ SpinCo ”). SpinCo and Service Provider may each be referred to herein as a “ Party ”
+and collectively as the “ Parties .”
+RECITALS
+WHEREAS, Service Provider and SpinCo have entered
+into a Separation and Distribution Agreement, dated as of June 30, 2026 (as such agreement may be amended from time to time, the
+“ Separation Agreement ”) pursuant to which, among other things, Service Provider has agreed to separate the SpinCo Business
+from the SPGI Business and to distribute the SpinCo Common Stock to the holders of the S&P Common Stock as of the Record Date, in
+each case, on the terms and subject to the conditions set forth in the Separation Agreement; and
+WHEREAS, in connection with the transactions contemplated
+by the Separation Agreement, Service Provider has agreed to provide (or cause to be provided) to the Service Recipients (as defined below)
+certain services for a transition period following the Distribution Time in accordance with the terms and subject to the conditions set
+forth herein.
+NOW, THEREFORE, in consideration of the foregoing
+and the representations, warranties, covenants and agreements contained herein, the Parties hereby agree as follows:
+Article 1
+Definitions
+Section 1.01 . Definitions.  Any capitalized
+term that is used, but not defined, herein shall have the meaning assigned to such term in the Separation Agreement. In addition, for
+the purpose of this Agreement, the following terms shall have the meanings set forth below.
+“ Early Termination Costs ” means,
+with respect to a Service, any out-of-pocket costs that Service Provider has incurred, or reasonably expects to incur, as a result of
+SpinCo’s termination of such Service pursuant to  Section 2.02(b)  or Service Provider’s termination of such
+Service pursuant to  ‎Section 6.02(b)  or ‎ Section 6.02(c) , including costs related to terminating
+any commitments made to, or in respect of, personnel or Third-Party Providers to provide such terminated Service (including early termination
+charges, kill fees, wind-down costs or reasonable minimum volume makeup fees), or prepaid expenses related to such terminated Service.
+“ IT Systems ” means any and all
+websites, applications, databases, systems, networks, software, hardware, firmware, middleware and other information technology equipment.
+“ Reference Period ” means the
+twelve (12) month period prior to the Distribution Time.
+“ Service Period ” means, with
+respect to a Service (as defined below), the period commencing on the Effective Date and ending at the close of business on the earlier
+of (a) the date such Service is terminated in accordance with  ‎Section 2.02  or ‎ 4.03 , (b) the expiration
+of the term of such Service set forth on  Schedule A , or (c) the date this Agreement is terminated in accordance with ‎ Section 6.01
+or  ‎6.02 ;  provided  that no Service shall be provided for a period extending beyond the date that is eighteen (18) months
+following Distribution Date.
+“ Services ” means the services
+set forth on  Schedule A , as such Schedule may be amended from time to time in accordance with this Agreement.
+“ Sublicensable ” means, with
+respect to Intellectual Property Rights, that the applicable Party or its Affiliate has the right to grant the sublicenses or rights granted
+by such Party or its Affiliate to such Intellectual Property Rights pursuant to  Sections 7.01(b)  and  7.01(c)  without
+any additional fees or other consideration payable to the licensor as a direct result of granting such sublicense other than those payable
+in accordance with  Sections 2.04 ,  2.05  and  3.01 .
+Section 1.02.  Other Definitional and Interpretative
+Provisions.  The words “hereof,” “herein” and “hereunder” and words of like import used in this
+Agreement shall refer to this Agreement as a whole and not to any particular provision of this Agreement. The headings and captions herein
+are included for convenience of reference only and shall be ignored in the construction or interpretation hereof. References to Sections,
+Exhibits and Schedules are to Sections, Exhibits and Schedules of this Agreement unless otherwise specified. All Exhibits and Schedules
+annexed hereto or referred to herein are hereby incorporated in and made a part of this Agreement as if set forth in full herein. Any
+capitalized terms used in any Exhibit or Schedule but not otherwise defined therein shall have the meaning as defined in this Agreement.
+Where there is any inconsistency between the definitions set out in   ‎   Section 1.01  and the definitions set
+out in any other Section or any Schedule or Exhibit, then, for the purposes of construing such Section or Schedule or Exhibit,
+the definitions set out in such Section or Schedule or Exhibit shall prevail. The word “extent” in the phrase “to
+the extent” shall mean the degree to which a subject or other theory extends and such phrase shall not mean “if.” Any
+singular term in this Agreement shall be deemed to include the plural, and any plural term the singular. Whenever the words “include,”
+“includes” or “including” are used in this Agreement, they shall be deemed to be followed by the words “without
+limitation,” whether or not they are in fact followed by those words or words of like import. “Writing,” “written”
+and comparable terms refer to printing, typing and other means of reproducing words (including electronic media) in a visible form. References
+to any statute, law or other Applicable Law shall be deemed to refer to such statute, law or other Applicable Law as amended from time
+to time and, if applicable, to any rules or regulations promulgated thereunder. References to any agreement or contract are to that
+agreement or contract as amended, modified or supplemented from time to time in accordance with the terms thereof. References to any Person
+include the successors and permitted assigns of that Person. In the computation of periods of time from a specified date to a later specified
+date, the word “from” means “from and including” and the words “to” and “until” mean “to
+but excluding” and the word “through” means “to and including.” References to “$” are to United
+States dollars. References from or through any date mean, unless otherwise specified, from and including or through and including, respectively.
+The word “or” shall not be exclusive (i.e., “or” shall mean “and/or”). The word “shall”
+shall have the same meaning as “will” and vice versa. All references to any time herein shall refer to Eastern Time. The Parties
+have participated jointly in the negotiation and drafting of this Agreement and, in the event an ambiguity or question of intent or interpretation
+arises, this Agreement shall be construed as if drafted jointly by such Parties and no presumption or burden of proof shall arise favoring
+or disfavoring any Party by virtue of the authorship of any provision of this Agreement.
+2
+Article 2
+Purchase and Sale of Services
+Section 2.01 . Provision and Receipt of
+Services.
+(a)            On
+the terms and subject to the conditions of this Agreement and in consideration for the Service Costs (as defined below) payable by SpinCo
+pursuant to ‎ Article 3 , during the applicable Service Period, Service Provider shall provide (or cause to be provided)
+the Services to SpinCo and its applicable Affiliates (collectively, the “ Service Recipients ”), which Services shall
+be available only for the purposes of conducting the SpinCo Business. A description of each Service to be provided by Service Provider
+to the Service Recipients hereunder is set forth in  Schedule A .
+(b)            Except
+for the Services expressly contemplated to be provided in accordance with the provisions of this Agreement (including ‎ Section 2.01(c) ,
+if applicable), neither Service Provider, nor any other Service Provider Party (as defined below), shall have any obligation to provide
+(or cause to be provided) any services to the Service Recipients. Notwithstanding anything herein to the contrary, in no event shall Service
+Provider or any other Service Provider Party be required to provide (or cause to be provided) any (i) legal, financial, accounting
+or tax advice or (ii) any of the services identified in  Schedule A  as an excluded service to the Service Recipients (the “ Excluded
+Services ”). Any provision by or on behalf of Service Provider to the Service Recipients of any Excluded Services shall be discontinued
+as of the Effective Date.
+(c)            If,
+during the Term (as defined below), a Party identifies a service that is not included on  Schedule A  that (i) Service Provider
+provided (or caused to be provided) to the SpinCo Business during the Reference Period in connection with the ordinary course operation
+of the SpinCo Business and (ii) is necessary to operate the SpinCo Business in substantially the same manner as the SpinCo Business
+had been operated during the Reference Period, and, in each case, is not an Excluded Service (each, an “ Additional Service ”),
+then upon written request of SpinCo, Service Provider shall provide (or cause to be provided) such Additional Service to the Service Recipients,
+and the Parties shall negotiate in good faith the terms of the provision of such Additional Service (including with respect to cost and
+duration);  provided  that (A) the Parties did not previously discuss whether such Additional Service would be provided under
+this Agreement prior to the Effective Date, (B) Service Provider and its Affiliates did not permanently discontinue the provision
+of such Additional Service to the SpinCo Business during the Reference Period, (C) Service Provider is reasonably able to provide
+(or cause the provision of) such Additional Service on a reasonably timely basis, and (D) SpinCo is not reasonably able to procure
+on a reasonably timely basis (including through the use of a Third-Party Provider) the provision of such Additional Service;  provided
+further  that (x) subject to Section 3.01, the Service Costs for any such Additional Service shall be calculated in a manner
+consistent with the methodology used for calculating the Service Costs of the Services most similar to such Additional Service (which
+shall not, for the avoidance of doubt, be less than Service Provider’s actual costs (including overhead allocation) to provide such
+Additional Service, including amounts required to be paid to any third parties and flat or one-time costs to stand up and dissolve such
+Additional Service) and (y) no Additional Service shall be provided for a Service Period extending beyond eighteen (18) months following
+the Distribution Date. To the extent that the Parties reach a written agreement with respect to the provision and receipt of such Additional
+Service (including the Service Costs, the Service Period and any other relevant terms regarding such Additional Services), the Parties
+shall cooperate and act in good faith to add such Additional Service to  Schedule A . Service Provider’s provision and the
+Service Recipients’ receipt of any Additional Services shall be deemed part of the “Services” provided under this Agreement,
+in each case subject to the terms and conditions of this Agreement. For the avoidance of doubt, any failure by the Parties to amend  Schedule
+A  to include an Additional Service as described in this  ‎Section 2.01(c)  shall not excuse Service Provider from
+providing such Additional Service or SpinCo from paying any Service Costs or any other payment required to be made by SpinCo pursuant
+to this Agreement for any such Additional Service to the extent Service Provider provides, or causes the provision of, such Additional
+Service.
+3
+Section 2.02.  Termination of Services .
+(a)            Any
+Service may be terminated as of a date that is earlier than the expiration of the Service Period upon the mutual written consent of the
+Parties, and, in such case,  Schedule A  shall be deemed amended to delete such Service as of such date, and this Agreement shall
+be of no further force and effect with respect to such Service, except as to obligations or liabilities accrued pursuant to this Agreement
+through the date of termination of such Service, or in connection with such termination.
+(b)            Unless
+a different notice period is specified for a Service in  Schedule A  and except with respect to payroll and benefits Services, which
+shall require no less than sixty (60) days’ advance written notice to terminate, SpinCo may elect to terminate any Service by providing
+no less than thirty (30) days’ advance written notice to Service Provider (a “ Termination Notice ”) at any time,
+and, in such case, subject to  ‎Section 2.02(c) , the applicable Service shall terminate on the termination date specified
+in the Termination Notice (or such other date mutually agreed in writing by the Parties) and  Schedule A  shall be deemed amended
+to delete such Service as of the termination date, and this Agreement shall be of no further force and effect with respect to such Service,
+except as to obligations or liabilities accrued pursuant to this Agreement prior to the date of termination of such Service, or in connection
+with such termination.
+(c)            Any
+Service may be terminated by SpinCo pursuant to  ‎Section 2.02(b)  above without the termination of any other Service;
+provided  that, if it is technically infeasible or commercially impracticable to terminate one Service without terminating one or
+more other Services, SpinCo shall be required to concurrently terminate all such Services for which separate termination would be technically
+infeasible or commercially impracticable (such required termination, an “ Interdependency Termination ”). Within a reasonable
+period of time following receipt of any Termination Notice (but in no event more than fifteen (15) Business Days following any receipt
+thereof), Service Provider shall provide SpinCo with written notice (a “ Service Provider Notice ”) of (i) any Early
+Termination Costs and (ii) whether termination of such Service will (A) require an Interdependency Termination or (B) otherwise
+affect the performance of any other Services (“ Other Service Implications ”). The Service Provider Notice shall set
+forth the amount of, or a good faith estimate (to the extent the exact amount is not yet known by Service Provider) of, the Early Termination
+Costs and an overview of the Interdependency Terminations and Other Service Implications (if any). SpinCo may withdraw its Termination
+Notice by delivering a withdrawal notice within ten (10) Business Days following the receipt of such Service Provider Notice. If
+SpinCo does not withdraw its Termination Notice within such period, such Termination Notice will be final and irrevocable (including as
+to any Interdependency Termination or Other Service Implications), and SpinCo shall reimburse Service Provider for all Early Termination
+Costs incurred by Service Provider as a result of such early termination. Such reimbursement shall be made by SpinCo to Service Provider
+in accordance with ‎ Section 3.04 . The Parties agree to cooperate in good faith and use all commercially reasonable efforts
+to avoid or mitigate the incurrence of any Early Termination Costs, and to minimize any Interdependency Terminations or Other Service
+Implications. Notwithstanding anything in this Agreement to the contrary and for the avoidance of doubt, (x) SpinCo shall have no
+obligation to pay or reimburse any Early Termination Costs or other amounts not actually incurred by Service Provider and (y) SpinCo
+shall not be responsible for any costs or expenses incurred by Service Provider in connection with winding down, exiting, restructuring
+or otherwise ceasing any aspect of Service Provider’s business, operations or third-party arrangements supporting the SpinCo Business
+as of the Effective Date that would have otherwise been incurred by Service Provider as a result of the transactions contemplated by the
+Separation Agreement.
+4
+Section 2.03 . Service Provider Affiliates
+and Third-Party Providers.  In providing, or otherwise making available, the Services to the Service Recipients, Service Provider may,
+in its sole discretion, use its own personnel or the personnel of any of its Affiliates, or employ the services of contractors, subcontractors,
+vendors or other third-party providers (each, a “ Third-Party Provider ”);  provided  that, subject to  ‎  Section 2.05 ,
+Service Provider shall remain responsible for ensuring that its obligations with respect to such Services, including the Services Standard
+(as defined below), are satisfied with respect to all Services provided by any Service Provider Party and that each Service Provider Party
+complies with the terms and conditions of this Agreement. Each of Service Provider, its Affiliates, and any Third-Party Provider used
+by Service Provider to provide Services, including each of their respective officers, employees, partners who are natural persons (in
+the case of a partnership), consultants, contractors, workers and agents, shall be referred to as a “ Service Provider Party .”
+The Parties acknowledge that Service Provider may be required to pay certain fees and expenses to Third-Party Providers to provide Services
+to the Service Recipients (which fees and expenses shall, for the avoidance of doubt, be reflected in the Service Costs consistent with
+Section 3.01 ), and the Parties agree to cooperate in good faith and use commercially reasonable efforts to avoid or mitigate
+such fees and expenses.
+Section 2.04 . Third-Party Licenses and
+Consents . Each Party shall use (and shall cause its Affiliates and, in the case of Service Provider, any applicable Third-Party Providers
+to use) its commercially reasonable efforts to obtain, and to keep and maintain in effect, all governmental or third-party licenses and
+consents required for the provision of any Service, including with respect to access and use of any third-party software, in accordance
+with the terms of this Agreement;  provided  that if a Service Provider Party is unable to obtain any such license or consent, Service
+Provider shall promptly (but in no event no later than two (2) Business Days after becoming aware of such fact) notify SpinCo in
+writing and the Parties shall cooperate in good faith and use commercially reasonable efforts to implement an appropriate alternative
+arrangement. As between the Parties, the costs relating to obtaining any such licenses or consents shall be split evenly between the Parties
+(i.e., 50/50). In no event shall Service Provider be required to pay any money or other consideration (unless SpinCo agrees to reimburse
+Service Provider therefor) or grant any accommodation to any Person (including any amendment to any contract) or to initiate any claim
+or proceeding against any Person in order to obtain any such licenses or consents;  provided  that Service Provider shall not incur
+any such costs without the prior written consent of SpinCo. If any such license, consent or alternative arrangement is not available despite
+the commercially reasonable efforts of Service Provider or as a result of SpinCo failing to bear the incurrence of costs relating to obtaining
+any such license or consent for the Services, Service Provider shall not be required to provide the affected Services.
+Section 2.05 . Third-Party Providers .
+If Service Provider receives written notice from any Third-Party Provider that such Person intends to terminate a service pursuant to
+which Service Provider provides a Service to any Service Recipient or any Third-Party Provider fails to provide for any reason a service
+pursuant to which Service Provider provides a Service to any Service Recipient, then Service Provider shall use commercially reasonable
+efforts to secure the continued provision of that service from such Third-Party Provider, itself or its Affiliates (to the extent practicable)
+or an alternative service provider;  provided  that in no event shall Service Provider be required to pay any money or other consideration
+(unless SpinCo agrees to reimburse Service Provider therefor) or grant any material concession to any Person (including any material amendment
+to any contract) or to initiate any claim or proceeding against any Person in connection therewith;  provided, further,  that Service
+Provider shall not incur any such costs without the prior written consent of SpinCo. Without duplication of any amount included in the
+Service Costs for the applicable Service, the costs relating to obtaining any such continued provision of service from a Third-Party Provider
+or alternative service provider shall be split evenly between the Parties (i.e., 50/50). If Service Provider is unable to secure such
+continued provision of service from such Third-Party Provider or an alternative service provider despite its commercially reasonable efforts,
+Service Provider shall not be required to provide the affected Service.
+5
+Article 3
+Service Costs; Other Charges
+Section 3.01 . Service Costs Generally .
+In consideration for the Services provided hereunder, SpinCo agrees to pay to Service Provider (or the Service Provider Party designated
+by Service Provider) fees and costs for each Service to be provided under this Agreement as set forth opposite such Service on  Schedule
+A  (any such fees and costs being referred to herein as “ Service Costs ”). For the avoidance of doubt, except as
+expressly set forth herein or in  Schedule A , the Service Costs for each Service shall commence on the Effective Date. The Parties
+intend and agree that this Agreement provides for the orderly and efficient separation of the SpinCo Business from the SPGI Business following
+the Distribution Time and that the methods of calculation of the Service Costs hereunder shall permit Service Provider to receive full
+reimbursement for all reasonably apportioned actual overhead, administrative and supervisory costs and expenses incurred by Service Provider
+or its Affiliates in connection with the provision of the Services consistent with the manner in which Service Provider charges or receives
+reimbursement from its Affiliates from time to time (including all pertinent cost components, together with any other amounts agreed to
+in writing by the Parties). If at any time Service Provider reasonably believes that the Service Costs are insufficient to compensate
+it for the actual costs of providing any Services it is obligated to provide (or cause to be provided) hereunder based on the manner in
+which Service Provider charges or receives reimbursement from its Affiliates from time to time, Service Provider shall notify SpinCo and
+Service Provider shall adjust the pricing of such Services for the remainder of the Service Period (and, if applicable, invoice SpinCo
+for any true-up amounts for previously invoiced Service Costs). Notwithstanding anything in this Agreement to the contrary and for the
+avoidance of doubt, (a) Service Provider can only adjust the Service Costs during the Term in a manner that (i) is consistent
+with its current practices, (ii) is not arbitrary, and (iii) does not disadvantage SpinCo relative to Service Provider and its
+Affiliates; (b) Service Costs shall only include the portion of such actual overhead, administrative and supervisory costs and expenses
+to the extent such portion is attributable to providing the Services to SpinCo under this Agreement; (c) Service Provider shall be
+solely responsible for the portion of any such overhead, administrative and supervisory costs and expenses that is attributable to the
+SPGI Business or that otherwise benefits Service Provider or its Affiliates outside of the provision of the Services; (d) SpinCo
+shall have no obligation to pay or reimburse any portion of any such costs or expenses not actually incurred by Service Provider or its
+Affiliates; and (e) the Service Costs shall not include, and SpinCo shall not be responsible for, any costs or expenses incurred
+by Service Provider in connection with winding down, exiting, restructuring or otherwise ceasing any aspect of Service Provider’s
+business, operations or third-party arrangements supporting the SpinCo Business as of the Effective Date that would have otherwise been
+incurred by Service Provider as a result of the transactions contemplated by the Separation Agreement independent of the provision of
+Services under this Agreement.
+Section 3.02 . Right to Offset . Except
+as otherwise set forth in  Schedule A  or in  Section 2.09(c)  of the Separation Agreement, SpinCo hereby unconditionally
+and irrevocably waives any rights of set-off, netting, offset, recoupment, or similar right that SpinCo has or may have with respect to
+the payment of the Service Costs or any other payments to be made by SpinCo pursuant to this Agreement;  provided that  SpinCo may
+withhold disputed amounts pending resolution under  Section 3.04(c) .
+6
+Section 3.03 . Taxes.
+(a)            Without
+duplication of any amount included in the Service Costs, SpinCo (or its applicable Affiliate) shall be responsible for and shall pay all
+applicable sales, use, excise, services, transfer, payroll, employment or similar taxes, levies and charges (other than VAT (as defined
+below), which is the subject of  ‎Section 3.03(c) ), together with any interest, penalties and additions thereto (“ Service
+Taxes ”) imposed by or payable with respect to applicable taxing authorities on the provision of the Services to the Service
+Recipients or on any payment hereunder. Such Service Taxes shall be itemized on invoices submitted by Service Provider to SpinCo pursuant
+to  Section 3.04(a).  If Service Provider or any Affiliate of Service Provider is required to pay any part of such Service Taxes,
+Service Provider (or Affiliate) shall provide SpinCo with evidence that such Service Taxes have been paid. Service Taxes shall be incremental
+to other payments or charges identified in this Agreement. If Service Provider or any of its Affiliates is required to pay any part of
+such Service Taxes, SpinCo (or its applicable Affiliate) shall reimburse Service Provider (or its applicable Affiliate) for such Service
+Taxes. For the avoidance of doubt, Service Provider and not SpinCo shall be responsible for any interest, penalties, fees, or additions
+to tax that were caused by Service Provider’s failure to timely pay Service Taxes as required by Applicable Law, gross negligence
+or willful misconduct. Each Party shall, and shall cause its Affiliates to, use commercially reasonable efforts to avail itself of any
+available exemptions from such Service Taxes and to cooperate with the other Party in providing any information or documentation that
+may be necessary to obtain such exemptions.
+(b)            All
+sums payable under this Agreement shall be paid free and clear of all deductions or withholdings in respect of any taxes, levies or charges
+unless the deduction or withholding is required by Applicable Law, in which event SpinCo shall promptly notify Service Provider of such
+required withholding and the amount of the payment due from SpinCo (or its applicable Affiliate) shall be increased (such increase, an
+“ Additional Amount ”) to an amount which after any withholding or deduction leaves an amount equal to the payment which
+would have been due if no such deduction or withholding had been required. SpinCo shall withhold (or cause to be withheld) such taxes,
+levies or charges and pay (or cause to be paid) such withheld amounts over to the applicable taxing authority in accordance with the requirements
+of the Applicable Law and provide Service Provider with an official receipt confirming payment. The Parties agree to use commercially
+reasonable efforts to reduce or eliminate taxes, levies or charges (including, without limitation, pursuant to any applicable double taxation
+or similar treaty) or receive a refund of, or to claim a tax credit for, such taxes, for which an Additional Amount would otherwise be
+payable under this ‎ Section 3.03(b) . For the avoidance of doubt, if SpinCo secures a refund of any such taxes, the benefit
+of any such refund shall inure exclusively to SpinCo.
+(c)            If
+anything done by Service Provider under this Agreement is a supply on which VAT is chargeable, SpinCo shall pay to Service Provider (in
+addition to any other amounts payable under this Agreement) an amount equal to any VAT so chargeable. Where SpinCo is obligated under
+this Agreement to reimburse Service Provider for any fee, cost, charge or expense, the amount which SpinCo is required to pay in respect
+of such matter shall include any VAT incurred by Service Provider (or any member of a group to which Service Provider belongs for VAT
+purposes). “ VAT ” shall mean value added tax as levied in accordance with (but subject to derogation from) Council Directive
+2006/112/EC or any similar tax outside the European Union.
+7
+Section 3.04 . Invoicing and Settlement
+of Service Costs .
+(a)            Unless
+Schedule A  provides otherwise or the Parties agree in writing to a different arrangement, Service Provider shall invoice SpinCo
+on a monthly basis (not later than thirty (30) days following the applicable month) during the Service Period for Service Costs and any
+applicable Service Taxes incurred hereunder in respect of the prior month, including reasonable supporting data (the date of delivery
+of such invoice, the “ Invoice Date ”);  provided  that no delay in delivery of an invoice shall affect SpinCo’s
+obligation to pay the full amount of such invoice (subject to  ‎Section 3.04(c) ). All such invoices and payments shall
+be made in U.S. dollars.
+(b)            SpinCo
+agrees to pay, on or before the date that is thirty (30) days after the Invoice Date (such date, the “ Payment Date ”),
+by wire transfer of immediately available funds payable to the order of Service Provider or to such account or accounts designated by
+Service Provider, all undisputed amounts specified in the invoice delivered pursuant to ‎ Section 3.04(a) . If SpinCo fails
+to pay any invoiced amount on or before the applicable Payment Date, SpinCo shall be obligated to pay, in addition to the past due amount,
+interest on such amount at a rate of twelve percent (12%) per annum, compounded monthly from the applicable Payment Date through the date
+payment is fully and effectively made;  provided  that such interest rate shall not exceed the maximum rate permitted by Applicable
+Law.
+(c)            If
+there is a good faith dispute (an “ Invoice Dispute ”) between Service Provider and SpinCo regarding any amount set forth
+in any invoice, the disputing Party shall promptly (and in any event, no later than fifteen (15) days following the applicable Invoice
+Date) notify the other Party in writing (each such notice, an “ Invoice Dispute Notice ”) of each amount that is the
+subject of the Invoice Dispute (the “ Invoice Dispute Amount ”) and the basis therefor. If the Invoice Dispute concerns
+a Service delivered by Service Provider or its Affiliates without relying on a Third-Party Provider, the Invoice Dispute Amount shall
+be excluded from the amount due pursuant to ‎ Section 3.04(b)  until resolution of the Invoice Dispute in accordance
+with the procedures set forth in this ‎ Section 3.04(c) ;  provided  that any undisputed portion of such invoice shall
+be included in the calculation of the amount due pursuant to ‎ Section 3.04(b)  and paid in accordance with  ‎Section 3.04(b) .
+If the Invoice Dispute concerns a Service delivered by Service Provider or its Affiliates pursuant to an agreement with a Third-Party
+Provider, SpinCo shall pay the Invoice Dispute Amount (and in the case of an Invoice Dispute Amount that is a recurring cost, continue
+to pay such amounts) to Service Provider pursuant to  ‎Section 3.04(b)  and SpinCo shall not be entitled to deduct
+or withhold such amount from Service Provider in respect of any other Services. The Parties shall cooperate and use their commercially
+reasonable efforts to resolve such Invoice Dispute. If the Parties are unable to resolve the Invoice Dispute within fifteen (15) Business
+Days after the applicable Party’s receipt of the Invoice Dispute Notice, then either Party may refer the Invoice Dispute for resolution
+to a mutually agreed upon independent accounting firm of recognized national standing (the “ Invoice Accounting Referee ”),
+which shall determine the disputed amounts payable. The determinations of the Invoice Accounting Referee shall be final and binding on
+the Parties. The fees and expenses of the Invoice Accounting Referee shall be borne (i) solely by SpinCo if the disputed items submitted
+to the Invoice Accounting Referee by SpinCo are unsuccessfully disputed (as finally determined by the Invoice Accounting Referee), (ii) solely
+by Service Provider if the disputed items submitted to the Invoice Accounting Referee by SpinCo are successfully disputed (as finally
+determined by the Invoice Accounting Referee), and (iii) by the Parties in proportion to the relative success of each Party with
+respect to such disputed items, based on the aggregate amount of the disputed items that are resolved in favor of each Party, if the Invoice
+Accounting Referee determines that SpinCo was successful in part and unsuccessful in part. If, based on the determinations of the Invoice
+Accounting Referee any amount is owed by one Party to the other Party, then the applicable Party shall promptly pay such amount, which
+in no event shall be less than thirty (30) days following the Invoice Accounting Referee’s final determination for the dispute.
+8
+Article 4
+The Services
+Section 4.01 . Standards of Service .
+(a)            Unless
+Schedule A  indicates otherwise or the Parties agree in writing to a different arrangement, Service Provider shall provide (or cause
+to be provided) the Services hereunder (i) in a manner, volume, nature, quality and standard of care that is substantially the same
+in all material respects as that of similar services that Service Provider provided (or caused to be provided) to the SpinCo Business
+in the ordinary course of business during the Reference Period, and (ii) consistent with any service levels identified on  Schedule
+A  (the “ Services Standard ”).
+(b)            SpinCo
+shall (and shall cause its Affiliates and its and their respective Representatives to) make any and all relevant assets, information,
+facilities, IT Systems and applications or other materials of the SpinCo Business available to Service Provider for the provision
+of the Services. Service Provider shall not be responsible for any inability to provide a Service or any delay in doing so to the extent
+that such inability or delay is the result of the failure of the Service Recipients to timely provide any of the foregoing or any other
+access, materials, information, or cooperation used in or reasonably necessary for Service Provider to provide such Service.
+(c)            The
+Parties acknowledge and agree that Service Provider is not in the business of providing the Services to independent third parties and
+is providing the Services on a transitional basis only.
+Section 4.02 . Changes to the Services.
+It is understood and agreed that Service Provider may from time to time modify, substitute, supplement or otherwise alter any Service
+provided to the Service Recipients, including changing Third-Party Providers, in a manner that is generally consistent with modifications,
+substitutions, supplements or other alterations made for similar services provided or otherwise made available by Service Provider to
+the SPGI Business or as required by Applicable Law;  provided  that if the applicable Service is exclusively used by the Service
+Recipients, Service Provider shall seek SpinCo’s consent (not to be unreasonably withheld, conditioned or delayed) prior to making
+any such modification, substitution, supplementation or other alteration (it being understood that no such modification, substitution,
+supplementation or other alteration shall be undertaken with the intent of disadvantaging SpinCo relative to Service Provider or its Affiliate’s
+own organization). Service Provider shall furnish to SpinCo substantially the same notice (in content and timing), if any, as Service
+Provider furnishes to its own organization with respect to such modifications, substitutions, supplements or other alterations. In the
+event that any such modification, substitution, supplementation or other alteration materially adversely impacts the SpinCo Business,
+the Parties shall engage in good faith discussions to mitigate any such impact vis-à-vis the SpinCo Business. For the avoidance
+of doubt, any such modification, substitution, supplement or other alteration, or any temporary suspensions or interruptions to the Services
+arising out of Service Provider’s or any other Service Provider Party’s system maintenance activities, including as contemplated
+in  ‎Section 4.05(b ), will not be considered a breach of this Agreement and will not entitle SpinCo to an extension of
+the Service Period for any impacted Services.
+9
+Section 4.03.  Compliance Matters .
+(a)            In
+connection with this Agreement, each Party shall comply, and shall ensure that its Affiliates and its and their respective Representatives
+comply, with all Applicable Laws and all generally applicable policies or procedures of any Service Provider Party or Service Recipient
+as provided to the other Party in advance in writing. Notwithstanding anything in this Agreement to the contrary, Service Provider shall
+not be required to perform or cause to be performed any Service (or portion thereof) or any other obligation or action in connection with
+this Agreement that, in its reasonable opinion, conflicts with or violates any Applicable Law.
+(b)            If
+the performance of any Service subjects Service Provider or any of its Affiliates to a reasonable risk of violating Applicable Law or
+any Third-Party Provider’s policies or procedures, then Service Provider may immediately upon providing written notice of such fact
+to SpinCo (it being understood that Service Provider shall provide SpinCo with advance notice to the extent such notice is reasonably
+practicable under the circumstances and permitted by Applicable Law) suspend performance of such Service without liability;  provided
+that the Parties will use commercially reasonable efforts to promptly amend this Agreement to the extent necessary to revise the provision
+of such Service as nearly as possible to accomplishing the purpose of the intended Service in a mutually satisfactory manner and in a
+way that does not violate Applicable Law or any Third-Party Provider’s policies or procedures, and amend the applicable Service
+Costs (if necessary). With respect to any Service where performance has been suspended pursuant to this ‎ Section 4.03(b) ,
+unless and until the Parties are able to agree upon such an amendment to this Agreement, neither Party will have any obligation to the
+other Party with respect to such Service;  provided  that SpinCo shall remain liable for all Service Costs and Service Taxes owed
+and payable in respect of Services provided prior to the suspension of such Service.
+Section 4.04 . Management of Services.  Except
+as may otherwise be expressly provided in this Agreement, the management of and control over the provision of the Services, as between
+the Parties, shall reside solely with Service Provider, and subject to the Services Standard, Service Provider shall be permitted to choose
+the methodology, systems and applications it utilizes in the provision of such Services.
+Section 4.05.  Policies and Procedures;
+IT Systems and Data .
+(a)            Each
+Party shall (and shall cause its Affiliates and its and their respective Representatives to) (i) not permit any access to, access,
+or attempt to obtain access to, use or interfere with any IT Systems owned or licensed by the other Party or its Affiliates, or any data
+(including any Personal Information or Confidential Information) owned, controlled, used or processed by the other Party or its Affiliates
+(“ Data ”), except to the extent required to do so to provide or receive the Services (as applicable); (ii) limit
+access to such IT Systems and Data to its Representatives with a need to have such access in connection with the provision or receipt
+of the Services (as applicable); (iii) implement and maintain reasonable security measures to protect such IT Systems and Data to
+which it has access pursuant to this Agreement from access, destruction, alteration, or loss of such IT Systems and Data by unauthorized
+third parties, and the introduction of any “back door,” “time bomb,” “Trojan Horse,” “worm,”
+“drop dead device,” “virus” or other computer software routine intended or designed to disrupt, disable, harm
+or otherwise impede in any manner the operation of such IT Systems, which are no less rigorous than those otherwise maintained for its
+own IT Systems and Data; (iv) not permit any access to or use such IT Systems or Data by any third party other than as authorized
+by prior written consent of the other Party; (v) not disable, damage or erase or disrupt or impair the normal operation of such IT
+Systems; and (vi) comply with the security policies and procedures of the other Party and its Affiliates that are applicable to the
+use of the other Party’s IT Systems and Data, as provided to such Party in advance in writing (as may be updated from time to time
+in the ordinary course of business). Each Party acknowledges and agrees that any access to IT Systems provided to it by the other Party
+or its Affiliates in connection with this Agreement shall be via a secure method selected by the Party providing such access in its sole
+discretion.
+10
+(b)            Each
+Party shall (and shall cause its Affiliates and its and their respective Representatives to) comply with the internal policies, procedures,
+rules and regulations of the other Party as provided to such Party in writing in advance (as may be updated from time to time) applicable
+to (i) the use of the other Party’s information technology systems, computers, networks, telephone systems, software, data,
+equipment and other facilities in connection with the Services or (ii) such Party’s conduct while on the other Party’s
+premises or utilizing the other Party’s facilities in connection with the Services, in each case to the extent such policies, procedures,
+rules or regulations are applicable to the other Party’s own organization.
+(c)            Each
+Party hereby acknowledges that (i) each Party retains the right to protect the confidentiality and security of its IT Systems and
+Data, (ii) each Party and its Affiliates may, in the ordinary course of business, update its respective IT Systems, including those
+that may relate to the provision or receipt of the Services (as applicable) and (iii) each Party shall have the right to shut down
+temporarily, including for maintenance or upgrade purposes, the operation of any of its facilities or IT Systems providing or receiving
+any Service. In the case of the foregoing clause (iii), with respect to the Services dependent on the operation of such facilities or
+IT Systems, Service Provider shall be temporarily relieved of its obligations hereunder to provide such Services, and SpinCo shall be
+relieved of its obligations to pay any applicable Service Costs, during the period that such facilities or IT Systems are so shut down
+or suspended in compliance with this Agreement, including under this  ‎Section 4.05(c) , but, in the case such shutdown
+or suspension is to Service Provider’s facilities or IT Systems, Service Provider shall use commercially reasonable efforts to minimize
+each period of shutdown or suspension and the impact it has on such Services and the SpinCo Business. In the event that either Party reasonably
+anticipates that a shutdown or suspension period will exceed forty-eight (48) hours, such Party shall promptly provide written notice
+to the other Party of the same, and such notice shall include the anticipated duration of the shutdown or suspension period, a description
+of the impacted Services and, to the extent available, a description of efforts taken to minimize such shutdown or suspension period.
+(d)            In
+the event that either Party becomes aware of an actual or suspected unauthorized, accidental or unlawful access, acquisition, use, exfiltration,
+theft, disablement, destruction, loss, alteration, disclosure, or transmission of any IT Systems, Confidential Information or Personal
+Information of the other Party or any of its Affiliates or that is reasonably likely to relate to or otherwise affect any Service (including
+any data processing activities provided as part of any Service) or any Confidential Information or Personal Information of the other Party
+or its Affiliates (each, a “ Cybersecurity Incident ”), then such Party shall promptly without undue delay notify the
+other Party of the existence of the Cybersecurity Incident in accordance with the requirements in the Data Processing Addendum set forth
+in  Schedule B  hereunder. The notifying Party shall provide reasonable information regarding the nature and scope of the Cybersecurity
+Incident and shall cooperate with the other Party in investigating, mitigating, and remediating the Cybersecurity Incident and determining
+the nature and scope of any required notifications under any Applicable Laws.
+Section 4.06.  Limitations .
+(a)            It
+is understood that the Services to be provided to the Service Recipients under this Agreement shall only be provided for the purposes
+of conducting the SpinCo Business and facilitating an orderly separation of the SpinCo Business from the SPGI Business following the Distribution
+Time. Neither SpinCo, nor any of its Affiliates or Representatives, may resell, license the use of or otherwise permit the use by others
+of any Services, except with the prior written consent of Service Provider.
+11
+(b)            In
+providing the Services, in each case except as expressly set forth herein or on  Schedule A , no Service Provider Party shall be
+obligated to: (i) hire or engage, or maintain the employment of, any specific employee or Third-Party Provider; (ii) initiate
+any claim or proceeding against any Person; (iii) purchase, lease or license any additional equipment, hardware or Intellectual
+Property Rights; or (iv) upgrade any equipment, hardware or Intellectual Property Rights.
+(c)            SpinCo
+acknowledges and agrees that the Services provided by Service Provider and its Affiliates through Third-Party Providers or using third-party
+Intellectual Property Rights are subject to the terms and conditions of any applicable agreements between Service Provider and its Affiliates
+and such Third-Party Providers. SpinCo shall comply, and cause its Affiliates and its and their respective Representatives to comply,
+with the terms of such agreements to the extent they are relevant to the receipt of the Services and have been provided in advance to
+SpinCo.
+Section 4.07.  Service Coordinators .
+Service Provider and SpinCo shall each nominate a representative to act as the primary contact person with respect to the provision and
+receipt of the Services (the “ Service Coordinators ”). The initial Service Coordinators shall be [***] for Service Provider
+and [***] for SpinCo. Each Party may change its Service Coordinator from time to time at its sole discretion by providing prior written
+notice to the other Party (including contact information for such Service Coordinator). Unless otherwise agreed to in writing by the Parties,
+all communications relating to the day-to-day provision and receipt of the Services shall be directed to the Service Coordinators. The
+Service Coordinators shall work in good faith and use commercially reasonable efforts to effectuate a smooth transition of the Services
+from Service Provider to SpinCo (or its designee) on the terms and subject to the conditions set forth in this Agreement. The Service
+Coordinators (or their respective delegates) shall meet or confer, by telephone or in person, from time to time as necessary, and at least
+once per month or otherwise as the Parties agree, during the Term in order to promote open and efficient communication regarding effective
+and coordinated performance of, and the resolution of questions and issues related to, the Services.
+Section 4.08.  Migration Plan.  Within
+forty-five (45) Business Days of the Distribution Time (or such other time as agreed between the Parties in writing), the Service Coordinators
+shall agree on a plan for the migration of the Services to, and performance of the Services by, SpinCo or an alternative third-party supplier
+of the Services following the end of each Service Period, including as it relates to the transfer or conversion of the SpinCo Business’
+data from Service Provider’s IT Systems (the “ Migration Plan ”). Service Provider shall perform any tasks allocated
+to it in the Migration Plan;  provided  that, subject to any allocation of costs set forth on  Schedule A , as between the Parties,
+(a) SpinCo bear all costs of all “stand up” activities (i.e., activities that are necessary for SpinCo to be able to
+migrate from the Services, including the procurement, implementation and configuration of SpinCo IT Systems, the migration and integration
+of SpinCo Business data that is extracted from Service Provider’s IT Systems into SpinCo’s IT Systems and the procurement
+of any necessary software licenses) and (b) Service Provider shall bear all costs of extracting the SpinCo Business’ data from
+Service Provider’s IT Systems and otherwise separating and segregating data, information and systems to be delivered to SpinCo in
+connection with the migration of Services from Service Provider.
+12
+Article 5
+Disclaimer, Liability And Indemnification
+Section 5.01.  Indemnification of Service
+Provider by SpinCo . SpinCo agrees to indemnify and hold harmless Service Provider, its Affiliates, and its and their respective Representatives
+and successors and assigns (each, a “ Service Provider Indemnified Person ”) from and against any and all damage, loss,
+liability and expense (including reasonable expenses of investigation and reasonable attorneys’ fees and expenses) in connection
+with any Action involving a Third-Party Claim (“ Damages ”), and to reimburse each Service Provider Indemnified Person
+for all reasonable expenses (including reasonable attorneys’ fees) as they are incurred in investigating, preparing, pursuing or
+defending any such Actions, whether or not in connection with pending or threatened in writing litigation, in each case arising out of
+(a) any Service Recipient Indemnified Person’s breach of this Agreement or (b) any Service Recipient Indemnified Person’s
+gross negligence, willful misconduct or fraud;  provided  that SpinCo shall not be responsible for any Damages to the extent (and
+solely to the extent) Service Provider is required to indemnify a Service Recipient Indemnified Person pursuant to ‎ Section 5.02 .
+Section 5.02 . Indemnification of SpinCo
+by Service Provider . Service Provider agrees to indemnify and hold harmless SpinCo, its Affiliates, and its and their respective Representatives
+and successors and assigns (each, a “ Service Recipient Indemnified Person ”) from and against any Damages, and to reimburse
+each Service Recipient Indemnified Person for all reasonable expenses (including reasonable attorneys’ fees) as they are incurred
+in investigating, preparing, pursuing or defending any Action, whether or not in connection with pending or threatened in writing litigation,
+in each case arising out of (a) any Service Provider Indemnified Person’s breach of this Agreement or (b) any Service
+Provider Indemnified Person’s gross negligence, willful misconduct or fraud;  provided  that Service Provider shall not be
+responsible for any Damages to the extent (and solely to the extent) SpinCo is required to indemnify a Service Provider Indemnified Person
+pursuant to  ‎Section 5.01 .
+Section 5.03 . Third-Party
+Claim Procedures.
+(a)            Any
+Person seeking indemnification under this  ‎Article 5  (the “ Indemnified Party ”) shall give prompt written
+notice to the Person from whom indemnification may be sought (the “ Indemnifying Party ”) of the assertion or commencement
+of any Action by any third party (“ Third-Party Claim ”);  provided  that the failure of the Indemnified Party to
+give notice as provided in this  ‎Section 5.03(a)  shall not relieve any Indemnifying Party of its obligations under
+‎Section 5.01  or  ‎Section 5.02 , except to the extent that such failure actually prejudices the rights
+of any such Indemnifying Party. Such notice shall set forth in reasonable detail the Third-Party Claim and the basis for indemnification
+(taking into account the information then available to the Indemnified Party). Thereafter, the Indemnified Party shall deliver to the
+Indemnifying Party, as promptly as reasonably practicable following the Indemnified Party’s receipt thereof, copies of all written
+notices and documents (including any court papers) received by the Indemnified Party relating to the Third-Party Claim and the Indemnified
+Party shall provide the Indemnifying Party with such other information with respect to any such Third-Party Claim reasonably requested
+by the Indemnifying Party. The Indemnifying Party shall have the right, at its sole option and expense, to be represented by counsel of
+its choice and, subject to the limitations set forth in this  ‎Section 5.03(a) , to assume control of, and defend against,
+negotiate, settle (subject to  ‎Section 5.03(b) ) or otherwise deal with such Third-Party Claim, in each case other than
+where such Third-Party Claim (i) relates to or arises in connection with any criminal proceeding, action, indictment, allegation
+or investigation or (ii) seeks, in addition to or in lieu of monetary damages, any injunctive or other equitable relief (other than
+such relief that is incidental to the award of money damages). If the Indemnifying Party elects not to defend against, negotiate, settle
+or otherwise deal with any Third-Party Claim, then the Indemnified Party may defend against, negotiate, settle (subject to ‎ Section 5.03(b) )
+or otherwise deal with such Third-Party Claim. If the Indemnifying Party shall assume the defense of any Third-Party Claim, then the Indemnified
+Party may participate, at his or its own expense, in the defense of such Third-Party Claim;  provided  that such Indemnified Party
+shall be entitled to participate in any such defense with separate counsel at the expense of the Indemnifying Party if (A) requested
+by the Indemnifying Party to participate or (B) in the reasonable opinion of counsel to the Indemnifying Party, a material conflict
+exists between the Indemnified Party and the Indemnifying Party that would make such separate representation advisable;  provided ,
+further , that the Indemnifying Party shall not be required to pay for more than one (1) such counsel (and one (1) local
+counsel in each relevant jurisdiction) for all Indemnified Parties in connection with any Third-Party Claim.
+13
+(b)            Notwithstanding
+anything in this  ‎Section 5.03  to the contrary, neither the Indemnifying Party nor the Indemnified Party shall, without
+the written consent of the other Party, settle or compromise any Third-Party Claim or consent to entry of any judgment;  provided
+that if the Indemnifying Party has assumed control of the defense of a Third-Party Claim pursuant to  ‎Section 5.03(a) ,
+the Indemnified Party shall not unreasonably withhold, condition or delay its consent to any such settlement or compromise or to the entry
+of any judgment. Notwithstanding the foregoing, consent of the Indemnified Party shall not be required for any such settlement if (i) the
+sole relief provided is monetary damages that are paid in full by the Indemnifying Party, (ii) such settlement does not permit any
+order or other equitable relief to be entered, directly or indirectly, against the Indemnified Party or any of its Affiliates and (iii) such
+settlement includes an unconditional release of such Indemnified Party and its Affiliates from all liability on claims that are the subject
+matter of such Third-Party Claim and does not include any statement as to or any admission of fault, culpability or failure to act by
+or on behalf of any Indemnified Party or any of its Affiliates.
+(c)            After
+any decision, judgment or award shall have been rendered by a Governmental Authority of competent jurisdiction, or a settlement shall
+have been consummated (in accordance with this ‎ Section 5.03 ), or the Indemnified Party and the Indemnifying Party shall
+have arrived at a mutually binding agreement with respect to a Third-Party Claim hereunder, the Indemnified Party shall forward to the
+Indemnifying Party notice of any sums due and owing by the Indemnifying Party pursuant to this Agreement with respect to such matter.
+(d)            Each
+Party shall cooperate, and cause its Affiliates to cooperate, in the defense or prosecution of any Third-Party Claim and shall furnish
+or cause to be furnished such records, information and testimony, and attend such conferences, discovery proceedings, hearings, trials
+or appeals, as may be reasonably requested in connection therewith.
+Section 5.04 . Calculation of Damages.  The
+amount of any Damages payable under   ‎   Section 5.01  or   ‎   Section 5.02  by the
+Indemnifying Party shall be net of any amounts recovered by the Indemnified Party under applicable insurance policies or from any other
+Person alleged to be responsible therefor. If the Indemnified Party receives any amounts under applicable insurance policies, or from
+any other Person alleged to be responsible for any Damages, subsequent to an indemnification payment by the Indemnifying Party, then such
+Indemnified Party shall promptly reimburse the Indemnifying Party for any payment made or expense incurred by such Indemnifying Party
+in connection with providing such indemnification payment up to the amount received by the Indemnified Party, net of any expenses incurred
+by such Indemnified Party in collecting such amount.
+14
+Section 5.05 . E xclusion
+Of Warranties .  WITHOUT LIMITING SERVICE PROVIDER’S OBLIGATION TO PROVIDE THE SERVICES IN THE MANNER AND AS OTHERWISE
+AS EXPRESSLY REQUIRED BY  SECTION 4.01 , THE SERVICES, LICENSES IN  ‎SECTION 7.01(B)  AND  ‎SECTION 7.01(C) ,
+AND RIGHTS GRANTED TO SPINCO HEREUNDER ARE PROVIDED AND GRANTED “AS-IS” WITH NO WARRANTIES, AND SERVICE PROVIDER EXPRESSLY
+EXCLUDES AND DISCLAIMS AND WAIVES ANY WARRANTIES UNDER OR ARISING AS A RESULT OF THIS AGREEMENT, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING
+ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TIMELINESS, TITLE, NON-INFRINGEMENT OR ANY OTHER WARRANTY
+WHATSOEVER.
+Section 5.06.  Limitation of Liability .
+(a)            OTHER
+THAN WITH RESPECT TO CLAIMS ARISING FROM THE GROSS NEGLIGENCE, WILLFUL MISCONDUCT OR FRAUD OF THE OTHER PARTY OR A PARTY’S BREACH
+OF ITS CONFIDENTIALITY OBLIGATIONS HEREUNDER, OR TO THE EXTENT AWARDED BY A COURT OF COMPETENT JURISDICTION IN A FINAL JUDGEMENT IN CONNECTION
+WITH A PARTY’S INDEMNIFICATION OBLIGATIONS HEREUNDER, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, NO PARTY WILL BE LIABLE
+FOR ANY (I) INDIRECT, PUNITIVE, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR TREBLED DAMAGES (IN EACH CASE, EXCEPT TO THE EXTENT PAYABLE
+TO A THIRD PARTY IN RESPECT OF A THIRD-PARTY CLAIM BASED ON A FINAL JUDGMENT OF A COURT OF COMPETENT JURISDICTION) OR (II) LOST PROFITS,
+DIMINUTION IN VALUE, MULTIPLE-BASED OR OTHER DAMAGES CALCULATED BASED ON A MULTIPLE OF ANOTHER FINANCIAL MEASURE, IN EACH CASE, ARISING
+OUT OF, OR RELATING TO, THIS AGREEMENT, EVEN IF SUCH PARTY HAD BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+(b)            NOTWITHSTANDING
+ANY OTHER PROVISION CONTAINED IN THIS AGREEMENT, OTHER THAN WITH RESPECT TO CLAIMS (I) ARISING FROM THE GROSS NEGLIGENCE, WILLFUL
+MISCONDUCT OR FRAUD OF THE OTHER PARTY, (II) FOR SERVICE COSTS, SERVICE TAXES, EARLY TERMINATION COSTS OR OTHER AMOUNTS OWED BY EITHER
+PARTY UNDER THIS AGREEMENT OR (III) FOR A PARTY’S BREACH OF ITS CONFIDENTIALITY OBLIGATIONS HEREUNDER, IN NO EVENT SHALL
+EITHER PARTY’S MAXIMUM AGGREGATE LIABILITY TO THE OTHER PARTY FOR ANY AND ALL CLAIMS ARISING OUT OF, OR IN CONNECTION WITH, THIS
+AGREEMENT, ITS TERMINATION, OR EXPIRATION, WHETHER SUCH LIABILITY ARISES FROM ANY CLAIM BASED UPON CONTRACT, WARRANTY, TORT, FAILURE
+OF ESSENTIAL PURPOSE, TRADE USAGE, OR OTHERWISE, EXCEED THE AGGREGATE AMOUNT OF SERVICE COSTS ACTUALLY PAID OR PAYABLE TO SERVICE PROVIDER
+UNDER THIS AGREEMENT.
+(c)            Each
+Party agrees that it shall, in all circumstances, use commercially reasonable efforts to mitigate and otherwise minimize its Damages and
+those of any of its Affiliates and its and their respective Representatives, whether direct or indirect, due to, resulting from or arising
+in connection with any failure by the other Party to comply fully with its obligations under this Agreement.
+15
+Article 6
+Term and Termination
+Section 6.01 . Term.  The term of this
+Agreement (the “ Term ”) shall commence on the Effective Date and, unless earlier terminated pursuant to  ‎Section 6.02 ,
+shall terminate in its entirety upon the earliest to occur of (a) the expiration of the Service Periods of all Services or (b) the
+mutual written consent of the Parties to terminate this Agreement;  provided  that the provisions of  Sections ‎3.02 ,  ‎3.03 ,
+‎ 3.04 ,  ‎3.04 ,  ‎3.04 , 6.03, and  ‎Section 7.01  and  Articles ‎5 , and  ‎8
+shall survive any such termination indefinitely.
+Section 6.02 . Termination.  Except as
+otherwise provided in  Schedule A , and subject to ‎ Section 2.02 , this Agreement may be terminated as follows:
+(a)            by
+SpinCo, at any time with respect to all or part of the Services that it receives, if (i) Service Provider shall have failed
+to perform any of its material obligations under this Agreement relating to any such Service, (ii) SpinCo shall have notified Service
+Provider in writing of such failure and (iii) such failure (A) shall have continued uncured for a period of thirty (30) days
+or more after receipt by Service Provider of such written notice thereof or (B) is incapable of remedy;
+(b)            by
+Service Provider, at any time with respect to all or part of the Services that it provides, if (i) SpinCo shall have failed to perform
+any of its material obligations under this Agreement relating to any such Service, (ii) Service Provider shall have notified SpinCo
+in writing of such failure and (iii) such failure (A) shall have continued uncured for a period of thirty (30) days or more
+after receipt by SpinCo of such written notice thereof or (B) is incapable of remedy (for the avoidance of doubt, it is understood
+and agreed by the Parties that the failure by SpinCo to pay the full undisputed and unresolved portion of any invoice when due shall be
+considered a breach by SpinCo of a material obligation of SpinCo under this Agreement);
+(c)            by
+either Party with immediate effect upon serving written notice upon the other Party if the other Party suffers an Insolvency Event (as
+defined below); or
+(d)            subject
+to 4.03(b), by either Party with immediate effect with respect to a particular Service if either Party receives notice from a Governmental
+Authority that it is or will be in violation of an Applicable Law as a result of its provision or receipt of such Service.
+For purposes of this ‎ Section 6.02 ,
+with respect to either Party (such Party, the “ Subject Entity ”), an “ Insolvency Event ” means (i) the
+making by the Subject Entity of any assignment for the benefit of creditors of all or substantially all of its assets or the admission
+by such Subject Entity in writing of its inability to pay all or substantially all of its debts as they become due; (ii) the adjudication
+of such Subject Entity as bankrupt or insolvent or the filing by such Subject Entity of a petition or application to any tribunal for
+the appointment of a trustee or receiver for such Subject Entity or any substantial part of the assets of such Subject Entity; or (iii) the
+commencement of any voluntary or involuntary bankruptcy proceedings (and, with respect to involuntary bankruptcy proceedings, the failure
+to be discharged within sixty (60) days), reorganization proceedings or similar proceeding with respect to such Subject Entity or the
+entry of an order appointing a trustee or receiver or approving a petition in any such proceeding.
+16
+Section 6.03 . Effect of Termination.
+(a)            Other
+than as required by Applicable Law, upon termination of any Service pursuant to  ‎Section 2.02 , ‎ Section 4.03
+or ‎ Section 6.02 , Service Provider shall have no further obligation to provide the terminated Service and SpinCo shall
+have no obligation to pay any Service Costs relating to such Services;  provided  that, notwithstanding such termination, SpinCo
+shall remain liable to Service Provider for (i) all Service Costs and Service Taxes owed and payable in respect of Services provided
+prior to the effective date of the termination, and (ii) any Early Termination Costs consistent with  Section 2.02(c)  (if
+applicable).
+(b)            After
+each Service is terminated, each Party shall return to the other Party or destroy all materials and property owned by the other Party
+and all Confidential Information of the other Party, in each case, relevant solely to the provision or receipt of such terminated Service
+and no longer needed regarding the performance of other Services under this Agreement, and shall do so (and shall cause its Affiliates
+and its and their respective Representatives to do so) within thirty (30) days after the applicable termination or expiration date;  provided,
+however , that (i) notwithstanding the foregoing, any data required to be returned or destroyed by either Party hereunder shall
+be purged by such Party solely in accordance with such Party’s ordinary course data retention practices (it being understood that,
+in the event of any conflict between such practices and this  ‎Section 6.03(b) , such practices shall control) and (ii) nothing
+in this ‎ Section 6.03(b)  shall require either Party to return or destroy any of its business records unrelated to
+the other Party).
+(c)            Termination
+of this Agreement as provided for herein shall not prejudice or affect any rights or remedies which shall have accrued or shall thereafter
+accrue to either Party.
+Article 7
+Additional Agreements
+Section 7.01 . Intellectual Property.
+(a)            Nothing
+in this Agreement shall affect (i) the ownership by either Party, its Affiliates, or their respective licensors of Intellectual Property
+Rights owned by, or licensed to such Party or its Affiliates (including rights in proprietary software and third-party software) as of
+the Effective Date (“ Background IP ”) or (ii) the licenses granted by the Parties to each other under the Separation
+Agreement. Each Party or its Affiliates shall be the sole and exclusive owner of any Improvements to its Background IP authored, conceived,
+developed, acquired or reduced to practice by either Party or its Affiliates pursuant to this Agreement, and each Party hereby irrevocably
+assigns, and shall cause its Affiliates to assign, to the other Party (or its designated Affiliate) any and all of its or their right,
+title and interest in and to any such Improvements to the other Party’s Background IP. For the purposes of this Agreement, Background
+IP of Service Provider and its Affiliates shall not include SpinCo Licensed IP, and Background IP of SpinCo and its Affiliates shall not
+include SPGI Licensed IP.
+(b)            Subject
+to the terms and conditions of this Agreement, with respect to each Service, Service Provider (on behalf of itself and its Affiliates)
+hereby grants to the Service Recipients a limited, non-exclusive, royalty-free, non-sublicensable, non-assignable (except as expressly
+provided in ‎ Section 8.10 ) license on an “as is,” warranty-free basis, solely during the applicable Service
+Period, to use any Intellectual Property Right (other than any Trademarks) that is (i) Sublicensable by Service Provider or its Affiliates
+and (ii) provided or otherwise made available by Service Provider or its Affiliates to the Service Recipients as part of such Service,
+but in each case solely if and to the extent necessary for the Service Recipients to receive and use such Service as provided for and
+in accordance with this Agreement, subject to any applicable third-party restrictions or limitations.
+17
+(c)            Subject
+to the terms and conditions of this Agreement, with respect to each Service, SpinCo (on behalf of itself and its Affiliates) hereby grants
+to each applicable Service Provider Party a limited, non-exclusive, royalty-free, non-assignable (except as expressly provided in ‎ Section 8.10 )
+license on an “as is,” warranty-free basis, solely during the applicable Service Period, to use any Intellectual Property
+Right (other than any Trademarks) that is (i) Sublicensable by SpinCo or its Affiliates and (ii) provided or otherwise made
+available by SpinCo or its Affiliates to the Service Provider Party, but in each case solely if and to the extent necessary for the applicable
+Service Provider Party to perform such Service as provided for and in accordance with this Agreement.
+(d)            Subject
+to  Section 7.01(a) , except as expressly otherwise set forth on  Schedule A  with respect to a specific Service, and unless
+otherwise agreed by the Parties in writing, as between the Parties, Service Provider or its applicable Affiliate shall solely and exclusively
+own all right, title and interest in and to all Intellectual Property Rights (other than Trademarks) authored, conceived, developed, acquired
+or reduced to practice by any Service Provider Party, whether alone or jointly with any other Person, in connection with providing or
+making available any Services during the Service Period (“ Developed Intellectual Property ”),  provided that  SpinCo
+shall own all right, title and interest in and to all Developed Intellectual Property that is exclusively related to the SpinCo Business
+(any such Developed Intellectual Property, “ SpinCo Developed Intellectual Property ”). SpinCo hereby irrevocably assigns,
+and shall cause its Affiliates to assign, to Service Provider (or its designated Affiliate) all of its or their right, title and interest
+in and to all Developed Intellectual Property (other than SpinCo Developed Intellectual Property), and hereby waives any and all moral
+rights that it or they may have in all such Developed Intellectual Property. Service Provider hereby irrevocably assigns, and shall cause
+its Affiliates to assign, to SpinCo (or its designated Affiliate) all of its or their right, title and interest in and to all SpinCo Developed
+Intellectual Property, and hereby waives any and all moral rights that it or they may have in all SpinCo Developed Intellectual Property.
+The Parties agree to execute all other documents and take all actions as may be necessary or desirable to enable the other Party to prosecute,
+perfect, enforce, defend, register or record its right, title and interest in, to and under the Developed Intellectual Property or SpinCo
+Developed Intellectual Property, as applicable.
+(e)            EXCEPT
+AS EXPRESSLY SET FORTH IN THIS  ‎SECTION 7.01 , NO LICENSES OR ANY OTHER RIGHT, TITLE OR INTEREST IN OR TO ANY INTELLECTUAL
+PROPERTY RIGHTS OR OTHER ASSETS ARE GRANTED TO EITHER PARTY OR ANY OF ITS AFFILIATES UNDER THIS AGREEMENT, WHETHER BY IMPLICATION, ESTOPPEL,
+EXHAUSTION OR OTHERWISE, AND EACH PARTY RETAINS AND RESERVES ANY AND ALL RIGHT, TITLE AND INTEREST NOT EXPRESSLY GRANTED UNDER THIS AGREEMENT.
+18
+Section 7.02 . Data Protection Laws and
+Processing of Personal Information . Each Party shall, and shall cause its Affiliates and its and their respective Representatives
+to (and Service Provider shall use commercially reasonable efforts to cause its Third-Party Providers to), comply with any and all Applicable
+Laws associated with the confidentiality, collection, use, handling, security, protection, disclosure, transfer, movement or other processing
+of Personal Information, including those relating to electronic data privacy, data breach notification, and transborder data flow, in
+connection with the Services. Without limitation of the foregoing, each Party shall, and shall cause its Affiliates and its and their
+respective Representatives to (and Service Provider shall use commercially reasonable efforts to cause its Third-Party Providers to) (a) keep
+all Personal Information that is processed in connection with the Services strictly confidential and not disclose, transfer, use or otherwise
+process such Personal Information except only to the extent necessary to exercise its rights or perform its obligations hereunder or as
+explicitly instructed by the other Party and (b) implement and maintain appropriate safeguards and measures, including a written
+information security program and any safeguards required by Applicable Law, designed to ensure the security and confidentiality of such
+Personal Information and to protect against accidental, unauthorized or unlawful access to, or disclosure, destruction, use or other processing
+of, any such Personal Information. Without limiting the foregoing, the Parties shall comply with the Data Processing Addendum set forth
+in  Schedule D  in connection with the Services. In the event of a conflict between this Agreement and the Data Processing Addendum
+regarding the processing of Personal Information under this Agreement, the Data Processing Addendum shall prevail with respect to such
+processing.
+Section 7.03 . Access to Information .
+Subject to Applicable Law, with respect to any Service during the Service Period for such Service, SpinCo shall, and shall cause its Affiliates
+to, upon reasonable advance notice, afford the applicable Service Provider Party reasonable access, during normal business hours, to the
+employees, properties and facilities, systems, books and records and other documents that are reasonably requested in connection with
+the provision and receipt of such Service hereunder;  provided  that in the event SpinCo reasonably determines that affording any
+such access to a Service Provider Party would violate any Applicable Law or material agreement to which SpinCo is a party, or waive any
+attorney-client privilege applicable to SpinCo, the Parties shall use commercially reasonable efforts to permit the compliance with such
+request in a manner that avoids any such harm or consequence.
+Section 7.04 . Employment and Labor Matters.
+All employment and labor matters relating to employees of Service Provider and its Affiliates (including, without limitation, employees
+involved in the provision of Services to the Service Recipients) shall be within the exclusive control of Service Provider, and SpinCo
+shall not take any action affecting such matters. Except as expressly provided in the Employee Matters Agreement, nothing in this Agreement
+is intended to transfer the employment of employees engaged in the provision of any Service from Service Provider to SpinCo. All employees
+and other Representatives of Service Provider and any of its Affiliates will be deemed for all compensation, employee benefits, tax and
+social security contribution purposes to be employees or other Representatives of Service Provider or its Affiliates (or their subcontractors)
+and not employees or other Representatives of SpinCo or any of its Affiliates. In providing the Services, such employees and other Representatives
+of Service Provider and its Affiliates (or their subcontractors) will be under the direction, control and supervision of Service Provider
+or its Affiliates (or their subcontractors) and not of SpinCo or its Affiliates, and Service Provider and its Affiliates (or their subcontractors)
+have the sole right to exercise all authority with respect to the employment, substitution, termination, assignment and compensation of
+such employee.
+19
+Section 7.05.  Confidentiality.
+(a)            From
+and after the Distribution Date, each Party shall hold, and cause its Affiliates and its and their respective Representatives to hold,
+in strict confidence, with at least the same degree of care that such Party applies to its own similar confidential and proprietary information,
+and not disclose or use, except as necessary in the provision or receipt of the Services or otherwise as permitted under this Agreement
+or with the prior written consent of the other Party, all documents and information concerning the other Party provided to it pursuant
+to this Agreement (“ Confidential Information ”), except to the extent (i) such Party or any of its Affiliates or
+its or their respective Representatives becomes legally required, or receives a request from any Governmental Authority, to disclose such
+Confidential Information, subject to the remainder of this  Section 7.05(a) , or (ii) such Confidential Information (A) is
+or becomes generally available to the public other than as a result of a disclosure by the receiving Party or any of its Affiliates or
+its or their respective Representatives in violation of this  Section 7.05(a) , (B) was or becomes available to the receiving
+Party or any of its Affiliates or its or their respective Representatives on a non-confidential basis from a source that was not known
+by the receiving Party or any of its Affiliates or its or their respective Representatives to be prohibited from disclosing such information
+by a contractual, legal or fiduciary obligation of confidentiality with respect to such information, or (C) was independently developed
+by or on behalf of the receiving Party or any of its Affiliates or its or their respective Representatives through individuals who have
+not had, either directly or indirectly, access to or knowledge of the Confidential Information of the other Party;  provided  that
+the foregoing clauses (ii)(B) and (C) shall not apply to information of either Party in the possession of the other Party prior
+to the Distribution Date by virtue of their previous Affiliate relationship. Notwithstanding the foregoing, a Party may disclose Confidential
+Information of the other Party to its Affiliates and its and their respective Representatives who need to know such information so long
+as such Persons are informed by such Party of the confidential nature of such Confidential Information and are bound by a written agreement
+with such Party to treat such information confidentially. If a Party or any of its Affiliates or its or their respective Representatives
+becomes legally required, or receives a request from any Governmental Authority, to disclose any Confidential Information pursuant to
+clause (i) above, such Party, if legally permitted, will promptly notify the other Party and, upon request, use commercially reasonable
+efforts to cooperate with the other Party’s efforts to seek a protective order or other remedy. If no such protective order or other
+remedy is obtained or if the other Party waives in writing such Party’s compliance with this  Section 7.05(a) , such Party
+or its Affiliate or its or their respective Representative may furnish only that portion of the information which it concludes, after
+consultation with counsel, is legally required to be disclosed or that it otherwise determines to be reasonably necessary to respond to
+a governmental request, and will exercise its commercially reasonable efforts to obtain reliable assurance that confidential treatment
+will be accorded such information. Each Party agrees to be responsible for any breach of this  Section 7.05(a)  by its
+Affiliates or its or their respective Representatives. Nothing in this  Section 7.05(a)  shall limit any other confidentiality
+obligations among the Parties to this Agreement pursuant to any other agreement among such Parties (including the Separation Agreement),
+and to the extent any Confidential Information would be subject to the protections afforded under this Agreement and any other agreement,
+whichever agreement provides the highest level of protection for such Confidential Information shall apply.
+(b)            Each
+Party acknowledges that it will not acquire any right, title or interest in or to any Confidential Information of the other Party by reason
+of this Agreement or the provision or receipt of Services hereunder.
+(c)            Each
+Party agrees to establish and maintain administrative, physical and technical safeguards, information technology and data security procedures
+and other protections against the destruction, loss, unauthorized access or alteration of the other Party’s Confidential Information
+which are no less rigorous than those otherwise maintained for its own Confidential Information.
+Article 8
+Miscellaneous
+Section 8.01.  No Agency; Independent Contractor
+Status . Nothing in this Agreement shall constitute or be deemed to constitute a partnership or joint venture between the Parties,
+or constitute or be deemed to constitute any Party as the agent or employee of the other Party for any purpose whatsoever, and neither
+Party shall have authority or power to bind the other or to contract in the name of, or create a liability against, the other in any way
+or for any purpose. The Parties acknowledge and agree that Service Provider is an independent contractor in the performance of each and
+every part of this Agreement and nothing herein shall be construed to be inconsistent with this status.
+20
+Section 8.02.  Force Majeure .
+(a)            For
+purposes of this  ‎Section 8.02 , “ force majeure ” means an event beyond the reasonable control of a Party,
+which by its nature could not have been foreseen by such Party, or, if it could have been foreseen, was not reasonably avoidable, and
+includes without limitation, acts of God, storms, floods, riots, fires, sabotage, civil commotion or civil unrest, interference by civil
+or military authorities, threat, declaration, continuation, escalation or acts of war (declared or undeclared) or acts of terrorism, cyberattacks,
+embargo, failure or shortage of energy sources, raw materials or components, strike, walkout, lockout or other labor trouble or shortage,
+delays by unaffiliated suppliers or carriers, pandemics or disease outbreaks (including the COVID-19 virus) and acts, omissions or delays
+in acting by any Governmental Authority or the other Party.
+(b)            Without
+limiting the generality of  Section 5.07(a) , neither Party shall be liable to the other Party for interruption of service,
+any delays or failure to fulfill any obligations under this Agreement, so long as and to the extent the interruption, delay or fulfillment
+of such obligation is prevented, frustrated, hindered, or delayed as a consequence of circumstances of force majeure;  provided
+that, the affected Party shall have used commercially reasonable efforts to minimize to the extent practicable the effect of the force
+majeure event on its obligations hereunder and promptly notified the other Party upon learning of the occurrence of the force majeure
+event and  provided further  that this  ‎Section 8.02  shall excuse a Party’s obligation to pay money (other
+than in the case of SpinCo previously accrued and undisputed Service Costs and Service Taxes, and in the case of Service Provider, any
+reimbursement amounts owed to SpinCo prior to such force majeure event) for any particular Service during the pendency of Service Provider’s
+failure to provide such particular Service due to a force majeure event. Notwithstanding anything in this  Section 8.02  to
+the contrary, SpinCo’s inability to pay money shall in no event be deemed a force majeure event of SpinCo. Upon the cessation of
+the force majeure event, the Parties shall use their commercially reasonable efforts to promptly resume performance of their obligations
+under this Agreement and, to the extent any suspension of a Party’s performance of its obligations under this Agreement due to a
+force majeure event adversely impacts the progress of the transition of any Service to SpinCo, SpinCo may request in writing that the
+applicable Service Period be tolled for the duration of such suspension ( provided ,  further , that any such tolling shall
+not result in any Service Period extending beyond eighteen (18) months following the Distribution Date unless Service Provider determines,
+in good faith but in its sole discretion, that, once Service Provider is capable of resuming performance, providing such Service for all
+or some portion of the remaining Service Period (on the terms and conditions of this Agreement) beyond such eighteen (18)-month period
+will not create any significant risk to the Intended Tax Treatment (as defined in the Tax Matters Agreement). If Service Provider is unable
+to provide any of the Services due to a force majeure event, the Parties shall use commercially reasonably efforts to cooperatively seek
+a solution that is mutually satisfactory, such as the subcontracting of all or part of the provision of the Services under the supervision
+of Service Provider for the period of time during, or affected by, the force majeure event.
+Section 8.03.  Entire Agreement . This
+Agreement and the other Distribution Documents constitute the entire agreement between the Parties with respect to the subject matter
+hereof and thereof and supersede all prior agreements and understandings, both oral and written, between the Parties with respect to the
+subject matter hereof and thereof.
+21
+Section 8.04.  Notices . All notices,
+requests and other communications to any Party shall be in writing (including email transmission) and shall be given,
+if to SpinCo, to:
+c/o Mobility Global Inc.
+5860 Trinity Parkway, Suite 600
+Centreville, Virginia 20120
+Attention:
+[***]
+Email:
+[***]
+if to Service Provider, to:
+c/o S&P Global Inc.
+55 Water Street
+New York, New York 10041
+Attention:
+[***]
+Email:
+[***]
+with a copy (which shall not constitute notice) to:
+Davis Polk & Wardwell LLP
+450 Lexington Avenue
+New York, NY 10017
+Attention:
+[***]
+Email:
+[***]
+or such other address or email as such Party may hereafter specify
+for the purpose by notice to the other Parties hereto. All such notices, requests and other communications shall be deemed received on
+the date of receipt by the recipient thereof if received prior to 5:00 p.m. in the place of receipt and such day is a Business Day
+in the place of receipt. Otherwise, any such notice, request or communication shall be deemed not to have been received until the next
+succeeding Business Day in the place of receipt.
+Section 8.05 .
+Governing Law . This Agreement shall be governed by and construed in accordance with the law of the State of Delaware, without
+regard to the conflicts of law rules of such state.
+Section 8.06.  Dispute Resolution . Any
+dispute relating to the Services or otherwise related to or arising out of this Agreement shall be handled in accordance with  Section 3.04(c)  (with
+respect to disputed invoices) and the dispute resolution provisions set forth in  Section 6.09  of the Separation Agreement,
+mutatis mutandis .
+Section 8.07.  WAIVER OF JURY TRIAL .
+EACH OF THE PARTIES HEREBY IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATED TO
+THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY.
+22
+Section 8.08.  Severability . Each term,
+provision, covenant and restriction of this Agreement is severable. If any term, provision, covenant or restriction of this Agreement
+is held by a court of competent jurisdiction or other Governmental Authority to be invalid, void or unenforceable, the remainder of the
+terms, provisions, covenants and restrictions of this Agreement shall remain in full force and effect and shall in no way be affected,
+impaired or invalidated so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner
+materially adverse to any Party. Upon such a determination, the Parties shall negotiate in good faith to modify this Agreement so as to
+effect the original intent of the Parties as closely as possible in an acceptable manner in order that the transactions contemplated hereby
+be consummated as originally contemplated to the fullest extent possible.
+Section 8.09.  Amendments and Waivers .
+(a)            Any
+provision of this Agreement may be amended or waived if, but only if, such amendment or waiver is in writing and is signed, in the case
+of an amendment, by Service Provider and SpinCo, or in the case of a waiver, by the Party against whom the waiver is to be effective.
+(b)            No
+failure or delay by any Party in exercising any right, power or privilege hereunder shall impair such right or remedy or operate or be
+construed as a waiver or variation thereof or preclude its exercise at any subsequent time nor shall any single or partial exercise of
+any such right, power or privilege preclude any other or further exercise thereof or the exercise of any other right, power or privilege.
+Except as otherwise provided herein, the rights and remedies herein provided shall be cumulative and not exclusive of any rights or remedies
+provided by law.
+Section 8.10.  Successors and Assigns .
+The provisions of this Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and assigns;
+provided  that neither Party may assign, delegate or otherwise transfer any of its rights or obligations under this Agreement without
+the prior written consent of the other Party, except that Service Provider may, subject to the terms and conditions of this Agreement,
+designate another Service Provider Party to provide any of the Services hereunder, and SpinCo may designate any of its Affiliates to
+receive any of the Services hereunder. Notwithstanding the foregoing, if either Party or any of its successors or permitted assigns (a) shall
+consolidate with or merge into any other Person and shall not be the continuing or surviving corporation or entity of such consolidation
+or merger or (b) shall transfer all or substantially all of its properties and assets to any Person, then, and in each such case,
+no such consent shall be required and proper provisions shall be made so that the successors and assigns of such Party shall assume all
+of the rights and obligations of such Party under this Agreement;  provided  that in the case of any such transaction involving
+SpinCo, this Agreement and the Services shall apply only to the SpinCo Business as conducted at the time of such transaction and not
+to any other business of any other Person party to such transaction.
+Section 8.11.  Expenses.  Except as
+otherwise specifically provided herein, all costs and expenses incurred in connection with this Agreement shall be paid by the Party
+incurring such cost or expense.
+Section 8.12.  Specific Performance .
+The Parties agree that irreparable damage would occur, and that the Parties would not have any adequate remedy at law, in the event that
+any of the provisions of this Agreement were not performed in accordance with their specific terms or were otherwise breached. It is accordingly
+agreed that the Parties shall be entitled to an injunction or injunctions to prevent breaches of this Agreement and to specifically enforce
+the terms and provisions of this Agreement, without proof of actual damages or otherwise, in addition to any other remedy to which they
+are entitled at law or in equity. Each Party agrees to waive any requirement for the securing or posting of any bond in connection with
+such remedy. The Parties further agree not to assert that a remedy of specific performance is unenforceable, invalid, contrary to law
+or inequitable for any reason, nor to assert that a remedy of monetary damages would provide an adequate remedy.
+23
+Section 8.13.  Counterparts; Effectiveness;
+No Third-Party Beneficiaries .
+(a)            This
+Agreement may be signed in any number of counterparts (which may include counterparts delivered by any standard form of telecommunication),
+each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument. The words
+“execution,” “signed,” “signature,” and words of like import in this Agreement or in any other certificate,
+agreement or document related to this Agreement shall include images of manually executed signatures transmitted by any electronic format
+(including “pdf,” “tif” or “jpg”) and other electronic signatures (including DocuSign and AdobeSign).
+The use of electronic signatures and electronic records (including any contract or other record created, generated, sent, communicated,
+received, or stored by electronic means) shall be of the same legal effect, validity and enforceability as a manually executed signature
+or use of a paper-based recordkeeping system to the fullest extent permitted by Applicable Law. This Agreement shall become effective
+when each Party shall have received a counterpart hereof signed by the other Party. Until and unless each Party has received a counterpart
+hereof signed by the other Party, this Agreement shall have no effect and no Party shall have any right or obligation hereunder (whether
+by virtue of any other oral or written agreement or other communication).
+(b)            Except
+as set forth in  ‎Article 5 , no provision of this Agreement is intended to confer any rights, benefits, remedies, obligations,
+or liabilities hereunder upon any Person other than the Parties and their respective successors and assigns.
+Section 8.14.  Further Assurances . Each
+of the Parties shall, and shall cause their respective Affiliates to, execute, acknowledge and deliver such documents and other instruments
+and papers, and perform such further acts as may be reasonably required or desirable in order to (a) give full effect to this Agreement;
+and (b) secure for the other Party the full benefit of the rights, powers and remedies conferred upon the other Party in this Agreement.
+[ Remainder of page intentionally left blank ]
+24
+IN WITNESS WHEREOF, the Parties have caused this
+Agreement to be duly executed by their respective authorized officers as of the date first above written.
+S&P GLOBAL INC.
+By:
+/s/
+Judah Bareli
+Name:
+Judah Bareli
+Title:
+Vice President, Associate General Counsel & Corporate Secretary
+MOBILITY GLOBAL INC.
+By:
+/s/
+Taptesh (Tasha) K. Matharu
+Name:
+Taptesh (Tasha) K. Matharu
+Title:
+Chief Legal Officer
+[Signature Page to Transition Services Agreement]

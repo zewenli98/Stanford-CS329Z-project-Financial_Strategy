@@ -1,0 +1,129 @@
+XML
+104
+R99.htm
+IDEA: XBRL DOCUMENT
+v3.26.3
+Assumptions Used in Estimating the Fair Value of Stock Award Grants (Detail) - $ / shares
+12 Months Ended
+Jun. 30, 2026
+Jun. 30, 2025
+Jun. 30, 2024
+Share based Compensation Arrangement by Share based Payment Award, Fair Value Assumptions, Method Used [Line Items]
+Interest rates minimum
+3.40%
+3.40%
+3.80%
+Interest rates maximum
+4.50%
+5.50%
+5.60%
+Lower Limit
+Share based Compensation Arrangement by Share based Payment Award, Fair Value Assumptions, Method Used [Line Items]
+Dividends per share (quarterly amounts)
+$ 0.83
+$ 0.75
+$ 0.68
+Upper Limit
+Share based Compensation Arrangement by Share based Payment Award, Fair Value Assumptions, Method Used [Line Items]
+Dividends per share (quarterly amounts)
+$ 0.91
+$ 0.83
+$ 0.75
+X
+- Definition
+Share Based Compensation Arrangement By Share Based Payment Award, Fair Value Assumptions, Expected Dividends Per Share
++ References
+No definition available.
++ Details
+Name:
+msft_ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsExpectedDividendsPerShare
+Namespace Prefix:
+msft_
+Data Type:
+dtr-types:perShareItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Share based Compensation Arrangement by Share based Payment Award, Fair Value Assumptions, Method Used [Line Items]
++ References
+No definition available.
++ Details
+Name:
+msft_ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsMethodUsedLineItems
+Namespace Prefix:
+msft_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+The maximum risk-free interest rate assumption that is used in valuing an option on its own shares.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 718
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 2
+-Subparagraph (f)(2)(iv)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
++ Details
+Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsRiskFreeInterestRateMaximum
+Namespace Prefix:
+us-gaap_
+Data Type:
+dtr-types:percentItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+The minimum risk-free interest rate assumption that is used in valuing an option on its own shares.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 718
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 2
+-Subparagraph (f)(2)(iv)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480429/718-10-50-2
++ Details
+Name:
+us-gaap_ShareBasedCompensationArrangementByShareBasedPaymentAwardFairValueAssumptionsRiskFreeInterestRateMinimum
+Namespace Prefix:
+us-gaap_
+Data Type:
+dtr-types:percentItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Details
+Name:
+srt_RangeAxis=srt_MinimumMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+srt_RangeAxis=srt_MaximumMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:

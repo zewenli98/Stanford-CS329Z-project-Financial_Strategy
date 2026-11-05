@@ -1,0 +1,1337 @@
+hsy-20250330
+0000047111  2025  --12-31  Q1  FALSE  http://fasb.org/us-gaap/2024#AccruedLiabilitiesCurrent  http://fasb.org/us-gaap/2024#AccruedLiabilitiesCurrent  http://fasb.org/us-gaap/2024#OtherLiabilitiesNoncurrent  http://fasb.org/us-gaap/2024#OtherLiabilitiesNoncurrent  309  184  276        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      hsy:option    xbrli:pure    hsy:segment     0000047111    2025-01-01  2025-03-30      0000047111   us-gaap:CommonStockMember     2025-04-25      0000047111   us-gaap:CommonClassBMember     2025-04-25      0000047111    2024-01-01  2024-03-31      0000047111   us-gaap:CommonStockMember     2025-01-01  2025-03-30      0000047111   us-gaap:CommonStockMember     2024-01-01  2024-03-31      0000047111   us-gaap:CommonClassBMember     2025-01-01  2025-03-30      0000047111   us-gaap:CommonClassBMember     2024-01-01  2024-03-31      0000047111    2025-03-30      0000047111    2024-12-31      0000047111   us-gaap:CommonStockMember     2025-03-30      0000047111   us-gaap:CommonStockMember     2024-12-31      0000047111   us-gaap:CommonClassBMember     2025-03-30      0000047111   us-gaap:CommonClassBMember     2024-12-31      0000047111    2023-12-31      0000047111    2024-03-31      0000047111   us-gaap:PreferredStockMember     2024-12-31      0000047111   us-gaap:CommonStockMember  us-gaap:CommonStockMember     2024-12-31      0000047111   us-gaap:CommonStockMember  us-gaap:CommonClassBMember     2024-12-31      0000047111   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0000047111   us-gaap:RetainedEarningsMember     2024-12-31      0000047111   us-gaap:TreasuryStockCommonMember     2024-12-31      0000047111   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0000047111   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-30      0000047111   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-03-30      0000047111   us-gaap:RetainedEarningsMember  us-gaap:CommonStockMember     2025-01-01  2025-03-30      0000047111   us-gaap:RetainedEarningsMember  us-gaap:CommonClassBMember     2025-01-01  2025-03-30      0000047111   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-03-30      0000047111   us-gaap:TreasuryStockCommonMember     2025-01-01  2025-03-30      0000047111   us-gaap:PreferredStockMember     2025-03-30      0000047111   us-gaap:CommonStockMember  us-gaap:CommonStockMember     2025-03-30      0000047111   us-gaap:CommonStockMember  us-gaap:CommonClassBMember     2025-03-30      0000047111   us-gaap:AdditionalPaidInCapitalMember     2025-03-30      0000047111   us-gaap:RetainedEarningsMember     2025-03-30      0000047111   us-gaap:TreasuryStockCommonMember     2025-03-30      0000047111   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-30      0000047111   us-gaap:PreferredStockMember     2023-12-31      0000047111   us-gaap:CommonStockMember  us-gaap:CommonStockMember     2023-12-31      0000047111   us-gaap:CommonStockMember  us-gaap:CommonClassBMember     2023-12-31      0000047111   us-gaap:AdditionalPaidInCapitalMember     2023-12-31      0000047111   us-gaap:RetainedEarningsMember     2023-12-31      0000047111   us-gaap:TreasuryStockCommonMember     2023-12-31      0000047111   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-12-31      0000047111   us-gaap:RetainedEarningsMember     2024-01-01  2024-03-31      0000047111   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-01-01  2024-03-31      0000047111   us-gaap:RetainedEarningsMember  us-gaap:CommonStockMember     2024-01-01  2024-03-31      0000047111   us-gaap:RetainedEarningsMember  us-gaap:CommonClassBMember     2024-01-01  2024-03-31      0000047111   us-gaap:AdditionalPaidInCapitalMember     2024-01-01  2024-03-31      0000047111   us-gaap:TreasuryStockCommonMember     2024-01-01  2024-03-31      0000047111   us-gaap:PreferredStockMember     2024-03-31      0000047111   us-gaap:CommonStockMember  us-gaap:CommonStockMember     2024-03-31      0000047111   us-gaap:CommonStockMember  us-gaap:CommonClassBMember     2024-03-31      0000047111   us-gaap:AdditionalPaidInCapitalMember     2024-03-31      0000047111   us-gaap:RetainedEarningsMember     2024-03-31      0000047111   us-gaap:TreasuryStockCommonMember     2024-03-31      0000047111   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-03-31      0000047111   hsy:SourStripsMember     2024-11-08      0000047111   hsy:SourStripsMember  us-gaap:TrademarksMember     2024-11-08      0000047111   hsy:SourStripsMember  us-gaap:CustomerRelationshipsMember  srt:MinimumMember     2024-11-08      0000047111   hsy:SourStripsMember  us-gaap:CustomerRelationshipsMember  srt:MaximumMember     2024-11-08      0000047111   us-gaap:OperatingSegmentsMember  hsy:NorthAmericaConfectionerySegmentMember     2024-12-31      0000047111   us-gaap:OperatingSegmentsMember  hsy:NorthAmericaSaltySnacksSegmentMember     2024-12-31      0000047111   us-gaap:OperatingSegmentsMember  hsy:InternationalSegmentMember     2024-12-31      0000047111   us-gaap:OperatingSegmentsMember  hsy:NorthAmericaConfectionerySegmentMember     2025-01-01  2025-03-30      0000047111   us-gaap:OperatingSegmentsMember  hsy:NorthAmericaSaltySnacksSegmentMember     2025-01-01  2025-03-30      0000047111   us-gaap:OperatingSegmentsMember  hsy:InternationalSegmentMember     2025-01-01  2025-03-30      0000047111   us-gaap:OperatingSegmentsMember  hsy:NorthAmericaConfectionerySegmentMember     2025-03-30      0000047111   us-gaap:OperatingSegmentsMember  hsy:NorthAmericaSaltySnacksSegmentMember     2025-03-30      0000047111   us-gaap:OperatingSegmentsMember  hsy:InternationalSegmentMember     2025-03-30      0000047111   us-gaap:TrademarksMember     2025-03-30      0000047111   us-gaap:TrademarksMember     2024-12-31      0000047111   us-gaap:CustomerRelatedIntangibleAssetsMember     2025-03-30      0000047111   us-gaap:CustomerRelatedIntangibleAssetsMember     2024-12-31      0000047111   us-gaap:PatentsMember     2025-03-30      0000047111   us-gaap:PatentsMember     2024-12-31      0000047111   us-gaap:TrademarksMember     2025-03-30      0000047111   us-gaap:TrademarksMember     2024-12-31      0000047111   us-gaap:LineOfCreditMember  us-gaap:RevolvingCreditFacilityMember  us-gaap:LineOfCreditMember     2025-03-30      0000047111   us-gaap:LineOfCreditMember  us-gaap:RevolvingCreditFacilityMember  us-gaap:LineOfCreditMember     2025-01-01  2025-03-30      0000047111   us-gaap:RevolvingCreditFacilityMember  us-gaap:ForeignLineOfCreditMember     2025-03-30      0000047111   us-gaap:RevolvingCreditFacilityMember  us-gaap:ForeignLineOfCreditMember     2024-12-31      0000047111   us-gaap:CommercialPaperMember     2025-03-30      0000047111   us-gaap:CommercialPaperMember     2024-12-31      0000047111   hsy:Notes0900Due2025Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes0900Due2025Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes3.20Due2025Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes3.20Due2025Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes2.30Due2026Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes2.30Due2026Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Debentures7.200Due2027Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Debentures7.200Due2027Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes4.550Due2028Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes4.550Due2028Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes4250Due2028Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes4250Due2028Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes2.450Due2029Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes2.450Due2029Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes4.750Due2030Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes4.750Due2030Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes1700Due2030Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes1700Due2030Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes4.950Due2032Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes4.950Due2032Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes4500Due2033Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes4500Due2033Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes5.100Due2035Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes5.100Due2035Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes3.375Due2046Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes3.375Due2046Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes3.125Due2049Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   hsy:Notes3.125Due2049Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes2650Due2050Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2025-03-30      0000047111   hsy:Notes2650Due2050Member  us-gaap:DomesticCorporateDebtSecuritiesMember     2024-12-31      0000047111   us-gaap:CommodityContractMember  us-gaap:NondesignatedMember  srt:MinimumMember     2025-01-01  2025-03-30      0000047111   us-gaap:CommodityContractMember  us-gaap:NondesignatedMember  srt:MaximumMember     2025-01-01  2025-03-30      0000047111   us-gaap:CommodityContractMember  us-gaap:NondesignatedMember     2025-03-30      0000047111   us-gaap:CommodityContractMember  us-gaap:NondesignatedMember     2024-12-31      0000047111   us-gaap:ForeignExchangeContractMember     2025-01-01  2025-03-30      0000047111   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-03-30      0000047111   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-12-31      0000047111   us-gaap:ForeignExchangeContractMember  us-gaap:NondesignatedMember     2025-03-30      0000047111   us-gaap:ForeignExchangeContractMember  us-gaap:NondesignatedMember     2024-12-31      0000047111   us-gaap:EquitySwapMember  us-gaap:NondesignatedMember  srt:MinimumMember     2025-01-01  2025-03-30      0000047111   us-gaap:EquitySwapMember  us-gaap:NondesignatedMember  srt:MaximumMember     2025-01-01  2025-03-30      0000047111   us-gaap:EquitySwapMember     2025-03-30      0000047111   us-gaap:EquitySwapMember     2024-12-31      0000047111   us-gaap:EquitySwapMember  us-gaap:NondesignatedMember     2025-03-30      0000047111   us-gaap:EquitySwapMember  us-gaap:NondesignatedMember     2024-12-31      0000047111   us-gaap:NondesignatedMember     2025-03-30      0000047111   us-gaap:NondesignatedMember     2024-12-31      0000047111   us-gaap:CommodityContractMember     2025-01-01  2025-03-30      0000047111   us-gaap:CommodityContractMember     2024-01-01  2024-03-31      0000047111   us-gaap:CommodityContractMember  us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-01-01  2025-03-30      0000047111   us-gaap:CommodityContractMember  us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-01-01  2024-03-31      0000047111   us-gaap:ForeignExchangeContractMember     2024-01-01  2024-03-31      0000047111   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-01-01  2025-03-30      0000047111   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-01-01  2024-03-31      0000047111   us-gaap:InterestRateContractMember     2025-01-01  2025-03-30      0000047111   us-gaap:InterestRateContractMember     2024-01-01  2024-03-31      0000047111   us-gaap:InterestRateContractMember  us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-01-01  2025-03-30      0000047111   us-gaap:InterestRateContractMember  us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-01-01  2024-03-31      0000047111   us-gaap:EquitySwapMember     2025-01-01  2025-03-30      0000047111   us-gaap:EquitySwapMember     2024-01-01  2024-03-31      0000047111   us-gaap:EquitySwapMember  us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-01-01  2025-03-30      0000047111   us-gaap:EquitySwapMember  us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-01-01  2024-03-31      0000047111   us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-01-01  2025-03-30      0000047111   us-gaap:CashFlowHedgingMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-01-01  2024-03-31      0000047111   us-gaap:FairValueInputsLevel3Member     2025-03-30      0000047111   us-gaap:FairValueInputsLevel3Member     2024-12-31      0000047111   us-gaap:FairValueInputsLevel1Member  us-gaap:ForeignExchangeContractMember  us-gaap:FairValueMeasurementsRecurringMember     2025-03-30      0000047111   us-gaap:FairValueInputsLevel2Member  us-gaap:ForeignExchangeContractMember  us-gaap:FairValueMeasurementsRecurringMember     2025-03-30      0000047111   us-gaap:FairValueInputsLevel3Member  us-gaap:ForeignExchangeContractMember  us-gaap:FairValueMeasurementsRecurringMember     2025-03-30      0000047111   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:ForeignExchangeContractMember     2025-03-30      0000047111   us-gaap:FairValueInputsLevel1Member  us-gaap:CommodityContractMember  us-gaap:FairValueMeasurementsRecurringMember     2025-03-30      0000047111   us-gaap:FairValueInputsLevel2Member  us-gaap:CommodityContractMember  us-gaap:FairValueMeasurementsRecurringMember     2025-03-30      0000047111   us-gaap:FairValueInputsLevel3Member  us-gaap:CommodityContractMember  us-gaap:FairValueMeasurementsRecurringMember     2025-03-30      0000047111   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:CommodityContractMember     2025-03-30      0000047111   us-gaap:FairValueInputsLevel1Member  us-gaap:EquitySwapMember  us-gaap:FairValueMeasurementsRecurringMember     2025-03-30      0000047111   us-gaap:FairValueInputsLevel2Member  us-gaap:EquitySwapMember  us-gaap:FairValueMeasurementsRecurringMember     2025-03-30      0000047111   us-gaap:FairValueInputsLevel3Member  us-gaap:EquitySwapMember  us-gaap:FairValueMeasurementsRecurringMember     2025-03-30      0000047111   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:EquitySwapMember     2025-03-30      0000047111   us-gaap:FairValueInputsLevel1Member  us-gaap:ForeignExchangeContractMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0000047111   us-gaap:FairValueInputsLevel2Member  us-gaap:ForeignExchangeContractMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0000047111   us-gaap:FairValueInputsLevel3Member  us-gaap:ForeignExchangeContractMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0000047111   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:ForeignExchangeContractMember     2024-12-31      0000047111   us-gaap:FairValueInputsLevel1Member  us-gaap:EquitySwapMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0000047111   us-gaap:FairValueInputsLevel2Member  us-gaap:EquitySwapMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0000047111   us-gaap:FairValueInputsLevel3Member  us-gaap:EquitySwapMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0000047111   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:EquitySwapMember     2024-12-31      0000047111   us-gaap:FairValueInputsLevel1Member  us-gaap:CommodityContractMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0000047111   us-gaap:FairValueInputsLevel2Member  us-gaap:CommodityContractMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0000047111   us-gaap:FairValueInputsLevel3Member  us-gaap:CommodityContractMember  us-gaap:FairValueMeasurementsRecurringMember     2024-12-31      0000047111   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:CommodityContractMember     2024-12-31      0000047111   us-gaap:FairValueInputsLevel2Member     2025-03-30      0000047111   us-gaap:FairValueInputsLevel2Member     2024-12-31      0000047111   hsy:PropertyPlantandEquipmentGrossMember     2025-03-30      0000047111   hsy:PropertyPlantandEquipmentGrossMember     2024-12-31      0000047111   hsy:AccumulatedDepreciationMember     2025-03-30      0000047111   hsy:AccumulatedDepreciationMember     2024-12-31      0000047111   us-gaap:PropertyPlantAndEquipmentMember     2025-03-30      0000047111   us-gaap:PropertyPlantAndEquipmentMember     2024-12-31      0000047111   us-gaap:OtherNoncurrentAssetsMember     2025-03-30      0000047111   us-gaap:OtherNoncurrentAssetsMember     2024-12-31      0000047111   hsy:AdvancingAgilityAutomationInitiativeMember  srt:MinimumMember     2024-02-02      0000047111   hsy:AdvancingAgilityAutomationInitiativeMember  srt:MaximumMember     2024-02-02      0000047111   hsy:ProgramOfficeExecutionAndThirdPartyCostsMember  hsy:AdvancingAgilityAutomationInitiativeMember  srt:MinimumMember     2024-02-02      0000047111   hsy:ProgramOfficeExecutionAndThirdPartyCostsMember  hsy:AdvancingAgilityAutomationInitiativeMember  srt:MaximumMember     2024-02-02      0000047111   hsy:TechnologyCapabilityCostsMember  hsy:AdvancingAgilityAutomationInitiativeMember  srt:MinimumMember     2024-02-02      0000047111   hsy:TechnologyCapabilityCostsMember  hsy:AdvancingAgilityAutomationInitiativeMember  srt:MaximumMember     2024-02-02      0000047111   us-gaap:EmployeeSeveranceMember  hsy:AdvancingAgilityAutomationInitiativeMember  srt:MinimumMember     2024-02-02      0000047111   us-gaap:EmployeeSeveranceMember  hsy:AdvancingAgilityAutomationInitiativeMember  srt:MaximumMember     2024-02-02      0000047111   hsy:AdvancingAgilityAutomationInitiativeMember     2025-03-30      0000047111   us-gaap:CostOfSalesMember     2025-01-01  2025-03-30      0000047111   us-gaap:CostOfSalesMember     2024-01-01  2024-03-31      0000047111   us-gaap:SellingGeneralAndAdministrativeExpensesMember     2025-01-01  2025-03-30      0000047111   us-gaap:SellingGeneralAndAdministrativeExpensesMember     2024-01-01  2024-03-31      0000047111   us-gaap:RestructuringChargesMember     2025-01-01  2025-03-30      0000047111   us-gaap:RestructuringChargesMember     2024-01-01  2024-03-31      0000047111   us-gaap:EmployeeSeveranceMember  hsy:AdvancingAgilityAutomationInitiativeMember     2025-01-01  2025-03-30      0000047111   us-gaap:EmployeeSeveranceMember  hsy:AdvancingAgilityAutomationInitiativeMember     2024-01-01  2024-03-31      0000047111   us-gaap:OtherRestructuringMember  hsy:AdvancingAgilityAutomationInitiativeMember     2025-01-01  2025-03-30      0000047111   us-gaap:OtherRestructuringMember  hsy:AdvancingAgilityAutomationInitiativeMember     2024-01-01  2024-03-31      0000047111   us-gaap:EmployeeSeveranceMember     2025-01-01  2025-03-30      0000047111   us-gaap:PensionPlansDefinedBenefitMember     2025-01-01  2025-03-30      0000047111   us-gaap:PensionPlansDefinedBenefitMember     2024-01-01  2024-03-31      0000047111   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2025-01-01  2025-03-30      0000047111   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2024-01-01  2024-03-31      0000047111   us-gaap:EmployeeStockOptionMember     2025-01-01  2025-03-30      0000047111    2024-01-01  2024-12-31      0000047111   us-gaap:EmployeeStockOptionMember     2024-01-01  2024-03-31      0000047111   hsy:PerformanceStockUnitsandRestrictedStockUnitsMember  srt:MinimumMember     2024-01-01  2024-03-31      0000047111   hsy:PerformanceStockUnitsandRestrictedStockUnitsMember  srt:MinimumMember     2025-01-01  2025-03-30      0000047111   hsy:PerformanceStockUnitsandRestrictedStockUnitsMember  srt:MaximumMember     2024-01-01  2024-03-31      0000047111   hsy:PerformanceStockUnitsandRestrictedStockUnitsMember  srt:MaximumMember     2025-01-01  2025-03-30      0000047111   hsy:PerformanceSharesAndRestrictedStockUnitsRSUMember     2024-12-31      0000047111   hsy:PerformanceSharesAndRestrictedStockUnitsRSUMember     2025-01-01  2025-03-30      0000047111   hsy:PerformanceSharesAndRestrictedStockUnitsRSUMember     2025-03-30      0000047111   hsy:PerformanceSharesAndRestrictedStockUnitsRSUMember     2024-01-01  2024-03-31      0000047111   hsy:PerformanceSharesAndRestrictedStockUnitsRSUMember     2024-03-31      0000047111   hsy:PerformanceStockUnitsandRestrictedStockUnitsMember     2025-01-01  2025-03-30      0000047111   us-gaap:OperatingSegmentsMember     2025-01-01  2025-03-30      0000047111   us-gaap:CorporateNonSegmentMember     2025-01-01  2025-03-30      0000047111   us-gaap:MaterialReconcilingItemsMember     2025-01-01  2025-03-30      0000047111   us-gaap:OperatingSegmentsMember  hsy:NorthAmericaConfectionerySegmentMember     2024-01-01  2024-03-31      0000047111   us-gaap:OperatingSegmentsMember  hsy:NorthAmericaSaltySnacksSegmentMember     2024-01-01  2024-03-31      0000047111   us-gaap:OperatingSegmentsMember  hsy:InternationalSegmentMember     2024-01-01  2024-03-31      0000047111   us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000047111   us-gaap:CorporateNonSegmentMember     2024-01-01  2024-03-31      0000047111   us-gaap:MaterialReconcilingItemsMember     2024-01-01  2024-03-31      0000047111   us-gaap:CommodityContractMember  us-gaap:NondesignatedMember     2025-01-01  2025-03-30      0000047111   us-gaap:CommodityContractMember  us-gaap:NondesignatedMember     2024-01-01  2024-03-31      0000047111   us-gaap:OperatingSegmentsMember  us-gaap:CommodityContractMember     2025-01-01  2025-03-30      0000047111   us-gaap:OperatingSegmentsMember  us-gaap:CommodityContractMember     2024-01-01  2024-03-31      0000047111   us-gaap:CostOfSalesMember  us-gaap:CommodityContractMember     2025-01-01  2025-03-30      0000047111   us-gaap:CommodityContractMember  us-gaap:OperatingSegmentsMember  srt:ScenarioForecastMember     2026-01-01  2026-03-29      0000047111   us-gaap:CorporateNonSegmentMember  us-gaap:CorporateMember     2025-01-01  2025-03-30      0000047111   us-gaap:CorporateNonSegmentMember  us-gaap:CorporateMember     2024-01-01  2024-03-31      0000047111   country:US     2025-01-01  2025-03-30      0000047111   country:US     2024-01-01  2024-03-31      0000047111   us-gaap:NonUsMember     2025-01-01  2025-03-30      0000047111   us-gaap:NonUsMember     2024-01-01  2024-03-31      0000047111   hsy:A2021ShareRepurchaseProgramMember     2021-05-31      0000047111   hsy:A2023ShareRepurchaseProgramMember     2023-12-04      0000047111   us-gaap:EmployeeStockOptionMember  us-gaap:CommonStockMember     2025-01-01  2025-03-30      0000047111   us-gaap:EmployeeStockOptionMember  us-gaap:CommonClassBMember     2025-01-01  2025-03-30      0000047111   us-gaap:EmployeeStockOptionMember  us-gaap:CommonStockMember     2024-01-01  2024-03-31      0000047111   us-gaap:EmployeeStockOptionMember  us-gaap:CommonClassBMember     2024-01-01  2024-03-31      0000047111   hsy:PerformanceSharesAndRestrictedStockUnitsRSUMember  us-gaap:CommonStockMember     2025-01-01  2025-03-30      0000047111   hsy:PerformanceSharesAndRestrictedStockUnitsRSUMember  us-gaap:CommonClassBMember     2025-01-01  2025-03-30      0000047111   hsy:PerformanceSharesAndRestrictedStockUnitsRSUMember  us-gaap:CommonStockMember     2024-01-01  2024-03-31      0000047111   hsy:PerformanceSharesAndRestrictedStockUnitsRSUMember  us-gaap:CommonClassBMember     2024-01-01  2024-03-31      0000047111   us-gaap:EmployeeStockOptionMember     2025-01-01  2025-03-30      0000047111   us-gaap:EmployeeStockOptionMember     2024-01-01  2024-03-31      0000047111   hsy:RohitGroverMember     2025-01-01  2025-03-30      0000047111   hsy:RohitGroverMember     2025-03-30      0000047111   hsy:JenniferL.McCalmanMember     2025-01-01  2025-03-30      0000047111   hsy:JenniferL.McCalmanMember     2025-03-30      0000047111   hsy:JamesTuroffMember     2025-01-01  2025-03-30      0000047111   hsy:JamesTuroffMember     2025-03-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM  10-Q
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  March 30, 2025
+OR
+☐     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ______to_______
+Commission file number  1-183
+THE  HERSHEY CO MPANY
+(Exact name of registrant as specified in its charter)
+Delaware       23-0691590
+(State or other jurisdiction of incorporation or organization)     (I.R.S. Employer Identification No.)
+19 East Chocolate Avenue ,  Hershey ,  PA   17033
+(Address of principal executive offices and Zip Code)
+( 717 )  534-4200
+(Registrant's telephone number, including area code)
+Not Applicable
+(Former name or former address, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class     Trading Symbol(s)     Name of each exchange on which registered
+Common Stock, one dollar par value       HSY       New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   Yes    x   No   ¨
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).   Yes    x   No   ¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.  See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+Large accelerated filer     x    Accelerated filer    ☐    Non-accelerated filer    ☐    Smaller reporting company     ☐     Emerging growth company     ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes    ☐      No   x
+Indicate the number of shares outstanding of each of the registrant’s classes of common stock, as of the latest practicable date.
+Common Stock, one dollar par value— 147,990,276  shares, as of April 25, 2025.
+Class B Common Stock, one dollar par value— 54,613,514  shares, as of April 25, 2025.
+THE HERSHEY COMPANY
+Quarterly Report on Form 10-Q
+For the Period Ended March 30, 2025
+TABLE OF CONTENTS
+PART I. FINANCIAL INFORMATION
+2
+Item 1. Financial Statements
+2
+Consolidated Statements of Income for the Three   Months Ended   March 30, 2025   and   March     3  1, 20  2  4
+2
+Consolidated Statements of Comprehensive Income for the Three   Months Ended   March 30, 2025 and March 31, 2024
+3
+Consolidated Balance Sheets as of   March 30, 2025   and December 31, 202  4
+4
+Consolidated Statements of Cash Flows for the   T  hree   Months Ended   March 30, 2025 and March 31, 2024
+5
+Consolidated Statements of Stockholders’ Equity for the Three   Months Ended       March 30, 2025 and March 31, 2024
+6
+Notes to Unaudited Consolidated Financial Statements
+7
+Note 1 - Summary of Significant Accounting Policies
+7
+Note 2 - Business Acquisitions
+8
+Note 3 - Goodwill and Intangible Assets
+9
+Note 4 - Short and Long-Term Debt
+9
+Note 5 - Derivative Instruments
+11
+Note 6 - Fair Value Measurements
+13
+Note 7 - Leases
+14
+Note 8 - Investments in Unconsolidated Affiliates
+16
+Note 9 - Business Realignment Activities
+16
+Note 10 - Income Taxes
+18
+Note 11 - Pension and Other Post-Retirement Benefit Plans
+18
+Note 12 - Stock Compensation Plans
+19
+Note 13 - Segment Information
+21
+Note 14 - Treasury Stock Activity
+24
+Note 15 - Contingencies
+24
+Note 16 - Earnings Per Share
+25
+Note 17 - Other (Income) Expense, Net
+26
+Note 18 - Supplemental Balance Sheet Information
+27
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+29
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+39
+Item 4. Controls and Procedures
+41
+PART II. OTHER INFORMATION
+42
+Item 1. Legal Proceedings
+42
+Item 1A. Risk Factors
+42
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+42
+Item 3. Defaults Upon Senior Securities
+42
+Item 4. Mine Safety Disclosures
+42
+Item 5. Other Information
+42
+Item 6. Exhibits
+44
+Signatures
+45
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 1
+PART I — FINANCIAL INFORMATION
+Item 1. Financial Statements.
+THE HERSHEY COMPANY
+CONSOLIDATED STATEMENTS OF INCOME
+(in thousands, except per share amounts)
+(unaudited)
+Three Months Ended
+March 30, 2025     March 31, 2024
+Net sales         $     2,805,419        $     3,252,749
+Cost of sales
+1,861,152         1,576,668
+Gross profit
+944,267         1,676,081
+Selling, marketing and administrative expense
+558,672         617,981
+Business realignment costs          16,374         —
+Operating profit
+369,221         1,058,100
+Interest expense, net          44,622         39,822
+Other (income) expense, net          945         32,020
+Income before income taxes          323,654         986,258
+Provision for income taxes          99,451         188,805
+Net income
+$     224,203        $     797,453
+Net income per share—basic:
+Common stock         $     1.14        $     4.00
+Class B common stock         $     1.03        $     3.64
+Net income per share—diluted:
+Common stock         $     1.10        $     3.89
+Class B common stock         $     1.03        $     3.63
+Dividends paid per share:
+Common stock         $     1.370        $     1.370
+Class B common stock         $     1.245        $     1.245
+See Notes to Unaudited Consolidated Financial Statements.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 2
+THE HERSHEY COMPANY
+CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME
+(in thousands)
+(unaudited)
+For the Three Months Ended
+March 30, 2025     March 31, 2024
+Pre-Tax Amount     Tax (Expense) Benefit     After-Tax Amount     Pre-Tax Amount     Tax (Expense) Benefit     After-Tax Amount
+Net income                     $     224,203            $     797,453
+Other comprehensive income, net of tax:
+Foreign currency translation adjustments:
+Foreign currency translation gains (losses) during period                 $     9,904        $     —         9,904        $    ( 4,998 )      $     —        ( 4,998 )
+Pension and post-retirement benefit plans:
+Net actuarial gain (loss) and service cost                 ( 46 )      ( 32 )      ( 78 )      ( 48 )       7        ( 41 )
+Reclassification to earnings                  2,883        ( 694 )       2,189         2,541        ( 609 )       1,932
+Cash flow hedges:
+Gains (losses) on cash flow hedging derivatives                 ( 125 )      ( 152 )      ( 277 )       1,335        ( 84 )       1,251
+Reclassification to earnings                  946        ( 93 )       853         1,854        ( 755 )       1,099
+Total other comprehensive income (loss), net of tax                 $     13,562        $    ( 971 )       12,591        $     684        $    ( 1,441 )      ( 757 )
+Comprehensive income                     $     236,794            $     796,696
+See Notes to Unaudited Consolidated Financial Statements.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 3
+THE HERSHEY COMPANY
+CONSOLIDATED BALANCE SHEETS
+(in thousands, except share data)
+March 30, 2025     December 31, 2024
+(unaudited)
+ASSETS
+Current assets:
+Cash and cash equivalents     $     1,515,252        $     730,746
+Accounts receivable—trade, net      879,633         800,402
+Inventories      1,467,333         1,254,094
+Prepaid expenses and other      941,918         974,215
+Total current assets      4,804,136         3,759,457
+Property, plant and equipment, net      3,436,981         3,458,853
+Goodwill      2,707,786         2,705,753
+Other intangibles      1,853,530         1,873,866
+Other non-current assets      1,126,829         1,111,867
+Deferred income taxes      38,502         37,065
+Total assets     $     13,967,764        $     12,946,861
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable     $     1,415,460        $     1,159,177
+Accrued liabilities      826,947         807,341
+Accrued income taxes      25,495         51,036
+Short-term debt      144,626         1,306,976
+Current portion of long-term debt      603,617         604,965
+Total current liabilities      3,016,145         3,929,495
+Long-term debt      5,177,251         3,190,210
+Other long-term liabilities      676,257         688,259
+Deferred income taxes      413,215         424,243
+Total liabilities      9,282,868         8,232,207
+Stockholders’ equity:
+The Hershey Company stockholders’ equity
+Preferred stock, shares issued:   none   in 2025 and 2024
+—         —
+Common stock, shares issued:   166,939,511   at March 30, 2025 and December 31, 2024
+166,939         166,939
+Class B common stock, shares issued:   54,613,514   at March 30, 2025 and December 31, 2024
+54,614         54,614
+Additional paid-in capital      1,372,137         1,377,226
+Retained earnings      5,652,065         5,698,316
+Treasury—common stock shares, at cost:  18,956,021  at March 30, 2025 and  19,169,956  at December 31, 2024
+( 2,269,560 )      ( 2,278,551 )
+Accumulated other comprehensive loss     ( 291,299 )      ( 303,890 )
+Total stockholders’ equity      4,684,896         4,714,654
+Total liabilities and stockholders’ equity     $     13,967,764        $     12,946,861
+See Notes to Unaudited Consolidated Financial Statements.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 4
+THE HERSHEY COMPANY
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+(unaudited)
+Three Months Ended
+March 30, 2025     March 31, 2024
+Operating Activities
+Net income    $     224,203        $     797,453
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization     119,564         107,764
+Stock-based compensation expense     13,559         5,986
+Deferred income taxes    ( 12,202 )      ( 8,975 )
+Write-down of equity investments     —         31,391
+Unrealized losses (gains) on derivative contracts     270,794        ( 269,582 )
+Other     18,272         19,923
+Changes in assets and liabilities, net of business acquisition:
+Accounts receivable—trade, net    ( 73,044 )      ( 383,417 )
+Inventories    ( 207,243 )       202,055
+Prepaid expenses and other current assets    ( 339,155 )      ( 11,415 )
+Accounts payable and accrued liabilities     335,640        ( 56,334 )
+Accrued income taxes     80,174         147,537
+Contributions to pension and other benefit plans    ( 3,126 )      ( 2,408 )
+Other assets and liabilities    ( 30,754 )      ( 10,844 )
+Net cash provided by operating activities     396,682         569,134
+Investing Activities
+Capital additions (including software)    ( 145,527 )      ( 213,304 )
+Receipts (payments) related to equity investments in tax credit qualifying partnerships     3,558        ( 13,944 )
+Other investing activities    ( 5,017 )      ( 321 )
+Net cash used in investing activities    ( 146,986 )      ( 227,569 )
+Financing Activities
+Net (decrease) increase in short-term debt    ( 1,165,724 )       569,809
+Long-term borrowings, net of debt issuance costs     1,986,026         —
+Repayment of long-term debt and finance leases    ( 1,797 )      ( 1,568 )
+Cash dividends paid    ( 271,594 )      ( 273,404 )
+Repurchase of common stock     —        ( 494,191 )
+Proceeds from exercised stock options     2,738         4,103
+Taxes withheld and paid on employee stock awards
+( 12,573 )      ( 26,404 )
+Net cash provided by (used in) financing activities     537,076        ( 221,655 )
+Effect of exchange rate changes on cash and cash equivalents    ( 2,266 )      ( 1,408 )
+Net increase in cash and cash equivalents     784,506         118,502
+Cash and cash equivalents, beginning of period     730,746         401,902
+Cash and cash equivalents, end of period    $     1,515,252        $     520,404
+Supplemental Disclosure
+Interest paid    $     38,366        $     33,888
+Income taxes paid     38,918         31,284
+See Notes to Unaudited Consolidated Financial Statements.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 5
+HERSHEY COMPANY
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY
+For the Three Months Ended March 30, 2025 and March 31, 2024
+(in thousands)
+(unaudited)
+Preferred
+Stock     Common
+Stock     Class B
+Common
+Stock     Additional
+Paid-in
+Capital     Retained
+Earnings     Treasury
+Common
+Stock     Accumulated Other
+Comprehensive
+(Loss) Income     Total
+Stockholders’
+Equity
+Balance, December 31, 2024
+$     —        $     166,939        $     54,614        $     1,377,226        $     5,698,316        $    ( 2,278,551 )      $    ( 303,890 )      $     4,714,654
+Net income              224,203             224,203
+Other comprehensive income                  12,591         12,591
+Dividends (including dividend equivalents):
+Common Stock, $ 1.370  per share
+( 202,460 )          ( 202,460 )
+Class B Common Stock, $ 1.245  per share
+( 67,994 )          ( 67,994 )
+Stock-based compensation            13,647               13,647
+Exercise of stock options and incentive-based transactions           ( 18,736 )         8,991          ( 9,745 )
+Balance, March 30, 2025
+$     —        $     166,939        $     54,614        $     1,372,137        $     5,652,065        $    ( 2,269,560 )      $    ( 291,299 )      $     4,684,896
+Preferred
+Stock     Common
+Stock     Class B
+Common
+Stock     Additional
+Paid-in
+Capital     Retained
+Earnings     Treasury
+Common
+Stock     Accumulated Other
+Comprehensive
+(Loss) Income       Total
+Stockholders’
+Equity
+Balance, December 31, 2023
+$     —        $     166,939        $     54,614        $     1,345,580        $     4,562,263        $    ( 1,800,232 )      $    ( 230,078 )        $     4,099,086
+Net income               797,453               797,453
+Other comprehensive loss                 ( 757 )        ( 757 )
+Dividends (including dividend equivalents):
+Common Stock, $ 1.370  per share
+( 204,596 )            ( 204,596 )
+Class B Common Stock, $ 1.245  per share
+( 67,994 )            ( 67,994 )
+Stock-based compensation            6,390                 6,390
+Exercise of stock options and incentive-based transactions           ( 36,157 )         13,856            ( 22,301 )
+Repurchase of common stock (including excise tax)               ( 498,994 )          ( 498,994 )
+Balance, March 31, 2024
+$     —        $     166,939        $     54,614        $     1,315,813        $     5,087,126        $    ( 2,285,370 )      $    ( 230,835 )        $     4,108,287
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 6
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+(amounts in thousands, except share data or if otherwise indicated)
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The unaudited consolidated financial statements provided in this report include the accounts of The Hershey Company (the “Company,” “Hershey,” “we” or “us”) and our majority-owned subsidiaries and entities in which we have a controlling financial interest after the elimination of intercompany accounts and transactions.  We have a controlling financial interest if we own a majority of the outstanding voting common stock and minority shareholders do not have substantive participating rights, we have significant control through contractual or economic interests in which we are the primary beneficiary or we have the power to direct the activities that most significantly impact the entity’s economic performance.  We use the equity method of accounting when we have a 20% to 50% interest in other companies and exercise significant influence.  Other investments that are not controlled, and over which we do not have the ability to exercise significant influence, are accounted for under the cost method.  Both equity method investments and cost, less impairment, investments are included as Other non-current assets in the Consolidated Balance Sheets.
+The financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) for interim financial reporting and with the rules and regulations for reporting on Form 10-Q.  Accordingly, they do not contain certain information and disclosures required by GAAP for comprehensive financial statements.  The financial statements reflect all adjustments (consisting of normal recurring adjustments) which are, in our opinion, necessary for a fair presentation of the results of operations, financial position, and cash flows for the indicated periods.
+Operating results for the quarter ended March 30, 2025 may not be indicative of the results that may be expected for the year ending December 31, 2025 because of seasonal effects on our business.  These financial statements should be read in conjunction with our Annual Report on Form 10-K for the year ended December 31, 2024 (our “2024 Annual Report on Form 10-K”), which provides a more complete understanding of our accounting policies, financial position, operating results and other matters.
+Recent Accounting Pronouncements
+Recently Adopted Accounting Pronouncements
+In November 2023, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) No. 2023-07,   Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures  .  This ASU requires disclosure of significant segment expenses that are regularly provided to the chief operating decision maker (“CODM”), an amount for other segment items with a description of the composition, and disclosure of the title and position of the CODM.  ASU 2023-07 is effective for annual periods beginning after December 15, 2023 and interim periods within fiscal years beginning after December 15, 2024.  We adopted the provisions of this ASU in the fourth quarter of 2024 and applied the provisions retrospectively to each period presented in the consolidated financial statements.  Adoption of the new standard did not have a material impact on our consolidated financial statements.
+Recently Issued Accounting Pronouncements Not Yet Adopted
+In December 2023, the FASB issued ASU No. 2023-09,   Income Taxes (Topic 740): Improvements to Income Tax Disclosures  .  This ASU requires public business entities on an annual basis to disclose specific categories in a tabular rate reconciliation and provide additional information for reconciling items that meet a five percent quantitative threshold.  Additionally, the ASU requires all entities to disclose the amount of income taxes paid disaggregated by federal, state, and foreign taxes, as well as individual jurisdictions where income taxes paid are equal to or greater than five percent of total income taxes paid.  ASU 2023-09 is effective for annual periods beginning after December 15, 2024.  Early adoption is permitted and the update should be applied on a prospective basis, with a retrospective application permitted in the financial statements.  We are currently evaluating the impact of the new standard on our consolidated financial statements and related disclosures.  As a result, we intend to adopt the provisions of this ASU in the fourth quarter of 2025.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 7
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+In November 2024, the FASB issued ASU No. 2024-03,   Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40):  Disaggregation of Income Statement Expenses.    This ASU requires entities to disclose certain additional expense information including, among other items, purchases of inventory, employee compensation, depreciation and intangible asset amortization included within each Consolidated Statement of Income expense caption.  ASU 2024-03 is effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027.  Early adoption is permitted and the update should be applied on a prospective basis, with a retrospective application permitted in the financial statements.  We are currently evaluating the impact of the new standard on our consolidated financial statements and related disclosures.
+No other new accounting pronouncement issued or effective during the fiscal year had or is expected to have a material impact on our consolidated financial statements or disclosures.
+2.  BUSINESS ACQUISITIONS
+LesserEvil, LLC
+On March 31, 2025, we entered into a Merger Agreement to acquire LesserEvil, LLC, a privately held company that produces and sells organic popcorn and puffed snack products to retailers and distributors in the United States and Canada, which complements Hershey’s existing product portfolio. The Merger Agreement contains customary conditions, including, among others, (i) the expiration or termination of the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, (ii) the absence of any law or order prohibiting the consummation of the transactions contemplated in the Merger Agreement and (iii) the accuracy, to specified degrees, of representations and warranties set forth therein and material compliance with covenants. If approved, the Company expects the acquisition to close by mid-2025 and will be financed with of cash on hand and short-term borrowings.
+Sour Strips
+On November 8, 2024, we completed the acquisition of the Sour Strips brand from Actual Candy, LLC. Sour Strips is an emerging sour candy brand and is available in a wide range of food distribution channels in the United States.  The initial cash consideration paid for Sour Strips was deemed immaterial and consisted of cash on hand and short-term borrowings; however, the Company may be required to pay additional contingent consideration if certain defined targets are met over a multi-year period. Acquisition-related costs for the Sour Strips acquisition were immaterial.
+The acquisition has been accounted for as a business combination and, accordingly, Sour Strips has been included within the North America Confectionery segment from the date of acquisition.  The purchase consideration, inclusive of the acquisition date fair value of the contingent consideration, was allocated to minimal net assets acquired, goodwill and other intangible assets.  The first quarter of 2025 includes an immaterial amount of measurement period adjustments to the initial allocation.  We are in process of evaluating additional information necessary to finalize the valuation of assets acquired and liabilities assumed as of the acquisition date.  We expect to finalize the purchase price allocation by mid-2025.
+Goodwill was determined as the excess of the purchase price over the fair value of the net assets acquired (including the identifiable intangible assets).  The goodwill derived from this acquisition is expected to be deductible for tax purposes and reflects the value of leveraging our brand building expertise, commercial capabilities and retail relationships to accelerate growth.
+Other intangible assets include trademarks valued at $ 41,800  and customer relationships valued at $ 41,300 . Trademarks were assigned an estimated useful life of  22  years and customer relationships were assigned estimated useful lives ranging from  14  to  16  years.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 8
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+3.  GOODWILL AND INTANGIBLE ASSETS
+The changes in the carrying value of goodwill by reportable segment for the three months ended March 30, 2025 are as follows:
+North America Confectionery     North America Salty Snacks     International     Total
+Balance at December 31, 2024
+$     2,032,857        $     657,001        $     15,895        $     2,705,753
+Measurement period adjustments      1,382         —         —         1,382
+Foreign currency translation      463         —         188         651
+Balance at March 30, 2025
+$     2,034,702        $     657,001        $     16,083        $     2,707,786
+The following table provides the gross carrying amount and accumulated amortization for each major class of intangible asset:
+March 30, 2025     December 31, 2024
+Gross Carrying Amount     Accumulated Amortization     Gross Carrying Amount     Accumulated Amortization
+Intangible assets subject to amortization:
+Trademarks     $     1,721,369        $    ( 295,458 )      $     1,721,159        $    ( 282,819 )
+Customer-related      552,733        ( 159,553 )       552,594        ( 151,409 )
+Patents      7,614        ( 7,614 )       7,579        ( 7,579 )
+Total
+2,281,716        ( 462,625 )       2,281,332        ( 441,807 )
+Intangible assets not subject to amortization:
+Trademarks      34,439           34,341
+Total other intangible assets
+$     1,853,530          $     1,873,866
+Total amortization expense for the three months ended March 30, 2025 and March 31, 2024 was $ 20,568  and $ 19,554 , respectively.
+4.  SHORT AND LONG-TERM DEBT
+Short-term Debt
+As a source of short-term financing, we utilize cash on hand and commercial paper or bank loans with an original maturity of three months or less.  We maintain a $ 1.35  billion unsecured revolving credit facility with the option to increase borrowings by an additional $ 500  million with the consent of the lenders.  The credit facility is scheduled to expire on April 26, 2028; however, we may extend the termination date for up to  two  additional  one-year  periods upon notice to the administrative agent.
+The credit agreements governing the credit facility contain certain financial and other covenants, customary representations, warranties and events of default.  As of March 30, 2025, we were in compliance with all covenants pertaining to the credit facility, and we had no significant compensating balance agreements that legally restricted access to these funds.  For more information, refer to the Consolidated Financial Statements included in our 2024 Annual Report on Form 10-K.
+In addition to the revolving credit facility, we maintain lines of credit with domestic and international commercial banks.  Commitment fees relating to our revolving credit facility and lines of credit are not material.  Short-term debt consisted of the following:
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 9
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+March 30, 2025     December 31, 2024
+Short-term foreign bank borrowings against lines of credit    $     144,626      $     161,364
+U.S. commercial paper     —       1,145,612
+Total short-term debt    $     144,626      $     1,306,976
+Weighted average interest rate on outstanding commercial paper     —      %      4.5      %
+Long-term Debt
+Long-term debt consisted of the following:
+Debt Type and Rate
+Maturity Date
+March 30, 2025     December 31, 2024
+0.900  % Notes
+June 1, 2025      300,000         300,000
+3.200  % Notes
+August 21, 2025      300,000         300,000
+2.300  % Notes
+August 15, 2026      500,000         500,000
+7.200  % Debentures
+August 15, 2027      193,639         193,639
+4.550  % Notes (1)
+February 24, 2028      500,000         —
+4.250  % Notes
+May 4, 2028      350,000         350,000
+2.450  % Notes
+November 15, 2029      300,000         300,000
+4.750  % Notes (1)
+February 24, 2030      500,000         —
+1.700  % Notes
+June 1, 2030      350,000         350,000
+4.950  % Notes (1)
+February 24, 2032      500,000         —
+4.500  % Notes
+May 4, 2033      400,000         400,000
+5.100  % Notes (1)
+February 24, 2035      500,000         —
+3.375  % Notes
+August 15, 2046      300,000         300,000
+3.125  % Notes
+November 15, 2049      400,000       400,000
+2.650  % Notes
+June 1, 2050      350,000       350,000
+Finance lease obligations (see    Note 7   )
+72,381       73,802
+Net impact of interest rate swaps, debt issuance costs and unamortized debt discounts       ( 35,152 )     ( 22,266 )
+Total long-term debt        5,780,868         3,795,175
+Less—current portion        603,617       604,965
+Long-term portion       $     5,177,251        $     3,190,210
+(1) During the first quarter of 2025, we issued $ 500,000  of  4.550 % Notes due in February 2028, $ 500,000  of  4.750 % Notes due in February 2030, $ 500,000  of  4.950 % Notes due in February 2032 and $ 500,000  of  5.100 % Notes due in February 2035 (together, the “2025 Notes”).  Proceeds from the issuance of the 2025 Notes, net of discounts and issuance costs, totaled $ 1,986,026 .  The 2025 Notes were issued under a shelf registration on Form S-3 filed in May 2024 that registered an indeterminate amount of debt securities.
+Interest Expense
+Net interest expense consists of the following:
+Three Months Ended
+March 30, 2025     March 31, 2024
+Interest expense         $     54,916        $     46,044
+Capitalized interest         ( 4,309 )      ( 4,436 )
+Interest expense
+50,607         41,608
+Interest income         ( 5,985 )      ( 1,786 )
+Interest expense, net
+$     44,622        $     39,822
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 10
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+5.  DERIVATIVE INSTRUMENTS
+We are exposed to market risks arising principally from changes in foreign currency exchange rates, interest rates and commodity prices.  We use certain derivative instruments to manage these risks.  These include interest rate swaps to manage interest rate risk, foreign currency forward exchange contracts to manage foreign currency exchange rate risk, and commodities futures and options contracts to manage commodity market price risk exposures.
+In entering into these contracts, we have assumed the risk that might arise from the possible inability of counterparties to meet the terms of their contracts.  We mitigate this risk by entering into exchange-traded contracts with collateral posting requirements and/or by performing financial assessments prior to contract execution, conducting periodic evaluations of counterparty performance and maintaining a diverse portfolio of qualified counterparties.  We do not expect any significant losses from counterparty defaults.
+Commodity Price Risk
+We enter into commodities futures and options contracts and other commodity derivative instruments to reduce the effect of future price fluctuations associated with the purchase of raw materials, energy requirements and transportation services.  We generally hedge commodity price risks for  3 - to  24 -month periods.  Our open commodity derivative contracts had a notional value of $ 274,738  as of March 30, 2025 and $ 667,421  as of December 31, 2024.
+Derivatives used to manage commodity price risk are not designated for hedge accounting treatment.  Therefore, the changes in fair value of these derivatives are recorded as incurred within cost of sales.  As discussed in    Note 13   , we define our segment income to exclude gains and losses on commodity derivatives until the related inventory is sold, at which time the related gains and losses are reflected within segment income.  This enables us to continue to align the derivative gains and losses with the underlying economic exposure being hedged and thereby eliminate the mark-to-market volatility within our reported segment income.
+Foreign Exchange Price Risk
+We are exposed to foreign currency exchange rate risk related to our international operations, including non-functional currency intercompany debt and other non-functional currency transactions of certain subsidiaries.  Principal currencies hedged include the euro, Canadian dollar, Japanese yen, British pound, Brazilian real, Malaysian ringgit, Mexican peso and Swiss franc.  We typically utilize foreign currency forward exchange contracts to hedge these exposures for periods ranging from  3  to  18  months.  The contracts are either designated as cash flow hedges or are undesignated.  The net notional amount of foreign exchange contracts accounted for as cash flow hedges was $ 102,965  at March 30, 2025 and $ 79,028  at December 31, 2024.  The effective portion of the changes in fair value on these contracts is recorded in other comprehensive income and reclassified into earnings in the same period in which the hedged transactions affect earnings.  The net notional amount of foreign exchange contracts that are not designated as accounting hedges was $ 95,887  at March 30, 2025 and $ 123,014  at December 31, 2024.  The change in fair value on these instruments is recorded directly in cost of sales or selling, marketing and administrative (“SM&A”) expense, depending on the nature of the underlying exposure.
+Interest Rate Risk
+In order to manage interest rate exposure, from time to time, we enter into interest rate swap agreements to protect against unfavorable interest rate changes relating to forecasted debt transactions.  These swaps, which are settled upon issuance of the related debt, are designated as cash flow hedges and the gains and losses that are deferred in other comprehensive income are being recognized as an adjustment to interest expense over the same period that the hedged interest payments affect earnings.
+Equity Price Risk
+We are exposed to market price changes in certain broad market indices related to our deferred compensation obligations to our employees.  To mitigate this risk, we use equity swap contracts to hedge the portion of the exposure that is linked to market-level equity returns.  These contracts are not designated as hedges for accounting purposes and are entered into for periods of  3  to  12  months.  The change in fair value of these derivatives is recorded in selling, marketing and administrative expense, together with the change in the related liabilities.  The notional amount of the contracts outstanding at March 30, 2025 and December 31, 2024 was $ 31,391  and $ 30,524 , respectively.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 11
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+The following table presents the classification of derivative assets and liabilities within the Consolidated Balance Sheets as of March 30, 2025 and December 31, 2024:
+March 30, 2025     December 31, 2024
+Assets (1)     Liabilities (1)     Assets (1)     Liabilities (1)
+Derivatives designated as cash flow hedging instruments:
+Foreign exchange contracts     $     5,225        $     1,386        $     8,598        $     3,280
+Derivatives not designated as hedging instruments:
+Commodities futures and options (2)      242,791         8,424         514,623         14,321
+Deferred compensation derivatives      —         1,886         460         —
+Foreign exchange contracts      —         159         164         4,800
+242,791         10,469         515,247         19,121
+Total     $     248,016        $     11,855        $     523,845        $     22,401
+(1)  Derivative assets are classified on our Consolidated Balance Sheets within prepaid expenses and other as well as other non-current assets.  Derivative liabilities are classified on our Consolidated Balance Sheets within accrued liabilities and other long-term liabilities.
+(2)    As of March 30, 2025, amounts reflected on a net basis in assets were assets of $ 311,408  and liabilities of $ 74,132 , which are associated with cash transfers receivable or payable on commodities futures contracts reflecting the change in quoted market prices on the last trading day for the period.  The comparable amounts reflected on a net basis in liabilities at December 31, 2024 were assets of $ 533,115  and liabilities of $ 32,998 .  At March 30, 2025 and December 31, 2024, the remaining amount reflected in assets and liabilities related to the fair value of other non-exchange traded derivative instruments, respectively.
+Income Statement Impact of Derivative Instruments
+The effect of derivative instruments on the Consolidated Statements of Income for the three months ended March 30, 2025 and March 31, 2024 was as follows:
+Non-designated Hedges     Cash Flow Hedges
+Gains (losses) recognized in income (a)     Gains (losses) recognized in other comprehensive income (“OCI”)     Gains (losses) reclassified from accumulated OCI (“AOCI”) into income (b)
+2025     2024     2025     2024     2025     2024
+Commodities futures and options
+$    ( 53,857 )      $     197,764        $     —        $     —        $     —        $     —
+Foreign exchange contracts       3,951        ( 267 )      ( 125 )       1,335         1,354         445
+Interest rate swap agreements
+—         —         —         —        ( 2,300 )      ( 2,299 )
+Deferred compensation derivatives
+( 1,886 )       2,271         —         —         —         —
+Total
+$    ( 51,792 )      $     199,768        $    ( 125 )      $     1,335        $    ( 946 )      $    ( 1,854 )
+(a)  Gains (losses) recognized in income for non-designated commodities futures and options contracts were included in cost of sales.  Gains (losses) recognized in income for non-designated foreign currency forward exchange contracts and deferred compensation derivatives were included in selling, marketing and administrative expenses.
+(b)  Gains (losses) reclassified from AOCI into income for foreign currency forward exchange contracts were included in selling, marketing and administrative expenses.  Losses reclassified from AOCI into income for interest rate swap agreements were included in interest expense.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 12
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+The amount of pre-tax net loss on derivative instruments, including interest rate swap agreements and foreign currency forward exchange contracts expected to be reclassified into earnings in the next 12 months was approximately $ 5,361  as of March 30, 2025.  This amount is primarily associated with interest rate swap agreements.
+6.  FAIR VALUE MEASUREMENTS
+Accounting guidance on fair value measurements requires that financial assets and liabilities be classified and disclosed in one of the following categories of the fair value hierarchy:
+Level 1   – Based on unadjusted quoted prices for identical assets or liabilities in an active market.
+Level 2   – Based on observable market-based inputs or unobservable inputs that are corroborated by market data.
+Level 3   – Based on unobservable inputs that reflect the entity’s own assumptions about the assumptions that a market participant would use in pricing the asset or liability.
+We did   no  t have any Level 3 financial assets or liabilities, nor were there any transfers between levels during the periods presented.
+The following table presents assets and liabilities that were measured at fair value in the Consolidated Balance Sheets on a recurring basis as of March 30, 2025 and December 31, 2024:
+Assets / Liabilities
+Level 1     Level 2     Level 3     Total
+March 30, 2025:
+Derivative Instruments:
+Assets:
+Foreign exchange contracts (1)     $     —      $     5,225      $     —      $     5,225
+Commodities futures and options (3)     $     242,791      $     —      $     —      $     242,791
+Liabilities:
+Foreign exchange contracts (1)     $     —      $     1,545      $     —      $     1,545
+Deferred compensation derivatives (2)      —         1,886         —         1,886
+Commodities futures and options (3)     $     8,424      $     —      $     —      $     8,424
+December 31, 2024:
+Assets:
+Foreign exchange contracts (1)     $     —      $     8,761      $     —      $     8,761
+Deferred compensation derivatives (2)     $     —      $     460      $     —      $     460
+Commodities futures and options (3)     $     514,623      $     —      $     —      $     514,623
+Liabilities:
+Foreign exchange contracts (1)     $     —      $     8,080      $     —      $     8,080
+Commodities futures and options (3)     $     14,321      $     —      $     —      $     14,321
+(1)  The fair value of foreign currency forward exchange contracts is the difference between the contract and current market foreign currency exchange rates at the end of the period.  We estimate the fair value of foreign currency forward exchange contracts on a quarterly basis by obtaining market quotes of spot and forward rates for contracts with similar terms, adjusted where necessary for maturity differences.
+(2)  The fair value of deferred compensation derivatives is based on quoted prices for market interest rates and a broad market equity index.
+(3)  The fair value of commodities futures and options contracts is based on quoted market prices.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 13
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+Other Financial Instruments
+The carrying amounts of cash and cash equivalents, accounts receivable, accounts payable and short-term debt approximated fair values as of March 30, 2025 and December 31, 2024 because of the relatively short maturity of these instruments.
+The estimated fair value of our long-term debt is based on quoted market prices for similar debt issues and is, therefore, classified as Level 2 within the valuation hierarchy.   The fair values and carrying values of long-term debt, including the current portion, were as follows:
+Fair Value     Carrying Value
+March 30, 2025     December 31, 2024     March 30, 2025     December 31, 2024
+Current portion of long-term debt     $     600,324      $     597,547      $     603,617      $     604,965
+Long-term debt      4,778,927         2,734,322         5,177,251         3,190,210
+Total     $     5,379,251        $     3,331,869        $     5,780,868        $     3,795,175
+Other Fair Value Measurements
+In addition to assets and liabilities that are recorded at fair value on a recurring basis, GAAP requires that, under certain circumstances, we also record assets and liabilities at fair value on a nonrecurring basis.
+2024 Activity
+In connection with the acquisition of Sour Strips in 2024, as discussed in    Note 2     , we used various valuation techniques to determine fair value, with the primary techniques being discounted cash flow analysis and the relief-from-royalty, a form of the multi-period excess earnings, which use significant unobservable inputs, or Level 3 inputs, as defined by the fair value hierarchy.  Additionally, we estimated the fair value of the contingent consideration using a Monte Carlo simulation model.
+7.   LEASES
+We lease office and retail space, warehouse and distribution facilities, land, vehicles, and equipment.  We determine if an agreement is or contains a lease at inception.  Leases with an initial term of 12 months or less are not recorded on the consolidated balance sheet.
+Right-of-use (“ROU”) assets represent our right to use an underlying asset for the lease term and lease liabilities represent our obligation to make lease payments arising from the lease.  ROU assets and liabilities are based on the estimated present value of lease payments over the lease term and are recognized at the lease commencement date.
+As most of our leases do not provide an implicit rate, we use our estimated incremental borrowing rate in determining the present value of lease payments.  The estimated incremental borrowing rate is derived from information available at the lease commencement date.
+Our lease terms may include options to extend or terminate the lease when it is reasonably certain that we will exercise that option.  A limited number of our lease agreements include rental payments adjusted periodically for inflation.  Our lease agreements generally do not contain residual value guarantees or material restrictive covenants.
+For real estate, equipment and vehicles that support selling, marketing and general administrative activities, the Company accounts for the lease and non-lease components as a single lease component.  These asset categories comprise the majority of our leases.  The lease and non-lease components of real estate and equipment leases supporting production activities are not accounted for as a single lease component.  Consideration for such contracts are allocated to the lease and non-lease components based upon relative standalone prices either observable or estimated if observable prices are not readily available.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 14
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+The components of lease expense for the three months ended March 30, 2025 and March 31, 2024 were as follows:
+Three Months Ended
+Lease expense     Classification     March 30, 2025     March 31, 2024
+Operating lease cost     Cost of sales or SM&A (1)     $     14,211        $     12,215
+Finance lease cost:
+Amortization of ROU assets     Depreciation and amortization (1)      2,250         2,213
+Interest on lease liabilities     Interest expense, net      1,134         1,185
+Net lease cost (2)       $     17,595        $     15,613
+(1)  Supply chain-related amounts were included in cost of sales.
+(2)  Net lease cost does not include short-term leases, variable lease costs or sublease income, all of which are immaterial.
+Information regarding our lease terms and discount rates were as follows:
+March 30, 2025     December 31, 2024
+Weighted-average remaining lease term (years)
+Operating leases      11.7       12.4
+Finance leases      26.2       25.9
+Weighted-average discount rate
+Operating leases      3.8      %      3.7      %
+Finance leases      6.3      %      6.3      %
+Supplemental balance sheet information related to leases were as follows:
+Leases     Classification     March 30, 2025     December 31, 2024
+Assets
+Operating lease ROU assets     Other non-current assets     $     357,070        $     337,739
+Finance lease ROU assets, at cost     Property, plant and equipment, gross      87,077         87,999
+Accumulated amortization     Accumulated depreciation     ( 27,020 )      ( 25,515 )
+Finance lease ROU assets, net     Property, plant and equipment, net      60,057         62,484
+Total leased assets       $     417,127        $     400,223
+Liabilities
+Current
+Operating     Accrued liabilities     $     45,682        $     40,636
+Finance     Current portion of long-term debt      4,905         5,666
+Non-current
+Operating     Other long-term liabilities      319,640         304,767
+Finance     Long-term debt      67,476         68,136
+Total lease liabilities       $     437,703        $     419,205
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 15
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+The maturities of our lease liabilities as of March 30, 2025 were as follows:
+Operating leases     Finance leases     Total
+2025 (rest of year)    $     44,082        $     7,109        $     51,191
+2026     55,757         6,922         62,679
+2027     53,087         4,902         57,989
+2028     35,740         4,396         40,136
+2029     32,388         4,245         36,633
+Thereafter     227,053         133,709         360,762
+Total lease payments     448,107         161,283         609,390
+Less: Imputed interest     82,785         88,902         171,687
+Total lease liabilities    $     365,322        $     72,381        $     437,703
+Supplemental cash flow and other information related to leases were as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024
+Cash paid for amounts included in the measurement of lease liabilities:
+Operating cash flows from operating leases     $     13,538        $     11,824
+Operating cash flows from finance leases      1,134         1,185
+Financing cash flows from finance leases      1,798         1,563
+ROU assets obtained in exchange for lease liabilities:
+Operating leases     $     29,501        $     9,043
+Finance leases      62         983
+8.  INVESTMENTS IN UNCONSOLIDATED AFFILIATES
+We invest in partnerships that make equity investments in projects eligible to receive federal historic and renewable energy tax credits.  The tax credits, when realized, are recognized as a reduction of tax expense under the flow-through method, at which time the corresponding equity investment is written-down to reflect the remaining value of the future benefits to be realized.  The equity investment write-down is reflected within other (income) expense, net in the Consolidated Statements of Income (see    Note 17   ).
+Additionally, we acquire ownership interests in emerging snacking businesses and startup companies, which vary in method of accounting based on our percentage of ownership and ability to exercise significant influence over decisions relating to operating and financial affairs.  These investments afford the Company the rights to distribute brands that the Company does not own to third-party customers primarily in North America.  Net sales and expenses of our equity method investees are not consolidated into our financial statements; rather, our proportionate share of earnings or losses are recorded on a net basis within other (income) expense, net in the Consolidated Statements of Income.
+Both equity method investments and cost, less impairment, investments are reported within other non-current assets in our Consolidated Balance Sheets.  We regularly review our investments and adjust accordingly for capital contributions, dividends received and other-than-temporary impairments.  Total investments in unconsolidated affiliates were $ 209,578  and $ 212,928  as of March 30, 2025 and December 31, 2024, respectively.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 16
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+9.  BUSINESS REALIGNMENT ACTIVITIES
+We periodically undertake business realignment activities designed to increase our efficiency and focus our business in support of our key growth strategies.
+Advancing Agility & Automation Initiative
+On February 2, 2024, the Board of Directors of the Company approved a multi-year productivity initiative (“Advancing Agility & Automation Initiative” or "AAA Initiative") to improve supply chain and manufacturing-related spend, optimize selling, general and administrative expenses, leverage new technology and business models to further simplify and automate processes, and generate long-term savings.
+The Company estimates that the AAA Initiative will result in total pre-tax costs of $ 200,000  to $ 250,000  from inception through 2026.  This estimate primarily includes program office execution and third-party costs supporting the design and implementation of the new organizational structure of $ 100,000  to $ 120,000 , as well as implementation and technology capability costs of $ 55,000  to $ 70,000 .  Additionally, we expect to incur employee severance and related separation benefits of $ 45,000  to $ 60,000  as we facilitate workforce reductions and reallocate resources to further drive the Company’s strategic priorities.  The cash portion of the total cost is estimated to be $ 175,000  to $ 225,000 .  At the conclusion of the program in 2026, ongoing annual savings are expected to be approximately $ 300,000  to $ 350,000 .
+Since inception through March 30, 2025, we recognized total costs associated with the AAA Initiative of $ 143,390 .  These charges predominantly included employee severance and related separation benefits related to workforce reductions and third-party costs supporting the design and implementation of the new organizational structure, as well as technology capability costs. The costs and related benefits of the AAA Initiative predominantly relates to the North America Confectionery segment and Corporate. However, segment operating results do not include these business realignment expenses because we evaluate segment performance excluding such costs.
+Costs associated with business realignment activities are classified in our Consolidated Statements of Income as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024
+Cost of sales         $     —        $     2,612
+Selling, marketing and administrative expense          9,480         14,054
+Business realignment costs          16,374         —
+Costs associated with business realignment activities         $     25,854        $     16,666
+Costs recorded by program during the three months ended March 30, 2025 and March 31, 2024 related to these activities were as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024
+Advancing Agility & Automation Initiative:
+Severance and employee benefit costs         $     16,374        $     —
+Other program costs          9,480         16,666
+Total         $     25,854        $     16,666
+The following table presents the liability activity for costs qualifying as exit and disposal costs for the three months ended March 30, 2025:
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 17
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+Total
+Liability balance at December 31, 2024 (1)
+$     10,417
+2025 business realignment charges (2)
+16,374
+Cash payments    ( 5,412 )
+Liability balance at March 30, 2025 (1)
+$     21,379
+(1)  The liability balances reflected above are reported within accrued liabilities and other long-term liabilities.
+(2)  The costs reflected in the liability roll-forward represent employee-related charges.
+10.  INCOME TAXES
+The majority of our taxable income is generated in the United States and taxed at the United States statutory rate of  21 %.  The effective tax rates for the three months ended March 30, 2025 and March 31, 2024 were  30.7 % and  19.1 %, respectively.  Relative to the statutory rate, the 2025 effective tax rate was primarily impacted by foreign rate differential and state taxes.
+The Company and its subsidiaries file tax returns in the United States, including various state and local returns, and in other foreign jurisdictions.  We are routinely audited by taxing authorities in our filing jurisdictions, and a number of these disputes are currently underway, including multi-year controversies at various stages of review, negotiation and litigation in Mexico, Canada, Switzerland and the United States.  The outcome of tax audits cannot be predicted with certainty, including the timing of resolution or potential settlements.  If any issues addressed in our tax audits are resolved in a manner not consistent with management’s expectations, we could be required to adjust our provision for income taxes in the period such resolution occurs.  Based on our current assessments, we believe adequate provision has been made for all income tax uncertainties.  We reasonably expect reductions in the liability for unrecognized tax benefits of approximately $ 17,885  within the next 12 months because of the expiration of statutes of limitations and settlements of tax audits.
+11.  PENSION AND OTHER POST-RETIREMENT BENEFIT PLANS
+Net Periodic Benefit Cost
+The components of net periodic benefit cost for the three months ended March 30, 2025 and March 31, 2024 were as follows:
+Pension Benefits     Other Benefits
+Three Months Ended     Three Months Ended
+March 30, 2025     March 31, 2024     March 30, 2025     March 31, 2024
+Service cost     $     3,502      $     3,849      $     27      $     34
+Interest cost      9,220         9,687         1,228         1,218
+Expected return on plan assets     ( 12,011 )      ( 12,808 )       —         —
+Amortization of prior service credit     ( 889 )      ( 1,373 )      ( 96 )      ( 38 )
+Amortization of net loss (gain)      3,553         3,813         315         139
+Total net periodic benefit cost     $     3,375        $     3,168        $     1,474        $     1,353
+We made contributions of $ 689  and $ 2,437  to the pension plans and other benefits plans, respectively, during the first quarter of 2025.  In the first quarter of 2024, we made contributions of $ 816  and $ 1,592  to our pension plans and other benefit plans, respectively.  The contributions in 2025 and 2024 also included benefit payments from our non-qualified pension plans and post-retirement benefit plans.
+The non-service cost components of net periodic benefit cost relating to pension and other post-retirement benefit plans is reflected within other (income) expense, net in the Consolidated Statements of Income (see    Note 17   ).
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 18
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+12.  STOCK COMPENSATION PLANS
+Share-based grants for compensation and incentive purposes are made pursuant to the Equity and Incentive Compensation Plan (“EICP”).  The EICP provides for grants of one or more of the following stock-based compensation awards to employees, non-employee directors and certain service providers upon whom the successful conduct of our business is dependent:
+•  Non-qualified stock options (“stock options”);
+•  Performance stock units (“PSUs”) and performance stock;
+•  Stock appreciation rights;
+•  Restricted stock units (“RSUs”) and restricted stock; and
+•  Other stock-based awards.
+The EICP also provides for the deferral of stock-based compensation awards by participants if approved by the Compensation and Human Capital Committee of our Board and if in accordance with an applicable deferred compensation plan of the Company.  Currently, the Compensation and Human Capital Committee has authorized the deferral of PSU and RSU awards by certain eligible employees under the Company’s Deferred Compensation Plan.  Our Board has authorized our non-employee directors to defer any portion of their cash retainer, committee chair fees and RSUs awarded that they elect to convert into deferred stock units under our Directors’ Compensation Plan.
+At the time stock options are exercised or PSUs and RSUs become payable, Common Stock is issued from our accumulated treasury shares.  Dividend equivalents are credited on RSUs on the same date and at the same rate as dividends paid on our Common Stock.  Dividend equivalents are charged to retained earnings and included in accrued liabilities until paid.
+Awards to employees eligible for retirement prior to the award becoming fully vested are amortized to expense over the period through the date that the employee first becomes eligible to retire and is no longer required to provide service to earn the award.  In addition, historical data is used to estimate forfeiture rates and record share-based compensation expense only for those awards that are expected to vest.
+For the periods presented, compensation expense for all types of stock-based compensation programs and the related income tax benefit recognized were as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024
+Pre-tax compensation expense
+$     13,559        $     5,986
+Related income tax benefit          3,308         1,221
+Compensation expenses for stock compensation plans are primarily included in SM&A expense.  As of March 30, 2025, total stock-based compensation expense related to non-vested awards not yet recognized was $ 105,959  and the weighted-average period over which this amount is expected to be recognized was approximately  2.1  years.
+Stock Options
+The exercise price of each stock option awarded under the EICP equals the closing price of our Common Stock on the New York Stock Exchange on the date of grant.  Each stock option has a maximum term of  10  years.  Grants of stock options provide for pro-rated vesting, typically over a  four-year  period.      Expense for stock options is based on grant date fair value and recognized on a straight-line method over the vesting period, net of estimated forfeitures.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 19
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+A summary of activity relating to grants of stock options for the period ended March 30, 2025 is as follows:
+Stock Options    Shares    Weighted-Average
+Exercise Price (per share)    Weighted-Average Remaining
+Contractual Term    Aggregate Intrinsic Value
+Outstanding at beginning of year     579,834       $ 106.73      2.7  years
+Exercised    ( 30,277 )     $ 101.12
+Outstanding as of March 30, 2025
+549,557       $ 107.04      2.5  years    $     35,081
+Options exercisable as of March 30, 2025
+544,098       $ 105.93      2.4  years    $     35,081
+No  options were granted for the period ended March 30, 2025. The weighted-average fair value of options granted was $ 45.95  per share for the period ended March 31, 2024.  The fair value was estimated on the date of grant using a Black-Scholes option-pricing model and the following weighted-average assumptions:
+Three Months Ended
+March 31, 2024
+Dividend yields
+2.0      %
+Expected volatility        21.3      %
+Risk-free interest rates
+4.3      %
+Expected term in years        6.3
+The total intrinsic value of options exercised was $ 1,833  and $ 4,148  for the periods ended March 30, 2025 and March 31, 2024, respectively.
+Performance Stock Units and Restricted Stock Units
+Under the EICP, we grant PSUs to select executives and other key employees.  Vesting is contingent upon the achievement of certain performance objectives.  We grant PSUs over  three-year  performance cycles.  If we meet targets for financial measures at the end of the applicable  three-year  performance cycle, we award a resulting number of shares of our Common Stock to the participants.  The number of shares may be increased to the maximum or reduced to the minimum threshold based on the results of these performance metrics in accordance with the terms established at the time of the award.
+For PSUs granted, the target award is a combination of a market-based total shareholder return and performance-based components.  For market-based condition components, market volatility and other factors are taken into consideration in determining the grant date fair value and the related compensation expense is recognized regardless of whether the market condition is satisfied, provided that the requisite service has been provided.  For performance-based condition components, we estimate the probability that the performance conditions will be achieved each quarter and adjust compensation expenses accordingly.  The performance scores of PSU grants during the three months ended March 30, 2025 and March 31, 2024 can range from   0  % to   250  % of the targeted amounts.
+We recognize the compensation expenses associated with PSUs ratably over the  three-year  term.  Compensation expenses are based on the grant date fair value because the grants can only be settled in shares of our Common Stock.  The grant date fair value of PSUs is determined based on the Monte Carlo simulation model for the market-based total shareholder return component and the closing market price of the Company’s Common Stock on the date of grant for performance-based components.
+During the three months ended March 30, 2025 and March 31, 2024, we awarded RSUs to certain executive officers and other key employees under the EICP.  We also awarded RSUs to non-employee directors.
+We recognize the compensation expenses associated with employee RSUs over a specified award vesting period based on the grant date fair value of our Common Stock.  We recognize expense for employee RSUs based on the straight-
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 20
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+line method.  The compensation expenses associated with non-employee director RSUs is recognized ratably over the vesting period, net of estimated forfeitures.
+A summary of activity relating to grants of PSUs and RSUs for the period ended March 30, 2025 is as follows:
+Performance Stock Units and Restricted Stock Units
+Number of units     Weighted-average grant date fair value for equity awards (per unit)
+Outstanding at beginning of year
+538,803        $ 204.65
+Granted
+420,478        $ 166.02
+Performance assumption change (1)
+79,674        $ 268.24
+Vested
+( 273,976 )      $ 207.25
+Forfeited
+( 27,134 )      $ 204.08
+Outstanding as of March 30, 2025
+737,845        $ 188.55
+(1)  Reflects the net number of PSUs above and below target levels based on the performance metrics.
+The following table sets forth information about the fair value of the PSUs and RSUs granted for potential future distribution to employees and non-employee directors.  In addition, the table provides assumptions used to determine the fair value of the market-based total shareholder return component using the Monte Carlo simulation model on the date of grant.
+Three Months Ended
+March 30, 2025     March 31, 2024
+Units granted
+420,478       315,389
+Weighted-average fair value at date of grant
+$     166.02      $     196.16
+Monte Carlo simulation assumptions:
+Estimated values     $     65.27      $     84.13
+Dividend yields      3.3      %      2.8      %
+Expected volatility      21.7      %      18.5      %
+The fair value of shares vested totaled $ 46,251  and $ 84,998  for the periods ended March 30, 2025 and March 31, 2024, respectively.
+Deferred PSUs, deferred RSUs and deferred stock units representing directors’ fees totaled  244,525  units as of March 30, 2025.  Each unit is equivalent to  one  share of the Company’s Common Stock.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 21
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+13.  SEGMENT INFORMATION
+The Company reports its operations through  three  segments: (i) North America Confectionery, (ii) North America Salty Snacks and (iii) International.  This organizational structure aligns with how our CODM, Michele Buck, Chairman of the Board, President, and Chief Executive Officer, manages our business, including resource allocation and performance assessment, and further aligns with our product categories and the key markets we serve.
+•  North America Confectionery   –   This segment is responsible for our traditional chocolate and non-chocolate confectionery market position in the United States and Canada.  This includes our business in chocolate and non-chocolate confectionery, gum and refreshment products, protein bars, spreads, snack bites and mixes, as well as pantry and food service lines.  This segment also includes our retail operations, including Hershey’s Chocolate World stores in Hershey, Pennsylvania; New York, New York; Las Vegas, Nevada; Niagara Falls (Ontario) and Singapore, as well as operations associated with licensing the use of certain of the Company’s trademarks and products to third parties around the world.
+•  North America Salty Snacks     –   This segment is responsible for our salty snacking products in the United States.  This includes ready-to-eat popcorn, baked and trans fat free snacks, pretzels and other snacks.
+•  International   –   International is a combination of all other operating segments that are not individually material, including those geographic regions where we operate outside of North America.  We currently have operations and manufacture product in Mexico, Brazil, India and Malaysia, primarily for consumers in these regions, and also distribute and sell confectionery products in export markets of Asia, Latin America, Middle East, Europe, Africa and other regions.
+For segment reporting purposes, the CODM uses “segment income” to evaluate segment performance and allocate resources, including considering budget-to-actual variances and prior year-to-actual variances on a monthly basis.  Segment income excludes unallocated general corporate administrative expenses, unallocated mark-to-market gains and losses on commodity derivatives, business realignment and impairment charges, acquisition-related costs and other unusual gains or losses that are not part of our measurement of segment performance.  These items of our operating profit are managed centrally at the corporate level and are excluded from the measure of segment income reviewed by the CODM as well as the measure of segment performance used for incentive compensation purposes.
+As discussed in    Note 5   , derivatives used to manage commodity price risk are not designated for hedge accounting treatment.  These derivatives are recognized at fair market value with the resulting realized and unrealized (gains) losses recognized in unallocated derivative (gains) losses outside of the reporting segment results until the related inventory is sold, at which time the related gains and losses are reallocated to segment income.  This enables us to align the derivative gains and losses with the underlying economic exposure being hedged and thereby eliminate the mark-to-market volatility within our reported segment income.
+Certain manufacturing, warehousing, distribution and other activities supporting our global operations are integrated to maximize efficiency and productivity.  As a result, assets and capital expenditures are not managed on a segment basis and are not included in the information reported to the CODM for the purpose of evaluating performance or allocating resources.  We disclose depreciation and amortization that is generated by segment-specific assets, since these amounts are included within the measure of segment income reported to the CODM.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 22
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+Our segment net sales and earnings were as follows:
+For the three months ended
+March 30, 2025
+North America Confectionery     North America Salty Snacks     International     Total
+Net sales     $     2,300,140        $     277,798        $     227,481        $     2,805,419
+Cost of sales      1,315,076         180,638         153,984
+SM&A expense      288,690         55,307         44,771
+Total segment income     $     696,374        $     41,853        $     28,726        $     766,953
+Unallocated corporate expense (1)            160,425
+Unallocated mark-to-market losses on commodity derivatives         211,453
+Costs associated with business realignment activities (see    Note 9   )
+25,854
+Operating profit       $     369,221
+Interest expense, net (see    Note 4   )
+44,622
+Other (income) expense, net (see    Note 17   )
+945
+Income before income taxes       $     323,654
+For the three months ended
+March 31, 2024
+North America Confectionery     North America Salty Snacks     International     Total
+Net sales     $     2,707,310        $     275,106        $     270,333        $     3,252,749
+Cost of sales      1,428,391         183,747         179,932
+SM&A expense      330,724         52,654         47,651
+Total segment income     $     948,195        $     38,705        $     42,750        $     1,029,650
+Unallocated corporate expense (1)            172,899
+Unallocated mark-to-market gains on commodity derivatives        ( 218,015 )
+Costs associated with business realignment activities (see    Note 9   )
+16,666
+Operating profit       $     1,058,100
+Interest expense, net (see    Note 4   )
+39,822
+Other (income) expense, net (see    Note 17   )
+32,020
+Income before income taxes       $     986,258
+(1)  Includes centrally-managed (a) corporate functional costs relating to legal, treasury, finance, and human resources, (b) expenses associated with the oversight and administration of our global operations, including warehousing, distribution and manufacturing, information systems and global shared services, (c) non-cash stock-based compensation expense, (d) acquisition and integration-related costs, and (e) other gains or losses that are not integral to segment performance.
+Activity within the unallocated mark-to-market adjustment for commodity derivatives is as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024
+Net losses (gains) on mark-to-market valuation of commodity derivative positions recognized in income         $     53,857        $    ( 197,764 )
+Net gains (losses) on commodity derivative positions reclassified from unallocated to segment income           157,596        ( 20,251 )
+Net losses (gains) on mark-to-market valuation of commodity derivative positions recognized in unallocated derivative (gains) losses         $     211,453        $    ( 218,015 )
+As of March 30, 2025, the cumulative amount of mark-to-market gains on commodity derivatives that have been recognized in our consolidated cost of sales and not yet allocated to reportable segments was $ 198,776 .  Based on our forecasts of the timing of the recognition of the underlying hedged items, we expect to reclassify net pre-tax gains on commodity derivatives of $ 163,720  to segment operating results in the next twelve months.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 23
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+Depreciation and amortization expense included within segment income presented above is as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024
+North America Confectionery         $     69,773        $     62,421
+North America Salty Snacks          21,846         19,843
+International          6,185         6,071
+Corporate          21,760         19,429
+Total         $     119,564        $     107,764
+Additional information regarding our net sales disaggregated by geographical region is as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024
+Net sales:
+United States         $     2,467,754        $     2,854,432
+All other countries          337,665         398,317
+Total         $     2,805,419        $     3,252,749
+14.  TREASURY STOCK ACTIVITY
+A summary of our treasury stock activity is as follows:
+Three Months Ended March 30, 2025
+Shares     Dollars
+In thousands
+Shares issued for stock options and incentive compensation    ( 213,935 )      $    ( 8,991 )
+In May 2021, our Board of Directors approved a $ 500  million share repurchase authorization, which was completed as of March 31, 2024.  In December 2023, our Board of Directors approved an additional $ 500  million share repurchase authorization.  This program commenced after the existing May 2021 authorization was completed.  As a result of the share repurchase authorization, approximately $ 470  million remains available for repurchases under our December 2023 share repurchase authorization.  We are authorized to purchase our outstanding shares in open market and privately negotiated transactions.  The program has no expiration date and acquired shares of Common Stock will be held as treasury shares.  Purchases under approved share repurchase authorizations are in addition to our practice of buying back shares sufficient to offset those issued under incentive compensation plans.
+15.  CONTINGENCIES
+The Company is subject to certain legal proceedings and claims arising out of the ordinary course of our business, which cover a wide range of matters including trade regulation, product liability, advertising, contracts, environmental issues, patent and trademark matters, labor and employment matters, human and workplace rights matters and tax. While it is not feasible to predict or determine the outcome of such proceedings and claims with certainty, in our opinion, these matters, both individually and in the aggregate, are not expected to have a material effect on our financial condition, results of operations or cash flows.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 24
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+16.  EARNINGS PER SHARE
+We compute basic earnings per share for Common Stock and Class B common stock using the two-class method.  The Class B common stock is convertible into Common Stock on a share-for-share basis at any time.  The computation of diluted earnings per share for Common Stock assumes the conversion of Class B common stock using the if-converted method, while the diluted earnings per share of Class B common stock does not assume the conversion of those shares.
+Three Months Ended
+March 30, 2025     March 31, 2024
+Common Stock     Class B Common Stock     Common Stock     Class B Common Stock
+Basic earnings per share:
+Numerator:
+Allocation of distributed earnings (cash dividends paid)     $     203,600        $     67,994        $     205,411        $     67,994
+Allocation of undistributed earnings     ( 35,496 )      ( 11,895 )       393,508         130,540
+Total earnings—basic     $     168,104        $     56,099        $     598,919        $     198,534
+Denominator (shares in thousands):
+Total weighted-average shares—basic      148,097         54,614         149,609         54,614
+Earnings Per Share—basic     $     1.14        $     1.03        $     4.00        $     3.64
+Diluted earnings per share:
+Numerator:
+Allocation of total earnings used in basic computation     $     168,104        $     56,099        $     598,919        $     198,534
+Reallocation of total earnings as a result of conversion of Class B common stock to Common stock      56,099         —         198,534         —
+Reallocation of undistributed earnings      —         26         —        ( 425 )
+Total earnings—diluted     $     224,203        $     56,125        $     797,453        $     198,109
+Denominator (shares in thousands):
+Number of shares used in basic computation      148,097         54,614         149,609         54,614
+Weighted-average effect of dilutive securities:
+Conversion of Class B common stock to Common shares outstanding      54,614         —         54,614         —
+Employee stock options      196         —         318         —
+Performance and restricted stock units      234         —         334         —
+Total weighted-average shares—diluted      203,141         54,614         204,875         54,614
+Earnings Per Share—diluted     $     1.10        $     1.03        $     3.89        $     3.63
+The earnings per share calculations for the three months ended March 30, 2025 and March 31, 2024 excluded  27  and  12  stock options (in thousands), respectively, that would have been antidilutive.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 25
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+17.  OTHER (INCOME) EXPENSE, NET
+Other (income) expense, net reports certain gains and losses associated with activities not directly related to our core operations.   A summary of the components of other (income) expense, net is as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024
+Write-down of equity investments in partnerships qualifying for historic and renewable energy tax credits (see    Note 8   )
+$     —        $     31,391
+Non-service cost components of net periodic benefit cost relating to pension and other post-retirement benefit plans (see    Note 11   )
+1,320         638
+Other (income) expense, net        ( 375 )      ( 9 )
+Total        $     945        $     32,020
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 26
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+18.  SUPPLEMENTAL BALANCE SHEET INFORMATION
+The components of certain asset accounts included within our Consolidated Balance Sheets are as follows:
+March 30, 2025     December 31, 2024
+Inventories:
+Raw materials     $     767,802        $     477,592
+Goods in process      305,364         204,674
+Finished goods      986,432         990,785
+Inventories at First In First Out      2,059,598         1,673,051
+Adjustment to Last In First Out     ( 592,265 )      ( 418,957 )
+Total inventories     $     1,467,333        $     1,254,094
+Prepaid expenses and other:
+Prepaid expenses     $     165,291        $     269,792
+Other current assets      776,627         704,423
+Total prepaid expenses and other     $     941,918        $     974,215
+Property, plant and equipment:
+Land     $     195,475        $     194,502
+Buildings      2,010,638         1,991,937
+Machinery and equipment      4,248,792         4,147,530
+Construction in progress      405,561         478,842
+Property, plant and equipment, gross      6,860,466         6,812,811
+Accumulated depreciation     ( 3,423,485 )      ( 3,353,958 )
+Property, plant and equipment, net     $     3,436,981        $     3,458,853
+Other non-current assets:
+Pension     $     39,031        $     41,298
+Capitalized software, net      360,577       367,087
+Operating lease ROU assets      357,070         337,739
+Investments in unconsolidated affiliates      209,578         212,928
+Other non-current assets      160,573         152,815
+Total other non-current assets     $     1,126,829        $     1,111,867
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 27
+THE HERSHEY COMPANY
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS—(Continued)
+(amounts in thousands, except share data or if otherwise indicated)
+The components of certain liability and stockholders’ equity accounts included within our Consolidated Balance Sheets are as follows:
+March 30, 2025     December 31, 2024
+Accounts payable:
+Accounts payable—trade     $     775,019        $     807,918
+Supplier finance program obligations      305,180         215,122
+Other      335,261         136,137
+Total accounts payable     $     1,415,460        $     1,159,177
+Accrued liabilities:
+Payroll, compensation and benefits     $     170,892        $     226,774
+Advertising, promotion and product allowances      379,927         359,986
+Operating lease liabilities      45,682         40,636
+Other      230,446         179,945
+Total accrued liabilities       $     826,947        $     807,341
+Other long-term liabilities:
+Post-retirement benefits liabilities     $     85,790        $     87,006
+Pension benefits liabilities      29,168         33,837
+Operating lease liabilities      319,640         304,767
+Other      241,659         262,649
+Total other long-term liabilities       $     676,257        $     688,259
+Accumulated other comprehensive loss:
+Foreign currency translation adjustments     $    ( 167,837 )      $    ( 177,741 )
+Pension and post-retirement benefit plans, net of tax     ( 119,987 )      ( 122,098 )
+Cash flow hedges, net of tax     ( 3,475 )      ( 4,051 )
+Total accumulated other comprehensive loss     $    ( 291,299 )      $    ( 303,890 )
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 28
+Item 2.    MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+This Management’s Discussion and Analysis (“MD&A”) is intended to provide an understanding of Hershey’s financial condition, results of operations and cash flows by focusing on changes in certain key measures from year to year.  This MD&A should be read in conjunction with our Unaudited Consolidated Financial Statements and accompanying notes included in this Quarterly Report on Form 10-Q for the quarterly period ended March 30, 2025 (“this Quarterly Report on Form 10-Q”).  This discussion contains a number of forward-looking statements, all of which are based on current expectations.  Actual results may differ materially.  Refer to the Safe Harbor Statement below as well as the Risk Factors and other information contained in our 2024 Annual Report on Form 10-K for information concerning the key risks to achieving future performance goals.
+The MD&A is organized in the following sections:
+•   Overview
+•   Trends Affecting Our Business
+•   Consolidated Results of Operations
+•   Segment Results
+•   Liquidity and Capital Resources
+•   Safe Harbor Statement
+OVERVIEW
+Hershey is a global confectionery leader known for making more moments of goodness through chocolate, sweets, mints and other great tasting snacks.  We are the largest producer of quality chocolate in North America, a leading snack maker in the United States (“U.S.”) and a global leader in chocolate and non-chocolate confectionery.  We market, sell and distribute our products under more than 90 brand names in approximately 70 countries worldwide.
+Our principal product offerings include chocolate and non-chocolate confectionery products; gum and mint refreshment products and protein bars; pantry items, such as baking ingredients, toppings and beverages; and snack items such as spreads, bars, and snack bites and mixes, popcorn and pretzels.
+Business Acquisitions
+On March 31, 2025, we entered into a Merger Agreement to acquire LesserEvil, LLC, a privately held company that produces and sells organic popcorn and puffed snack products to retailers and distributors in the United States and Canada, which complements Hershey’s existing product portfolio. The Company expects the acquisition to close by mid-2025 pending the waiting period under the Hart-Scott-Rodino Antitrust Improvements Act of 1976.
+On November 8, 2024, we completed the acquisition of the Sour Strips brand from Actual Candy, LLC. Sour Strips is an emerging sour candy brand and is available in a wide range of food distribution channels in the United States.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 29
+TRENDS AFFECTING OUR BUSINESS
+Throughout the first three months of 2025, we experienced a dynamic macroeconomic environment, including shifts in consumer behavior and continued price volatility related to select commodities, resulting in corresponding incremental costs and gross margin pressures, and net sales and net income declines.  Despite specific actions taken to mitigate these gross margin pressures, higher prices for direct materials used to manufacture our products were, and continue to be, the primary incremental cost to our business (see    Consolidated Results of Operations    included in this MD&A).  We utilize many exchange traded commodities for our business that are subject to price volatility, specifically cocoa products, which continued to experience elevated market prices compared to historical levels (see    Part I, Item 3 - Quantitative and Qualitative Disclosures about Market Risk    included in this Quarterly Report on Form 10-Q).
+Furthermore, certain geopolitical events, specifically changes in global trade policies including recently announced tariffs on U.S. imports and the potential for additional tariffs, have increased global economic and political uncertainty.  For the three months ended March 30, 2025, the imposition of tariffs on U.S. imports and retaliatory tariffs, did not have a material impact on our results of operations, commodity prices or supply availability.  However, we are continuing to monitor the ongoing negotiations related to tariffs, specifically, goods imported into the U.S. from Canada, Mexico and other countries, as well as export markets, in which we have significant business operations, all of which may result in material adverse effects on our results of operations.  The scope and length of tariffs, including their effects on the broader economy and our business, remain uncertain.  These outcomes may be influenced by factors such as continued U.S. negotiations with impacted countries, retaliatory measures from other nations, possible tariff exemptions, public sentiment toward U.S. products and companies, and the domestic availability of lower-cost alternatives.
+Additionally, with recent leadership changes at the U.S. Department of Health and Human Services and the U.S. Food and Drug Administration (“FDA”), as well as the Make America Healthy Again movement, the food industry is subject to increasing laws and regulations, including nutrition, food date labeling and traceability recordkeeping requirements, as well as changes in consumer expectations and behavior. For example, in April 2025, it was announced that the FDA intends to phase out the approved use of petroleum-based synthetic dyes in food products.  While the Company has historically taken measures to remove certain food dyes from our products, and this did not have a material impact on our consolidated results for the three months ended March 30, 2025, the Company anticipates continued developments in food industry legislation and regulatory requirements, which may result in incremental costs to our business.  The significance of the impact remains uncertain at this time, as the Company continues to monitor and evaluate the evolving legal and regulatory landscape.
+As of March 30, 2025, we believe we have sufficient liquidity to satisfy our key strategic initiatives and other material cash requirements in both the short-term and in the long-term; however, we continue to evaluate and take action, as necessary, to preserve adequate liquidity and ensure that our business can operate effectively during the current economic environment.  We continue to monitor our discretionary spending across the organization (see    Liquidity and Capital Resources    included in this MD&A).
+Based on the length and severity of the fluctuating macroeconomic environment, including price volatility for our commodities, the possibility of a recession, changes in consumer shopping and consumption behavior, and changes in geopolitical events, including the imposition of tariffs and retaliatory tariffs, we may continue to experience increasing supply chain costs, higher inflation and other impacts to our business.  We will continue to evaluate the nature and extent of these evolving impacts on our business, consolidated results of operations, segment results, liquidity and capital resources.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 30
+CONSOLIDATED RESULTS OF OPERATIONS
+Three Months Ended
+March 30, 2025     March 31, 2024     Percent Change
+In millions of dollars except per share amounts
+Net sales           $    2,805.4     $    3,252.7     (13.8)    %
+Cost of sales           1,861.2     1,576.6     18.0     %
+Gross profit           944.3     1,676.1     (43.7)    %
+Gross margin           33.7     %     51.5     %
+Selling, marketing & administrative (“SM&A”) expenses           558.7     618.0     (9.6)    %
+SM&A expense as a percent of net sales           19.9     %     19.0     %
+Business realignment activities           16.4     —     NM
+Operating profit           369.2     1,058.1     (65.1)    %
+Operating profit margin           13.2     %     32.5     %
+Interest expense, net           44.6     39.8     12.1     %
+Other (income) expense, net           0.9     32.0     (97.0)    %
+Provision for income taxes           99.5     188.8     (47.3)    %
+Effective income tax rate           30.7%     19.1%
+Net income           $    224.2     $    797.5     (71.9)    %
+Net income per share—diluted           $    1.10     $    3.89     (71.7)    %
+NOTE: Percentage changes may not compute directly as shown due to rounding of amounts presented above.
+NM = not meaningful
+Results of Operations - First Quarter 2025 vs. First Quarter 2024
+Net Sales
+Net sales were $2,805.4 million in the first quarter of 2025 compared to $3,252.7 million in the same period of 2024, a decrease of $447.3 million, or 13.8%.  The net sales decrease was driven by a volume decline of approximately 15%,  primarily related to everyday core U.S. confection, as a result of accelerated shipments in the first quarter of 2024 in anticipation of our enterprise resource planning (“ERP”) system implementation, which was completed in the beginning of the second quarter of 2024, and declines in our International reportable segment.  Foreign currency exchange rates resulted in an unfavorable impact of less than 1%.  The net sales decrease was partially offset by a favorable price realization of approximately 2%, driven by higher list prices across our North America Confectionery segment.
+Key U.S. Marketplace Metrics
+For the first quarter of 2025, our total U.S. retail takeaway declined 6.7% in the expanded multi-outlet combined plus convenience store channels (Circana MULO + C-Stores), which includes candy, mint, gum, salty snacks and grocery items.  Our U.S. candy, mint and gum (“CMG”) consumer takeaway declined 9.0% and experienced a CMG market share decline of 46 basis points.  Declines were primarily driven by the timing of Easter, which shifted into mid-April in 2025, compared to March in 2024.  Our Salty consumer takeaway increased 9.6% in the first quarter of 2025 and experienced a Salty market share increase of 37 basis points.
+The CMG consumer takeaway and market share information reflects measured channels of distribution accounting for approximately 90% of our U.S. confectionery retail business.  These channels of distribution primarily include food, drug, mass merchandisers, and convenience store channels, plus Wal-Mart Stores, Inc., partial dollar, club and military channels.  These metrics are based on measured market scanned purchases as reported by Circana, the Company’s market insights and analytics provider, and provide a means to assess our retail takeaway and market position relative to the overall category.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 31
+Cost of Sales and Gross Margin
+Cost of sales were $1,861.2 million in the first quarter 2025 compared to $1,576.6 million in the same period 2024, an increase of $284.6 million, or 18.0%.  The increase was driven by $618.9 million of higher costs, primarily due to unfavorable commodity costs from cocoa and $251.6 million of unfavorable mark-to-market activity on our commodity derivative instruments intended to economically hedge future years’ commodity purchases (See    Part I, Item 3 - Quantitative and Qualitative Disclosures About Market Risk    included in this Quarterly Report on Form 10-Q for more information).  The increase was partially offset by $334.3 million, primarily related to lower sales volume and lower supply chain costs, in line with the declines in net sales noted above.
+Gross margin was 33.7% in the first quarter of 2025 compared to 51.5% in the same period of 2024, a decrease of 1,790 basis points.  The decrease was driven by unfavorable activity on our mark-to-market impact from commodity derivative instruments, lower sales volume, unfavorable commodity costs, and unfavorable mix.  The decrease was partially offset by lower supply chain costs and favorable price realization.
+SM&A Expenses
+SM&A expenses were $558.7 million in the first quarter of 2025 compared to $618.0 million in the same period of 2024, a decrease of $59.3 million, or 9.6%.  Total advertising and related consumer marketing expenses decreased 14.2% driven primarily by a decrease in the North America Confectionery segment, partially offset by an increase in North America Salty Snacks.  SM&A expenses, excluding advertising and related consumer marketing, decreased 7.0% in the first quarter of 2025 driven by lower compensation costs across our reportable segments, as well as $4.6 million of incremental business realignment costs.
+Business Realignment Activities
+We periodically undertake business realignment activities designed to increase our efficiency and focus our business in support of our key growth strategies.  Excluding the portion recorded within Cost of Sales and SM&A expenses (as noted above), we recorded $16.4 million business realignment costs during the first quarter of 2025.  The costs in the first quarter of 2025 related to the Advancing Agility & Automation (“AAA”) Initiative, which commenced in 2024, focused on leveraging new technology to improve supply chain and manufacturing-related spend, and optimize selling, general and administrative expenses.  There were no business realignments costs in the first quarter of 2024.  Costs associated with business realignment activities are classified in our Consolidated Statements of Income as described in    Note 9    to the Unaudited Consolidated Financial Statements.
+Operating Profit and Operating Profit Margin
+Operating profit was $369.2 million in the first quarter of 2025 compared to $1,058.1 million in the same period of 2024, a decrease of $688.9 million, or 65.1%.  The decrease was primarily due to lower gross profit and higher business realignment costs, partially offset by lower SM&A expenses, as noted above.  Operating profit margin decreased to 13.2% in 2025 from 32.5% in 2024 driven by the same factors noted above that resulted in lower gross margin for the period.
+Interest Expense, Net
+Net interest expense was $44.6 million in the first quarter of 2025 compared to $39.8 million in the same period of 2024, an increase of $4.8 million, or 12.1%.  The increase was primarily due to higher long-term debt balances in 2025 versus 2024, driven by the February 2025 debt issuance.
+Other (Income) Expense, Net
+Other (income) expense, net was $0.9 million in the first quarter of 2025 versus net expense of $32.0 million in the first quarter of 2024, a decrease of $31.1 million, or 97.0%.  The decrease in net expense was primarily driven by $31.4 million of lower write-downs on equity investments qualifying for tax credits in 2025 versus the first quarter of 2024, partially offset by an increase of $0.7 million of non-service cost components of net periodic benefit cost relating to pension and other post-retirement benefit plans.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 32
+Income Taxes and Effective Tax Rate
+The effective income tax rate was 30.7% for the first quarter of 2025 compared with 19.1% for the first quarter of 2024.  Relative to the 21% statutory rate, the 2025 effective tax rate was primarily impacted by foreign tax differential and state taxes.  Relative to the 21% statutory rate, the 2024 effective tax rate was impacted by investment tax credits partially offset by state taxes.
+Net Income and Earnings Per Share-diluted
+Net income was $224.2 million in the first quarter of 2025 compared to $797.5 million in the same period of 2024, a decrease of $573.3 million, or 71.9%.  EPS-diluted was $1.10 in the first quarter of 2025 compared to $3.89 in the first quarter of 2024, a decrease of $2.79, or 71.7%.  The decrease in both net income and EPS-diluted was driven by lower gross profit, higher business realignment costs and higher interest expense, partially offset by lower other income and expenses, lower income taxes and lower SM&A expenses.  Our 2025 EPS-diluted benefited from lower weighted-average shares outstanding.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 33
+SEGMENT RESULTS
+The summary that follows provides a discussion of the results of operations of our three segments: North America Confectionery, North America Salty Snacks and International.  For segment reporting purposes, we use “segment income” to evaluate segment performance and allocate resources.  Segment income excludes unallocated general corporate administrative expenses, unallocated mark-to-market gains and losses on commodity derivatives, business realignment and impairment charges, acquisition-related costs and other unusual gains or losses that are not part of our measurement of segment performance.  These items of our operating income are largely managed centrally at the corporate level and are excluded from the measure of segment income reviewed by our Chief Operating Decision Maker, Michele Buck, Chairman of the Board, President, and Chief Executive Officer, and used for resource allocation and internal management reporting and performance evaluation.  Segment income and segment income margin, which are presented in the segment discussion that follows, are non-GAAP measures and do not purport to be alternatives to operating income as a measure of operating performance.  We believe that these measures are useful to investors and other users of our financial information in evaluating ongoing operating profitability as well as in evaluating operating performance in relation to our competitors, as they exclude the activities that are not directly attributable to our ongoing segment operations. Refer to    Note 13    Segment Information in our audited consolidated financial statements for reconciliations of net sales for our reportable segments to consolidated total net sales and of segment operating income to consolidated income before taxes.
+Our segment results, including a reconciliation to our consolidated results, were as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024
+In millions of dollars
+Net Sales:
+North America Confectionery         $    2,300.1       $    2,707.3
+North America Salty Snacks         277.8       275.1
+International         227.5       270.3
+Total         $    2,805.4       $    3,252.7
+Segment Income:
+North America Confectionery         $    696.4       $    948.2
+North America Salty Snacks         41.9       38.7
+International         28.7       42.8
+Total segment income         767.0       1,029.7
+Unallocated corporate expense (1)         160.4       172.9
+Unallocated mark-to-market losses (gains) on commodity derivatives (2)         211.5       (218.0)
+Costs associated with business realignment activities         25.9       16.7
+Operating profit         369.2       1,058.1
+Interest expense, net         44.6       39.8
+Other (income) expense, net         0.9       32.0
+Income before income taxes         $    323.7       $    986.3
+(1)  Includes centrally-managed (a) corporate functional costs relating to legal, treasury, finance and human resources, (b) expenses associated with the oversight and administration of our global operations, including warehousing, distribution and manufacturing, information systems and global shared services, (c) non-cash stock-based compensation expense, (d) acquisition and integration-related costs and (e) other gains or losses that are not integral to segment performance.
+(2)  Net losses (gains) on mark-to-market valuation of commodity derivative positions recognized in unallocated derivative losses (gains).  See    Note 13    to the Unaudited Consolidated Financial Statements.
+North America Confectionery
+The North America Confectionery segment is responsible for our chocolate and non-chocolate confectionery market position in the United States and Canada.  This includes developing and growing our business in chocolate and non-chocolate confectionery, gum and refreshment products, protein bars, spreads, snack bites and mixes, as well as pantry and food service lines.  While a less significant component, this segment also includes our retail operations, including Hershey’s Chocolate World stores in Hershey, Pennsylvania; New York, New York; Las Vegas, Nevada; Niagara Falls (Ontario) and Singapore, as well as operations associated with licensing the use of certain trademarks and products to third parties around the world.  North America Confectionery results, which accounted for 82.0% and 83.2% of our net sales for the three months ended March 30, 2025 and March 31, 2024, respectively, were as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024     Percent Change
+In millions of dollars
+Net sales           $    2,300.1       $    2,707.3       (15.0)    %
+Segment income           696.4       948.2       (26.6)    %
+Segment margin           30.3     %     35.0     %
+NOTE: Percentage changes may not compute directly as shown due to rounding of amounts presented above.
+Results of Operations - First Quarter 2025 vs. First Quarter 2024
+Net sales of our North America Confectionery segment were $2,300.1 million in the first quarter of 2025 compared to $2,707.3 million in the same period of 2024, a decrease of $407.16 million, or 15.0%.  The decrease was driven by  volume declines of approximately 18%, primarily due to a decrease in everyday core U.S. confection as a result of accelerated shipments in the first quarter of 2024 in anticipation of our ERP system implementation, which was completed in the beginning of the second quarter of 2024.  The decrease was partially offset by favorable price realization of approximately 3%, primarily due to list price increases on certain products across our portfolio.
+Our North America Confectionery segment income was $696.4 million in the first quarter of 2025 compared to $948.2 million in the same period of 2024, a decrease of $251.8 million, or 26.6%.  The decrease was predominantly due to lower volume and higher commodity costs, partially offset by lower supply chain costs, favorable price realization, lower advertising and related consumer marketing costs, and net savings from the execution of our AAA Initiative.
+North America Salty Snacks
+The North America Salty Snacks segment is responsible for our grocery and snacks market positions, including our salty snacking products.  North America Salty Snacks results, which accounted for 9.9% and 8.5% of our net sales for the three months ended March 30, 2025 and March 31, 2024, respectively, were as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024     Percent Change
+In millions of dollars
+Net sales           $    277.8       $    275.1       1.0     %
+Segment income           41.9       38.7       8.1     %
+Segment margin           15.1     %     14.1     %
+NOTE: Percentage changes may not compute directly as shown due to rounding of amounts presented above.
+Results of Operations - First Quarter 2025 vs. First Quarter 2024
+Net sales of our North America Salty Snacks segment were $277.8 million in the first quarter of 2025 compared to $275.1 million in the same period of 2024, an increase of $2.7 million, or 1.0%.  The increase was due to volume increases of approximately 4%, primarily driven by   Dot’s Homestyle Pretzels  .  The increase was partially offset by unfavorable price realization of approximately 3% across our portfolio.
+Our North America Salty Snacks segment income was $41.9 million in the first quarter of 2025 compared to $38.7 million in the same period of 2024, an increase of $3.2 million, or 8.1%.  The increase was predominantly due to volume increases, as noted above, lower supply chain costs, and net savings from the execution of our AAA Initiative, partially offset by unfavorable price realization and increased advertising and related consumer marketing costs.
+International
+The International segment includes all other countries where we currently manufacture, import, market, sell or distribute chocolate and non-chocolate confectionery and other products.  We currently have operations and manufacture product in Mexico, Brazil, India and Malaysia, primarily for consumers in these regions, and also distribute and sell confectionery products in export markets of Latin America, as well as Europe, Asia, the Middle East and Africa (“MEA”) and other regions.  International results, which accounted for 8.1% and 8.3% of our net sales for the three months ended March 30, 2025 and March 31, 2024, respectively, were as follows:
+Three Months Ended
+March 30, 2025     March 31, 2024     Percent Change
+In millions of dollars
+Net sales           $    227.5       $    270.3       (15.9)    %
+Segment income           28.7       42.8       (32.9)    %
+Segment margin           12.6     %     15.8     %
+NOTE: Percentage changes may not compute directly as shown due to rounding of amounts presented above.
+Results of Operations - First Quarter 2025 vs. First Quarter 2024
+Net sales of our International segment were $227.5 million in the first quarter of 2025 compared to $270.3 million in the same period of 2024, a decrease $42.9 million, or 15.9%.  The decrease was due to volume declines of approximately 8% across the segment, as well as an unfavorable impact from foreign currency exchange rates of approximately 8%, primarily driven by Mexico, Brazil and Latin America.  The decrease was partially offset by favorable price realization of approximately 1%, primarily driven by  Mexico, Brazil and Latin America.
+Our International segment generated income of $28.7 million in the first quarter of 2025 compared to $42.8 million in the first quarter of 2024, a decrease of $14.1 million, or 32.9%, driven primarily by volume declines, an unfavorable impact from foreign currency exchange rates, partially offset by lower supply chain costs and net savings from the execution of our AAA Initiative.
+Unallocated Corporate Expense
+Unallocated corporate expense includes centrally-managed (a) corporate functional costs relating to legal, treasury, finance and human resources, (b) expenses associated with the oversight and administration of our global operations, including warehousing, distribution and manufacturing, information systems and global shared services, (c) non-cash stock-based compensation expense, (d) acquisition and integration-related costs and (e) other gains or losses that are not integral to segment performance.
+In the first quarter of 2025, unallocated corporate expense totaled $160.4 million, as compared to $172.9 million in the first quarter of 2024, a decrease of $12.5 million, or 7.2%.  The decrease was primarily driven by lower compensation and benefits costs, decreased investments in capabilities and technology, as a result of the completion of the upgrade of our new ERP system across the enterprise in 2024 and lower acquisition and integration related costs.
+LIQUIDITY AND CAPITAL RESOURCES
+Historically, our primary source of liquidity has been cash generated from operations.  Domestic seasonal working capital needs, which typically peak during the summer months, are generally met by utilizing cash on hand, bank borrowings or the issuance of commercial paper.  Commercial paper may also be issued, from time to time, to finance ongoing business transactions, such as the repayment of long-term debt, business acquisitions and for other general corporate purposes.
+At March 30, 2025, our cash and cash equivalents totaled $1.5 billion, an increase of $784.5 million compared to the 2024 year-end balance.  Additional detail regarding the net uses of cash are outlined in the following discussion. Additionally, at March 30, 2025, we had outstanding short- and long-term debt totaling $5.9 billion, of which $603.6 million was classified as the current portion of long-term debt.  Of the $603.6 million, $300 million of 0.900% Notes are due upon maturity on June 1, 2025 and $300 million of 3.200% Notes are due upon maturity on August 21, 2025.  We believe we can satisfy these debt obligations with cash generated from our operations, issuing new debt, and/or by borrowing on our unsecured credit facility.
+Approximately 55% of the balance of our cash and cash equivalents at March 30, 2025 was held by subsidiaries domiciled outside of the United States.  A majority of our cash and cash equivalents balance is distributable to the United States without material tax implications, such as withholding tax.  We intend to continue to reinvest the remainder of this balance outside of the United States for which there would be a material tax implication to distributing for the foreseeable future and, therefore, have not recognized additional tax expense on these earnings.  We believe that our existing sources of liquidity are adequate to meet anticipated funding needs at comparable risk-based interest rates for the foreseeable future.  Acquisition spending and/or share repurchases could potentially increase our debt.  Operating cash flow and access to capital markets are expected to satisfy our various short- and long-term cash flow requirements, including acquisitions and capital expenditures.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 34
+Cash Flow Summary
+The following table is derived from our Consolidated Statements of Cash Flows:
+Three Months Ended
+In millions of dollars     March 30, 2025     March 31, 2024
+Net cash provided by (used in):
+Operating activities     $    396.7     $    569.2
+Investing activities     (147.0)      (227.6)
+Financing activities     537.1       (221.7)
+Effect of exchange rate changes on cash and cash equivalents     (2.3)      (1.4)
+Net change in cash and cash equivalents     $    784.5       $    118.5
+Operating activities
+We generated cash of $396.7 million from operating activities in the first three months of 2025, a decrease of $172.5 million compared to $569.2 million in the same period of 2024.  This decrease in net cash provided by operating activities was mainly driven by the following factors:
+•  Other assets and liabilities consumed cash of $369.9 million in 2025, compared to $22.3 million in 2024.  This $347.6 million fluctuation was primarily driven by the timing of certain prepaid expenses and other current assets.
+•  Timing of income tax payments generated cash of $80.2 million in 2025, compared to $147.5 million in 2024.  This $67.4 million fluctuation was primarily due to the variance in actual tax expense for 2025 relative to the timing of quarterly estimated tax payments.  We paid cash of $38.9 million for income taxes during 2025 compared to $31.3 million in the same period of 2024.
+•  Net income adjusted for non-cash charges to operations (including depreciation, amortization, stock-based compensation, deferred income taxes, a write-down of equity investments, unrealized gains and losses on derivative contracts and other charges) resulted in $49.8 million of lower cash flow in 2025 relative to 2024.
+•  The decrease in cash provided by operating activities was partially offset by the following net cash inflows:
+◦  In the aggregate, select net working capital items, specifically, trade accounts receivable, inventory, accounts payable and accrued liabilities, generated cash of $55.4 million in 2025, compared to consumed cash of $237.7 million in 2024.  This $293.0 million fluctuation was mainly driven by accounts receivable due to a decrease in sales, a decrease in accounts payable and accrued liabilities due to the timing of vendor and supplier payments, partially offset by higher inventory levels.
+Investing activities
+We used cash of $147.0 million for investing activities in the first three months of 2025, a decrease of $80.6 million compared to $227.6 million in the same period of 2024.  This decrease in net cash used in investing activities was mainly driven by the following factors:
+•  Capital spending  .  Capital expenditures, including capitalized software, capacity expansion, innovation and cost savings, were $145.5 million in the first three months of 2025 compared to $213.3 million in the same period of 2024.  The decrease in our 2025 capital expenditures is largely driven by the wind down of our key strategic initiatives, including completion of the upgrade of a new ERP system across the enterprise in 2024.  We expect 2025 capital expenditures, including capitalized software, to approximate $425 million to $450 million, as capital spending as a percentage of sales is expected to return to historical levels.  We intend to use our existing cash and internally generated funds to meet our 2025 capital requirements.
+•  Investments in partnerships qualifying for tax credits  .  We make investments in partnership entities that in turn make equity investments in projects eligible to receive federal historic and renewable energy tax credits.  We received payments of approximately $3.6 million in the first three months of 2025, compared to investing $13.9 million in the same period of 2024.
+•  Other investing activities  .  In the first three months of 2025 and 2024, our other investing activities were minimal.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 35
+Financing activities
+We generated cash of $537.1 million for financing activities in the first three months of 2025, a increase of $758.8 million compared to cash used of $221.7 million in the same period of 2024.  This increase in net cash generated in financing activities was mainly driven by the following factors:
+•  Short-term borrowings, net.    In addition to utilizing cash on hand, we use short-term borrowings (commercial paper and bank borrowings) to fund seasonal working capital requirements and ongoing business needs.  During the first three months of 2025, we used cash of $1.2 billion to reduce short-term commercial paper borrowings and short-term foreign bank borrowings.  During the first three months of 2024, we generated cash of $569.9 million predominately through the issuance of short-term commercial paper, as well as an increase in short-term foreign bank borrowings.
+•  Long-term debt borrowings and repayments  .  During the first three months of 2025, we issued $500 million of 4.550% Notes due in February 2028, $500 million of 4.750% Notes due in February 2030, $500 million of 4.950% Notes due in February 2032 and $500 million of 5.100% Notes due in February 2035 (together, the “2025 Notes”).  Proceeds from the issuance of the 2025 Notes, net of discounts and issuance costs, totaled $2.0 billion.  We had minimal repayment activity.  During the first three months of 2024, long-term debt borrowings and repayments were minimal.
+•  Dividend payments  .  Total dividend payments to holders of our Common Stock and Class B Common Stock were $271.6 million during the first three months of 2025, a decrease of $1.8 million compared to $273.4 million in the same period of 2024.  Details regarding our 2025 cash dividends paid to stockholders are as follows:
+Quarter Ended
+In millions of dollars except per share amounts     March 30, 2025
+Dividends paid per share – Common stock     $    1.370
+Dividends paid per share – Class B common stock     $    1.245
+Total cash dividends paid     $    271.6
+Declaration date     February 5, 2025
+Record date     February 17, 2025
+Payment date     March 14, 2025
+•  Share repurchases  .  We repurchase shares of Common Stock to offset the dilutive impact of treasury shares issued under our equity compensation plans.  The value of these share repurchases in a given period varies based on the volume of stock options exercised and our market price.  In addition, we periodically repurchase shares of Common Stock pursuant to Board-authorized programs intended to drive additional stockholder value.  Details regarding our share repurchases are as follows:
+Three Months Ended
+In millions     March 30, 2025     March 31, 2024
+Shares repurchased in the open market under pre-approved share repurchase programs (1)     —       400.0
+Shares repurchased in the open market to replace Treasury Stock issued for stock options and incentive compensation     $    —       $    94.2
+Cash used for total share repurchases (excluding excise tax)     $    —       $    494.2
+Total shares repurchased under pre-approved share repurchase programs     —       2.0
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 36
+(1) In May 2021, our Board of Directors approved a $500 million share repurchase authorization, which was completed as of March 31, 2024.  In December 2023, our Board of Directors approved an additional $500 million share repurchase authorization. This program commenced after the existing May 2021 authorization was completed and is to be utilized at management’s discretion.  As a result of the share repurchase authorization, approximately $470 million remains available for repurchases under our December 2023 share repurchase authorization.  We are authorized to purchase our outstanding shares in open market and privately negotiated transactions.  The program has no expiration date and acquired shares of Common Stock will be held as treasury shares.  Purchases under approved share repurchase authorizations are in addition to our practice of buying back shares sufficient to offset those issued under incentive compensation plans.
+•  Proceeds from exercised stock options and employee tax withholding.    During the first three months of 2025, we received $2.7 million from employee exercises of stock options and paid $12.6 million of employee taxes withheld from share-based awards.  During the first three months of 2024, we received $4.1 million from employee exercises of stock options and paid $26.4 million of employee taxes withheld from share-based awards.  Variances are driven primarily by the number of shares exercised and the share price at the date of grant.
+Recent Accounting Pronouncements
+Information on recently adopted and issued accounting standards is included in    Note 1    to the Unaudited Consolidated Financial Statements.
+Critical Accounting Estimates
+For information regarding the Company’s critical accounting estimates, refer to Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations” of our 2024 Annual Report on Form 10-K.  There have been no material changes to the Company’s critical accounting estimates since December 31, 2024.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 37
+Safe Harbor Statement
+We are subject to changing economic, competitive, regulatory and technological risks and uncertainties that could have a material impact on our business, financial condition or results of operations. In connection with the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, we note the following factors that, among others, could cause future results to differ materially from the forward-looking statements, expectations and assumptions that we have discussed directly or implied in this Quarterly Report on Form 10-Q. Many of these forward-looking statements can be identified by the use of words such as “anticipate,” “assume,” “believe,” “continue,” “estimate,” “expect,” “forecast,” “future,” “intend,” “plan,” “potential,” “predict,” “project,” “strategy,” “target” and similar terms, and future or conditional tense verbs like “could,” “may,” “might,” “should,” “will” and “would,” among others.
+The factors that could cause our actual results to differ materially from the results projected in our forward-looking statements include, but are not limited to the following:
+•  Our Company’s reputation or brand image might be impacted as a result of issues, concerns or regulatory changes relating to the quality and safety of our products, ingredients or packaging, human and workplace rights, and other environmental, social or governance matters, which in turn could result in litigation or otherwise negatively impact our operating results;
+•  Disruption to our manufacturing operations or supply chain could impair our ability to produce or deliver finished products, resulting in a negative impact on our operating results;
+•  We might not be able to hire, engage and retain the talented global human capital we need to drive our growth strategies;
+•  Risks associated with climate change and other environmental impacts, and increased focus and evolving views of our customers, stockholders and other stakeholders on climate change issues, could negatively affect our business and operations;
+•  Increases in raw material and energy costs along with the availability of adequate supplies of raw materials could continue to affect future financial results;
+•  Price increases may not be sufficient to offset cost increases and maintain profitability or may result in sales volume declines associated with pricing elasticity;
+•  Market demand for new and existing products could decline;
+•  Increased marketplace competition could hurt our business;
+•  Our financial results may be adversely impacted by the failure to successfully execute or integrate acquisitions, divestitures and joint ventures;
+•  Our international operations may not achieve projected growth objectives, which could adversely impact our overall business and results of operations;
+•  We may not fully realize the expected cost savings and/or operating efficiencies associated with our strategic initiatives or restructuring programs, which may have an adverse impact on our business;
+•  Changes in governmental laws, regulations and policies, including taxes and tariffs, could increase our costs and liabilities or impact demand for our products;
+•  Political, economic and/or financial market conditions, including impacts on our business arising from the ongoing conflict between Russia and Ukraine, could negatively impact our financial results;
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 38
+•  Disruptions, failures or security breaches of our information technology infrastructure could have a negative impact on our operations;
+•  Complications with the design or implementation of our new enterprise resource planning system could adversely impact our business and operations; and
+•  Such other matters as discussed in our 2024 Annual Report on Form 10-K and this Quarterly Report on Form 10-Q, including Part II, Item 1A, ”Risk Factors.”
+We undertake no obligation to publicly update or revise any forward-looking statements to reflect actual results, changes in expectations or events or circumstances after the date this Quarterly Report on Form 10-Q is filed.
+Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+Interest Rate Risk
+The total amount of short-term debt, net of cash, amounted to net cash positions of $1,371 million and net debt of $576 million, at March 30, 2025 and December 31, 2024, respectively.  A hypothetical 100 basis point increase in interest rates applied to this variable-rate short-term debt as of March 30, 2025 would have changed interest expense by approximately $3.4 million for the first three months of 2025 and $7.0 million for 2024.
+We consider our current risk related to market fluctuations in interest rates on our remaining debt portfolio, excluding fixed-rate debt converted to variable rates with fixed-to-floating instruments, to be minimal since this debt is largely long-term and fixed-rate in nature.  Generally, the fair market value of fixed-rate debt will increase as interest rates fall and decrease as interest rates rise.  A 100 basis point increase in market interest rates would decrease the fair value of our fixed-rate long-term debt at March 30, 2025 and December 31, 2024 by approximately $307 million and $169 million, respectively.  However, since we currently have no plans to repurchase our outstanding fixed-rate instruments before their maturities, the impact of market interest rate fluctuations on our long-term debt does not affect our results of operations or financial position.
+Foreign Currency Exchange Rate Risk
+We are exposed to currency fluctuations related to manufacturing or selling products in currencies other than the U.S. dollar.  We may enter into foreign currency forward exchange contracts to reduce fluctuations in our long or short currency positions relating primarily to purchase commitments or forecasted purchases for equipment, raw materials and finished goods denominated in foreign currencies.
+The fair value of foreign currency forward exchange contracts represents the difference between the contracted and current market foreign currency exchange rates at the end of the period.  We estimate the fair value of foreign currency forward exchange contracts on a quarterly basis by obtaining market quotes of spot and forward rates for contracts with similar terms, adjusted where necessary for maturity differences.  The potential decline in fair value of foreign currency forward exchange contracts resulting from a hypothetical near-term adverse change in market rates of 10% was $29.0 million as of March 30, 2025 and $32.3 million as of December 31, 2024, generally offset by a reduction in foreign exchange associated with our transactional activities.
+Commodities—Price Risk Management and Derivative Contracts
+We use futures and options contracts and other commodity derivative instruments in combination with forward purchasing of cocoa products, sugar, corn products, certain dairy products, wheat products, natural gas and diesel fuel primarily to mitigate price volatility and provide visibility to future costs within our supply chain.  Significant changes impacting our commodity price risk management since our 2024 Annual Report on Form 10-K are described below.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 39
+Cocoa Products
+During the first three months of 2025, the average cocoa futures contract price was $4.30 per pound, with a trading range of $3.63 to $4.88 per pound, based on the Intercontinental Exchange futures contract.  This average cocoa futures contract price represents an increase of approximately 25% compared to the 2024 annual average of $3.45 per pound.
+The cocoa supply-demand state is improving primarily due to favorable weather conditions, which have enabled the supply in Ghana and Ivory Coast to improve following the unfavorable 2023 – 2024 season. Additionally, supply in the rest of the world continues to expand rapidly; however, the increase in prices have negatively impacted the demand for cocoa. The price outlook for cocoa remains uncertain due to significant liquidity and volatility events in the market, which may have an impact on our financial condition and results of operations.
+Our costs for cocoa products will not necessarily reflect market price fluctuations because of our forward purchasing and hedging practices (including amount and duration thereof), premiums and discounts reflective of varying delivery times, and supply and demand for our specific varieties and grades of cocoa liquor, cocoa butter and cocoa powder. We generally hedge commodity price risks for 3- to 24-month periods.  As a result, the average market prices are not necessarily indicative of our average costs.
+Commodity Sensitivity Analysis
+Our open commodity derivative contracts had a notional value of $274.7 million as of March 30, 2025 and $667.4 million as of December 31, 2024.  At the end of the first quarter of 2025, the potential change in fair value of commodity derivative instruments, assuming a 10% decrease in the underlying commodity price, would have increased our net unrealized losses by $53.8 million, generally offset by a reduction in the cost of the underlying commodity purchases.
+For additional information about our market risks, see Item 7A under Part II of our 2024 Annual Report on Form 10-K.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 40
+Item 4.  CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures
+We have established disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934 (the “Exchange Act”)) designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms, and such information is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.  Management, with the participation of the Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of the Company’s disclosure controls and procedures as of   March 30, 2025  .  Based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of   March 30, 2025  .
+Changes in Internal Controls Over Financial Reporting
+There have been no changes to the Company’s internal control over financial reporting during the quarter ended March 30, 2025, that have materially affected, or are reasonably likely to materially affect, the Company’s internal control over financial reporting.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 41
+PART II — OTHER INFORMATION
+Item 1. Legal Proceedings.
+Information on legal proceedings is included in    Note 15    to the Unaudited Consolidated Financial Statements.
+Item 1A. Risk Factors.
+When evaluating an investment in our Common Stock, investors should consider carefully, among other things, the risk factors previously disclosed in Part I, Item 1A, “Risk Factors,” of our 2024 Annual Report on Form 10-K (the "2024 Form 10-K") and the information contained in this Quarterly Report on Form 10-Q and our other reports and registration statements filed with the SEC.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+Issuer Purchases of Equity Securities
+There were no purchases of our Common Stock made by or on behalf of Hershey, or any “affiliated purchaser” (as defined in Rule 10b-18(a)(3) under the Securities Exchange Act of 1934, as amended, of Hershey, during the three months ended March 30, 2025.
+During the three months ended March 30, 2025, no shares of Common Stock were purchased in open market transactions in connection with our standing authorization to buy back shares sufficient to offset those issued under incentive compensation plans, which authorization does not have a dollar or share limit and is not included in our share repurchase authorizations described in the following paragraph.
+In May 2021, our Board of Directors approved a $500 million share repurchase authorization, which was completed as of March 31, 2024.  In December 2023, our Board of Directors approved an additional $500 million share repurchase authorization.  This program commenced after the existing May 2021 authorization was completed and is to be utilized at management’s discretion.  As a result of the share repurchase authorization, approximately $470 million remains available for repurchases under our December 2023 share repurchase authorization.  We are authorized to purchase our outstanding shares in open market and privately negotiated transactions.  The program has no expiration date and acquired shares of Common Stock will be held as treasury shares.  Purchases under approved share repurchase authorizations are in addition to our practice of buying back shares sufficient to offset those issued under incentive compensation plans.
+Item 3. Defaults Upon Senior Securities.
+Not applicable.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 42
+Item 5. Other Information.
+Director and Executive Officer Trading
+A portion of our directors’ and officers’ compensation is in the form of equity awards and, from time to time, they may engage in open-market transactions with respect to their Company securities for diversification or other personal reasons.  All such transactions in Company securities by directors and officers must comply with the Company’s Insider Trading Policy, which requires that transactions be in accordance with applicable U.S. federal securities laws that prohibit trading while in possession of material nonpublic information.  Rule 10b5-1 under the Exchange Act provides an affirmative defense that enables directors and officers to prearrange transactions in the Company’s securities in a manner that avoids concerns about initiating transactions while in possession of material nonpublic information.
+The following table describes the contracts, instructions or written plans for the purchase or sale of securities  adopted  by our directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) during the three months ended March 30, 2025, that are intended to satisfy the affirmative defense conditions of Rule 10b5-1(c).  No other Rule 10b5-1 trading arrangements or “non-Rule 10b5–1 trading arrangements” (as defined by S-K Item 408(c)) were entered into or   terminated   by our directors or officers during such period.
+Name and Title     Date of Adoption of 10b5-1 Plan
+Duration of 10b5-1 Plan  (1)
+Aggregate Number of Securities to be Sold or Purchased
+Rohit Grover
+Senior Vice President, International
+2/25/2025
+12/31/2025
+Sell  4,000  shares
+Jennifer L. McCalman
+Vice President, Chief Accounting Officer
+2/25/2025
+8/28/2025
+Sell  974  shares
+James Turoff
+Senior Vice President, General Counsel and Secretary
+2/25/2025
+11/28/2025
+Sell  3,900  shares
+(1) The plan duration is until the date listed in this column or such earlier date upon the completion of all trades under the plan (or the expiration of the orders relating to such trades without execution) or the occurrence of such other termination events as specified in the plan.
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 43
+Item 6. Exhibits.
+The following exhibits are filed as part of this Quarterly Report on Form 10-Q:
+Exhibit Number     Description
+3.1
+The Company’s Restated Certificate of Incorporation, as amended, is incorporated by reference from Exhibit 3 to the Company’s Quarterly Report on Form 10-Q for the quarter ended April 3, 2005.
+3.2
+The Company's By-laws, as amended and restated as of March 4, 2025, are incorporated by reference from Exhibit 3.1 to the Company's Current Report on Form 8-K   filed   March   10  , 202  5.
+4.1
+Indenture between The Hershey Company and U.S. Bank National Association, as Trustee, dated as of May 14, 2009 (incorporated by reference from Exhibit 4.1 to the Registration Statement on Form S-3 of The Hershey Company (File No. 333-159246), filed on May 14, 2009).
+4.2
+The Company has issued certain long-term debt instruments, no one class of which creates indebtedness exceeding 10% of the total assets of the Company and its subsidiaries on a consolidated basis. These classes consist of the following:
+1)    4.550% Notes due 2028 (incorporated by reference from Exhibit 4.1 to the Company's Current Report on Form 8-K, dated February 24, 2025).
+2)    4.750% Notes due 2030 (incorporated by reference from Exhibit 4.2 to the Company's Current Report on Form 8-K, dated February 24, 2025).
+3)    4.950% Notes due 2032 (incorporated by reference from Exhibit 4.3 to the Company's Current Report on Form 8-K, dated February 24, 2025).
+4)    5.100% Notes due 2035 (incorporated by reference from Exhibit 4.4 to the Company's Current Report on Form 8-K, dated February 24, 2025).
+The Company undertakes to furnish copies of the agreements governing these debt instruments to the Securities and Exchange Commission upon its request.
+10.1
+Executive Employment Agreement  , Amended and Restated as of January 9, 2025,   by and between The Hershey Company and Mich  e  le   G. Buck,   is incorporated by reference from   Exhibit 10.  1 to the Company  ’  s Current Report on Form   8-K filed January 1  5, 2025.   +
+10.2
+Form of Notice of Special Award of Restricted Stock Units (Retention Equity), is incorporated by reference from Exhibit 10.1 to the Company’s Current Report on Form 8-K filed February 25, 2025.   +
+10.3
+Form of Notice of Special Award of Restricted Stock Units (Replacement Equity).   *+
+31.1
+Certification of Michele G. Buck, Chief Executive Officer, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.   *
+31.2
+Certification of Steven E. Voskuil, Chief Financial Officer, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.   *
+32.1
+Certification of Michele G. Buck, Chief Executive Officer, and Steven E. Voskuil, Chief Financial Officer, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.   **
+101.INS
+Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH
+Inline XBRL Taxonomy Extension Schema
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase
+101.LAB     Inline XBRL Taxonomy Extension Label Linkbase
+101.PRE     Inline XBRL Taxonomy Extension Presentation Linkbase
+101.DEF     Inline XBRL Taxonomy Extension Definition Linkbase
+104
+The cover page from the Company's Quarterly Report on Form 10-Q for the quarterly period ended March 30, 2025, formatted in Inline XBRL and contained in Exhibit 101.
+*
+Filed herewith
+**
+Furnished herewith
++
+Management contract, compensatory plan or arrangement
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 44
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+THE HERSHEY COMPANY
+(Registrant)
+Date:    May 1, 2025
+/s/ Steven E. Voskuil
+Steven E. Voskuil
+Senior Vice President, Chief Financial Officer
+(Principal Financial Officer)
+Date:    May 1, 2025     /s/ Jennifer L. McCalman
+Jennifer L. McCalman
+Vice President, Chief Accounting Officer
+(Principal Accounting Officer)
+Table of Contents
+The Hershey Company  |  Q1 2025 Form 10-Q  |  Page 45

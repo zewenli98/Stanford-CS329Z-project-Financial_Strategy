@@ -1,0 +1,851 @@
+tgt-20260502
+0000027419  FALSE  1/30  2026  Q1  1  1  http://fasb.org/us-gaap/2025#LongTermDebtAndCapitalLeaseObligations  http://fasb.org/us-gaap/2025#LongTermDebtAndCapitalLeaseObligations  http://fasb.org/us-gaap/2025#LongTermDebtAndCapitalLeaseObligations  http://fasb.org/us-gaap/2025#OtherNonoperatingIncomeExpense  http://fasb.org/us-gaap/2025#OtherNonoperatingIncomeExpense  http://fasb.org/us-gaap/2025#OtherNonoperatingIncomeExpense  http://fasb.org/us-gaap/2025#OtherNonoperatingIncomeExpense  http://fasb.org/us-gaap/2025#OtherNonoperatingIncomeExpense  http://fasb.org/us-gaap/2025#OtherNonoperatingIncomeExpense  1  1        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      tgt:segment    xbrli:pure     0000027419    2026-02-01  2026-05-02      0000027419    2026-05-22      0000027419    2025-02-02  2025-05-03      0000027419    2026-05-02      0000027419    2026-01-31      0000027419    2025-05-03      0000027419    2025-02-01      0000027419   us-gaap:CommonStockMember     2025-02-01      0000027419   us-gaap:AdditionalPaidInCapitalMember     2025-02-01      0000027419   us-gaap:RetainedEarningsMember     2025-02-01      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-02-01      0000027419   us-gaap:RetainedEarningsMember     2025-02-02  2025-05-03      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-02-02  2025-05-03      0000027419   us-gaap:CommonStockMember     2025-02-02  2025-05-03      0000027419   us-gaap:AdditionalPaidInCapitalMember     2025-02-02  2025-05-03      0000027419   us-gaap:CommonStockMember     2025-05-03      0000027419   us-gaap:AdditionalPaidInCapitalMember     2025-05-03      0000027419   us-gaap:RetainedEarningsMember     2025-05-03      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-05-03      0000027419   us-gaap:RetainedEarningsMember     2025-05-04  2025-08-02      0000027419    2025-05-04  2025-08-02      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-05-04  2025-08-02      0000027419   us-gaap:AdditionalPaidInCapitalMember     2025-05-04  2025-08-02      0000027419   us-gaap:CommonStockMember     2025-08-02      0000027419   us-gaap:AdditionalPaidInCapitalMember     2025-08-02      0000027419   us-gaap:RetainedEarningsMember     2025-08-02      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-08-02      0000027419    2025-08-02      0000027419   us-gaap:RetainedEarningsMember     2025-08-03  2025-11-01      0000027419    2025-08-03  2025-11-01      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-08-03  2025-11-01      0000027419   us-gaap:CommonStockMember     2025-08-03  2025-11-01      0000027419   us-gaap:AdditionalPaidInCapitalMember     2025-08-03  2025-11-01      0000027419   us-gaap:CommonStockMember     2025-11-01      0000027419   us-gaap:AdditionalPaidInCapitalMember     2025-11-01      0000027419   us-gaap:RetainedEarningsMember     2025-11-01      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-11-01      0000027419    2025-11-01      0000027419   us-gaap:RetainedEarningsMember     2025-11-02  2026-01-31      0000027419    2025-11-02  2026-01-31      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-11-02  2026-01-31      0000027419   us-gaap:AdditionalPaidInCapitalMember     2025-11-02  2026-01-31      0000027419   us-gaap:CommonStockMember     2026-01-31      0000027419   us-gaap:AdditionalPaidInCapitalMember     2026-01-31      0000027419   us-gaap:RetainedEarningsMember     2026-01-31      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-31      0000027419   us-gaap:RetainedEarningsMember     2026-02-01  2026-05-02      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-02-01  2026-05-02      0000027419   us-gaap:CommonStockMember     2026-02-01  2026-05-02      0000027419   us-gaap:AdditionalPaidInCapitalMember     2026-02-01  2026-05-02      0000027419   us-gaap:CommonStockMember     2026-05-02      0000027419   us-gaap:AdditionalPaidInCapitalMember     2026-05-02      0000027419   us-gaap:RetainedEarningsMember     2026-05-02      0000027419   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-05-02      0000027419   tgt:ApparelAndAccessoriesMember     2026-02-01  2026-05-02      0000027419   tgt:ApparelAndAccessoriesMember     2025-02-02  2025-05-03      0000027419   tgt:BeautyMember     2026-02-01  2026-05-02      0000027419   tgt:BeautyMember     2025-02-02  2025-05-03      0000027419   us-gaap:FoodAndBeverageMember     2026-02-01  2026-05-02      0000027419   us-gaap:FoodAndBeverageMember     2025-02-02  2025-05-03      0000027419   tgt:HardlinesMember     2026-02-01  2026-05-02      0000027419   tgt:HardlinesMember     2025-02-02  2025-05-03      0000027419   tgt:HomeFurnishingsAndDecorMember     2026-02-01  2026-05-02      0000027419   tgt:HomeFurnishingsAndDecorMember     2025-02-02  2025-05-03      0000027419   tgt:HouseholdEssentialsMember     2026-02-01  2026-05-02      0000027419   tgt:HouseholdEssentialsMember     2025-02-02  2025-05-03      0000027419   tgt:OtherProductMember     2026-02-01  2026-05-02      0000027419   tgt:OtherProductMember     2025-02-02  2025-05-03      0000027419   us-gaap:ProductMember     2026-02-01  2026-05-02      0000027419   us-gaap:ProductMember     2025-02-02  2025-05-03      0000027419   tgt:AdvertisingRevenueMember     2026-02-01  2026-05-02      0000027419   tgt:AdvertisingRevenueMember     2025-02-02  2025-05-03      0000027419   tgt:CreditCardProfitSharingMember     2026-02-01  2026-05-02      0000027419   tgt:CreditCardProfitSharingMember     2025-02-02  2025-05-03      0000027419   tgt:OtherOtherRevenueMember     2026-02-01  2026-05-02      0000027419   tgt:OtherOtherRevenueMember     2025-02-02  2025-05-03      0000027419   us-gaap:SettledLitigationMember  tgt:CreditCardInterchangeFeeLitigationMember     2025-02-02  2025-05-03      0000027419   us-gaap:ShortTermInvestmentsMember  us-gaap:FairValueInputsLevel1Member     2026-05-02      0000027419   us-gaap:ShortTermInvestmentsMember  us-gaap:FairValueInputsLevel1Member     2026-01-31      0000027419   us-gaap:ShortTermInvestmentsMember  us-gaap:FairValueInputsLevel1Member     2025-05-03      0000027419   us-gaap:ForwardContractsMember  us-gaap:FairValueInputsLevel1Member     2026-05-02      0000027419   us-gaap:ForwardContractsMember  us-gaap:FairValueInputsLevel1Member     2026-01-31      0000027419   us-gaap:ForwardContractsMember  us-gaap:FairValueInputsLevel1Member     2025-05-03      0000027419   us-gaap:InterestRateSwapMember  us-gaap:FairValueInputsLevel2Member     2026-05-02      0000027419   us-gaap:InterestRateSwapMember  us-gaap:FairValueInputsLevel2Member     2026-01-31      0000027419   us-gaap:InterestRateSwapMember  us-gaap:FairValueInputsLevel2Member     2025-05-03      0000027419   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-05-02      0000027419   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2026-05-02      0000027419   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-01-31      0000027419   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2026-01-31      0000027419   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-05-03      0000027419   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-05-03      0000027419   tgt:UnsecuredFixedRate2.50Maturing2026Member  us-gaap:UnsecuredDebtMember     2026-02-01  2026-05-02      0000027419   tgt:UnsecuredFixedRate2.50Maturing2026Member  us-gaap:UnsecuredDebtMember     2026-05-02      0000027419   us-gaap:CommercialPaperMember     2025-05-03      0000027419   us-gaap:CommercialPaperMember     2026-05-02      0000027419   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember     2026-05-02      0000027419   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember     2026-01-31      0000027419   us-gaap:InterestRateSwapMember  us-gaap:DesignatedAsHedgingInstrumentMember     2025-05-03      0000027419   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-01-31      0000027419   us-gaap:AccumulatedTranslationAdjustmentMember     2026-01-31      0000027419   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-01-31      0000027419   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-02-01  2026-05-02      0000027419   us-gaap:AccumulatedTranslationAdjustmentMember     2026-02-01  2026-05-02      0000027419   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-02-01  2026-05-02      0000027419   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-05-02      0000027419   us-gaap:AccumulatedTranslationAdjustmentMember     2026-05-02      0000027419   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-05-02      0000027419   tgt:ReportableSegmentMember     2026-02-01  2026-05-02      0000027419   tgt:ReportableSegmentMember     2025-02-02  2025-05-03      0000027419   tgt:MerchandisingMember  tgt:ReportableSegmentMember     2026-02-01  2026-05-02      0000027419   tgt:MerchandisingMember  tgt:ReportableSegmentMember     2025-02-02  2025-05-03      0000027419   tgt:SupplyChainAndDigitalFulfillmentCostsMember  tgt:ReportableSegmentMember     2026-02-01  2026-05-02      0000027419   tgt:SupplyChainAndDigitalFulfillmentCostsMember  tgt:ReportableSegmentMember     2025-02-02  2025-05-03
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+(Mark One)
+☒       QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  May 2, 2026
+OR
+☐       TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ____ to ____
+Commission File Number  1-6049
+TARGET CORPORATION
+(Exact name of registrant as specified in its charter)
+Minnesota
+(State or other jurisdiction of incorporation or organization)
+1000 Nicollet Mall ,  Minneapolis ,  Minnesota
+(Address of principal executive offices)
+41-0215170
+(I.R.S. Employer Identification No.)
+55403
+(Zip Code)
+612 - 304-6073
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class     Trading Symbol(s)     Name of each exchange on which registered
+Common stock, par value $0.0833 per share       TGT       New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   Yes  ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes  ☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer     ☒      Accelerated filer    ☐
+Non-accelerated filer    ☐        Smaller reporting company     ☐
+Emerging growth company     ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes  ☐  No ☒
+Total shares of common stock, par value $0.0833, outstanding at   May 22, 2026  , were  454,191,112 .
+Table of Contents
+Index to Notes
+TARGET CORPORATION
+TABLE OF CONTENTS
+PART I
+FINANCIAL INFORMATION
+Item 1.
+Financial Statements (unaudited)
+Consolidated Statements of Operations
+1
+Consolidated Statements of Comprehensive Income
+2
+Consolidated Statements of Financial Position
+3
+Consolidated Statements of Cash Flows
+4
+Consolidated Statements of Shareholders’ Investment
+5
+Notes to Consolidated Financial Statements
+8
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+14
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+24
+Item 4.
+Controls and Procedures
+24
+PART II
+OTHER INFORMATION
+Item 1.
+Legal Proceedings
+25
+Item 1A.
+Risk Factors
+25
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+25
+Item 3.
+Defaults Upon Senior Securities
+25
+Item 4.
+Mine Safety Disclosures
+25
+Item 5.
+Other Information
+25
+Item 6.
+Exhibits
+26
+Signature s
+27
+FINANCIAL STATEMENTS
+Table of Contents
+Index to Notes
+PART I. FINANCIAL INFORMATION
+Item 1. Financial Statements
+Consolidated Statements of Operations
+Three Months Ended
+(millions, except per share data) (unaudited)    May 2, 2026     May 3, 2025
+Net sales    $     25,443        $     23,846
+Cost of sales      18,061         17,128
+Selling, general, and administrative expenses     5,562         4,591
+Depreciation and amortization (exclusive of depreciation included in cost of sales)      685         655
+Operating income     1,135         1,472
+Net interest expense     117         116
+Net other income    ( 15 )      ( 26 )
+Earnings before income taxes     1,033         1,382
+Provision for income taxes     252         346
+Net earnings    $     781        $     1,036
+Basic earnings per share    $     1.72        $     2.28
+Diluted earnings per share    $     1.71        $     2.27
+Weighted average common shares outstanding
+Basic     453.8         455.0
+Diluted     455.8         456.5
+Antidilutive shares     1.0         2.4
+See accompanying    Notes to Consolidated Financial Statements   .
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+1
+FINANCIAL STATEMENTS
+Table of Contents
+Index to Notes
+Consolidated Statements of Comprehensive Income
+Three Months Ended
+(millions) (unaudited)    May 2, 2026     May 3, 2025
+Net earnings    $     781        $     1,036
+Other comprehensive income / (loss), net of tax
+Pension     7         —
+Cash flow hedges and currency translation adjustment    ( 5 )      ( 4 )
+Other comprehensive income / (loss)     2        ( 4 )
+Comprehensive income    $     783        $     1,032
+See accompanying    Notes to Consolidated Financial Statements   .
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+2
+FINANCIAL STATEMENTS
+Table of Contents
+Index to Notes
+Consolidated Statements of Financial Position
+(millions, except footnotes) (unaudited)    May 2, 2026     January 31,
+2026     May 3,
+2025
+Assets
+Cash and cash equivalents    $     3,534        $     5,488        $     2,887
+Inventory     12,317         12,304         13,048
+Other current assets     2,214         2,213         1,824
+Total current assets     18,065         20,005         17,759
+Property and equipment, net     34,175         33,749         33,182
+Operating lease assets     3,652         3,703         3,739
+Other noncurrent assets     2,118         2,033         1,505
+Total assets    $     58,010        $     59,490        $     56,185
+Liabilities and shareholders’ investment
+Accounts payable    $     12,188        $     12,622        $     11,823
+Accrued and other current liabilities     6,063         6,478         6,029
+Current portion of long-term debt and other borrowings     1,133         2,130         1,139
+Total current liabilities     19,384         21,230         18,991
+Long-term debt and other borrowings     14,282         14,326         14,334
+Noncurrent operating lease liabilities     3,416         3,462         3,564
+Deferred income taxes     2,438         2,265         2,338
+Other noncurrent liabilities     2,095         2,042         2,011
+Total noncurrent liabilities     22,231         22,095         22,247
+Shareholders’ investment
+Common stock     38         38         38
+Additional paid-in capital     7,220         7,247         7,011
+Retained earnings     9,552         9,297         8,360
+Accumulated other comprehensive loss    ( 415 )      ( 417 )      ( 462 )
+Total shareholders’ investment     16,395         16,165         14,947
+Total liabilities and shareholders’ investment    $     58,010        $     59,490        $     56,185
+Common Stock   Authorized    6,000,000,000    shares, $   0.0833    par value;   454,177,135  ,   452,840,187  , and   454,364,799   shares issued and outstanding as of May 2, 2026, January 31, 2026, and May 3, 2025, respectively.
+Preferred Stock   Authorized    5,000,000    shares, $   0.01    par value;       no       shares were issued or outstanding during any period presented.
+See accompanying    Notes to Consolidated Financial Statements   .
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+3
+FINANCIAL STATEMENTS
+Table of Contents
+Index to Notes
+Consolidated Statements of Cash Flows
+Three Months Ended
+(millions) (unaudited)    May 2, 2026     May 3, 2025
+Operating activities
+Net earnings    $     781        $     1,036
+Adjustments to reconcile net earnings to cash provided by operating activities:
+Depreciation and amortization     813         787
+Share-based compensation expense     54         69
+Deferred income taxes     173         36
+Noncash (gains) / losses and other, net    ( 42 )      ( 4 )
+Changes in operating accounts:
+Inventory    ( 13 )      ( 308 )
+Other assets    ( 85 )       146
+Accounts payable    ( 557 )      ( 1,344 )
+Accrued and other liabilities    ( 408 )      ( 143 )
+Cash provided by operating activities     716         275
+Investing activities
+Expenditures for property and equipment    ( 1,035 )      ( 790 )
+Other     2         3
+Cash used in investing activities    ( 1,033 )      ( 787 )
+Financing activities
+Additions to long-term debt     —         991
+Reductions of long-term debt    ( 1,032 )      ( 1,534 )
+Dividends paid    ( 516 )      ( 510 )
+Repurchase of stock     —        ( 250 )
+Shares withheld for taxes on share-based compensation    ( 89 )      ( 60 )
+Cash used in financing activities    ( 1,637 )      ( 1,363 )
+Net decrease in cash and cash equivalents    ( 1,954 )      ( 1,875 )
+Cash and cash equivalents at beginning of period      5,488         4,762
+Cash and cash equivalents at end of period     $     3,534        $     2,887
+Supplemental information
+Leased assets obtained in exchange for new finance lease liabilities    $     —        $     17
+Leased assets obtained in exchange for new operating lease liabilities     45         70
+See accompanying    Notes to Consolidated Financial Statements   .
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+4
+FINANCIAL STATEMENTS
+Table of Contents
+Index to Notes
+Consolidated Statements of Shareholders’ Investment
+Common     Stock     Additional           Accumulated Other
+Stock     Par     Paid-in     Retained     Comprehensive
+(millions) (unaudited)    Shares     Value     Capital     Earnings     Loss     Total
+February 1, 2025     455.6        $     38        $     6,996        $     8,090        $    ( 458 )      $     14,666
+Net earnings    —       —       —        1,036        —        1,036
+Other comprehensive loss    —       —       —       —       ( 4 )      ( 4 )
+Dividends declared, $ 1.12  per share
+—       —       —       ( 515 )      —       ( 515 )
+Repurchase of stock    ( 2.2 )      —       —       ( 251 )      —       ( 251 )
+Share-based compensation     1.0        —        15        —       —        15
+May 3, 2025     454.4        $     38        $     7,011        $     8,360        $    ( 462 )      $     14,947
+Net earnings    —       —       —        935        —        935
+Other comprehensive loss    —       —       —       —       ( 6 )      ( 6 )
+Dividends declared, $ 1.14  per share
+—       —       —       ( 529 )      —       ( 529 )
+Share-based compensation    —       —        73        —       —        73
+August 2, 2025     454.4        $     38        $     7,084        $     8,766        $    ( 468 )      $     15,420
+Net earnings    —       —       —        689        —        689
+Other comprehensive loss    —       —       —       —       ( 3 )      ( 3 )
+Dividends declared, $ 1.14  per share
+—       —       —       ( 526 )      —       ( 526 )
+Repurchase of stock    ( 1.7 )      —       —       ( 152 )      —       ( 152 )
+Share-based compensation     0.1        —        73        —       —        73
+November 1, 2025     452.8        $     38        $     7,157        $     8,777        $    ( 471 )      $     15,501
+Net earnings    —       —       —        1,046        —        1,046
+Other comprehensive income    —       —       —       —        54         54
+Dividends declared, $ 1.14  per share
+—       —       —       ( 526 )      —       ( 526 )
+Share-based compensation    —       —        90        —       —        90
+January 31, 2026     452.8        $     38        $     7,247        $     9,297        $    ( 417 )      $     16,165
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+5
+FINANCIAL STATEMENTS
+Table of Contents
+Index to Notes
+Consolidated Statements of Shareholders’ Investment
+Common     Stock     Additional           Accumulated Other
+Stock     Par     Paid-in     Retained     Comprehensive
+(millions) (unaudited)    Shares     Value     Capital     Earnings     Loss     Total
+January 31, 2026     452.8        $     38        $     7,247        $     9,297        $    ( 417 )      $     16,165
+Net earnings    —       —       —        781        —        781
+Other comprehensive income    —       —       —       —        2         2
+Dividends declared, $ 1.14  per share
+—       —       —       ( 526 )      —       ( 526 )
+Share-based compensation     1.4        —       ( 27 )      —       —       ( 27 )
+May 2, 2026     454.2        $     38        $     7,220        $     9,552        $    ( 415 )      $     16,395
+See accompanying    Notes to Consolidated Financial Statements   .
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+6
+FINANCIAL STATEMENTS
+Table of Contents
+INDEX
+Index to Notes
+INDEX TO NOTES
+Notes to Consolidated Financial Statements
+8
+Note 1
+Accounting Policies
+8
+Note 2
+Net Sales
+9
+Note 3
+Interchange Fee Settlements
+10
+Note 4
+Fair Value Measurements
+10
+Note 5
+Supplier Finance Programs
+11
+Note 6
+Long-Term Debt and Commercial Paper
+11
+Note 7
+Derivative Financial Instruments
+11
+Note 8
+Share Repurchase
+12
+Note 9
+Pension Benefits
+12
+Note 10
+Accumulated Other Comprehensive Loss
+12
+Note 11
+Segment Reporting
+13
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+7
+FINANCIAL STATEMENTS
+Table of Contents
+NOTES
+Index to Notes
+Notes to Consolidated Financial Statements (unaudited)
+1.  Accounting Policies
+These unaudited condensed consolidated financial statements are prepared in accordance with the rules and regulations of the Securities and Exchange Commission applicable to interim financial statements. While these statements reflect all normal recurring adjustments that are, in the opinion of management, necessary for fair presentation of the results of the interim period, they do not include all of the information and footnotes required by United States (U.S.) generally accepted accounting principles (GAAP) for complete financial statements. These condensed consolidated financial statements should be read in conjunction with the financial statement disclosures in our most recent Form 10-K.
+We use the same accounting policies in preparing quarterly and annual financial statements.
+We operate as a single segment that includes all of our operations, which are designed to enable guests to purchase products seamlessly in stores or through our digital channels. Nearly all of our revenues are generated in the U.S. The vast majority of our long-lived assets are located within the U.S.
+Due to the seasonal nature of our business, quarterly revenues, expenses, earnings, and cash flows are not necessarily indicative of the results that may be expected for the full year.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+8
+FINANCIAL STATEMENTS
+Table of Contents
+NOTES
+Index to Notes
+2.  Net Sales
+Merchandise sales represent the vast majority of our revenues. We also earn revenues from a variety of other sources, most notably advertising revenue and credit card profit-sharing income.
+Net Sales    Three Months Ended
+(millions)    May 2, 2026     May 3, 2025
+Apparel & accessories   (a)
+$     3,846        $     3,711
+Beauty   (b)
+3,398         3,101
+Food & beverage   (c)
+6,263         5,902
+Hardlines (Fun 101)   (d)
+3,522         3,074
+Home furnishings & décor   (e)
+3,239         3,220
+Household essentials   (f)
+4,570         4,357
+Other merchandise sales     56         40
+Merchandise sales     24,894         23,405
+Advertising revenue     246         163
+Credit card profit sharing     130         141
+Other     173         137
+Net sales    $     25,443        $     23,846
+(a)  Includes apparel for women, men, young adults, kids, toddlers, and babies, as well as jewelry, accessories, and shoes.
+(b)  Includes skin and bath care, cosmetics, hair care, oral care, deodorant, and shaving products.
+(c)  Includes dry and perishable grocery, including snacks, candy, beverages, deli, bakery, meat, produce  ,   food service (primarily Starbucks), and floral in our stores.
+(d)  Includes electronics, including video games and consoles, toys, trading cards, sporting goods and fan merchandise, pop culture and other entertainment, and luggage.
+(e)  Includes bed and bath, home décor, school/office supplies, storage, small appliances, kitchenware, greeting cards, party supplies, furniture, lighting, home improvement, and seasonal merchandise.
+(f)  Includes household cleaning, paper products, over-the-counter healthcare, vitamins and supplements, baby gear, and pet supplies.
+Merchandise sales —     We record almost all retail store revenues at the point of sale. Digitally originated sales may include shipping revenue and are recorded upon delivery to the guest or upon guest pickup at the store. Sales are recognized net of expected returns, which we estimate using historical return patterns and our expectation of future returns.  As of May 2, 2026, January 31, 2026, and May 3, 2025, the liability for estimated returns was $ 191  million, $ 155  million, and $ 186  million, respectively.
+Revenue from Target gift card sales is recognized upon gift card redemption, which is typically within one year of issuance.
+Gift Card Liability Activity    January 31,
+2026
+Gift Cards Issued During Current Period But Not Redeemed   (b)
+Revenue Recognized From Beginning Liability     May 2,
+2026
+(millions)
+Gift card liability   (a)
+$     1,197        $     238        $    ( 420 )      $     1,015
+(a)  Included in Accrued and Other Current Liabilities.
+(b)  Net of estimated breakage.
+Advertising revenue     —   Primarily represents revenue related to certain advertising services provided via our Roundel digital advertising business offering. Roundel services are classified as either Net Sales or as a reduction of Cost of Sales or Selling, General, and Administrative (SG&A) Expenses, depending on the nature of the advertising arrangement.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+9
+FINANCIAL STATEMENTS
+Table of Contents
+NOTES
+Index to Notes
+Credit card profit sharing   — We receive payments under a credit card program agreement with TD Bank Group (TD). Under the agreement, we receive a percentage of the profits generated by the Target Circle credit card receivables in exchange for performing account servicing and primary marketing functions. TD underwrites, funds, and owns Target Circle credit card receivables, controls risk management policies, and oversees regulatory compliance.
+Other   — Includes commissions earned on third-party sales through our Target Plus third-party digital marketplace, Target Circle 360 membership revenue, Shipt membership and service revenues, rental income, and other miscellaneous revenues.
+3.  Interchange Fee Settlements
+In March 2025, we entered into settlement agreements to resolve credit card interchange fee litigation matters in which we were a plaintiff. As a result of these lump-sum settlements, during the first quarter of 2025, we recorded gains within SG&A Expenses of $ 593  million, net of legal fees.
+4.  Fair Value Measurements
+Fair value measurements are reported in one of three levels reflecting the significant inputs used to determine fair value.
+Financial Instruments Measured On a Recurring Basis    Fair Value
+(millions)    Classification    Measurement Level    May 2, 2026     January 31, 2026     May 3, 2025
+Assets
+Short-term investments    Cash and Cash Equivalents    Level 1    $     2,544        $     4,611        $     1,975
+Prepaid forward contracts     Other Current Assets    Level 1     22         18         17
+Liabilities
+Interest rate swaps    Other Current Liabilities    Level 2     —         1         3
+Interest rate swaps    Other Noncurrent Liabilities    Level 2     65         54         65
+Significant Financial Instruments Not Measured at Fair Value   (a)
+(millions)
+May 2, 2026     January 31, 2026     May 3, 2025
+Carrying
+Amount    Fair
+Value     Carrying
+Amount    Fair
+Value     Carrying
+Amount    Fair
+Value
+Long-term debt, including current portion   (b)
+$     13,402       $     12,635        $     14,398       $     13,732        $     13,398       $     12,377
+(a)  The carrying amounts of certain other current assets, commercial paper, accounts payable, and certain accrued and other current liabilities approximate fair value due to their short-term nature.
+(b)  The fair value of long-term debt is estimated using Level 2 inputs based on quoted prices for the instruments. Where quoted prices are not available, fair value is estimated using discounted cash flows and market-based expectations for interest rates. These amounts exclude commercial paper, fair value hedge adjustments, and lease liabilities.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+10
+FINANCIAL STATEMENTS
+Table of Contents
+NOTES
+Index to Notes
+5.  Supplier Finance Programs
+We have arrangements with several financial institutions to act as our paying agents to certain vendors. The arrangements also permit the financial institutions to provide vendors with an option, at our vendors' sole discretion, to elect to receive early payment of our payment obligations from the financial institutions at a discounted amount. A vendor’s election to receive early payment does not change the amount that we must remit to the financial institutions or our payment date, which is up to  120  days from the invoice date.
+We do not pay any fees or pledge any security to these financial institutions under these arrangements. The arrangements can be terminated by either party with notice ranging up to  120  days.
+Our outstanding vendor obligations eligible for early payment under these arrangements totaled $ 2.8  billion, $ 3.0  billion, and $ 3.3  billion as of May 2, 2026, January 31, 2026, and May 3, 2025, respectively, and are included within Accounts Payable on our Consolidated Statements of Financial Position. These outstanding vendor obligations do not represent actual early payments made under supplier finance programs, which have historically been lower.
+6.  Long-Term Debt and Commercial Paper
+Our unsecured long-term debt repayments during the three months ended   May 2, 2026, were   as follows:
+Debt Repayments
+(dollars in millions)
+Repayment Date     Maturity Date     Principal Amount      Interest Rate (Fixed)
+April 2026     April 2026     $     1,000       2.50      %
+We obtain short-term financing from time to time   under our commercial paper program. There was   no   commercial paper outstanding at any time during the three months ended May 2, 2026, or May 3, 2025.
+7.  Derivative Financial Instruments
+Our derivative instruments consist of interest rate swaps used to mitigate interest rate risk. As a result, we have counterparty credit exposure to large global financial institutions, which we monitor on an ongoing basis.    Note 4    to the Consolidated Financial Statements provides the fair value and classification of these instruments.
+We were party to interest rate swaps with notional amounts totaling $ 2.45  billion as of May 2, 2026, and $  2.20   billion as of January 31, 2026, and May 3, 2025. We pay a floating rate and receive a fixed rate under each of these agreements. All of the agreements are designated as fair value hedges, and all were considered to be perfectly effective under the shortcut method during the three months ended May 2, 2026, and May 3, 2025.
+Effect of Hedges on Debt
+(millions)
+May 2, 2026     January 31, 2026     May 3, 2025
+Long-term debt and other borrowings
+Carrying amount of hedged debt        $     2,376        $     2,139        $     2,126
+Cumulative hedging adjustments, included in carrying amount     ( 65 )      ( 55 )      ( 68 )
+Effect of Hedges on Net Interest Expense    Three Months Ended
+(millions)    May 2, 2026     May 3, 2025
+Gain (loss) on fair value hedges recognized in Net Interest Expense
+Interest rate swaps designated as fair value hedges    $    ( 10 )      $     57
+Hedged debt     10        ( 57 )
+Gain on cash flow hedges recognized in Net Interest Expense     6         6
+Total    $     6        $     6
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+11
+FINANCIAL STATEMENTS
+Table of Contents
+NOTES
+Index to Notes
+8.  Share Repurchase
+We periodically repurchase shares of our common stock under a board-authorized repurchase program through a combination of open market transactions, accelerated share repurchase arrangements, and other privately negotiated transactions with financial institutions.
+Share Repurchase Activity    Three Months Ended
+(millions, except per share data)    May 2, 2026     May 3, 2025
+Number of shares purchased     —         2.2
+Average price paid per share   (a)
+$     —        $     114.60
+Total investment   (a)
+$     —        $     251
+(a)        Amounts include applicable excise tax and commissions.
+9.  Pension Benefits
+We provide pension plan benefits to eligible team members.
+Net Pension Benefits (Income) / Expense     Three Months Ended
+(millions)    Classification    May 2, 2026     May 3, 2025
+Service cost benefits earned    Cost of Sales and SG&A Expenses    $     18        $     17
+Interest cost on projected benefit obligation      Net Other Income     40         42
+Expected return on assets      Net Other Income    ( 64 )      ( 67 )
+Amortization of losses      Net Other Income     9         —
+Total     $     3        $    ( 8 )
+10.  Accumulated Other Comprehensive Loss
+Change in Accumulated Other Comprehensive Loss    Cash Flow Hedges     Currency Translation Adjustment     Pension     Total
+(millions)
+January 31, 2026    $     248        $    ( 29 )      $    ( 636 )      $    ( 417 )
+Other comprehensive loss before reclassifications     —        ( 1 )       —        ( 1 )
+Amounts reclassified    ( 4 )       —         7         3
+May 2, 2026    $     244        $    ( 30 )      $    ( 629 )      $    ( 415 )
+Note:  Amounts are net of tax.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+12
+FINANCIAL STATEMENTS
+Table of Contents
+NOTES
+Index to Notes
+11.  Segment Reporting
+Our Chief Operating Decision Maker (CODM)—our Chief Executive Officer—monitors our consolidated net earnings and operating income to evaluate performance and make operating decisions including whether to invest profits into capital projects, make equity or other investments, or return capital to shareholders. Consolidated assets as presented on our Consolidated Statements of Financial Position is the only view of assets regularly reviewed by our CODM. We operate as a single segment that includes all of our operations, which are designed to enable guests to purchase products seamlessly in stores or through our digital channels. Virtually all of our consolidated revenues are generated in the United States. The vast majority of our properties and equipment are located within the United States.
+Business Segment Results    Three Months Ended
+(millions)    May 2, 2026     May 3, 2025
+Net sales    $     25,443        $     23,846
+Cost of sales
+Merchandising cost of sales     16,278         15,355
+Supply chain and digital fulfillment costs     1,783         1,773
+Total cost of sales     18,061         17,128
+Selling, general and administrative expenses   (a)
+5,562         4,591
+Depreciation and amortization (exclusive of depreciation included in cost of sales)
+685         655
+Operating income   (a)
+1,135         1,472
+Net interest expense     117         116
+Net other income    ( 15 )      ( 26 )
+Earnings before income taxes     1,033         1,382
+Provision for income taxes     252         346
+Net earnings    $     781        $     1,036
+(a)  For the three months ended May 3, 2025, includes $ 593  million of pretax net gains related to settlements of credit card interchange fee litigation matters.    Note 3    provides additional information.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+13
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+FINANCIAL SUMMARY
+Index to Notes
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Financial Summary
+First quarter 2026 included the following:
+•  Net Sales of $25.4 billion, an increase of 6.7 percent from the comparable prior-year period, driven by:
+•  A comparable sales increase of 5.6 percent, reflecting a 4.4 percent increase in traffic and a 1.1 percent increase in average transaction amount;
+•  The sales contribution from new stores; and
+•  Non-merchandise sales growth of 24.6 percent, primarily driven by growth in our Roundel digital advertising business offering.
+•  GAAP and Adjusted operating income  1   of $1.1 billion was 22.9 percent lower than prior year GAAP operating income, which included $593 million of pretax net gains on interchange fee settlements. Excluding the settlement gains, Adjusted operating income was 29.1 percent higher than $0.9 billion in the prior-year.
+Earnings Per Share    Three Months Ended
+May 2, 2026     May 3, 2025     Change
+GAAP diluted earnings per share    $    1.71       $    2.27       (24.5)    %
+Adjustments    —       (0.97)
+Adjusted diluted earnings per share  1
+$    1.71       $    1.30       31.6     %
+Note: Amounts may not foot due to rounding.
+1  Adjusted diluted earnings per share (Adjusted EPS) and Adjusted operating income, non-GAAP metrics, exclude the impact of certain items. Management believes that Adjusted EPS and Adjusted operating income are useful in providing period-to-period comparisons of the results of our operations. A reconciliation of non-GAAP financial measures to GAAP measures is provid  ed   on    page 20   .
+We report after-tax return on invested capital (ROIC) because we believe ROIC provides a meaningful measure of our capital allocation effectiveness over time. For the trailing twelve months ended May 2, 2026, after-tax ROIC   was   12.4 percent  ,   compared with 15.1 percent for the trailing twelve months ended May 3, 2025. The calculation of ROIC is   provided on      page 21   .
+Business Environment
+Beginning in 2025, the U.S. imposed additional tariffs on a wide range of imported products using various legal authorities, including the International Emergency Economic Powers Act (IEEPA). These tariffs were subsequently modified through incremental increases, decreases, pauses, and limited exemptions. Approximately one-half of the merchandise we offer is sourced from outside the U.S., either directly or through our vendors, with China as the single largest source of merchandise we import.
+On February 20, 2026, the U.S. Supreme Court ruled that tariffs imposed under IEEPA were not authorized by the statute. While the ruling did not establish a refund process, the U.S. Court of International Trade (CIT) subsequently ordered U.S. Customs and Border Protection (CBP) to implement a process to administer refunds, which CBP began executing with the April 20, 2026 deployment of the Consolidated Administration and Processing of Entries (CAPE) system for certain IEEPA refund claims.
+We incurred tariffs under IEEPA, and are following the established refund filing and validation process through the CAPE system, along with other importers seeking IEEPA refunds. As of May 2, 2026, no refunds had been received and no receivable was r  ecorded. Subsequent to quarter-end, we began receiving refunds, which to date have not been material. Due to the remaining uncertainties related to the process, timing, and amount of potential refunds, as well as a potential appeal of the CIT's order to issue refunds, we are unable to estimate the ultimate financial effects of IEEPA refunds.
+After the Supreme Court ruling in February, the U.S. administration instituted new tariffs against most major trading partners, and has previewed future actions that could restore or exceed the level of the IEEPA tariffs. We continue to assess and respond to the evolving consumer, legal and regulatory environment.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+14
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+FINANCIAL SUMMARY
+Index to Notes
+The collective interaction of tariffs, IEEPA refunds, sourcing strategies, pricing actions, consumer response and behaviors, and other factors could materially impact our sales, results of operations, and financial condition in future periods.
+Business Transformation Initiatives
+In 2025, we announced a multi-year initiative to transform various aspects of our business—including our organizational structure, processes, and technology—to enable greater agility and optimize the use of the Company's assets. We incurred costs and charges related to our business transformation initiatives in 2025, including a reduction in our headquarters workforce. Refer to Note 7 to the Financial Statements in our    Form 10-K    for the fiscal year ended January 31, 2026, for additional information.
+We did not incur any costs or charges related to these initiatives during the three months ended May 2, 2026, or the comparable prior-year period.
+We may incur additional costs and charges related to these initiatives in future periods, which may adversely affect our results of operations and financial condition; however, we cannot reasonably estimate the amount or timing of such costs and charges.
+Analysis of Results of Operations
+Summary of Operating Income     Three Months Ended
+(dollars in millions)    May 2, 2026     May 3, 2025     Change
+Net sales    $    25,443       $    23,846       6.7     %
+Cost of sales    18,061       17,128       5.4
+SG&A expenses    5,562       4,591       21.1
+Depreciation and amortization (exclusive of depreciation included in cost of sales)    685       655       4.6
+Operating income    $    1,135       $    1,472       (22.9)    %
+Adjusted SG&A expenses   (a)
+$    5,562       $    5,183       7.3     %
+Adjusted operating income   (a)
+1,135       879       29.1
+Rate Analysis    Three Months Ended
+May 2, 2026     May 3, 2025
+Gross margin rate    29.0     %     28.2     %
+SG&A expense rate    21.9       19.3
+Adjusted SG&A expense rate   (a)
+21.9       21.7
+Depreciation and amortization expense rate (exclusive of depreciation included in cost of sales)    2.7       2.7
+Operating income margin rate    4.5       6.2
+Adjusted operating income margin rate   (a)
+4.5       3.7
+Note: Gross margin (GM) is calculated as Net Sales less Cost of Sales. All rates are calculated by dividing the applicable amount by Net Sales.
+(a)  Adjusted SG&A expenses, Adjusted SG&A expense rate, Adjusted operating income, and Adjusted operating income margin rate, which are non-GAAP measures, exclude the impact of certain items. Management believes that these measures are useful in providing period-to-period comparisons of the results of our operations. A reconciliation of non-GAAP financial measures to GAAP measures is provided on    page 20   .
+Net Sales
+Net sales includes all Merchandise Sales and revenues from other sources, most notably advertising revenue and credit card profit-sharing income.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+15
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF RESULTS OF OPERATIONS
+Index to Notes
+Merchandise Sales are net of expected returns, and our estimate of gift card breakage. Comparable sales include all Merchandise Sales, except sales from stores open less than 13 months or that have been closed. We use comparable sales to evaluate the performance of our stores and digital channels by measuring the change in sales for a period over the comparable, prior-year period of equivalent length. Comparable sales measures vary across the retail industry. As a result, our comparable sales calculation is not necessarily comparable to similarly titled measures reported by other companies. Digitally originated sales include all Merchandise Sales initiated through mobile/computer applications and our websites. Our stores fulfill the majority of digitally originated sales, including shipment from stores to guests, store Order Pickup or Drive Up, and Same Day Delivery. Digitally originated sales may also be fulfilled through our distribution centers, our vendors, or other third parties.
+Merchandise Sales growth—from both comparable sales and new stores—represents an important driver of our long-term profitability. We expect that comparable sales growth will drive a significant portion of our total sales growth. We believe that our ability to successfully differentiate our guests’ shopping experience through a careful combination of merchandise assortment, price, convenience, guest experience, and other factors will over the long-term drive both increasing shopping frequency (number of transactions, or "traffic") and the amount spent each visit (average transaction amount).
+Comparable Sales    Three Months Ended
+May 2, 2026     May 3, 2025
+Comparable sales change    5.6     %     (3.8)    %
+Drivers of change in comparable sales
+Number of transactions (traffic)    4.4       (2.4)
+Average transaction amount    1.1       (1.4)
+Comparable Sales by Channel    Three Months Ended
+May 2, 2026     May 3, 2025
+Stores originated comparable sales change    4.7     %     (5.7)    %
+Digitally originated comparable sales change    8.9       4.7
+Merchandise Sales by Channel    Three Months Ended
+May 2, 2026     May 3, 2025
+Stores originated    79.7     %     80.2     %
+Digitally originated    20.3       19.8
+Total    100     %     100     %
+Merchandise Sales by Fulfillment Channel    Three Months Ended
+May 2, 2026     May 3, 2025
+Stores     97.6     %     97.6     %
+Other    2.4       2.4
+Total    100     %     100     %
+Note: Merchandise Sales fulfilled by stores include in-store purchases and digitally originated sales fulfilled by shipping merchandise from stores to guests, Order Pickup, Drive Up, and Same Day Delivery.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+16
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF RESULTS OF OPERATIONS
+Index to Notes
+Merchandise Sales by Product Category    Three Months Ended
+May 2, 2026     May 3, 2025
+Apparel & accessories    16     %     16     %
+Beauty    14       13
+Food & beverage    25       25
+Hardlines (Fun 101)    14       13
+Home furnishings & décor    13       14
+Household essentials    18       19
+Total    100     %     100     %
+Note 2    to the Financial Statements provides additional product category sales information. The collective interaction of a broad array of macroeconomic, competitive, and consumer behavioral factors, as well as sales mix and the transfer of sales to new stores, makes further analysis of sales metrics infeasible.
+Store Data
+Change in Number of Stores    Three Months Ended
+May 2, 2026     May 3, 2025
+Beginning store count    1,995       1,978
+Opened    7       3
+Ending store count    2,002       1,981
+Number of Stores and    Number of Stores
+Retail Square Feet     (a)
+Retail Square Feet    May 2, 2026    January 31, 2026    May 3, 2025     May 2, 2026    January 31, 2026    May 3, 2025
+170,000 or more sq. ft.    274      273      273       49,045      48,824      48,824
+50,000 to 169,999 sq. ft.    1,581      1,576      1,562       197,978      197,274      195,436
+49,999 or less sq. ft.    147      146      146       4,460      4,420      4,404
+Total    2,002      1,995      1,981       251,483      250,518      248,664
+(a)  In thousands; reflects total square feet less office, supply chain facility, and vacant space.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+17
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF RESULTS OF OPERATIONS
+Index to Notes
+Gross Margin Rate
+Quarter-to-Date
+For the three months ended May 2, 2026, our gross margin rate was 29.0 percent compared with 28.2 percent in the comparable prior-year period. The increase reflected net benefits from:
+•  merchandising, primarily due to lower markdown rates and growth in advertising and other revenues, partially offset by higher product costs; and
+•  supply chain and digital fulfillment, including productivity improvements in supply chain facilities, and the leveraging impact of higher sales.
+Selling, General, and Administrative Expense Rate
+For the three months ended May 2, 2026, our SG&A expense rate was 21.9 percent compared with 19.3 percent for the comparable prior-year period. Our comparable prior-period rate included a 2.5 percentage point benefit from interchange fee settlements, which are further described in    Note 3    to the Financial Statements. Excluding this item, our Adjusted SG&A expense rate was 21.7 percent. The remaining 0.2 percentage point increase in 2026 reflected higher compensation expense, including stores payroll and incentive compensation, new store and remodel-related expenses, and the net impact of other cost increases. These cost increases more than offset the leverage benefit of higher sales.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+18
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+OTHER PERFORMANCE FACTORS
+Index to Notes
+Other Performance Factors
+Net Interest Expense
+For the three months ended   May 2, 2026, n  et interest expense was   $117 million compared with $116 million in the comparable prior-year period.
+Provision for Income Taxes
+Our effective income tax rate for the three months ended May 2, 2026, was 24.4 percent compared with 25.0 percent in the comparable prior-year period. The decrease reflects lower discrete tax expense in the current year, primarily related to share-based compensation.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+19
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES
+Index to Notes
+Reconciliation of Non-GAAP Financial Measures to GAAP Measures
+To provide additional transparency, we have disclosed non-GAAP adjusted diluted earnings per share (Adjusted EPS), adjusted SG&A expenses, adjusted SG&A expense rate, adjusted operating income, and adjusted operating income margin rate. These measures exclude certain items presented below. We believe this information is useful in providing period-to-period comparisons of the results of our operations. These measures are not in accordance with, or an alternative to, generally accepted accounting principles in the U.S. (GAAP). The most comparable GAAP measures are diluted earnings per share, SG&A expenses, SG&A expense rate, operating income, and operating income margin rate. Adjusted EPS, adjusted SG&A expenses, adjusted SG&A expense rate, adjusted operating income, and adjusted operating income margin rate should not be considered in isolation or as a substitution for analysis of our results as reported in accordance with GAAP. Other companies may calculate these measures differently, or not provide similar measures, limiting the usefulness of the measures for comparisons with other companies.
+Reconciliation of Non-GAAP Adjusted EPS     Three Months Ended
+May 2, 2026     May 3, 2025
+(millions, except per share data)     Pretax     Net of Tax     Per Share     Pretax     Net of Tax     Per Share
+GAAP diluted earnings per share         $    1.71           $    2.27
+Adjustments
+Interchange fee settlements   (a)
+$    —       $    —       $    —       $    (593)      $    (441)      $    (0.97)
+Adjusted EPS         $    1.71           $    1.30
+Reconciliation of Non-GAAP Adjusted SG&A Expenses and Adjusted Operating Income    Three Months Ended
+May 2, 2026     May 3, 2025
+SG&A Expenses    Operating Income     SG&A Expenses    Operating Income
+(dollars in millions)    Dollars    Rate     Dollars    Rate      Dollars    Rate    Dollars    Rate
+Reported, GAAP measure    $    5,562      21.9     %    $    1,135      4.5     %     $    4,591      19.3     %    $    1,472      6.2     %
+Adjustments
+Interchange fee settlements   (a)
+—      —      —      —       593      2.5     %    (593)     (2.5)    %
+Adjusted, Non-GAAP measure    $    5,562      21.9     %    $    1,135      4.5     %     $    5,183      21.7     %    $    879      3.7     %
+Note:  Amounts may not foot due to rounding. Rates are calculated by dividing the applicable amount by Net Sales.
+(a)  The adjustment removes the favorable impact of the settlement gains from prior-year SG&A Expenses and Operating Income.    Note 3    to the Financial Statements provides additional information.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+20
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+RECONCILIATION OF NON-GAAP FINANCIAL MEASURES
+Index to Notes
+We have also disclosed after-tax ROIC, which is a ratio based on GAAP information, with the exception of the add-back of operating lease interest to operating income. We believe this metric is useful in assessing the effectiveness of our capital allocation over time. Other companies may calculate ROIC differently, limiting the usefulness of the measure for comparisons with other companies.
+After-Tax Return on Invested Capital
+(dollars in millions)
+Trailing Twelve Months
+Numerator     May 2, 2026     May 3, 2025
+Operating income     $    4,781       $    5,742
++ Net other income     84       102
+EBIT     4,865       5,844
++ Operating lease interest   (a)
+173       165
+- Income taxes   (b)
+1,103       1,373
+Net operating profit after taxes     $    3,935         $    4,636
+Denominator     May 2, 2026     May 3, 2025     May 4, 2024
+Current portion of long-term debt and other borrowings     $    1,133     $    1,139     $    2,614
++ Noncurrent portion of long-term debt     14,282     14,334     13,487
++ Shareholders' investment     16,395     14,947     13,840
++ Operating lease liabilities   (c)
+3,792     3,922     3,723
+- Cash and cash equivalents     3,534     2,887     3,604
+Invested capital     $    32,068     $    31,455     $    30,060
+Average invested capital   (d)
+$    31,761     $    30,757
+After-tax return on invested capital   (e)
+12.4       %     15.1       %
+(a)  Represents the add-back to operating income driven by the hypothetical interest expense we would incur if the property under our operating leases were owned or accounted for as finance leases. Calculated using the discount rate for each lease and recorded as a component of rent expense within Operating Income. Operating lease interest is added back to Operating Income in the ROIC calculation to control for differences in capital structure between us and our competitors.
+(b)  Calculated using the effective tax rates, which were   21.9 percent   and 22.8 percent for the trailing twelve months ended May 2, 2026, and May 3, 2025, respectively. For the trailing twelve months ended May 2, 2026, and May 3, 2025, includes tax effect of $1.1 billion and $1.3 billion, respectively, related to EBIT, and $38 million related to operating lease interest.
+(c)  Total short-term and long-term operating lease liabilities included within Accrued and Other Current Liabilities and Noncurrent Operating Lease Liabilities, respectively.
+(d)  Average based on the invested capital at the end of the current period and the invested capital at the end of the comparable prior period.
+(e)  For the trailing twelve months ended May 2, 2026, includes the impact of business transformation costs incurred within the trailing twelve-month period, which decreased after-tax ROIC by 0.6 percentage points. For the trailing twelve months ended May 3, 2025, includes the impact of after-tax net gains on interchange fee settlements, which increased after-tax ROIC by 1.4 percentage points.    Note 3    to the Financial Statements provides additional information.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+21
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION
+Index to Notes
+Analysis of Financial Condition
+Liquidity and Capital Resources
+Capital Allocation
+We follow a disciplined and balanced approach to capital allocation based on the following priorities, ranked in order of importance: first, we fully invest in opportunities to profitably grow our business, create sustainable long-term value, and maintain our current operations and assets; second, we maintain a competitive quarterly dividend and seek to grow it annually; and finally, we return any excess cash to shareholders by repurchasing shares within the limits of our credit rating goals.
+Our cash and cash equivalents balance was $3.5 billion, $5.5 billion, and $2.9 billion as of May 2, 2026, January 31, 2026, and May 3, 2025, respectively. Our cash and cash equivalents balance includes short-term investments of $2.5 billion, $4.6 billion, and $2.0 billion as of May 2, 2026, January 31, 2026, and May 3, 2025, respectively. Our investment policy is designed to preserve principal and liquidity of our short-term investments. This policy allows investments in large money market funds or in highly-rated direct short-term instruments that mature in 60 days or less. We also place dollar limits on our investments in individual funds or instruments.
+Operating Cash Flows
+Cash flows provided by operating activities were $0.7 billion and $0.3 billion for the three months ended May 2, 2026, and May 3, 2025, respectively. The increase was primarily due to higher accounts payable leverage and lower inventory levels. These benefits were partially offset by lower net earnings, reflecting the prior-year benefit from gains on interchange fee settlements, and higher income tax payments in the current year, reflecting timing.
+Inventory
+Inventory was $12.3 billion as of May 2, 2026 and January 31, 2026, and $13.0 billion as of May 3, 2025. The year-over-year decrease reflects higher than expected sales in the current year and the timing of inventory receipts.
+Investing Cash Flows
+Cash required for investing activities increased to $1.0 billion for the three months ended May 2, 2026, compared to $0.8 billion for the three months ended May 3, 2025, due to higher capital expenditures.
+Dividends
+We paid dividends totaling $516 million ($1.14 per share) for the three months ended May 2, 2026, and $510 million ($1.12 per share) for the three months ended May 3, 2025, a per share increase of 1.8 percent. We declared dividends totaling $526 million ($1.14 per share) during the first quarter of 2026 and $515 million ($1.12 per share) during the first quarter of 2025, a per share increase of 1.8 percent. We have paid dividends every quarter since our 1967 initial public offering, and it is our intent to continue to do so in the future.
+Share Repurchase
+We did not repurchase any shares during the three months ended May 2, 2026. See    Part II, Item 2, Unregistered Sales of Equity Securities and Use of Proceeds    of this Quarterly Report on Form 10-Q and    Note 8    to the Financial Statements for more information.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+22
+MANAGEMENT'S DISCUSSION AND ANALYSIS
+Table of Contents
+ANALYSIS OF FINANCIAL CONDITION
+Index to Notes
+Financing
+Our financing strategy is to ensure liquidity and access to capital markets, to maintain a balanced spectrum of debt maturities, and to manage our net exposure to floating interest rate volatility. Within these parameters, we seek to minimize our borrowing costs. Our ability to access the long-term debt and commercial paper markets has provided us with ample sources of liquidity. Our continued access to these markets depends on multiple factors, including the condition of debt capital markets, our operating performance, and maintaining strong credit ratings. As of May 2, 2026, our credit ratings were as follows:
+Credit Ratings    Moody’s
+S&P
+Long-term debt    A2    A
+Commercial paper    P-1    A-1
+If our credit ratings were lowered, our ability to access the debt markets, our cost of funds, and other terms for new debt issuances could be adversely impacted. Each of the credit rating agencies reviews its rating periodically, and there is no guarantee our current credit ratings will remain the same as described above.
+We repaid $1.0 billion of unsecured debt in April 2026.    Note 6    to the Financial Statements provides additional information.
+We have the ability to obtain short-term financing from time to time under our commercial paper program and credit facilities. Our committed $1.0 billion 364-day and $3.0 billion unsecured revolving credit facilities that will expire in October 2026 and October 2028, respectively, provide a liquidity backstop to our commercial paper program. No balances were outstanding under either credit facility or our commercial paper program at any time during 2026 or 2025.    Note 6    to the Financial Statements provides additional information.
+Most of our long-term debt obligations contain covenants related to secured debt levels. In addition to a secured debt level covenant, our credit facilities also contain a debt leverage covenant. We are, and expect to remain, in compliance with these covenants. Additionally, as of May 2, 2026, no notes or debentures contained provisions requiring acceleration of payment upon a credit rating downgrade, except that certain outstanding notes allow the note holders to put the notes to us if within a matter of months of each other we experience both (i) a change in control and (ii) our long-term credit ratings are either reduced and the resulting rating is non-investment grade, or our long-term credit ratings are placed on watch for possible reduction and those ratings are subsequently reduced and the resulting rating is non-investment grade.
+We believe our sources of liquidity, namely operating cash flows, credit facility capacity, and access to capital markets, will continue to be adequate to meet our contractual obligations, working capital, and planned capital expenditures, finance anticipated expansion and strategic initiatives, fund debt maturities, pay dividends, and execute purchases under our share repurchase program for the foreseeable future.
+New Accounting Pronouncements
+We do not expect any recently issued accounting pronouncements to have a material effect on our financial statements.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+23
+MANAGEMENT'S DISCUSSION AND ANALYSIS & SUPPLEMENTAL INFORMATION
+Table of Contents
+FORWARD-LOOKING STATEMENTS & CONTROLS AND PROCEDURES
+Index to Notes
+Forward-Looking Statements
+This report contains forward-looking statements, which are based on our current assumptions and expectations. These statements are typically accompanied by the words "anticipate," "believe," "could," “expect,” “may,” “might,” “seek,” "will," “would,” or similar words. The principal forward-looking statements in this report include statements regarding: our future financial and operational performance, changes in the consumer landscape, evolution in tariffs and global trade policy, the availability, timing, and amount of any tariff refunds, the impacts of business transformation efforts, the adequacy of and costs associated with our sources of liquidity, the funding of debt maturities, the execution of our share repurchase program, our expected capital expenditures and new lease commitments, the expected compliance with debt covenants, the expected impact of new accounting pronouncements, our intentions regarding future dividends, the expected return on plan assets, the expected outcome of, and adequacy of our reserves for, claims, litigation, and the resolution of tax matters, and changes in our assumptions and expectations.
+All such forward-looking statements are intended to enjoy the protection of the safe harbor for forward-looking statements contained in the Private Securities Litigation Reform Act of 1995, as amended. Although we believe there is a reasonable basis for the forward-looking statements, our actual results could be materially different. The most important factors which could cause our actual results to differ from our forward-looking statements are set forth in our description of risk factors included in Part I, Item 1A, Risk Factors of our    Form 10-K    for the fiscal year ended January 31, 2026, which should be read in conjunction with the forward-looking statements in this report. Forward-looking statements speak only as of the date they are made, and we do not undertake any obligation to update any forward-looking statement.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+There have been no material changes in our primary risk exposures or management of market risks from those disclosed in Part II, Item 7A, Quantitative and Qualitative Disclosures About Market Risk of our    Form 10-K    for the fiscal year ended January 31, 2026.
+Item 4. Controls and Procedures
+Changes in Internal Control Over Financial Reporting
+There were no changes during the most recent fiscal quarter that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Evaluation of Disclosure Controls and Procedures
+As of the end of the period covered by this quarterly report, we conducted an evaluation, under supervision and with the participation of management, including the chief executive officer and chief financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures pursuant to Rules 13a-15 and 15d-15 of the Securities Exchange Act of 1934, as amended (Exchange Act). Based upon that evaluation, our chief executive officer and chief financial officer concluded that our disclosure controls and procedures are effective at a reasonable assurance level. Disclosure controls and procedures are defined by Rules 13a-15(e) and 15d-15(e) of the Exchange Act as controls and other procedures that are designed to ensure that information required to be disclosed by us in reports filed with the SEC under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by us in reports filed under the Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers, or persons performing similar functions, as appropriate, to allow timely decisions regarding required disclosure.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+24
+SUPPLEMENTAL INFORMATION
+Table of Contents
+Index to Notes
+PART II. OTHER INFORMATION
+Item 1. Legal Proceedings
+For the quarterly period ended May 2, 2026, no response is required under Item 103 of Regulation S-K, nor have there been any material developments for any previously reported legal proceedings.
+Item 1A. Risk Factors
+There have been no material changes to the risk factors described in Part I, Item 1A, Risk Factors of our    Form 10-K    for the fiscal year ended January 31, 2026.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+On August 11, 2021, our Board of Directors authorized a $15 billion share repurchase program with no stated expiration. Under the program, we have repurchased 34.8 million shares of common stock for a total investment of $6.7 billion. As of May 2, 2026, the dollar value of shares that may yet be purchased under the program is $8.3 billion. There were no Target common stock purchases made during the three months ended May 2, 2026, by Target or any "affiliated purchaser" of Target, as defined in Rule 10b-18(a)(3) under the Exchange Act.
+Item 3. Defaults Upon Senior Securities
+Not applicable.
+Item 4. Mine Safety Disclosures
+Not applicable.
+Item 5. Other Information
+Not applicable    .
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+25
+SUPPLEMENTAL INFORMATION
+Table of Contents
+Index to Notes
+Item 6. Exhibits
+3.1
+Amended and Restated Articles of Incorporation of Target Corporation (as amended through June 9, 2010) (filed as Exhibit (3)A to Target's Current Report on Form 8-K on June 10, 2010 and incorporated herein by reference).
+3.2
+Bylaws of Target Corporation (as amended and restated through January 15, 2025) (filed as Exhibit 3.2 to Target's Current Report on Form 8-K on January 17, 2025, and incorporated herein by reference).
+31.1    **
+Certification of the Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2    **
+Certification of the Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1    ***
+Certification of the Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2    ***
+Certification of the Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, As Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS    **    Inline XBRL Instance Document
+101.SCH    **    Inline XBRL Taxonomy Extension Schema Document
+101.CAL    **    Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF    **    Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB    **    Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE    **    Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104    **    Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+**
+Filed herewith.
+***
+Furnished herewith.
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+26
+SUPPLEMENTAL INFORMATION
+Table of Contents
+Index to Notes
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+TARGET CORPORATION
+Dated: May 29, 2026    By:     /s/ Jim Lee
+Jim Lee
+Executive Vice President and
+Chief Financial Officer
+(Duly Authorized Officer and
+Principal Financial Officer)
+/s/ Matthew A. Liegel
+Matthew A. Liegel
+Senior Vice President, Chief Accounting Officer
+and Controller
+(Principal Accounting Officer)
+TARGET CORPORATION
+Q1 2026 Form 10-Q
+27

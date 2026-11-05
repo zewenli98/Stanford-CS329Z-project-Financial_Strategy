@@ -1,0 +1,390 @@
+EX-99.1
+2
+amzn-20260930xex991.htm
+EX-99.1
+Document
+Exhibit 99.1
+AMAZON.COM ANNOUNCES THIRD QUARTER RESULTS
+Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever
+AWS net sales increased 39.3%—its fastest growth in nearly five years—to a $184 billion annualized revenue run rate
+SEATTLE—(BUSINESS WIRE) October 29, 2026—Amazon.com, Inc. (NASDAQ: AMZN) today announced financial results for its third quarter ended September 30, 2026.
+•  Net sales   increased 12% to $201.9 billion in the third quarter, compared with $180.2 billion in third quarter 2025. Excluding the $0.9 billion unfavorable impact from year-over-year changes in foreign exchange rates throughout the quarter, net sales increased 13% compared with third quarter 2025. As a reminder, Prime Day timing shifted this year, with the event occurring in Q2 for most large countries. In 2025, Prime Day occurred entirely in Q3. Excluding this shift, third quarter year-over-year growth would have been approximately 400 basis points higher.
+•  North America segment sales increased 6% year-over-year to $112.9 billion.
+•  International segment sales increased 5% year-over-year to $43.1 billion, or increased 8% excluding changes in foreign exchange rates.
+•  AWS segment sales increased 39% year-over-year to $46.0 billion.
+•  Operating     income   increased to $28.1 billion in the third quarter, compared with $17.4 billion in third quarter 2025.
+•  North America segment operating income was $8.7 billion, compared with $4.8 billion in third quarter 2025.
+•  International segment operating income was $1.6 billion, compared with $1.2 billion in third quarter 2025.
+•  AWS segment operating income was $17.8 billion, compared with $11.4 billion in third quarter 2025.
+•  Net income   decreased to $20.7 billion in the third quarter, or $1.89 per diluted share, compared with $21.2 billion, or $1.95 per diluted share, in third quarter 2025. This decrease is driven primarily by pre-tax gains of $9.5 billion in third quarter 2025 included in non-operating income (expense) from our investments in Anthropic.
+•  Operating cash flow   increased 29% to $168.3 billion for the trailing twelve months, compared with $130.7 billion for the trailing twelve months ended September 30, 2025.
+•  Free cash flow   decreased to an outflow of $42.4 billion for the trailing twelve months, driven primarily by a year-over-year increase of $94.8 billion in purchases of property and equipment, net of proceeds from sales and incentives. This increase primarily reflects investments in artificial intelligence. This compares to free cash flow inflow of $14.8 billion for the trailing twelve months ended September 30, 2025.
+“Our AWS investment in functionality and infrastructure is working, with over 39% year-over-year revenue growth in Q3 ($184 billion revenue run rate) and projected revenue growth rates of over 40% both in 2027 and in 2028,” said Andy Jassy, President and CEO, Amazon. “Our broader selection and speedier delivery are helping us capture more retail market segment share with improving margins, and our newer businesses, ranging from Grocery to Pharmacy to Amazon Leo to Zoox are progressing encouragingly. There has never been a trillion dollar revenue business, and we may have two of them in the next 5-10 years.”
+Some other highlights since the company’s last earnings announcement include that Amazon:
+•  Signed new AWS agreements with Meta, NVIDIA, OpenAI, Salesforce, Oracle, Qualcomm, Verizon, ADP, Stripe, Accenture Edge, Novo, Fanatics, Zoom, Raymond James, Prometheus AI, AppFolio, Instructure, Cognition, Sigma, Lila Sciences, The Biological Computing Co., NATO, Columbia University Irving Medical Center, and more.
+•  Drove continued rapid growth for Amazon Bedrock, AWS’s inference service, with Fortune 500 companies spending nearly 7x more year-over-year and total Bedrock token volume growing nearly 17x year-over-year.
+•  Expanded Bedrock’s leading selection of frontier and open weight models, adding OpenAI’s GPT-6 Astra, GPT-6 Sol, GPT-6 Luna, and GPT-6.1 Sol; Anthropic’s Claude Fable 5.1, Opus 5.5, Sonnet 5.5, and Haiku 5.5; Moonshot AI’s Kimi K3; SpaceXAI’s Grok 4.7; Z.ai’s GLM 5.3; and two purpose-built cybersecurity models from OpenAI.
+•  Launched built-in web search for OpenAI models on Bedrock so customers can ground responses in current information—while keeping data secure and answers accurate for time-sensitive questions without building and maintaining their own web-retrieval pipelines.
+•  Launched public preview of Bedrock Managed Agents, which is a managed service powered by OpenAI that makes it faster for enterprises to build and deploy production-ready AI agents.
+•  Added to AWS’s leadership position in open source agent-building:
+•  Released Strands harness, a fully assembled, state-of-the-art agent harness that developers can get working with a single line of code and build custom agents that can run locally, on Bedrock AgentCore, or on a provider of their choice. Strands harness lowers the cost of agent tasks by 32% through greater token efficiency than other harnesses when using the same frontier models, while achieving equal or better accuracy.
+•  Previewed Strands Box, an open source sandbox that gives developers the ability to define rules for agent behavior and access, helping to prevent autonomous agents from causing unintended harm. Strands Box is designed to enforce rules, no matter where your agent runs, whether that’s on your desktop, in agents built using AgentCore on AWS, or elsewhere.
+•  Drove continued rapid adoption of Amazon Bedrock AgentCore, AWS’s fully managed service for building, connecting, and optimizing agents securely at scale using any model and open source framework, including Strands. AgentCore is built for developers and enterprises that need the robust infrastructure, controls, and tools necessary to run agents at production scale. Tens of thousands of customers currently use AgentCore, and they deployed 2x more agents in Q3 than the prior three quarters combined.
+•  Recently topped a $1 billion annualized revenue run rate for Lambda, AWS’s flagship serverless offering, which is used by enterprises like Samsung, Volkswagen, United Airlines, Mercedes-Benz, and Booking.com.
+•  Launched Lambda Web Functions to allow developers to run scalable, responsive web applications that serve global audiences on Lambda. Web Functions gives developers the flexibility to use a variety of popular web frameworks and iterate quickly, while Lambda handles scaling, multi-region distribution, and active CPU billing.
+•  Made AWS Continuum—an AI-powered security service that automatically discovers, prioritizes, validates, and remediates software vulnerabilities at machine speed—generally available. Also announced that it’s bringing Continuum into Anthropic’s Claude Code, OpenAI’s Codex, and AWS’s Kiro. Continuum is already being used by companies like Capital One, IBM, Infor, Luminate, and Robinhood.
+•  Expanded Amazon Quick, an intelligent AI work companion, into Outlook, Word, PowerPoint, and Excel. It can also now keep running when your laptop is closed. Companies like Principal Financial Group, GoDaddy, Autodesk, BMW, Mondelēz, 3M, Southwest Airlines, EchoStar, and DXC are choosing Quick because it’s built for work, connects to their company data, and keeps that data secure.
+•  Open-sourced Kiro Crew, a persistent workspace that remembers a developer’s context, learns how they work, and coordinates multiple agents to work in parallel and run scheduled and long-running tasks unattended.
+•  Acquired DuckLabs, the company behind the open source data analysis tool DuckDB. With DuckDB, AWS customers will be able to write their SQL analytics query once and then execute using any AWS analytics service, so for the first time in analytics, customers will have zero migration or portability costs between query engines.
+•  Made it even easier to adopt its custom AI accelerator, Trainium, with TorchNeuron. TorchNeuron lets developers run existing PyTorch code (which most already use) on Trainium without rewriting a thing.
+•  Increased selection from notable brands like Banana Republic, Jean Paul Gaultier fragrances, Carolina Herrera fragrances, La-Z-Boy, The Farmer’s Dog, and FAO Schwarz by more than 20% year-over-year.
+•  Announced that Amazon helped U.S. customers save billions—averaging over $1,000 per customer each year for 100 million+ customers—through everyday low prices, deals, free delivery, fuel savings, and prescription savings.
+•  Delivered its fastest Q3 speeds ever for Prime members, with more than 1.5 billion items arriving same-day or overnight in the quarter.
+•  Continued expanding its ultra-fast delivery service, Amazon Now, which is now available in over 450 towns and cities around the world. The number of items ordered through Amazon Now is up 10x year-over-year.
+•  Continued growing its global Grocery business, with fresh groceries and everyday essentials growing about 3x faster than the rest of the store and representing about half of all units sold in Q3.
+•  Made it even easier for independent sellers to grow their businesses with new tools like Seller Assistant workflows (handles routine tasks like restocking and pricing around the clock), a plugin that integrates Seller Assistant into Amazon Quick and Anthropic’s Claude, and the ability to manage listings, orders, and profitability across multiple channels directly from Seller Central.
+•  Continued to drive rapid adoption of Alexa for Shopping, its agentic shopping assistant, which was used by 400 million+ customers in the last 12 months, with customer interactions up 570% year-over-year.
+•  Added 100+ new capabilities to Alexa for Shopping so tasks that used to require multiple clicks—like building gift lists, adjusting Subscribe & Save deliveries, managing payments and memberships, and adding new delivery addresses—can now be completed with simple conversations.
+•  Made Amazon Pharmacy even faster with 3-hour prescription delivery now available in more than 350 cities. The number of customers using Amazon Pharmacy is up over 60% year-over-year, and repeat customers are up more than 50% year-over-year.
+•  Introduced Amazon Ads Agent for advertisers, bringing together Amazon’s full offering under a single, AI-first platform. Backed by trillions of shopping, browsing, and streaming signals, Amazon Ads Agent supports advertisers at every step with insights, answers, and the ability to take action on their behalf.
+•  Launched Full-Funnel Campaigns in Amazon Ads Agent for all U.S. advertisers, bringing sponsored ads, display, video, and streaming TV into a single campaign. Advertisers provide initial inputs, then Amazon’s AI plans, executes, and continuously optimizes the rest.
+•  Kicked off the fifth season of   Thursday Night Football   on Prime Video, averaging 17.7 million viewers through six games according to Nielsen, its best start ever and a 16% increase over last year’s full-season average.
+•  Debuted the second season of   NBA on Prime   in more than 200 countries, attracting more than two million viewers in the U.S. during its season-opening doubleheader, more than doubling last year’s full-season average, according to Nielsen.
+•  Drew 66 million viewers globally for Season Four of   Reacher   on Prime Video in its first 28 days.
+•  Exceeded $1.2 billion in global box office so far in 2026 for Amazon MGM Studios, as audiences flocked to movies like   Project Hail Mary   and   Verity  .
+•  Drove strong early demand for the launch of its most powerful devices lineup yet, with 34 new products across Echo, Kindle, Amazon Alexa Tablets, Fire TV, Ring, Blink, and Bee.
+•  Expanded Alexa+ to Australia, India, and Japan, and made Alexa+ available for free to U.S. customers with compatible Fire TV devices.
+•  Remains on track to begin initial service of its Amazon Leo low Earth orbit satellite service later this year, and signed a strategic agreement with AT&T, which will be the first major U.S. telecom provider to offer Leo connectivity to enterprise and public-sector customers.
+•  Began offering paid rides to customers in Zoox autonomous robotaxis in Las Vegas and started testing in San Diego and Houston. Zoox is now operating in 12 U.S. cities.
+•  Introduced Built Together, a new $1 billion community investment in U.S. data center communities to provide increased support for priorities communities value most, including free community college and trades training, energy and water efficiency upgrades for schools, community buildings and homes, and flexible annual funding for local priorities like roads, fire equipment, affordable housing, and food security.
+•  Used its logistics network to donate and deliver 450,000+ emergency supplies to recovery efforts from flash floods in Nepal, wildfires in Washington, and a magnitude 7.4 earthquake in Colombia through its Disaster Relief Program.
+•  Announced plans to hire more than 300,000 seasonal, part-time, and full-time employees across its U.S. operations this holiday season.
+•  Announced $1.5 billion+ investment to raise minimum starting pay for U.S. full-time operations employees to $20 an hour, and added a new grocery discount and lifetime banking benefit for its teammates.
+Financial Guidance
+The following forward-looking statements reflect Amazon.com’s expectations as of October 29, 2026, and are subject to substantial uncertainty. Our results are inherently unpredictable and may be materially affected by many factors, such as fluctuations in foreign exchange rates and energy prices, changes in global economic and geopolitical conditions, tariff and trade policies, resource and supply volatility, including for memory chips, and customer demand and spending (including the impact of recessionary fears), inflation, interest rates, regional labor market constraints, world events, the rate of growth of the internet, online commerce, cloud services, and new and emerging technologies, and the various factors detailed below.
+Fourth Quarter 2026 Guidance
+•  Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025. This guidance anticipates an unfavorable impact of approximately 60 basis points from foreign exchange rates. Advertising revenue grew 12% year-over-year excluding changes in foreign exchange rates in the third quarter 2026 impacted by timing anomalies primarily related to Prime Day (and a couple other timing factors). We expect year-over-year advertising revenue to grow in the high teens in fourth quarter 2026.
+•  Operating income is expected to be between $28.5 billion and $33.5 billion, compared with $25.0 billion in fourth quarter 2025.
+•  We continue to expect 2026 cash capital expenditures to be approximately $220 billion.
+•  This guidance assumes, among other things, no impact from energy derivative contract remeasurements, and that no additional business acquisitions, restructurings, or legal settlements are concluded.
+Conference Call Information
+A conference call will be webcast live today at 2:00 p.m. PT/5:00 p.m. ET, and will be available for at least three months at amazon.com/ir. This call will contain forward-looking statements and other material information regarding the Company’s financial and operating results.
+Forward-Looking Statements
+These forward-looking statements are inherently difficult to predict. Actual results and outcomes could differ materially for a variety of reasons, including, in addition to the factors discussed above, the amount that Amazon.com invests in new business opportunities and the timing of those investments, the mix of products and services sold to customers, the mix of net sales derived from products as compared with services, the extent to which we owe income or other taxes, competition, management of growth, potential fluctuations in operating results, international growth and expansion, the outcomes of claims, litigation, government investigations, and other proceedings, fulfillment, sortation, delivery, and data center optimization, risks of inventory management, variability in demand, the degree to which the Company enters into, maintains, and develops commercial agreements, proposed and completed acquisitions and strategic transactions, payments risks, and risks of fulfillment throughput and productivity. Other risks and uncertainties include, among others, risks related to new products, services, and technologies, security incidents, system interruptions, government regulation and taxation, and fraud. In addition, global economic and geopolitical conditions and additional or unforeseen circumstances, developments, or events may give rise to or amplify many of these risks. More information about factors that potentially could affect Amazon.com’s financial results is included in Amazon.com’s filings with the Securities and Exchange Commission (“SEC”), including its most recent Annual Report on Form 10-K and subsequent filings.
+Additional Information
+Our investor relations website is amazon.com/ir and we encourage investors to use it as a way of easily finding information about us. We promptly make available on this website, free of charge, the reports that we file or furnish with the SEC, corporate governance information (including our Code of Business Conduct and Ethics), and select press releases, which may contain material information about us, and you may subscribe to be notified of new information posted to this site.
+About Amazon
+Amazon is guided by four principles: customer obsession rather than competitor focus, passion for invention, commitment to operational excellence, and long-term thinking. Amazon strives to be Earth’s Most Customer-Centric Company, Earth’s Best Employer, and Earth’s Safest Place to Work. Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon. For more information, visit amazon.com/about and follow @AmazonNews.
+AMAZON.COM, INC.
+Consolidated Statements of Cash Flows
+(in millions)
+(unaudited)
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,      Twelve Months Ended
+September 30,
+2025      2026      2025      2026      2025      2026
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, BEGINNING OF PERIOD    $    61,453         $    80,927         $    82,312         $    90,106         $    78,677         $    70,464
+OPERATING ACTIVITIES:
+Net income    21,187         20,685         56,478         113,587         76,482         134,779
+Adjustments to reconcile net income to net cash from operating activities:
+Depreciation and amortization of property and equipment and capitalized content costs, operating lease assets, and other    16,796         20,949         46,285         59,882         61,916         79,353
+Stock-based compensation    4,847         5,406         15,070         15,476         20,065         19,873
+Non-operating expense (income), net    (10,112)        694         (14,187)        (68,319)        (14,673)        (69,012)
+Deferred income taxes    10,130         5,033         10,648         35,522         9,040         36,344
+Changes in operating assets and liabilities:
+Inventories    (827)        (4,516)        (6,103)        (4,712)        (5,169)        (1,611)
+Accounts receivable, net and other    (1,977)        (2,127)        (1,855)        (16,081)        (5,878)        (21,559)
+Other assets    (4,039)        (4,637)        (10,412)        (13,165)        (14,602)        (18,385)
+Accounts payable    2,151         1,502         166         2,207         8,892         13,272
+Accrued expenses and other    (1,999)        (3,848)        (11,012)        (13,911)        (6,970)        (7,918)
+Unearned revenue    (632)        3,281         (23)        3,355         1,588         3,164
+Net cash provided by (used in) operating activities    35,525         42,422         85,055         113,841         130,691         168,300
+INVESTING ACTIVITIES:
+Purchases of property and equipment    (35,095)        (77,259)        (92,297)        (175,670)        (120,131)        (215,192)
+Proceeds from property and equipment sales and incentives    867         1,381         2,446         3,482         4,228         4,535
+Acquisitions, net of cash acquired, non-marketable investments, and other, net    (786)        (23,986)        (2,438)        (63,753)        (4,973)        (65,156)
+Sales and maturities of marketable securities    16,367         23,677         35,545         65,559         39,222         74,400
+Purchases of marketable securities    (7,426)        (37,455)        (38,556)        (86,717)        (51,089)        (102,931)
+Net cash provided by (used in) investing activities    (26,073)        (113,642)        (95,300)        (257,099)        (132,743)        (304,344)
+FINANCING ACTIVITIES:
+Proceeds from short-term debt, and other    3,223         5,307         7,131         20,693         9,685         22,882
+Repayments of short-term debt, and other    (1,826)        (3,927)        (5,300)        (19,609)        (7,907)        (22,735)
+Proceeds from long-term debt    —         48,102         746         115,100         746         130,027
+Repayments of long-term debt    (1,008)        (7)        (3,759)        (2,759)        (6,259)        (4,021)
+Principal repayments of finance leases    (351)        (433)        (1,172)        (1,296)        (1,505)        (1,681)
+Principal repayments of financing obligations    (82)        (107)        (276)        (281)        (698)        (333)
+Net cash provided by (used in) financing activities    (44)        48,935         (2,630)        111,848         (5,938)        124,139
+Foreign currency effect on cash, cash equivalents, and restricted cash    (397)        72         1,027         18         (223)        155
+Net increase (decrease) in cash, cash equivalents, and restricted cash    9,011         (22,213)        (11,848)        (31,392)        (8,213)        (11,750)
+CASH, CASH EQUIVALENTS, AND RESTRICTED CASH, END OF PERIOD    $    70,464         $    58,714         $    70,464         $    58,714         $    70,464         $    58,714
+SUPPLEMENTAL CASH FLOW INFORMATION:
+Cash paid for interest on debt, net of capitalized interest    $    249         $    1,172         $    1,008         $    2,182         $    1,651         $    2,632
+Cash paid for operating leases    4,155         4,602         11,475         12,406         14,700         15,969
+Cash paid for interest on finance leases    76         116         219         303         289         379
+Cash paid for interest on financing obligations    52         89         159         215         217         252
+Cash paid for income taxes, net of refunds    1,136         1,315         6,774         5,293         10,920         6,814
+Assets acquired under operating leases    5,057         7,407         13,999         21,316         18,188         27,247
+Property and equipment acquired under finance leases, net of remeasurements and modifications    977         1,472         1,968         3,600         2,413         4,543
+Increase (decrease) in property and equipment acquired but not yet paid    3,341         853         4,849         21,473         7,095         26,779
+AMAZON.COM, INC.
+Consolidated Statements of Operations
+(in millions, except per share data)
+(unaudited)
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2025      2026      2025      2026
+Net product sales    $    74,058         $    75,296         $    206,274         $    224,202
+Net service sales    106,111         126,648         297,264         359,867
+Total net sales    180,169         201,944         503,538         584,069
+Operating expenses:
+Cost of sales    88,670         94,573         246,455         277,814
+Fulfillment    27,679         29,997         78,248         86,919
+Technology and infrastructure    28,962         34,814         79,122         97,539
+Sales and marketing    11,686         11,649         32,865         33,661
+General and administrative    2,875         2,701         8,468         8,076
+Other operating expense (income), net    2,875         134         3,382         671
+Total operating expenses    162,747         173,868         448,540         504,680
+Operating income    17,422         28,076         54,998         79,389
+Interest income    1,100         1,187         3,251         3,617
+Interest expense    (538)        (1,691)        (1,595)        (3,805)
+Other income (expense), net    10,186         (703)        14,052         68,359
+Total non-operating income (expense)    10,748         (1,207)        15,708         68,171
+Income before income taxes    28,170         26,869         70,706         147,560
+Provision for income taxes    (6,910)        (6,180)        (14,141)        (33,939)
+Equity-method investment activity, net of tax    (73)        (4)        (87)        (34)
+Net income    $    21,187         $    20,685         $    56,478         $    113,587
+Basic earnings per share    $    1.98         $    1.92         $    5.31         $    10.55
+Diluted earnings per share    $    1.95         $    1.89         $    5.22         $    10.42
+Weighted-average shares used in computation of earnings per share:
+Basic    10,674         10,797         10,638         10,770
+Diluted    10,845         10,929         10,815         10,903
+AMAZON.COM, INC.
+Consolidated Statements of Comprehensive Income
+(in millions)
+(unaudited)
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2025      2026      2025      2026
+Net income    $    21,187         $    20,685         $    56,478         $    113,587
+Other comprehensive income (loss):
+Foreign currency translation adjustments, net of tax of $27,  $141, $(181), and $62
+(690)        (107)        4,159         (1,670)
+Unrealized gains (losses) on net investment hedging instruments, net of tax of $0, $(37), $0, and $(82)
+—         119         —         263
+Available-for-sale debt securities:
+Change in net unrealized gains (losses), net of tax of $(3,797), $(12,233), $(3,820), and $(26,268)
+12,397         35,974         12,474         78,788
+Less: reclassification adjustment for net losses (gains) included in “Other income (expense), net,” net of tax of $512, $(1), $1,326, and $1,141
+(1,795)        4         (4,266)        (3,333)
+Net change    10,602         35,978         8,208         75,455
+Other, net of tax of $0, $0, $0, and $(1)
+1         1         —         —
+Total other comprehensive income (loss)    9,913         35,991         12,367         74,048
+Comprehensive income    $    31,100         $    56,676         $    68,845         $    187,635
+AMAZON.COM, INC.
+Segment Information
+(in millions)
+(unaudited)
+Three Months Ended
+September 30,      Nine Months Ended
+September 30,
+2025      2026      2025      2026
+North America
+Net sales    $    106,267         $    112,852         $    299,222         $    333,172
+Operating expenses    101,478         104,129         281,075         307,059
+Operating income    $    4,789         $    8,723         $    18,147         $    26,113
+International
+Net sales    $    40,896         $    43,108         $    111,170         $    125,094
+Operating expenses    39,697         41,528         107,460         120,373
+Operating income    $    1,199         $    1,580         $    3,710         $    4,721
+AWS
+Net sales    $    33,006         $    45,984         $    93,146         $    125,803
+Operating expenses    21,572         28,211         60,005         77,248
+Operating income    $    11,434         $    17,773         $    33,141         $    48,555
+Consolidated
+Net sales    $    180,169         $    201,944         $    503,538         $    584,069
+Operating expenses    162,747         173,868         448,540         504,680
+Operating income    17,422         28,076         54,998         79,389
+Total non-operating income (expense)    10,748         (1,207)        15,708         68,171
+Provision for income taxes    (6,910)        (6,180)        (14,141)        (33,939)
+Equity-method investment activity, net of tax    (73)        (4)        (87)        (34)
+Net income    $    21,187         $    20,685         $    56,478         $    113,587
+Segment Highlights:
+Y/Y net sales growth:
+North America    11     %      6     %      10     %      11     %
+International    14         5         12         13
+AWS    20         39         18         35
+Consolidated    13         12         12         16
+Net sales mix:
+North America    59     %      56     %      59     %      57     %
+International    23         21         22         21
+AWS    18         23         19         22
+Consolidated    100     %      100     %      100     %      100     %
+AMAZON.COM, INC.
+Consolidated Balance Sheets
+(in millions, except per share data)
+December 31, 2025      September 30, 2026
+(unaudited)
+ASSETS
+Current assets:
+Cash and cash equivalents    $    86,810         $    55,783
+Marketable securities    36,219         58,443
+Inventories    38,325         42,632
+Accounts receivable, net and other    67,729         98,242
+Total current assets    229,083         255,100
+Property and equipment, net    357,025         508,862
+Operating leases    86,054         96,910
+Goodwill    23,273         23,743
+Other assets    122,607         358,775
+Total assets    $    818,042         $    1,243,390
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable    $    121,909         $    158,715
+Accrued expenses and other    75,520         77,559
+Unearned revenue    20,576         21,708
+Total current liabilities    218,005         257,982
+Long-term lease liabilities    87,339         98,824
+Long-term debt    65,648         173,125
+Other long-term liabilities    35,985         99,858
+Commitments and contingencies
+Stockholders’ equity:
+Preferred stock ($0.01 par value; 500 shares authorized; no shares issued or outstanding)
+—         —
+Common stock ($0.01 par value; 100,000 shares authorized; 11,246 and 11,326 shares issued; 10,731 and 10,811 shares outstanding)
+112         113
+Treasury stock, at cost    (7,837)        (7,837)
+Additional paid-in capital    140,024         154,924
+Accumulated other comprehensive income (loss)    28,230         102,278
+Retained earnings    250,536         364,123
+Total stockholders’ equity    411,065         613,601
+Total liabilities and stockholders’ equity    $    818,042         $    1,243,390
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions, except per share data)
+(unaudited)
+Q2 2025    Q3 2025    Q4 2025    Q1 2026    Q2 2026    Q3 2026    Y/Y %
+Change
+Cash Flows and Shares
+Operating cash flow -- trailing twelve months (TTM)    $    121,137       $    130,691       $    139,514       $    148,531       $    161,403       $    168,300       29     %
+Operating cash flow -- TTM Y/Y growth    12     %    16     %    20     %    30     %    33     %    29     %    N/A
+Purchases of property and equipment, net of proceeds from sales and incentives -- TTM    $    102,953       $    115,903       $    128,320       $    147,299       $    169,007       $    210,657       82     %
+Free cash flow -- TTM (1)    $    18,184       $    14,788       $    11,194       $    1,232       $    (7,604)      $    (42,357)      (386)    %
+Common shares and stock-based awards outstanding    10,952       10,955       10,953       10,949       11,027       11,034       1     %
+Common shares outstanding    10,660       10,687       10,731       10,754       10,783       10,811       1     %
+Stock-based awards outstanding    292       268       222       195       244       223       (17)    %
+Stock-based awards outstanding -- % of common shares outstanding    2.7     %    2.5     %    2.1     %    1.8     %    2.3     %    2.1     %    N/A
+Results of Operations
+Worldwide (WW) net sales    $    167,702       $    180,169       $    213,386       $    181,519       $    200,606       $    201,944       12     %
+WW net sales -- Y/Y growth, excluding F/X    12     %    12     %    12     %    15     %    20     %    13     %    N/A
+WW net sales -- TTM    $    670,038       $    691,330       $    716,924       $    742,776       $    775,680       $    797,455       15     %
+WW net sales -- TTM Y/Y growth, excluding F/X    11     %    11     %    12     %    13     %    15     %    15     %    N/A
+Operating income    $    19,171       $    17,422       $    24,977       $    23,852       $    27,461       $    28,076       61     %
+F/X impact -- favorable (unfavorable)    $    153       $    129       $    23       $    (33)      $    (105)      $    (17)      N/A
+Operating income -- Y/Y growth (decline), excluding F/X    30     %    (1)    %    18     %    30     %    44     %    61     %    N/A
+Operating margin -- % of WW net sales    11.4     %    9.7     %    11.7     %    13.1     %    13.7     %    13.9     %    N/A
+Operating income -- TTM    $    76,190       $    76,201       $    79,975       $    85,422       $    93,712       $    104,366       37     %
+Operating income -- TTM Y/Y growth, excluding F/X    40     %    25     %    16     %    19     %    23     %    37     %    N/A
+Operating margin -- TTM % of WW net sales    11.4     %    11.0     %    11.2     %    11.5     %    12.1     %    13.1     %    N/A
+Net income    $    18,164       $    21,187       $    21,192       $    30,255       $    62,647       $    20,685       (2)    %
+Net income per diluted share    $    1.68       $    1.95       $    1.95       $    2.78       $    5.75       $    1.89       (3)    %
+Net income -- TTM    $    70,623       $    76,482       $    77,670       $    90,798       $    135,281       $    134,779       76     %
+Net income per diluted share -- TTM    $    6.55       $    7.08       $    7.17       $    8.37       $    12.44       $    12.37       75     %
+______________________________
+(1)  Free cash flow is cash flow from operations reduced by “Purchases of property and equipment, net of proceeds from sales and incentives.”
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions)
+(unaudited)
+Q2 2025    Q3 2025    Q4 2025    Q1 2026    Q2 2026    Q3 2026    Y/Y %
+Change
+Segments
+North America Segment:
+Net sales    $    100,068       $    106,267       $    127,083       $    104,143       $    116,177       $    112,852       6     %
+Net sales -- Y/Y growth, excluding F/X    11     %    11     %    10     %    12     %    16     %    6     %    N/A
+Net sales -- TTM    $    404,078       $    414,808       $    426,305       $    437,561       $    453,670       $    460,255       11     %
+Operating income    $    7,517       $    4,789       $    11,472       $    8,267       $    9,123       $    8,723       82     %
+F/X impact -- favorable (unfavorable)    $    (46)      $    (53)      $    (73)      $    (41)      $    (6)      $    43       N/A
+Operating income -- Y/Y growth (decline), excluding F/X    49     %    (14)    %    25     %    42     %    21     %    81     %    N/A
+Operating margin -- % of North America net sales    7.5     %    4.5     %    9.0     %    7.9     %    7.9     %    7.7     %    N/A
+Operating income -- TTM    $    28,277       $    27,403       $    29,619       $    32,045       $    33,651       $    37,585       37     %
+Operating margin -- TTM % of North America net sales    7.0     %    6.6     %    6.9     %    7.3     %    7.4     %    8.2     %    N/A
+International Segment:
+Net sales    $    36,761       $    40,896       $    50,724       $    39,789       $    42,197       $    43,108       5     %
+Net sales -- Y/Y growth, excluding F/X    11     %    10     %    11     %    11     %    15     %    8     %    N/A
+Net sales -- TTM    $    149,582       $    154,590       $    161,894       $    168,170       $    173,606       $    175,818       14     %
+Operating income    $    1,494       $    1,199       $    1,040       $    1,424       $    1,717       $    1,580       32     %
+F/X impact -- favorable (unfavorable)    $    338       $    302       $    319       $    347       $    (43)      $    (125)      N/A
+Operating income -- Y/Y growth (decline), excluding F/X    324     %    (31)    %    (45)    %    6     %    18     %    42     %    N/A
+Operating margin -- % of International net sales    4.1     %    2.9     %    2.1     %    3.6     %    4.1     %    3.7     %    N/A
+Operating income -- TTM    $    5,127       $    5,025       $    4,750       $    5,157       $    5,380       $    5,761       15     %
+Operating margin -- TTM % of International net sales    3.4     %    3.2     %    2.9     %    3.1     %    3.1     %    3.3     %    N/A
+AWS Segment:
+Net sales    $    30,873       $    33,006       $    35,579       $    37,587       $    42,232       $    45,984       39     %
+Net sales -- Y/Y growth, excluding F/X    17     %    20     %    24     %    28     %    37     %    39     %    N/A
+Net sales -- TTM    $    116,378       $    121,932       $    128,725       $    137,045       $    148,404       $    161,382       32     %
+Operating income    $    10,160       $    11,434       $    12,465       $    14,161       $    16,621       $    17,773       55     %
+F/X impact -- favorable (unfavorable)    $    (139)      $    (120)      $    (223)      $    (339)      $    (56)      $    65       N/A
+Operating income -- Y/Y growth, excluding F/X    10     %    11     %    19     %    26     %    64     %    55     %    N/A
+Operating margin -- % of AWS net sales    32.9     %    34.6     %    35.0     %    37.7     %    39.4     %    38.7     %    N/A
+Operating income -- TTM    $    42,786       $    43,773       $    45,606       $    48,220       $    54,681       $    61,020       39     %
+Operating margin -- TTM % of AWS net sales    36.8     %    35.9     %    35.4     %    35.2     %    36.8     %    37.8     %    N/A
+AMAZON.COM, INC.
+Supplemental Financial Information and Business Metrics
+(in millions, except employee data)
+(unaudited)
+Q2 2025    Q3 2025    Q4 2025    Q1 2026    Q2 2026    Q3 2026    Y/Y %
+Change
+Net Sales
+Online stores (1)    $    61,485       $    67,407       $    82,988       $    64,254       $    70,432       $    68,470       2     %
+Online stores -- Y/Y growth, excluding F/X    10     %    8     %    8     %    9     %    15     %    2     %    N/A
+Physical stores (2)    $    5,595       $    5,578       $    5,855       $    5,785       $    5,794       $    5,710       2     %
+Physical stores -- Y/Y growth, excluding F/X    7     %    7     %    5     %    4     %    4     %    2     %    N/A
+Third-party seller services (3)    $    40,348       $    42,486       $    52,816       $    41,578       $    46,780       $    46,492       9     %
+Third-party seller services -- Y/Y growth, excluding F/X    10     %    11     %    10     %    12     %    16     %    10     %    N/A
+Advertising services (4)    $    15,694       $    17,703       $    21,317       $    17,243       $    19,809       $    19,637       11     %
+Advertising services -- Y/Y growth, excluding F/X    22     %    22     %    22     %    22     %    26     %    12     %    N/A
+Subscription services (5)    $    12,208       $    12,574       $    13,122       $    13,427       $    13,730       $    14,006       11     %
+Subscription services -- Y/Y growth, excluding F/X    11     %    10     %    12     %    12     %    12     %    12     %    N/A
+AWS    $    30,873       $    33,006       $    35,579       $    37,587       $    42,232       $    45,984       39     %
+AWS -- Y/Y growth, excluding F/X    17     %    20     %    24     %    28     %    37     %    39     %    N/A
+Other (6)    $    1,499       $    1,415       $    1,709       $    1,645       $    1,829       $    1,645       16     %
+Other -- Y/Y growth, excluding F/X    18     %    7     %    7     %    25     %    23     %    17     %    N/A
+Stock-based Compensation Expense
+Cost of sales    $    250       $    197       $    182       $    171       $    208       $    170       (14)    %
+Fulfillment    $    880       $    685       $    641       $    601       $    764       $    656       (4)    %
+Technology and infrastructure    $    3,655       $    2,697       $    2,459       $    2,286       $    3,701       $    3,409       26     %
+Sales and marketing    $    1,207       $    832       $    753       $    663       $    845       $    762       (8)    %
+General and administrative    $    542       $    436       $    362       $    311       $    520       $    409       (6)    %
+Total stock-based compensation expense    $    6,534       $    4,847       $    4,397       $    4,032       $    6,038       $    5,406       12     %
+Other
+WW shipping costs    $    23,370       $    25,384       $    31,492       $    25,709       $    27,873       $    28,295       11     %
+WW shipping costs -- Y/Y growth    6     %    8     %    10     %    14     %    19     %    11     %    N/A
+WW paid units -- Y/Y growth (7)    12     %    11     %    12     %    15     %    17     %    12     %    N/A
+WW seller unit mix -- % of WW paid units (7)    62     %    62     %    61     %    60     %    61     %    61     %    N/A
+Employees (full-time and part-time; excludes contractors & temporary personnel)    1,546,000       1,578,000       1,576,000       1,575,000       1,595,000       1,638,000       4     %
+Employees (full-time and part-time; excludes contractors & temporary personnel) -- Y/Y growth    1     %    2     %    1     %    1     %    3     %    4     %    N/A
+________________________
+(1)  Includes product sales and digital media content where we record revenue gross. We leverage our retail infrastructure to offer a wide selection of consumable and durable goods that includes media products available in both a physical and digital format, such as books, videos, games, music, and software. These product sales include digital products sold on a transactional basis. Digital media content subscriptions that provide unlimited viewing or usage rights are included in “Subscription services.”
+(2)  Includes product sales where our customers physically select items in a store. Sales to customers who order goods online for delivery or pickup at our physical stores are included in “Online stores.”
+(3)  Includes commissions and any related fulfillment and shipping fees, and other third-party seller services.
+(4)  Includes sales of advertising services to sellers, vendors, publishers, authors, and others, through programs such as sponsored ads, display, and video advertising.
+(5)  Includes annual and monthly fees associated with Amazon Prime memberships, as well as digital video, audiobook, digital music, e-book, and other non-AWS subscription services.
+(6)  Includes sales related to various other offerings (such as shipping services, healthcare services, and certain licensing and distribution of video content) and our co-branded credit card agreements.
+(7)  Excludes the impact of Whole Foods Market.
+Amazon.com, Inc.
+Certain Definitions
+Customer Accounts
+•  References to customers mean customer accounts established when a customer places an order through one of our stores. Customer accounts exclude certain customers, including customers associated with certain of our acquisitions, Amazon Payments customers, AWS customers, and the customers of select companies with whom we have a technology alliance or marketing and promotional relationship. Customers are considered active when they have placed an order during the preceding twelve-month period.
+Seller Accounts
+•  References to sellers means seller accounts, which are established when a seller receives an order from a customer account. Sellers are considered active when they have received an order from a customer during the preceding twelve-month period.
+AWS Customers
+•  References to AWS customers mean unique AWS customer accounts, which are unique customer account IDs that are eligible to use AWS services. This includes AWS accounts in the AWS free tier. Multiple users accessing AWS services via one account ID are counted as a single account. Customers are considered active when they have had AWS usage activity during the preceding one-month period.
+Units
+•  References to units mean physical and digital units sold (net of returns and cancellations) by us and sellers in our stores as well as Amazon-owned items sold in other stores. Units sold are paid units and do not include units associated with AWS, certain acquisitions, certain subscriptions, rental businesses, or advertising businesses, or Amazon gift cards.
+Contacts:
+Amazon Investor Relations      Amazon Public Relations
+amazon-ir@amazon.com      amazon-pr@amazon.com
+amazon.com/ir      amazon.com/pr

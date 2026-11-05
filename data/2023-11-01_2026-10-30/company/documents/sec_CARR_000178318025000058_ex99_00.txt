@@ -1,0 +1,236 @@
+XML
+110
+R99.htm
+IDEA: XBRL DOCUMENT
+v3.25.2
+OTHER INCOME (EXPENSE), NET - Narrative (Details) - USD ($)
+$ in Millions
+12 Months Ended
+Jan. 02, 2024
+May 14, 2023
+Dec. 31, 2024
+Dec. 31, 2023
+Dec. 31, 2022
+Income Statement, Balance Sheet and Additional Disclosures by Disposal Groups, Including Discontinued Operations [Line Items]
+CCR gain
+$ (292)
+$ 318
+$ 0
+$ 0
+TMA-related gain
+46
+0
+0
+Loss on derivative instruments, pretax
+86
+96
+0
+Chubb gain
+0
+0
+1,105
+Disposal Group, Disposed of by Sale, Not Discontinued Operations | Chubb Fire and Security
+Income Statement, Balance Sheet and Additional Disclosures by Disposal Groups, Including Discontinued Operations [Line Items]
+Chubb gain
+1,100
+VCS Business | Foreign Exchange Forward
+Income Statement, Balance Sheet and Additional Disclosures by Disposal Groups, Including Discontinued Operations [Line Items]
+Loss on derivative instruments, pretax
+$ 86
+$ 86
+96
+$ 0
+TCC
+Income Statement, Balance Sheet and Additional Disclosures by Disposal Groups, Including Discontinued Operations [Line Items]
+TCC acquisition-related gain
+$ 697
+X
+- Definition
+Tax Matters Agreement Related Gain
++ References
+No definition available.
++ Details
+Name:
+carr_TaxMattersAgreementRelatedGain
+Namespace Prefix:
+carr_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- Definition
+In a business combination achieved in stages, this element represents the amount of gain recognized by the entity as a result of remeasuring to fair value the equity interest in the acquiree it held before the business combination.
++ References
+Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Topic 805
+-SubTopic 10
+-Section 50
+-Paragraph 2
+-Subparagraph (g)(2)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147479328/805-10-50-2
++ Details
+Name:
+us-gaap_BusinessCombinationStepAcquisitionEquityInterestInAcquireeRemeasurementGain
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- Definition
+Amount of gain (loss) from deconsolidation of subsidiary and derecognition of group of assets constituting transfer of business or nonprofit activity, excluding conveyance of oil and gas mineral rights and transfer of good or service in contract with customer.
++ References
+Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Topic 810
+-SubTopic 10
+-Section 50
+-Paragraph 1B
+-Subparagraph (a)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147481203/810-10-50-1B
++ Details
+Name:
+us-gaap_DeconsolidationGainOrLossAmount
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- Definition
+Amount before tax of gain (loss) recognized on the sale or disposal of a disposal group. Excludes discontinued operations.
++ References
+Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+-Topic 230
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 45
+-Paragraph 28
+-Subparagraph (b)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147482740/230-10-45-28
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 360
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 3
+-Subparagraph (c)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147482099/360-10-50-3
+Reference 3: http://www.xbrl.org/2009/role/commonPracticeRef
+-Topic 360
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 45
+-Paragraph 5
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147482130/360-10-45-5
++ Details
+Name:
+us-gaap_DisposalGroupNotDiscontinuedOperationGainLossOnDisposal
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- Definition
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
++ References
+No definition available.
++ Details
+Name:
+us-gaap_IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsLineItems
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Aggregate loss on all derivative instruments charged against earnings during the period, before tax effects.
++ References
+Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Topic 815
+-SubTopic 10
+-Section 50
+-Paragraph 4A
+-Subparagraph (b)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480434/815-10-50-4A
++ Details
+Name:
+us-gaap_LossOnDerivativeInstrumentsPretax
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- Details
+Name:
+us-gaap_DisposalGroupClassificationAxis=us-gaap_DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_IncomeStatementBalanceSheetAndAdditionalDisclosuresByDisposalGroupsIncludingDiscontinuedOperationsAxis=carr_ChubbFireAndSecurityMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_BusinessAcquisitionAxis=carr_VCSBusinessMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeForwardMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_BusinessAcquisitionAxis=carr_ToshibaCarrierCorporationMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:

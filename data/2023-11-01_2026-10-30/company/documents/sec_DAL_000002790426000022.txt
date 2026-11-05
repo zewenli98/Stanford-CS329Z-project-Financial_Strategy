@@ -1,0 +1,956 @@
+dal-20260331
+0000027904  --12-31  2026  Q1  false  FALSE  FALSE  FALSE  FALSE  2028-12-31  2030-12-31  2031-12-31  2026-12-31  2028-12-31  2026-12-31  2028-12-31  2026-12-31  2045-12-31  2026-12-31  2026-12-31  2028-12-31  2026-12-31  2033-12-31  2030-12-31  2026-12-31  2028-12-31  2026-12-31        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      xbrli:pure    dal:aircraft     0000027904    2026-01-01  2026-03-31      0000027904    2026-03-31      0000027904    2025-12-31      0000027904   dal:PassengerAirTrafficMember     2026-03-31      0000027904   dal:PassengerAirTrafficMember     2025-12-31      0000027904   dal:ProductAndServiceOtherLoyaltyProgramMember     2026-03-31      0000027904   dal:ProductAndServiceOtherLoyaltyProgramMember     2025-12-31      0000027904   us-gaap:PassengerMember     2026-01-01  2026-03-31      0000027904   us-gaap:PassengerMember     2025-01-01  2025-03-31      0000027904   us-gaap:CargoAndFreightMember     2026-01-01  2026-03-31      0000027904   us-gaap:CargoAndFreightMember     2025-01-01  2025-03-31      0000027904   us-gaap:ProductAndServiceOtherMember     2026-01-01  2026-03-31      0000027904   us-gaap:ProductAndServiceOtherMember     2025-01-01  2025-03-31      0000027904    2025-01-01  2025-03-31      0000027904    2024-12-31      0000027904    2025-03-31      0000027904   us-gaap:CommonStockMember     2025-12-31      0000027904   us-gaap:AdditionalPaidInCapitalMember     2025-12-31      0000027904   us-gaap:RetainedEarningsMember     2025-12-31      0000027904   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-12-31      0000027904   us-gaap:TreasuryStockCommonMember     2025-12-31      0000027904   us-gaap:RetainedEarningsMember     2026-01-01  2026-03-31      0000027904   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-01  2026-03-31      0000027904   us-gaap:CommonStockMember     2026-01-01  2026-03-31      0000027904   us-gaap:AdditionalPaidInCapitalMember     2026-01-01  2026-03-31      0000027904   us-gaap:TreasuryStockCommonMember     2026-01-01  2026-03-31      0000027904   us-gaap:CommonStockMember     2026-03-31      0000027904   us-gaap:AdditionalPaidInCapitalMember     2026-03-31      0000027904   us-gaap:RetainedEarningsMember     2026-03-31      0000027904   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-03-31      0000027904   us-gaap:TreasuryStockCommonMember     2026-03-31      0000027904   us-gaap:CommonStockMember     2024-12-31      0000027904   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0000027904   us-gaap:RetainedEarningsMember     2024-12-31      0000027904   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0000027904   us-gaap:TreasuryStockCommonMember     2024-12-31      0000027904   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-31      0000027904   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-03-31      0000027904   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-03-31      0000027904   us-gaap:TreasuryStockCommonMember     2025-01-01  2025-03-31      0000027904   us-gaap:CommonStockMember     2025-01-01  2025-03-31      0000027904   us-gaap:CommonStockMember     2025-03-31      0000027904   us-gaap:AdditionalPaidInCapitalMember     2025-03-31      0000027904   us-gaap:RetainedEarningsMember     2025-03-31      0000027904   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-31      0000027904   us-gaap:TreasuryStockCommonMember     2025-03-31      0000027904   dal:PassengerAirTrafficMember     2026-01-01  2026-03-31      0000027904   dal:PassengerAirTrafficMember     2025-01-01  2025-03-31      0000027904   dal:PassengerLoyaltyTravelAwardsMember     2026-01-01  2026-03-31      0000027904   dal:PassengerLoyaltyTravelAwardsMember     2025-01-01  2025-03-31      0000027904   dal:PassengerTravelRelatedServicesMember     2026-01-01  2026-03-31      0000027904   dal:PassengerTravelRelatedServicesMember     2025-01-01  2025-03-31      0000027904   dal:ProductAndServiceOtherLoyaltyProgramMember     2024-12-31      0000027904   dal:ProductAndServiceOtherLoyaltyProgramMember     2026-01-01  2026-03-31      0000027904   dal:ProductAndServiceOtherLoyaltyProgramMember     2025-01-01  2025-03-31      0000027904   dal:ProductAndServiceOtherLoyaltyProgramMember     2025-03-31      0000027904   dal:ProductAndServiceOtherRefineryMember     2026-01-01  2026-03-31      0000027904   dal:ProductAndServiceOtherRefineryMember     2025-01-01  2025-03-31      0000027904   dal:ProductAndServiceOtherAncillaryBusinessesMember     2026-01-01  2026-03-31      0000027904   dal:ProductAndServiceOtherAncillaryBusinessesMember     2025-01-01  2025-03-31      0000027904   dal:ProductAndServiceOtherMiscellaneousMember     2026-01-01  2026-03-31      0000027904   dal:ProductAndServiceOtherMiscellaneousMember     2025-01-01  2025-03-31      0000027904   us-gaap:PassengerMember  us-gaap:DomesticDestinationMember     2026-01-01  2026-03-31      0000027904   us-gaap:PassengerMember  us-gaap:DomesticDestinationMember     2025-01-01  2025-03-31      0000027904   us-gaap:PassengerMember  us-gaap:AtlanticDestinationMember     2026-01-01  2026-03-31      0000027904   us-gaap:PassengerMember  us-gaap:AtlanticDestinationMember     2025-01-01  2025-03-31      0000027904   us-gaap:PassengerMember  us-gaap:LatinAmericaDestinationMember     2026-01-01  2026-03-31      0000027904   us-gaap:PassengerMember  us-gaap:LatinAmericaDestinationMember     2025-01-01  2025-03-31      0000027904   us-gaap:PassengerMember  us-gaap:PacificDestinationMember     2026-01-01  2026-03-31      0000027904   us-gaap:PassengerMember  us-gaap:PacificDestinationMember     2025-01-01  2025-03-31      0000027904   us-gaap:DomesticDestinationMember     2026-01-01  2026-03-31      0000027904   us-gaap:DomesticDestinationMember     2025-01-01  2025-03-31      0000027904   us-gaap:AtlanticDestinationMember     2026-01-01  2026-03-31      0000027904   us-gaap:AtlanticDestinationMember     2025-01-01  2025-03-31      0000027904   us-gaap:LatinAmericaDestinationMember     2026-01-01  2026-03-31      0000027904   us-gaap:LatinAmericaDestinationMember     2025-01-01  2025-03-31      0000027904   us-gaap:PacificDestinationMember     2026-01-01  2026-03-31      0000027904   us-gaap:PacificDestinationMember     2025-01-01  2025-03-31      0000027904   us-gaap:FairValueMeasurementsRecurringMember     2026-03-31      0000027904   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000027904   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000027904   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000027904   us-gaap:FairValueMeasurementsRecurringMember     2025-12-31      0000027904   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000027904   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000027904   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000027904   us-gaap:EnergyRelatedDerivativeMember     2026-01-01  2026-03-31      0000027904   us-gaap:EnergyRelatedDerivativeMember     2025-01-01  2025-03-31      0000027904   us-gaap:EnergyRelatedDerivativeMember  dal:MarkToMarketMember     2026-01-01  2026-03-31      0000027904   us-gaap:EnergyRelatedDerivativeMember  dal:SettlementOnContractsMember     2026-01-01  2026-03-31      0000027904   dal:AirFranceKLMMember     2026-03-31      0000027904   dal:AirFranceKLMMember     2025-12-31      0000027904   dal:ChinaEasternMember     2026-03-31      0000027904   dal:ChinaEasternMember     2025-12-31      0000027904   dal:GrupoAeromexicoMember     2026-03-31      0000027904   dal:GrupoAeromexicoMember     2025-12-31      0000027904   dal:HanjinKALMember     2026-03-31      0000027904   dal:HanjinKALMember     2025-12-31      0000027904   dal:LATAMMember     2026-03-31      0000027904   dal:LATAMMember     2025-12-31      0000027904   dal:RepublicAirwaysMember     2026-03-31      0000027904   dal:RepublicAirwaysMember     2025-12-31      0000027904   dal:UnifiMember     2026-03-31      0000027904   dal:UnifiMember     2025-12-31      0000027904   dal:WestJetMember     2026-03-31      0000027904   dal:WestJetMember     2025-12-31      0000027904   dal:WheelsUpMember     2026-03-31      0000027904   dal:WheelsUpMember     2025-12-31      0000027904   dal:OtherEquitySecurityFVInvestmentsMember     2026-03-31      0000027904   dal:OtherEquitySecurityFVInvestmentsMember     2025-12-31      0000027904   dal:HanjinKALMember  dal:CommonAndPreferredSharesMember     2026-03-31      0000027904   dal:HanjinKALMember  us-gaap:CommonStockMember     2026-03-31      0000027904   dal:UnsecuredNotesMember  srt:MinimumMember  us-gaap:UnsecuredDebtMember     2026-03-31      0000027904   dal:UnsecuredNotesMember  srt:MaximumMember  us-gaap:UnsecuredDebtMember     2026-03-31      0000027904   dal:UnsecuredNotesMember  us-gaap:UnsecuredDebtMember     2026-03-31      0000027904   dal:UnsecuredNotesMember  us-gaap:UnsecuredDebtMember     2025-12-31      0000027904   dal:PayrollSupportProgramLoansMember  us-gaap:UnsecuredDebtMember     2026-03-31      0000027904   dal:PayrollSupportProgramLoansMember  us-gaap:UnsecuredDebtMember     2025-12-31      0000027904   dal:SkyMilesNotesMember  srt:MinimumMember  us-gaap:SecuredDebtMember     2026-03-31      0000027904   dal:SkyMilesNotesMember  us-gaap:SecuredDebtMember     2026-03-31      0000027904   dal:SkyMilesNotesMember  us-gaap:SecuredDebtMember     2025-12-31      0000027904   dal:SkyMilesTermLoanMember  us-gaap:SecuredDebtMember     2026-03-31      0000027904   dal:SkyMilesTermLoanMember  us-gaap:SecuredDebtMember     2025-12-31      0000027904   dal:NYTDCSpecialFacilitiesRevenueBondsMember  srt:MinimumMember  us-gaap:BondsMember     2026-03-31      0000027904   dal:NYTDCSpecialFacilitiesRevenueBondsMember  srt:MaximumMember  us-gaap:BondsMember     2026-03-31      0000027904   dal:NYTDCSpecialFacilitiesRevenueBondsMember  us-gaap:BondsMember     2026-03-31      0000027904   dal:NYTDCSpecialFacilitiesRevenueBondsMember  us-gaap:BondsMember     2025-12-31      0000027904   dal:A2026TermLoanMember  us-gaap:SecuredDebtMember     2026-03-31      0000027904   dal:A2026TermLoanMember  us-gaap:SecuredDebtMember     2025-12-31      0000027904   dal:CertificatesMember  srt:MinimumMember  us-gaap:SecuredDebtMember     2026-03-31      0000027904   dal:CertificatesMember  srt:MaximumMember  us-gaap:SecuredDebtMember     2026-03-31      0000027904   dal:CertificatesMember  us-gaap:SecuredDebtMember     2026-03-31      0000027904   dal:CertificatesMember  us-gaap:SecuredDebtMember     2025-12-31      0000027904   dal:AircraftFinancingsMember  srt:MinimumMember  us-gaap:SecuredDebtMember     2026-03-31      0000027904   dal:AircraftFinancingsMember  srt:MaximumMember  us-gaap:SecuredDebtMember     2026-03-31      0000027904   dal:AircraftFinancingsMember  us-gaap:SecuredDebtMember     2026-03-31      0000027904   dal:AircraftFinancingsMember  us-gaap:SecuredDebtMember     2025-12-31      0000027904   dal:OtherFinancingsMember  dal:SecuredAndUnsecuredDebtMember     2026-03-31      0000027904   dal:OtherFinancingsMember  dal:SecuredAndUnsecuredDebtMember     2025-12-31      0000027904   dal:CorporateRevolvingCreditFacilityMember  us-gaap:RevolvingCreditFacilityMember     2026-03-31      0000027904   dal:CorporateRevolvingCreditFacilityMember  us-gaap:RevolvingCreditFacilityMember     2025-12-31      0000027904   dal:BankRevolvingCreditFacilitiesMember  us-gaap:RevolvingCreditFacilityMember     2026-03-31      0000027904   dal:BankRevolvingCreditFacilitiesMember  us-gaap:RevolvingCreditFacilityMember     2025-12-31      0000027904   dal:PayrollSupportProgramLoansMember  us-gaap:UnsecuredDebtMember     2026-01-01  2026-03-31      0000027904   dal:A2026TermLoanMember  us-gaap:SecuredDebtMember     2026-01-31      0000027904   dal:PayrollSupportProgramLoansMember  us-gaap:UnsecuredDebtMember     2026-01-01  2026-01-31      0000027904   us-gaap:RevolvingCreditFacilityMember     2026-03-31      0000027904   dal:UnsecuredNotesMember  us-gaap:UnsecuredDebtMember     2026-01-01  2026-03-31      0000027904   dal:SkyMilesNotesMember  us-gaap:SecuredDebtMember     2026-01-01  2026-03-31      0000027904   dal:SkyMilesTermLoanMember  us-gaap:SecuredDebtMember     2026-01-01  2026-03-31      0000027904   dal:NYTDCSpecialFacilitiesRevenueBondsMember  us-gaap:BondsMember     2026-01-01  2026-03-31      0000027904   dal:A2026TermLoanMember  us-gaap:SecuredDebtMember     2026-01-01  2026-03-31      0000027904   dal:CertificatesMember  us-gaap:SecuredDebtMember     2026-01-01  2026-03-31      0000027904   dal:AircraftFinancingsMember  us-gaap:SecuredDebtMember     2026-01-01  2026-03-31      0000027904   dal:OtherFinancingsMember  dal:SecuredAndUnsecuredDebtMember     2026-01-01  2026-03-31      0000027904   dal:CorporateRevolvingCreditFacilityMember  us-gaap:RevolvingCreditFacilityMember     2026-01-01  2026-03-31      0000027904   dal:BankRevolvingCreditFacilitiesMember  us-gaap:RevolvingCreditFacilityMember     2026-01-01  2026-03-31      0000027904   us-gaap:PensionPlansDefinedBenefitMember     2026-01-01  2026-03-31      0000027904   us-gaap:PensionPlansDefinedBenefitMember     2025-01-01  2025-03-31      0000027904   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2026-01-01  2026-03-31      0000027904   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2025-01-01  2025-03-31      0000027904   us-gaap:CapitalAdditionsMember     2026-03-31      0000027904   dal:A220300Member  us-gaap:CapitalAdditionsMember     2026-03-31      0000027904   dal:A321200neoMember  us-gaap:CapitalAdditionsMember     2026-03-31      0000027904   dal:A330900neoMember  us-gaap:CapitalAdditionsMember     2026-03-31      0000027904   dal:A350900Member  us-gaap:CapitalAdditionsMember     2026-03-31      0000027904   dal:A3501000Member  us-gaap:CapitalAdditionsMember     2026-03-31      0000027904   dal:B73710Member  us-gaap:CapitalAdditionsMember     2026-03-31      0000027904   dal:B78710Member  us-gaap:CapitalAdditionsMember     2026-03-31      0000027904   dal:Boeing78710Member  us-gaap:CapitalAdditionsMember     2026-01-31      0000027904   dal:AirbusA330900AircraftMember  us-gaap:CapitalAdditionsMember     2026-01-31      0000027904   dal:AirbusA350900AircraftMember  us-gaap:CapitalAdditionsMember     2026-01-31      0000027904   dal:WidebodyAircraftMember  us-gaap:CapitalAdditionsMember     2026-01-31      0000027904   dal:AirbusA321neoAircraftMember  us-gaap:CapitalAdditionsMember     2026-02-28      0000027904   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-12-31      0000027904   dal:AOCIOtherMember     2025-12-31      0000027904   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-01-01  2026-03-31      0000027904   dal:AOCIOtherMember     2026-01-01  2026-03-31      0000027904   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-03-31      0000027904   dal:AOCIOtherMember     2026-03-31      0000027904   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2024-12-31      0000027904   dal:AOCIOtherMember     2024-12-31      0000027904   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-01-01  2025-03-31      0000027904   dal:AOCIOtherMember     2025-01-01  2025-03-31      0000027904   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2025-03-31      0000027904   dal:AOCIOtherMember     2025-03-31      0000027904   us-gaap:OperatingSegmentsMember  dal:AirlineMember     2026-01-01  2026-03-31      0000027904   us-gaap:OperatingSegmentsMember  dal:RefineryMember     2026-01-01  2026-03-31      0000027904   us-gaap:IntersegmentEliminationMember     2026-01-01  2026-03-31      0000027904   us-gaap:OperatingSegmentsMember  dal:AirlineMember     2026-03-31      0000027904   us-gaap:OperatingSegmentsMember  dal:RefineryMember     2026-03-31      0000027904   us-gaap:IntersegmentEliminationMember     2026-03-31      0000027904   us-gaap:OperatingSegmentsMember  dal:AirlineMember     2025-01-01  2025-03-31      0000027904   us-gaap:OperatingSegmentsMember  dal:RefineryMember     2025-01-01  2025-03-31      0000027904   us-gaap:IntersegmentEliminationMember     2025-01-01  2025-03-31      0000027904   us-gaap:OperatingSegmentsMember  dal:AirlineMember     2025-03-31      0000027904   us-gaap:OperatingSegmentsMember  dal:RefineryMember     2025-03-31      0000027904   us-gaap:IntersegmentEliminationMember     2025-03-31      0000027904   us-gaap:IntersegmentEliminationMember  dal:SalesToAirlineSegmentMember     2026-01-01  2026-03-31      0000027904   us-gaap:IntersegmentEliminationMember  dal:SalesToAirlineSegmentMember     2025-01-01  2025-03-31      0000027904   dal:PayrollSupportProgram3PSP3Member     2026-03-01  2026-03-31      0000027904   dal:PayrollSupportProgram3PSP3Member     2026-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+☑
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES     EXCHANGE ACT OF 1934
+For the quarterly period ended  March 31, 2026
+Or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES     EXCHANGE ACT OF 1934
+Commission File Number  001-5424
+DELTA AIR LINES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware       58-0218548
+(State or other jurisdiction of incorporation or organization)     (I.R.S. Employer Identification No.)
+1030 Delta Boulevard
+Atlanta ,  Georgia
+30354-1989
+(Address of principal executive offices)     (Zip Code)
+Registrant's telephone number, including area code: ( 404 )  715-2191
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class     Trading Symbol     Name of each exchange on which registered
+Common Stock, par value $0.0001 per share       DAL       New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes    ☑    No   ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes    ☑    No   ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer     ☑    Accelerated filer     ☐    Non-accelerated filer     ☐
+Smaller reporting company     ☐     Emerging growth company     ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes   ☐     No    ☑
+Number of shares outstanding by each class of common stock, as of March 31, 2026
+Common Stock, $0.0001 par value -      656,994,112  shares outstanding
+This document is also available through our website at http://ir.delta.com/.
+Table of Contents
+Page
+Forward Looking Statements
+1
+Report of Independent Registered Public Accounting Firm
+2
+Part I. Financial Information
+Item 1. Financial Statements
+3
+Consolidated Balance Sheets
+3
+Condensed Consolidated Statements of Operations and Comprehensive  (Loss)/Income
+4
+Condensed Consolidated Statements of Cash Flows
+5
+Consolidated Statements of Stockholders' Equity
+6
+Notes to the Condensed Consolidated Financial Statements
+7
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+16
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+28
+Item 4. Controls and Procedures
+28
+Part II. Other Information
+Item 1. Legal Proceedings
+28
+Item 1A. Risk Factors
+28
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+28
+Item 6. Exhibits
+29
+Signature
+30
+Forward Looking Statements
+Unless otherwise indicated or the context otherwise requires, the terms "Delta," "we," "us" and "our" refer to Delta Air Lines, Inc. and its subsidiaries.
+FORWARD-LOOKING STATEMENTS
+Statements in this Form 10-Q (or otherwise made by us or on our behalf) that are not historical facts, including statements about our estimates, expectations, beliefs, intentions, projections, goals, aspirations, commitments or strategies for the future, may be "forward-looking statements" as defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements involve risks and uncertainties that could cause actual results to differ materially from historical experience or our present expectations. Known material risk factors applicable to Delta are described in "Item 1A. Risk Factors" of our Annual Report on Form 10-K for the fiscal year ended December 31, 2025 ("Form 10-K"), other than risks that could apply to any issuer or offering. All forward-looking statements speak only as of the date made, and we undertake no obligation to publicly update or revise any forward-looking statements to reflect events or circumstances that may arise after the date of this report except as required by law.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+1
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and the Stockholders of
+Delta Air Lines, Inc.
+Results of Review of Interim Financial Statements
+We have reviewed the accompanying consolidated balance sheet of Delta Air Lines, Inc. (the Company) as of March 31, 2026, the related condensed consolidated statements of operations and comprehensive (loss)/income, condensed consolidated statements of cash flows, and consolidated statements of stockholders' equity for the three-month periods ended March 31, 2026 and 2025, and the related notes (collectively referred to as the "condensed consolidated interim financial statements"). Based on our reviews, we are not aware of any material modifications that should be made to the condensed consolidated interim financial statements for them to be in conformity with U.S. generally accepted accounting principles.
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheet of the Company as of December 31, 2025, the related consolidated statements of operations, comprehensive income, cash flows, and stockholders' equity for the year then ended, and the related notes (not presented herein); and in our report dated February 10, 2026, we expressed an unqualified audit opinion on those Consolidated Financial Statements. In our opinion, the information set forth in the accompanying consolidated balance sheet as of December 31, 2025, is fairly stated, in all material respects, in relation to the consolidated balance sheet from which it has been derived.
+Basis for Review Results
+These financial statements are the responsibility of the Company's management. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission (SEC) and the PCAOB. We conducted our review in accordance with the standards of the PCAOB. A review of interim financial statements consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+/s/ Ernst & Young LLP
+Atlanta, Georgia
+April 8, 2026
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+2
+Financial Statements
+DELTA AIR LINES, INC.
+Consolidated Balance Sheets
+(Unaudited)
+(in millions, except share data)    March 31,
+2026     December 31,
+2025
+ASSETS
+Current Assets:
+Cash and cash equivalents    $     5,053        $     4,310
+Accounts receivable, net of allowance for uncollectible accounts of $ 13  and $ 13
+4,090         2,850
+Fuel, expendable parts and supplies inventories, net of allowance for obsolescence of $ 132  and $ 124
+1,767         1,601
+Prepaid expenses and other     2,753         2,207
+Total current assets     13,663         10,968
+Noncurrent Assets:
+Property and equipment, net of accumulated depreciation and amortization of $ 25,439  and $ 24,719
+40,582         39,743
+Operating lease right-of-use assets     6,300         6,244
+Goodwill     9,753         9,753
+Identifiable intangibles, net of accumulated amortization of $ 930  and $ 928
+5,964         5,966
+Equity investments     3,696         4,222
+Other noncurrent assets     4,473         4,421
+Total noncurrent assets     70,768         70,349
+Total assets    $     84,431        $     81,317
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+Current maturities of debt and finance leases    $     3,088        $     1,605
+Current maturities of operating leases     837         809
+Air traffic liability     10,742         7,157
+Accounts payable     5,969         5,226
+Accrued salaries and related benefits     3,634         4,906
+Loyalty program deferred revenue     5,010         4,876
+Fuel card obligation     1,100         1,100
+Other accrued liabilities     2,319         1,945
+Total current liabilities     32,699         27,624
+Noncurrent Liabilities:
+Debt and finance leases     11,076         12,507
+Noncurrent operating leases     5,298         5,353
+Pension, postretirement and related benefits     3,115         3,156
+Loyalty program deferred revenue     4,448         4,386
+Deferred income taxes, net     3,496         3,444
+Other noncurrent liabilities     3,923         3,994
+Total noncurrent liabilities     31,356         32,840
+Commitments and Contingencies
+Stockholders' Equity:
+Common stock at $  0.0001   par value;   1,500,000,000   shares authorized,  665,722,376  and  659,669,346  shares issued
+—         —
+Additional paid-in capital     11,944         11,883
+Retained earnings     12,931         13,343
+Accumulated other comprehensive loss    ( 4,106 )      ( 4,135 )
+Treasury stock, at cost,  8,728,264  and  6,498,109  shares
+( 393 )      ( 238 )
+Total stockholders' equity     20,376         20,853
+Total liabilities and stockholders' equity    $     84,431        $     81,317
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+3
+Financial Statements
+DELTA AIR LINES, INC.
+Condensed Consolidated Statements of Operations and Comprehensive (Loss)/Income
+(Unaudited)
+Three Months Ended March 31,
+(in millions, except per share data)    2026     2025
+Operating Revenue:
+Passenger    $     12,302        $     11,480
+Cargo     226         208
+Other     3,326         2,352
+Total operating revenue     15,854         14,040
+Operating Expense:
+Salaries and related costs     4,541         4,083
+Aircraft fuel and related taxes     2,742         2,410
+Refinery expense     1,654         1,062
+Contracted services     1,190         1,121
+Landing fees and other rents     913         851
+Aircraft maintenance materials and outside repairs     709         646
+Regional carrier expense     649         613
+Depreciation and amortization     635         607
+Passenger commissions and other selling expenses     590         552
+Passenger service     428         430
+MRO expense     328         140
+Profit sharing     165         124
+Aircraft rent     143         137
+Other     666         695
+Total operating expense     15,353         13,471
+Operating Income     501         569
+Non-Operating Expense:
+Interest expense, net    ( 151 )      ( 179 )
+Gain/(loss) on investments, net    ( 550 )      ( 40 )
+Loss on extinguishment of debt    ( 4 )       —
+Miscellaneous, net    ( 10 )      ( 30 )
+Total non-operating expense, net    ( 715 )      ( 249 )
+(Loss)/Income Before Income Taxes    ( 214 )       320
+Income Tax Provision    ( 75 )      ( 80 )
+Net (Loss)/Income    $    ( 289 )      $     240
+Basic (Loss)/Earnings Per Share    $    ( 0.44 )      $     0.37
+Diluted (Loss)/Earnings Per Share    $    ( 0.44 )      $     0.37
+Comprehensive (Loss)/Income    $    ( 260 )      $     281
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+4
+Financial Statements
+DELTA AIR LINES, INC.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+Three Months Ended March 31,
+(in millions)    2026     2025
+Net Cash Provided by Operating Activities    $     2,432        $     2,378
+Cash Flows from Investing Activities:
+Property and equipment additions:
+Flight equipment, including advance payments    ( 1,000 )      ( 987 )
+Ground property and equipment, including technology    ( 200 )      ( 237 )
+Acquisition of strategic investments and related    ( 54 )       —
+Other, net    ( 9 )       —
+Net cash used in investing activities    ( 1,263 )      ( 1,224 )
+Cash Flows from Financing Activities:
+Proceeds from short-term obligations     1,250         —
+Payments on debt and finance lease obligations    ( 1,564 )      ( 531 )
+Cash dividends    ( 129 )      ( 99 )
+Other, net     8        ( 4 )
+Net cash used in financing activities    ( 435 )      ( 634 )
+Net Increase in Cash, Cash Equivalents and Restricted Cash Equivalents     734         520
+Cash, cash equivalents and restricted cash equivalents at beginning of period     4,501         3,421
+Cash, cash equivalents and restricted cash equivalents at end of period    $     5,235        $     3,941
+Non-Cash Transactions:
+Operating leases converted to finance leases    $     359        $     149
+Right-of-use assets acquired or modified under operating leases     179         75
+Flight and ground equipment acquired or modified under finance leases     1         —
+The following table provides a reconciliation of cash, cash equivalents and restricted cash equivalents reported within the Consolidated Balance Sheets to the total of the same such amounts shown above:
+March 31,
+(in millions)    2026     2025
+Current assets:
+Cash and cash equivalents    $     5,053        $     3,711
+Restricted cash included in prepaid expenses and other     144         89
+Noncurrent assets:
+Restricted cash included in other noncurrent assets     38         141
+Total cash, cash equivalents and restricted cash equivalents    $     5,235        $     3,941
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+5
+Financial Statements
+DELTA AIR LINES, INC.
+Consolidated Statements of Stockholders' Equity
+(Unaudited)
+Common Stock    Additional Paid-In Capital    Retained Earnings    Accumulated Other Comprehensive Loss    Treasury Stock
+(in millions, except per share data)    Shares    Amount    Shares    Amount    Total
+Balance at December 31, 2025
+660       $     —       $     11,883       $     13,343       $    ( 4,135 )      6       $    ( 238 )     $     20,853
+Net loss    —      —      —      ( 289 )     —      —      —      ( 289 )
+Dividends declared ($ 0.1875  per share)
+—      —      —      ( 123 )     —      —      —      ( 123 )
+Other comprehensive income    —      —      —      —       29       —      —       29
+Common stock issued for employee equity awards  (1)
+5       —       37       —      —       2       ( 155 )     ( 118 )
+Stock options exercised     1       —       24       —      —      —      —       24
+Warrants exercised     1       —      —      —      —      —      —      —
+Balance at March 31, 2026
+666       $     —       $     11,944       $     12,931       $    ( 4,106 )      9       $    ( 393 )     $     20,376
+(1)  Treasury shares were withheld for payment of taxes, at a weighted average price per share of $ 69.41  in the March 2026 quarter. Share counts in the table above may not calculate exactly due to rounding.
+Common Stock    Additional Paid-In Capital    Retained Earnings    Accumulated Other Comprehensive Loss    Treasury Stock
+(in millions, except per share data)    Shares    Amount    Shares    Amount    Total
+Balance at December 31, 2024
+655       $     —       $     11,740       $     8,783       $    ( 4,979 )      8       $    ( 251 )     $     15,293
+Net income    —      —      —       240       —      —      —       240
+Dividends declared ($ 0.15  per share)
+—      —      —      ( 98 )     —      —      —      ( 98 )
+Other comprehensive income    —      —      —      —       41       —      —       41
+Common stock issued for employee equity awards  (1)
+—      —      ( 51 )     —      —      ( 1 )      13       ( 38 )
+Stock options exercised    —      —       9       —      —      —      —       9
+Warrants exercised     5       —      —      —      —      —      —      —
+Balance at March 31, 2025
+660       $     —       $     11,698       $     8,925       $    ( 4,938 )      7       $    ( 238 )     $     15,447
+(1)   Treasury shares were withheld for payment of taxes, at a weighted average price per share of $ 67.95  in the March 2025 quarter. Share counts in the table above may not calculate exactly due to rounding.
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+6
+Notes to the Condensed Consolidated Financial Statements
+DELTA AIR LINES, INC.
+Notes to the Condensed Consolidated Financial Statements
+(Unaudited)
+NOTE 1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+The accompanying unaudited Condensed Consolidated Financial Statements include the accounts of Delta Air Lines, Inc. and our consolidated subsidiaries, and have been prepared in accordance with accounting principles generally accepted in the United States ("GAAP") for interim financial information. Consistent with these requirements, this Form 10-Q does not include all the information required by GAAP for complete financial statements. As a result, this Form 10-Q should be read in conjunction with the Consolidated Financial Statements and accompanying Notes in our Form 10-K for the year ended December 31, 2025.
+Management believes the accompanying unaudited Condensed Consolidated Financial Statements reflect all adjustments, including normal recurring items, considered necessary for a fair statement of results for the interim periods presented.
+Due to seasonal variations in the demand for air travel, the volatility of aircraft fuel prices and other factors, operating results for the three months ended March 31, 2026 are not necessarily indicative of operating results for the entire year.
+We reclassified certain prior period amounts to conform to the current period presentation. Unless otherwise noted, all amounts disclosed are stated before consideration of income taxes.
+NOTE 2  .    REVENUE RECOGNITION
+Passenger Revenue
+Three Months Ended March 31,
+(in millions)    2026    2025
+Ticket    $     10,767       $     10,068
+Loyalty travel awards     1,029        940
+Travel-related services     506        472
+Passenger revenue    $     12,302       $     11,480
+Ticket
+We recognized approximately     $ 4.3  billion and $ 4.1  billion in passenger revenue during the three months ended March 31, 2026 and 2025, respectively, that had been recorded in our air traffic liability balance at the beginning of those periods.
+Loyalty Travel Awards
+Loyalty travel awards revenue is related to the redemption of mileage credits ("miles") for air travel. Our SkyMiles loyalty program allows customers to earn miles by flying on Delta, Delta Connection and other airlines that participate in the loyalty program. Customers can also earn miles through participating companies, such as credit card, retail, ridesharing, car rental and hotel companies, who purchase miles from us. Our most significant contract to sell miles relates to our co-brand credit card relationship with American Express. During the three months ended March 31, 2026 and 2025, total cash sales from marketing agreements related to our loyalty program were $ 2.1  billion and     $ 1.9  billion, respectively, which are allocated to travel and other performance obligations.
+Current Activity of the Loyalty Program.   Miles are combined in one homogeneous pool and are not separately identifiable. Therefore, revenue is comprised of miles that were part of the loyalty program deferred revenue balance at the beginning of the period as well as miles that were issued during the period. The timing of mile redemptions can vary widely; however, the majority of miles have historically been redeemed within  two years  of being earned.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+7
+Notes to the Condensed Consolidated Financial Statements
+The table below presents the activity of the current and noncurrent loyalty program deferred revenue and includes miles earned through travel and miles sold to participating companies, which are primarily through marketing agreements.
+Loyalty program activity
+(in millions)    2026    2025
+Balance at January 1    $     9,262       $     8,826
+Miles earned     1,282        1,152
+Miles redeemed for air travel    ( 1,029 )     ( 940 )
+Miles redeemed for non-air travel and other    ( 57 )     ( 60 )
+Balance at March 31
+$     9,458       $     8,978
+Travel-Related Services
+Travel-related services are primarily composed of services performed in conjunction with a passenger’s flight and include baggage fees, administrative fees and on-board sales. We recognize revenue for these services when the related transportation service is provided.
+Other Revenue
+Three Months Ended March 31,
+(in millions)    2026    2025
+Refinery    $     1,654       $     1,062
+Loyalty and related     1,221        1,082
+MRO     380        151
+Miscellaneous     71        57
+Other revenue    $     3,326       $     2,352
+Refinery.   This represents refinery sales to third parties. See Note 9, "Segments," for more information on revenue recognition within our refinery segment.
+Loyalty and Related.   This primarily relates to revenues from brand usage by third parties embedded in miles sold, which is included within the total cash sales from marketing agreements, discussed above. Loyalty and related also includes the redemption of miles for non-travel awards, our vacation package operations, lounge access (including access provided to certain American Express cardholders) and travel products (e.g., car rentals or hotels booked with our commercial partners).
+MRO.   This represents revenue from our Delta TechOps third-party maintenance, repair and overhaul ("MRO") business.
+Miscellaneous.   This is primarily composed of revenues related to codeshare agreements and international joint venture partnership contractual settlements.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+8
+Notes to the Condensed Consolidated Financial Statements
+Revenue by Geographic Region
+Operating revenue for the airline segment is recognized in a specific geographic region based on the origin, flight path and destination of each flight segment. A portion of the refinery segment's revenues consists of fuel sales to the airline, which is eliminated in the Condensed Consolidated Financial Statements. The remaining operating revenue for the refinery segment is included in the domestic region.  Our passenger and operating revenue by geographic region is summarized in the following tables:
+Passenger revenue by geographic region
+Three Months Ended March 31,
+(in millions)    2026    2025
+Domestic    $     8,717       $     8,101
+Atlantic     1,517        1,372
+Latin America     1,328        1,334
+Pacific     740        673
+Total    $     12,302       $     11,480
+Operating revenue by geographic region
+Three Months Ended March 31,
+(in millions)    2026    2025
+Domestic    $     11,502       $     10,055
+Atlantic     1,867        1,646
+Latin America     1,560        1,523
+Pacific     925        816
+Total    $     15,854       $     14,040
+NOTE 3.  FAIR VALUE MEASUREMENTS
+Assets/(Liabilities) Measured at Fair Value on a Recurring Basis
+(in millions)    March 31,
+2026    Level 1    Level 2    Level 3
+Cash equivalents    $     3,468       $     3,468       $     —       $     —
+Restricted cash equivalents     181        181        —        —
+Long-term investments and related     3,162        2,871        264        27
+Fuel hedge contracts    ( 48 )      —       ( 48 )      —
+(in millions)    December 31,
+2025    Level 1    Level 2    Level 3
+Cash equivalents    $     2,868       $     2,868       $     —       $     —
+Restricted cash equivalents     191        191        —        —
+Long-term investments and related     3,644        3,366        217        61
+Fuel hedge contracts     1        —        1        —
+Cash Equivalents and Restricted Cash Equivalents.   Cash equivalents generally consist of money market funds. Restricted cash equivalents generally consist of money market funds, time deposits, commercial paper and negotiable certificates of deposit. Restricted cash equivalents primarily relate to certain self-insurance obligations, debt related reserves and airport commitments. Restricted cash equivalents are recorded in prepaid expenses and other and other noncurrent assets on our Consolidated Balance Sheet ("balance sheet"). The fair value of these cash equivalents is based on a market approach using prices generated by market transactions involving identical or comparable assets.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+9
+Notes to the Condensed Consolidated Financial Statements
+Long-Term Investments and Related.   Our long-term investments measured at fair value primarily consist of equity investments, which are valued based on market prices or other observable transactions and inputs, and are recorded in equity investments on our balance sheet. Our equity investments in private companies are classified as Level 3 in the fair value hierarchy as their equity is not traded on a public exchange and our valuations incorporate certain unobservable inputs, including non-public equity issuances. Fair value measurement using unobservable inputs is inherently uncertain, and a change in significant inputs could result in different fair values. See Note 4, "Investments," for further information on our equity investments.
+Fuel Hedge Contracts.     Our derivative contracts to hedge the financial risk from changing fuel prices are related to inventory at our wholly-owned subsidiary, Monroe Energy, LLC ("Monroe").  We recognized a loss of $ 468  million on our fuel hedge contracts in aircraft fuel and related taxes on our Condensed Consolidated Statements of Operations and Comprehensive (Loss)/Income ("income statement") for the three months ended March 31, 2026, compared to a loss of $ 20  million for the three months ended March 31, 2025. The loss recognized during the first three months of 2026 was composed of $ 49  million of mark-to-market losses and $ 419  million of settlement losses on contracts. Gains and losses on settled contracts are reflected within Monroe's operating results. See Note 9, "Segments," for further information on our refinery segment.
+NOTE 4.  INVESTMENTS
+Equity investments ownership interest and carrying value
+Accounting Treatment     Ownership Interest     Carrying Value
+(in millions)      March 31, 2026    December 31, 2025     March 31, 2026    December 31, 2025
+Air France-KLM    Fair Value      3      %     3      %     $     73       $     100
+China Eastern    Fair Value      2      %     2      %      207        319
+Grupo Aeroméxico    Equity Method      19      %     19      %      395        377
+Hanjin KAL
+Fair Value  (1)
+15      %     15      %      707        861
+LATAM    Fair Value      11      %     11      %      1,494        1,644
+Republic Airways    Fair Value      14      %     14      %      121        124
+Unifi Aviation    Equity Method      20      %     20      %      48        51
+WestJet    Fair Value      13      %     13      %      248        248
+Wheels Up
+Fair Value  (2)
+36      %     36      %      136        173
+Other investments    Various         267        325
+Equity investments         $     3,696       $     4,222
+(1)  At March 31, 2026, we held  14.8 % of the outstanding shares (including common and preferred), and  14.9 % of the common shares, of Hanjin KAL.
+(2)  Our voting rights with respect to Wheels Up are capped at  29.9 %.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+10
+Notes to the Condensed Consolidated Financial Statements
+NOTE 5.  DEBT
+Summary of outstanding debt by category
+(in millions)    Maturity Dates
+Interest Rate(s) Per
+Annum at
+March 31, 2026
+March 31,
+2026
+December 31,
+2025
+Unsecured Notes    2028    to    2030     3.75 %    to     5.25 %    $     2,884       $     2,884
+Unsecured Payroll Support Program Loans  (1)
+2031     1.00 %     891        1,848
+Financing arrangements secured by SkyMiles assets:
+SkyMiles Notes  (2)
+2026    to    2028     4.75 %     3,137        3,422
+SkyMiles Term Loan  (2)(3)
+2026    to    2028     5.17 %     587        588
+NYTDC Special Facilities Revenue Bonds  (2)
+2026    to    2045     4.00 %    to     6.00 %     3,448        3,522
+2026 Term Loan  (2)
+2026     4.80 %     1,250        —
+Financing arrangements secured by aircraft:
+Certificates  (2)
+2026    to    2028     2.00 %    to     8.00 %     886        894
+Notes  (2)(3)
+2026    to    2033     5.92 %    to     5.94 %     75        78
+Other financings    2030     5.00 %     66        66
+Corporate Revolving Credit Facility  (3)
+2026    to    2028    Undrawn     —        —
+Other revolving credit facilities  (3)
+2026    Undrawn     —        —
+Total secured and unsecured debt          $     13,224       $     13,302
+Unamortized (discount)/premium and debt issue cost, net and other        11        6
+Total debt          $     13,235       $     13,308
+Less: current maturities          ( 2,627 )     ( 1,372 )
+Total long-term debt          $     10,608       $     11,936
+(1)  Interest rates on the Payroll Support Program ("PSP") Loans are  1.00 % for the first  five years  and the applicable SOFR plus  2.00 % in the final  five years . The applicable interest rate will begin to adjust for the outstanding loan in April 2026.
+(2)  Due in installments during the years shown above.
+(3)  Certain financings are comprised of variable rate debt. All variable rates are equal to SOFR (generally subject to a floor) or another index rate, plus a specified margin.
+2026 Term Loan
+In January 2026, we entered into a $ 1.25  billion term loan issued by a group of lenders due December 2026. The proceeds of the term loan were used to repay $ 957  million of Payroll Support Program loans due 2031 (included in Unsecured Payroll Support Program Loans in the table above) and for general corporate purposes.
+Availability Under Revolving Credit Facilities
+As of March 31, 2026, we had approximately $ 3.1  billion undrawn and available under our revolving credit facilities.
+Fair Value of Debt
+Market risk associated with our fixed- and variable-rate debt relates to the potential reduction in fair value and negative impact to future earnings, respectively, from an increase in interest rates.  The fair value of debt shown below is principally based on reported market values, recently completed market transactions and estimates based on interest rates, maturities, credit risk and underlying collateral. Debt is primarily classified as Level 1 or 2 within the fair value hierarchy.
+Fair value of outstanding debt
+(in millions)    March 31,
+2026    December 31,
+2025
+Net carrying amount    $     13,235       $     13,308
+Fair value    $     13,200       $     13,400
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+11
+Notes to the Condensed Consolidated Financial Statements
+Covenants
+Our debt agreements contain various affirmative, negative and financial covenants. We were in compliance with the covenants in our debt agreements at March 31, 2026.
+NOTE 6.  EMPLOYEE BENEFIT PLANS
+We sponsor defined benefit and defined contribution pension plans, healthcare plans and disability and survivorship plans for eligible employees and retirees and their eligible family members.
+Employee benefit plans net periodic (benefit)/cost
+Pension Benefits  (1)
+Other Postretirement and Postemployment Benefits
+(in millions)    2026    2025     2026    2025
+Three Months Ended March 31,
+Service cost    $     6       $     4        $     36       $     33
+Interest cost     202        208         43        45
+Expected return on plan assets    ( 289 )     ( 267 )      ( 1 )      —
+Amortization of prior service credit     —        —        ( 1 )     ( 1 )
+Recognized net actuarial loss     35        50         8        5
+Net periodic (benefit)/cost    $    ( 46 )     $    ( 5 )      $     85       $     82
+(1)  Service cost relates to the market based cash balance plan. There is no service cost associated with traditional frozen defined benefit plans.
+Service cost is recorded in salaries and related costs in our income statement, while all other components are recorded within miscellaneous, net under non-operating expense.
+We also sponsor defined benefit pension plans for eligible employees in certain foreign countries which have immaterial obligations. These plans are not included in the net periodic cost table above.
+NOTE 7.  COMMITMENTS AND CONTINGENCIES
+Aircraft Purchase Commitments
+Our future aircraft purchase commitments totaled approximately $ 28.5  billion at March 31, 2026.
+Aircraft purchase commitments  (1)
+(in millions)    Total
+Nine months ending December 31, 2026    $     3,130
+2027     6,150
+2028     4,430
+2029     4,440
+2030     2,190
+Thereafter     8,140
+Total    $     28,480
+(1)  The timing of these commitments is based on our contractual agreements with the aircraft manufacturers and remains uncertain due to supply chain, manufacturing and regulatory constraints.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+12
+Notes to the Condensed Consolidated Financial Statements
+Our future aircraft purchase commitments included the following aircraft at March 31, 2026:
+Aircraft purchase commitments by fleet type
+Aircraft Type    Purchase Commitments
+A220-300     62
+A321-200neo     96
+A330-900neo     16
+A350-900     19
+A350-1000     20
+B-737-10     100
+B-787-10     30
+Total     343
+Aircraft Orders
+In January 2026, we entered into a definitive agreement with The Boeing Company to acquire  30  Boeing 787-10 aircraft, with an option to purchase up to an additional  30  of the same aircraft. Deliveries of the B-787-10 aircraft are scheduled to begin in 2031.
+In January 2026, we entered into a definitive agreement with Airbus S.A.S. to purchase  16  Airbus A330-900 aircraft and  15  Airbus A350-900 aircraft, with an option to purchase up to an additional  20  widebody aircraft. Deliveries of the aircraft are scheduled to begin in 2029.
+In February 2026, we exercised options for  34  Airbus A321neo aircraft. Deliveries from this order are scheduled to begin in 2029. In addition to this order, we maintain options to purchase  36  Airbus A321neo aircraft.
+Legal Contingencies
+We are involved in various legal proceedings related to employment practices, environmental issues, commercial disputes, antitrust and other regulatory matters concerning our business. We record liabilities for losses from legal proceedings when we determine that it is probable that the outcome in a legal proceeding will be unfavorable and the amount of loss can be reasonably estimated. Although the outcome of the legal proceedings in which we are involved cannot be predicted with certainty, we believe that the resolution of current matters will not have a material adverse effect on our Condensed Consolidated Financial Statements.
+NOTE 8.  ACCUMULATED OTHER COMPREHENSIVE LOSS
+Components of accumulated other comprehensive loss
+(in millions)    Pension and Other Benefit Liabilities    Other    Tax Effect    Total
+Balance at January 1, 2026
+$    ( 4,459 )     $     42       $     282       $    ( 4,135 )
+Changes in value     —       ( 3 )      —       ( 3 )
+Reclassifications into earnings  (1)
+42        —       ( 10 )      32
+Balance at March 31, 2026
+$    ( 4,417 )     $     39       $     272       $    ( 4,106 )
+Balance at January 1, 2025
+$    ( 5,557 )     $     42       $     536       $    ( 4,979 )
+Changes in value     —        1        —        1
+Reclassifications into earnings  (1)
+52        —       ( 12 )      40
+Balance at March 31, 2025
+$    ( 5,505 )     $     43       $     524       $    ( 4,938 )
+(1)  Amounts reclassified from accumulated other comprehensive loss for pension and other benefit liabilities are recorded in miscellaneous, net in non-operating expense in our income statement.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+13
+Notes to the Condensed Consolidated Financial Statements
+NOTE 9.  SEGMENTS
+Refinery Operations
+The refinery operated by Monroe primarily produces gasoline, diesel and jet fuel and operates for the benefit of the airline segment by providing jet fuel to the airline. Monroe sells or exchanges its non-jet fuel production to third parties, which enables us to procure additional jet fuel for consumption in our airline operations.
+Segment  Reporting
+Segment results are prepared based on our internal accounting methods described below, with reconciliations to consolidated amounts in accordance with GAAP. Our segments are not designed to measure operating income or loss directly related to the products and services included in each segment on a stand-alone basis.
+Financial information by segment
+(in millions)    Airline    Refinery     Intersegment Sales/Other     Consolidated
+Three Months Ended March 31, 2026
+Operating revenue    $     14,200       $     2,038        $    ( 384 )
+(1)
+$     15,854
+Airline salaries and related costs     4,541
+Aircraft fuel and related costs     2,742
+Refinery cost of goods sold  (2)
+1,923
+Depreciation and amortization     635        28
+Other segment items  (3)
+5,742        126
+Operating income/(loss)  (4)
+540       ( 39 )         501
+Interest expense/(income), net     151       ( 1 )       1         151
+Other non-operating expense     564            564
+Loss before income taxes    ( 175 )     ( 38 )      ( 1 )      ( 214 )
+Total assets, end of period     81,617        2,859        ( 45 )       84,431
+Capital expenditures     1,183        17           1,200
+Three Months Ended March 31, 2025
+Operating revenue    $     12,978       $     1,698        $    ( 636 )
+(1)
+$     14,040
+Airline salaries and related costs     4,083
+Aircraft fuel and related costs     2,410
+Refinery cost of goods sold  (2)
+1,562
+Depreciation and amortization     607        28
+Other segment items  (3)
+5,308        109
+Operating income/(loss)  (4)
+570       ( 1 )         569
+Interest expense, net     179        1        ( 1 )       179
+Other non-operating expense     70            70
+Income/(loss) before income taxes     321       ( 2 )       1         320
+Total assets, end of period     75,043        2,359        ( 60 )       77,342
+Capital expenditures     1,187        37           1,224
+(1)  Represents sales to the airline segment and products delivered under our exchange agreements as discussed above. During the three months ended March 31, 2026 and 2025, sales to the airline segment were $ 384  million and $ 260  million, respectively. Sales to the airline segment represent transfers, valued on a market price basis, from the refinery to the airline segment for use in airline operations. We determine market price for jet fuel from the refinery by reference to the market index for the primary delivery location, which is New York Harbor.
+(2)  Refinery cost of goods sold are included within aircraft fuel and related taxes and refinery expense in our income statement.
+(3)  The nature of other segment items for the airline segment are shown on our income statement, and for the refinery segment include salaries and related costs, maintenance, utilities and other expenses.
+(4)  Refinery segment operating results are included within aircraft fuel and related taxes in our income statement.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+14
+Notes to the Condensed Consolidated Financial Statements
+NOTE 10. (LOSS)/ EARNINGS PER SHARE
+We calculate basic (loss)/earnings per share and diluted (loss) per share   by di  viding net (loss)/income by the weighted average number of common shares outstanding, excluding restricted shares. We calculate diluted earnings per share by dividing net income by the weighted average number of common shares outstanding plus the dilutive effect of outstanding share-based instruments, including stock options, restricted stock awards and warrants.   Ant  idilutive common stock equivalents excluded from the diluted earnings per share calculation are not material.
+During the March 2026 quarter, the remaining  1.9  million warrants related to the Payroll Support Program were exercised and settled in a net share settlement.  No  warrants are outstanding as of March 31, 2026.
+The following table shows the computation of basic and diluted (loss)/earnings per share:
+Basic and diluted (loss)/earnings per share
+Three Months Ended March 31,
+(in millions, except per share data)    2026    2025
+Net (loss)/income    $    ( 289 )     $     240
+Basic weighted average shares outstanding     652        644
+Dilutive effect of share-based instruments     —        8
+Diluted weighted average shares outstanding     652        652
+Basic (loss)/earnings per share    $    ( 0.44 )     $     0.37
+Diluted (loss)/earnings per share    $    ( 0.44 )     $     0.37
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+15
+Item 2. MD&A
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS     OF OPERATIONS
+The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our Condensed Consolidated Financial Statements and the related notes and other financial information included elsewhere in this Quarterly Report on Form 10-Q and our audited Consolidated Financial Statements and related notes included in our 2025 Form 10-K.
+March 2026 Quarter Financial Highlights
+Our operating income for the March 2026 quarter was     $501 million, a decrease of $68 million compared to the March 2025 quarter.
+Revenue.   Compared to the March 2025 quarter, our total revenue increased $1.8 billion. Passenger revenue increased $822 million compared to the March 2025 quarter on an increase in revenue for premium products, particularly from corporate customers, and higher loyalty revenue. In addition, the increase in total revenue was driven by higher refinery sales to third parties and growth in our MRO business. Total revenue, adjusted (a non-GAAP financial measure, which excludes revenue related to refinery sales to third parties) increased in the March 2026 quarter by $1.2 billion, or 9.4%, compared to the March 2025 quarter.
+Operating Expense.   Total operating expense in the March 2026 quarter increased $1.9 billion, or 14%, compared to the March 2025 quarter, primarily due to higher expenses related to refinery sales to third parties, salaries and related costs and aircraft fuel costs. Total operating expense, adjusted (a non-GAAP financial measure, which primarily excludes expenses related to refinery sales to third parties) in the March 2026 quarter increased $1.2 billion, or 9%, compared to the March 2025 quarter.
+Our total operating cost per available seat mile ("CASM") increased 13% compared to the March 2025 quarter, while non-fuel unit cost ("CASM-Ex", a non-GAAP financial measure) increased 6%.
+Non-Operating Results.   Total non-operating expense was $715 million in the March 2026 quarter, compared to $249 million in the March 2025 quarter, primarily due to larger mark-to-market losses on certain of our equity investments in the March 2026 quarter compared to the March 2025 quarter.
+Cash Flow  . Our cash, cash equivalents, short-term investments and aggregate undrawn principal amount available under our revolving credit facilities ("liquidity") as of March 31, 2026 was $8.1 billion.
+During the March 2026 quarter, operating activities generated $2.4 billion, primarily from ticket sales and the sale of SkyMiles to our partners. Remuneration from American Express was $2.2 billion in the March 2026 quarter.
+Cash flows used in investing activities during the quarter totaled $1.3 billion primarily from capital expenditures. These operating and investing activities yielded free cash flow (a non-GAAP financial measure) of $1.2 billion in the March 2026 quarter. Additionally, we had cash outflows of $1.6 billion related to repayments of our debt and finance leases and proceeds from debt issuance of $1.3 billion.
+The non-GAAP financial measures referenced above for total revenue, adjusted, operating expense, adjusted, CASM-Ex and free cash flow are defined and reconciled in "Supplemental Information" below.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+16
+Item 2. MD&A - Results of Operations
+Results of Operations - Three Months Ended March 31, 2026 and 2025
+Total Operating Revenue
+Three Months Ended March 31,
+Increase (Decrease)    % Increase (Decrease)
+(in millions)  (1)
+2026    2025
+Ticket - Main cabin    $    5,404      $    5,361       $    43      1     %
+Ticket - Premium products    5,363      4,707       656      14     %
+Loyalty travel awards    1,029      940       89      9     %
+Travel-related services    506      472       34      7     %
+Total passenger revenue    $    12,302      $    11,480       $    822      7     %
+Cargo    226      208       18      9     %
+Other    3,326      2,352       974      41     %
+Total operating revenue    $    15,854      $    14,040       $    1,814      13     %
+TRASM (cents)    22.92     ¢    20.53     ¢     2.39     ¢    12     %
+Third-party refinery sales
+(2.39)     (1.55)      (0.84)     54     %
+TRASM, adjusted  (2)
+20.53     ¢    18.97     ¢     1.56     ¢    8     %
+(1)  Total amounts in the table above may not calculate exactly due to rounding.
+(2)  Total revenue per available seat mile ("TRASM"), adjusted is a non-GAAP financial measure. For additional information on adjustments to TRASM, see "Supplemental Information" below.
+Compared to the March 2025 quarter, total revenue increased     $1.8 billion, due to an increase from premium products, particularly from corporate customers, loyalty travel awards, refinery sales to third parties and growth in our MRO business.
+Passenger Revenue by Geographic Region
+Increase (Decrease)
+vs. Three Months Ended March 31, 2025
+(in millions)
+Three Months Ended March 31, 2026
+Passenger Revenue
+RPMs     (Traffic)
+ASMs     (Capacity)
+Passenger Mile Yield    PRASM    Load Factor
+Domestic    $    8,717      8     %    2     %    1     %    6     %    6     %    —      pts
+Atlantic    1,517      11     %    4     %    3     %    6     %    7     %    1      pt
+Latin America    1,328      —     %    (4)    %    (3)    %    4     %    3     %    (1)     pt
+Pacific    740      10     %    5     %    3     %    4     %    6     %    1      pt
+Total    $    12,302      7     %    1     %    1     %    6     %    6     %    —      pts
+Domestic
+Domestic passenger revenue increased 8% in the March 2026 quarter compared to the March 2025 quarter on a 1% increase in capacity. Domestic revenue increased due to strong demand for our premium products, particularly from corporate customers.
+International
+International passenger revenue for the March 2026 quarter increased 5% compared to the March 2025 quarter. The increase in the Atlantic region is primarily driven by demand for premium products. Revenue in the Latin America region remained consistent with the prior period due to demand strength to the Caribbean and South America, which was offset by lower Mexican leisure demand due to civil unrest in several of our destinations. Pacific region revenue growth reflects continued growth in South Korea alongside our joint venture partner Korean Air and strong results on increased China capacity.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+17
+Item 2. MD&A - Results of Operations
+Other Revenue
+Three Months Ended March 31,
+Increase (Decrease)    % Increase (Decrease)
+(in millions)    2026    2025
+Refinery    $    1,654      $    1,062       $    592      56     %
+Loyalty and related    1,221      1,082       139      13     %
+MRO    380      151       229      152     %
+Miscellaneous    71      57       14      25     %
+Other revenue    $    3,326      $    2,352       $    974      41     %
+Refinery.   Refinery sales to third parties increased $592 million compared to the March 2025 quarter. See "Refinery Segment" below for additional details on the refinery's operations, including third party refinery sales.
+Loyalty and Related.   This primarily relates to revenues from brand usage by third parties embedded in miles sold. Loyalty and related also includes the redemption of miles for non-travel awards, our vacation package operations, lounge access (including access provided to certain American Express cardholders) and travel products (e.g., car rentals or hotels booked with our commercial partners). Most of the increase compared to the prior period is driven by higher customer spend on American Express cards.
+MRO.   This represents revenue from our Delta TechOps third-party maintenance, repair and overhaul ("MRO") business. The increase compared to the prior period resulted from larger engine work scopes and from timing in the current period. We expect continued growth throughout 2026, but at a more normalized rate than we experienced in the March 2026 quarter.
+Miscellaneous.   This is primarily composed of revenues related to codeshare agreements and international joint venture partnership contractual settlements.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+18
+Item 2. MD&A - Results of Operations
+Operating Expense
+Three Months Ended March 31,
+Increase (Decrease)    % Increase (Decrease)
+(in millions)    2026    2025
+Salaries and related costs    $    4,541      $    4,083       $    458      11     %
+Aircraft fuel and related taxes    2,742      2,410       332      14     %
+Refinery expense    1,654      1,062       592      56     %
+Contracted services    1,190      1,121       69      6     %
+Landing fees and other rents    913      851       62      7     %
+Aircraft maintenance materials and outside repairs    709      646       63      10     %
+Regional carrier expense    649      613       36      6     %
+Depreciation and amortization    635      607       28      5     %
+Passenger commissions and other selling expenses    590      552       38      7     %
+Passenger service    428      430       (2)     —     %
+MRO expense    328      140       188      134     %
+Profit sharing    165      124       41      33     %
+Aircraft rent    143      137       6      4     %
+Other    666      695       (29)     (4)    %
+Total operating expense    $    15,353      $    13,471       $    1,882      14     %
+Salaries and Related Costs.   The increase in salaries and related costs primarily resulted from the implementation of base pay increases for eligible employees of 4% effective June 1, 2025 and 4% for Delta pilots on January 1, 2026, as well as higher flight crew costs driven by severe weather-related operational disruptions.
+Aircraft Fuel and Related Taxes.   Aircraft fuel and related taxes increased $332 million compared to the March 2025 quarter primarily due to a 10% increase in our jet fuel purchase price, mainly due to increases during the month of March, and an increase in consumption consistent with the 1% increase in capacity. We expect that fuel consumption for the remainder of 2026 will remain aligned with capacity changes compared to 2025. We expect this elevated jet fuel cost to continue until recent market disruptions and geopolitical events are resolved.
+Refinery Expense.   This includes expenses associated with refinery sales to third parties. See "Refinery Segment" below for additional details on the refinery's operations.
+MRO Expense.   This represents expenses from our Delta TechOps third-party MRO business. The increase compared to the prior period resulted from larger engine work scopes and from timing in the current period. We expect continued growth throughout 2026, but at a more normalized rate than we experienced in the March 2026 quarter.
+Non-Operating Results
+Three Months Ended March 31,
+Favorable (Unfavorable)
+(in millions)    2026    2025
+Interest expense, net    $    (151)     $    (179)      $    28
+Gain/(loss) on investments, net    (550)     (40)      (510)
+Loss on extinguishment of debt    (4)     —       (4)
+Miscellaneous, net    (10)     (30)      20
+Total non-operating expense, net    $    (715)     $    (249)      $    (466)
+Interest expense, net.   Interest expense, net includes interest expense and interest income. This decreased compared to the prior year primarily due to reduced interest expense resulting from our debt reduction initiatives. During 2025, we reduced our debt and finance lease obligations by approximately $2.0 billion. We have continued to pay down our debt during the March 2026 quarter with $1.6 billion of payments on debt and finance lease obligations, of which $1.2 billion was early repayments enabled by refinancings with lower interest rates.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+19
+Item 2. MD&A - Non-Operating Results
+Loss on investments, net.   Changes in the valuation of investments accounted for at fair value are recorded in gain/(loss) on investments, net and are driven by changes in stock prices, foreign currency fluctuations and other valuation techniques for investments in certain companies, particularly those without publicly-traded shares. See Note 4 of the Notes to the Condensed Consolidated Financial Statements for additional information on our equity investments measured at fair value on a recurring basis.
+Loss on extinguishment of debt.   Loss on extinguishment of debt reflects the losses incurred in the early repayment of certain loans and notes.
+Miscellaneous, net.   Miscellaneous, net primarily includes employee benefit plans net periodic benefit/(cost), charitable contributions, our share of our equity method investments' results, dividends received from our equity investees and foreign exchange gains/(losses).
+Income Taxes
+In certain periods, we may have adjustments to our net deferred tax liabilities as a result of changes in prior year estimates, the valuation allowance on mark-to-market adjustments on our equity investments, and tax laws enacted during the period, which will impact the effective tax rate for that period. Excluding mark-to-market adjustments on equity investments recognized in the March 2026 quarter, we project our annual effective tax rate for 2026 will be 23% to 25%.
+Refinery Segment
+The refinery operated by Monroe primarily produces gasoline, diesel and jet fuel and operates for the benefit of the airline segment by providing jet fuel to the airline. Monroe sells or exchanges its non-jet fuel production to third parties, which enables us to procure additional jet fuel for consumption in our airline operations. The refinery typically produces approximately 200,000 barrels of refined products per day, which represents approximately 75% of our daily consumption, and it regularly optimizes the mix of its sales and exchange activities based on market conditions. Certain contracts to exchange non-jet fuel products ended during the second half of 2025, which contributed to the increase in third party refinery sales compared to the March 2025 quarter. Third party refinery sales also increased due to higher market prices for refined products.
+The refinery generated an operating loss of $39 million in the March 2026 quarter compared to a loss of $1 million in the March 2025 quarter. The loss in the March 2026 quarter primarily results from the recognition of settlement losses on fuel hedge contracts related to inventory that is expected to be sold in the future, which was partially offset by higher industry refining margins.
+For more information regarding the refinery's results, see Note 9 of the Notes to the Condensed Consolidated Financial Statements.
+Refinery segment financial information
+Three Months Ended March 31,
+Increase (Decrease)
+(in millions)    2026    2025
+Third party refinery sales    $    1,654      $    1,062       $    592
+Sales to airline segment and other    384      636       (252)
+Operating revenue    $    2,038      $    1,698       $    340
+Operating loss    $    (39)     $    (1)      $    (38)
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+20
+Item 2. MD&A - Operating Statistics
+Operating Statistics
+Three Months Ended March 31,
+% Increase (Decrease)
+Consolidated  (1)
+2026    2025
+Revenue passenger miles (in millions) ("RPM")    56,470      55,678       1      %
+Available seat miles (in millions) ("ASM")    69,163      68,401       1      %
+Passenger mile yield    21.78     ¢    20.62     ¢     6      %
+Passenger revenue per available seat mile ("PRASM")    17.79     ¢    16.78     ¢     6      %
+Total revenue per available seat mile ("TRASM")    22.92     ¢    20.53     ¢     12      %
+TRASM, adjusted  (2)
+20.53     ¢    18.97     ¢     8.2      %
+Cost per available seat mile ("CASM")    22.20     ¢    19.69     ¢     13      %
+CASM-Ex  (2)
+15.13     ¢    14.23     ¢     6      %
+Passenger load factor    81.6      %    81.4      %     —      pts
+Fuel gallons consumed (in millions)    988      976       1      %
+Average price per fuel gallon  (3)
+$    2.78      $    2.47       12      %
+Average price per fuel gallon, adjusted  (2)(3)
+$    2.62      $    2.45       7      %
+(1)  Includes the operations of our regional carriers under capacity purchase agreements.
+(2)  Non-GAAP financial measures defined and reconciled to TRASM, CASM and average fuel price per gallon, respectively, in "Supplemental Information" below.
+(3)  Includes the impact of fuel hedge activity and refinery segment results.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+21
+Item 2. MD&A - Fleet Information
+Fleet Information
+Our operating aircraft fleet, purchase commitments and options at March 31, 2026 are summarized in the following table.
+Mainline aircraft information by fleet type
+Current Fleet  (1)
+Commitments
+Fleet Type    Owned    Finance Lease    Operating Lease    Total    Average Age (Years)     Purchase    Options
+A220-100    45      —      —      45      6.3
+A220-300    38      —      —      38      2.8     62
+A319-100    57      —      —      57      24.1
+A320-200    46      —      —      46      29.3
+A321-200    77      8      42      127      7.3
+A321-200neo    93      —      —      93      2.1     96      36
+A330-200    11      —      —      11      21.0
+A330-300    28      —      3      31      17.2
+A330-900neo    32      2      5      39      3.3     16      15
+A350-900    31      —      9      40      5.5     19      5
+A350-1000    —      —      —      —      —     20      10
+B-717-200    80      —      —      80      24.5
+B-737-800    73      4      —      77      24.5
+B-737-900ER    122      11      30      163      10.2
+B-737-10    —      —      —      —      —     100      30
+B-757-200    76      —      —      76      27.6
+B-757-300    16      —      —      16      23.1
+B-767-300ER    37      —      —      37      29.2
+B-767-400ER    21      —      —      21      25.2
+B-787-10    —      —      —      —      —     30      30
+Total    883      25      89      997      15.0     343      126
+(1)  Excludes certain aircraft we own or lease that are operated by regional carriers on our behalf shown in the table below.
+The following table summarizes the aircraft operated by regional carriers on our behalf at March 31, 2026.
+Regional aircraft information by fleet type and carrier
+Fleet Type  (1)
+Carrier     CRJ-700    CRJ-900    Embraer 170    Embraer 175    Total
+Endeavor Air, Inc.  (2)
+19      126      —      —      145
+SkyWest Airlines, Inc.     2      34      —      87      123
+Republic Airways Inc.     —      —      11      46      57
+Total     21      160      11      133      325
+(1)  We own 202 and have operating leases for three of these regional aircraft. The remainder are owned or leased by SkyWest Airlines, Inc. or Republic Airways Inc.
+(2)  Endeavor Air, Inc. is a wholly owned subsidiary of Delta.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+22
+Item 2. MD&A - Financial Condition and Liquidity
+Financial Condition and Liquidity
+As of March 31, 2026, we had $8.1 billion in cash, cash equivalents, short-term investments and aggregate undrawn principal amount available under our revolving credit facilities. We expect to meet our liquidity needs for the next twelve months with cash and cash equivalents and cash flows from operations. We expect to meet our long-term liquidity needs with cash flows from operations and financing arrangements.
+Undrawn Lines of Credit.   As of March 31, 2026, we had approximately $3.1 billion undrawn and available under our revolving credit facilities.
+Sources and Uses of Liquidity
+Operating Activities
+We generated cash flows from operations of $2.4 billion in both the three months ended March 31, 2026 and 2025. We expect to continue generating positive cash flows from operations during the remainder of 2026.
+Our operating cash flow is impacted by the following factors:
+Seasonality of Advance Ticket Sales.   We sell tickets for air travel in advance of the customer's travel date. When we receive a cash payment at the time of sale, we record the cash received on advance sales as deferred revenue in air traffic liability. The air traffic liability typically increases during the winter and spring months as advance ticket sales grow prior to the summer peak travel season and decreases during the summer and fall months.
+Sale of Miles to Participating Companies.   Customers earn miles based on their spending with participating companies such as credit card, retail, ridesharing, car rental and hotel companies with which we have marketing agreements to sell miles. Payments are typically due to us monthly based on the volume of miles sold during the period. Our most significant contract to sell miles relates to our co-brand credit card relationship with American Express. Remuneration to American Express was $2.2 billion in the three months ended March 31, 2026, an increase of 10% compared to the prior year period. See Note 2 of the Notes to the Condensed Consolidated Financial Statements for further information regarding the cash sales from marketing agreements.
+Fuel.   Fuel expense represented approximately 18% of our total operating expense for both the three months ended March 31, 2026 and 2025. The market price for jet fuel is dynamic, which can impact the comparability of our periodic cash flows from operations. Fuel consumption was higher during the three months ended March 31, 2026 compared to the prior year period due to the increase in capacity. We expect that fuel consumption for the remainder of 2026 will remain aligned with capacity changes compared to 2025.
+Profit Sharing.   We paid $1.3 billion in profit sharing payments in February 2026 related to our 2025 pre-tax profit in recognition of our employees' contributions toward achieving the year's financial results.
+Our broad-based employee profit sharing program provides that we will pay 10% of that profit to all eligible employees for the first $2.5 billion of annual profit, as defined by the terms of the program, and 20% of annual profit above $2.5 billion. In determining the amount of profit sharing, the program defines profit as pre-tax profit adjusted for profit sharing and certain other items. During the three months ended March 31, 2026, we accrued $165 million in profit sharing expense based on the year-to-date performance and current expectations for 2026 profit.
+Income Taxes.   During 2025, we utilized substantially all of our remaining pre-2018 net operating loss carryforwards and, due to the limitations on post-2017 net operating losses, began making cash federal income tax payments. We expect income tax cash payments to increase in 2026 based on our projected financial results. As of December 31, 2025, we had approximately $2.4 billion of U.S. federal pre-tax net operating loss carryforwards which we expect to utilize during 2026. These net operating loss carryforwards were primarily generated in 2020 and do not expire.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+23
+Item 2. MD&A - Financial Condition and Liquidity
+Investing Activities
+Capital Expenditures.   Our capital expenditures were $1.2 billion for both the three months ended March 31, 2026 and 2025. We have committed to future aircraft purchases and have obtained, but are under no obligation to use, long-term financing commitments for a substantial portion of the purchase price of the aircraft. Our expected 2026 capital spend of approximately $5.5 billion will be primarily for aircraft, including deliveries and advance deposit payments, as well as fleet modifications and technology enhancements.
+In January 2026, we entered into a definitive agreement with The Boeing Company to acquire 30 Boeing 787-10 aircraft, with an option to purchase up to an additional 30 of the same aircraft. Deliveries of the B-787-10 aircraft are scheduled to begin in 2031.
+In January 2026, we entered into a definitive agreement with Airbus S.A.S. to purchase 16 Airbus A330-900 aircraft and 15 Airbus A350-900 aircraft, with an option to purchase up to an additional 20 widebody aircraft. Deliveries of the aircraft are scheduled to begin in 2029.
+In February 2026, we exercised options for 34 Airbus A321neo aircraft. Deliveries from this order are scheduled to begin in 2029. In addition to this order, we maintain options to purchase 36 Airbus A321neo aircraft.
+Financing Activities
+Debt and Finance Leases.   In the three months ended March 31, 2026, we had cash outflows of $1.6 billion related to repayments of our debt and finance lease obligations. We continue to seek opportunities to pre-pay our debt, in addition to periodic amortization and scheduled maturities, and refinance higher cost debt.
+In January 2026, we entered into a $1.25 billion term loan issued by a group of lenders due December 2026. The proceeds of the term loan were used to repay $957 million of Payroll Support Program loans due 2031 and for general corporate purposes.
+See Note 5 of the Notes to the Condensed Consolidated Financial Statements for further information on our debt agreements.
+Capital Return to Shareholders.   In the March 2026 quarter, the Board of Directors approved a quarterly dividend of $0.1875 per share which we paid on March 19, 2026 for total cash dividends of $129 million.
+In the June 2025 quarter, the Board of Directors authorized a $1.0 billion opportunistic share repurchase program open through June 30, 2028. No shares have been repurchased under this program through March 31, 2026.
+Covenants.   We were in compliance with the covenants in our debt agreements at March 31, 2026.
+Critical Accounting Estimates
+There have been no material changes in our Critical Accounting Estimates from the information provided in the "Critical Accounting Estimates" section of "Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations" in our Form 10-K.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+24
+Item 2. MD&A - Supplemental Information
+Supplemental Information
+We sometimes use information (non-GAAP financial measures) that is derived from the Condensed Consolidated Financial Statements, but that is not presented in accordance with GAAP. Under the U.S. Securities and Exchange Commission rules, non-GAAP financial measures may be considered in addition to results prepared in accordance with GAAP, but should not be considered a substitute for or superior to GAAP results.
+Included below are reconciliations of non-GAAP measures used within this Form 10-Q to the most directly comparable GAAP financial measures. Reconciliations below may not calculate exactly due to rounding. These reconciliations include certain adjustments to GAAP measures to provide comparability between the reported periods, if applicable, and for the reasons indicated below:
+•  Third-party refinery sales.   Refinery sales to third parties, and related expenses, are not related to our airline segment. Excluding these sales therefore provides a more meaningful comparison of our airline operations to the rest of the airline industry.
+•  MTM adjustments and settlements on hedges.   Mark-to-market ("MTM") adjustments are defined as fair value changes recorded in periods other than the settlement period. Such fair value changes are not necessarily indicative of the actual settlement value of the underlying hedge in the contract settlement period, and therefore we remove this impact to allow investors to better understand and analyze our core performance. Settlements represent cash received or paid on hedge contracts closed (i.e., settled) during the applicable period. With respect to hedges related to Monroe's inventory, settlements often occur before the related refinery inventory is sold. Beginning with the quarter ended March 31, 2026, settlement gains and losses related to Monroe's inventory that remains on-hand at period end are excluded from our adjusted results. These settlement gains and losses will be reflected in adjusted results during the period the inventory is sold. This change was made to match the timing of expense and revenue recognition and we have similarly adjusted the presentation of reconciliations for prior periods included here.
+•  Aircraft fuel and related taxes.   The volatility in fuel prices impacts the comparability of year-over-year financial performance. The adjustment for aircraft fuel and related taxes allows investors to better understand and analyze our non-fuel costs and year-over-year financial performance.
+•  MRO expense.   We adjust for MRO expenses because this adjustment allows investors to better understand and analyze our recurring cost performance and provides a more meaningful comparison of our core operating costs to the airline industry.
+•  Profit sharing.   We adjust for profit sharing because this adjustment allows investors to better understand and analyze our recurring cost performance and provides a more meaningful comparison of our core operating costs to the airline industry.
+Total revenue, adjusted reconciliation
+Three Months Ended March 31,
+(in millions)    2026    2025
+Total revenue    $    15,854      $    14,040
+Adjusted for:
+Third-party refinery sales    (1,654)     (1,062)
+Total revenue, adjusted    $    14,200      $    12,978
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+25
+Item 2. MD&A - Supplemental Information
+Operating expense, adjusted reconciliation
+Three Months Ended March 31,
+(in millions)    2026     2025
+Operating expense    $    15,353       $    13,471
+Adjusted for:
+Third-party refinery sales    (1,654)      (1,062)
+MTM adjustments and settlements on hedges    (151)      (15)
+Operating expense, adjusted    $    13,549       $    12,394
+Fuel expense, adjusted reconciliation
+Average Price Per Gallon
+Three Months Ended March 31,
+Three Months Ended March 31,
+(in millions, except per gallon data)     2026    2025      2026    2025
+Total fuel expense     $    2,742      $    2,410        $    2.78      $    2.47
+Adjusted for:
+MTM adjustments and settlements on hedges    (151)     (15)       (0.15)     (0.02)
+Total fuel expense, adjusted    $    2,591      $    2,395        $    2.62      $    2.45
+TRASM, adjusted reconciliation
+Three Months Ended March 31,
+2026    2025
+TRASM (cents)    22.92     ¢    20.53     ¢
+Adjusted for:
+Third-party refinery sales    (2.39)     (1.55)
+TRASM, adjusted    20.53     ¢    18.97     ¢
+CASM-Ex reconciliation
+Three Months Ended March 31,
+2026    2025
+CASM (cents)    22.20     ¢    19.69     ¢
+Adjusted for:
+Aircraft fuel and related taxes    (3.96)     (3.52)
+Third-party refinery sales    (2.39)     (1.55)
+MRO expense    (0.47)     (0.20)
+Profit sharing    (0.24)     (0.18)
+CASM-Ex    15.13     ¢    14.23     ¢
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+26
+Item 2. MD&A - Supplemental Information
+Free Cash Flow
+The following table shows a reconciliation of net cash provided by operating and used in investing activities (GAAP measures) to free cash flow (a non-GAAP financial measure). We present free cash flow because management believes this metric is helpful to investors to evaluate the company's ability to generate cash that is available for use for debt service or general corporate initiatives. Adjustments include:
+•  Pension plan contributions.   Cash flows related to pension funding are included in our GAAP operating activities. We adjust to exclude these contributions to allow investors to understand the cash flows related to our core operations.
+•  Net cash flows related to certain airport construction projects and other.   Cash flows related to certain airport construction projects are included in our GAAP operating activities and capital expenditures. We have adjusted for these items because management believes investors should be informed that a portion of these capital expenditures from airport construction projects are either reimbursed by a third party or funded with restricted cash specific to these projects.
+•  Strategic investments and related.   Certain cash flows related to our investments in and related transactions with other airlines and associated companies are included in our GAAP investing activities. We adjust for this activity because it provides a more meaningful comparison to our airline industry peers.
+Free cash flow reconciliation
+(in millions)
+Three Months Ended March 31, 2026
+Net cash provided by operating activities    $    2,432
+Net cash used in investing activities    (1,263)
+Adjusted for:
+Pension plan contributions    1
+Net cash flows related to certain airport construction projects and other    4
+Strategic investments and related    54
+Free cash flow    $    1,227
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+27
+Item 3. Market Risk
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+There have been no material changes in market risk from the information provided in "Item 7A. Quantitative and Qualitative Disclosures About Market Risk" in our Form 10-K.
+ITEM 4. CONTROLS AND PROCEDURES
+Our management, including our Chief Executive Officer and Chief Financial Officer, performed an evaluation of our disclosure controls and procedures, which have been designed to permit us to identify and disclose important information timely and effectively. Our management, including our Chief Executive Officer and Chief Financial Officer, concluded that the controls and procedures were effective as of March 31, 2026 to ensure that material information was accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+During the three months ended March 31, 2026, we did not make any changes in our internal control over financial reporting that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS
+"Item 3. Legal Proceedings" of our Form 10-K includes a discussion of our legal proceedings. There have been no material changes from the legal proceedings described in our Form 10-K.
+ITEM 1A. RISK FACTORS
+“Item 1A. Risk Factors” of our Form 10-K includes a discussion of our known material risk factors, other than risks that could apply to any issuer or offering. There have been no material changes from the risk factors described in our Form 10-K.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+The following table presents information with respect to purchases of common stock we made during the March 2026 quarter. The table reflects shares withheld from employees to satisfy certain tax obligations due in connection with grants of stock under the Delta Air Lines, Inc. Performance Compensation Plan (the "Plan"). The Plan provides for the withholding of shares to satisfy tax obligations. It does not specify a maximum number of shares that can be withheld for this purpose. The shares of common stock withheld to satisfy tax withholding obligations may be deemed to be "issuer purchases" of shares that are required to be disclosed pursuant to this Item.
+In the June 2025 quarter, the Board of Directors authorized a $1.0 billion opportunistic share repurchase program open through June 30, 2028. No shares have been repurchased under this program through March 31, 2026.
+Shares purchased / withheld from employee awards during the March 2026 quarter
+Period    Total Number of Shares Purchased    Average Price Paid Per Share    Total Number of Shares Purchased as Part of Publicly Announced Plans    Approximate Dollar Value (in millions) of Shares That May Yet be Purchased Under the Plan
+January 2026    648,362      $    65.97      648,362      $    1,000
+February 2026    1,573,416      $    70.85      1,573,416      $    1,000
+March 2026    8,377      $    65.73      8,377      $    1,000
+Total    2,230,155       2,230,155
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+28
+ITEM 6. EXHIBITS
+(a) Exhibits
+3.1 (a)
+Delta's Amended and Restated Certificate of Incorporation (Filed as Exhibit 3.1 to Delta's Current Report on Form 8-K as filed on April 30, 2007).*
+3.1 (b)
+Amendment to Amended and Restated Certificate of Incorporation (Filed as Exhibit 3.1 to Delta's Current Report on Form 8-K as filed on June 27, 2014).*
+3.2
+Delta's Bylaws (Filed as Exhibit 3.1 to Delta's Current Report on Form 8-K as filed on December 9, 2022).*
+4.1
+Description of Registrant's Securities (Filed as Exhibit 4.1 to Delta's Annual Report on Form 10-K for the year ended December 31, 2020).*
+10.1
+Model Award Agreement for the Delta Air Lines, Inc. 2026 Long-Term Incentive Program.
+10.2 (a)
+Amendment No. 22 dated as of January 27, 2026, to the Airbus A330-900 Aircraft and A350-900 Aircraft Purchase Agreement, dated as of November 24, 2014, between Airbus S.A.S. and Delta Air Lines, Inc. ("Amendment No. 22").**
+10.2 (b)
+Letter Agreements, dated as of January 27, 2026, relating to Amendment No. 22**
+10.3 (a)
+Purchase Agreement Number PA-05602, dated January 12, 2026, between The Boeing Company and Delta Air Lines, Inc. relating to Boeing Model 787-10 Aircraft ("Purchase Agreement Number PA-05602").**
+10.3 (b)
+Letter Agreements, dated January 12, 2026, relating to Purchase Agreement Number PA-05602.**
+15
+Letter from Ernst & Young LLP regarding unaudited interim financial information .
+31.1
+Certification by Delta's Chief Executive Officer with respect to Delta's Quarterly Report on Form 10-Q for the quarterly period ended   March 31, 2026  .
+31.2
+Certification by Delta's Chief Financial Officer with respect to Delta's Quarterly Report on Form 10-Q for the quarterly period ended   March 31, 2026  .
+32
+Certification pursuant to Section 1350 of Chapter 63 of Title 18 of the United States Code by Delta's Chief Executive Officer and Chief Financial Officer with respect to Delta's Quarterly Report on Form 10-Q for the quarterly period ended   March 31, 2026  .
+101.INS     Inline XBRL Instance Document - The instance document does not appear in the interactive data file because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH     Inline XBRL Taxonomy Extension Schema Document
+101.CAL     Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF     Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB     Inline XBRL Taxonomy Extension Labels Linkbase Document
+101.PRE     Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+The cover page from this Quarterly Report on Form 10-Q for the quarter ended March 31, 2026, formatted in Inline XBRL (included in Exhibit 101)
+*    Incorporated by reference.
+**    Portions of this exhibit have been omitted as confidential information.
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+29
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+Delta Air Lines, Inc.
+(Registrant)
+/s/ Julia A. McConnell
+Julia A. McConnell
+Senior Vice President - Controller and Chief Accounting Officer
+(Principal Accounting Officer)
+April 8, 2026
+Delta Air Lines, Inc. | March 2026 Form 10-Q
+30

@@ -1,0 +1,859 @@
+{
+  "classified_record_count": 10004,
+  "classifier": "deterministic_sec_company_events_v1",
+  "documents_modified": 0,
+  "event_types_counts": {
+    "buyback": 867,
+    "cybersecurity": 187,
+    "dividend": 983,
+    "earnings": 6348,
+    "financing": 1335,
+    "guidance": 2360,
+    "litigation_regulatory": 2770,
+    "management_change": 254,
+    "merger_acquisition": 3169,
+    "product": 282
+  },
+  "multi_label_record_count": 3808,
+  "network_sources_added": 0,
+  "record_count": 14383,
+  "rule_match_counts": {
+    "buyback:buyback": 721,
+    "buyback:share_repurchase": 768,
+    "cybersecurity:cyber_incident": 53,
+    "cybersecurity:data_breach": 140,
+    "dividend:cash_dividend": 978,
+    "dividend:declares_dividend": 11,
+    "earnings:earnings_results": 3765,
+    "earnings:form_10-k": 582,
+    "earnings:form_10-q": 1811,
+    "earnings:reports_results": 1006,
+    "financing:credit": 809,
+    "financing:offering": 636,
+    "guidance:forecast_update": 64,
+    "guidance:guidance": 2355,
+    "litigation_regulatory:litigation": 2660,
+    "litigation_regulatory:regulatory": 411,
+    "management_change:appointment": 106,
+    "management_change:departure": 158,
+    "merger_acquisition:acquisition": 2978,
+    "merger_acquisition:merger": 738,
+    "product:product_approval": 282
+  },
+  "symbol_coverage": {
+    "AAPL": {
+      "classified": 42,
+      "unclassified": 13
+    },
+    "ABBV": {
+      "classified": 90,
+      "unclassified": 4
+    },
+    "ABNB": {
+      "classified": 43,
+      "unclassified": 6
+    },
+    "ABT": {
+      "classified": 43,
+      "unclassified": 24
+    },
+    "ACN": {
+      "classified": 33,
+      "unclassified": 10
+    },
+    "ADBE": {
+      "classified": 46,
+      "unclassified": 10
+    },
+    "ADI": {
+      "classified": 54,
+      "unclassified": 15
+    },
+    "ADP": {
+      "classified": 47,
+      "unclassified": 12
+    },
+    "ADSK": {
+      "classified": 39,
+      "unclassified": 8
+    },
+    "ALB": {
+      "classified": 36,
+      "unclassified": 29
+    },
+    "AMAT": {
+      "classified": 44,
+      "unclassified": 21
+    },
+    "AMD": {
+      "classified": 53,
+      "unclassified": 18
+    },
+    "AMGN": {
+      "classified": 31,
+      "unclassified": 7
+    },
+    "AMT": {
+      "classified": 64,
+      "unclassified": 39
+    },
+    "AMZN": {
+      "classified": 53,
+      "unclassified": 26
+    },
+    "ANET": {
+      "classified": 38,
+      "unclassified": 12
+    },
+    "AVGO": {
+      "classified": 51,
+      "unclassified": 19
+    },
+    "AXP": {
+      "classified": 55,
+      "unclassified": 71
+    },
+    "AZO": {
+      "classified": 37,
+      "unclassified": 28
+    },
+    "BA": {
+      "classified": 63,
+      "unclassified": 20
+    },
+    "BAC": {
+      "classified": 24,
+      "unclassified": 6
+    },
+    "BDX": {
+      "classified": 60,
+      "unclassified": 22
+    },
+    "BKNG": {
+      "classified": 44,
+      "unclassified": 17
+    },
+    "BLK": {
+      "classified": 18,
+      "unclassified": 4
+    },
+    "BMY": {
+      "classified": 57,
+      "unclassified": 12
+    },
+    "BRK.B": {
+      "classified": 34,
+      "unclassified": 21
+    },
+    "BSX": {
+      "classified": 59,
+      "unclassified": 18
+    },
+    "BX": {
+      "classified": 60,
+      "unclassified": 26
+    },
+    "C": {
+      "classified": 12,
+      "unclassified": 35
+    },
+    "CARR": {
+      "classified": 57,
+      "unclassified": 29
+    },
+    "CAT": {
+      "classified": 67,
+      "unclassified": 12
+    },
+    "CB": {
+      "classified": 44,
+      "unclassified": 26
+    },
+    "CCI": {
+      "classified": 76,
+      "unclassified": 36
+    },
+    "CCL": {
+      "classified": 64,
+      "unclassified": 19
+    },
+    "CDNS": {
+      "classified": 61,
+      "unclassified": 6
+    },
+    "CHTR": {
+      "classified": 93,
+      "unclassified": 21
+    },
+    "CI": {
+      "classified": 53,
+      "unclassified": 26
+    },
+    "CL": {
+      "classified": 19,
+      "unclassified": 19
+    },
+    "CMCSA": {
+      "classified": 51,
+      "unclassified": 52
+    },
+    "CME": {
+      "classified": 52,
+      "unclassified": 18
+    },
+    "CMG": {
+      "classified": 50,
+      "unclassified": 20
+    },
+    "COIN": {
+      "classified": 39,
+      "unclassified": 15
+    },
+    "COP": {
+      "classified": 58,
+      "unclassified": 22
+    },
+    "COST": {
+      "classified": 63,
+      "unclassified": 17
+    },
+    "CRM": {
+      "classified": 46,
+      "unclassified": 20
+    },
+    "CRWD": {
+      "classified": 40,
+      "unclassified": 10
+    },
+    "CSCO": {
+      "classified": 47,
+      "unclassified": 16
+    },
+    "CSX": {
+      "classified": 25,
+      "unclassified": 23
+    },
+    "CVNA": {
+      "classified": 54,
+      "unclassified": 7
+    },
+    "CVS": {
+      "classified": 49,
+      "unclassified": 29
+    },
+    "CVX": {
+      "classified": 45,
+      "unclassified": 27
+    },
+    "D": {
+      "classified": 67,
+      "unclassified": 58
+    },
+    "DAL": {
+      "classified": 58,
+      "unclassified": 18
+    },
+    "DDOG": {
+      "classified": 41,
+      "unclassified": 6
+    },
+    "DE": {
+      "classified": 48,
+      "unclassified": 29
+    },
+    "DELL": {
+      "classified": 71,
+      "unclassified": 69
+    },
+    "DG": {
+      "classified": 44,
+      "unclassified": 10
+    },
+    "DHI": {
+      "classified": 49,
+      "unclassified": 12
+    },
+    "DHR": {
+      "classified": 49,
+      "unclassified": 15
+    },
+    "DIS": {
+      "classified": 37,
+      "unclassified": 29
+    },
+    "DLTR": {
+      "classified": 79,
+      "unclassified": 22
+    },
+    "DUK": {
+      "classified": 65,
+      "unclassified": 33
+    },
+    "DVN": {
+      "classified": 79,
+      "unclassified": 13
+    },
+    "DXCM": {
+      "classified": 53,
+      "unclassified": 19
+    },
+    "EL": {
+      "classified": 44,
+      "unclassified": 16
+    },
+    "ELV": {
+      "classified": 44,
+      "unclassified": 7
+    },
+    "EMR": {
+      "classified": 52,
+      "unclassified": 11
+    },
+    "EOG": {
+      "classified": 47,
+      "unclassified": 26
+    },
+    "EQIX": {
+      "classified": 50,
+      "unclassified": 32
+    },
+    "ETN": {
+      "classified": 49,
+      "unclassified": 24
+    },
+    "EW": {
+      "classified": 73,
+      "unclassified": 61
+    },
+    "F": {
+      "classified": 115,
+      "unclassified": 159
+    },
+    "FANG": {
+      "classified": 101,
+      "unclassified": 15
+    },
+    "FCX": {
+      "classified": 41,
+      "unclassified": 16
+    },
+    "FDX": {
+      "classified": 63,
+      "unclassified": 31
+    },
+    "FISV": {
+      "classified": 46,
+      "unclassified": 21
+    },
+    "FSLR": {
+      "classified": 41,
+      "unclassified": 12
+    },
+    "FTNT": {
+      "classified": 41,
+      "unclassified": 8
+    },
+    "GE": {
+      "classified": 40,
+      "unclassified": 15
+    },
+    "GILD": {
+      "classified": 52,
+      "unclassified": 10
+    },
+    "GIS": {
+      "classified": 48,
+      "unclassified": 30
+    },
+    "GM": {
+      "classified": 30,
+      "unclassified": 22
+    },
+    "GOOG": {
+      "classified": 62,
+      "unclassified": 17
+    },
+    "GOOGL": {
+      "classified": 62,
+      "unclassified": 17
+    },
+    "GS": {
+      "classified": 14,
+      "unclassified": 14
+    },
+    "HAL": {
+      "classified": 35,
+      "unclassified": 15
+    },
+    "HCA": {
+      "classified": 58,
+      "unclassified": 16
+    },
+    "HD": {
+      "classified": 53,
+      "unclassified": 10
+    },
+    "HLT": {
+      "classified": 31,
+      "unclassified": 31
+    },
+    "HON": {
+      "classified": 88,
+      "unclassified": 46
+    },
+    "HSY": {
+      "classified": 37,
+      "unclassified": 39
+    },
+    "HUM": {
+      "classified": 87,
+      "unclassified": 12
+    },
+    "IBM": {
+      "classified": 84,
+      "unclassified": 29
+    },
+    "ICE": {
+      "classified": 58,
+      "unclassified": 17
+    },
+    "INTC": {
+      "classified": 58,
+      "unclassified": 32
+    },
+    "INTU": {
+      "classified": 32,
+      "unclassified": 10
+    },
+    "ISRG": {
+      "classified": 49,
+      "unclassified": 15
+    },
+    "ITW": {
+      "classified": 27,
+      "unclassified": 19
+    },
+    "JNJ": {
+      "classified": 61,
+      "unclassified": 23
+    },
+    "JPM": {
+      "classified": 29,
+      "unclassified": 15
+    },
+    "KDP": {
+      "classified": 94,
+      "unclassified": 24
+    },
+    "KLAC": {
+      "classified": 60,
+      "unclassified": 21
+    },
+    "KO": {
+      "classified": 40,
+      "unclassified": 21
+    },
+    "KVUE": {
+      "classified": 42,
+      "unclassified": 8
+    },
+    "LIN": {
+      "classified": 34,
+      "unclassified": 38
+    },
+    "LLY": {
+      "classified": 28,
+      "unclassified": 13
+    },
+    "LMT": {
+      "classified": 45,
+      "unclassified": 10
+    },
+    "LOW": {
+      "classified": 56,
+      "unclassified": 12
+    },
+    "LRCX": {
+      "classified": 45,
+      "unclassified": 11
+    },
+    "LULU": {
+      "classified": 48,
+      "unclassified": 20
+    },
+    "MA": {
+      "classified": 49,
+      "unclassified": 20
+    },
+    "MAR": {
+      "classified": 44,
+      "unclassified": 11
+    },
+    "MCD": {
+      "classified": 46,
+      "unclassified": 23
+    },
+    "MCHP": {
+      "classified": 50,
+      "unclassified": 23
+    },
+    "MCK": {
+      "classified": 46,
+      "unclassified": 21
+    },
+    "MDLZ": {
+      "classified": 27,
+      "unclassified": 29
+    },
+    "MDT": {
+      "classified": 50,
+      "unclassified": 10
+    },
+    "META": {
+      "classified": 34,
+      "unclassified": 14
+    },
+    "MMM": {
+      "classified": 53,
+      "unclassified": 21
+    },
+    "MNST": {
+      "classified": 51,
+      "unclassified": 17
+    },
+    "MO": {
+      "classified": 61,
+      "unclassified": 15
+    },
+    "MPC": {
+      "classified": 27,
+      "unclassified": 18
+    },
+    "MPWR": {
+      "classified": 43,
+      "unclassified": 8
+    },
+    "MRK": {
+      "classified": 44,
+      "unclassified": 19
+    },
+    "MRNA": {
+      "classified": 51,
+      "unclassified": 18
+    },
+    "MRSH": {
+      "classified": 44,
+      "unclassified": 24
+    },
+    "MRVL": {
+      "classified": 77,
+      "unclassified": 13
+    },
+    "MS": {
+      "classified": 7,
+      "unclassified": 5
+    },
+    "MSFT": {
+      "classified": 43,
+      "unclassified": 20
+    },
+    "MU": {
+      "classified": 51,
+      "unclassified": 21
+    },
+    "NEE": {
+      "classified": 64,
+      "unclassified": 40
+    },
+    "NEM": {
+      "classified": 34,
+      "unclassified": 24
+    },
+    "NFLX": {
+      "classified": 46,
+      "unclassified": 13
+    },
+    "NKE": {
+      "classified": 43,
+      "unclassified": 13
+    },
+    "NOC": {
+      "classified": 41,
+      "unclassified": 7
+    },
+    "NOW": {
+      "classified": 31,
+      "unclassified": 10
+    },
+    "NVDA": {
+      "classified": 26,
+      "unclassified": 16
+    },
+    "NXPI": {
+      "classified": 61,
+      "unclassified": 4
+    },
+    "O": {
+      "classified": 91,
+      "unclassified": 36
+    },
+    "ODFL": {
+      "classified": 70,
+      "unclassified": 19
+    },
+    "OKE": {
+      "classified": 83,
+      "unclassified": 41
+    },
+    "ON": {
+      "classified": 42,
+      "unclassified": 32
+    },
+    "ORCL": {
+      "classified": 46,
+      "unclassified": 16
+    },
+    "ORLY": {
+      "classified": 49,
+      "unclassified": 41
+    },
+    "OXY": {
+      "classified": 69,
+      "unclassified": 36
+    },
+    "PANW": {
+      "classified": 56,
+      "unclassified": 14
+    },
+    "PCG": {
+      "classified": 51,
+      "unclassified": 45
+    },
+    "PEP": {
+      "classified": 56,
+      "unclassified": 10
+    },
+    "PFE": {
+      "classified": 57,
+      "unclassified": 8
+    },
+    "PG": {
+      "classified": 46,
+      "unclassified": 34
+    },
+    "PGR": {
+      "classified": 85,
+      "unclassified": 9
+    },
+    "PH": {
+      "classified": 33,
+      "unclassified": 17
+    },
+    "PLD": {
+      "classified": 73,
+      "unclassified": 17
+    },
+    "PLTR": {
+      "classified": 36,
+      "unclassified": 5
+    },
+    "PM": {
+      "classified": 74,
+      "unclassified": 36
+    },
+    "PNC": {
+      "classified": 26,
+      "unclassified": 55
+    },
+    "PSX": {
+      "classified": 43,
+      "unclassified": 32
+    },
+    "PYPL": {
+      "classified": 37,
+      "unclassified": 26
+    },
+    "QCOM": {
+      "classified": 43,
+      "unclassified": 12
+    },
+    "RCL": {
+      "classified": 70,
+      "unclassified": 19
+    },
+    "REGN": {
+      "classified": 41,
+      "unclassified": 17
+    },
+    "RMD": {
+      "classified": 44,
+      "unclassified": 12
+    },
+    "ROST": {
+      "classified": 46,
+      "unclassified": 7
+    },
+    "RTX": {
+      "classified": 41,
+      "unclassified": 23
+    },
+    "SBUX": {
+      "classified": 46,
+      "unclassified": 21
+    },
+    "SCHW": {
+      "classified": 48,
+      "unclassified": 17
+    },
+    "SHW": {
+      "classified": 38,
+      "unclassified": 7
+    },
+    "SLB": {
+      "classified": 41,
+      "unclassified": 28
+    },
+    "SMCI": {
+      "classified": 57,
+      "unclassified": 42
+    },
+    "SNPS": {
+      "classified": 66,
+      "unclassified": 14
+    },
+    "SO": {
+      "classified": 52,
+      "unclassified": 38
+    },
+    "SPGI": {
+      "classified": 47,
+      "unclassified": 20
+    },
+    "SYK": {
+      "classified": 59,
+      "unclassified": 12
+    },
+    "T": {
+      "classified": 81,
+      "unclassified": 22
+    },
+    "TFC": {
+      "classified": 54,
+      "unclassified": 57
+    },
+    "TGT": {
+      "classified": 40,
+      "unclassified": 15
+    },
+    "TJX": {
+      "classified": 26,
+      "unclassified": 8
+    },
+    "TMO": {
+      "classified": 48,
+      "unclassified": 10
+    },
+    "TMUS": {
+      "classified": 105,
+      "unclassified": 61
+    },
+    "TSCO": {
+      "classified": 70,
+      "unclassified": 8
+    },
+    "TSLA": {
+      "classified": 46,
+      "unclassified": 28
+    },
+    "TXN": {
+      "classified": 32,
+      "unclassified": 27
+    },
+    "UAL": {
+      "classified": 62,
+      "unclassified": 18
+    },
+    "UBER": {
+      "classified": 49,
+      "unclassified": 10
+    },
+    "ULTA": {
+      "classified": 45,
+      "unclassified": 19
+    },
+    "UNH": {
+      "classified": 33,
+      "unclassified": 41
+    },
+    "UNP": {
+      "classified": 48,
+      "unclassified": 10
+    },
+    "UPS": {
+      "classified": 30,
+      "unclassified": 45
+    },
+    "URI": {
+      "classified": 59,
+      "unclassified": 21
+    },
+    "USB": {
+      "classified": 42,
+      "unclassified": 36
+    },
+    "V": {
+      "classified": 47,
+      "unclassified": 13
+    },
+    "VLO": {
+      "classified": 36,
+      "unclassified": 27
+    },
+    "VRTX": {
+      "classified": 47,
+      "unclassified": 10
+    },
+    "VZ": {
+      "classified": 81,
+      "unclassified": 32
+    },
+    "WDAY": {
+      "classified": 61,
+      "unclassified": 14
+    },
+    "WFC": {
+      "classified": 24,
+      "unclassified": 13
+    },
+    "WMT": {
+      "classified": 16,
+      "unclassified": 37
+    },
+    "XEL": {
+      "classified": 45,
+      "unclassified": 50
+    },
+    "XOM": {
+      "classified": 5,
+      "unclassified": 11
+    },
+    "XYZ": {
+      "classified": 49,
+      "unclassified": 14
+    }
+  },
+  "taxonomy": [
+    "earnings",
+    "guidance",
+    "merger_acquisition",
+    "buyback",
+    "dividend",
+    "financing",
+    "litigation_regulatory",
+    "management_change",
+    "product",
+    "cybersecurity"
+  ],
+  "unclassified_record_count": 4379,
+  "version": 1
+}

@@ -1,0 +1,811 @@
+hal-20240930
+0000045012  December 31  878,501,985  2024  Q3  false        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      hal:Division    xbrli:pure    hal:Customers     0000045012    2024-01-01  2024-09-30      0000045012    2024-10-31      0000045012   us-gaap:ServiceMember     2024-07-01  2024-09-30      0000045012   us-gaap:ServiceMember     2023-07-01  2023-09-30      0000045012   us-gaap:ServiceMember     2024-01-01  2024-09-30      0000045012   us-gaap:ServiceMember     2023-01-01  2023-09-30      0000045012   us-gaap:ProductMember     2024-07-01  2024-09-30      0000045012   us-gaap:ProductMember     2023-07-01  2023-09-30      0000045012   us-gaap:ProductMember     2024-01-01  2024-09-30      0000045012   us-gaap:ProductMember     2023-01-01  2023-09-30      0000045012    2024-07-01  2024-09-30      0000045012    2023-07-01  2023-09-30      0000045012    2023-01-01  2023-09-30      0000045012    2024-09-30      0000045012    2023-12-31      0000045012    2022-12-31      0000045012    2023-09-30      0000045012   hal:CompletionAndProductionMember     2024-01-01  2024-09-30      0000045012   hal:CompletionAndProductionMember     2024-07-01  2024-09-30      0000045012   hal:DrillingAndEvaluationMember     2024-07-01  2024-09-30      0000045012   hal:DrillingAndEvaluationMember     2024-01-01  2024-09-30      0000045012   us-gaap:CorporateAndOtherMember     2024-07-01  2024-09-30      0000045012   us-gaap:CorporateAndOtherMember     2024-01-01  2024-09-30      0000045012   hal:CompletionAndProductionMember     2023-07-01  2023-09-30      0000045012   hal:CompletionAndProductionMember     2023-01-01  2023-09-30      0000045012   hal:DrillingAndEvaluationMember     2023-07-01  2023-09-30      0000045012   hal:DrillingAndEvaluationMember     2023-01-01  2023-09-30      0000045012   us-gaap:OperatingSegmentsMember  hal:CompletionAndProductionMember     2024-07-01  2024-09-30      0000045012   us-gaap:OperatingSegmentsMember  hal:CompletionAndProductionMember     2023-07-01  2023-09-30      0000045012   us-gaap:OperatingSegmentsMember  hal:CompletionAndProductionMember     2024-01-01  2024-09-30      0000045012   us-gaap:OperatingSegmentsMember  hal:CompletionAndProductionMember     2023-01-01  2023-09-30      0000045012   us-gaap:OperatingSegmentsMember  hal:DrillingAndEvaluationMember     2024-07-01  2024-09-30      0000045012   us-gaap:OperatingSegmentsMember  hal:DrillingAndEvaluationMember     2023-07-01  2023-09-30      0000045012   us-gaap:OperatingSegmentsMember  hal:DrillingAndEvaluationMember     2024-01-01  2024-09-30      0000045012   us-gaap:OperatingSegmentsMember  hal:DrillingAndEvaluationMember     2023-01-01  2023-09-30      0000045012   us-gaap:OperatingSegmentsMember     2024-07-01  2024-09-30      0000045012   us-gaap:OperatingSegmentsMember     2023-07-01  2023-09-30      0000045012   us-gaap:OperatingSegmentsMember     2024-01-01  2024-09-30      0000045012   us-gaap:OperatingSegmentsMember     2023-01-01  2023-09-30      0000045012   us-gaap:CorporateAndOtherMember     2023-07-01  2023-09-30      0000045012   us-gaap:CorporateAndOtherMember     2023-01-01  2023-09-30      0000045012   srt:MinimumMember     2024-01-01  2024-09-30      0000045012   srt:MaximumMember     2024-01-01  2024-09-30      0000045012   country:US  us-gaap:GeographicConcentrationRiskMember  us-gaap:SalesRevenueNetMember     2024-01-01  2024-09-30      0000045012   country:US  us-gaap:GeographicConcentrationRiskMember  us-gaap:SalesRevenueNetMember     2023-01-01  2023-09-30      0000045012   srt:NorthAmericaMember     2024-07-01  2024-09-30      0000045012   srt:NorthAmericaMember     2023-07-01  2023-09-30      0000045012   srt:NorthAmericaMember     2024-01-01  2024-09-30      0000045012   srt:NorthAmericaMember     2023-01-01  2023-09-30      0000045012   srt:LatinAmericaMember     2024-07-01  2024-09-30      0000045012   srt:LatinAmericaMember     2023-07-01  2023-09-30      0000045012   srt:LatinAmericaMember     2024-01-01  2024-09-30      0000045012   srt:LatinAmericaMember     2023-01-01  2023-09-30      0000045012   hal:EuropeAfricaCISMember     2024-07-01  2024-09-30      0000045012   hal:EuropeAfricaCISMember     2023-07-01  2023-09-30      0000045012   hal:EuropeAfricaCISMember     2024-01-01  2024-09-30      0000045012   hal:EuropeAfricaCISMember     2023-01-01  2023-09-30      0000045012   hal:MiddleEastAsiaMember     2024-07-01  2024-09-30      0000045012   hal:MiddleEastAsiaMember     2023-07-01  2023-09-30      0000045012   hal:MiddleEastAsiaMember     2024-01-01  2024-09-30      0000045012   hal:MiddleEastAsiaMember     2023-01-01  2023-09-30      0000045012   country:US  us-gaap:GeographicConcentrationRiskMember  us-gaap:AccountsReceivableMember     2024-01-01  2024-09-30      0000045012   country:MX  us-gaap:GeographicConcentrationRiskMember  us-gaap:AccountsReceivableMember     2024-01-01  2024-09-30      0000045012   country:US  us-gaap:GeographicConcentrationRiskMember  us-gaap:AccountsReceivableMember     2023-01-01  2023-12-31      0000045012   country:MX  us-gaap:GeographicConcentrationRiskMember  us-gaap:AccountsReceivableMember     2023-01-01  2023-12-31      0000045012   country:MX  us-gaap:CustomerConcentrationRiskMember  us-gaap:AccountsReceivableMember     2024-01-01  2024-09-30      0000045012   country:MX  us-gaap:CustomerConcentrationRiskMember  us-gaap:AccountsReceivableMember     2023-01-01  2023-12-31      0000045012   us-gaap:CommonStockMember     2023-12-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2023-12-31      0000045012   us-gaap:TreasuryStockCommonMember     2023-12-31      0000045012   us-gaap:RetainedEarningsMember     2023-12-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-12-31      0000045012   us-gaap:NoncontrollingInterestMember     2023-12-31      0000045012   us-gaap:CommonStockMember     2024-01-01  2024-03-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2024-01-01  2024-03-31      0000045012   us-gaap:TreasuryStockCommonMember     2024-01-01  2024-03-31      0000045012   us-gaap:RetainedEarningsMember     2024-01-01  2024-03-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-01-01  2024-03-31      0000045012   us-gaap:NoncontrollingInterestMember     2024-01-01  2024-03-31      0000045012    2024-01-01  2024-03-31      0000045012   us-gaap:CommonStockMember     2024-03-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2024-03-31      0000045012   us-gaap:TreasuryStockCommonMember     2024-03-31      0000045012   us-gaap:RetainedEarningsMember     2024-03-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-03-31      0000045012   us-gaap:NoncontrollingInterestMember     2024-03-31      0000045012    2024-03-31      0000045012   us-gaap:CommonStockMember     2024-04-01  2024-06-30      0000045012   us-gaap:AdditionalPaidInCapitalMember     2024-04-01  2024-06-30      0000045012   us-gaap:TreasuryStockCommonMember     2024-04-01  2024-06-30      0000045012   us-gaap:RetainedEarningsMember     2024-04-01  2024-06-30      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-04-01  2024-06-30      0000045012   us-gaap:NoncontrollingInterestMember     2024-04-01  2024-06-30      0000045012    2024-04-01  2024-06-30      0000045012   us-gaap:CommonStockMember     2024-06-30      0000045012   us-gaap:AdditionalPaidInCapitalMember     2024-06-30      0000045012   us-gaap:TreasuryStockCommonMember     2024-06-30      0000045012   us-gaap:RetainedEarningsMember     2024-06-30      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-06-30      0000045012   us-gaap:NoncontrollingInterestMember     2024-06-30      0000045012    2024-06-30      0000045012   us-gaap:CommonStockMember     2024-07-01  2024-09-30      0000045012   us-gaap:AdditionalPaidInCapitalMember     2024-07-01  2024-09-30      0000045012   us-gaap:TreasuryStockCommonMember     2024-07-01  2024-09-30      0000045012   us-gaap:RetainedEarningsMember     2024-07-01  2024-09-30      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-07-01  2024-09-30      0000045012   us-gaap:NoncontrollingInterestMember     2024-07-01  2024-09-30      0000045012   us-gaap:CommonStockMember     2024-09-30      0000045012   us-gaap:AdditionalPaidInCapitalMember     2024-09-30      0000045012   us-gaap:TreasuryStockCommonMember     2024-09-30      0000045012   us-gaap:RetainedEarningsMember     2024-09-30      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-09-30      0000045012   us-gaap:NoncontrollingInterestMember     2024-09-30      0000045012   us-gaap:CommonStockMember     2022-12-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2022-12-31      0000045012   us-gaap:TreasuryStockCommonMember     2022-12-31      0000045012   us-gaap:RetainedEarningsMember     2022-12-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-12-31      0000045012   us-gaap:NoncontrollingInterestMember     2022-12-31      0000045012   us-gaap:CommonStockMember     2023-01-01  2023-03-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2023-01-01  2023-03-31      0000045012   us-gaap:TreasuryStockCommonMember     2023-01-01  2023-03-31      0000045012   us-gaap:RetainedEarningsMember     2023-01-01  2023-03-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-01-01  2023-03-31      0000045012   us-gaap:NoncontrollingInterestMember     2023-01-01  2023-03-31      0000045012    2023-01-01  2023-03-31      0000045012   us-gaap:CommonStockMember     2023-03-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2023-03-31      0000045012   us-gaap:TreasuryStockCommonMember     2023-03-31      0000045012   us-gaap:RetainedEarningsMember     2023-03-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-03-31      0000045012   us-gaap:NoncontrollingInterestMember     2023-03-31      0000045012    2023-03-31      0000045012   us-gaap:CommonStockMember     2023-04-01  2023-06-30      0000045012   us-gaap:AdditionalPaidInCapitalMember     2023-04-01  2023-06-30      0000045012   us-gaap:TreasuryStockCommonMember     2023-04-01  2023-06-30      0000045012   us-gaap:RetainedEarningsMember     2023-04-01  2023-06-30      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-04-01  2023-06-30      0000045012   us-gaap:NoncontrollingInterestMember     2023-04-01  2023-06-30      0000045012    2023-04-01  2023-06-30      0000045012   us-gaap:CommonStockMember     2023-06-30      0000045012   us-gaap:AdditionalPaidInCapitalMember     2023-06-30      0000045012   us-gaap:TreasuryStockCommonMember     2023-06-30      0000045012   us-gaap:RetainedEarningsMember     2023-06-30      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-06-30      0000045012   us-gaap:NoncontrollingInterestMember     2023-06-30      0000045012    2023-06-30      0000045012   us-gaap:CommonStockMember     2023-07-01  2023-09-30      0000045012   us-gaap:AdditionalPaidInCapitalMember     2023-07-01  2023-09-30      0000045012   us-gaap:TreasuryStockCommonMember     2023-07-01  2023-09-30      0000045012   us-gaap:RetainedEarningsMember     2023-07-01  2023-09-30      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-07-01  2023-09-30      0000045012   us-gaap:NoncontrollingInterestMember     2023-07-01  2023-09-30      0000045012   us-gaap:CommonStockMember     2023-09-30      0000045012   us-gaap:AdditionalPaidInCapitalMember     2023-09-30      0000045012   us-gaap:TreasuryStockCommonMember     2023-09-30      0000045012   us-gaap:RetainedEarningsMember     2023-09-30      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-09-30      0000045012   us-gaap:NoncontrollingInterestMember     2023-09-30      0000045012   us-gaap:FinancialGuaranteeMember     2024-09-30      0000045012   us-gaap:EmployeeStockOptionMember     2024-07-01  2024-09-30      0000045012   us-gaap:EmployeeStockOptionMember     2023-07-01  2023-09-30      0000045012   us-gaap:EmployeeStockOptionMember     2024-01-01  2024-09-30      0000045012   us-gaap:EmployeeStockOptionMember     2023-01-01  2023-09-30      0000045012   us-gaap:FairValueInputsLevel1Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-09-30      0000045012   us-gaap:FairValueInputsLevel2Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-09-30      0000045012   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-09-30      0000045012   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2024-09-30      0000045012   us-gaap:FairValueInputsLevel1Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-12-31      0000045012   us-gaap:FairValueInputsLevel2Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-12-31      0000045012   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-12-31      0000045012   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2023-12-31      0000045012   us-gaap:FairValueInputsLevel3Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2024-09-30      0000045012   us-gaap:FairValueInputsLevel3Member  us-gaap:EstimateOfFairValueFairValueDisclosureMember     2023-12-31      0000045012   hal:CDSContractAMember     2023-12-26      0000045012   hal:CDSContractAMember     2024-09-30      0000045012   hal:CDSContractAMember     2024-01-01  2024-09-30      0000045012   hal:CDSContractBMember     2024-08-05      0000045012   hal:CDSContractBMember     2024-09-30      0000045012   hal:CDSContractBMember     2024-01-01  2024-09-30
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  September 30, 2024
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _______to_______
+Commission File Number  001-03492
+HALLIBURTON COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware      75-2677995
+(State or other jurisdiction of incorporation or organization)    (I.R.S. Employer Identification No.)
+3000 North Sam Houston Parkway East,      Houston,      Texas      77032
+(Address of principal executive offices)    (Zip Code)
+( 281 )  871-2699
+(Registrant's telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol    Name of each exchange on which registered
+Common Stock, par value $2.50 per share      HAL      New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.                      ☒    Yes      ☐   No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).                                  ☒    Yes      ☐   No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer     ☒    Accelerated Filer    ☐
+Non-accelerated Filer    ☐    Smaller Reporting Company     ☐
+Emerging Growth Company     ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.       ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+☐    Yes     ☒   No
+As of October 31, 2024, there were  878,501,985  shares of Halliburton Company common stock, $2.50 par value per share, outstanding.
+HALLIBURTON COMPANY
+Index
+Page No.
+PART I.
+FINANCIAL INFORMATION
+1
+Item 1.
+Financial Statements
+1
+Condensed Consolidated Statements of Operations
+1
+Condensed Consolidated Statements of Comprehensive Income
+2
+Condensed Consolidated Balance Sheets
+3
+Condensed Consolidated Statements of Cash Flows
+4
+Notes to Condensed Consolidated Financial Statements
+5
+Note 1. Basis of Presentation
+5
+Note 2. Impairments and Other Charges
+5
+Note   3  . Business Segment Information
+6
+Note   4  . Revenue
+7
+Note   5  . Inventories
+8
+Note   6  . Accounts Payable
+8
+Note   7  . Income Taxes
+9
+Note   8  . Shareholders' Equity
+10
+Note   9  . Commitments and Contingencies
+12
+Note   10  . Income per Share
+12
+Note 1  1  . Fair Value of Financial Instruments
+12
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+14
+Executive Overview
+14
+Liquidity and Capital Resources
+17
+Business Environment and Results of Operations
+19
+Results of Operations in 2024 Compared to 2023 (QTD)
+21
+Results of Operations in 2024 Compared to 2023 (YTD)
+24
+Forward-Looking Information
+27
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+27
+Item 4.
+Controls and Procedures
+27
+PART II.
+OTHER INFORMATION
+28
+Item 1.
+Legal Proceedings
+28
+Item 1(a).
+Risk Factors
+28
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+29
+Item 3.
+Defaults Upon Senior Securities
+29
+Item 4.
+Mine Safety Disclosures
+29
+Item 5.
+Other Information
+29
+Item 6.
+Exhibits
+30
+SIGNATURES
+31
+Table of Contents
+PART I. FINANCIAL INFORMATION
+Item 1. Financial Statements
+HALLIBURTON COMPANY
+Condensed Consolidated Statements of Operations
+(Unaudited)
+Three Months Ended
+September 30,    Nine Months Ended
+September 30,
+Millions of dollars and shares except per share data    2024    2023    2024    2023
+Revenue:
+Services    $     4,093       $     4,131       $     12,454       $     12,478
+Product sales     1,604        1,673        4,880        4,801
+Total revenue     5,697        5,804        17,334        17,279
+Operating costs and expenses:
+Cost of services     3,361        3,349        10,206        10,152
+Cost of sales     1,266        1,337        3,853        3,900
+General and administrative     55        58        178        166
+Impairments and other charges     116        —        116        —
+SAP S4 upgrade expense     28        23        91        36
+Total operating costs and expenses     4,826        4,767        14,444        14,254
+Operating income     871        1,037        2,890        3,025
+Interest expense, net of interest income of $ 28 , $ 24 , $ 72 , and $ 59
+( 85 )     ( 94 )     ( 269 )     ( 297 )
+Loss on Blue Chip Swap transactions     —        —        —       ( 104 )
+Other, net    ( 52 )     ( 27 )     ( 180 )     ( 96 )
+Income before income taxes     734        916        2,441        2,528
+Income tax provision    ( 154 )     ( 192 )     ( 539 )     ( 533 )
+Net income    $     580       $     724       $     1,902       $     1,995
+Net income attributable to noncontrolling interest    ( 9 )     ( 8 )     ( 16 )     ( 18 )
+Net income attributable to company    $     571       $     716       $     1,886       $     1,977
+Basic net income per share    $     0.65       $     0.80       $     2.13       $     2.19
+Diluted net income per share    $     0.65       $     0.79       $     2.13       $     2.19
+Basic weighted average common shares outstanding     881        898        885        901
+Diluted weighted average common shares outstanding     881        902        886        904
+See notes to condensed consolidated financial statements.
+HAL Q3 2024 FORM 10-Q | 1
+Table of Contents
+HALLIBURTON COMPANY
+Condensed Consolidated Statements of Comprehensive Income
+(Unaudited)
+Three Months Ended
+September 30,    Nine Months Ended
+September 30,
+Millions of dollars    2024    2023    2024    2023
+Net income    $     580       $     724       $     1,902       $     1,995
+Other comprehensive income, net of income taxes     3        1        3        3
+Comprehensive income    $     583       $     725       $     1,905       $     1,998
+Comprehensive income attributable to noncontrolling interest    ( 9 )     ( 8 )     ( 17 )     ( 18 )
+Comprehensive income attributable to company shareholders    $     574       $     717       $     1,888       $     1,980
+See notes to condensed consolidated financial statements.
+HAL Q3 2024 FORM 10-Q | 2
+Table of Contents
+HALLIBURTON COMPANY
+Condensed Consolidated Balance Sheets
+(Unaudited)
+Millions of dollars and shares except per share data    September 30,
+2024    December 31,
+2023
+Assets
+Current assets:
+Cash and equivalents    $     2,178       $     2,264
+Receivables (net of allowances for credit losses of $ 756  and $ 742 )
+5,339        4,860
+Inventories     3,194        3,226
+Other current assets     1,332        1,193
+Total current assets     12,043        11,543
+Property, plant, and equipment (net of accumulated depreciation of $ 12,431  and $ 12,064 )
+4,945        4,900
+Goodwill     2,838        2,850
+Deferred income taxes     2,446        2,505
+Operating lease right-of-use assets     1,001        1,088
+Other assets     2,058        1,797
+Total assets    $     25,331       $     24,683
+Liabilities and Shareholders’ Equity
+Current liabilities:
+Accounts payable    $     3,009       $     3,147
+Accrued employee compensation and benefits     690        689
+Income tax payable     482        390
+Taxes other than income     281        370
+Current portion of operating lease liabilities     251        262
+Other current liabilities     747        750
+Total current liabilities     5,460        5,608
+Long-term debt     7,639        7,636
+Operating lease liabilities     805        911
+Employee compensation and benefits     392        408
+Other liabilities     683        687
+Total liabilities     14,979        15,250
+Shareholders’ equity:
+Common stock, par value $  2.50   per share (authorized   2,000   shares, issued  1,065  and  1,065  shares)
+2,662        2,663
+Paid-in capital in excess of par value     38        63
+Accumulated other comprehensive loss    ( 329 )     ( 331 )
+Retained earnings     13,865        12,536
+Treasury stock, at cost ( 187  and  176  shares)
+( 5,940 )     ( 5,540 )
+Company shareholders’ equity     10,296        9,391
+Noncontrolling interest in consolidated subsidiaries     56        42
+Total shareholders’ equity     10,352        9,433
+Total liabilities and shareholders’ equity    $     25,331       $     24,683
+See notes to condensed consolidated financial statements.
+HAL Q3 2024 FORM 10-Q | 3
+Table of Contents
+HALLIBURTON COMPANY
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+Nine Months Ended
+September 30,
+Millions of dollars     2024    2023
+Cash flows from operating activities:
+Net income     $     1,902       $     1,995
+Adjustments to reconcile net income to cash flows from operating activities:
+Depreciation, depletion, and amortization      804        742
+Impairments and other charges      116        —
+Changes in assets and liabilities:
+Receivables     ( 516 )     ( 522 )
+Accounts payable     ( 145 )      137
+Inventories      16       ( 413 )
+Other operating activities      232        109
+Total cash flows provided by operating activities      2,409        2,048
+Cash flows from investing activities:
+Capital expenditures     ( 1,016 )     ( 980 )
+Purchases of investment securities     ( 320 )     ( 301 )
+Proceeds from sales of property, plant, and equipment      149        136
+Sales of investment securities      137        112
+Other investing activities     ( 160 )     ( 91 )
+Total cash flows used in investing activities     ( 1,210 )     ( 1,124 )
+Cash flows from financing activities:
+Stock repurchase program     ( 696 )     ( 546 )
+Dividends to shareholders     ( 452 )     ( 433 )
+Payments on long-term borrowings      —       ( 150 )
+Other financing activities     ( 37 )      2
+Total cash flows used in financing activities     ( 1,185 )     ( 1,127 )
+Effect of exchange rate changes on cash     ( 100 )     ( 107 )
+Decrease in cash and equivalents     ( 86 )     ( 310 )
+Cash and equivalents at beginning of period      2,264        2,346
+Cash and equivalents at end of period     $     2,178       $     2,036
+Supplemental disclosure of cash flow information:
+Cash payments during the period for:
+Interest     $     336       $     355
+Income taxes     $     369       $     528
+See notes to condensed consolidated financial statements.
+HAL Q3 2024 FORM 10-Q | 4
+Table of Contents
+Part I. Item 1 | Notes to Condensed Consolidated Financial Statements
+HALLIBURTON COMPANY
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+Note 1.  Basis of Presentation
+The accompanying unaudited condensed consolidated financial statements were prepared using United States generally accepted accounting principles (U.S. GAAP) for interim financial information and the instructions to Form 10-Q and Regulation S-X. Accordingly, these financial statements do not include all information or notes required by U.S. GAAP for annual financial statements and should be read together with our 2023 Annual Report on Form 10-K.
+Our accounting policies are in accordance with U.S. GAAP. The preparation of financial statements in conformity with these accounting principles requires us to make estimates and assumptions that affect:
+•  the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements; and
+•  the reported amounts of revenue and expenses during the reporting period.
+Ultimate results could differ from our estimates.
+In our opinion, the condensed consolidated financial statements included herein contain all adjustments necessary to present fairly our financial position as of September 30, 2024, the results of our operations for the three and nine months ended September 30, 2024 and 2023, and our cash flows for the nine months ended September 30, 2024 and 2023. Such adjustments are of a normal recurring nature. In addition, certain reclassifications of prior period balances have been made to conform to the current period presentation.
+The results of our operations for the three and nine months ended September 30, 2024 may not be indicative of results for the full year.
+Note 2.  Impairments and Other Charges
+The following table presents various pre-tax charges we recorded during the three and nine months ended September 30, 2024, which are reflected within “Impairments and other charges” on our condensed consolidated statements of operations.
+Three Months Ended
+September 30,    Nine Months Ended
+September 30,
+Millions of dollars    2024     2024
+Severance    $     63        $     63
+Impairment of assets held for sale     49         49
+Cybersecurity incident     35         35
+Gain on equity investment    ( 43 )      ( 43 )
+Other     12         12
+Total impairments and other charges    $     116        $     116
+Of the   $  116   million   net charges recorded during the   three and nine months ended September 30, 2024  ,   $  45   million   was attributable to our Completion and Production segment,   $  34   million   was attributable to our Drilling and Evaluation segment, and   $  37   million   was attributable to Corporate and other.
+During the   three months ended September 30, 2024, we recorded $ 63  million in severance expense as we rationalized global headcount to reflect growth expectations.
+During the third quarter of 2024, we recorded a $ 49  million impairment associated with a strategic decision to market for sale a portion of our chemical business.
+HAL Q3 2024 FORM 10-Q | 5
+Table of Contents
+Part I. Item 1 | Notes to Condensed Consolidated Financial Statements
+As disclosed within our Form 8-Ks filed on August 23, 2024, and September 3, 2024, we became aware that an unauthorized third party gained access to certain of our systems. As a result, we incurred   $ 35  million   in expenses during the   three months ended September 30, 2024 related to the engagement of external advisors to assess and remediate the effects of the activity, and restore our systems, as well as legal fees, payroll related costs, and other expenses  .
+Additionally, we recognized a gain of   $ 43  million   related to a fair value adjustment on an equity investment during the   three months ended September 30, 2024  .
+During the three and nine months ended September 30, 2023, there were   no   amounts recorded in impairments and other charges.
+Note 3.  Business Segment Information
+We operate under  two  divisions, which form the basis for the  two  operating segments we report: the Completion and Production segment and the Drilling and Evaluation segment. Our equity in earnings and losses of unconsolidated affiliates that are accounted for using the equity method of accounting are included within cost of services and cost of sales on our statements of operations, which is part of operating income of the applicable segment.
+The following table presents information on our business segments.
+Three Months Ended
+September 30,    Nine Months Ended
+September 30,
+Millions of dollars    2024    2023    2024    2023
+Revenue:
+Completion and Production    $     3,299       $     3,487       $     10,073       $     10,372
+Drilling and Evaluation     2,398        2,317        7,261        6,907
+Total revenue    $     5,697       $     5,804       $     17,334       $     17,279
+Operating income:
+Completion and Production    $     669       $     746       $     2,080       $     2,119
+Drilling and Evaluation     406        378        1,207        1,123
+Total operations     1,075        1,124        3,287        3,242
+Corporate and other (a)    ( 60 )     ( 64 )     ( 190 )     ( 181 )
+SAP S4 upgrade expense    ( 28 )     ( 23 )     ( 91 )     ( 36 )
+Impairments and other charges (b)    ( 116 )      —       ( 116 )      —
+Total operating income    $     871       $     1,037       $     2,890       $     3,025
+Interest expense, net of interest income    ( 85 )     ( 94 )     ( 269 )     ( 297 )
+Loss on Blue Chip Swap transactions (c)     —        —        —       ( 104 )
+Other, net (d)    ( 52 )     ( 27 )     ( 180 )     ( 96 )
+Income before income taxes    $     734       $     916       $     2,441       $     2,528
+(a)    Includes certain expenses not attributable to a business segment, such as costs related to support functions, corporate executives, and operating lease assets, and also includes amortization expense associated with intangible assets recorded as a result of acquisitions.
+(b)
+For the three and nine months ended September 30, 2024, the amount includes a $  45   million charge attributable to Completion and Production, a $  34   million charge attributable to Drilling and Evaluation, and a $  37   million charge attributable to Corporate and other. See Note 2 for further discussion on impairments and other charges.
+(c)
+The Central Bank of Argentina maintains currency controls that limit our ability to access U.S. dollars in Argentina and remit cash from our Argentine operations. Our execution of certain trades, known as Blue Chip Swaps, which effectively results in a parallel U.S. dollar exchange rate, resulted in a $ 104  million pre-tax loss during the nine months ended September 30, 2023.
+(d)
+During the nine months ended September 30, 2024, Halliburton incurred a charge of $ 82  million primarily due to the impairment of an investment in Argentina and currency devaluation in Egypt.
+HAL Q3 2024 FORM 10-Q | 6
+Table of Contents
+Part I. Item 1 | Notes to Condensed Consolidated Financial Statements
+Note 4.  Revenue
+Revenue is recognized based on the transfer of control or our customers’ ability to benefit from our services and products in an amount that reflects the consideration we expect to receive in exchange for those services and products. Most of our service and product contracts are short-term in nature. In recognizing revenue for our services and products, we determine the transaction price of purchase orders or contracts with our customers, which may consist of fixed and variable consideration. We also assess our customers’ ability and intention to pay, which is based on a variety of factors, including our historical payment experience with, and the financial condition of, our customers. Payment terms and conditions vary by contract type, although terms generally include a requirement of payment within  20  to  60  days. Other judgments involved in recognizing revenue include an assessment of progress towards completion of performance obligations for certain long-term contracts, which involve estimating total costs to determine our progress towards contract completion and calculating the corresponding amount of revenue to recognize.
+Disaggregation of revenue
+We disaggregate revenue from contracts with customers into types of services or products, consistent with our  two  reportable segments, in addition to geographical area. Based on the location of services provided and products sold,  41 % and  45 % of our consolidated revenue was from the United States for the nine months ended September 30, 2024 and 2023, respectively. No other country accounted for more than 10% of our revenue for those periods.
+The following table presents information on our disaggregated revenue.
+Three Months Ended
+September 30,    Nine Months Ended
+September 30,
+Millions of dollars    2024    2023    2024    2023
+Revenue by segment:
+Completion and Production    $     3,299       $     3,487       $     10,073       $     10,372
+Drilling and Evaluation     2,398        2,317        7,261        6,907
+Total revenue    $     5,697       $     5,804       $     17,334       $     17,279
+Revenue by geographic region:
+North America    $     2,386       $     2,608       $     7,413       $     8,069
+Latin America     1,053        1,048        3,258        2,957
+Europe/Africa/CIS     722        734        2,208        2,094
+Middle East/Asia     1,536        1,414        4,455        4,159
+Total revenue    $     5,697       $     5,804       $     17,334       $     17,279
+Contract balances
+We perform our obligations under contracts with our customers by transferring services and products in exchange for consideration. The timing of our performance often differs from the timing of our customers’ payment, which results in the recognition of receivables and deferred revenue. Deferred revenue represents advance consideration received from customers for contracts where revenue is recognized on future performance of service. Deferred revenue, as well as revenue recognized during the period relating to amounts included as deferred revenue at the beginning of the period, was not material to our condensed consolidated financial statements.
+Transaction price allocated to remaining performance obligations
+Remaining performance obligations represent firm contracts for which work has not been performed and future revenue recognition is expected. We have elected the practical expedient permitting the exclusion of disclosing remaining performance obligations for contracts that have an original expected duration of  one year  or less. We have some long-term contracts related to software and integrated project management services such as lump sum turnkey contracts. For software contracts, revenue is generally recognized over the duration of the contract period when the software is considered to be a right to access our intellectual property. For lump sum turnkey projects, we recognize revenue over time using an input method, which requires us to exercise judgment. Revenue allocated to remaining performance obligations for these long-term contracts is not material.
+HAL Q3 2024 FORM 10-Q | 7
+Table of Contents
+Part I. Item 1 | Notes to Condensed Consolidated Financial Statements
+Receivables
+As of September 30, 2024,  30 % of our net trade receivables was from customers in the United States and  12 % was from customers in Mexico. As of December 31, 2023,  33 % of our net trade receivables was from customers in the United States and  9 % was from customers in Mexico. Receivables from our primary customer in Mexico accounted for approximately  10 % and  6 % of our total receivables as of September 30, 2024 and December 31, 2023, respectively. While we have experienced payment delays from our primary customer in Mexico, the amounts are not in dispute and we have not historically had, and we do not expect any material write-offs due to collectability of receivables from this customer.   No   country other than the United States and Mexico or single customer accounted for more than   10  % of our net trade receivables at those dates.
+We have risk of delayed customer payments and payment defaults associated with customer liquidity issues. We routinely monitor the financial stability of our customers and employ an extensive process to evaluate the collectability of outstanding receivables. This process, which involves judgment and estimates, includes analysis of our customers’ historical time to pay, financial condition and various financial metrics, debt structure, credit ratings, and production profile, as well as political and economic factors in countries of operations and other customer-specific factors.
+Note 5.  Inventories
+Inventories consisted of the following:
+Millions of dollars    September 30,
+2024    December 31,
+2023
+Finished products and parts    $     1,987       $     2,069
+Raw materials and supplies     1,063        1,021
+Work in process     144        136
+Total inventories    $     3,194       $     3,226
+Note 6.  Accounts Payable
+Effective January 1, 2023, we adopted new supplier finance program disclosure requirements contained in guidance issued by the Financial Accounting Standards Board (ASU 2022-04, “Disclosure of Supplier Finance Program Obligations”). The standards update also includes a prospective annual requirement to disclose a rollforward of the amount of the supplier finance program obligations during the annual reporting period. We will include the rollforward disclosure in our Annual Report on Form 10-K for the year ending December 31, 2024, as required.
+We have agreements with third parties that allow our participating suppliers to finance payment obligations from us with designated third-party financial institutions who act as our paying agent. We have generally extended our payment terms with suppliers to  90  days. A participating supplier may request a participating financial institution to finance one or more of our payment obligations to such supplier prior to the scheduled due date thereof at a discounted price. We are not required to provide collateral to the financial institutions.
+Our obligations to participating suppliers, including amounts due and scheduled payment dates, are not impacted by the suppliers’ decisions to finance amounts due under these financing arrangements. Our outstanding payment obligations under these agreements were $ 321  million as of September 30, 2024, and $ 322  million as of December 31, 2023, and are included in accounts payable on the condensed consolidated balance sheets.
+HAL Q3 2024 FORM 10-Q | 8
+Table of Contents
+Part I. Item 1 | Notes to Condensed Consolidated Financial Statements
+Note 7.  Income Taxes
+During the three months ended September 30, 2024, we recorded a total income tax provision of $ 154  million, which included a partial release of a valuation allowance on our deferred tax assets in the amount of $ 41  million, on a pre-tax income of $ 734  million, resulting in an effective tax rate of  21.0 % for the quarter. During the three months ended September 30, 2023, we recorded a total income tax provision of $ 192  million on a pre-tax income of $ 916  million, resulting in an effective tax rate of  21.0 % for the quarter.
+During the nine months ended September 30, 2024, we recorded a total income tax provision of $ 539  million, which included a partial release of a valuation allowance on our deferred tax assets in the amount of $ 41  million, on a pre-tax income of $ 2.4  billion, resulting in an effective tax rate of  22.1 % for the period. During the nine months ended September 30, 2023, we recorded a total income tax provision of $ 533  million on a pre-tax income of $ 2.5  billion, resulting in an effective tax rate of  21.1 % for the period.
+Our tax returns are subject to review by the taxing authorities in the jurisdictions where we file tax returns. In most cases we are no longer subject to examination by tax authorities for years before 2012. The only significant operating jurisdiction that has tax filings under review or subject to examination by the tax authorities is the United States. The United States federal income tax filings for tax years 2016 through 2023 are currently under review or remain open for review by the Internal Revenue Service (the IRS).
+As of September 30, 2024, the primary unresolved issue for the IRS audit for 2016 relates to the classification of the $ 3.5  billion ordinary deduction that we claimed for the termination fee we paid to Baker Hughes in the second quarter of 2016 for which we received a Notice of Proposed Adjustment (NOPA) from the IRS on September 28, 2023. We regularly assess the likelihood of adverse outcomes resulting from tax examinations to determine the adequacy of our tax reserves, and we believe our income tax reserves are appropriately provided for all open tax years. We do not expect a final resolution of this issue in the next twelve months.
+Based on the information currently available, we do not anticipate a significant increase or decrease to our tax contingencies within the next twelve months.
+HAL Q3 2024 FORM 10-Q | 9
+Table of Contents
+Part I. Item 1 | Notes to Condensed Consolidated Financial Statements
+Note 8.  Shareholders’ Equity
+The following tables summarize our shareholders’ equity activity for the three and nine months ended September 30, 2024 and September 30, 2023, respectively:
+Millions of dollars    Common Stock    Paid-in Capital in Excess of Par Value    Treasury Stock    Retained Earnings    Accumulated Other Comprehensive Income (Loss)    Noncontrolling Interest in Consolidated Subsidiaries    Total
+Balance at December 31, 2023    $     2,663       $     63       $    ( 5,540 )     $     12,536       $    ( 331 )     $     42       $     9,433
+Comprehensive income (loss):
+Net income     —        —        —        606        —        3        609
+Other comprehensive income (loss)     —        —        —        —       ( 1 )      1        —
+Cash dividends ($ 0.17  per share)
+—        —        —       ( 151 )      —        —       ( 151 )
+Stock repurchase program     —        —       ( 250 )      —        —        —       ( 250 )
+Stock plans (a)    ( 1 )     ( 63 )      108       ( 3 )      —        —        41
+Other     —        —        —        —        —        —        —
+Balance at March 31, 2024    $     2,662       $     —       $    ( 5,682 )     $     12,988       $    ( 332 )     $     46       $     9,682
+Comprehensive income (loss):
+Net income     —        —        —        709        —        4        713
+Other comprehensive income (loss)     —        —        —        —        —        —        —
+Cash dividends ($ 0.17  per share)
+—        —        —       ( 151 )      —        —       ( 151 )
+Stock repurchase program     —        —       ( 250 )      —        —        —       ( 250 )
+Stock plans (a)     1        —        151       ( 96 )      —        —        56
+Other     —        —        —        —        —       ( 4 )     ( 4 )
+Balance at June 30, 2024    $     2,663       $     —       $    ( 5,781 )     $     13,450       $    ( 332 )     $     46       $     10,046
+Comprehensive income (loss):
+Net income     —        —        —        571        —        9        580
+Other comprehensive income     —        —        —        —        3        —        3
+Cash dividends ($ 0.17  per share)
+—        —        —       ( 150 )      —        —       ( 150 )
+Stock repurchase program     —        —       ( 196 )      —        —        —       ( 196 )
+Stock plans (a)    ( 1 )      38        37       ( 6 )      —        —        68
+Other     —        —        —        —        —        1        1
+Balance at September 30, 2024    $     2,662       $     38       $    ( 5,940 )     $     13,865       $    ( 329 )     $     56       $     10,352
+(a)
+In the first, second, and third quarter of 2024, we issued common stock from treasury shares for stock options exercised, restricted stock grants, performance shares under our performance unit program, and purchases under our employee stock purchase plan. As a result, additional paid in capital was reduced to zero, which resulted in a reduction of retained earnings by $ 3  million, $ 96  million, and $ 6  million, respectively. Future issuances from treasury shares could similarly impact additional paid in capital and retained earnings.
+HAL Q3 2024 FORM 10-Q | 10
+Table of Contents
+Part I. Item 1 | Notes to Condensed Consolidated Financial Statements
+Millions of dollars    Common Stock    Paid-in Capital in Excess of Par Value    Treasury Stock    Retained Earnings    Accumulated Other Comprehensive Income (Loss)    Noncontrolling Interest in Consolidated Subsidiaries    Total
+Balance at December 31, 2022    $     2,664       $     50       $    ( 5,108 )     $     10,572       $    ( 230 )     $     29       $     7,977
+Comprehensive income (loss):
+Net income     —        —        —        651        —        4        655
+Other comprehensive income     —        —        —        —        1        —        1
+Cash dividends ($ 0.16  per share)
+—        —        —       ( 145 )      —        —       ( 145 )
+Stock repurchase program     —        —       ( 100 )      —        —        —       ( 100 )
+Stock plans (a)     —       ( 50 )      113       ( 3 )      —        —        60
+Other     —        —        —        —        —       ( 3 )     ( 3 )
+Balance at March 31, 2023    $     2,664       $     —       $    ( 5,095 )     $     11,075       $    ( 229 )     $     30       $     8,445
+Comprehensive income (loss):
+Net income     —        —        —        610        —        6        616
+Other comprehensive income     —        —        —        —        1        —        1
+Cash dividends ($ 0.16  per share)
+—        —        —       ( 144 )      —        —       ( 144 )
+Stock repurchase program     —        —       ( 250 )      —        —        —       ( 250 )
+Stock plans (a)    ( 1 )      —        144       ( 82 )      —        —        61
+Other     —        —        —        —        —       ( 2 )     ( 2 )
+Balance at June 30, 2023    $     2,663       $     —       $    ( 5,201 )     $     11,459       $    ( 228 )     $     34       $     8,727
+Comprehensive income (loss):
+Net income     —        —        —        716        —        8        724
+Other comprehensive income     —        —        —        —        1        —        1
+Cash dividends ($ 0.16  per share)
+—        —        —       ( 144 )      —        —       ( 144 )
+Stock repurchase program     —        —       ( 200 )      —        —        —       ( 200 )
+Stock plans (a)     —        26        71       ( 13 )      —        —        84
+Other     —        —        —        —        —       ( 3 )     ( 3 )
+Balance at September 30, 2023    $     2,663       $     26       $    ( 5,330 )     $     12,018       $    ( 227 )     $     39       $     9,189
+(a)
+In the first, second, and third quarters of 2023, we issued common stock from treasury shares for stock options exercised, restricted stock grants, performance shares under our performance unit program, and purchases under our employee stock purchase plan. As a result, additional paid in capital was reduced to zero, which resulted in a reduction of retained earnings by $ 3  million, $ 82  million, and $ 13  million, respectively. Future issuances from treasury shares could similarly impact additional paid in capital and retained earnings.
+Our Board of Directors has authorized a program to repurchase our common stock from time to time. We repurchased  6.2  million shares of our common stock under the program during the three months ended September 30, 2024 for $ 196  million. Approximately $ 3.4  billion remained authorized for repurchases under the program as of September 30, 2024. From the inception of this program in February of 2006 through September 30, 2024, we repurchased  273  million shares of our common stock for a total cost of approximately $ 10.8  billion. We repurchased  5.1  million shares of our common stock under the program during the three months ended September 30, 2023 for approximately $ 200  million.
+Accumulated other comprehensive loss consisted of the following:
+Millions of dollars    September 30,
+2024    December 31,
+2023
+Cumulative translation adjustments    $    ( 82 )     $    ( 84 )
+Defined benefit and other postretirement liability adjustments    ( 209 )     ( 207 )
+Other    ( 38 )     ( 40 )
+Total accumulated other comprehensive loss    $    ( 329 )     $    ( 331 )
+HAL Q3 2024 FORM 10-Q | 11
+Table of Contents
+Part I. Item 1 | Notes to Condensed Consolidated Financial Statements
+Note 9.  Commitments and Contingencies
+The Company is subject to various legal or governmental proceedings, claims or investigations, including personal injury, property damage, environmental, intellectual property, commercial, tax, and other matters arising in the ordinary course of business, the resolution of which, in the opinion of management, will not have a material adverse effect on our consolidated results of operations or consolidated financial position. There is inherent risk in any legal or governmental proceeding, claim or investigation, and no assurance can be given as to the outcome of these proceedings.
+Guarantee arrangements
+In the normal course of business, we have agreements with financial institutions under which approximately $ 2.6  billion of letters of credit, bank guarantees, or surety bonds were outstanding as of September 30, 2024. Some of the outstanding letters of credit have triggering events that would entitle a bank to require cash collateralization; however, none of these triggering events have occurred. As of September 30, 2024, we had no material off-balance sheet liabilities and were not required to make any material cash distributions to our unconsolidated subsidiaries.
+Note 10.  Income per Share
+Basic income or loss per share is based on the weighted average number of common shares outstanding during the period. Diluted income per share includes additional common shares that would have been outstanding if potential common shares with a dilutive effect had been issued. Antidilutive securities represent potentially dilutive securities which are excluded from the computation of diluted income or loss per share as their impact was antidilutive.
+A reconciliation of the number of shares used for the basic and diluted income per share computations is as follows:
+Three Months Ended
+September 30,    Nine Months Ended
+September 30,
+Millions of shares    2024    2023    2024    2023
+Basic weighted average common shares outstanding     881        898        885        901
+Dilutive effect of awards granted under our stock incentive plans     —        4        1        3
+Diluted weighted average common shares outstanding     881        902        886        904
+Antidilutive shares:
+Options with exercise price greater than the average market price     9        11        10        13
+Total antidilutive shares     9        11        10        13
+Note 11.  Fair Value of Financial Instruments
+The carrying amount of cash and equivalents, receivables, and accounts payable, as reflected in the condensed consolidated balance sheets, approximates fair value due to the short maturities of these instruments.
+The carrying amount and fair value of our total debt is as follows:
+September 30, 2024     December 31, 2023
+Millions of dollars    Level 1    Level 2    Total fair value    Carrying value     Level 1    Level 2    Total fair value    Carrying value
+Total debt    $     7,711       $     101       $     7,812       $     7,639        $     7,419       $     378       $     7,797       $     7,636
+In the first nine months of 2024, the fair value of our total debt increased as a result of lower bond yields.
+Our debt categorized within level 1 on the fair value hierarchy is calculated using quoted prices in active markets for identical liabilities with transactions occurring on the last  two days  of period-end. Our debt categorized within level 2 on the fair value hierarchy is calculated using significant observable inputs for similar liabilities where estimated values are determined from observable data points on our other bonds and on other similarly rated corporate debt or from observable data points of transactions occurring prior to  two days  from period-end and adjusting for changes in market conditions. Differences between the periods presented in our level 1 and level 2 classification of our long-term debt relate to the timing of when third-party market transactions on our debt are executed. We have   no   debt categorized within level 3 on the fair value hierarchy.
+HAL Q3 2024 FORM 10-Q | 12
+Table of Contents
+Part I. Item 1 | Notes to Condensed Consolidated Financial Statements
+Credit risk
+During the fourth quarter of 2023, we entered into a credit default swap (CDS) with a third-party financial institution with an initial notional amount of $ 300  million. The CDS is related to a borrowing provided by the financial institution to one of our primary customers in Mexico, and a portion of the proceeds were utilized by this customer to pay certain of our outstanding receivables. The outstanding notional amount of the CDS, which was $ 217  million as of September 30, 2024, will continue to reduce on a monthly basis over its remaining  17 -month term.
+During the third quarter of 2024, we entered into a CDS with a different third-party financial institution with an initial notional amount of $ 256  million. The CDS is related to a borrowing provided by the financial institution to one of our primary customers in Mexico, and a portion of the proceeds were utilized by this customer to pay certain of our outstanding receivables. The outstanding notional amount of the CDS, which was $ 235  million as of September 30, 2024, will continue to reduce on a monthly basis over its remaining  21 -month term.
+The fair value of the derivative liabilities was not material to our financial condition as of September 30, 2024.
+HAL Q3 2024 FORM 10-Q | 13
+Table of Contents
+Part I. Item 2 | Executive Overview
+Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+Management's Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with the condensed consolidated financial statements included in “Item 1. Financial Statements” contained herein.
+EXECUTIVE OVERVIEW
+Organization
+We are one of the world’s largest providers of products and services to the energy industry. We help our customers maximize asset value throughout the lifecycle of the reservoir from locating hydrocarbons and managing geological data, to drilling and formation evaluation, well construction and completion, and optimizing production throughout the life of the asset. Activity levels within our operations are significantly impacted by spending on upstream exploration, development, and production programs by major, national, and independent oil and natural gas companies. We report our results under two segments, the Completion and Production segment and the Drilling and Evaluation segment.
+•  Completion and Production delivers cementing, stimulation, specialty chemicals, intervention, pressure control, artificial lift, and completion products and services. The segment consists of Artificial Lift, Cementing, Completion Tools, Multi-Chem, Pipeline and Process Services, Production Enhancement, and Production Solutions. During the third quarter of 2024, we made a strategic decision to market for sale a portion of our chemical business.
+•  Drilling and Evaluation provides field and reservoir modeling, drilling, fluids, evaluation, and precise wellbore placement solutions that enable customers to model, measure, drill, and optimize their well construction activities. The segment consists of Baroid, Drill Bits and Services, Halliburton Project Management, Landmark Software and Services, Sperry Drilling, Testing and Subsea, and Wireline and Perforating.
+The business operations of our segments are organized around four primary geographic regions: North America, Latin America, Europe/Africa/CIS, and Middle East/Asia. We have manufacturing operations in various locations, the most significant of which are in the United States, Malaysia, Singapore, and the United Kingdom. With over 48,000 employees, we operate in more than 70 countries around the world, and our corporate headquarters is in Houston, Texas.
+Our value proposition is to collaborate and engineer solutions to maximize asset value for our customers. We work to achieve strong cash flows and returns for our shareholders by delivering technology and services that improve efficiency, increase recovery, and maximize production for our customers. Our strategic priorities are to:
+-   International  : Allocate our capital to the highest return opportunities and increase our international growth in both onshore and offshore markets.
+-   North America  : Maximize value by, among other things, utilizing our premium low-emissions Zeus electric fracturing systems, as well as automated and intelligent fracturing technologies, to drive higher margins through better pricing and increased efficiency.
+-   Digital  : Continue to drive differentiation and efficiencies through the deployment and integration of digital and automation technologies, both internally and for our customers.
+-   Capital efficiency  : Maintain our capital expenditures at approximately 6% of revenue while focusing on technological advancements and process changes that reduce our manufacturing and maintenance costs and improve how we move equipment and respond to market opportunities.
+-   Shareholder returns  : Return over 50% of annual free cash flow to shareholders through dividends and share repurchases.
+-   Sustainability and energy mix transition  : Continue to:
+•    Leverage the participants in Halliburton Labs to gain insight into developing value chains in the energy mix transition;
+•    Develop and deploy solutions to help lower the carbon intensity of our customers' businesses;
+•    Develop technologies and solutions to lower our emissions; and
+•    Participate in carbon capture, utilization, and storage, hydrogen, and geothermal projects globally.
+HAL Q3 2024 FORM 10-Q | 14
+Table of Contents
+Part I. Item 2 | Executive Overview
+The following charts depict the revenue split between our two operating segments and our four primary geographic regions for the three months ended September 30, 2024.
+Market conditions
+Oil prices declined in the third quarter of 2024 from the second quarter of 2024 as a result of demand concerns coupled with increased supply. While easing inflationary pressure has reduced macroeconomic uncertainty, risks associated with trade tensions and geopolitical unrest in the Middle East and the Russia-Ukraine conflict continue to be major sources of volatility for the oil and natural gas markets.
+During the third quarter of 2024, the U.S. active rig count declined to its lowest level since the first quarter of 2022 as both oil and gas basins saw declines. The international rig count continued to decline in the third quarter of 2024 from the second quarter of 2024 driven by Asia-Pacific, Latin America, and Europe.
+Globally, we continue to be impacted by extended supply chain lead times for the supply of select raw materials. We monitor market trends and work to mitigate cost impacts through economies of scale in global procurement, technology modifications, and efficient sourcing practices. Also, while we have been impacted by inflationary cost increases, primarily related to chemicals, cement, and logistics costs, we generally try to pass much of those increases on to our customers and we believe we have effective solutions to minimize their operational impact.
+Financial results
+The following graph illustrates our revenue and operating margins for each operating segment for the third quarter of 2023 and 2024.
+During the third quarter of 2024, we generated total company revenue of $5.7 billion, a 2% decrease as compared to the third quarter of 2023. We reported operating income of $871 million, including impairments and other charges of $116 million, in the third quarter of 2024, a decrease of 16% when compared to the third quarter of 2023.
+HAL Q3 2024 FORM 10-Q | 15
+Table of Contents
+Part I. Item 2 | Executive Overview
+Our Completion and Production segment revenue decreased 5% in the third quarter of 2024 as compared to the third quarter of 2023. The decrease in revenue was largely driven by decreased stimulation activity in the Western Hemisphere and lower completion tool sales in the Gulf of Mexico, the Caspian Area and the North Sea. Partially offsetting these decreases were increased pressure pumping services in Canada, the Gulf of Mexico, and the Middle East, improved cementing activity in Latin America and Europe, and higher completion tool sales in Saudi Arabia.
+Our Drilling and Evaluation segment revenue increased 3% in the third quarter of 2024 as compared to the third quarter of 2023, primarily due to increased drilling services in the Western Hemisphere and Middle East/Asia, improved project management activity in Ecuador, Mexico and Kuwait, and higher testing services in Middle East/Asia and Latin America. Partially offsetting these improvements were decreased fluid services in the Gulf of Mexico and Eastern Hemisphere, and lower wireline activity in the Gulf of Mexico and Africa.
+Our North America revenue decreased 9% in the third quarter of 2024, as compared to the third quarter of 2023. This decline was primarily driven by lower pressure pumping services and decreased well intervention services in U.S. land. Additionally, there was decreased activity across multiple product services lines in the Gulf of Mexico partly due to the impacts from hurricanes. Partially offsetting these declines were improved pressure pumping services in Canada and the Gulf of Mexico, along with increased drilling services in the region.
+Internationally, revenue increased 4% in the third quarter of 2024, as compared to the third quarter of 2023, largely driven by increased activity across multiple product service lines in Kuwait, improved well construction activity in Mexico and United Arab Emirates, and higher pressure pumping services and completion tool sales in the Middle East. Partially offsetting these improvements were decreased completion tool sales and lower stimulation activity in Latin America.
+Our operating performance and liquidity are described in more detail in “Liquidity and Capital Resources” and “Business Environment and Results of Operations.”
+Sustainability and Energy Mix Transition
+In 2021, we announced our target to achieve a 40% reduction in our Scope 1 and 2 emissions by 2035 from the 2018 baseline. At the same time, we support our customers in their emissions reduction efforts by continuously developing and deploying goods and services that are accretive to their goals as well as ours. As the energy mix transition unfolds, we seek to apply our expertise and resources in growth sectors adjacent to our traditional oilfield services space, including carbon capture, utilization, and storage, hydrogen, and geothermal. Finally, we will continue to focus on accelerating the success of clean tech start-ups via Halliburton Labs, which also allows us to participate in the energy mix transition at relatively low risk by investing our expertise, resources, and team without a significant outlay of capital while we learn where we can strategically engage new markets. As of September 30, 2024, Halliburton Labs had 33 participating companies and alumni.
+Cybersecurity Incident
+On August 21, 2024, we became aware that an unauthorized third party gained access to certain of our systems, as previously disclosed in our Form 8-Ks filed with the Securities and Exchange Commission on August 23, 2024 and September 3, 2024. The incident caused disruptions and limitation of access to portions of our business applications supporting aspects of our operations and corporate functions. As we previously disclosed, we know the unauthorized third party exfiltrated information from our systems. We will continue to incur certain expenses related to our response to and resolution of this incident. We believe the incident has not had, and is not reasonably likely to have, a material impact on the Company’s financial condition or results of operations.
+HAL Q3 2024 FORM 10-Q | 16
+Table of Contents
+Part I. Item 2 | Liquidity and Capital Resources
+LIQUIDITY AND CAPITAL RESOURCES
+As of September 30, 2024, we had $2.2 billion of cash and equivalents, compared to $2.3 billion of cash and equivalents at December 31, 2023.
+Significant sources and uses of cash during the first nine months of 2024
+Sources of cash:
+•  Cash flows from operating activities were $2.4 billion. Working capital, which consists of receivables, inventories, and accounts payable, had a negative impact of $645 million, primarily due to increased receivables.
+Uses of cash:
+•  Capital expenditures were $1.0 billion.
+•  We repurchased 20.1 million shares of our common stock for $696 million.
+•  We paid $452 million of dividends to our shareholders.
+Future sources and uses of cash
+We manufacture most of our own equipment, which provides us with some flexibility to increase or decrease our capital expenditures based on market conditions. We currently expect capital spending for 2024 to be approximately 6% of revenue. We believe this level of spend will allow us to invest in our key strategic technologies, including the construction and deployment of our Zeus electric fracturing systems in North America, our iStar Intelligent Drilling and Logging Platform, and our iCruise Intelligent Rotary Steerable System. We will continue to maintain capital discipline and monitor the rapidly changing market dynamics, and we may adjust our capital spend accordingly.
+While we maintain focus on liquidity and debt reduction, we are also focused on providing cash returns to our shareholders. Our quarterly dividend rate is $0.17 per common share, or approximately $150 million. In 2023, our Board approved a capital return framework with a goal of returning at least 50% of our annual free cash flow to shareholders through dividends and share repurchases and we expect our returns to shareholders will be in line with our capital return framework for 2024.
+We may utilize share repurchases as part of our capital return framework. Our Board of Directors has authorized a program to repurchase our common stock from time to time. We repurchased 6.2 million shares of common stock during the third quarter of 2024 under this program. Approximately $3.4 billion remained authorized for repurchases as of September 30, 2024 and may be used for open market and other share purchases.
+During 2023, we began our migration to SAP S4, which we now expect to complete in the first half of 2026. During the nine months ended September 30, 2024, we incurred $91 million in expense on our SAP S4 migration. The total project investment is now estimated to increase between $20 million and $30 million above our initial $250 million forecast, of which we have incurred $142 million to date. We believe the new system will provide important efficiency benefits, cost savings, enhanced visibility to our operations, and advanced analytics that will benefit us and our customers.
+Other factors affecting liquidity
+Financial condition in current market.   As of September 30, 2024, we had $2.2 billion of cash and equivalents and $3.5 billion of available committed bank credit under a revolving credit facility with an expiration date of April 27, 2027. We believe we have a manageable debt maturity profile, with approximately $472 million coming due beginning in 2025 through 2027. Furthermore, we have no financial covenants or material adverse change provisions in our bank agreements, and our debt maturities extend over a long period of time. We believe our cash on hand, cash flows generated from operations, and our available credit facility will provide sufficient liquidity to address the challenges and opportunities of the current market and our expected global cash needs, including capital expenditures, working capital investments, shareholder returns, if any, debt repurchases, if any, and scheduled interest and principal payments.
+Guarantee agreements.   In the normal course of business, we have agreements with financial institutions under which approximately $2.6 billion of letters of credit, bank guarantees, or surety bonds were outstanding as of September 30, 2024. Some of the outstanding letters of credit have triggering events that would entitle a bank to require cash collateralization; however, none of these triggering events have occurred. As of September 30, 2024, we had no material off-balance sheet liabilities and were not required to make any material cash distributions to our unconsolidated subsidiaries.
+HAL Q3 2024 FORM 10-Q | 17
+Table of Contents
+Part I. Item 2 | Liquidity and Capital Resources
+We have entered into credit default swaps (CDSs) with third-party financial institutions that have an aggregate notional amount outstanding as of September 30, 2024 of $452 million related to borrowings provided by the financial institutions to one of our primary customers in Mexico, of which, portions of the proceeds were utilized by this customer to pay certain of our outstanding receivables. As of September 30, 2024, the notional amounts of these CDSs were approximately $217 million and $235 million, respectively, which these amounts will decline over the remaining terms of the instruments (17 months and 21 months, respectively). The fair value of the derivative liabilities was not material to our financial condition as of September 30, 2024.
+Credit ratings.   Our credit ratings with Standard & Poor’s remain BBB+ for our long-term debt and A-2 for our short-term debt, with a positive outlook. Our credit ratings with Moody's Investors Service remain A3 for our long-term debt and P-2 for our short-term debt, with a stable outlook.
+Customer receivables  . In line with industry practice, we bill our customers for our services in arrears and are, therefore, subject to our customers delaying or failing to pay our invoices. In weak economic environments, we may experience increased delays and failures to pay our invoices due to, among other reasons, a reduction in our customers’ cash flow from operations and their access to the credit markets, as well as unsettled political conditions.
+Receivables from our primary customer in Mexico accounted for approximately 10% of our total receivables as of September 30, 2024. While we have experienced payment delays from our primary customer in Mexico, the amounts are not in dispute and we have not historically had, and we do not expect any material write-offs due to collectability of receivables from this customer.
+HAL Q3 2024 FORM 10-Q | 18
+Table of Contents
+Part I. Item 2 | Business Environment and Results of Operations
+BUSINESS ENVIRONMENT AND RESULTS OF OPERATIONS
+We operate in more than 70 countries throughout the world to provide a comprehensive range of services and products to the energy industry. Our revenue is generated from the sale of services and products to major, national, and independent oil and natural gas companies worldwide. The industry we serve is highly competitive with many substantial competitors in each segment of our business. During the first nine months of 2024, based on the location of the services provided and products sold, 41% of our consolidated revenue was from the United States, compared to 45% of our consolidated revenue from the United States in the first nine months of 2023. No other country accounted for more than 10% of our revenue for those periods.
+Activity within our business segments is significantly impacted by spending on upstream exploration, development, and production programs by our customers. Also impacting our activity is the status of the global economy, which impacts oil and natural gas consumption.
+Some of the more significant determinants of current and future spending levels of our customers are oil and natural gas prices and our customers’ expectations about future prices, global oil supply and demand, completions intensity, the world economy, the availability of capital, government regulation, and global stability, which together drive worldwide drilling and completions activity. Additionally, during the remainder of 2024, we generally expect that many of our customers in North America will continue their strategy of operating within their cash flows and generating returns rather than prioritizing production growth. Lower oil and natural gas prices usually translate into lower exploration and production budgets and lower rig count, while the opposite is usually true for higher oil and natural gas prices. Our financial performance is therefore significantly affected by oil and natural gas prices and worldwide rig activity, which are summarized in the tables below.
+The table below shows the average prices for West Texas Intermediate (WTI) crude oil, United Kingdom Brent crude oil, and Henry Hub natural gas.
+Three Months Ended
+September 30,    Year Ended
+December 31,
+2024    2023    2023
+Oil price - WTI   (1)
+$    76.24      $    82.30      $    77.64
+Oil price - Brent   (1)
+79.84      86.66      82.47
+Natural gas price - Henry Hub   (2)
+2.11      2.59      2.54
+(1)    Oil price measured in dollars per barrel.
+(2)    Natural gas price measured in dollars per million British thermal units (Btu), or MMBtu.
+The historical average rig counts based on the weekly Baker Hughes rig count data were as follows:
+Three Months Ended
+September 30,    Nine Months Ended
+September 30,    Year Ended
+December 31,
+2024    2023    2024    2023    2023
+U.S. Land    566      630      584      691      669
+U.S. Offshore     20      19      20      18      18
+Canada    210      188      184      175      177
+North America    796      837      788      884      864
+International     937      951      955      942      948
+Worldwide total    1,733      1,788      1,743      1,826      1,812
+HAL Q3 2024 FORM 10-Q | 19
+Table of Contents
+Part I. Item 2 | Business Environment and Results of Operations
+Business outlook
+As we consider the balance of 2024, we remain positive on the oil and natural gas markets and continue to see strength across our portfolio. We believe long-term demand growth will be driven by economic expansion, energy security concerns, and population growth. Oil and natural gas continue to demonstrate their critical roles in the global economy in meeting this long term demand, and necessitate sustained capital investment in existing and new sources of production. To meet this growing demand, production will be needed from conventional, unconventional, deep-water, shallow-water, and short and long-cycle projects. Capital discipline by major oil and natural gas producers continues to underpin a more durable and less volatile upstream spending cycle versus prior cycles.
+As noted above, rig counts and, as a result, service activity in U.S. continued to decline in the third quarter of 2024. Consequently, we expect our revenues in North America to decline in 2024 as compared to 2023. Nevertheless, we expect our international business to deliver mid to high single digit revenue growth for the full year of 2024.
+HAL Q3 2024 FORM 10-Q | 20
+Table of Contents
+Part I. Item 2 | Results of Operations in 2024 Compared to 2023 (QTD)
+RESULTS OF OPERATIONS IN 2024 COMPARED TO 2023
+Three Months Ended September 30, 2024 Compared with Three Months Ended September 30, 2023
+Three Months Ended
+September 30,    Favorable      Percentage
+Millions of dollars    2024    2023    (Unfavorable)      Change
+Revenue:
+By operating segment:
+Completion and Production    $    3,299      $    3,487      $    (188)       (5)    %
+Drilling and Evaluation    2,398      2,317      81        3
+Total revenue    $    5,697      $    5,804      $    (107)       (2)    %
+By geographic region:
+North America    $    2,386      $    2,608      $    (222)       (9)    %
+Latin America    1,053      1,048      5        —
+Europe/Africa/CIS    722      734      (12)       (2)
+Middle East/Asia    1,536      1,414      122        9
+Total revenue    $    5,697      $    5,804      $    (107)       (2)    %
+Operating income:
+By operating segment:
+Completion and Production    $    669      $    746      $    (77)       (10)    %
+Drilling and Evaluation    406      378      28        7
+Total operations    1,075      1,124      (49)       (4)
+Corporate and other    (60)     (64)     4        6
+SAP S4 upgrade expense    (28)     (23)     (5)       (22)
+Impairments and other charges    (116)     —      (116)       n/m
+Total operating income    $    871      $    1,037      $    (166)       (16)    %
+n/m = not meaningful
+Operating Segments
+Completion and Production
+Completion and Production revenue in the third quarter of 2024 was $3.3 billion, a decrease of $188 million, or 5%, when compared to the third quarter of 2023. Operating income in the third quarter of 2024 was $669 million, a decrease of $77 million, or 10%, when compared to the third quarter of 2023. These results were largely driven by decreased stimulation activity in the Western Hemisphere and lower completion tool sales in the Gulf of Mexico, the Caspian Area and the North Sea. Partially offsetting these decreases were increased pressure pumping services in Canada, the Gulf of Mexico, and the Middle East, improved cementing activity in Latin America and Europe, and higher completion tool sales in Saudi Arabia.
+Drilling and Evaluation
+Drilling and Evaluation revenue in the third quarter of 2024 was $2.4 billion, an increase of $81 million, or 3%, when compared to the third quarter of 2023. Operating income in the third quarter of 2024 was $406 million, an increase of $28 million, or 7%, when compared to the third quarter of 2023. These results were primarily driven by increased drilling services in the Western Hemisphere and Middle East/Asia, improved project management activity in Ecuador, Mexico and Kuwait, and higher testing services in Middle East/Asia and Latin America. Partially offsetting these improvements were decreased fluid services in the Gulf of Mexico and Eastern Hemisphere, and lower wireline activity in the Gulf of Mexico and Africa.
+HAL Q3 2024 FORM 10-Q | 21
+Table of Contents
+Part I. Item 2 | Results of Operations in 2024 Compared to 2023 (QTD)
+Geographic Regions
+North America
+North America revenue in the third quarter of 2024 was $2.4 billion, a 9% decrease compared to the third quarter of 2023. This decline was primarily driven by lower pressure pumping services and decreased well intervention services in U.S. land. Additionally, there was decreased activity across multiple product services lines in the Gulf of Mexico partly due to the impacts from hurricanes. Partially offsetting these declines were improved pressure pumping services in Canada and the Gulf of Mexico, along with increased drilling services in the region.
+Latin America
+Latin America revenue in the third quarter of 2024 was $1.1 billion, flat compared to the third quarter of 2023. Increased well construction activity and improved project management activity in Ecuador and Mexico were offset by decreased completion tool sales in Brazil, lower stimulation activity in Argentina and Brazil, and lower project management and well construction activity in Colombia.
+Europe/Africa/CIS
+Europe/Africa/CIS revenue in the third quarter of 2024 was $722 million, a 2% decrease compared to the third quarter of 2023. This decrease was primarily driven by lower drilling-related services in the North Sea, decreased completion tool sales in the Caspian Area and the North Sea, and declined wireline activity in Africa. Partially offsetting these declines were improved cementing and higher project management activity in the North Sea, along with increased well intervention services in the region.
+Middle East/Asia
+Middle East/Asia revenue in the third quarter of 2024 was $1.5 billion, a 9% increase compared to the third quarter of 2023. This increase resulted from increased activity across multiple product service lines in Kuwait and Australia, improved pressure pumping services and higher completion tool sales in Saudi Arabia, higher well construction activity in United Arab Emirates, and increased testing services in the region. Partially offsetting these improvements were lower fluid services in Saudi Arabia and Indonesia.
+Other Operating Items
+SAP S4 Upgrade Expense.   During 2023, we began our migration to SAP S4, which we now expect to complete in the first half of 2026. During the third quarter of 2024, we recognized $28 million of expense on our SAP S4 migration. During the third quarter of 2023, we recognized $23 million of expense on our SAP S4 migration.
+Impairments and Other Charges.   During the three months ended September 30, 2024, we took a pre-tax charge of $116 million primarily related to severance costs, an impairment of assets held for sale, expenses related to a cybersecurity incident, a gain on a fair value adjustment of an equity investment, and other items. See Notes to Condensed Consolidated Financial Statements, Note 2. Impairments and Other Charges for further discussion of these charges.
+Nonoperating Items
+Income Tax Provision  . During the three months ended September 30, 2024, we recorded a total income tax provision of $154 million on a pre-tax income of $734 million, resulting in an effective tax rate of 21.0% for the quarter. We recorded a tax benefit of $41 million during the three months ended September 30, 2024, due to a partial release of a valuation allowance on our deferred tax assets based on market conditions. During the three months ended September 30, 2023, we recorded a total income tax provision of $192 million on a pre-tax income of $916 million, resulting in an effective tax rate of 21.0% for the quarter.
+Pillar Two.   The Organization for Economic Co-operation and Development enacted model rules for a new global minimum tax framework, also known as Pillar Two, and certain governments globally have enacted, or are in the process of enacting, legislation considering these model rules. These rules did not have a material impact on our taxes for the three months ended September 30, 2024.
+HAL Q3 2024 FORM 10-Q | 22
+Table of Contents
+Part I. Item 2 | Results of Operations in 2024 Compared to 2023 (QTD)
+Internal Revenue Service Notice of Proposed Adjustment.   We are subject to taxes in the United States and in numerous jurisdictions where we operate or where our subsidiaries are organized. Our tax returns are routinely subject to examination by the taxing authorities in the jurisdictions where we file tax returns. In most cases we are no longer subject to examination by tax authorities for years before 2012. The only significant operating jurisdiction that has tax filings under review or subject to examination by the tax authorities is the United States. Our United States federal income tax filings for tax years 2016 through 2023, including carry back of 2016 net operating losses to 2014, are currently under review or remain open for review by the IRS.
+On September 28, 2023, we received a NOPA from the IRS covering our 2016 U.S. tax return. The NOPA proposed an adjustment to reclassify approximately 95% of the $3.5 billion termination fee paid to Baker Hughes in 2016 from an ordinary expense deduction to a capital loss. The termination fee was paid to Baker Hughes under the merger agreement after antitrust regulators in multiple jurisdictions failed to approve our proposed merger. It is common commercial practice to include a termination fee in a merger agreement to compensate the target for damages incurred when the acquisition does not go forward. The IRS’s long-understood position at the time of the payment had been to treat such payments as an ordinary and necessary business expense. We strongly disagree with the proposed adjustment on both a factual and legal basis, and we plan to vigorously contest it.
+We expect that resolving this dispute will take substantial time. In December 2023, we initiated the IRS administrative appeals process, which may take more than twelve months to complete. Failing a resolution through that process, the matter would ultimately be resolved by the United States federal courts.
+We regularly assess the likelihood of adverse outcomes resulting from tax examinations to determine the adequacy of our tax reserves, and we believe our income tax reserves are appropriately provided for all open tax years. We cannot assure you that the matter will be determined in our favor or against us, and if the matter is ultimately determined unfavorably to us, it could have a material adverse impact on our results of operations and cash flows. Based on tax attributes currently available, we estimate that, should the IRS's position prevail through its appellate process and subsequent litigation, the proposed adjustment could result in cash taxes due of approximately $650 million (plus interest thereon in the case of amounts due for previous tax years). Our estimates are calculated under current tax law and on the bases of our assumptions regarding taxable income and loss and other tax attributes over the relevant period, which law could change and which assumptions could and likely will differ materially from actual results. In any event, no payment of any additional tax is currently required, nor do we anticipate that the proposed adjustment would materially and adversely impact our ability to meet our expected uses of cash, including future capital expenditures, working capital investments, and scheduled debt repayments, or our ability to return cash to shareholders, even if a final determination of the matter is reached that is adverse to us.
+HAL Q3 2024 FORM 10-Q | 23
+Table of Contents
+Part I. Item 2 | Results of Operations in 2024 Compared to 2023 (YTD)
+Nine Months Ended September 30, 2024 Compared with Nine Months Ended September 30, 2023
+Nine Months Ended
+September 30,    Favorable     Percentage
+Millions of dollars    2024    2023    (Unfavorable)     Change
+Revenue:
+By operating segment:
+Completion and Production    $    10,073      $    10,372      $    (299)      (3)    %
+Drilling and Evaluation    7,261      6,907      354       5
+Total revenue    $    17,334      $    17,279      $    55       —     %
+By geographic region:
+North America    $    7,413      $    8,069      $    (656)      (8)    %
+Latin America    3,258      2,957      301       10
+Europe/Africa/CIS    2,208      2,094      114       5
+Middle East/Asia    4,455      4,159      296       7
+Total revenue    $    17,334      $    17,279      $    55       —     %
+Operating income:
+By operating segment:
+Completion and Production    $    2,080      $    2,119      $    (39)      (2)    %
+Drilling and Evaluation    1,207      1,123      84       7
+Total operations    3,287      3,242      45       1
+Corporate and other    (190)     (181)     (9)      (5)
+SAP S4 upgrade expense    (91)     (36)     (55)      n/m
+Impairments and other charges    (116)     —      (116)      n/m
+Total operating income    $    2,890      $    3,025      $    (135)      (4)    %
+n/m = not meaningful
+Operating Segments
+Completion and Production
+Completion and Production revenue in the first nine months of 2024 was $10.1 billion, a decrease of $299 million, or 3%, compared to the first nine months of 2023. Operating income for the segment in the first nine months of 2024 was $2.1 billion, a decrease of $39 million, or 2%, compared to the first nine months of 2023. These results were largely driven by lower pressure pumping services in U.S. land and declined well intervention services in North America. Partially offsetting these declines were increased pressure pumping services in Canada, the Gulf of Mexico, Argentina, Europe and the Middle East, higher completion tool sales in the Gulf of Mexico, Europe/Africa and Saudi Arabia, and improved artificial lift activity globally.
+Drilling and Evaluation
+Drilling and Evaluation revenue in the first nine months of 2024 was $7.3 billion, an increase of $354 million, or 5%, compared to the first nine months of 2023. Operating income for the segment in the first nine months of 2024 was $1.2 billion, an increase of $84 million, or 7%, compared to the first nine months of 2023. These results were primarily driven by increased drilling services in the Western Hemisphere and the Middle East, improved activity across multiple product service lines in Mexico, increased testing services in Latin America and the Middle East, and higher project management activity in Kuwait. These improvements were partially offset by lower wireline activity in North America, reduced drilling services in Europe/Africa, and decreased fluid services in Brazil, Africa, and Asia.
+HAL Q3 2024 FORM 10-Q | 24
+Table of Contents
+Part I. Item 2 | Results of Operations in 2024 Compared to 2023 (YTD)
+Geographic Regions
+North America
+North America revenue in the first nine months of 2024 was $7.4 billion, an 8% decrease compared to the first nine months of 2023, resulting primarily from lower pressure pumping services in U.S. land, decreased well intervention services and lower wireline activity in U.S. land and the Gulf of Mexico, and decreased fluid services in the region. Partially offsetting these declines were increased pressure pumping services in Canada and the Gulf of Mexico and improved drilling services and completion tool sales in the region.
+Latin America
+Latin America revenue in the first nine months of 2024 was $3.3 billion, a 10% increase compared to the first nine months of 2023, resulting primarily from improved activity across multiple product service lines in Mexico, increased pressure pumping and drilling-related services in Argentina, improved project management activity in Ecuador, and higher testing services and wireline activity in the region. Partially offsetting these improvements were lower completion tool sales in Brazil and reduced project management activity in Colombia.
+Europe/Africa/CIS
+Europe/Africa/CIS revenue in the first nine months of 2024 was $2.2 billion, a 5% increase compared to the first nine months of 2023, resulting primarily from increased pressure pumping services and higher project management activity in Europe, improved completion tool sales in the region, and improved fluid services in the North Sea and the Caspian Area. Partially offsetting these increases were decreased activity across multiple product service lines in Africa, as well as lower drilling services in the region.
+Middle East/Asia
+Middle East/Asia revenue in the first nine months of 2024 was $4.5 billion, a 7% increase compared to the first nine months of 2023, resulting primarily from increased drilling services, pressure pumping services, and testing services in the Middle East, higher completion tool sales in Saudi Arabia, and higher project management activity in Kuwait. These improvements were partially offset by lower project management and fluids activity in Saudi Arabia and Asia.
+Other Operating Items
+SAP S4 Upgrade Expense.   As previously mentioned, during 2023 we began our migration to SAP S4, which we now expect to complete in the first half of 2026. During the nine months ended September 30, 2024, we recognized $91 million of expense on our SAP S4 migration. During the nine months ended September 30, 2023, we recognized $36 million of expense on our SAP S4 migration.
+Impairments and Other Charges.   During the nine months ended September 30, 2024, we recognized a pre-tax charge of $116 million, primarily related to severance costs, an impairment of assets held for sale, expenses related to a cybersecurity incident, a gain on a fair value adjustment of an equity investment, and other items. See Notes to Condensed Consolidated Financial Statements, Note 2. Impairments and Other Charges for further discussion of these charges.
+Nonoperating Items
+Argentina Impairment on Investment.   In 2022 and 2023, we executed a series of loans to a third party and received notes that are to be repaid in U.S. dollars upon maturity or earlier if certain conditions are met. During the nine months ended September 30, 2024, we recorded a loss of $38 million in March of 2024 due to the fair value decrease in one of the notes, resulting from the deterioration in the outlook of the debtor’s liquidity and financial projections.
+Egypt Currency Impact.   In the first quarter of 2024, the Egyptian pound devalued by approximately 35% relative to the U.S. dollar. Consequently, we incurred a loss of $38 million in the nine months ended September 30, 2024, due to the devaluation of the currency in Egypt.
+HAL Q3 2024 FORM 10-Q | 25
+Table of Contents
+Part I. Item 2 | Results of Operations in 2024 Compared to 2023 (YTD)
+Argentina Blue Chip Swap  . The Central Bank of Argentina maintains currency controls that limit our ability to access U.S. dollars in Argentina and remit cash from our Argentine operations. The execution of certain trades known as Blue Chip Swaps, effectively results in a parallel U.S. dollar exchange rate. During the nine months ended September 30, 2023, we entered into Blue Chip Swap transactions, which resulted in a $104 million pre-tax loss on investment.
+Income Tax Provision  . During the nine months ended September 30, 2024, we recorded a total income tax provision of $539 million on a pre-tax income of $2.4 billion, resulting in an effective tax rate of 22.1%. We recorded a tax benefit of $41 million during the nine months ended September 30, 2024, due to a partial release of a valuation allowance on our deferred tax assets based on market conditions. During the nine months ended September 30, 2023, we recorded a total income tax provision of $533 million on pre-tax income of $2.5 billion, resulting in an effective tax rate of 21.1%.
+Pillar Two.   As previously mentioned, The Organization for Economic Co-operation and Development enacted model rules for a new global minimum tax framework, also known as Pillar Two, and certain governments globally have enacted, or are in the process of enacting, legislation considering these model rules. These rules did not have a material impact on our taxes for the nine months ended September 30, 2024.
+HAL Q3 2024 FORM 10-Q | 26
+Table of Contents
+Part I. Item 2 | Forward-Looking Information
+FORWARD-LOOKING INFORMATION
+The Private Securities Litigation Reform Act of 1995 provides safe harbor provisions for forward-looking information. Forward-looking information is based on projections and estimates, not historical information. Some statements in this Form 10-Q are forward-looking and use words like “may,” “may not,” “believe,” “do not believe,” “plan,” “estimate,” “intend,” “expect,” “do not expect,” “anticipate,” “do not anticipate,” “should,” “likely,” and other expressions. We may also provide oral or written forward-looking information in our statements and other materials we release to the public. Forward-looking information involves risks and uncertainties and reflects our best judgment based on current information. Our results of operations can be affected by inaccurate assumptions we make or by known or unknown risks and uncertainties. In addition, other factors may affect the accuracy of our forward-looking information. As a result, no forward-looking information can be guaranteed. Actual events and the results of our operations may vary materially.
+We do not assume any responsibility to publicly update any of our forward-looking statements regardless of whether factors change as a result of new information, future events, or for any other reason. You should review any additional disclosures we make in our press releases and Forms 10-K, 10-Q, and 8-K filed with or furnished to the SEC. We also suggest that you listen to our quarterly earnings release conference calls with financial analysts.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+For quantitative and qualitative disclosures about market risk, see Part II, Item 7(a), “Quantitative and Qualitative Disclosures About Market Risk,” in our 2023 Annual Report on Form 10-K. Our exposure to market risk has not changed materially since December 31, 2023.
+Item 4. Controls and Procedures
+In accordance with the Securities Exchange Act of 1934 Rules 13a-15 and 15d-15, we carried out an evaluation, under the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of September 30, 2024 to provide reasonable assurance that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms. Our disclosure controls and procedures include controls and procedures designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+There has been no change in our internal control over financial reporting that occurred during the quarter ended September 30, 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting.
+HAL Q3 2024 FORM 10-Q | 27
+Table of Contents
+Part II. Item 1 | Legal Proceedings
+PART II. OTHER INFORMATION
+Item 1. Legal Proceedings
+Information related to Item 1.     Legal Proceedings is included in Note 9 to the condensed consolidated financial statements.
+Item 1(a). Risk Factors
+The statements in this section describe the known material risks to our business and should be considered carefully. The risk factor below updates our risk factors previously disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023.
+Our operations are subject to cyberattacks that     could have a material adverse effect on our business, consolidated results of operations, and consolidated financial condition.
+We are increasingly dependent on digital technologies and services to conduct our business. We use these technologies for internal and operational purposes, including data storage, processing, and transmissions, as well as in our interactions with customers and suppliers. Examples of these digital technologies include analytics, automation, and cloud services. Our digital technologies and services, and those of our customers and suppliers, are subject to the risk of cybersecurity incidents and, given the nature of such incidents, some can remain undetected for a period of time despite efforts to detect and respond to them in a timely manner. We routinely monitor our systems for cybersecurity threats and have processes in place to detect and remediate vulnerabilities. Nevertheless, we have experienced cybersecurity incidents and attempted breaches in the past, one of which resulted in an unauthorized third party gaining access to certain of our systems and exfiltrating information from those systems, which we previously disclosed in Form 8-Ks we filed with the Securities and Exchange Commission on August 23, 2024 and September 3, 2024. The incident caused disruptions and limitation of access to portions of our business applications supporting aspects of our operations and corporate functions, required us to incur significant costs, and required a significant amount of attention from management and our work force. We continue to face risks from potential litigation and regulatory actions related to this incident and may discover other impacts or new events, which may occur that could affect our business, reputation, consolidated results of operations, or consolidated financial condition.
+Even if we successfully defend our own digital technologies and services, we also rely on our customers and suppliers, with whom we may share data and services, to protect their digital technologies and services from cybersecurity incidents.
+If our systems, or our customers’ or suppliers’ systems, for protecting against cybersecurity incidents prove not to be sufficient, we could be adversely affected by, among other things: loss of or damage to intellectual property, proprietary or confidential information, or customer, supplier, or employee data; interruption of our business operations; and increased costs required to prevent, respond to, or mitigate cybersecurity incidents. These risks could harm our reputation and our relationships with our customers, employees, suppliers and other third parties, and may result in claims against us. In addition, laws and regulations governing cybersecurity incidents, data privacy, and the unauthorized disclosure of confidential or protected information pose increasingly complex compliance challenges, and failure to comply with these laws could result in penalties and legal liability. These risks could have a material adverse effect on our business, consolidated results of operations, and consolidated financial condition.
+HAL Q3 2024 FORM 10-Q | 28
+Table of Contents
+Part II. Item 2 | Unregistered Sales of Equity Securities and Use of Proceeds
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+Following is a summary of our repurchases of our common stock during the three months ended September 30, 2024.
+Period    Total Number
+of Shares Purchased (a)     Average
+Price Paid per Share    Total Number
+of Shares
+Purchased as
+Part of Publicly
+Announced Plans or Programs (b)    Maximum
+Number (or
+Approximate
+Dollar Value) of
+Shares that may yet
+be Purchased Under the Program (b)
+July 1 - 31    1,965,861    $34.01    1,558,646    $3,496,777,510
+August 1 - 31    3,074,381    $31.43    3,056,417    $3,400,756,024
+September 1 - 30    1,617,715    $28.95    1,598,452    $3,354,511,858
+Total    6,657,957    $31.59    6,213,515
+(a)
+Of the 6,657,957 shares purchased during the three-month period ended September 30, 2024, 444,442 were acquired from employees in connection with the settlement of income tax and related benefit withholding obligations arising from vesting in restricted stock grants. These shares were not part of a publicly announced program to repurchase common stock.
+(b)
+Our Board of Directors has authorized a program to repurchase our common stock from time to time. Approximately $3.4 billion remained authorized for repurchases under the program as of September 30, 2024. From the inception of this program in February of 2006 through September 30, 2024, we repurchased approximately 273 million shares of our common stock for a total cost of approximately $10.8 billion.
+Item 3. Defaults Upon Senior Securities
+None.
+Item 4. Mine Safety Disclosures
+Our barite and bentonite mining operations, in support of our fluid services business, are subject to regulation by the U.S. Mine Safety and Health Administration under the Federal Mine Safety and Health Act of 1977. Information concerning mine safety violations or other regulatory matters required by section 1503(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Item 104 of Regulation S-K (17 CFR 229.104) is included in Exhibit 95 to this quarterly report.
+Item 5. Other Information
+During the three months ended September 30, 2024, no director or officer of the Company adopted or terminated a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+HAL Q3 2024 FORM 10-Q | 29
+Table of Contents
+Part II. Item 6 | Exhibits
+Item 6. Exhibits
+*    31.1
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+*    31.2
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+**    32.1
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+**    32.2
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+*    95
+Mine Safety Disclosures.
+*    101.INS    XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+*    101.SCH    XBRL Taxonomy Extension Schema Document
+*    101.CAL    XBRL Taxonomy Extension Calculation Linkbase Document
+*    101.LAB    XBRL Taxonomy Extension Label Linkbase Document
+*    101.PRE    XBRL Taxonomy Extension Presentation Linkbase Document
+*    101.DEF    XBRL Taxonomy Extension Definition Linkbase Document
+*    104    Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document
+*    Filed with this Form 10-Q.
+**    Furnished with this Form 10-Q.
+HAL Q3 2024 FORM 10-Q | 30
+Table of Contents
+SIGNATURES
+Pursuant to the requirement of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+HALLIBURTON COMPANY
+/s/ Eric J. Carre    /s/ Charles E. Geer, Jr.
+Eric J. Carre    Charles E. Geer, Jr.
+Executive Vice President and    Senior Vice President and
+Chief Financial Officer    Chief Accounting Officer
+Date: November 7, 2024
+HAL Q3 2024 FORM 10-Q | 31

@@ -1,0 +1,1405 @@
+klac-20260930
+false  2027  Q1  0000319201  06-30  http://fasb.org/us-gaap/2026#OtherAssetsCurrent  http://fasb.org/us-gaap/2026#OtherLiabilitiesCurrent  http://fasb.org/us-gaap/2026#OtherAssetsCurrent  http://fasb.org/us-gaap/2026#OtherLiabilitiesCurrent  http://fasb.org/us-gaap/2026#OtherAssetsNoncurrent  http://fasb.org/us-gaap/2026#OtherAssetsNoncurrent  http://fasb.org/us-gaap/2026#OtherLiabilitiesCurrent  http://fasb.org/us-gaap/2026#OtherLiabilitiesCurrent  http://fasb.org/us-gaap/2026#OtherLiabilitiesNoncurrent  http://fasb.org/us-gaap/2026#OtherLiabilitiesNoncurrent  http://fasb.org/us-gaap/2026#SecuredOvernightFinancingRateSofrMember  P2Y  P3Y  P3Y  33.33  25.00        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      xbrli:pure    klac:investment    klac:extension    klac:quarter    klac:installment    klac:derivative_instrument    klac:segment     0000319201    2026-07-01  2026-09-30      0000319201    2026-10-26      0000319201    2026-09-30      0000319201    2026-06-30      0000319201   us-gaap:ProductMember     2026-07-01  2026-09-30      0000319201   us-gaap:ProductMember     2025-07-01  2025-09-30      0000319201   us-gaap:ServiceMember     2026-07-01  2026-09-30      0000319201   us-gaap:ServiceMember     2025-07-01  2025-09-30      0000319201    2025-07-01  2025-09-30      0000319201   us-gaap:CommonStockMember     2026-06-30      0000319201   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2026-06-30      0000319201   us-gaap:RetainedEarningsMember     2026-06-30      0000319201   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-06-30      0000319201   us-gaap:RetainedEarningsMember     2026-07-01  2026-09-30      0000319201   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-07-01  2026-09-30      0000319201   us-gaap:CommonStockMember     2026-07-01  2026-09-30      0000319201   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2026-07-01  2026-09-30      0000319201   us-gaap:CommonStockMember     2026-09-30      0000319201   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2026-09-30      0000319201   us-gaap:RetainedEarningsMember     2026-09-30      0000319201   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-09-30      0000319201   us-gaap:CommonStockMember     2025-06-30      0000319201   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2025-06-30      0000319201   us-gaap:RetainedEarningsMember     2025-06-30      0000319201   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-06-30      0000319201    2025-06-30      0000319201   us-gaap:RetainedEarningsMember     2025-07-01  2025-09-30      0000319201   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-07-01  2025-09-30      0000319201   us-gaap:CommonStockMember     2025-07-01  2025-09-30      0000319201   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2025-07-01  2025-09-30      0000319201   us-gaap:CommonStockMember     2025-09-30      0000319201   us-gaap:CommonStockIncludingAdditionalPaidInCapitalMember     2025-09-30      0000319201   us-gaap:RetainedEarningsMember     2025-09-30      0000319201   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-09-30      0000319201    2025-09-30      0000319201    2026-06-11  2026-06-11      0000319201    2026-06-11      0000319201   srt:MinimumMember     2026-09-30      0000319201   srt:MaximumMember     2026-09-30      0000319201   klac:LongTermContractWithCustomerTwelveToTwentyFourMonthsMember     2026-09-30      0000319201   klac:LongTermContractWithCustomerTwentyFourMonthsOrGreaterMember     2026-09-30      0000319201   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2026-09-30      0000319201   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-09-30      0000319201   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-09-30      0000319201   klac:MoneyMarketBankDepositsAndOtherMember  us-gaap:FairValueMeasurementsRecurringMember     2026-09-30      0000319201   klac:MoneyMarketBankDepositsAndOtherMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-09-30      0000319201   klac:MoneyMarketBankDepositsAndOtherMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-09-30      0000319201   us-gaap:SovereignDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2026-09-30      0000319201   us-gaap:SovereignDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-09-30      0000319201   us-gaap:SovereignDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-09-30      0000319201   us-gaap:MunicipalBondsMember  us-gaap:FairValueMeasurementsRecurringMember     2026-09-30      0000319201   us-gaap:MunicipalBondsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-09-30      0000319201   us-gaap:MunicipalBondsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-09-30      0000319201   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2026-09-30      0000319201   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-09-30      0000319201   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-09-30      0000319201   us-gaap:USTreasurySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2026-09-30      0000319201   us-gaap:USTreasurySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-09-30      0000319201   us-gaap:USTreasurySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-09-30      0000319201   us-gaap:EquitySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2026-09-30      0000319201   us-gaap:EquitySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-09-30      0000319201   us-gaap:EquitySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-09-30      0000319201   us-gaap:FairValueMeasurementsRecurringMember     2026-09-30      0000319201   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-09-30      0000319201   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-09-30      0000319201   us-gaap:InterestRateSwapMember  us-gaap:FairValueMeasurementsRecurringMember     2026-09-30      0000319201   us-gaap:InterestRateSwapMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-09-30      0000319201   us-gaap:InterestRateSwapMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-09-30      0000319201   us-gaap:MunicipalBondsMember  us-gaap:FairValueMeasurementsRecurringMember     2026-06-30      0000319201   us-gaap:MunicipalBondsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0000319201   us-gaap:MunicipalBondsMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0000319201   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2026-06-30      0000319201   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0000319201   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0000319201   klac:MoneyMarketBankDepositsAndOtherMember  us-gaap:FairValueMeasurementsRecurringMember     2026-06-30      0000319201   klac:MoneyMarketBankDepositsAndOtherMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0000319201   klac:MoneyMarketBankDepositsAndOtherMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0000319201   us-gaap:SovereignDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2026-06-30      0000319201   us-gaap:SovereignDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0000319201   us-gaap:SovereignDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0000319201   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2026-06-30      0000319201   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0000319201   us-gaap:USGovernmentAgenciesDebtSecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0000319201   us-gaap:USTreasurySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2026-06-30      0000319201   us-gaap:USTreasurySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0000319201   us-gaap:USTreasurySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0000319201   us-gaap:EquitySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember     2026-06-30      0000319201   us-gaap:EquitySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0000319201   us-gaap:EquitySecuritiesMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0000319201   us-gaap:FairValueMeasurementsRecurringMember     2026-06-30      0000319201   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0000319201   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0000319201   us-gaap:InterestRateSwapMember  us-gaap:FairValueMeasurementsRecurringMember     2026-06-30      0000319201   us-gaap:InterestRateSwapMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2026-06-30      0000319201   us-gaap:InterestRateSwapMember  us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2026-06-30      0000319201    us-gaap:SellingGeneralAndAdministrativeExpense      2026-07-01  2026-09-30      0000319201    us-gaap:SellingGeneralAndAdministrativeExpense      2025-07-01  2025-09-30      0000319201   us-gaap:AccumulatedTranslationAdjustmentMember     2026-09-30      0000319201   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2026-09-30      0000319201   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-09-30      0000319201   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-09-30      0000319201   us-gaap:AccumulatedTranslationAdjustmentMember     2026-06-30      0000319201   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2026-06-30      0000319201   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-06-30      0000319201   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2026-06-30      0000319201   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2026-07-01  2026-09-30      0000319201   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2025-07-01  2025-09-30      0000319201   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2026-07-01  2026-09-30      0000319201   us-gaap:ReclassificationOutOfAccumulatedOtherComprehensiveIncomeMember  us-gaap:AccumulatedNetInvestmentGainLossIncludingPortionAttributableToNoncontrollingInterestMember     2025-07-01  2025-09-30      0000319201   us-gaap:CorporateDebtSecuritiesMember     2026-09-30      0000319201   us-gaap:MunicipalBondsMember     2026-09-30      0000319201   us-gaap:SovereignDebtSecuritiesMember     2026-09-30      0000319201   us-gaap:USGovernmentAgenciesDebtSecuritiesMember     2026-09-30      0000319201   us-gaap:USTreasurySecuritiesMember     2026-09-30      0000319201   us-gaap:CorporateDebtSecuritiesMember     2026-06-30      0000319201   us-gaap:MunicipalBondsMember     2026-06-30      0000319201   us-gaap:SovereignDebtSecuritiesMember     2026-06-30      0000319201   us-gaap:USGovernmentAgenciesDebtSecuritiesMember     2026-06-30      0000319201   us-gaap:USTreasurySecuritiesMember     2026-06-30      0000319201   klac:CorporateAndGovernmentSecuritiesMember     2026-09-30      0000319201   klac:SemiconductorProcessControlMember     2026-06-30      0000319201   klac:SpecialtySemiconductorProcessMember     2026-06-30      0000319201   klac:PCBAndComponentInspectionMember     2026-06-30      0000319201   klac:SemiconductorProcessControlMember     2026-07-01  2026-09-30      0000319201   klac:SpecialtySemiconductorProcessMember     2026-07-01  2026-09-30      0000319201   klac:PCBAndComponentInspectionMember     2026-07-01  2026-09-30      0000319201   klac:SemiconductorProcessControlMember     2026-09-30      0000319201   klac:SpecialtySemiconductorProcessMember     2026-09-30      0000319201   klac:PCBAndComponentInspectionMember     2026-09-30      0000319201   klac:ExistingTechnologyMember     2026-09-30      0000319201   klac:ExistingTechnologyMember     2026-06-30      0000319201   us-gaap:CustomerRelationshipsMember     2026-09-30      0000319201   us-gaap:CustomerRelationshipsMember     2026-06-30      0000319201   klac:TradeNameTrademarkMember     2026-09-30      0000319201   klac:TradeNameTrademarkMember     2026-06-30      0000319201   us-gaap:OtherIntangibleAssetsMember     2026-09-30      0000319201   us-gaap:OtherIntangibleAssetsMember     2026-06-30      0000319201   us-gaap:InProcessResearchAndDevelopmentMember     2026-09-30      0000319201   us-gaap:InProcessResearchAndDevelopmentMember     2026-06-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueMarch152029Member     2026-09-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueMarch152029Member     2026-06-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueJuly152032Member     2026-09-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueJuly152032Member     2026-06-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueFebruary12034Member     2026-09-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueFebruary12034Member     2026-06-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueNovember12034Member     2026-09-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueNovember12034Member     2026-06-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueMarch152049Member     2026-09-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueMarch152049Member     2026-06-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueMarch12050Member     2026-09-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueMarch12050Member     2026-06-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueJuly152052Member     2026-09-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueJuly152052Member     2026-06-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueJuly152062Member     2026-09-30      0000319201   us-gaap:SeniorNotesMember  klac:SeniorNotesDueJuly152062Member     2026-06-30      0000319201   us-gaap:InterestRateSwapMember     2026-09-30      0000319201   us-gaap:SeniorNotesMember     2026-07-01  2026-09-30      0000319201   us-gaap:SeniorNotesMember     2026-09-30      0000319201   us-gaap:SeniorNotesMember     2026-06-30      0000319201   us-gaap:LineOfCreditMember  us-gaap:RevolvingCreditFacilityMember     2025-07-03      0000319201   us-gaap:LineOfCreditMember  us-gaap:RevolvingCreditFacilityMember     2026-09-30      0000319201   us-gaap:LineOfCreditMember  us-gaap:RevolvingCreditFacilityMember     2026-07-01  2026-09-30      0000319201   us-gaap:LineOfCreditMember  us-gaap:RevolvingCreditFacilityMember  srt:MinimumMember     2026-07-01  2026-09-30      0000319201   us-gaap:LineOfCreditMember  us-gaap:RevolvingCreditFacilityMember  srt:MaximumMember     2026-07-01  2026-09-30      0000319201   srt:MinimumMember     2026-07-01  2026-09-30      0000319201   srt:MaximumMember     2026-07-01  2026-09-30      0000319201   klac:TwoThousandTwentyThreePlanMember     2026-09-30      0000319201   klac:TwoThousandTwentyThreePlanMember     2026-06-30      0000319201   klac:TwoThousandTwentyThreePlanMember     2026-07-01  2026-09-30      0000319201   klac:RestrictedStockUnitPerformanceBasedAndServiceBasedMember  klac:SeniorManagementMember     2026-07-01  2026-09-30      0000319201    us-gaap:CostOfRevenue      2026-07-01  2026-09-30      0000319201    us-gaap:CostOfRevenue      2025-07-01  2025-09-30      0000319201    us-gaap:ResearchAndDevelopmentExpense      2026-07-01  2026-09-30      0000319201    us-gaap:ResearchAndDevelopmentExpense      2025-07-01  2025-09-30      0000319201   us-gaap:RestrictedStockUnitsRSUMember  klac:TwoThousandTwentyThreePlanMember     2026-06-30      0000319201   us-gaap:RestrictedStockUnitsRSUMember  klac:TwoThousandTwentyThreePlanMember     2026-07-01  2026-09-30      0000319201   us-gaap:RestrictedStockUnitsRSUMember  klac:TwoThousandTwentyThreePlanMember     2026-09-30      0000319201   klac:RestrictedStockUnitPerformanceBasedAndServiceBasedMember  klac:TwoThousandTwentyThreePlanMember     2026-09-30      0000319201   klac:RestrictedStockUnitServiceBasedMember  srt:MinimumMember     2026-07-01  2026-09-30      0000319201   klac:RestrictedStockUnitServiceBasedMember  srt:MaximumMember     2026-07-01  2026-09-30      0000319201   klac:RestrictedStockUnitMarketBasedAndServiceBasedMember  srt:MinimumMember     2026-07-01  2026-09-30      0000319201   klac:RestrictedStockUnitMarketBasedAndServiceBasedMember  srt:MaximumMember     2026-07-01  2026-09-30      0000319201   us-gaap:RestrictedStockUnitsRSUMember     2026-09-30      0000319201   us-gaap:RestrictedStockUnitsRSUMember     2026-07-01  2026-09-30      0000319201   klac:CashBasedLongTermIncentiveProgramMember  srt:MinimumMember     2026-07-01  2026-09-30      0000319201   klac:CashBasedLongTermIncentiveProgramMember  srt:MaximumMember     2026-07-01  2026-09-30      0000319201   us-gaap:TreasuryLockMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:TreasuryLockMember  us-gaap:CashFlowHedgingMember     2026-09-30      0000319201   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember     2026-07-01  2026-09-30      0000319201   us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember     2025-07-01  2025-09-30      0000319201   us-gaap:ForeignExchangeContractMember  us-gaap:NetInvestmentHedgingMember     2026-07-01  2026-09-30      0000319201   us-gaap:ForeignExchangeContractMember  us-gaap:NetInvestmentHedgingMember     2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:TreasuryLockMember   us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:TreasuryLockMember   us-gaap:CostOfRevenue      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:TreasuryLockMember   us-gaap:InterestExpenseNonoperating      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:TreasuryLockMember   us-gaap:OtherNonoperatingIncomeExpense      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:TreasuryLockMember   us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:TreasuryLockMember   us-gaap:CostOfRevenue      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:TreasuryLockMember   us-gaap:InterestExpenseNonoperating      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:TreasuryLockMember   us-gaap:OtherNonoperatingIncomeExpense      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember   us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember   us-gaap:CostOfRevenue      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember   us-gaap:InterestExpenseNonoperating      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember   us-gaap:OtherNonoperatingIncomeExpense      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember   us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember   us-gaap:CostOfRevenue      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember   us-gaap:InterestExpenseNonoperating      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember   us-gaap:OtherNonoperatingIncomeExpense      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:InterestRateContractMember   us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:InterestRateContractMember   us-gaap:CostOfRevenue      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:InterestRateContractMember   us-gaap:InterestExpenseNonoperating      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:InterestRateContractMember   us-gaap:OtherNonoperatingIncomeExpense      2026-07-01  2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:InterestRateContractMember   us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:InterestRateContractMember   us-gaap:CostOfRevenue      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:InterestRateContractMember   us-gaap:InterestExpenseNonoperating      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:InterestRateContractMember   us-gaap:OtherNonoperatingIncomeExpense      2025-07-01  2025-09-30      0000319201   us-gaap:NondesignatedMember  us-gaap:ForeignExchangeContractMember   us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax      2026-07-01  2026-09-30      0000319201   us-gaap:NondesignatedMember  us-gaap:ForeignExchangeContractMember   us-gaap:CostOfRevenue      2026-07-01  2026-09-30      0000319201   us-gaap:NondesignatedMember  us-gaap:ForeignExchangeContractMember   us-gaap:InterestExpenseNonoperating      2026-07-01  2026-09-30      0000319201   us-gaap:NondesignatedMember  us-gaap:ForeignExchangeContractMember   us-gaap:OtherNonoperatingIncomeExpense      2026-07-01  2026-09-30      0000319201   us-gaap:NondesignatedMember  us-gaap:ForeignExchangeContractMember   us-gaap:RevenueFromContractWithCustomerExcludingAssessedTax      2025-07-01  2025-09-30      0000319201   us-gaap:NondesignatedMember  us-gaap:ForeignExchangeContractMember   us-gaap:CostOfRevenue      2025-07-01  2025-09-30      0000319201   us-gaap:NondesignatedMember  us-gaap:ForeignExchangeContractMember   us-gaap:InterestExpenseNonoperating      2025-07-01  2025-09-30      0000319201   us-gaap:NondesignatedMember  us-gaap:ForeignExchangeContractMember   us-gaap:OtherNonoperatingIncomeExpense      2025-07-01  2025-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:LongMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:LongMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:ShortMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember  us-gaap:CashFlowHedgingMember  us-gaap:ShortMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember  us-gaap:NetInvestmentHedgingMember  us-gaap:ShortMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  us-gaap:ForeignExchangeContractMember  us-gaap:NetInvestmentHedgingMember  us-gaap:ShortMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  klac:OtherForeignCurrencyHedgeContractsMember  us-gaap:LongMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  klac:OtherForeignCurrencyHedgeContractsMember  us-gaap:LongMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  klac:OtherForeignCurrencyHedgeContractsMember  us-gaap:ShortMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember  klac:OtherForeignCurrencyHedgeContractsMember  us-gaap:ShortMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherAssetsCurrent   us-gaap:ForeignExchangeContractMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherAssetsCurrent   us-gaap:ForeignExchangeContractMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherLiabilitiesCurrent   us-gaap:ForeignExchangeContractMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherLiabilitiesCurrent   us-gaap:ForeignExchangeContractMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherAssetsCurrent   us-gaap:InterestRateContractMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherAssetsCurrent   us-gaap:InterestRateContractMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherLiabilitiesCurrent   us-gaap:InterestRateContractMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherLiabilitiesCurrent   us-gaap:InterestRateContractMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherAssetsNoncurrent   us-gaap:InterestRateContractMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherAssetsNoncurrent   us-gaap:InterestRateContractMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherLiabilitiesNoncurrent   us-gaap:InterestRateContractMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember   us-gaap:OtherLiabilitiesNoncurrent   us-gaap:InterestRateContractMember     2026-06-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember     2026-09-30      0000319201   us-gaap:DesignatedAsHedgingInstrumentMember     2026-06-30      0000319201   us-gaap:NondesignatedMember   us-gaap:OtherAssetsCurrent   us-gaap:ForeignExchangeContractMember     2026-09-30      0000319201   us-gaap:NondesignatedMember   us-gaap:OtherAssetsCurrent   us-gaap:ForeignExchangeContractMember     2026-06-30      0000319201   us-gaap:NondesignatedMember   us-gaap:OtherLiabilitiesCurrent   us-gaap:ForeignExchangeContractMember     2026-09-30      0000319201   us-gaap:NondesignatedMember   us-gaap:OtherLiabilitiesCurrent   us-gaap:ForeignExchangeContractMember     2026-06-30      0000319201   us-gaap:NondesignatedMember     2026-09-30      0000319201   us-gaap:NondesignatedMember     2026-06-30      0000319201   us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember     2026-06-30      0000319201   us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember     2025-06-30      0000319201   us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember     2026-07-01  2026-09-30      0000319201   us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember     2025-07-01  2025-09-30      0000319201   us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember     2026-09-30      0000319201   us-gaap:AociDerivativeQualifyingAsHedgeExcludedComponentParentMember     2025-09-30      0000319201    2025-12-31  2025-12-31      0000319201   klac:SemiconductorProcessControlMember  us-gaap:OperatingSegmentsMember     2026-07-01  2026-09-30      0000319201   klac:SpecialtySemiconductorProcessMember  us-gaap:OperatingSegmentsMember     2026-07-01  2026-09-30      0000319201   klac:PCBAndComponentInspectionMember  us-gaap:OperatingSegmentsMember     2026-07-01  2026-09-30      0000319201   us-gaap:OperatingSegmentsMember     2026-07-01  2026-09-30      0000319201   klac:SemiconductorProcessControlMember  us-gaap:OperatingSegmentsMember     2025-07-01  2025-09-30      0000319201   klac:SpecialtySemiconductorProcessMember  us-gaap:OperatingSegmentsMember     2025-07-01  2025-09-30      0000319201   klac:PCBAndComponentInspectionMember  us-gaap:OperatingSegmentsMember     2025-07-01  2025-09-30      0000319201   us-gaap:OperatingSegmentsMember     2025-07-01  2025-09-30      0000319201   klac:CorporateAndReconcilingItemsMember     2026-07-01  2026-09-30      0000319201   klac:CorporateAndReconcilingItemsMember     2025-07-01  2025-09-30      0000319201   country:CN     2026-07-01  2026-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  country:CN     2026-07-01  2026-09-30      0000319201   country:CN     2025-07-01  2025-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  country:CN     2025-07-01  2025-09-30      0000319201   country:TW     2026-07-01  2026-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  country:TW     2026-07-01  2026-09-30      0000319201   country:TW     2025-07-01  2025-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  country:TW     2025-07-01  2025-09-30      0000319201   srt:NorthAmericaMember     2026-07-01  2026-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  srt:NorthAmericaMember     2026-07-01  2026-09-30      0000319201   srt:NorthAmericaMember     2025-07-01  2025-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  srt:NorthAmericaMember     2025-07-01  2025-09-30      0000319201   country:KR     2026-07-01  2026-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  country:KR     2026-07-01  2026-09-30      0000319201   country:KR     2025-07-01  2025-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  country:KR     2025-07-01  2025-09-30      0000319201   klac:RestOfAsiaMember     2026-07-01  2026-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:RestOfAsiaMember     2026-07-01  2026-09-30      0000319201   klac:RestOfAsiaMember     2025-07-01  2025-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:RestOfAsiaMember     2025-07-01  2025-09-30      0000319201   klac:EuropeAndIsraelMember     2026-07-01  2026-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:EuropeAndIsraelMember     2026-07-01  2026-09-30      0000319201   klac:EuropeAndIsraelMember     2025-07-01  2025-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:EuropeAndIsraelMember     2025-07-01  2025-09-30      0000319201   country:JP     2026-07-01  2026-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  country:JP     2026-07-01  2026-09-30      0000319201   country:JP     2025-07-01  2025-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  country:JP     2025-07-01  2025-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember     2026-07-01  2026-09-30      0000319201   us-gaap:GeographicConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember     2025-07-01  2025-09-30      0000319201   klac:WaferInspectionMember     2026-07-01  2026-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:WaferInspectionMember     2026-07-01  2026-09-30      0000319201   klac:WaferInspectionMember     2025-07-01  2025-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:WaferInspectionMember     2025-07-01  2025-09-30      0000319201   klac:PatterningMember     2026-07-01  2026-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:PatterningMember     2026-07-01  2026-09-30      0000319201   klac:PatterningMember     2025-07-01  2025-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:PatterningMember     2025-07-01  2025-09-30      0000319201   klac:SpecialtySemiconductorProcessMember     2026-07-01  2026-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:SpecialtySemiconductorProcessMember     2026-07-01  2026-09-30      0000319201   klac:SpecialtySemiconductorProcessMember     2025-07-01  2025-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:SpecialtySemiconductorProcessMember     2025-07-01  2025-09-30      0000319201   klac:PCBAndComponentInspectionMember     2026-07-01  2026-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:PCBAndComponentInspectionMember     2026-07-01  2026-09-30      0000319201   klac:PCBAndComponentInspectionMember     2025-07-01  2025-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:PCBAndComponentInspectionMember     2025-07-01  2025-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  us-gaap:ServiceMember     2026-07-01  2026-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  us-gaap:ServiceMember     2025-07-01  2025-09-30      0000319201   klac:OtherRevenueMember     2026-07-01  2026-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:OtherRevenueMember     2026-07-01  2026-09-30      0000319201   klac:OtherRevenueMember     2025-07-01  2025-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember  klac:OtherRevenueMember     2025-07-01  2025-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember     2026-07-01  2026-09-30      0000319201   us-gaap:ProductConcentrationRiskMember  us-gaap:RevenueFromContractWithCustomerMember     2025-07-01  2025-09-30      0000319201   us-gaap:CustomerConcentrationRiskMember  klac:LargestCustomerMember  us-gaap:RevenueFromContractWithCustomerMember     2026-07-01  2026-09-30      0000319201   us-gaap:CustomerConcentrationRiskMember  klac:SecondLargestCustomerMember  us-gaap:RevenueFromContractWithCustomerMember     2026-07-01  2026-09-30      0000319201   us-gaap:CustomerConcentrationRiskMember  klac:LargestCustomerMember  us-gaap:RevenueFromContractWithCustomerMember     2025-07-01  2025-09-30      0000319201   us-gaap:CustomerConcentrationRiskMember  klac:SecondLargestCustomerMember  us-gaap:RevenueFromContractWithCustomerMember     2025-07-01  2025-09-30      0000319201   us-gaap:CustomerConcentrationRiskMember  klac:ThirdLargestCustomerMember  us-gaap:RevenueFromContractWithCustomerMember     2025-07-01  2025-09-30      0000319201   country:US     2026-09-30      0000319201   country:US     2026-06-30      0000319201   srt:EuropeMember     2026-09-30      0000319201   srt:EuropeMember     2026-06-30      0000319201   country:SG     2026-09-30      0000319201   country:SG     2026-06-30      0000319201   klac:RestOfAsiaMember     2026-09-30      0000319201   klac:RestOfAsiaMember     2026-06-30      0000319201   country:IL     2026-09-30      0000319201   country:IL     2026-06-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark one)
+☒     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  September 30, 2026
+or
+☐     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                  to
+Commission File Number  000-09992
+KLA CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware       04-2564110
+(State or other jurisdiction of
+incorporation or organization)     (I.R.S. Employer
+Identification No.)
+One Technology Drive,      Milpitas,      California       95035
+(Address of principal executive offices)     (Zip Code)
+( 408 )  875-3000
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol(s)    Name of each exchange on which registered
+Common Stock, $0.001 par value per share      KLAC      The Nasdaq Stock Market, LLC
+The Nasdaq Global Select Market
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes       ☒      No    ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).   Yes     ☒      No    ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer     ☒       Accelerated filer     ☐
+Non-accelerated filer     ☐       Smaller reporting company      ☐
+Emerging growth company      ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes   ☐      No     ☒
+As of October 26, 2026, there were  1,302,962,435  shares of the registrant’s Common Stock, $0.001 par value per share, outstanding.
+Table of Contents
+INDEX
+Page
+Number
+PART I    FINANCIAL INFORMATION
+Item 1.
+Financial Statements (Unaudited)
+Condensed Consolidated Balance Sheets as of  September 30, 2026  and  June 30, 2026
+3
+Condensed Consolidated Statements of Operations for the  Three Months Ended September 30, 2026  and  2025
+4
+Condensed Consolidated Statements of Comprehensive Income for the  Three Months Ended September 30, 2026  and  2025
+5
+Condensed Consolidated Statements of Stockholders   ’    Equity for the  Three Months Ended September 30, 2026  and  2025
+6
+Condensed Consolidated Statements of Cash Flows for the  Three Months Ended   September 30, 2026  and  2025
+7
+Notes to Condensed Consolidated Financial Statements
+8
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+30
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+42
+Item 4.
+Controls and Procedures
+42
+PART II    OTHER INFORMATION
+Item 1.
+Legal Proceedings
+44
+Item 1A.
+Risk Factors
+44
+Item 2.
+Unregistered Sales of Equity Securities         and Use of Proceeds
+45
+Item 3.
+Defaults Upon Senior Securities
+45
+Item 4.
+Mine Safety Disclosures
+45
+Item 5.
+Other Information
+45
+Item 6.
+Exhibits
+46
+SIGNATURES
+47
+2
+Table of Contents
+PART I. FINANCIAL INFORMATION
+ITEM 1.     FINANCIAL STATEMENTS
+KLA CORPORATION
+Condensed Consolidated Balance Sheets
+(Unaudited)
+(In thousands)    September 30,
+2026     June 30,
+2026
+ASSETS
+Current assets:
+Cash and cash equivalents    $     1,531,950        $     1,649,842
+Marketable securities     3,209,241         3,252,566
+Accounts receivable, net     3,072,087         2,889,208
+Inventories     4,090,426         3,648,538
+Other current assets     669,711         941,636
+Total current assets     12,573,415         12,381,790
+Land, property and equipment, net     1,541,331         1,380,550
+Goodwill, net     1,789,683         1,788,758
+Deferred income taxes     1,054,617         1,037,224
+Purchased intangible assets, net     212,598         255,835
+Other non-current assets     1,233,091         1,107,378
+Total assets    $     18,404,735        $     17,951,535
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable    $     740,743        $     623,668
+Deferred system revenue     843,008         932,901
+Deferred service revenue     634,232         604,127
+Other current liabilities     2,337,103         2,144,231
+Total current liabilities     4,555,086         4,304,927
+Long-term debt     5,723,289         5,887,415
+Deferred tax liabilities     452,541         473,648
+Deferred service revenue     230,562         238,111
+Other non-current liabilities     919,850         697,614
+Total liabilities     11,881,328         11,601,715
+Commitments and contingencies (Notes 8, 13 and 14)
+Stockholders’ equity:
+Common stock and capital in excess of par value     2,585,416         2,700,409
+Retained earnings     3,997,397         3,683,864
+Accumulated other comprehensive loss    ( 59,406 )      ( 34,453 )
+Total stockholders’ equity     6,523,407         6,349,820
+Total liabilities and stockholders’ equity    $     18,404,735        $     17,951,535
+See accompanying notes to Condensed Consolidated Financial Statements (unaudited).
+3
+Table of Contents
+KLA CORPORATION
+Condensed Consolidated Statements of Operations
+(Unaudited)
+Three Months Ended September 30,
+(In thousands, except per share amounts)    2026     2025
+Revenues:
+Product    $     3,285,469        $     2,465,006
+Service     850,546         744,690
+Total revenues     4,136,015         3,209,696
+Costs and expenses:
+Costs of revenues     1,577,791         1,243,070
+Research and development     395,096         360,461
+Selling, general and administrative     301,458         268,988
+Interest expense     67,927         71,075
+Other expense (income), net    ( 30,339 )      ( 43,374 )
+Income before income taxes     1,824,082         1,309,476
+Provision for income taxes     275,494         188,436
+Net income    $     1,548,588        $     1,121,040
+Net income per share
+Basic    $     1.19        $     0.85
+Diluted    $     1.18        $     0.85
+Weighted-average number of shares:
+Basic     1,305,330         1,317,567
+Diluted     1,311,064         1,323,808
+See accompanying notes to Condensed Consolidated Financial Statements (unaudited).
+4
+Table of Contents
+KLA CORPORATION
+Condensed Consolidated Statements of Comprehensive Income
+(Unaudited)
+Three Months Ended September 30,
+(In thousands)    2026     2025
+Net income    $     1,548,588        $     1,121,040
+Other comprehensive income (loss):
+Currency translation adjustments:
+Cumulative currency translation adjustments     4,962         4,640
+Income tax provision    ( 1,578 )      ( 716 )
+Net change related to currency translation adjustments     3,384         3,924
+Cash flow hedges:
+Net unrealized gains (losses) arising during the period    ( 13,014 )       3,364
+Reclassification adjustments for net gains included in net income    ( 6,148 )      ( 12,212 )
+Income tax benefit     2,826         2,404
+Net change related to cash flow hedges    ( 16,336 )      ( 6,444 )
+Net change related to unrecognized gains and transition obligations in connection with defined benefit plans     410         146
+Available-for-sale securities:
+Net unrealized gains (losses) arising during the period    ( 15,887 )       2,446
+Reclassification adjustments for net (gains) losses included in net income     85        ( 97 )
+Income tax (provision) benefit     3,391        ( 505 )
+Net change related to available-for-sale securities    ( 12,411 )       1,844
+Other comprehensive loss    ( 24,953 )      ( 530 )
+Total comprehensive income    $     1,523,635        $     1,120,510
+See accompanying notes to Condensed Consolidated Financial Statements (unaudited).
+5
+Table of Contents
+KLA CORPORATION
+Condensed Consolidated Statements of Stockholders’ Equity
+(Unaudited)
+Common Stock and
+Capital in Excess of
+Par Value     Retained
+Earnings     Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total
+Stockholders’
+Equity
+(In thousands, except per share amounts)    Shares     Amount
+Balances as of June 30, 2026     1,306,983        $     2,700,409        $     3,683,864        $    ( 34,453 )          $     6,349,820
+Net income    —       —        1,548,588        —            1,548,588
+Other comprehensive loss    —       —       —       ( 24,953 )          ( 24,953 )
+Net issuance under employee stock plans     1,194        ( 188,932 )      —       —           ( 188,932 )
+Repurchase of common stock    ( 4,914 )      ( 10,134 )      ( 932,784 )      —           ( 942,918 )
+Cash dividends ($ 0.230  per share) and dividend equivalents declared
+—       —       ( 302,271 )      —           ( 302,271 )
+Stock-based compensation expense    —        84,073        —       —            84,073
+Balances as of September 30, 2026     1,303,263        $     2,585,416        $     3,997,397        $    ( 59,406 )          $     6,523,407
+Common Stock and
+Capital in Excess of
+Par Value     Retained
+Earnings     Accumulated
+Other
+Comprehensive
+Income (Loss)
+Total
+Stockholders’
+Equity
+(In thousands, except per share amounts)    Shares     Amount
+Balances as of June 30, 2025     1,320,227        $     2,511,922        $     2,179,330        $     1,201            $     4,692,453
+Net income    —       —        1,121,040        —            1,121,040
+Other comprehensive loss    —       —       —       ( 530 )          ( 530 )
+Net issuance under employee stock plans     1,161        ( 81,122 )      —       —           ( 81,122 )
+Repurchase of common stock    ( 6,225 )      ( 11,861 )      ( 552,539 )      —           ( 564,400 )
+Cash dividends ($ 0.190  per share) and dividend equivalents declared
+—       —       ( 252,552 )      —           ( 252,552 )
+Stock-based compensation expense    —        70,182        —       —            70,182
+Balances as of September 30, 2025     1,315,163        $     2,489,121        $     2,495,279        $     671            $     4,985,071
+See accompanying notes to Condensed Consolidated Financial Statements (unaudited).
+6
+Table of Contents
+KLA CORPORATION
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+Three Months Ended September 30,
+(In thousands)    2026     2025
+Cash flows from operating activities:
+Net income    $     1,548,588        $     1,121,040
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization     97,424         97,016
+Unrealized foreign exchange (gain) loss and other    ( 6,872 )       12,078
+Stock-based compensation expense     84,073         70,182
+Deferred income taxes    ( 27,093 )      ( 10,615 )
+Changes in assets and liabilities:
+Accounts receivable    ( 179,196 )      ( 12,575 )
+Inventories    ( 433,839 )      ( 95,738 )
+Other assets     176,890         50,921
+Accounts payable     116,666        ( 23,680 )
+Deferred system revenue    ( 89,893 )       1,974
+Deferred service revenue     22,556        ( 4,970 )
+Other liabilities     221,635        ( 44,042 )
+Net cash provided by operating activities     1,530,939         1,161,591
+Cash flows from investing activities:
+Capital expenditures    ( 194,756 )      ( 95,894 )
+Proceeds from capital-related government assistance     435         1,541
+Purchases of available-for-sale and equity securities    ( 701,246 )      ( 949,871 )
+Proceeds from maturity and sale of available-for-sale securities     716,202         632,795
+Purchases of trading securities    ( 36,801 )      ( 156,864 )
+Proceeds from sale of trading securities     38,228         158,305
+Net cash used in investing activities    ( 177,938 )      ( 409,988 )
+Cash flows from financing activities:
+Payment of debt issuance costs     —        ( 1,602 )
+Common stock repurchases    ( 935,776 )      ( 545,067 )
+Payment of dividends to stockholders    ( 305,145 )      ( 254,008 )
+Tax withholding payments related to vested and released restricted stock units    ( 238,682 )      ( 81,122 )
+Net cash used in financing activities    ( 1,479,603 )      ( 881,799 )
+Effect of exchange rate changes on cash and cash equivalents     8,710        ( 2,501 )
+Net decrease in cash and cash equivalents    ( 117,892 )      ( 132,697 )
+Cash and cash equivalents at beginning of period     1,649,842         2,078,908
+Cash and cash equivalents at end of period    $     1,531,950        $     1,946,211
+Supplemental cash flow disclosures:
+Income taxes paid, net    $     61,284        $     119,049
+Interest paid, net of capitalized interest    $     131,275        $     131,494
+See accompanying notes to Condensed Consolidated Financial Statements (unaudited).
+7
+Table of Contents
+KLA CORPORATION
+Notes to Condensed Consolidated Financial Statements
+(Unaudited)
+NOTE 1 –  BASIS OF PRESENTATION
+Basis of Presentation.   For purposes of this report, “KLA,” “Company,” “we,” “our,” “us” or similar references mean KLA Corporation and its majority-owned subsidiaries unless the context requires otherwise. The Condensed Consolidated Financial Statements have been prepared by us pursuant to the rules and regulations of the U.S. Securities and Exchange Commission. Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles generally accepted in the United States of America (“GAAP”) have been condensed or omitted pursuant to such rules and regulations.
+The unaudited interim Condensed Consolidated Financial Statements do not include all of the information and footnotes required by GAAP for audited financial statements. The balance sheet as of June 30, 2026 was derived from the Company’s audited Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2026, but does not include all disclosures required by GAAP for audited financial statements. The unaudited interim Condensed Consolidated Financial Statements reflect all adjustments (consisting only of normal, recurring adjustments) necessary for a fair statement of the financial position, results of operations, comprehensive income, stockholders’ equity and cash flows for the periods indicated. These Condensed Consolidated Financial Statements and notes, however, should be read in conjunction with Item 8 “Financial Statements and Supplementary Data” included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2026.
+The Condensed Consolidated Financial Statements include the accounts of KLA and its majority-owned subsidiaries. All significant intercompany balances and transactions have been eliminated.
+The results of operations for the three months ended September 30, 2026 are not necessarily indicative of the results that may be expected for any other interim period or for the full fiscal year ending June 30, 2027.
+Common Stock Split.   On June 11, 2026, the Company effected a  ten -for-one stock split of its common stock and a proportional increase in the number of authorized shares of common stock. Share and per share information throughout this Quarterly Report on Form 10-Q have been retroactively adjusted to reflect the stock split. The par value per share remains unchanged at $ 0.001  per share after the stock split.
+Management Estimates.   The preparation of the Condensed Consolidated Financial Statements in conformity with GAAP requires management to make estimates and assumptions in applying our accounting policies that affect the reported amounts of assets and liabilities (and related disclosure of contingent assets and liabilities) at the dates of the Condensed Consolidated Financial Statements and the reported amounts of revenues and expenses during the reporting periods. Actual results could differ from those estimates.
+Reclassifications  . The Company has reclassified certain prior period balances to conform to the current year presentation. These reclassifications did not impact any prior amounts of reported total assets, total liabilities, stockholders’ equity, results of operations or cash flows.
+Significant Accounting Policies.   There have been no material changes to our significant accounting policies summarized in Note 1 “Description of Business and Summary of Significant Accounting Policies” to our Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2026.
+Recent Accounting Pronouncements
+Recently Adopted
+None.
+Updates Not Yet Effective
+In November 2024, the Financial Accounting Standards Board (“FASB”) issued Accounting Standards Update (“ASU”) 2024-03,   Income Statement – Reporting Comprehensive Income – Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses  . The new guidance requires enhanced disclosures about certain expenses in the notes to the financial statements to provide enhanced transparency into the expense captions presented on the face of the income statement. In 2025, the FASB issued ASU 2025-01 which clarifies the effective date for entities that do not have an annual reporting period that ends on December 31. The Company is required to adopt this standard for our annual reports beginning in
+8
+Table of Contents
+the fiscal year ending June 30, 2028, and interim period reports beginning in the first quarter of the fiscal year ending June 30, 2029. Early adoption is permitted. The amendments in this ASU should be applied either on a prospective or retrospective basis. We are currently evaluating the impact of this ASU on our disclosures.
+In December 2025, the FASB issued ASU 2025-10,   Government Grants (Topic 832): Accounting for Government Grants Received by Business Entities.   The new guidance establishes the accounting for a government grant received by a business entity, including guidance for a grant related to an asset and a grant related to income. The new guidance also requires disclosures, including the nature of the government grant received, the accounting policies used to account for the grant, and significant terms and conditions of the grant unless legally prohibited from being disclosed. The standard update is effective for our annual and interim reports beginning in the fiscal year ending June 30, 2030. Early adoption is permitted in both interim and annual reporting periods in which the financial statements have not yet been issued or made available for issuance. If adopted in an interim reporting period, it must be adopted as of the beginning of the annual reporting period that includes that interim reporting period. The amendments in this ASU should be applied using a modified prospective, modified retrospective, or retrospective approach. We are currently evaluating the impact of this guidance on our Consolidated Financial Statements.
+NOTE 2 –  REVENUE
+The following table represents the opening and closing balances of accounts receivable, net, contract assets, long-term accounts receivable, net, and contract liabilities as of the indicated dates.
+As of     As of
+(Dollar amounts in thousands)    September 30, 2026     June 30, 2026     $ Change     % Change
+Accounts receivable, net    $     3,072,087        $     2,889,208        $     182,879         6      %
+Contract assets    $     129,900        $     131,673        $    ( 1,773 )      ( 1 )    %
+Long-term accounts receivable, net    $     266,755        $     180,729        $     86,026         48      %
+Contract liabilities    $     1,707,802        $     1,775,139        $    ( 67,337 )      ( 4 )    %
+Our payment terms and conditions vary by contract type, although terms generally include a requirement of payment of  70 % to  90 % of total contract consideration within 30 to 60 days of shipment, with the remainder payable within  30  days of acceptance.
+The change in contract assets during the three months ended September 30, 2026 was mainly due to $ 73.0  million of contract assets reclassified to accounts receivable, net, as our right to consideration for these contract assets became unconditional, partially offset by $ 71.4  million of revenue recognized for which the payment is subject to conditions other than passage of time. Contract assets are included in other current assets on our Condensed Consolidated Balance Sheets.
+The change in contract liabilities during the three months ended September 30, 2026 was mainly due to the recognition as revenue of $ 932.6  million that was included in contract liabilities as of June 30, 2026, partially offset by an increase in the value of products and services billed to customers for which control of the products and services has not transferred to the customers. Contract liabilities are included in current liabilities and non-current liabilities, classified as deferred system revenue or deferred service revenue, on our Condensed Consolidated Balance Sheets.
+The following table represents the transaction price for contracts that have not yet been recognized as revenue as of September 30, 2026, which equals our contract liabilities, and when the Company expects to recognize the amounts as revenue:
+(In thousands)    Less than 12 months     12 to 24 months     24 months or greater     Total
+Contract liabilities    $     1,477,240        $     167,971        $     62,591        $     1,707,802
+9
+Table of Contents
+NOTE 3 –  FAIR VALUE MEASUREMENTS
+Financial assets (excluding cash held in operating accounts and time deposits) and liabilities measured at fair value on a recurring basis as of the dates indicated below were presented on our Condensed Consolidated Balance Sheets as follows:
+Quoted Prices in Active Markets for Identical Assets     Significant Other Observable Inputs
+As of September 30, 2026 (In thousands)    Total      (Level 1)      (Level 2)
+Assets
+Cash equivalents:
+Corporate debt securities    $     7,523        $     —        $     7,523
+Money market funds and other     1,132,489         1,132,489         —
+Sovereign securities     995         —         995
+Municipal securities     1,000         —         1,000
+Marketable securities:
+Corporate debt securities     1,306,637         —         1,306,637
+Municipal securities     15,851         —         15,851
+Sovereign securities     32,924         —         32,924
+U.S. Government agency securities     78,809         78,809         —
+U.S. Treasury securities     1,358,138         1,319,886         38,252
+Equity securities     33,289         33,289         —
+Total cash equivalents and marketable securities  (1)
+3,967,655         2,564,473         1,403,182
+Other current assets:
+Derivative assets      11,550         —         11,550
+Other non-current assets:
+Executive Deferred Savings Plan assets     411,061         385,237         25,824
+Long-term accounts receivable, net     266,755         —         266,755
+Total financial assets  (1)
+$     4,657,021        $     2,949,710        $     1,707,311
+Liabilities
+Other current liabilities:
+Derivative liabilities     $    ( 25,198 )      $     —        $    ( 25,198 )
+Interest rate swap liabilities    ( 3,443 )       —        ( 3,443 )
+Other non-current liabilities:
+Interest rate swap liabilities    ( 162,201 )       —        ( 162,201 )
+Total financial liabilities    $    ( 190,842 )      $     —        $    ( 190,842 )
+________________
+(1) Excludes cash of $ 336.6  million held in operating accounts and time deposits of $ 437.0  million (of which $ 53.4  million were cash equivalents) as of September 30, 2026.
+10
+Table of Contents
+Quoted Prices in Active Markets for Identical Assets     Significant Other Observable Inputs
+As of June 30, 2026 (In thousands)    Total     (Level 1)     (Level 2)
+Assets
+Cash equivalents:
+Municipal securities    $     6,016        $     —        $     6,016
+Corporate debt securities     6,075         —         6,075
+Money market funds and other     1,233,035         1,233,035         —
+Sovereign securities     999         —         999
+Marketable securities:
+Corporate debt securities     1,297,450         —         1,297,450
+Municipal securities     17,403         —         17,403
+Sovereign securities     39,219         —         39,219
+U.S. Government agency securities     75,742         75,742         —
+U.S. Treasury securities     1,355,711         1,275,725         79,986
+Equity securities     46,772         46,772         —
+Total cash equivalents and marketable securities  (1)
+4,078,422         2,631,274         1,447,148
+Other current assets:
+Derivative assets      41,821         —         41,821
+Interest rate swap assets     2,534         —         2,534
+Other non-current assets:
+Executive Deferred Savings Plan assets     416,389         398,414         17,975
+Interest rate swap assets     6,990         —         6,990
+Long-term accounts receivable, net     180,729         —         180,729
+Total financial assets  (1)
+$     4,726,885        $     3,029,688        $     1,697,197
+Liabilities
+Other current liabilities:
+Derivative liabilities     $    ( 12,546 )      $     —        $    ( 12,546 )
+Other non-current liabilities:
+Interest rate swap liabilities    ( 10,107 )       —        ( 10,107 )
+Total financial liabilities    $    ( 22,653 )      $     —        $    ( 22,653 )
+________________
+(1) Excludes cash of $ 333.8  million held in operating accounts and time deposits of $ 490.2  million (of which $ 70.0  million were cash equivalents) as of June 30, 2026.
+We did not have any financial assets or liabilities measured at fair value on a recurring basis within Level 3 fair value measurements as of September 30, 2026 or June 30, 2026. For additional details on our fair value measurement policies and hierarchy, refer to Note 1 “Description of Business and Summary of Significant Accounting Policies” to our Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2026.
+11
+Table of Contents
+NOTE 4 –  FINANCIAL STATEMENT COMPONENTS
+Condensed Consolidated Balance Sheets
+As of     As of
+(In thousands)    September 30, 2026     June 30, 2026
+Accounts receivable, net:
+Accounts receivable, gross    $     3,103,627        $     2,920,238
+Allowance for credit losses    ( 31,540 )      ( 31,030 )
+$     3,072,087        $     2,889,208
+Inventories:
+Customer service parts    $     639,024        $     622,714
+Raw materials     2,126,927         1,849,676
+Work-in-process     1,076,942         937,724
+Finished goods     247,533         238,424
+$     4,090,426        $     3,648,538
+Other current assets:
+Deferred costs of revenues    $     219,239        $     257,175
+Prepaid expenses     143,971         224,515
+Contract assets     129,900         131,673
+Prepaid income and other taxes     60,938         169,090
+Other current assets     115,663         159,183
+$     669,711        $     941,636
+Land, property and equipment, net:
+Land    $     202,532        $     86,654
+Buildings and leasehold improvements     1,333,186         1,254,196
+Machinery and equipment     1,479,287         1,418,112
+Office furniture and fixtures     86,252         86,119
+Construction-in-process     181,063         224,431
+3,282,320         3,069,512
+Less: accumulated depreciation    ( 1,740,989 )      ( 1,688,962 )
+$     1,541,331        $     1,380,550
+Other non-current assets:
+Executive Deferred Savings Plan  (1)   assets
+$     411,061        $     416,389
+Operating lease right of use assets       345,151         335,065
+Long-term accounts receivable, net     266,755         180,729
+Other non-current assets     210,124         175,195
+$     1,233,091        $     1,107,378
+Other current liabilities:
+Compensation and benefits    $     574,679        $     491,108
+Customer deposits     493,816         430,128
+Executive Deferred Savings Plan  (1)   liabilities
+413,197         417,257
+Income taxes payable     142,281         83,996
+Operating lease liabilities       54,013         52,937
+Interest payable     46,545         108,913
+Other liabilities and accrued expenses     612,572         559,892
+$     2,337,103        $     2,144,231
+Other non-current liabilities:
+Income taxes payable    $     299,437        $     250,846
+Operating lease liabilities       215,342         211,361
+Pension liabilities     43,733         43,128
+Customer deposits     13,960         3,816
+Other non-current liabilities     347,378         188,463
+$     919,850        $     697,614
+12
+Table of Contents
+________________
+(1)  We have a non-qualified deferred compensation plan (known as the “Executive Deferred Savings Plan” or “EDSP”) under which certain employees and non-employee directors may defer a portion of their compensation. The expense (benefit) associated with changes in the EDSP liability included in selling, general and administrative (“SG&A”) was $( 2.6 ) million and $ 18.2  million in the three months ended September 30, 2026 and 2025, respectively. The amount of net gains (losses) associated with changes in the EDSP assets included in SG&A expense was $( 2.6 ) million and $ 18.2  million in the three months ended September 30, 2026 and 2025, respectively. For additional details, refer to Note 1 “Description of Business and Summary of Significant Accounting Policies” to our Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2026.
+Accumulated Other Comprehensive Income (Loss)
+The components of Accumulated Other Comprehensive Income (Loss) (“AOCI”) as of the dates indicated below were as follows:
+(In thousands)    Currency Translation Adjustments     Unrealized Gains (Losses) on Available-for-Sale Securities     Unrealized Gains (Losses) on Derivatives     Unrealized Gains (Losses) on Defined Benefit Plans     Total
+Balance as of September 30, 2026    $    ( 66,136 )      $    ( 19,245 )      $     34,106        $    ( 8,131 )      $    ( 59,406 )
+Balance as of June 30, 2026    $    ( 69,520 )      $    ( 6,834 )      $     50,442        $    ( 8,541 )      $    ( 34,453 )
+The effects on net income of amounts reclassified from AOCI to the Condensed Consolidated Statements of Operations for the indicated periods were as follows (in thousands, amounts in parentheses indicate debits or reductions to earnings):
+AOCI Components       Three Months Ended
+Location in the Condensed Consolidated Statement of Operations     September 30,
+2026     2025
+Unrealized gains on cash flow hedges from foreign exchange and interest rate contracts     Revenues     $     1,916        $     210
+Costs of revenues and operating expenses      3,473         11,244
+Interest expense      759         758
+Net gains reclassified from AOCI     $     6,148        $     12,212
+Unrealized gains (losses) on available-for-sale securities     Other expense (income), net     $    ( 85 )      $     97
+NOTE 5 –  MARKETABLE SECURITIES
+The amortized cost and fair value of our fixed income marketable securities as of the dates indicated below were as follows:
+As of September 30, 2026 (In thousands)    Amortized
+Cost     Gross
+Unrealized
+Gains     Gross
+Unrealized
+Losses     Fair
+Value
+Corporate debt securities    $     1,321,654        $     438        $    ( 7,932 )      $     1,314,160
+Money market funds and other     1,132,489        —       —        1,132,489
+Municipal securities     16,901         —        ( 50 )       16,851
+Sovereign securities     33,969         1        ( 51 )       33,919
+U.S. Government agency securities     79,159         34        ( 384 )       78,809
+U.S. Treasury securities     1,374,698         49        ( 16,609 )       1,358,138
+Subtotal     3,958,870         522        ( 25,026 )       3,934,366
+Add: Time deposits  (1)
+436,957        —       —        436,957
+Less: Cash equivalents     1,195,373         —        ( 2 )       1,195,371
+Marketable securities  (2)
+$     3,200,454        $     522        $    ( 25,024 )      $     3,175,952
+13
+Table of Contents
+As of June 30, 2026 (In thousands)    Amortized
+Cost     Gross
+Unrealized
+Gains     Gross
+Unrealized
+Losses     Fair
+Value
+Corporate debt securities    $     1,304,718        $     1,123        $    ( 2,316 )      $     1,303,525
+Money market funds and other     1,233,035        —       —        1,233,035
+Municipal securities     23,417         12        ( 10 )       23,419
+Sovereign securities     40,245         —        ( 27 )       40,218
+U.S. Government agency securities     75,848         81        ( 187 )       75,742
+U.S. Treasury securities     1,363,089         266        ( 7,644 )       1,355,711
+Subtotal     4,040,352         1,482        ( 10,184 )       4,031,650
+Add: Time deposits  (1)
+490,231        —       —        490,231
+Less: Cash equivalents     1,316,087         —         —         1,316,087
+Marketable securities  (2)
+$     3,214,496        $     1,482        $    ( 10,184 )      $     3,205,794
+________________
+(1) Time deposits excluded from fair value measurements.
+(2) Excludes equity marketable securities.
+Our investment portfolio includes both corporate and government securities that have a maximum maturity of  three years . The longer the duration of these securities, the more susceptible they are to changes in market interest rates and bond yields. As yields increase, those securities with a lower yield-at-cost show a mark-to-market unrealized loss. Most of our unrealized losses are due to changes in market interest rates and bond yields. We believe that we have the ability to realize the full value of all these investments upon maturity. As of September 30, 2026, we had  685  investments in a gross unrealized loss position.  The following table summarizes the fair value and gross unrealized losses of our investments that were in an unrealized loss position as of the dates indicated below,  none  of which were in a continuous loss position for 12 months or more:
+As of September 30, 2026 (In thousands)            Fair Value     Gross Unrealized Losses
+Corporate debt securities            $     977,020        $    ( 7,932 )
+Municipal securities             16,851        ( 50 )
+Sovereign securities             27,886        ( 51 )
+U.S. Government agency securities             55,819        ( 384 )
+U.S. Treasury securities             1,297,852        ( 16,609 )
+Total            $     2,375,428        $    ( 25,026 )
+As of June 30, 2026 (In thousands)            Fair Value     Gross Unrealized Losses
+Corporate debt securities            $     703,303        $    ( 2,316 )
+Municipal securities             9,957        ( 10 )
+Sovereign securities             37,200        ( 27 )
+U.S. Government agency securities             47,855        ( 187 )
+U.S. Treasury securities             1,185,956        ( 7,644 )
+Total            $     1,984,271        $    ( 10,184 )
+The contractual maturities of securities classified as available-for-sale, regardless of their classification on our Condensed Consolidated Balance Sheets, as of the date indicated below were as follows:
+As of September 30, 2026 (In thousands)    Amortized Cost     Fair Value
+Due within one year    $     1,418,011        $     1,415,383
+Due after one year through three years     1,782,443         1,760,569
+Total    $     3,200,454        $     3,175,952
+14
+Table of Contents
+Actual maturities may differ from contractual maturities because borrowers may have the right to call or prepay obligations with or without call or prepayment penalties. Realized gains and losses on available-for-sale securities for the three months ended September 30, 2026 and 2025 were immaterial.
+The costs for our equity marketable securities were $  22.9   million as of both September 30, 2026, and June 30, 2026. Unrealized gains and losses for our equity marketable securities for the three months ended September 30, 2026 and 2025 were immaterial.
+NOTE 6 –  GOODWILL AND PURCHASED INTANGIBLE ASSETS
+Goodwill
+Goodwill represents the excess of the purchase price over the fair value of the net tangible and identifiable intangible assets acquired in business combinations.
+The following table presents changes in goodwill carrying value by reportable segment during the three months ended September 30, 2026:
+(In thousands)    Semiconductor Process Control     Specialty Semiconductor Process     Printed Circuit Board (“PCB”) and Component Inspection     Total
+Balances as of June 30, 2026    $     758,216        $     681,090        $     349,452        $     1,788,758
+Foreign currency adjustments    ( 426 )       216         1,135         925
+Balances as of September 30, 2026    $     757,790        $     681,306        $     350,587        $     1,789,683
+As of September 30, 2026, and June 30, 2026, goodwill is net of accumulated impairment losses of $  277.6   million and $  70.5   million in the Semiconductor Process Control and PCB and Component Inspection reportable segments, respectively.
+Goodwill is not subject to amortization but is tested for impairment annually, as well as whenever events or changes in circumstances indicate that the carrying value may not be recoverable.
+As of September 30, 2026, there have been no significant events or circumstances affecting the valuation of goodwill subsequent to the annual assessment performed in the second quarter of the fiscal year 2026. For additional details, refer to Note 6, “Goodwill and Purchased Intangible Assets” to our Consolidated Financial Statements included in the Company’s Annual Report on Form 10-K for the fiscal year ended June 30, 2026.
+Purchased Intangible Assets
+Changes in the gross carrying amount of intangible assets result from changes in foreign currency exchange rates, acquisitions and derecognition of fully amortized intangible assets that no longer provide future economic benefit.  The components of purchased intangible assets as of the dates indicated below were as follows:
+(In thousands)    As of September 30, 2026     As of June 30, 2026
+Category    Gross
+Carrying
+Amount     Accumulated
+Amortization
+and
+Impairment     Net
+Amount     Gross
+Carrying
+Amount     Accumulated
+Amortization
+and
+Impairment     Net
+Amount
+Existing technology    $     1,531,180        $     1,381,291        $     149,889        $     1,531,405        $     1,346,585        $     184,820
+Customer relationships     324,426         292,593         31,833         323,297         283,438         39,859
+Trade name/trademark     98,238         98,192         46         98,238         98,192         46
+Order backlog and other     8,612         2,829         5,783         8,612         2,549         6,063
+Intangible assets subject to amortization
+1,962,456         1,774,905         187,551         1,961,552         1,730,764         230,788
+In-process research and development     43,907         18,860         25,047         43,907         18,860         25,047
+Total    $     2,006,363        $     1,793,765        $     212,598        $     2,005,459        $     1,749,624        $     255,835
+Purchased intangible assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset or asset group may not be fully recoverable.   Impairment indicators primarily include declines in our operating cash flows from the use of these assets. If impairment indicators are present, we are required to perform a recoverability test by comparing the sum of the estimated undiscounted future cash flows attributable to these long-lived assets to their carrying value.
+15
+Table of Contents
+As of September 30, 2026, there were  no  impairment indicators for purchased intangible assets.
+Amortization expense for purchased intangible assets was $ 43.3  million and $ 49.3  million for the three months ended September 30, 2026 and 2025, respectively.
+Based on the purchased intangible assets gross carrying amount recorded as of September 30, 2026, the remaining estimated annual amortization expense is expected to be as follows:
+Fiscal Year Ending June 30:    Amortization (In thousands)
+2027 (remaining nine months)    $     85,822
+2028     49,123
+2029     35,566
+2030     14,760
+2031     1,514
+2032 and thereafter     766
+Total    $     187,551
+The expected amortization expense is an estimate. Actual amounts of amortization may differ from estimated amounts due to additional intangible asset acquisitions, changes in foreign currency exchange rates, impairment of intangible assets and other events.
+NOTE 7 –  DEBT
+The following table summarizes our debt as of September 30, 2026 and June 30, 2026:
+As of September 30, 2026     As of June 30, 2026
+Amount
+(In thousands)     Effective
+Interest Rate     Amount
+(In thousands)     Effective
+Interest Rate
+Fixed-rate  4.100 % Senior Notes due on March 15, 2029
+$     800,000         4.159      %     $     800,000         4.159      %
+Fixed-rate  4.650 % Senior Notes due on July 15, 2032
+1,000,000         4.657      %      1,000,000         4.657      %
+Fixed-rate  4.700 % Senior Notes due on February 1, 2034
+500,000         4.777      %      500,000         4.777      %
+Fixed-rate  5.650 % Senior Notes due on November 1, 2034
+250,000         5.670      %      250,000         5.670      %
+Fixed-rate  5.000 % Senior Notes due on March 15, 2049
+400,000         5.047      %      400,000         5.047      %
+Fixed-rate  3.300 % Senior Notes due on March 1, 2050
+750,000         3.302      %      750,000         3.302      %
+Fixed-rate  4.950 % Senior Notes due on July 15, 2052
+1,450,000         5.023      %      1,450,000         5.023      %
+Fixed-rate  5.250 % Senior Notes due on July 15, 2062
+800,000         5.259      %      800,000         5.259      %
+Total     5,950,000           5,950,000
+Fair value of interest rate swaps    ( 165,645 )        ( 584 )
+Unamortized discount    ( 21,507 )        ( 21,873 )
+Unamortized debt issuance costs    ( 39,559 )        ( 40,128 )
+Total    $     5,723,289          $     5,887,415
+Reported as:
+Long-term debt     5,723,289           5,887,415
+Total    $     5,723,289          $     5,887,415
+Senior Notes
+In fiscal 2026, we entered into interest rate swaps on $ 2.00  billion principal amount of the senior, unsecured long-term notes issued in June 2022 (“2022 Senior Notes”). The interest rate swaps effectively convert the fixed interest rates on the hedged portion of 2022 Senior Notes to floating interest rates based on the Secured Overnight Financing Rate (“SOFR”) swap rate. Under the terms of the swaps, we pay semi-annual interest at the daily compounded SOFR swap plus a fixed number of basis points on the notional amount and in exchange, we receive semi-annual fixed-rate interest on the 2022 Senior Notes from the swap. The interest rate swaps are accounted for as fair value hedges, and as a result the carrying value of the hedged portion of our 2022 Senior Notes reflects adjustments in fair value.
+16
+Table of Contents
+The original discounts on the senior, unsecured long-term notes listed in the table above (collectively, “Senior Notes”) are being amortized over the life of the debt. Interest is payable semi-annually as follows: on January 15 and July 15 of each year for the Senior Notes due July 15, 2032, 2052, and 2062; on February 1 and August 1 of each year for the Senior Notes due February 1, 2034; on March 1 and September 1 of each year for the Senior Notes due March 1, 2050; on March 15 and September 15 of each year for the Senior Notes due March 15, 2029, and 2049; and on May 1 and November 1 of each year for the Senior Notes due November 1, 2034. The Senior Notes rank senior in right of payment to all of KLA Corporation’s future subordinated indebtedness, equally in right of payment with all of our existing and future unsecured and unsubordinated indebtedness, are effectively subordinated in right of payment to all of our future secured indebtedness to the extent of the collateral securing such indebtedness and structurally subordinated in right of payment to all existing and future indebtedness and other liabilities of the Issuer’s subsidiaries. The relevant indentures for the Senior Notes (collectively, the “Indenture”) include covenants that limit our ability to grant liens on our facilities and enter into sale and leaseback transactions.
+In certain circumstances involving a change of control followed by a downgrade of the rating of a series of Senior Notes by at least two of Moody’s Investors Service, S&P Global Ratings and Fitch Inc., unless we have exercised our rights to redeem the Senior Notes of such series, we will be required to make an offer to repurchase all or, at the holder’s option, any part, of each holder’s Senior Notes of that series pursuant to the offer described below (“Change of Control Offer”). In the Change of Control Offer, we will be required to offer payment in cash equal to  101 % of the aggregate principal amount of Senior Notes repurchased plus accrued and unpaid interest, if any, on the Senior Notes repurchased, up to, but not including, the date of repurchase.
+Based on the trading prices of the Senior Notes on the applicable dates, the fair value of the Senior Notes as of September 30, 2026 and June 30, 2026 was $ 5.08  billion and $ 5.48  billion, respectively. While the Senior Notes are recorded at cost, the fair value of the long-term debt was determined based on quoted prices in markets that are not active; accordingly, the long-term debt is categorized as Level 2 for purposes of the fair value measurement hierarchy.
+As of September 30, 2026, we were in compliance with all of our covenants under the Indenture associated with the Senior Notes.
+Revolving Credit Facility
+We have in place a Credit Agreement dated July 3, 2025 (“Credit Agreement”) for an unsecured revolving credit facility (“Revolving Credit Facility”) with a maturity date of July 3, 2030 that allows us to borrow up to $ 1.50  billion. Subject to the terms of the Credit Agreement, the Revolving Credit Facility may be increased by an amount up to $ 500.0  million in the aggregate. As of September 30, 2026, we had  no  outstanding borrowings under the Revolving Credit Facility.
+Under the Revolving Credit Facility, we may borrow, repay and reborrow funds until the maturity date, which may be extended following the exercise of no more than  two   one-year  extension options with the consent of the lenders. We may prepay outstanding borrowings under the Revolving Credit Facility at any time without a prepayment penalty.
+Borrowings under the Revolving Credit Facility can be made as Term SOFR Loans or Alternate Base Rate (“ABR”) Loans, at the Company’s option. In the event that Term SOFR is unavailable, any Term SOFR elections will be converted to Daily Simple SOFR, as long as it is available. Each Term SOFR Loan will bear interest at a rate per annum equal to the applicable Adjusted Term SOFR rate, which is equal to the applicable  Term SOFR  rate plus a spread ranging from  62.5  bps to  100.0  bps, as determined by the Company’s credit ratings at the time. Each ABR Loan will bear interest at a rate per annum equal to the ABR, as determined by the Company’s credit ratings at the time. We are also obligated to pay an annual commitment fee on the daily undrawn balance of the Revolving Credit Facility, which ranges from  4.0  bps to  10.0  bps, subject to an adjustment in conjunction with changes to our credit rating. The applicable interest rates and commitment fees are also subject to adjustment based on the Company’s performance against certain environmental sustainability key performance indicators (“KPIs”) related to greenhouse gas emissions and renewable electricity usage. Our performance against these KPIs in calendar year 2025 resulted in reductions to the fees associated with our Revolving Credit Facility. As of September 30, 2026, the applicable commitment fee on the daily undrawn balance of the Revolving Credit Facility was  5.5  bps.
+Under the Revolving Credit Facility, the maximum net leverage ratio on a quarterly basis is  3.25  to 1.00, covering the trailing  four  consecutive fiscal quarters for each fiscal quarter, which may be increased to  3.75  to 1.00 for a period of time in connection with a material acquisition or a series of material acquisitions. As of September 30, 2026, our maximum allowed net leverage ratio was  3.25  to 1.00.
+We were in compliance with all covenants under the Credit Agreement as of September 30, 2026.
+17
+Table of Contents
+NOTE 8 –  LEASES
+We have operating leases for facilities, vehicles and other equipment. Our facility leases are primarily used for administrative functions, research and development (“R&D”), manufacturing, and storage and distribution. Our finance leases are not material.
+Our existing leases do not contain significant restrictive provisions or residual value guarantees; however, certain leases contain provisions for the payment of maintenance, real estate taxes or insurance costs by us. Our leases have remaining lease terms ranging from less than  one year  to  26  years, including periods covered by options to extend the lease when it is reasonably certain that the option will be exercised.
+Lease expense was $ 17.3  million and $ 13.6  million for the three months ended September 30, 2026 and 2025, respectively. Expenses related to short-term leases, which were not recorded on the Condensed Consolidated Balance Sheets, were not material for the three months ended September 30, 2026 and 2025. As of both September 30, 2026 and June 30, 2026, the weighted-average remaining lease term was   6.5   years, and the weighted-average discount rate for operating leases was  3.71 % and  3.74 % as of September 30, 2026 and June 30, 2026, respectively.
+Supplemental cash flow information related to leases was as follows:
+Three Months Ended September 30,
+In thousands    2026     2025
+Operating cash outflows from operating leases    $     15,664        $     13,571
+Right of use assets obtained in exchange for new operating lease liabilities    $     16,834        $     10,186
+Maturities of lease liabilities as of September 30, 2026 were as follows:
+Fiscal Year Ending June 30:    (In thousands)
+2027 (remaining nine months)    $     49,007
+2028     58,449
+2029     45,580
+2030     41,099
+2031     32,237
+2032 and thereafter     79,760
+Total lease payments     306,132
+Less imputed interest    ( 36,777 )
+Total    $     269,355
+As of September 30, 2026, we did not have any material leases that had not yet commenced.
+NOTE 9 –  EQUITY AND LONG-TERM INCENTIVE COMPENSATION PLANS
+As of September 30, 2026,  90.4  million shares remained available for issuance under the KLA Corporation 2023 Incentive Award Plan (“2023 Plan”). In addition, we have an Employee Stock Purchase Plan (“ESPP”), which enables eligible employees to purchase our common stock. We also offer a cash-based long-term incentive program (“Cash LTI”) to eligible employees.
+For details of the 2023 Plan, ESPP and Cash LTI plans, refer to Note 9 “Equity and Long-Term Incentive Compensation Plans” to our Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2026.
+18
+Table of Contents
+Equity Incentive Plans - General Information
+The following table summarizes the combined activity under our equity incentive plans:
+(In thousands)
+Available
+For Grant  (1)
+Balance as of June 30, 2026     91,482
+Restricted stock units granted  (2)
+( 1,863 )
+Restricted stock units granted adjustment  (3)
+524
+Restricted stock units canceled     224
+Balance as of September 30, 2026     90,367
+__________________
+(1)  The number of restricted stock units (“RSUs”) reflects the application of the award multiplier of  2.0 x to calculate the impact of the award on the shares reserved under the 2023 Plan.
+(2)  Includes RSUs granted to senior management during the three months ended September 30, 2026 with performance-based vesting criteria (in addition to service-based vesting criteria for any of such RSUs that are deemed to have been earned) (“performance-based RSUs”). This line item includes all such performance-based RSUs granted during the three months ended September 30, 2026 reported at the maximum possible number of shares that may ultimately be issuable if all applicable performance-based criteria are achieved at their maximum levels and all applicable service-based criteria are fully satisfied ( 1.1  million shares for the three months ended September 30, 2026 reflect the application of the multiplier described above).
+(3)  Represents the portion of RSUs granted with performance-based vesting criteria and reported at the actual number of shares issued upon achievement of the performance vesting criteria during the three months ended September 30, 2026.
+The fair value of stock-based awards is measured at the grant date and is recognized as an expense over the employee’s requisite service period. The fair value for RSUs granted with “dividend equivalent” rights is determined using the closing price of our common stock on the grant date.
+The following table shows stock-based compensation (“SBC”) expense for the indicated periods:
+Three Months Ended September 30,
+(In thousands)    2026     2025
+SBC expense by:
+Costs of revenues    $     16,320        $     12,235
+R&D     25,772         21,358
+SG&A     41,981         36,589
+Total SBC expense    $     84,073        $     70,182
+SBC capitalized as inventory was $ 37.6  million and $ 34.0  million as of September 30, 2026 and June 30, 2026, respectively.
+Restricted Stock Units
+The following table shows the activity and weighted-average grant date fair values for RSUs during the three months ended September 30, 2026:
+Shares  (1)
+(In thousands)
+Weighted-Average
+Grant Date
+Fair Value
+Outstanding RSUs as of June 30, 2026  (2)
+10,021        $     77.11
+Granted  (3)
+931        $     192.90
+Granted adjustments  (4)
+( 262 )      $     46.99
+Vested and released    ( 2,202 )      $     50.47
+Forfeited    ( 112 )      $     79.44
+Outstanding RSUs as of September 30, 2026  (2)
+8,376        $     98.13
+__________________
+(1)  Share numbers reflect actual shares subject to awarded RSUs.
+19
+Table of Contents
+(2)  Includes performance-based RSUs.
+(3)  This line item includes performance-based RSUs granted during the three months ended September 30, 2026 reported at the maximum possible number of shares that may ultimately be issuable if all applicable performance-based criteria are achieved at their maximum levels and all applicable service-based criteria are fully satisfied ( 0.6  million shares for the three months ended September 30, 2026 reflect the application of the multiplier described above).
+(4)  Represents the portion of RSUs granted with performance-based vesting criteria and reported at the actual number of shares issued upon achievement of the performance vesting criteria during the three months ended September 30, 2026.
+The RSUs granted by us generally vest as follows, in each case subject to the recipient remaining employed by us as of the applicable vesting date: (i) with respect to awards with only service-based vesting criteria, over periods ranging from  two  to  four years ; and (ii) with respect to awards with both performance-based and service-based vesting criteria, over periods ranging from  three  to  four years . The RSUs granted to the independent members of the Board of Directors vest annually.
+As of September 30, 2026, the unrecognized SBC expense balance related to RSUs was $ 658.1  million, excluding the impact of estimated forfeitures, and will be recognized over an estimated weighted-average amortization period of  1.5  years. The intrinsic value of outstanding RSUs as of September 30, 2026 was $ 1.63  billion.
+NOTE 10 –  STOCK REPURCHASE PROGRAM
+Our Board of Directors has authorized a program that permits us to repurchase our common stock, including an increase in the authorized repurchase amount of $ 7.00  billion in the third quarter of fiscal 2026. The stock repurchase program has no expiration date and may be suspended at any time. The intent of the program is, in part, to mitigate the potential dilutive impact related to our equity incentive plans and shares issued in connection with our ESPP as well as to return excess cash to our stockholders. Any and all share repurchase transactions are subject to market conditions and applicable legal requirements.
+Under the authoritative guidance, share repurchases are recognized as a reduction to retained earnings to the extent available, with any excess recognized as a reduction of capital in excess of par value. In addition, the Inflation Reduction Act of 2022 introduced a 1% excise tax imposed on certain stock repurchases made after December 31, 2022 by publicly traded companies. The excise tax is recorded as part of the cost basis of treasury stock repurchased after December 31, 2022 and, as such, is included in stockholders’ equity.
+As of September 30, 2026, an aggregate of $ 8.81  billion of authorization was available for repurchase under the stock repurchase program.
+Share repurchases for the indicated periods (based on the trade date of the applicable repurchase) were as follows:
+Three Months Ended September 30,
+(In thousands)    2026     2025
+Number of shares of common stock repurchased     4,914         6,225
+Total cost of repurchases    $     942,918        $     564,400
+NOTE 11 –  NET INCOME PER SHARE
+Basic net income per share is calculated by dividing net income available to common stockholders by the weighted-average number of shares of common stock outstanding during the period. Diluted net income per share is calculated by using the weighted-average number of shares of common stock outstanding during the period, increased to include the number of additional shares of common stock that would have been outstanding if the shares of common stock underlying our outstanding dilutive RSUs had been issued. The dilutive effect of outstanding RSUs is reflected in diluted net income per share by application of the treasury stock method.
+20
+Table of Contents
+The following table sets forth the computation of basic and diluted net income per share:
+(In thousands, except per share amounts)    Three Months Ended September 30,
+2026     2025
+Numerator:
+Net income    $     1,548,588        $     1,121,040
+Denominator:
+Weighted-average shares - basic, excluding unvested RSUs     1,305,330         1,317,567
+Effect of dilutive RSUs and options     5,734         6,241
+Weighted-average shares - diluted     1,311,064         1,323,808
+Basic net income per share    $     1.19        $     0.85
+Diluted net income per share    $     1.18        $     0.85
+There were   no   anti-dilutive securities excluded from the computation of diluted net income per share for the three months ended September 30, 2026 and 2025.
+NOTE 12 –  INCOME TAXES
+The following table provides details of income taxes:
+Three Months Ended September 30,
+(Dollar amounts in thousands)    2026     2025
+Income before income taxes    $     1,824,082      $     1,309,476
+Provision for income taxes    $     275,494      $     188,436
+Effective tax rate     15.1      %      14.4      %
+Our effective tax rate was lower than the U.S. federal statutory rate during the three months ended September 30, 2026, primarily due to the proportion of earnings generated in jurisdictions with tax rates lower than the U.S. statutory rate and the proportion of U.S. earnings eligible for the Foreign-Derived Deduction Eligible Income deduction.
+In the normal course of business, we are subject to examination by tax authorities throughout the world. We are subject to U.S. federal income tax examinations for all years beginning from the fiscal year ended June 30, 2023 and are under U.S. federal income tax examination for the fiscal year ended June 30, 2018. We are subject to state income tax examinations for all years beginning from the fiscal year ended June 30, 2022. We are also subject to examinations in other major foreign jurisdictions, including Singapore and Israel, for all years beginning from the fiscal year ended June 30, 2019. We believe our current unrecognized tax benefits are sufficient.
+Legislative Developments
+In January 2026, the Organization for Economic Co-operation and Development (“OECD”) introduced two new Pillar Two safe harbors which are expected to be available for fiscal years beginning on or after January 1, 2026: (1) the Side-by-Side Safe Harbor (“SBSSH”) for multinational entities headquartered in the jurisdictions with both eligible domestic and worldwide tax systems, and (2) the Ultimate Parent Entity (“UPE”) Safe Harbor for multinational entities with a UPE located in a jurisdiction that has only an eligible domestic tax system. Both the SBSSH and UPE Safe Harbor exempt certain multinational enterprises from the Undertaxed Profits Rule (“UTPR”) provision. We are eligible for the SBSSH and are not expecting a material tax impact to our Condensed Consolidated Financial Statements when countries begin to enact legislation to adopt the SBSSH provisions.
+In December 2025, Israel adopted the Pillar Two Global Anti-Base Erosion (“GloBE”) rules under the Multinational Enterprise (“Minimum Tax”) Act, which includes a domestic minimum tax of 15% that will be effective for us beginning in the fiscal year ending June 30, 2027. The Pillar Two GloBE rules are deemed an alternative minimum tax so we did not recognize any deferred taxes for the estimated effects of the future minimum tax under current GAAP. We are not expecting a material tax impact to our Condensed Consolidated Financial Statements.
+On July 4, 2025, President Trump signed into law the One Big Beautiful Bill Act (“OBBBA”). The OBBBA provides for several permanent changes to the U.S. tax code among other items, including modifying the Global Intangible Low-Taxed Income and Foreign-Derived Intangible Income rules from the Tax Cuts and Jobs Act; restoring full expensing for domestic research expenses; and reinstating 100% bonus depreciation provisions. Accounting Standards Codification (“ASC”) 740,   Income Taxes  , requires that the tax effects of changes in tax rates and laws be recognized in the period in which the legislation
+21
+Table of Contents
+is enacted. The OBBBA provisions resulted in an increase to our cash flows from operating activities and an increase to our effective tax rate in our fiscal year ended June 30, 2026. The effective tax rate changes have been reflected in the condensed consolidated financial statements for the three months ended September 30, 2026, and did not have a material impact on our Condensed Consolidated Financial Statements.
+In November 2024, Singapore adopted the Pillar Two GloBE rules under the Minimum Tax Act, which includes a domestic minimum tax of 15% that is effective for us in the current fiscal year. There was no material impact to our Condensed Consolidated Financial Statements during the three months ended September 30, 2026. The Pillar Two GloBE rules are deemed an alternative minimum tax so we did not recognize any deferred taxes for the estimated effects of the future minimum tax under current GAAP.
+California Governor Newsom approved the 2024-25 California State Budget on June 27, 2024, which includes a provision to suspend the use of all net operating losses and limits the use of R&D tax credits to $5 million for tax years 2024 through 2026. On June 29, 2026, Governor Newsom approved the 2026-27 California State Budget, which extends the $5 million limitation through tax years beginning before January 1, 2030. Effective for tax years beginning on or after January 1, 2030, the business credit limitation will apply permanently and it will equal the greater of 70% of the total taxes imposed or $5 million per tax year. There was no material tax impact to our Condensed Consolidated Financial Statements during the three months ended September 30, 2026 from the California State Budget provisions.
+In December 2021, the OECD’s Inclusive Framework on Base Erosion and Profit Shifting released GloBE rules under Pillar Two. For the countries that have enacted legislation to adopt the Pillar Two GloBE rules, the Qualified Domestic Minimum Top-up Tax provision requiring a 15% minimum effective tax rate on income earned in the respective countries and the UTPR provision requiring a global 15% minimum effective top-up tax were effective for us beginning in our fiscal year ended June 30, 2025.
+NOTE 13 –  LITIGATION AND OTHER LEGAL MATTERS
+We are named, from time to time, as a party to lawsuits and other types of legal proceedings and claims in the normal course of our business. Actions filed against us include commercial, intellectual property (“IP”), customer, and labor and employment related claims, including complaints of alleged wrongful termination and potential class action lawsuits regarding alleged violations of federal and state wage and hour and other laws. In general, legal proceedings and claims, regardless of their merit, and associated internal investigations (especially those relating to IP or confidential information disputes) are often expensive to prosecute, defend or conduct, and may divert management’s attention and other Company resources. Moreover, the results of legal proceedings are difficult to predict, and the costs incurred in litigation can be substantial, regardless of outcome. We believe the amounts provided in our Condensed Consolidated Financial Statements are adequate in light of the probable and estimated liabilities. However, because such matters are subject to many uncertainties and the ultimate outcomes are not predictable, there can be no assurances that the actual amounts required to satisfy alleged liabilities from the matters described above will not exceed the amounts reflected in our Condensed Consolidated Financial Statements or will not have a material adverse effect on our results of operations, financial condition or cash flows.
+NOTE 14 –  COMMITMENTS AND CONTINGENCIES
+Factoring.   We have factoring agreements with financial institutions to sell certain of our trade receivables and promissory notes from customers without recourse. We do not believe we are at risk for any material losses as a result of these agreements. In addition, we periodically sell certain letters of credit (“LC”), without recourse, received from customers in payment for goods and services.
+The following table shows total receivables sold under factoring agreements and proceeds from sales of LC for the indicated periods:
+Three Months Ended September 30,
+(In thousands)    2026     2025
+Receivables sold under factoring agreements    $     31,670        $     106,367
+Proceeds from sales of LC    $     2,565        $     18,226
+Factoring and LC fees for the sale of certain trade receivables were recorded in Other expense (income), net and were not material for the periods presented. KLA may continue servicing the receivables that are sold.
+Purchase Commitments.   We maintain commitments to purchase inventory from our suppliers as well as goods, services and other assets in the ordinary course of business. Our liability under these purchase commitments is generally restricted to a
+22
+Table of Contents
+forecasted time-horizon as mutually agreed between the parties. This forecasted time-horizon can vary among different suppliers. Our estimate of our significant purchase commitments primarily for material, services, supplies and asset purchases is approximately $ 8.87  billion as of September 30, 2026, a majority of which are due within the next  12  months. Actual expenditures will vary based upon the volume of the transactions and length of contractual service provided. In addition, the amounts paid under these arrangements may be less in the event that the arrangements are renegotiated or canceled. Certain agreements provide for potential cancellation penalties.
+Cash LTI Plan.   As of September 30, 2026, we have committed $ 100.0  million for future payment obligations under our Cash LTI Plan. Cash LTI awards issued to employees under the Cash LTI Plan vest in  three  or  four  equal installments, with one-third or one-fourth of the aggregate amount of the Cash LTI award vesting on each anniversary of the grant date over a  three - or  four-year  period. In order to receive payments under a Cash LTI award, participants must remain employed by us as of the applicable award vesting date.
+Guarantees, Contingencies and Other.   We maintain guarantee arrangements available through various financial institutions for up to $ 180.6  million, of which $ 147.2  million had been issued as of September 30, 2026, primarily to fund guarantees to customs authorities for value-added tax and other operating requirements of our consolidated subsidiaries worldwide.
+We have a duty drawback program that allows for the recovery of certain import duties upon the export of qualifying goods. Our accounting policy is to recognize a receivable for duty drawback upon submission of a qualifying claim to U.S. Customs and Border Protection when recovery is considered probable and estimable.
+During the three months ended June 30, 2026 and September 30, 2026, we submitted claims for refunds of tariffs previously paid under the International Emergency Economic Powers Act refund program and have substantially received the related refunds. The refunds did not have a material impact on our consolidated financial statements. We do not expect any remaining claims or recoveries to have a material impact on our consolidated financial statements.
+Indemnification Obligations.   Subject to certain limitations, we are obligated to indemnify our current and former directors, officers and employees with respect to certain litigation matters and investigations that arise in connection with their service to us. These obligations arise under the terms of our certificate of incorporation, bylaws, applicable contracts, and Delaware and California law. The obligation to indemnify generally means that we are required to pay or reimburse the individuals’ reasonable legal expenses and possibly damages and other liabilities incurred by several of our current and former directors, officers and employees in connection with these matters. For example, we have paid or reimbursed legal expenses incurred in connection with the investigation of our historical stock option practices and the related litigation and government inquiries. Although the maximum potential amount of future payments we could be required to make under the indemnification obligations generally described in this paragraph is theoretically unlimited, we believe the fair value of this liability, to the extent estimable, is appropriately considered within the reserve we have established for currently pending legal proceedings.
+We are a party to a variety of agreements pursuant to which we may be obligated to indemnify the other party with respect to certain matters. Typically, these obligations arise in connection with contracts and license agreements or the sale of assets, under which we customarily agree to hold the other party harmless against losses arising therefrom, or provide customers with other remedies to protect against, bodily injury or damage to personal property caused by our products, non-compliance with our product performance specifications, infringement by our products of third-party IP rights and a breach of warranties, representations and covenants related to matters such as title to assets sold, validity of certain IP rights, non-infringement of third-party rights, and certain income tax-related matters. In each of these circumstances, payment by us is typically subject to the other party making a claim to and cooperating with us pursuant to the procedures specified in the particular contract. This usually allows us to challenge the other party’s claims or, in case of breach of IP representations or covenants, to control the defense or settlement of any third-party claims brought against the other party. Further, our obligations under these agreements may be limited in terms of amounts, activity (typically at our option to replace or correct the products or terminate the agreement with a refund to the other party), and duration. In some instances, we may have recourse against third parties and/or insurance covering certain payments made by us.
+In addition, we may, in limited circumstances, enter into agreements that contain customer-specific commitments on pricing, tool reliability, spare parts stocking levels, response time and other commitments. Furthermore, we may give these customers limited audit or inspection rights to enable them to confirm that we are complying with these commitments. If a customer elects to exercise its audit or inspection rights, we may be required to expend significant resources to support the audit or inspection, as well as to defend or settle any dispute with a customer that could potentially arise out of such audit or inspection. To date, we have made no significant accruals in our Condensed Consolidated Financial Statements for this contingency. While we have not in the past incurred significant expenses for resolving disputes regarding these types of commitments, we cannot make any assurance that we will not incur any such liabilities in the future.
+23
+Table of Contents
+It is not possible to predict the maximum potential amount of future payments under these or similar agreements due to the conditional nature of our obligations and the unique facts and circumstances involved in each particular agreement. Historically, payments made by us under these agreements have not had a material effect on our business, financial condition, results of operations or cash flows.
+NOTE 15 –  DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES
+The authoritative guidance requires companies to recognize all derivative instruments, including foreign exchange contracts, rate lock agreements and interest rate swaps (collectively, “derivatives”), as either assets or liabilities at fair value on the Condensed Consolidated Balance Sheets. In accordance with the accounting guidance, we designate foreign currency forward transactions and options contracts and interest rate forward transactions as cash flow hedges. In accordance with the accounting guidance, we also designate certain foreign currency exchange contracts as net investment hedge transactions intended to mitigate the variability of the value of certain investments in foreign subsidiaries.
+Since fiscal 2015, we have entered into  five  sets of forward contracts, generally to hedge the benchmark interest rate on portions of our Senior Notes prior to issuance (collectively, “Rate Lock Agreements”). Upon issuance of the associated debt, the Rate Lock Agreements were settled and their fair values were recorded within AOCI. The resulting gains and losses from these transactions are amortized to interest expense over the lives of the associated debt. As of September 30, 2026, the aggregate unamortized portion of the fair value of the forward contracts for the Rate Lock Agreements was a $ 40.6  million net gain.
+We utilize fixed-to-floating interest rate swaps designated as fair value hedges to minimize certain exposures to changes in the fair value of fixed-rate debt that result from fluctuations in benchmark interest rates. The interest rate swaps effectively convert the fixed interest rates on a portion of our 2022 Senior Notes to floating interest rates based on the SOFR swap rate. Under the terms of the swaps, we pay semi-annual interest at the daily compounded SOFR swap rate plus a fixed number of basis points on the $ 2.00  billion notional amount of 2022 Senior Notes hedged, and in exchange, we receive fixed-rate interest on the 2022 Senior Notes hedged from the swap counterparties on a semi-annual basis. If a financial counterparty to any of our hedging arrangements experiences financial difficulties or is otherwise unable to honor the terms of the interest rate swap, we may experience material losses. We apply the shortcut method to these fair value hedges as they are assumed to be perfectly effective in hedging the change in interest rates related to a portion of our 2022 Senior Notes. The resulting gains and losses from these transactions are recognized in interest expense each period.
+For additional details, refer to Note 1 “Description of Business and Summary of Significant Accounting Policies” to our Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended June 30, 2026.
+Derivatives in Hedging Relationships: Foreign Exchange Contracts and Rate Lock Agreements
+The gains (losses) on derivatives in cash flow and net investment hedging relationships recognized in other comprehensive income for the indicated periods were as follows:
+Three Months Ended September 30,
+(In thousands)    2026     2025
+Derivatives Designated as Cash Flow Hedging Instruments:
+Foreign exchange contracts:
+Amounts included in the assessment of effectiveness    $    ( 12,984 )      $     3,300
+Amounts excluded from the assessment of effectiveness    $    ( 30 )      $     64
+Derivatives Designated as Net Investment Hedging Instruments:
+Foreign exchange contracts  (1)  :
+$    ( 4,044 )      $     19,325
+__________________
+(1)      No     amounts were reclassified from AOCI into earnings related to the sale of a subsidiary, as there were no such sales during the periods presented.
+24
+Table of Contents
+The locations and amounts of designated and non-designated derivatives’ gains and losses reported in the Condensed Consolidated Statements of Operations for the indicated periods were as follows:
+Three Months Ended September 30,     Three Months Ended September 30,
+2026     2025
+(In thousands)    Revenues     Costs of Revenues and Operating Expenses     Interest Expense     Other Expense (Income), Net     Revenues     Costs of Revenues and Operating Expenses     Interest Expense     Other Expense (Income), Net
+Total amounts presented in the Condensed Consolidated Statements of Operations in which the effects of cash flow hedges are recorded    $     4,136,015        $     2,274,345        $     67,927        $    ( 30,339 )      $     3,209,696        $     1,872,519        $     71,075        $    ( 43,374 )
+Gains (Losses) on Derivatives Designated as Hedging Instruments:
+Rate lock agreements:
+Amount of gains reclassified from AOCI to earnings    $     —        $     —        $     759        $     —        $     —        $     —        $     758        $     —
+Foreign exchange contracts:
+Amount of gains reclassified from AOCI to earnings    $     2,091        $     3,473        $     —        $     —        $     381        $     11,244        $     —        $     —
+Amount excluded from the assessment of effectiveness recognized in earnings    $    ( 175 )      $     —        $     —        $     2,509        $    ( 171 )      $     —        $     —        $     3,823
+Interest rate contracts:
+Amount of gains recognized in earnings    $     —        $     —        $     2,188        $     —        $     —        $     —        $     —        $     —
+Gains (Losses) on Derivatives Not Designated as Hedging Instruments:
+Amount of gains (losses) recognized in earnings    $     —        $     —        $     —        $    ( 10,806 )      $     —        $     —        $     —        $     261
+The U.S. dollar equivalent of all outstanding notional amounts of foreign currency hedge contracts with maximum remaining maturities of approximately   22   months as of the dates indicated below, were as follows:
+As of     As of
+(In thousands)    September 30, 2026     June 30, 2026
+Cash flow hedge contracts - foreign currency
+Purchase    $     574,633        $     533,193
+Sell    $     107,026        $     61,209
+Net investment hedge contracts - foreign currency
+Sell    $     341,625        $     343,791
+Other foreign currency hedge contracts
+Purchase    $     822,018        $     978,174
+Sell    $     517,417        $     608,933
+25
+Table of Contents
+The locations and fair value of our derivatives reported in our Condensed Consolidated Balance Sheets as of the dates indicated below were as follows:
+Asset Derivatives     Liability Derivatives
+Balance Sheet     As of     As of     Balance Sheet     As of     As of
+Location     September 30, 2026     June 30, 2026     Location     September 30, 2026     June 30, 2026
+(In thousands)     Fair Value      Fair Value
+Derivatives designated as hedging instruments
+Foreign exchange contracts    Other current assets     $     7,696        $     28,423        Other current liabilities     $    ( 12,860 )      $    ( 5,385 )
+Interest rate contracts    Other current assets      —         2,534        Other current liabilities     ( 3,443 )       —
+Interest rate contracts    Other non-current assets      —         6,990        Other non-current liabilities     ( 162,201 )      ( 10,107 )
+Total derivatives designated as hedging instruments       7,696         37,947          ( 178,504 )      ( 15,492 )
+Derivatives not designated as hedging instruments
+Foreign exchange contracts    Other current assets      3,854         13,398        Other current liabilities     ( 12,338 )      ( 7,161 )
+Total derivatives not designated as hedging instruments       3,854         13,398          ( 12,338 )      ( 7,161 )
+Total derivatives      $     11,550        $     51,345          $    ( 190,842 )      $    ( 22,653 )
+The changes in AOCI, before taxes, related to derivatives for the indicated periods were as follows:
+Three Months Ended September 30,
+(In thousands)    2026     2025
+Beginning AOCI    $     67,182        $     66,570
+Amount reclassified to earnings as net gains    ( 6,148 )      ( 12,212 )
+Net change in unrealized gains (losses)    ( 17,058 )       22,689
+Ending AOCI    $     43,976        $     77,047
+As of September 30, 2026, the net gain reported in AOCI that is expected to be reclassified into earnings within the next 12 months is $ 2.8  million.
+Offsetting of Derivative Assets and Liabilities
+We present derivatives at gross fair values in the Condensed Consolidated Balance Sheets. We have entered into arrangements with each of our counterparties, which reduce credit risk by permitting net settlement of transactions with the same counterparty under certain conditions.   The information related to the offsetting arrangements for the periods indicated was as follows:
+As of September 30, 2026         Gross Amounts of Derivatives Not Offset in the Condensed Consolidated Balance Sheets
+(In thousands)
+Gross Amounts of Derivatives
+Gross Amounts of Derivatives Offset in the Condensed Consolidated Balance Sheets
+Net Amount of Derivatives Presented in the Condensed Consolidated Balance Sheets
+Financial Instruments     Cash Collateral Received     Net Amount
+Derivatives - assets     $     11,550        $     —        $     11,550        $    ( 9,893 )      $     —        $     1,657
+Derivatives - liabilities     $    ( 190,842 )      $     —        $    ( 190,842 )      $     9,893        $     —        $    ( 180,949 )
+26
+Table of Contents
+As of June 30, 2026         Gross Amounts of Derivatives Not Offset in the Condensed Consolidated Balance Sheets
+(In thousands)
+Gross Amounts of Derivatives
+Gross Amounts of Derivatives Offset in the Condensed Consolidated Balance Sheets
+Net Amount of Derivatives Presented in the Condensed Consolidated Balance Sheets
+Financial Instruments     Cash Collateral Received     Net Amount
+Derivatives - assets     $     51,345        $     —        $     51,345        $    ( 17,605 )      $     —        $     33,740
+Derivatives - liabilities     $    ( 22,653 )      $     —        $    ( 22,653 )      $     17,605        $     —        $    ( 5,048 )
+NOTE 16 –  SEGMENT REPORTING AND GEOGRAPHIC INFORMATION
+ASC 280,   Segment Reporting  , establishes standards for reporting information about operating segments. Operating segments are defined as components of an enterprise about which separate financial information is evaluated regularly by the chief operating decision maker (“CODM”) in deciding how to allocate resources and in assessing performance. Our CODM is our Chief Executive Officer.
+Our operating segments are aggregated into reportable segments based on several factors including, but not limited to, customer base, homogeneity of products, technology, delivery channels and similar economic characteristics. We have  three  reportable segments: Semiconductor Process Control; Specialty Semiconductor Process; and PCB and Component Inspection.
+Semiconductor Process Control
+The Semiconductor Process Control segment offers a comprehensive portfolio of inspection, metrology and data analytics products, and related services, which helps integrated circuit (“IC”) manufacturers achieve target yield throughout the entire semiconductor fabrication process, from R&D to final volume production. Our differentiated products and services are designed to provide comprehensive solutions that help our customers accelerate development and production ramp cycles, achieve higher and more stable semiconductor die yields and improve their overall profitability.
+Specialty Semiconductor Process
+The Specialty Semiconductor Process segment develops and sells advanced vacuum deposition and etching process tools, which are used by a broad range of specialty semiconductor customers, including manufacturers of microelectromechanical systems (“MEMS”), radio frequency (“RF”) communication chips and power semiconductors for automotive and industrial applications.
+PCB and Component Inspection
+The PCB and Component Inspection segment enables electronic device manufacturers to inspect, test and measure PCBs, flat panel displays and ICs to verify their quality, pattern the desired electronic circuitry on the relevant substrate and perform three-dimensional shaping of metalized circuits on multiple surfaces.
+The CODM uses total segment revenues and segment profit (loss) to assess performance and allocate resources (including employees, financial or capital resources), primarily during the annual strategic long-term planning and budgeting process. The CODM considers changes in market conditions, technology constraints and the competitive environment when making decisions about allocating resources to segments. The CODM does not evaluate segments using discrete asset information because asset allocation is not managed at the segment level and assets are not tracked by segment in a way that it is meaningful for decision-making. Segment profit (loss) represents segment income (loss) before income taxes, and excludes interest expense, other expense (income), net, restructuring costs, effects of changes in foreign currency exchange rates, and other corporate expenses.
+27
+Table of Contents
+The following is a summary of results for each of our  three  reportable segments for the indicated periods:
+(In thousands)
+Semiconductor Process Control     Specialty Semiconductor Process     PCB and Component Inspection     Total
+For the three months ended September 30, 2026
+Revenues    $     3,754,254        $     139,487        $     242,151        $     4,135,892
+Less:
+Costs of revenues     1,351,091         75,066         107,362
+R&D     350,808         15,711         28,149
+SG&A     248,783         13,166         25,719
+Other segment items   (1)
+7,504         26,031         9,505
+Segment profit    $     1,796,068        $     9,513        $     71,416        $     1,876,997
+For the three months ended September 30, 2025
+Revenues    $     2,899,392        $     119,755        $     189,488        $     3,208,635
+Less:
+Costs of revenues     1,056,837         61,541         93,183
+R&D     311,016         13,506         32,112
+SG&A     215,043         11,437         25,703
+Other segment items   (1)
+9,745         27,281         11,999
+Segment profit    $     1,306,751        $     5,990        $     26,491        $     1,339,232
+__________________
+(1)  Other segment items includes amortization of purchased intangible assets.
+The following table reconciles total reportable segment revenue to total revenue for the indicated periods:
+Three Months Ended September 30,
+(In thousands)    2026     2025
+Total revenues for reportable segments    $     4,135,892        $     3,208,635
+Effects of changes in foreign currency exchange rates     123         1,061
+Total revenues    $     4,136,015        $     3,209,696
+The following table reconciles total segment profit to total income before income taxes for the indicated periods:
+Three Months Ended September 30,
+(In thousands)    2026     2025
+Total segment profit    $     1,876,997        $     1,339,232
+Unallocated amounts   (1)
+15,327         2,055
+Interest expense     67,927         71,075
+Other expense (income), net    ( 30,339 )      ( 43,374 )
+Income before income taxes    $     1,824,082        $     1,309,476
+__________________
+(1)  Unallocated amounts include effects of changes in exchange rates, restructuring costs and other corporate expenses.
+Our significant operations outside the United States include manufacturing facilities in Singapore, Israel, China and various locations throughout Europe and sales and service facilities in major semiconductor manufacturing regions around the world to support our global customer base. For geographical revenue reporting, revenues are attributed to the geographic location in which the customer is located. Long-lived assets consist of land, property and equipment, net, and are attributed to the geographic region in which they are located.
+28
+Table of Contents
+The following is a summary of revenues by geographic region, based on ship-to location, for the indicated periods:
+(Dollar amounts in thousands)    Three Months Ended September 30,
+2026     2025
+Revenues:
+China    $     1,425,744         34.5      %     $     1,267,156         39.5      %
+Taiwan     1,022,729         24.7      %      793,608         24.7      %
+North America     618,029         14.9      %      297,907         9.3      %
+Korea     497,169         12.0      %      299,373         9.3      %
+Rest of Asia     218,233         5.3      %      105,467         3.3      %
+Europe and Israel     194,331         4.7      %      150,976         4.7      %
+Japan     159,780         3.9      %      295,209         9.2      %
+Total    $     4,136,015         100.0      %     $     3,209,696         100.0      %
+The following is a summary of revenues by major product categories for the indicated periods:
+(Dollar amounts in thousands)    Three Months Ended September 30,
+2026     2025
+Revenues:
+Wafer Inspection    $     2,111,203         51      %     $     1,537,244         48      %
+Patterning     862,468         21      %      667,427         21      %
+Specialty Semiconductor Process     113,597         3      %      100,219         3      %
+PCB and Component Inspection     167,510         4      %      117,298         4      %
+Services     850,546         20      %      744,690         23      %
+Other     30,691         1      %      42,818         1      %
+Total    $     4,136,015         100      %     $     3,209,696         100      %
+Wafer Inspection and Patterning products are offered in the Semiconductor Process Control segment. Services are offered in multiple segments. Other includes primarily refurbished systems, remanufactured legacy systems, and enhancements and upgrades for previous-generation products that are part of the Semiconductor Process Control segment.
+In the three months ended September 30, 2026, two customers accounted for approximately  21 % and  13 % of total revenues each. In the three months ended September 30, 2025, three customers accounted for approximately  15 %,  11 %, and  10 % of total revenues each.
+Land, property and equipment, net by geographic region as of the dates indicated below were as follows:
+As of     As of
+(In thousands)    September 30, 2026     June 30, 2026
+Land, property and equipment, net:
+United States    $     769,142        $     771,331
+Europe     296,056         289,614
+Singapore     225,151         191,534
+Rest of Asia     192,607         73,110
+Israel     58,375         54,961
+Total    $     1,541,331        $     1,380,550
+NOTE 17 –  RESTRUCTURING CHARGES
+From time to time, management approves restructuring plans including workforce reductions in an effort to streamline operations.
+Restructuring charges were immaterial for both the three months ended September 30, 2026 and 2025. As of September 30, 2026 and June 30, 2026, the accrual for restructuring charges, which include severance and related charges for restructuring activities, was $ 5.0  million and $ 5.3  million, respectively.
+29
+Table of Contents
+ITEM 2.    MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This report contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, as amended (the “Securities Exchange Act”). All statements other than statements of historical fact may be forward-looking statements. You can identify these and other forward-looking statements by the use of words such as “may,” “will,” “could,” “would,” “should,” “expects,” “plans,” “anticipates,” “relies,” “believes,” “estimates,” “predicts,” “intends,” “potential,” “continues,” “thinks,” “seeks,” “commits,” or the negative of such terms, or other comparable terminology. Forward-looking statements also include the assumptions underlying or relating to any of the foregoing statements. Such forward-looking statements include those regarding, among others: the impact of tariffs on our business; forecasts of the future results of our operations, including profitability; orders for our products and capital equipment generally; sales of semiconductors; the investments by our customers in advanced technologies and new materials; growth of revenue in the semiconductor industry, the semiconductor capital equipment industry and our business; technological trends in the semiconductor industry; future developments or trends in the global capital and financial markets; our future product offerings and product features; the success and market acceptance of new products; timing of shipment of order backlog; our future product shipments and product and service revenues; our future gross margins; our future research and development (“R&D”) expenses and selling, general and administrative (“SG&A”) expenses; international sales and operations; our ability to maintain or improve our existing competitive position; success of our product offerings; creation and funding of programs for R&D; results of our investment in leading edge technologies; the effects of hedging transactions; the effect of the sale of trade receivables and promissory notes from customers; the effect of future compliance with laws and regulations; our future effective income tax rate; our recognition of tax benefits; the effects of any audits or litigation; future payments of dividends to our stockholders; the completion of any acquisitions of third parties, or the technology or assets thereof; benefits received from any acquisitions and development of acquired technologies; sufficiency of our existing cash balance, investments, cash generated from operations and the unfunded portion of our Revolving Credit Facility (as defined below in the “Revolving Credit Facility” section of “Liquidity and Capital Resources”) to meet our operating and working capital requirements, including debt service and payment thereof; future dividends, and stock repurchases; our compliance with the financial covenants under the Credit Agreement (as defined below in the “Revolving Credit Facility” section of “Liquidity and Capital Resources”) for our Revolving Credit Facility; the adoption of new accounting pronouncements; our repayment of our outstanding indebtedness; and our environmental, social and governance (“ESG”) related targets, goals and commitments.
+Our actual results may differ significantly from those projected in the forward-looking statements in this report. Factors that might cause or contribute to such differences include, but are not limited to:
+•  Our vulnerability to a weakening in the condition of the financial markets and the global economy;
+•  Risks related to our international operations;
+•  Evolving Bureau of Industry and Security of the U.S. Department of Commerce rules and regulations and their impact on our ability to sell products to and provide services to certain customers in People’s Republic of China (“China”);
+•  Tariffs, retaliatory trade measures and other trade restrictions, as well as uncertainty regarding tariff authority, implementation and refund process;
+•  Costly intellectual property (“IP”) disputes that could result in our inability to sell or use the challenged technology;
+•  Risks related to the legal, regulatory and tax environments in which we conduct our business;
+•  Differing stakeholder expectations, requirements and attention to ESG matters and the resulting costs, risks and impact on our business;
+•  Unexpected delays, difficulties and expenses in executing against our environmental, climate, or other ESG targets, goals and commitments, or meeting stakeholder expectations;
+•  Our ability to attract, retain and motivate key personnel;
+•  Our vulnerability to disruptions and delays at our third-party service providers;
+•  Cybersecurity threats, cyber incidents affecting our and our business partners  ’ s  ystems and networks;
+•  Our reliance on critical information, including our enterprise resource planning system for daily operations;
+•  Risks related to acquisitions, integrations, strategic alliances or collaborative arrangements;
+30
+Table of Contents
+•  Climate change, natural disasters, public health crises, terrorism, acts of war and other catastrophic events and the adverse impact on our business operations;
+•  The war between Ukraine and Russia, the armed conflict in Iran and elsewhere in the Middle East, and the significant military activity in those regions;
+•  Lack of insurance for losses and interruptions caused by terrorists and acts of war, and our self-insurance of certain risks including earthquake risk;
+•  Risks related to fluctuations in foreign currency exchange rates;
+•  Risks related to fluctuations in interest rates and the market values of our portfolio investments;
+•  Risks associated with our interest rate hedging activities;
+•  Risks related to tax and regulatory compliance audits;
+•  Any change in taxation rules or practices and our effective tax rate;
+•  Compliance costs with federal securities laws, rules, regulations, NASDAQ requirements, and evolving accounting standards and practices;
+•  Ongoing changes in the technology industry, including artificial intelligence (“AI”) related developments and changes in semiconductor manufacturing processes, customer investment patterns and end-market demand;
+•  Our vulnerability to a highly concentrated customer base;
+•  The cyclicality of the industries in which we operate;
+•  Our ability to timely develop new technologies and products that successfully address changes in the industry;
+•  Risks related to the development, adoption, governance and use of AI by us, our competitors and third parties;
+•  Our ability to maintain our technology advantage and protect proprietary rights;
+•  Our ability to compete in the industry;
+•  Availability and cost of components, materials or subassemblies used in the production of our products, including due to limited-source suppliers, the availability of rare earth elements or DRAM chip shortages;
+•  Our ability to operate our business in accordance with our business plan;
+•  Risks related to our debt and leveraged capital structure;
+•  We may not be able to declare cash dividends at all or in any particular amount;
+•  Liability to our customers under indemnification provisions if our products fail to operate properly or contain defects or our customers are sued by third parties due to our products;
+•  Risks associated with our receipt of government funding;
+•  We may incur significant restructuring charges or other asset impairment charges or inventory write-offs;
+•  We are subject to risks related to receivables factoring, banking arrangements and compliance risk of certain settlement agreements with the government; and
+•  Risks related to the Court of Chancery of the State of Delaware being the sole and exclusive forum for certain actions and proceedings.
+For a more detailed discussion of these and other risk factors that might cause or contribute to differences from the forward-looking statements in this report, see Part II, Item 1A “Risk Factors” in this report as well as Part I, Item 1 “Business,” Part I, Item 1A “Risk Factors” and Part II, Item 7 “Management  ’  s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the year ended June 30, 2026. You should carefully review these risks and also review the risks described in documents we file from time to time with the Securities and Exchange Commission. You are cautioned not to place undue reliance on these forward-looking statements, and we expressly assume no obligation and do not intend to update the forward-looking statements in this report after the date hereof.
+EXECUTIVE SUMMARY
+We are a leading supplier of process control and yield management solutions and services for the semiconductor and related electronics industries. Our broad portfolio of inspection and metrology products, along with related services, software
+31
+Table of Contents
+and other offerings, support R&D and manufacturing of integrated circuits (“ICs”), wafers and reticles. Our products, services and expertise enable our customers to measure, detect, analyze and resolve critical nanometer-scale product defects, helping them to address manufacturing challenges and achieve higher yields at lower cost.
+We also offer advanced technology solutions across a range of adjacent markets, including printed circuit boards (“PCBs”), advanced packaging, specialty semiconductor (such as LEDs, power devices and compound semiconductors), data storage and general materials research. In addition, our services business has grown consistently year-over-year and accounted for approximately 20% of our total revenues in the first quarter of fiscal 2027. Our services revenue, which is generated largely from recurring “subscription-like” contracts, provides maintenance and other services to maximize uptime, productivity and tool life for our customers, supported in part by continued demand from legacy semiconductor markets.
+We are organized into three reportable segments as follows:
+•  Semiconductor Process Control: a comprehensive portfolio of inspection, metrology and data analytics products as well as related service offerings that help IC manufacturers achieve target yields throughout the semiconductor fabrication process, from R&D through volume production.
+•  Specialty Semiconductor Process: advanced vacuum deposition and etching process tools used by a broad range of specialty semiconductor customers.
+•  PCB and Component Inspection: a range of inspection, testing and measurement, and direct imaging for patterning products used by manufacturers of PCBs, advanced packaging, microelectromechanical systems (“MEMS”) and other electronic components.
+The semiconductor industry continues to experience market expansion and diversification. High-performance computing (“HPC”) and data centers, supported by increasing adoption of AI, are contributing to industry growth and these trends are expected to continue to influence industry investment in fiscal year 2027. AI represents a key technology inflection point driving innovation and demand at the leading edge, and our portfolio of products is well positioned to support leading-edge demand and the ongoing AI infrastructure buildout. Our semiconductor customers generally operate in one or both major semiconductor device manufacturing markets: memory and foundry/logic. Long-term demand drivers include continued adoption of extreme ultraviolet lithography (“EUV”) in high-volume manufacturing (“HVM”) for logic and DRAM (including high-bandwidth memory), which are increasing process control requirements and expanding our served market. Demand for advanced semiconductor technologies, particularly at leading-edge nodes such as 2-nanometer, is increasing process complexity and process control intensity, which in turn is driving incremental demand for our solutions. Increasing complexity and value of semiconductor packages, particularly for AI and HPC applications, is also driving significant growth in our advanced packaging business. Broader industry trends, including digitization, communication improvements, healthcare innovation, industrial applications, and increasing semiconductor content in automobiles and intelligent systems, are supporting continued investment in legacy and mature-node capacity, where long product lifecycles and expanding end-market demand require ongoing manufacturing investments.
+While we continue to invest in technological innovation, demand for our products may be affected by the timing of customer adoption decisions and changes in delivery schedules, which can result in variability in our operating results. In addition, geopolitical factors, including government regulations and tariffs, have impacted our results of operations and may continue to do so. We have also increased our purchase commitments, in part to secure the supply of key components, which may affect the timing and magnitude of our costs and working capital requirements. Despite these dynamics, we delivered higher revenue and net income in the three months ended September 30, 2026 compared to the three months ended June 30, 2026 and September 30, 2025, driven by increased sales volume and disciplined cost management. Looking ahead, we expect continued revenue growth as we expand manufacturing capacity and increase production levels to meet customer demand.
+We are continuously assessing the aggregate potential impact of government regulations, tariffs and other geopolitical risks on our financial results and operations. See Part I, Item 1A “Risk Factors” in our Annual Report on Form 10-K for our fiscal year ended June 30, 2026 for more information regarding how such actions by the U.S. government or another country could significantly impact our ability to provide our products and services to existing and potential customers, especially in China, and adversely affect our business, financial condition and results of operations.
+32
+Table of Contents
+The following table sets forth some of our key quarterly unaudited financial information:
+(Dollar amounts in thousands, except net income per share)    Three Months Ended
+September 30,
+2026     June 30,
+2026     March 31,
+2026     December 31,
+2025     September 30,
+2025
+Total revenues    $    4,136,015     $    3,657,556     $    3,415,078     $    3,297,146     $    3,209,696
+Costs of revenues    $    1,577,791     $    1,413,108     $    1,327,672     $    1,271,210     $    1,243,070
+Gross margin    61.9%     61.4%     61.1%     61.4%     61.3%
+Net income  (1)
+$    1,548,588     $    1,363,059     $    1,200,990     $    1,145,682     $    1,121,040
+Diluted net income per share  (2)
+$    1.18     $    1.04     $    0.91     $    0.87     $    0.85
+__________________
+(1)  Our net income increased to $1.55 billion in the three months ended September 30, 2026 compared to both the three months ended June 30, 2026 and September 30, 2025. For the explanation of these changes, refer to the “Results of Operations” section below, as the changes are a result of movements in various income statement line items.
+(2)  Diluted net income per share is computed independently for each of the quarters presented based on the weighted-average fully diluted shares outstanding for each quarter. Therefore, the sum of quarterly diluted net income per share information may not equal annual (or other multiple-quarter calculations of) diluted net income per share.
+We continue to focus on returning cash to our investors, making $935.8 million in share repurchases and paying $305.1 million in dividends in the three months ended September 30, 2026. Our Board of Directors has authorized a program that permits us to repurchase our common stock, including an increase in the authorized repurchase amount of $7.00 billion in the third quarter of fiscal 2026. As of September 30, 2026, we had $8.81 billion of repurchase authority remaining. In March 2026, we also announced an increase in the dividend level to $0.230 per share per quarter, which was our 17th consecutive annual dividend increase. Refer to the “Liquidity and Capital Resources” section below for more information on our strong cash flow generation and strategy of returning excess cash to our stockholders.
+CRITICAL ACCOUNTING ESTIMATES
+The preparation of our Condensed Consolidated Financial Statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions in applying our accounting policies that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and liabilities. We base these estimates and assumptions on historical experience and evaluate them on an ongoing basis to ensure that they remain reasonable under current conditions. Actual results could differ from those estimates.
+There have been no material changes in our critical accounting estimates since our Annual Report on Form 10-K for the fiscal year ended June 30, 2026. Refer to “Management’s Discussion and Analysis of Financial Condition and Results of Operations” contained in Part II, Item 7 of our Annual Report on Form 10-K for our fiscal year ended June 30, 2026 for a complete description of our critical accounting estimates.
+Recent Accounting Pronouncements
+For a description of recent accounting pronouncements, including those recently adopted and the expected dates of adoption as well as estimated effects, if any, on our Condensed Consolidated Financial Statements of those not yet adopted, see Note 1 “Basis of Presentation” to our Condensed Consolidated Financial Statements.
+33
+Table of Contents
+RESULTS OF OPERATIONS
+Beginning this quarter, we have changed our primary basis of comparison of results of operations in Management’s Discussion and Analysis from the corresponding quarter in the prior fiscal year to the immediately preceding fiscal quarter. Management believes a sequential comparison provides a more meaningful view of current business trends and operating performance. Accordingly, the analysis below compares the three months ended September 30, 2026 to the three months ended June 30, 2026 and, as required in the first period following this change, also includes comparisons to the three months ended September 30, 2025, where applicable.
+Revenues and Gross Margin
+Our business is affected by the concentration of our customer base and our customers’ capital equipment procurement schedules as a result of their investment plans. Our product revenues in any particular period are impacted by the amount of new orders we receive during that period and, depending upon the duration of manufacturing and installation cycles, in the preceding periods. Revenue is also impacted by average customer pricing, customer revenue deferrals associated with volume purchase agreements, the effect of fluctuations in foreign currency exchange rates, increased trade restrictions and the availability of government incentives for semiconductor capital investments.     Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers. The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign currency exchange rates. A significant portion of our revenues continues to be generated in Asia, where a substantial portion of the world’s semiconductor manufacturing capacity is located, and we expect that trend to continue.
+Three Months Ended,     Q1 FY27
+vs.
+Q4 FY26
+(Dollar amounts in thousands)    September 30, 2026     June 30, 2026
+Revenues:
+Product    $    3,285,469     $    2,837,151     $    448,318       16     %
+Service    850,546     820,405     30,141       4     %
+Total revenues    $    4,136,015     $    3,657,556     $    478,459       13     %
+Costs of revenues    $    1,577,791     $    1,413,108     $    164,683       12     %
+Gross margin    61.9%     61.4%
+Three Months Ended,     Q1 FY27
+vs.
+Q1 FY26
+(Dollar amounts in thousands)    September 30, 2026     September 30, 2025
+Revenues:
+Product    $    3,285,469       $    2,465,006       $    820,463       33     %
+Service    850,546       744,690       105,856       14     %
+Total revenues    $    4,136,015       $    3,209,696       $    926,319       29     %
+Costs of revenues    $    1,577,791       $    1,243,070       $    334,721       27     %
+Gross margin    61.9     %     61.3     %
+Total revenues increased 13% in the   three months ended September 30, 2026   compared to   the three months ended   June 30, 2026  , primarily due to higher demand from leading-edge customers in memory, foundry/logic, and advanced packaging technologies, supported by continued data center investment and the adoption of AI and HPC semiconductor devices.   Service revenues increased 4%, reflecting support requirements associated with higher product shipments and continued growth in our installed base of tools.
+Total revenues increased 29%   in the   three months ended   September 30, 2026 compared to the   three months ended September 30, 2025, primarily due to   higher demand from leading-edge customers in memory, advanced packaging, and foundry/logic technologies, supported by continued data center investment and the adoption of AI and HPC semiconductor devices.   Service revenues increased 14%, reflecting support requirements associated with higher product shipments and continued growth in our installed base of tools.
+34
+Table of Contents
+Revenues by segment  (1)
+Three Months Ended,     Q1 FY27
+vs.
+Q4 FY26
+(Dollar amounts in thousands)    September 30, 2026     June 30, 2026
+Revenues:
+Semiconductor Process Control    $    3,754,254       $    3,256,781       $    497,473       15     %
+Specialty Semiconductor Process    139,487       159,704       (20,217)      (13)    %
+PCB and Component Inspection    242,151       241,110       1,041       —     %
+Total revenues for reportable segments    $    4,135,892       $    3,657,595       $    478,297       13     %
+Three Months Ended,     Q1 FY27
+vs.
+Q1 FY26
+(Dollar amounts in thousands)    September 30, 2026     September 30, 2025
+Revenues:
+Semiconductor Process Control    $    3,754,254       $    2,899,392       $    854,862       29     %
+Specialty Semiconductor Process    139,487       119,755       19,732       16     %
+PCB and Component Inspection    242,151       189,488       52,663       28     %
+Total revenues for reportable segments    $    4,135,892       $    3,208,635       $    927,257       29     %
+_______________
+(1)  Segment revenues exclude corporate allocations and the effects of changes in foreign currency exchange rates. For additional details, refer to Note 16 “Segment Reporting and Geographic Information” to our Condensed Consolidated Financial Statements.
+Revenues from our   Semiconductor Process Control   segment for the three months ended September 30, 2026   increased   by   15% compared to   the three months ended   June 30, 2026, and increased 29% compared to the same period in the prior year, r  eflecting higher demand from leading-edge customers in memory, foundry/logic, and advanced packaging technologies, supported by continued data center investment and the adoption of AI and HPC semiconductor devices. Revenue growth also benefited from   higher service revenues due to support requirements associated with higher product shipments and continued growth in our installed base of tools.
+Revenues from our Specialty Semiconductor Process segment for the three months ended September 30, 2026   decreased   by   13% compared to t  he three months ended   June 30, 2026, primarily due to timing of system shipments partially offset by higher service revenues from an increasing number of tools in our installed base. Revenues in this segment increased by 16% during the     three   months ended September 30, 2026 compared to the same period in the prior year, due to timing of system shipments and higher service revenues due to support requirements associated with higher product shipments and continued growth in our installed base of tools. These period-to-period fluctuations primarily reflect the timing of customer deliveries rather than significant changes in underlying business activity.
+Revenues from our PCB and Component Inspection   segment were essentially unchanged during the three months ended September 30, 2026 compared to   the three months ended   June 30, 2026. Revenues in this segment increased   by   28% during the     three   months ended September 30, 2026 compared to the same period in the prior year, due to increased revenue from advanced packaging and PCB and component inspection products, along with higher service revenues from growth in our installed base.
+35
+Table of Contents
+Below is supplementary revenue information by major product categories for the indicated periods:
+(Dollar amounts in thousands)    Three Months Ended,       Q1 FY27
+vs.
+Q4 FY26
+September 30, 2026     June 30, 2026
+Revenues:
+Wafer Inspection    $    2,111,203       51     %     $    1,781,116       49     %             $    330,087       19     %
+Patterning    862,468       21     %     728,099       20     %             134,369       18     %
+Specialty Semiconductor Process    113,597       3     %     136,513       4     %             (22,916)      (17)    %
+PCB and Component Inspection    167,510       4     %     167,526       4     %             (16)      —     %
+Services    850,546       20     %     820,405       22     %             30,141       4     %
+Other    30,691       1     %     23,897       1     %             6,794       28     %
+Total    $    4,136,015       100     %     $    3,657,556       100     %             $    478,459       13     %
+(Dollar amounts in thousands)    Three Months Ended,       Q1 FY27
+vs.
+Q1 FY26
+September 30, 2026     September 30, 2025
+Revenues:
+Wafer Inspection    $    2,111,203       51     %     $    1,537,244       48     %             $    573,959       37     %
+Patterning    862,468       21     %     667,427       21     %             195,041       29     %
+Specialty Semiconductor Process    113,597       3     %     100,219       3     %             13,378       13     %
+PCB and Component Inspection    167,510       4     %     117,298       4     %             50,212       43     %
+Services    850,546       20     %     744,690       23     %             105,856       14     %
+Other    30,691       1     %     42,818       1     %             (12,127)      (28)    %
+Total    $    4,136,015       100     %     $    3,209,696       100     %             $    926,319       29     %
+Revenues by region
+The following is a summary of revenues by geographic region, based on ship-to location, for the indicated periods:
+Three Months Ended,     Q1 FY27
+vs.
+Q4 FY26
+(Dollar amounts in thousands)    September 30, 2026     June 30, 2026
+Revenues:
+China    $    1,425,744       34.5     %     $    956,728       26.2     %     $    469,016       49     %
+Taiwan    1,022,729       24.7     %     1,136,037       31.1     %     (113,308)      (10)    %
+North America    618,029       14.9     %     654,959       17.9     %     (36,930)      (6)    %
+Korea    497,169       12.0     %     374,089       10.2     %     123,080       33     %
+Rest of Asia    218,233       5.3     %     158,042       4.3     %     60,191       38     %
+Europe and Israel    194,331       4.7     %     167,223       4.6     %     27,108       16     %
+Japan    159,780       3.9     %     210,478       5.7     %     (50,698)      (24)    %
+Total    $    4,136,015       100.0     %     $    3,657,556       100.0     %     $    478,459       13     %
+Three Months Ended,     Q1 FY27
+vs.
+Q1 FY26
+(Dollar amounts in thousands)    September 30, 2026     September 30, 2025
+Revenues:
+China    $    1,425,744       34.5     %     $    1,267,156       39.5     %     $    158,588       13     %
+Taiwan    1,022,729       24.7     %     793,608       24.7     %     229,121       29     %
+North America    618,029       14.9     %     297,907       9.3     %     320,122       107     %
+Korea    497,169       12.0     %     299,373       9.3     %     197,796       66     %
+Rest of Asia    218,233       5.3     %     105,467       3.3     %     112,766       107     %
+Europe and Israel    194,331       4.7     %     150,976       4.7     %     43,355       29     %
+Japan    159,780       3.9     %     295,209       9.2     %     (135,429)      (46)    %
+Total    $    4,136,015       100.0     %     $    3,209,696       100.0     %     $    926,319       29     %
+36
+Table of Contents
+Revenues from our customers in China increased 49% in the three months ended September 30, 2026 compared to   the three months ended   June 30, 2026, and increased 13% compared to the same period in the prior year, primarily driven by increased demand from foundry/logic customers, particularly at mature technology nodes.
+Revenues from our customers in Taiwan decreased 10% in the three months ended September 30, 2026 compared to   the three months ended   June 30, 2026, primarily due to lower deliveries to leading-edge foundry/logic customers driven by the timing of customer expansion, partially offset by higher demand from memory customers. Revenues from customers in Taiwan increased 29% in the three months ended September 30, 2026, compared to the same period in the prior year, due to increased demand from leading-edge customers in foundry/logic, memory, and advanced packaging technologies.
+Revenues from our customers in North America decreased 6% in the three months ended September 30, 2026 compared to   the three months ended   June 30, 2026, primarily due to slightly lower leading-edge foundry/logic customer deliveries. Revenues from customers in North America increased 107% in the three months ended September 30, 2026, compared to the same period in the prior year, primarily due to increased demand from leading-edge customers in foundry/logic and memory technologies.
+Revenues from our customers in Korea increased 33% in the three months ended September 30, 2026, compared to   the three months ended   June 30, 2026, and increased 66% compared to the same period in the prior year, due to increased demand from memory customers, including investments supporting high-bandwidth memory and advanced DRAM technology roadmaps.
+Each of the remaining regions accounted for less than 10% of revenue in all periods presented.
+Gross margin
+Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+The following tables summarize the major factors that contributed to the changes in gross margin during the periods presented:
+Gross Margin
+Three Months Ended
+June 30, 2026    61.4%
+Revenue volume of products and services    0.6%
+Mix of products and services sold    0.5%
+Manufacturing labor, overhead and efficiencies    0.3%
+Other service and manufacturing costs    (0.9)%
+September 30, 2026    61.9%
+Gross Margin
+Three Months Ended
+September 30, 2025    61.3%
+Revenue volume of products and services    1.7%
+Mix of products and services sold    (1.2)%
+Manufacturing labor, overhead and efficiencies    0.6%
+Other service and manufacturing costs    (0.5)%
+September 30, 2026    61.9%
+Changes in gross margin from revenue volume of products and services reflect our ability to leverage existing infrastructure to generate higher revenues. Changes in gross margin from the mix of products and services sold reflect the impact of changes within the composition of product and service offerings. Changes in gross margin from manufacturing labor, overhead and efficiencies reflect our ability to manage costs and drive productivity as we scale our manufacturing activity to respond to customer requirements and amortization of intangible assets. In both periods presented above, manufacturing labor, overhead and efficiencies included higher employee-related costs due to increases in headcount partially offset by absorption benefits from higher manufacturing volumes. Changes in gross margin from other service and manufacturing costs include the
+37
+Table of Contents
+impact of tariffs, customer support costs, including the efficiencies in which we manage our production plans and inventory risk.
+Research and Development
+R&D expenses may fluctuate with product development phases and project timing as well as our R&D efforts. As technological innovation is essential to our success, we may incur significant costs associated with R&D projects, including compensation for engineering talent, engineering material costs and other expenses.
+(Dollar amounts in thousands)    Three Months Ended,     Q1 FY27
+vs.
+Q4 FY26
+September 30, 2026     June 30, 2026
+R&D expenses    $    395,096     $    399,023     $    (3,927)      (1)    %
+R&D expenses as a percentage of total revenues    10     %     11     %
+R&D expenses during the three months ended September 30, 2026 were comparable to the three months ended June 30, 2026.
+(Dollar amounts in thousands)    Three Months Ended,     Q1 FY27
+vs.
+Q1 FY26
+September 30, 2026     September 30, 2025
+R&D expenses    $    395,096       $    360,461       $    34,635       10     %
+R&D expenses as a percentage of total revenues    10     %     11     %
+R&D expenses during the three months ended September 30, 2026     increased     compared to the three months ended September 30, 2025, primarily due to an increase in employee-related expenses of $31.4 million as a result of increased headcount and higher compensation and benefits costs.
+Our future   operating results will depend significantly on our ability to make products and provide services that have a competitive advantage in our marketplace. To do this, we believe that we must continue to make substantial and focused investments in our R&D. We remain committed to product development in new and emerging technologies.
+Selling, General and Administrative
+Three Months Ended,     Q1 FY27
+vs.
+Q4 FY26
+(Dollar amounts in thousands)    September 30, 2026     June 30, 2026
+SG&A expenses    $    301,458     $    291,477     $    9,981       3     %
+SG&A expenses as a percentage of total revenues    7     %     8     %
+SG&A expenses during the three months ended September 30, 2026 increased compared to the three months ended June 30, 2026, primarily due to higher losses on disposal of fixed assets of $4.6 million and an increase in facilities-related expense of $3.1 million.
+(Dollar amounts in thousands)    Three Months Ended,     Q1 FY27
+vs.
+Q1 FY26
+September 30, 2026     September 30, 2025
+SG&A expenses    $    301,458       $    268,988       $    32,470       12     %
+SG&A expenses as a percentage of total revenues    7     %     8     %
+SG&A expenses during the three months ended September 30, 2026 increased compared to the three months ended September 30, 2025, primarily due to   increases in employee-related expenses of $24.8 million as a result of additional headcount and higher employee compensation and benefit costs, and higher losses on disposal of fixed assets of $4.7 million.
+Restructuring Charges
+Restructuring charges were immaterial for the each of three months ended September 30, 2026, June 30, 2026 and September 30, 2025. For additional information, refer to Note 17 “Restructuring Charges” to our Condensed Consolidated Financial Statements.
+38
+Table of Contents
+Interest Expense and Other Expense (Income), Net
+Interest expense represents interest associated with our debt instruments. Interest on our senior, unsecured long-term notes (the “Senior Notes”) is payable semi-annually. Concurrent with the Senior Notes interest payments, floating interest payments on our interest rate swaps are paid semi-annually and the fixed-rate interest receivable on the swaps is received semi-annually.
+Other expense (income), net is comprised primarily of fair value adjustments and realized gains or losses on sales of marketable and non-marketable securities, gains or losses from revaluations of certain foreign currency denominated assets and liabilities as well as foreign currency contracts, interest-related accruals (such as interest and penalty accruals related to our tax obligations) and interest income earned on our invested cash, cash equivalents and marketable securities.
+(Dollar amounts in thousands)    Three Months Ended,     Q1 FY27
+vs.
+Q4 FY26
+September 30, 2026     June 30, 2026
+Interest expense    $    67,927     $    73,274     $    (5,347)      (7)    %
+Other expense (income), net    $    (30,339)     $    (68,711)     $    38,372       56     %
+Interest expense as a percentage of total revenues    2     %     2     %
+Other expense (income), net as a percentage of total revenues    < 1%     (2)    %
+Interest expense during the three months ended September 30, 2026 decreased slightly compared to the three months ended June 30, 2026, primarily due to reduced factoring-related interest expense of $4.3 million.
+The change in other expense (income), net during the three months ended September 30, 2026 compared to the three months ended June 30, 2026 was primarily due to a net fair value loss of $18.5 million from an equity investment and release of a tax reserve of $11.6 million in the prior quarter.
+(Dollar amounts in thousands)    Three Months Ended,     Q1 FY27
+vs.
+Q1 FY26
+September 30, 2026     September 30, 2025
+Interest expense    $    67,927       $    71,075       $    (3,148)      (4)    %
+Other expense (income), net    $    (30,339)      $    (43,374)      $    13,035       30     %
+Interest expense as a percentage of total revenues    2     %     2     %
+Other expense (income), net as a percentage of total revenues    < 1%     (1)    %
+Interest expense during the three months ended September 30, 2026 decreased slightly compared to the three months ended September 30, 2025, primarily due to favorable interest rate swap settlements.
+The change in other expense (income), net during the three months ended September 30, 2026 compared to the three months ended September 30, 2025 was primarily due to a net fair value loss of $15.1 million from an equity investment, partially offset by favorable foreign exchange fluctuations of $3.1 million.
+Provision for Income Taxes
+The following tables provide details of income taxes:
+Three Months Ended,
+(Dollar amounts in thousands)    September 30, 2026     June 30, 2026
+Income before income taxes    $    1,824,082     $    1,549,385
+Provision for income taxes    $    275,494     $    186,326
+Effective tax rate    15.1     %     12.0     %
+The effective tax rate during the three months ended September 30, 2026 was higher compared to the three months ended June 30, 2026, primarily due to a reduction in the tax effects of our stock-based compensation expense and the tax effects of the Undertaxed Profits Rule (“UTPR”) provision under the Organization for Economic Co-operation and Development (“OECD”) Pillar Two Global Anti-Base Erosion (“GloBE”) rules during the three months ended September 30, 2026. We are expecting $94.5 million tax expense in our fiscal year ending June 30, 2027 relating to the UTPR provision and have accrued $20.2 million tax expense during the three months ended September 30, 2026. As countries enact legislation to adopt the Side-by-Side Safe Harbor, the UTPR tax expense may be reversed without payment.
+39
+Table of Contents
+Three Months Ended,
+(Dollar amounts in thousands)    September 30, 2026     September 30, 2025
+Income before income taxes    $    1,824,082     $    1,309,476
+Provision for income taxes    $    275,494     $    188,436
+Effective tax rate    15.1     %     14.4     %
+The effective tax rate during the three months ended September 30, 2026 was higher compared to the three months ended September 30, 2025, primarily due to the tax effects of the UTPR provision under the OECD Pillar Two GloBE rules during the three months ended September 30, 2026.
+Our future effective income tax rate depends on various factors, such as tax legislation, the geographic composition of our pre-tax income, the amount of our pre-tax income as business activities fluctuate, non-deductible expenses incurred in connection with acquisitions, R&D credits as a percentage of aggregate pre-tax income, non-taxable or non-deductible increases or decreases in the assets held within our Executive Deferred Savings Plan, the tax effects of employee stock activity and the effectiveness of our tax planning strategies. We also continue to monitor the adoption of Pillar Two relating to the global minimum tax in each of our tax jurisdictions to evaluate its impact on our effective income tax rate. For some of the jurisdictions that have adopted Pillar Two in their tax legislation, it was effective for us beginning in our fiscal year ended June 30, 2025.
+For discussions on tax examinations, assessments and certain related proceedings, see Note 12 “Income Taxes” to our Condensed Consolidated Financial Statements.
+LIQUIDITY AND CAPITAL RESOURCES
+As of     As of
+(Dollar amounts in thousands)    September 30, 2026     June 30, 2026
+Cash and cash equivalents    $    1,531,950     $    1,649,842
+Marketable securities    3,209,241     3,252,566
+Total cash, cash equivalents and marketable securities    $    4,741,191     $    4,902,408
+Percentage of total assets    26     %     27     %
+Three Months Ended September 30,
+(In thousands)    2026     2025
+Cash flows:
+Net cash provided by operating activities    $    1,530,939     $    1,161,591
+Net cash used in investing activities    (177,938)     (409,988)
+Net cash used in financing activities    (1,479,603)     (881,799)
+Effect of exchange rate changes on cash and cash equivalents    8,710     (2,501)
+Net decrease in cash and cash equivalents    $    (117,892)      $    (132,697)
+Cash, Cash Equivalents and Marketable Securities
+As of September 30, 2026, our cash, cash equivalents and marketable securities totaled $4.74 billion, compared to the $4.90 billion balance as of June 30, 2026. Refer to below discussions of sources and uses of cash during the three months ended September 30, 2026. As of September 30, 2026, $785.7 million of our $4.74 billion of cash, cash equivalents and marketable securities were held by our foreign subsidiaries and branch offices. We have recorded appropriate provisions for income or withholding taxes that may result from future repatriations of this balance.
+Cash Flows Provided by Operating Activities
+We typically finance our liquidity requirements through cash generated from our operations. Net cash provided by operating activities during the three months ended September 30, 2026 was $1.53 billion compared to $1.16 billion during the three months ended September 30, 2025. This increase in cash provided was primarily due to an increase in customer and other collections of approximately $940 million primarily driven by higher shipments, a decrease in income tax payments of approximately $58 million and a decrease in other tax payments of approximately $50 million; partially offset by increases in accounts payable payments of approximately $595 million and employee-related payments of approximately $70 million.
+40
+Table of Contents
+Cash Flows Used in Investing Activities
+Net cash used in investing activities during the three months ended September 30, 2026 was $177.9 million compared to $410.0 million during the three months ended September 30, 2025. This decrease in cash used was primarily due to decreases in net purchases of available-for-sale securities of $332.0 million, partially offset by a $98.9 million increase in capital expenditures and $1.1 million decrease in government assistance.
+Cash Flows Used in Financing Activities
+Net cash used in financing activities during the three months ended September 30, 2026 was $1.48 billion compared to $881.8 million during the three months ended September 30, 2025. This increase in cash used was primarily due to increases in common stock repurchases of $390.7 million, tax withholding payments related to vested and released restricted stock units (“RSUs”) of $157.6 million and payment of dividends and dividend equivalents of $51.1 million.
+Stock Repurchases
+The shares of common stock repurchased under our stock repurchase program have reduced our basic and diluted weighted-average shares outstanding for the three months ended September 30, 2026 and 2025. The total amount of stock repurchases during the three months ended September 30, 2026 and 2025 were $935.8 million and $545.1 million, respectively. The stock repurchase program is intended, in part, to mitigate the potential dilutive impact related to our equity incentive plans and shares issued in connection with our Employee Stock Purchase Program as well as to return excess cash to our stockholders. As of September 30, 2026, an aggregate of $8.81 billion was available for repurchase under our stock repurchase program, which reflects an increase in the authorized repurchase amount of $7.00 billion in the third quarter of fiscal 2026.
+Cash Dividends
+During the three months ended September 30, 2026, our Board of Directors declared a regular quarterly cash dividend of $0.230 per share on our outstanding common stock, which was paid on September 1, 2026 to our stockholders of record as of the close of business on August 17, 2026. During the same period in fiscal year ended June 30, 2026, our Board of Directors declared and paid a regular quarterly cash dividend of $0.190 per share on our outstanding common stock. The total amount of regular quarterly cash dividends and dividend equivalents paid during the three months ended September 30, 2026 and 2025 was $305.1 million and $254.0 million, respectively. The amount of accrued dividend equivalents payable for regular quarterly cash dividends on unvested RSUs with dividend equivalent rights as of September 30, 2026 and June 30, 2026 was $10.4 million and $13.3 million, respectively. These amounts will be paid upon vesting of the underlying unvested RSUs as described in Note 9 “Equity and Long-term Incentive Compensation Plans” to our Condensed Consolidated Financial Statements.
+Senior Notes
+As of September 30, 2026, we had an aggregate principal amount of Senior Notes totaling $5.95 billion with due dates ranging from fiscal 2029 through fiscal 2063. For additional information on these Senior Notes, see Note 7 “Debt” to our Condensed Consolidated Financial Statements. As of September 30, 2026, we were in compliance with all of our covenants under the relevant indentures associated with the Senior Notes.
+Revolving Credit Facility
+We have in place a Credit Agreement (“Credit Agreement”) for an unsecured revolving credit facility (“Revolving Credit Facility”) with a maturity date of July 3, 2030 that allows us to borrow up to $1.50 billion. Subject to the terms of the Credit Agreement, the Revolving Credit Facility may be increased by an amount up to $500.0 million in the aggregate. As of September 30, 2026, we had no outstanding borrowings under the Revolving Credit Facility. We were in compliance with all covenants under the Credit Agreement as of September 30, 2026 (the net leverage ratio was 0.49 to 1.00, compared to a maximum net leverage ratio of 3.25 to 1.00 on a quarterly basis covering the trailing four consecutive fiscal quarters for each fiscal quarter). Considering our current liquidity position, short-term financial forecasts and ability to prepay the Revolving Credit Facility, if necessary, we expect to continue to be in compliance with our financial covenants at the end of our fiscal year ending June 30, 2027.
+For additional information on the Revolving Credit Facility, see Note 7 “Debt” to our Condensed Consolidated Financial Statements.
+Material Cash Requirements
+For details regarding our debt and other material cash commitments, refer to Note 7 “Debt” and Note 14 “Commitments and Contingencies,” respectively, to our Condensed Consolidated Financial Statements. For additional details regarding our
+41
+Table of Contents
+material cash requirements, refer to “Material Cash Requirements” in the “Liquidity and Capital Resources” section of Part II, Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations” in our Annual Report on Form 10-K for the fiscal year ended June 30, 2026.
+Off-Balance Sheet Arrangements
+As of September 30, 2026, we did not have any off-balance sheet arrangements that have or are reasonably likely to have a current or future effect on our financial position, changes in financial condition, revenues and expenses, results of operations, liquidity, capital expenditures or capital resources that are material to investors. Refer to Note 14 “Commitments and Contingencies” to our Condensed Consolidated Financial Statements for information related to indemnification obligations.
+Working Capital
+Working capital was $8.02 billion as of September 30, 2026, which represents a decrease of $58.5 million compared to our working capital of $8.08 billion as of June 30, 2026. As of September 30, 2026, our principal sources of liquidity consisted of $4.74 billion of cash, cash equivalents and marketable securities, as well as $1.50 billion availability under our Revolving Credit Facility. Our liquidity may be affected by many factors, some of which are based on the normal ongoing operations of the business, spending for business acquisitions, and other factors such as uncertainty in the global and regional economies and the semiconductor, semiconductor-related and electronic device industries. Although cash requirements will fluctuate based on the timing and extent of these factors, we believe that cash generated from operations, together with the liquidity provided by existing cash and cash equivalents balances, marketable securities and our $1.50 billion Revolving Credit Facility, will be sufficient to satisfy our liquidity requirements associated with working capital needs, capital expenditures, cash dividends, stock repurchases and other contractual obligations for at least the next 12 months.
+Credit Ratings
+Our credit ratings as of September 30, 2026 are summarized below:
+Rating Agency    Rating
+Fitch Inc.    A
+Moody’s Investors Service    A2
+S&P Global Ratings    A-
+Factors that can affect our credit ratings include changes in our operating performance, the economic environment, conditions in the semiconductor and semiconductor capital equipment industries, our financial position, material acquisitions and changes in our business strategy.
+ITEM 3.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+There have been no material changes in our interest rate risk, marketable equity security risk or foreign currency risk since our Annual Report on Form 10-K for the fiscal year ended June 30, 2026. Refer to “Quantitative and Qualitative Disclosures About Market Risk” contained in Part II, Item 7A of our Annual Report on Form 10-K for our fiscal year ended June 30, 2026 for a complete description of our market risk.
+ITEM 4.    CONTROLS AND PROCEDURES
+Evaluation of Disclosure Controls and Procedures and Related CEO and CFO Certifications
+Evaluation of Disclosure Controls and Procedures
+We conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act (“Disclosure Controls”) as of the end of the period covered by this Quarterly Report on Form 10-Q (this “Report”) required by Exchange Act Rules 13a-15(b) or 15d-15(b). The Disclosure Controls evaluation was conducted under the supervision and with the participation of our management, including our Chief Executive Officer (“CEO”) and Chief Financial Officer (“CFO”). Based on this evaluation, the CEO and CFO have concluded that, as of the end of the period covered by this Report, our Disclosure Controls were effective at a reasonable assurance level.
+Attached as exhibits to this Report are certifications of the CEO and CFO that are required in accordance with Rule 13a-14 of the Exchange Act. This Controls and Procedures section includes the information concerning the controls evaluation referred to in the certifications, and it should be read in conjunction with the certifications for a more complete understanding of the topics presented.
+42
+Table of Contents
+Definition of Disclosure Controls
+Disclosure Controls are controls and procedures designed to reasonably ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act, such as this Report, is recorded, processed, summarized and reported within the time periods specified in the U.S. Securities and Exchange Commission’s rules and forms. Disclosure Controls are also designed to provide reasonable assurance that such information is accumulated and communicated to our management, including our CEO and CFO, as appropriate to allow timely decisions regarding required disclosure. Our Disclosure Controls include components of our internal control over financial reporting, which consists of control processes designed to provide reasonable assurance regarding the reliability of our financial reporting and the preparation of financial statements in accordance with generally accepted accounting principles in the United States of America. To the extent that components of our internal control over financial reporting are included within our Disclosure Controls, they are included in the scope of our annual controls evaluation.
+Limitations on the Effectiveness of Disclosure Controls
+Our management, including our CEO and CFO, does not expect that our Disclosure Controls or internal control over financial reporting will prevent all error and fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system’s objectives will be met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision making can be faulty and that breakdowns can occur because of simple errors or mistakes. Controls can also be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls is based in part on certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving our stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions or deterioration in the degree of compliance with policies or procedures. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.
+Changes in Internal Control over Financial Reporting
+During the first quarter of fiscal 2027, we implemented an upgraded enterprise resource planning (“ERP”) system, resulting in modifications to certain business processes and related internal controls over financial reporting. Management performed implementation testing and continues to monitor the operation of the ERP system and related controls. There were no other changes in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the most recent fiscal quarter covered by this Report that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+43
+Table of Contents
+PART II. OTHER INFORMATION
+ITEM 1.    LEGAL PROCEEDINGS
+The information set forth above under Note 13 “Litigation and Other Legal Matters” to our Condensed Consolidated Financial Statements in Item 1 of Part 1 is incorporated herein by reference.
+ITEM 1A.    RISK FACTORS
+Other than the risk factor listed below, there have been no material changes in our risk factors since our Annual Report on Form 10-K for the fiscal year ended June 30, 2026. Refer to “Risk Factors” contained in Part I Item 1A of our Annual Report on Form 10-K for our fiscal year ended June 30, 2026 for a complete description of our risk factors. Any of these risks, as well as risks unknown to us or that we believe are currently immaterial, could have a material adverse impact on our business, financial condition or results of operations.
+Our success is dependent in part on our technology and other proprietary rights. If we are unable to maintain our lead or protect our proprietary technology, we may lose valuable assets.
+Our success is dependent, in part, on our technology and other proprietary rights. We own various U.S. and international patents and have additional pending patent applications relating to some of our products and technologies. The process of seeking patent protection is lengthy and expensive, and we cannot be certain that pending or future applications will actually result in issued patents or that issued patents will be of sufficient scope or strength to provide meaningful protection or commercial advantage to us. Other companies and individuals, including our larger competitors, may develop technologies and obtain patents relating to our business that are similar or superior to our technology or may design around the patents we own, which may adversely affect our business. In addition, we at times engage in collaborative technology development efforts with our customers and suppliers, and these collaborations may constitute a key component of certain of our ongoing technology and product R&D projects. The termination of any such collaboration, or delays caused by disputes or other unanticipated challenges that may arise in connection with any such collaboration, could significantly impair our R&D efforts, which could have a material adverse impact on our business and operations.
+We also maintain trademarks on certain of our products and services and claim copyright protection for certain proprietary software and documentation. However, we can give no assurance that our trademarks and copyrights will be upheld or successfully deter infringement by third parties.
+While patent, copyright and trademark protection for our IP is important, we believe our future success in highly dynamic markets is most dependent upon the technical competence and creative skills of our personnel. We attempt to protect our trade secrets and other proprietary information through confidentiality and other agreements with our customers, suppliers, employees and consultants and through other security measures. We also maintain exclusive and non-exclusive licenses with third parties for strategic technology used in certain products. However, these employees, consultants and third parties may breach these agreements, and we may not have adequate remedies for wrongdoing. We also try to control access to and distribution of our technology and proprietary information. Despite our efforts, internal or external parties, including state actors, may attempt to copy, disclose, obtain, reverse engineer, decompile or otherwise misappropriate our IP or technology, including through the use of AI or machine learning technologies. Advances in AI and machine learning technologies may make policing unauthorized use of our IP and technology more difficult to detect, and if third parties are able to replicate our technologies, our competitors may be able to take advantage of our R&D efforts to develop competing products. In addition, former employees may seek employment with our customers, suppliers or competitors and there can be no assurance that the confidential nature of our proprietary information will be maintained in the course of such future employment. In addition, the laws of certain territories in which we develop, manufacture or sell our products may not protect our IP rights to the same extent as the laws of the U.S. In any event, the extent to which we can protect our trade secrets through the use of confidentiality agreements is limited, and our success will depend to a significant extent on our ability to innovate ahead of our competitors.
+44
+Table of Contents
+ITEM 2.    UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Equity Repurchase Plans
+The following is a summary of stock repurchases for the three months ended September 30, 2026:
+Period    Total Number of Shares Purchased
+Average Price Paid per Share  (3)
+Total Number of Shares Purchased As Part of Publicly Announced Plans or Programs  (1)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs  (1)(2)(3)
+July 1, 2026 to July 31, 2026    1,583,942       $    206.32       1,583,942       $    9,415,487,309
+August 1, 2026 to August 31, 2026    1,867,466       $    187.19       1,867,466       $    9,065,924,684
+September 1, 2026 to September 30, 2026    1,462,790       $    177.14       1,462,790       $    8,806,808,110
+Total    4,914,198         4,914,198
+__________________
+(1)  Our Board of Directors has authorized a program that permits us to repurchase our common stock, including a $7.00 billion increase approved by the Board in the third quarter of fiscal 2026. As of September 30, 2026, $8.81 billion remained available for repurchases under our repurchase program. All shares in the table were purchased pursuant to our publicly announced repurchase program.
+(2)  Our stock repurchase program has no expiration date and may be suspended at any time. Future repurchases of shares of our common stock under our repurchase program may be effected through various different repurchase transaction structures including isolated open market transactions, accelerated share repurchase agreements or systematic repurchase plans, subject to market conditions, applicable legal requirements and other factors.
+(3)  Average price paid per share and approximate dollar value of shares that may yet be purchased under the plans or programs exclude the excise tax imposed on certain stock repurchases as part of the Inflation Reduction Act of 2022, or other fees, costs or expenses that may be applicable to the repurchases.
+ITEM 3.    DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 4.    MINE SAFETY DISCLOSURES
+Not applicable.
+ITEM 5.    OTHER INFORMATION
+During the three months ended September 30, 2026, no director or officer of the Company   adopted   or   terminated   a “Rule 10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408(a) of Regulation S-K.
+45
+Table of Contents
+ITEM 6.    EXHIBITS
+Incorporated by Reference
+Exhibit Number     Exhibit Description     Form     File Number     Exhibit Number     Filing Date
+3.1
+Restated Certificate of Incorporation
+8-K     No. 000-09992     3.2     June 12, 2026
+3.2
+Amended and Restated By-Laws
+8-K     No. 000-09992     3.1     November 7, 2025
+31.1
+Certification of Chief Executive Officer under Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934
+31.2
+Certification of Chief Financial Officer under Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934
+32
+Certification of Chief Executive Officer and Chief Financial Officer Pursuant to 18 U.S.C. Section 1350   ^
+101.INS     XBRL Instance Document - the instance document does not appear in the Interactive Data file because its XBRL tags are embedded within the Inline XBRL document
+101.SCH     XBRL Taxonomy Extension Schema Document
+101.CAL     XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF     XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB     XBRL Taxonomy Extension Label Linkbase Document
+101.PRE     XBRL Taxonomy Extension Presentation Linkbase Document
+104     Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+^ Furnished herewith
+46
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+KLA CORPORATION
+(Registrant)
+October 29, 2026       /s/ RICHARD P. WALLACE
+(Date)       Richard P. Wallace
+President and Chief Executive Officer
+(Principal Executive Officer)
+October 29, 2026       /s/ BREN D. HIGGINS
+(Date)       Bren D. Higgins
+Executive Vice President and Chief Financial Officer
+(Principal Financial Officer)
+October 29, 2026       /s/ VIRENDRA A. KIRLOSKAR
+(Date)       Virendra A. Kirloskar
+Senior Vice President and Chief Accounting Officer
+(Principal Accounting Officer)
+47

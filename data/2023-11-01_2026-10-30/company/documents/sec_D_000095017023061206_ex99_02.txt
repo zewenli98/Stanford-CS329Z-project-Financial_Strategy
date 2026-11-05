@@ -1,0 +1,402 @@
+XML
+108
+R99.htm
+IDEA: XBRL DOCUMENT
+v3.23.3
+Derivatives and Hedge Accounting Activities (Schedule of Offsetting Assets) (Detail) - USD ($)
+$ in Millions
+Dec. 31, 2022
+Dec. 31, 2021
+Offsetting Assets [Line Items]
+Gross Assets Presented in the Consolidated Balance Sheet
+[1]
+$ 1,975
+$ 493
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Financial Instruments
+435
+69
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Cash Collateral Received
+0
+0
+Net Amounts
+1,540
+424
+Virginia Electric and Power Company
+Offsetting Assets [Line Items]
+Gross Assets Presented in the Consolidated Balance Sheet
+[1]
+852
+271
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Financial Instruments
+45
+35
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Cash Collateral Received
+0
+0
+Net Amounts
+807
+236
+Commodity Contract | Over-the-counter
+Offsetting Assets [Line Items]
+Gross Assets Presented in the Consolidated Balance Sheet
+[1]
+408
+153
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Financial Instruments
+28
+13
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Cash Collateral Received
+0
+0
+Net Amounts
+380
+140
+Commodity Contract | Over-the-counter | Virginia Electric and Power Company
+Offsetting Assets [Line Items]
+Gross Assets Presented in the Consolidated Balance Sheet
+[1]
+238
+110
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Financial Instruments
+7
+8
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Cash Collateral Received
+0
+0
+Net Amounts
+231
+102
+Commodity Contract | Exchange
+Offsetting Assets [Line Items]
+Gross Assets Presented in the Consolidated Balance Sheet
+[1]
+160
+9
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Financial Instruments
+159
+7
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Cash Collateral Received
+0
+0
+Net Amounts
+1
+2
+Commodity Contract | Exchange | Virginia Electric and Power Company
+Offsetting Assets [Line Items]
+Gross Assets Presented in the Consolidated Balance Sheet
+[1]
+0
+7
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Financial Instruments
+0
+7
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Cash Collateral Received
+0
+0
+Net Amounts
+0
+0
+Interest Rate Contract | Over-the-counter
+Offsetting Assets [Line Items]
+Gross Assets Presented in the Consolidated Balance Sheet
+[1]
+1,407
+323
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Financial Instruments
+248
+49
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Cash Collateral Received
+0
+0
+Net Amounts
+1,159
+274
+Interest Rate Contract | Over-the-counter | Virginia Electric and Power Company
+Offsetting Assets [Line Items]
+Gross Assets Presented in the Consolidated Balance Sheet
+[1]
+614
+146
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Financial Instruments
+38
+20
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Cash Collateral Received
+0
+0
+Net Amounts
+$ 576
+126
+Foreign currency exchange rate | Over-the-counter
+Offsetting Assets [Line Items]
+Gross Assets Presented in the Consolidated Balance Sheet
+[1]
+8
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Financial Instruments
+0
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Cash Collateral Received
+0
+Net Amounts
+8
+Foreign currency exchange rate | Over-the-counter | Virginia Electric and Power Company
+Offsetting Assets [Line Items]
+Gross Assets Presented in the Consolidated Balance Sheet
+[1]
+8
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Financial Instruments
+0
+Gross Amounts Not Offset in the Consolidated Balance Sheet, Cash Collateral Received
+0
+Net Amounts
+$ 8
+[1]
+Excludes   derivative assets of $  201   million and $  120   million at Dominion Energy, and $  30   million and $  29   million at Virginia Power, at December 31, 2022 and 2021, respectively, which are not subject to master netting or similar arrangements.
+X
+- Definition
+Fair value, after effects of master netting arrangements, deduction of assets not subject to a master netting arrangement and elected not to be offset, of financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset, offset against an obligation to return collateral.
++ References
+Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 13
+-SubTopic 20
+-Topic 210
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483444/210-20-55-13
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 3
+-Subparagraph (e)
+-SubTopic 20
+-Topic 210
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483466/210-20-50-3
++ Details
+Name:
+us-gaap_DerivativeAssetFairValueOffsetAgainstCollateralNetOfNotSubjectToMasterNettingArrangementPolicyElection
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- Definition
+Fair value of financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and contract can be net settled by means outside contract or delivery of asset, subject to master netting arrangement or similar agreement and not elected or qualified to offset, deducted from derivative asset.
++ References
+Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 13
+-SubTopic 20
+-Topic 210
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483444/210-20-55-13
+Reference 2: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 3
+-Subparagraph (d)(1)(i)
+-SubTopic 20
+-Topic 210
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483466/210-20-50-3
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 3
+-Subparagraph (d)(1)(ii)
+-SubTopic 20
+-Topic 210
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483466/210-20-50-3
++ Details
+Name:
+us-gaap_DerivativeAssetNotOffsetPolicyElectionDeduction
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- Definition
+Amount of obligation to return cash collateral under master netting arrangements that have not been offset against derivative assets.
++ References
+Reference 1: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 13
+-SubTopic 20
+-Topic 210
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483444/210-20-55-13
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 20
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483444/210-20-55-20
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 3
+-Subparagraph (d)(2)
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483466/210-20-50-3
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Topic 815
+-SubTopic 10
+-Section 50
+-Paragraph 8
+-Subparagraph (b)
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147480434/815-10-50-8
++ Details
+Name:
+us-gaap_DerivativeCollateralObligationToReturnCash
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- Definition
+Fair value, before effects of master netting arrangements, of a financial asset or other contract with one or more underlyings, notional amount or payment provision or both, and the contract can be net settled by means outside the contract or delivery of an asset. Includes assets elected not to be offset. Excludes assets not subject to a master netting arrangement.
++ References
+Reference 1: http://www.xbrl.org/2003/role/exampleRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 22
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483444/210-20-55-22
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 3
+-Subparagraph (a)
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483466/210-20-50-3
+Reference 3: http://fasb.org/us-gaap/role/ref/legacyRef
+-Topic 210
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 7
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483444/210-20-55-7
+Reference 4: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Topic 815
+-SubTopic 10
+-Section 50
+-Paragraph 4B
+-Subparagraph (a),(c)
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147480434/815-10-50-4B
+Reference 5: http://fasb.org/us-gaap/role/ref/legacyRef
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 4D
+-Subparagraph (c)(2)
+-SubTopic 20
+-Topic 860
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147481326/860-20-50-4D
++ Details
+Name:
+us-gaap_DerivativeFairValueOfDerivativeAsset
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- Definition
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
++ References
+No definition available.
++ Details
+Name:
+us-gaap_OffsettingAssetsLineItems
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Details
+Name:
+dei_LegalEntityAxis=d_VirginiaElectricAndPowerCompanyMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_CommodityContractMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_TransactionTypeAxis=us-gaap_OverTheCounterMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_TransactionTypeAxis=us-gaap_ExchangeTradedMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_InterestRateContractMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_DerivativeInstrumentRiskAxis=us-gaap_ForeignExchangeContractMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:

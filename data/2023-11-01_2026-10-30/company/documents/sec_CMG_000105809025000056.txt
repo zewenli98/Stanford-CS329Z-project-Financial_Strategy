@@ -1,0 +1,790 @@
+cmg-20250630
+false  2025  Q2  0001058090  --12-31  P1Y  P2Y  2  3  2  3  1        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      cmg:restaurant    cmg:region    cmg:segment    xbrli:pure    cmg:installment    cmg:legalAction     0001058090    2025-01-01  2025-06-30      0001058090    2025-07-21      0001058090    2025-06-30      0001058090    2024-12-31      0001058090   us-gaap:FoodAndBeverageMember     2025-04-01  2025-06-30      0001058090   us-gaap:FoodAndBeverageMember     2024-04-01  2024-06-30      0001058090   us-gaap:FoodAndBeverageMember     2025-01-01  2025-06-30      0001058090   us-gaap:FoodAndBeverageMember     2024-01-01  2024-06-30      0001058090   cmg:DeliveryServiceMember     2025-04-01  2025-06-30      0001058090   cmg:DeliveryServiceMember     2024-04-01  2024-06-30      0001058090   cmg:DeliveryServiceMember     2025-01-01  2025-06-30      0001058090   cmg:DeliveryServiceMember     2024-01-01  2024-06-30      0001058090    2025-04-01  2025-06-30      0001058090    2024-04-01  2024-06-30      0001058090    2024-01-01  2024-06-30      0001058090   us-gaap:CommonStockMember     2023-12-31      0001058090   us-gaap:AdditionalPaidInCapitalMember     2023-12-31      0001058090   us-gaap:TreasuryStockCommonMember     2023-12-31      0001058090   us-gaap:RetainedEarningsMember     2023-12-31      0001058090   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-12-31      0001058090    2023-12-31      0001058090   us-gaap:AdditionalPaidInCapitalMember     2024-01-01  2024-03-31      0001058090    2024-01-01  2024-03-31      0001058090   us-gaap:CommonStockMember     2024-01-01  2024-03-31      0001058090   us-gaap:TreasuryStockCommonMember     2024-01-01  2024-03-31      0001058090   us-gaap:RetainedEarningsMember     2024-01-01  2024-03-31      0001058090   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-01-01  2024-03-31      0001058090   us-gaap:CommonStockMember     2024-03-31      0001058090   us-gaap:AdditionalPaidInCapitalMember     2024-03-31      0001058090   us-gaap:TreasuryStockCommonMember     2024-03-31      0001058090   us-gaap:RetainedEarningsMember     2024-03-31      0001058090   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-03-31      0001058090    2024-03-31      0001058090   us-gaap:AdditionalPaidInCapitalMember     2024-04-01  2024-06-30      0001058090   us-gaap:CommonStockMember     2024-04-01  2024-06-30      0001058090   us-gaap:TreasuryStockCommonMember     2024-04-01  2024-06-30      0001058090   us-gaap:RetainedEarningsMember     2024-04-01  2024-06-30      0001058090   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-04-01  2024-06-30      0001058090   us-gaap:CommonStockMember     2024-06-30      0001058090   us-gaap:AdditionalPaidInCapitalMember     2024-06-30      0001058090   us-gaap:TreasuryStockCommonMember     2024-06-30      0001058090   us-gaap:RetainedEarningsMember     2024-06-30      0001058090   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-06-30      0001058090    2024-06-30      0001058090   us-gaap:CommonStockMember     2024-12-31      0001058090   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0001058090   us-gaap:TreasuryStockCommonMember     2024-12-31      0001058090   us-gaap:RetainedEarningsMember     2024-12-31      0001058090   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0001058090   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-03-31      0001058090    2025-01-01  2025-03-31      0001058090   us-gaap:CommonStockMember     2025-01-01  2025-03-31      0001058090   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-31      0001058090   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-03-31      0001058090   us-gaap:CommonStockMember     2025-03-31      0001058090   us-gaap:AdditionalPaidInCapitalMember     2025-03-31      0001058090   us-gaap:TreasuryStockCommonMember     2025-03-31      0001058090   us-gaap:RetainedEarningsMember     2025-03-31      0001058090   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-31      0001058090    2025-03-31      0001058090   us-gaap:AdditionalPaidInCapitalMember     2025-04-01  2025-06-30      0001058090   us-gaap:CommonStockMember     2025-04-01  2025-06-30      0001058090   us-gaap:RetainedEarningsMember     2025-04-01  2025-06-30      0001058090   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-04-01  2025-06-30      0001058090   us-gaap:CommonStockMember     2025-06-30      0001058090   us-gaap:AdditionalPaidInCapitalMember     2025-06-30      0001058090   us-gaap:TreasuryStockCommonMember     2025-06-30      0001058090   us-gaap:RetainedEarningsMember     2025-06-30      0001058090   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-06-30      0001058090   cmg:ChipotleMember  us-gaap:GeographicDistributionDomesticMember     2025-06-30      0001058090   cmg:ChipotleMember  us-gaap:GeographicDistributionForeignMember     2025-06-30      0001058090   cmg:LicensedUnitsMember  us-gaap:GeographicDistributionForeignMember     2025-06-30      0001058090   cmg:GiftCardMember     2025-06-30      0001058090   cmg:GiftCardMember     2024-12-31      0001058090   cmg:GiftCardMember     2025-04-01  2025-06-30      0001058090   cmg:GiftCardMember     2024-04-01  2024-06-30      0001058090   cmg:GiftCardMember     2025-01-01  2025-06-30      0001058090   cmg:GiftCardMember     2024-01-01  2024-06-30      0001058090   cmg:ChipotleRewardsMember     2025-03-31      0001058090   cmg:ChipotleRewardsMember     2024-03-31      0001058090   cmg:ChipotleRewardsMember     2024-12-31      0001058090   cmg:ChipotleRewardsMember     2023-12-31      0001058090   cmg:ChipotleRewardsMember     2025-04-01  2025-06-30      0001058090   cmg:ChipotleRewardsMember     2024-04-01  2024-06-30      0001058090   cmg:ChipotleRewardsMember     2025-01-01  2025-06-30      0001058090   cmg:ChipotleRewardsMember     2024-01-01  2024-06-30      0001058090   cmg:ChipotleRewardsMember     2025-06-30      0001058090   cmg:ChipotleRewardsMember     2024-06-30      0001058090   us-gaap:CashMember     2025-06-30      0001058090   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueInputsLevel1Member     2025-06-30      0001058090   us-gaap:BankTimeDepositsMember  us-gaap:FairValueInputsLevel1Member     2025-06-30      0001058090   us-gaap:USTreasurySecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-06-30      0001058090   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2025-06-30      0001058090   us-gaap:FairValueInputsLevel1Member     2025-06-30      0001058090   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2025-06-30      0001058090   cmg:NoteReceivableMember  us-gaap:FairValueInputsLevel3Member     2025-06-30      0001058090   us-gaap:FairValueInputsLevel3Member     2025-06-30      0001058090   us-gaap:CashMember     2024-12-31      0001058090   us-gaap:MoneyMarketFundsMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001058090   us-gaap:BankTimeDepositsMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001058090   us-gaap:USTreasurySecuritiesMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001058090   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel1Member     2024-12-31      0001058090   us-gaap:FairValueInputsLevel1Member     2024-12-31      0001058090   us-gaap:CorporateDebtSecuritiesMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001058090   cmg:NoteReceivableMember  us-gaap:FairValueInputsLevel3Member     2024-12-31      0001058090   us-gaap:FairValueInputsLevel3Member     2024-12-31      0001058090   cmg:TractorMember     2024-12-31      0001058090   cmg:TractorMember     2025-06-30      0001058090   cmg:TractorMember     2025-01-01  2025-06-30      0001058090   cmg:HyphenTechnologiesInc.Member     2025-06-30      0001058090   cmg:HyphenTechnologiesInc.Member     2025-01-01  2025-06-30      0001058090   cmg:NuroMember     2025-06-30      0001058090   cmg:NuroMember     2025-04-01  2025-06-30      0001058090   cmg:NuroMember     2025-01-01  2025-06-30      0001058090   cmg:NuroMember     2024-12-31      0001058090   cmg:CultivateFundMember     2025-06-30      0001058090   cmg:CultivateFundMember     2024-12-31      0001058090   cmg:A2008StockRepurchaseProgramMember     2025-04-01  2025-06-30      0001058090   cmg:A2008StockRepurchaseProgramMember     2025-01-01  2025-06-30      0001058090    2025-06-10      0001058090   cmg:NotPartOfShareRepurchasePlanMember     2025-01-01  2025-06-30      0001058090   cmg:NotPartOfShareRepurchasePlanMember     2024-01-01  2024-06-30      0001058090   us-gaap:PerformanceSharesMember  us-gaap:ShareBasedCompensationAwardTrancheOneMember  srt:MinimumMember     2025-01-01  2025-06-30      0001058090   us-gaap:PerformanceSharesMember  us-gaap:ShareBasedCompensationAwardTrancheOneMember  srt:MaximumMember     2025-01-01  2025-06-30      0001058090   us-gaap:RestrictedStockUnitsRSUMember  us-gaap:ShareBasedCompensationAwardTrancheOneMember  srt:ExecutiveOfficerMember     2025-01-01  2025-06-30      0001058090   us-gaap:RestrictedStockUnitsRSUMember  us-gaap:ShareBasedCompensationAwardTrancheTwoMember  srt:ExecutiveOfficerMember     2025-01-01  2025-06-30      0001058090   us-gaap:RestrictedStockUnitsRSUMember  us-gaap:ShareBasedCompensationAwardTrancheThreeMember  srt:ExecutiveOfficerMember     2025-01-01  2025-06-30      0001058090   srt:ExecutiveOfficerMember  us-gaap:RestrictedStockUnitsRSUMember     2025-01-01  2025-06-30      0001058090   cmg:StockOptionsStockAppreciationRightsSOSARsMember     2024-12-31      0001058090   cmg:StockOptionsStockAppreciationRightsSOSARsMember     2024-01-01  2024-12-31      0001058090   cmg:StockOptionsStockAppreciationRightsSOSARsMember     2025-01-01  2025-06-30      0001058090   cmg:StockOptionsStockAppreciationRightsSOSARsMember     2025-06-30      0001058090   us-gaap:RestrictedStockUnitsRSUMember     2024-12-31      0001058090   us-gaap:RestrictedStockUnitsRSUMember     2025-01-01  2025-06-30      0001058090   us-gaap:RestrictedStockUnitsRSUMember     2025-06-30      0001058090   us-gaap:PerformanceSharesMember     2024-12-31      0001058090   us-gaap:PerformanceSharesMember     2025-01-01  2025-06-30      0001058090   us-gaap:PerformanceSharesMember     2025-06-30      0001058090   cmg:StockOptionsStockAppreciationRightsSOSARsMember  us-gaap:ShareBasedCompensationAwardTrancheOneMember     2025-01-01  2025-06-30      0001058090   cmg:StockOptionsStockAppreciationRightsSOSARsMember  us-gaap:ShareBasedCompensationAwardTrancheTwoMember     2025-01-01  2025-06-30      0001058090   us-gaap:RestrictedStockUnitsRSUMember  us-gaap:ShareBasedCompensationAwardTrancheOneMember     2025-01-01  2025-06-30      0001058090   us-gaap:RestrictedStockUnitsRSUMember  us-gaap:ShareBasedCompensationAwardTrancheTwoMember     2025-01-01  2025-06-30      0001058090    2024-01-01  2024-12-31      0001058090   us-gaap:RevolvingCreditFacilityMember  cmg:JPMorganChaseBankMember     2025-06-24      0001058090   us-gaap:RevolvingCreditFacilityMember  cmg:JPMorganChaseBankMember     2025-01-01  2025-06-30      0001058090   us-gaap:RevolvingCreditFacilityMember  cmg:JPMorganChaseBankMember     2025-06-30      0001058090   us-gaap:RevolvingCreditFacilityMember  cmg:JPMorganChaseBankMember     2024-12-31      0001058090   cmg:TractorMember  cmg:PurchasesFromSupplierMember     2025-04-01  2025-06-30      0001058090   cmg:TractorMember  cmg:PurchasesFromSupplierMember     2024-04-01  2024-06-30      0001058090   cmg:TractorMember  cmg:PurchasesFromSupplierMember     2025-01-01  2025-06-30      0001058090   cmg:TractorMember  cmg:PurchasesFromSupplierMember     2024-01-01  2024-06-30      0001058090   cmg:VebuMember  cmg:PurchasesFromSupplierMember     2025-04-01  2025-06-30      0001058090   cmg:VebuMember  cmg:PurchasesFromSupplierMember     2024-04-01  2024-06-30      0001058090   cmg:VebuMember  cmg:PurchasesFromSupplierMember     2025-01-01  2025-06-30      0001058090   cmg:VebuMember  cmg:PurchasesFromSupplierMember     2024-01-01  2024-06-30      0001058090   us-gaap:OperatingSegmentsMember  us-gaap:FoodAndBeverageMember  cmg:U.S.SegmentMember     2025-04-01  2025-06-30      0001058090   us-gaap:OperatingSegmentsMember  us-gaap:FoodAndBeverageMember  cmg:U.S.SegmentMember     2024-04-01  2024-06-30      0001058090   us-gaap:OperatingSegmentsMember  us-gaap:FoodAndBeverageMember  cmg:U.S.SegmentMember     2025-01-01  2025-06-30      0001058090   us-gaap:OperatingSegmentsMember  us-gaap:FoodAndBeverageMember  cmg:U.S.SegmentMember     2024-01-01  2024-06-30      0001058090   us-gaap:OperatingSegmentsMember  cmg:DeliveryServiceMember  cmg:U.S.SegmentMember     2025-04-01  2025-06-30      0001058090   us-gaap:OperatingSegmentsMember  cmg:DeliveryServiceMember  cmg:U.S.SegmentMember     2024-04-01  2024-06-30      0001058090   us-gaap:OperatingSegmentsMember  cmg:DeliveryServiceMember  cmg:U.S.SegmentMember     2025-01-01  2025-06-30      0001058090   us-gaap:OperatingSegmentsMember  cmg:DeliveryServiceMember  cmg:U.S.SegmentMember     2024-01-01  2024-06-30      0001058090   us-gaap:OperatingSegmentsMember  cmg:U.S.SegmentMember     2025-04-01  2025-06-30      0001058090   us-gaap:OperatingSegmentsMember  cmg:U.S.SegmentMember     2024-04-01  2024-06-30      0001058090   us-gaap:OperatingSegmentsMember  cmg:U.S.SegmentMember     2025-01-01  2025-06-30      0001058090   us-gaap:OperatingSegmentsMember  cmg:U.S.SegmentMember     2024-01-01  2024-06-30      0001058090   us-gaap:CorporateNonSegmentMember     2025-04-01  2025-06-30      0001058090   us-gaap:CorporateNonSegmentMember     2024-04-01  2024-06-30      0001058090   us-gaap:CorporateNonSegmentMember     2025-01-01  2025-06-30      0001058090   us-gaap:CorporateNonSegmentMember     2024-01-01  2024-06-30      0001058090   us-gaap:MaterialReconcilingItemsMember     2025-04-01  2025-06-30      0001058090   us-gaap:MaterialReconcilingItemsMember     2024-04-01  2024-06-30      0001058090   us-gaap:MaterialReconcilingItemsMember     2025-01-01  2025-06-30      0001058090   us-gaap:MaterialReconcilingItemsMember     2024-01-01  2024-06-30
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+__________________________________________________________________________
+FORM  10-Q
+__________________________________________________________________________
+x     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended  June 30, 2025
+or
+o     TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                to
+Commission File Number:  1-32731
+__________________________________________________________________________
+CHIPOTLE MEXICAN GRILL, INC.
+(Exact name of registrant as specified in its charter)
+__________________________________________________________________________
+Delaware
+84-1219301
+(State or other jurisdiction of
+incorporation or organization)
+(IRS Employer
+Identification No.)
+610 Newport Center Drive ,  Suite 1100   Newport Beach ,  CA
+92660
+(Address of Principal Executive Offices)    (Zip Code)
+Registrant’s telephone number, including area code: ( 949 )  524-4000
+__________________________________________________________________________
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class    Trading Symbol(s)    Name of each exchange on which registered
+Common stock, par value $0.01 per share      CMG      New York Stock Exchange
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.   x    Yes    o   No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).   x    Yes    ¨   No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act (check one):
+x
+Large accelerated filer
+o   Accelerated filer
+o   Non-accelerated filer
+o
+Smaller reporting company
+o
+Emerging growth company
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).   ¨   Yes    x    No
+As of July 21, 2025, there were  1,340,885  shares of the registrant’s common stock, par value of $0.01 per share outstanding.
+Table of Contents
+TABLE OF CONTENTS
+PART I
+Item 1
+Financial Statements (Unaudited)
+1
+Condensed Consolidated Balance Sheets
+1
+Condensed Consolidated Statements of Income and Comprehensive Income
+2
+Condensed Consolidated Statements of Shareholders’ Equity
+3
+Condensed Consolidated Statements of Cash Flows
+4
+Notes to Condensed Consolidated Financial Statements
+5
+Note 1 - Basis of Presentation and Update to Accounting Policies
+5
+Note 2 - Recently Issued Accounting Standards
+5
+Note 3 - Revenue Recognition
+5
+Note 4 - Fair Value Measurements
+6
+Note 5 - Equity Investments
+7
+Note 6 - Shareholders' Equity
+8
+Note 7 - Stock-Based Compensation
+9
+Note 8 - Income Taxes
+10
+Note 9 - Leases
+11
+Note 10 - Earnings Per Share
+11
+Note 11 - Commitments and Contingencies
+11
+Note 12 - Debt
+12
+Note 13 - Related Party Transactions
+12
+Note 14 - Segment Reporting
+13
+Note 15 - Subsequent Event
+13
+Item 2
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+14
+Item 3
+Quantitative and Qualitative Disclosures About Market Risk
+20
+Item 4
+Controls and Procedures
+20
+PART II
+Item 1
+Legal Proceedings
+20
+Item 1A
+Risk Factors
+21
+Item 2
+Unregistered Sales of Equity Securities and Use of Proceeds
+21
+Item 3
+Defaults upon Senior Securities
+21
+Item 4
+Mine Safety Disclosures
+21
+Item 5
+Other Information
+21
+Item 6
+Exhibits
+22
+Signatures
+23
+Table of Contents
+PART I
+ITEM 1. FINANCIAL STATEMENTS
+CHIPOTLE MEXICAN GRILL, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(in thousands, except per share data)
+June 30,
+2025     December 31,
+2024
+(unaudited)
+Assets
+Current assets:
+Cash and cash equivalents    $     844,524        $     748,537
+Accounts receivable, net     105,004         143,963
+Inventory     40,402         48,942
+Prepaid expenses and other current assets     96,506         97,538
+Income tax receivable     80,721         67,229
+Investments     701,968         674,378
+Total current assets     1,869,125         1,780,587
+Leasehold improvements, property and equipment, net     2,503,429         2,390,126
+Long-term investments     518,680         868,025
+Restricted cash     30,704         29,842
+Operating lease assets     4,203,989         4,000,127
+Other assets     120,928         113,728
+Goodwill     21,939         21,939
+Total assets    $     9,268,794        $     9,204,374
+Liabilities and shareholders' equity
+Current liabilities:
+Accounts payable    $     216,347        $     210,695
+Accrued payroll and benefits     236,947         261,913
+Accrued liabilities     185,090         179,747
+Unearned revenue     206,635         238,577
+Current operating lease liabilities     287,252         277,836
+Total current liabilities     1,132,271         1,168,768
+Commitments and contingencies (Note 11)
+Long-term operating lease liabilities     4,493,334         4,262,782
+Deferred income tax liabilities     36,297         46,208
+Other liabilities     78,697         71,070
+Total liabilities     5,740,599         5,548,828
+Shareholders' equity:
+Preferred stock, $  0.01   par value,   600,000   shares authorized,   no   shares issued as of June 30, 2025 and December 31, 2024, respectively
+-         -
+Common stock, $  0.01   par value,   11,500,000   shares authorized,  1,341,425  and  1,358,751  shares issued as of June 30, 2025 and December 31, 2024, respectively
+13,414         13,586
+Additional paid-in capital     2,157,080         2,078,010
+Accumulated other comprehensive loss    ( 7,341 )      ( 10,282 )
+Retained earnings     1,365,042         1,574,232
+Total shareholders' equity     3,528,195         3,655,546
+Total liabilities and shareholders' equity    $     9,268,794        $     9,204,374
+See accompanying notes to condensed consolidated financial statements.
+1
+Table of Contents
+CHIPOTLE MEXICAN GRILL, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME AND COMPREHENSIVE INCOME
+(in thousands, except per share data)
+(unaudited)
+Three months ended
+June 30,     Six months ended June 30,
+2025     2024     2025     2024
+Food and beverage revenue    $     3,047,754        $     2,954,913        $     5,907,585        $     5,639,361
+Delivery service revenue     15,639         18,204         31,061         35,605
+Total revenue     3,063,393         2,973,117         5,938,646         5,674,966
+Restaurant operating costs (exclusive of depreciation and amortization shown separately below):
+Food, beverage and packaging     885,989         873,673         1,724,392         1,652,749
+Labor     756,261         716,627         1,474,487         1,376,077
+Occupancy     154,250         138,663         304,091         274,362
+Other operating costs     428,663         384,754         843,824         770,528
+General and administrative expenses     172,151         175,028         344,934         379,653
+Depreciation and amortization     90,945         83,562         178,156         166,805
+Pre-opening costs     10,610         8,995         18,820         16,206
+Impairment, closure costs, and asset disposals     5,467         5,762         11,635         11,241
+Total operating expenses     2,504,336         2,387,064         4,900,339         4,647,621
+Income from operations     559,057         586,053         1,038,307         1,027,345
+Interest and other income, net     18,355         21,861         40,608         41,225
+Income before income taxes     577,412         607,914         1,078,915         1,068,570
+Provision for income taxes     141,285         152,243         256,189         253,612
+Net income    $     436,127        $     455,671        $     822,726        $     814,958
+Earnings per share:
+Basic    $     0.32        $     0.33        $     0.61        $     0.59
+Diluted    $     0.32        $     0.33        $     0.61        $     0.59
+Weighted-average common shares outstanding:
+Basic     1,344,955       1,372,800       1,349,737       1,372,488
+Diluted     1,350,236       1,381,518       1,355,478       1,381,347
+Other comprehensive income/(loss), net of income taxes:
+Foreign currency translation adjustments    $     2,506        $    ( 564 )      $     2,941        $    ( 1,857 )
+Comprehensive income    $     438,633        $     455,107        $     825,667        $     813,101
+See accompanying notes to condensed consolidated financial statements.
+2
+Table of Contents
+CHIPOTLE MEXICAN GRILL, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY
+(in thousands)
+(unaudited)
+Common Stock       Treasury Stock
+Shares     Amount     Additional
+Paid-In
+Capital     Shares     Amount     Retained
+Earnings     Accumulated Other Comprehensive Loss     Total
+Balance, December 31, 2023     1,874,139      $     18,741        $     1,937,794         502,843      $    ( 4,944,656 )      $     6,056,985        $    ( 6,657 )      $     3,062,207
+Stock-based compensation     -     -        36,681        -     -       -       -        36,681
+Stock plan transactions and other     4,002       40         2,070        -     -       -       -        2,110
+Repurchase of common stock    -     -       -        1,935      ( 97,663 )      -       -       ( 97,663 )
+Net income     -     -       -       -     -        359,287        -        359,287
+Other comprehensive income/(loss), net of income taxes    -     -       -       -     -       -       ( 1,293 )      ( 1,293 )
+Balance, March 31, 2024     1,878,141      $     18,781        $     1,976,545         504,778      $    ( 5,042,319 )      $     6,416,272        $    ( 7,950 )      $     3,361,329
+Stock-based compensation     -     -        46,160        -     -       -       -        46,160
+Stock plan transactions and other     397       4         1,097        -     -       -       -        1,101
+Repurchase of common stock    -     -       -        2,388      ( 151,877 )      -       -       ( 151,877 )
+Retirement of treasury stock    ( 507,166 )     ( 5,072 )      -       ( 507,166 )      5,194,196        ( 5,189,124 )      -        -
+Net income     -     -       -       -     -        455,671        -        455,671
+Other comprehensive income/(loss), net of income taxes    -     -       -       -     -       -       ( 564 )      ( 564 )
+Balance, June 30, 2024     1,371,372      $     13,713        $     2,023,802         -        $     -        $     1,682,819        $    ( 8,514 )      $     3,711,820
+Balance, December 31, 2024     1,358,751      $     13,586        $     2,078,010         -      $     -        $     1,574,232        $    ( 10,282 )      $     3,655,546
+Stock-based compensation     -     -        38,180        -     -       -       -        38,180
+Stock plan transactions and other     1,835       20         1,613        -     -       -       -        1,633
+Repurchase of common stock    ( 10,796 )      ( 108 )      -       -     -       ( 591,413 )      -       ( 591,521 )
+Net income     -     -       -       -     -        386,599        -        386,599
+Other comprehensive income/(loss), net of income taxes    -     -       -       -     -       -        435         435
+Balance, March 31, 2025     1,349,790      $     13,498        $     2,117,803         -      $     -        $     1,369,418        $    ( 9,847 )      $     3,490,872
+Stock-based compensation     -     -        37,959        -     -       -       -        37,959
+Stock plan transactions and other     326       3         1,318        -     -       -       -        1,321
+Repurchase of common stock    ( 8,691 )      ( 87 )      -       -     -       ( 440,503 )      -       ( 440,590 )
+Net income     -     -       -       -     -        436,127        -        436,127
+Other comprehensive income/(loss), net of income taxes    -     -       -       -     -       -        2,506         2,506
+Balance, June 30, 2025     1,341,425      $     13,414        $     2,157,080         -        $     -        $     1,365,042        $    ( 7,341 )      $     3,528,195
+See accompanying notes to condensed consolidated financial statements.
+3
+Table of Contents
+CHIPOTLE MEXICAN GRILL, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands)
+(unaudited)
+Six months ended
+June 30,
+2025     2024
+Operating activities
+Net income     $     822,726        $     814,958
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization     178,156         166,805
+Deferred income tax provision    ( 9,890 )      ( 5,826 )
+Impairment, closure costs, and asset disposals     11,056         9,917
+Provision for credit losses    ( 1,247 )      ( 155 )
+Stock-based compensation expense     75,150         81,243
+Other     7,622         4,511
+Changes in operating assets and liabilities:
+Accounts receivable     39,946         18,331
+Inventory     8,493         3,763
+Prepaid expenses and other current assets    ( 3,606 )       20,348
+Operating lease assets     150,957         135,881
+Other assets    ( 362 )       1,769
+Accounts payable      12,360         7,802
+Accrued payroll and benefits    ( 24,689 )      ( 4,438 )
+Accrued liabilities     2,126         17,056
+Unearned revenue    ( 25,555 )      ( 22,260 )
+Income tax payable/receivable    ( 13,433 )      ( 18,565 )
+Operating lease liabilities    ( 113,450 )      ( 101,348 )
+Other long-term liabilities     2,042         2,020
+Net cash provided by operating activities     1,118,402         1,131,812
+Investing activities
+Purchases of leasehold improvements, property and equipment    ( 305,395 )      ( 273,193 )
+Purchases of investments    ( 6,500 )      ( 738,434 )
+Maturities of investments     319,962         374,373
+Net cash provided by/(used in) investing activities     8,067        ( 637,254 )
+Financing activities
+Repurchase of common stock    ( 997,055 )      ( 172,368 )
+Tax withholding on stock-based compensation awards    ( 33,319 )      ( 73,011 )
+Other financing activities     1,540        ( 29 )
+Net cash used in financing activities    ( 1,028,834 )      ( 245,408 )
+Effect of exchange rate changes on cash, cash equivalents and restricted cash    ( 786 )      ( 1,121 )
+Net change in cash, cash equivalents, and restricted cash     96,849         248,029
+Cash, cash equivalents, and restricted cash at beginning of period     778,379         586,163
+Cash, cash equivalents, and restricted cash at end of period    $     875,228        $     834,192
+Supplemental disclosures of cash flow information
+Income taxes paid    $     279,327        $     277,427
+Purchases of leasehold improvements, property and equipment accrued in accounts payable and accrued liabilities    $     75,585        $     76,304
+Repurchase of common stock accrued in accounts payable and accrued liabilities    $     9,016        $     9,803
+See accompanying notes to condensed consolidated financial statements.
+4
+Table of Contents
+CHIPOTLE MEXICAN GRILL, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+(dollar and share amounts in thousands, unless otherwise specified)
+(unaudited)
+1.  Basis of Presentation and Update to Accounting Policies
+In this quarterly report on Form 10-Q, Chipotle Mexican Grill, Inc., a Delaware corporation, together with its subsidiaries, is collectively referred to as “Chipotle,” “we,” “us,” or “our.”
+We develop and operate restaurants that serve a relevant menu of burritos, burrito bowls, quesadillas, tacos, and salads, made using fresh, high-quality ingredients. As of June 30, 2025, we operated  3,839  restaurants including  3,750  Chipotle restaurants within the United States and  89  international Chipotle restaurants. Additionally, we had  five  international licensed restaurants. We manage our U.S. operations based on  11  regions and aggregate our operations to  one  reportable segment. Additional details on the nature of our business and our reportable operating segment are included in    Note 14. "Segment Reporting"   .
+We have prepared the accompanying unaudited condensed consolidated financial statements in accordance with U.S. generally accepted accounting principles for interim financial statements and pursuant to the rules and regulations of the Securities and Exchange Commission. In the opinion of management, the accompanying unaudited condensed consolidated financial statements reflect all adjustments consisting of normal recurring adjustments necessary for a fair presentation of our financial position and results of operations. Interim results of operations are not necessarily indicative of the results that may be achieved for the full year. The financial statements and related notes do not include all information and footnotes required by U.S. generally accepted accounting principles for annual reports. This quarterly report should be read in conjunction with the consolidated financial statements, footnotes and management’s discussion and analysis included in our Annual Report on Form 10-K for the year ended December 31, 2024.
+2.   Recently Issued Accounting Standards
+In December 2023, the FASB issued ASU No. 2023-09, “Income Taxes (Topic 740): Improvements to Income Tax Disclosures.” The ASU includes amendments requiring enhanced income tax disclosures, primarily related to standardization and disaggregation of rate reconciliation categories and income taxes paid by jurisdiction. The guidance is effective for fiscal years beginning after December 15, 2024, and should be applied either prospectively or retrospectively. While we are still evaluating the impact of adopting the new ASU, we anticipate this guidance will result in a significant expansion of our annual income tax disclosures.
+In November 2024, the FASB issued ASU No. 2024-03, "Disaggregation of Income Statement Expenses (Subtopic 220-40)." The ASU requires public entities to disaggregate, in a tabular presentation, certain income statement expenses into different categories, such as purchases of inventory, employee compensation, depreciation, and intangible asset amortization. The guidance is effective for fiscal years beginning after December 15, 2026, with early adoption permitted, and may be applied retrospectively. We are currently evaluating the impact of adopting the new ASU on our disclosures.
+We   reviewed   all other recently issued accounting pronouncements and concluded that they were either not applicable or not expected to have a significant impact to the condensed consolidated financial statements.
+3.  Revenue Recognition
+Gift Cards
+The gift card liability included in unearned revenue on the condensed consolidated balance sheets was as follows:
+June 30,
+2025     December 31,
+2024
+Gift card liability    $     144,763        $     181,771
+Revenue recognized from the redemption of gift cards that was included in unearned revenue at the beginning of the year was as follows:
+Three months ended
+June 30,     Six months ended
+June 30,
+2025     2024     2025     2024
+Revenue recognized from gift card liability balance at the beginning of the year    $     14,629        $     12,385        $     67,598        $     57,197
+5
+Table of Contents
+Chipotle Rewards
+Changes in our Chipotle Rewards liability included in unearned revenue on the condensed consolidated balance sheets were as follows:
+Three months ended
+June 30,     Six months ended
+June 30,
+2025     2024     2025     2024
+Chipotle Rewards liability, beginning balance    $     58,389        $     47,324        $     56,806        $     44,750
+Revenue deferred     45,690         41,227         87,258         80,232
+Revenue recognized    ( 42,207 )      ( 39,368 )      ( 82,192 )      ( 75,799 )
+Chipotle Rewards liability, ending balance    $     61,872        $     49,183        $     61,872        $     49,183
+4.  Fair Value Measurements
+Assets and Liabilities Measured at Fair Value on a Recurring Basis
+The carrying     value of our cash and cash equivalents, restricted cash, accounts receivable and accounts payable approximate fair value because of their short-term nature.
+The following tables show our cash, cash equivalents, and debt investments by significant investment category:
+June 30, 2025
+Adjusted cost     Unrealized Gains     Unrealized Losses     Fair Value     Cash and Cash Equivalents     Current Investments     Long-term Investments
+Cash    $     100,423      $    -     $    -     $     100,423      $     100,423      $    -     $    -
+Level 1
+Money market funds     665,643        -       -        665,643         665,643        -       -
+Time deposits     78,458        -       -        78,458         78,458        -       -
+U.S. Treasury securities     1,091,959         4,270         4         1,096,225        -        656,554         435,405
+Corporate debt securities     38,368         74        -        38,442        -        38,368        -
+Subtotal     1,874,428         4,344         4         1,878,768         744,101         694,922         435,405
+Level 3
+Corporate debt security  (1)
+15,601        -        3         15,598        -        2,800         12,801
+Notes receivable  (2)
+3,852         394        -        4,246        -        4,246        -
+Subtotal     19,453         394         3         19,844        -        7,046         12,801
+Total    $     1,994,304        $     4,738        $     7        $     1,999,035        $     844,524        $     701,968        $     448,206
+6
+Table of Contents
+December 31, 2024
+Adjusted cost     Unrealized Gains     Unrealized Losses     Fair Value     Cash and Cash Equivalents     Current Investments     Long-term Investments
+Cash    $     95,969      $    -     $    -     $     95,969      $     95,969      $    -     $    -
+Level 1
+Money market funds     574,689        -       -        574,689         574,689        -       -
+Time deposits     77,879        -       -        77,879         77,879        -       -
+U.S. Treasury securities     1,404,777         4,831         693         1,408,915        -        635,392         769,385
+Corporate debt securities     48,210         116        -        48,326        -        34,736         13,474
+Subtotal     2,105,555         4,947         693         2,109,809         652,568         670,128         782,859
+Level 3
+Corporate debt security  (1)
+16,401         11        -        16,412        -        2,000         14,401
+Notes receivable  (2)
+3,763         250        -        4,013        -        2,250         1,763
+Subtotal     20,164         261        -        20,425        -        4,250         16,164
+Total    $     2,221,688        $     5,208        $     693        $     2,226,203        $     748,537        $     674,378        $     799,023
+(1)  The fair value of the corporate debt security is measured using Level 3 (unobservable) inputs. We determined the fair value for the corporate debt security using an internally-developed valuation model and unobservable inputs include credit and liquidity spreads and effective maturity.
+(2)    We have elected to measure our investment in convertible notes receivable of private companies at fair value under the fair value option. The fair value of the notes receivable are measured using Level 3 (unobservable) inputs. We determined the fair value for the notes receivable using an internally-developed valuation model and unobservable inputs include estimates of the equity value of the underlying business and the timing and probability of future financing events.
+Assets and Liabilities Measured at Fair Value on a Nonrecurring Basis
+Assets recognized or disclosed at fair value on the condensed consolidated financial statements on a nonrecurring basis include items such as leasehold improvements, property and equipment, certain long-term investments, operating lease assets, other assets, and goodwill. These assets are measured at fair value whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable or if there has been an observable price change of a non-marketable equity security.
+For the six months ended June 30, 2025 and 2024, nonrecurring fair value measurements resulting in asset impairments were not material.
+5.  Equity Investments
+The following table summarizes our equity investments:
+June 30,
+2025     December 31,
+2024
+Equity method investments    $     26,683        $     28,097
+Other investments     70,474         69,002
+Total    $     97,157        $     97,099
+7
+Table of Contents
+Equity Method Investments
+As of June 30, 2025 and December 31, 2024, we owned   6,487   shares of common stock of Tractor Beverages, Inc. (“Tractor”). As of June 30, 2025, our investment represents ownership of approximately  13.5 % of Tractor, and we have invested total cash consideration of $ 14,872 . As we are a significant customer of Tractor and maintain board representation, we are accounting for our investment under the equity method. As of June 30, 2025, there were  no  impairment charges associated with this equity method investment. The investment in common stock is included within other assets on the condensed consolidated balance sheets with a carrying value of $ 16,708  and $ 18,097  as of June 30, 2025 and December 31, 2024, respectively. Refer to    Note 13, "Related Party Transactions"    for related party disclosures.
+Other Investments
+As of June 30, 2025, we held  5,819  shares of the Series B Preferred Stock of Hyphen. Hyphen is a privately held company, and as such, the preferred shares comprising our investment are illiquid and fair value is not readily determinable. As of June 30, 2025, we have recognized a cumulative gain of $ 6,782  related to our investment in Hyphen. The investment is included within long-term investments on the condensed consolidated balance sheet with a carrying value of $ 31,782  as of June 30, 2025 and December 31, 2024, respectively.
+As of June 30, 2025, we owned  766  shares of the Series C Preferred Stock of Nuro, Inc. (“Nuro”). Our investment represents a minority interest and we have determined that we do not have significant influence over Nuro. Nuro is a privately held company, and as such, the preferred shares comprising our investment are illiquid and fair value is not readily determinable. In April 2025, Nuro announced a Series E financing round. With respect to our Series C Preferred Stock of Nuro, we concluded that the April 2025 transaction represented an observable price change in an orderly transaction for a similar investment of the same issuer. As a result, we recognized a loss of $ 6,168  for the three months ended June 30, 2025. As of June 30, 2025, we have recognized a cumulative net loss of $ 200  related to our investment in Nuro due to observable transactions. The investment is included within long-term investments on the condensed consolidated balance sheets with a carrying value of $ 9,800  and $ 15,968  as of June 30, 2025 and December 31, 2024, respectively.
+As of June 30, 2025, we held additional investments in other entities through the Cultivate Next Fund. These additional investments are included within long-term investments on the condensed consolidated balance sheets with a carrying value of $ 28,892  and $ 21,252  as of June 30, 2025 and December 31, 2024, respectively.
+6.  Shareholders’ Equity
+We have had a stock repurchase program in place since 2008. During the three and six months ended June 30, 2025, we repurchased $ 435,894  and $ 989,580  of stock at an average price per share of $ 50.16 , and $ 52.32 , respectively. As of June 30, 2025, we had $ 838,761  authorized for repurchasing shares of our common stock, which includes $ 400,000  in additional authorizations approved by our Board of Directors on June 10, 2025. All shares of common stock that we repurchase are immediately retired and not held as treasury stock.
+During the six months ended June 30, 2025 and 2024, shares of common stock at a total cost of $ 33,319  and $ 73,011 , respectively, were netted and surrendered as payment for minimum statutory withholding obligations in connection with the vesting of outstanding stock awards. Shares surrendered by the participants in accordance with the applicable award agreements and plan are deemed repurchased by us but are not part of publicly announced share repurchase programs.
+8
+Table of Contents
+7.  Stock-Based Compensation
+Pursuant to the 2022 Stock Incentive Plan, we grant stock options, stock-only stock appreciation rights ("SOSARs"), restricted stock units ("RSUs"), and performance stock units ("PSUs") to employees and non-employee directors. SOSARs and RSUs generally vest in  two  equal installments on the second and third anniversary of the grant date. PSUs are subject to service, market and performance vesting conditions, and the quantity of shares that vest will range from  0 % to  300 % of the targeted number of shares.
+In response to the departure of our former CEO in 2024, we granted retention RSUs to key executives. These awards have various vesting terms, and will vest over  one ,  two  or  three years . During the six months ended June 30, 2025, total expense recognized for the retention RSUs was $ 24,090 . The impact of these employee retention awards are reflected in the tables below.
+Total stock-based compensation expense was as follows:
+Three months ended
+June 30,     Six months ended
+June 30,
+2025     2024     2025     2024
+Stock-based compensation    $     37,959        $     46,160        $     76,139        $     82,841
+Stock-based compensation, net of income taxes    $     31,725        $     38,932        $     63,536        $     70,218
+Total capitalized stock-based compensation included in leasehold improvements, property and equipment, net on the condensed consolidated balance sheets    $     410        $     920        $     989        $     1,598
+Excess tax benefit on stock-based compensation recognized in provision for income taxes on the condensed consolidated statements of income and comprehensive income    $     1,406        $     2,833        $     11,587        $     16,088
+`
+.
+SOSARs
+A summary of SOSAR award activity was as follows (in thousands, except per share data):
+Shares     Weighted-Average Exercise Price per
+Share     Weighted-Average Remaining
+Contractual Life (Years)     Aggregate Intrinsic Value
+Outstanding, January 1, 2025     10,414      $     32.53       4.2      $     289,373
+Granted     2,059       57.15
+Exercised    ( 1,107 )      26.33
+Forfeited     ( 128 )      45.16
+Outstanding, June 30, 2025     11,238       37.51       4.3       202,108
+Exercisable, June 30, 2025     5,634       26.33       2.9       161,788
+Vested and expected to vest, June 30, 2025     10,842       36.99       4.2       200,289
+9
+Table of Contents
+RSUs
+A summary of RSU award activity was as follows (in thousands, except per share data):
+Shares     Weighted-Average Grant Date Fair Value
+per Share
+Outstanding, January 1, 2025     4,347      $     44.54
+Granted     1,193       57.02
+Vested    ( 1,127 )      32.62
+Forfeited    ( 139 )      48.31
+Outstanding, June 30, 2025     4,274       51.04
+Vested and expected to vest, June 30, 2025     3,862       50.86
+PSUs
+A summary of PSU award activity was as follows (in thousands, except per share data):
+Shares     Weighted-Average Grant Date Fair
+Value per Share
+Outstanding, January 1, 2025     2,045      $     38.32
+Granted     759       57.27
+Vested    ( 411 )      31.56
+Forfeited    ( 224 )      32.29
+Outstanding, June 30, 2025     2,169       46.85
+Vested and expected to vest, June 30, 2025*     3,623       40.52
+*The vested and expected to vest total above represents outstanding base PSUs, adjusted for expected payout amounts in line with current and future estimated performance levels.
+8.  Income Taxes
+The effective income tax rate for the three months ended June 30, 2025, was  24.5 %, a decrease from an effective income tax rate of  25.0 % for the three months ended June 30, 2024. The decrease was primarily driven by lower non-deductible expenses, partially offset by a reduction in tax benefits related to option exercises and equity vesting.
+The effective income tax rate for the six months ended June 30, 2025, was  23.7 %, consistent with an effective income tax rate of  23.7 % for the six months ended June 30, 2024. A reduction in tax benefits related to option exercises and equity vesting was offset primarily by a decrease in non-deductible expenses.
+10
+Table of Contents
+9.  Leases
+Supplemental disclosures of cash flow information related to leases were as follows:
+Three months ended
+June 30,     Six months ended
+June 30,
+2025     2024     2025     2024
+Cash paid for operating lease liabilities    $     127,994        $     113,805        $     254,660        $     227,301
+Operating lease assets obtained in exchange for operating lease liabilities    $     193,832        $     164,992        $     339,165        $     322,798
+Derecognition of operating lease assets due to terminations or impairment    $     467        $     -        $     820        $     1,425
+10.  Earnings Per Share
+The following table sets forth the computations of basic and diluted earnings per share (in thousands, except per share data):
+Three months ended
+June 30,     Six months ended
+June 30,
+2025     2024     2025     2024
+Net income    $     436,127        $     455,671        $     822,726        $     814,958
+Shares:
+Weighted-average number of common shares outstanding (for basic calculation)     1,344,955         1,372,800         1,349,737         1,372,488
+Dilutive stock awards     5,281         8,718         5,741         8,859
+Weighted-average number of common shares outstanding (for diluted calculation)     1,350,236         1,381,518         1,355,478         1,381,347
+Basic earnings per share    $     0.32        $     0.33        $     0.61        $     0.59
+Diluted earnings per share    $     0.32        $     0.33        $     0.61        $     0.59
+The following stock awards were excluded from the calculation of diluted earnings per share:
+Three months ended
+June 30,     Six months ended
+June 30,
+2025     2024     2025     2024
+Stock awards subject to performance conditions     3,969       2,819       3,723       2,642
+Stock awards that were antidilutive     2,169       2,367       2,014       2,413
+Total stock awards excluded from diluted earnings per share     6,138       5,186       5,737       5,055
+11.  Commitments and Contingencies
+Purchase Obligations
+We enter into various purchase obligations in the ordinary course of business, generally of a short-term nature. Those that are binding primarily relate to commitments for food purchases and supplies, capital projects, corporate assets, information technology, marketing initiatives and corporate sponsorships, and other miscellaneous items.
+11
+Table of Contents
+Litigation
+We are involved in various claims and legal actions, such as wage and hour, wrongful termination and other employment-related claims, slip and fall and other personal injury claims, advertising and consumer claims, privacy claims, and lease, construction and other commercial disputes, that arise in the ordinary course of business, some of which may be covered by insurance. The outcomes of these actions are not predictable, but we do not believe that the ultimate resolution of any pending or threatened actions of these types will have a material adverse effect on our financial position, results of operations, liquidity, or capital resources. However, if there is a significant increase in the number of these claims, or if we incur greater liabilities than we currently anticipate under one or more claims, it could materially and adversely affect our business, financial condition, results of operations and cash flows.
+Shareholder Actions
+As reported in previous SEC filings, Chipotle and several of its executive officers are defendants in Michael Stradford v. Chipotle et. al., a purported shareholder class action in the U.S. District Court for the Central District of California, alleging that statements and omissions by Chipotle regarding portion sizes were materially false and misleading, resulting in the market price of Chipotle’s stock being artificially inflated during the claimed class period. On April 29, 2025, the lead plaintiff in the case, Lisa Tai, filed an amended complaint, pleading largely the same facts and alleged violations of law as the original Stradford complaint, adding additional factual allegations as well as allegations regarding purportedly improper insider trading by the individual defendants in the case. The case seeks damages on behalf of the purported class in an unspecified amount, interest, an award of reasonable costs and attorneys’ fees, and other relief as determined to be appropriate by the court.
+Also as reported in previous SEC filings,  two  shareholder derivative actions were filed in the U.S. District Court for the Central District of California alleging that members of Chipotle’s Board of Directors and one of its executive officers breached their fiduciary duties by making or allowing Chipotle to make the allegedly false and misleading statements that are the subject of the Stradford matter described above. The complaint further alleges that the defendants breached their fiduciary duties by causing Chipotle to repurchase stock at inflated prices and by engaging in improper insider sales of Chipotle stock. The shareholder derivative actions have been consolidated into a single lawsuit captioned   In re Chipotle Mexican Grill, Inc. Stockholder Derivative Litigation  , and seeks damages in an unspecified amount as well as interest, an award of reasonable costs and attorneys’ fees, and other relief as determined to be appropriate by the court. The consolidated derivative action has been stayed pending a decision on the motion to dismiss that Chipotle filed in the Stradford action, which is in the briefing stage.
+Chipotle intends to continue to defend these cases vigorously, but it is not possible at this time to reasonably estimate the outcome of or any potential liability from these cases.
+Accrual for Estimated Liability
+In relation to various legal matters, we had an accrued legal liability balance of $ 16,316  and $ 19,465  included within accrued liabilities on the condensed consolidated balance sheets as of June 30, 2025 and December 31, 2024, respectively.
+12.  Debt
+On June 24, 2025, we terminated a $ 500,000  revolving credit facility with JPMorgan Chase Bank as administrative agent, which we did not borrow on over the period of which it was active, and entered into a new $ 500,000  revolving credit facility with JPMorgan Chase Bank as administrative agent. Borrowings on the credit facility bear interest at a rate equal to the Secured Overnight Financing Rate (“SOFR”) plus  1.125 %, which is subject to increase based on changes in our total leverage ratio as defined in the credit agreement. We are also obligated to pay a commitment fee of  0.115 % per year for unused amounts under the credit facility, which also may increase based on changes in our total leverage ratio. We are subject to certain covenants defined in the credit agreement, which include maintaining a total leverage ratio of less than  3.0 x, maintaining a minimum consolidated fixed charge coverage ratio of  1.5 x, and limiting us from incurring additional indebtedness in certain circumstances. We had   no   outstanding borrowings under the new or former credit facility and were in compliance with all covenants as of June 30, 2025 and December 31, 2024, respectively.
+13.  Related Party Transactions
+As of June 30, 2025, we owned approximately  13.5 % of the common stock outstanding of Tractor. As we are a significant customer of Tractor and maintain board representation, we are accounting for our investment under the equity method. Accordingly, we have identified Tractor as a related party. We purchase product from the supplier for sale to guests in our restaurants. During the three months ended June 30, 2025 and 2024, purchases from the supplier were $ 13,568  and $ 13,412 , respectively. During the six months ended June 30, 2025 and 2024, purchases from the supplier were $ 24,982  and $ 24,966 , respectively.
+12
+Table of Contents
+We are an investor in Vebu Inc. (“Vebu”), a developer of restaurant automation technology. As we are a significant customer of Vebu and maintain board representation, we have determined that Vebu is a related party. Our investment, which is comprised of preferred shares, is accounted for as a non-marketable equity investment and is included within long-term investments on the condensed consolidated balance sheets. During the three months ended June 30, 2025 and 2024, purchases from Vebu were $ 1,175  and $ 0 , respectively. During the six months ended June 30, 2025 and 2024, purchases from Vebu were $ 2,909  and $ 0 , respectively.
+14.  Segment Reporting
+We have a single reportable segment, the U.S. segment, that is comprised of our operations in the United States. Segment information is prepared and managed on the same basis as described in our Annual Report on Form 10-K for the year ended December 31, 2024. Our CEO, who is our Chief Operating Decision Maker ("CODM"), does not evaluate asset information by reportable segment as asset information is provided to the CODM on a consolidated basis. Therefore, we do not disclose total assets by our reportable segment.
+The following table presents selected financial information with respect to our single reportable segment:
+Three months ended
+June 30,    Six months ended
+June 30,
+2025     2024     2025     2024
+Food and beverage revenue    $     2,984,846      $     2,902,839      $     5,791,920      $     5,543,236
+Delivery service revenue     15,584       18,153       30,954       35,512
+U.S. segment total revenue     3,000,430       2,920,992       5,822,874       5,578,748
+Less:
+Food, beverage and packaging     862,005       854,238       1,680,550       1,617,030
+Labor     741,232       704,511       1,446,528       1,353,060
+Occupancy     149,967       134,953       295,923       267,289
+Marketing     83,044       62,761       168,931       139,839
+Other operating costs, excluding marketing     336,679       314,474       658,003       615,943
+Depreciation and amortization     82,684       74,226       162,175       148,143
+Other segment items  (1)
+16,637       13,804       29,491       26,091
+U.S. segment income from operations     728,182       762,025       1,381,273       1,411,353
+Reconciliation:
+Corporate and other unallocated expenses  (2)
+172,726       178,736       348,333       386,236
+Other income from operations  (3)
+3,601       2,764       5,367       2,228
+Interest and other income, net     18,355       21,861       40,608       41,225
+Total consolidated income before income taxes    $     577,412      $     607,914      $     1,078,915      $     1,068,570
+(1)  Other segment items consist of pre-opening costs, impairment, closure costs, and asset disposals related to the U.S. segment.
+(2)  Corporate and other unallocated expenses represent corporate overhead expenses that have not been allocated to any segment for reporting purposes including general and administrative expenses.
+(3)  Amounts reflect the net income from operations related to our operations in Canada, Europe and international licensed restaurants.
+15.  Subsequent Event
+On July 4, 2025, H.R.1, commonly referred to as the One Big Beautiful Bill Act, was enacted in the U.S., which includes a broad range of tax reform provisions, including extending and modifying certain key Tax Cuts and Jobs Act provisions (both domestic and international), and provisions allowing accelerated tax deductions for qualified property and research expenditures. The legislation has multiple effective dates, with certain provisions effective in 2025 and others to be implemented through 2027. While we are evaluating the full effects of the legislation on our estimated annual effective tax rate and cash tax position, we expect that the legislation will likely not have a material impact on our financial statements. As the legislation was signed into law after June 30, 2025, it had no impact on our operating results for the three months and six months ended June 30, 2025.
+13
+Table of Contents
+ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+Cautionary Note Regarding Forward-Looking Statements
+Certain statements in this report are forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995, including statements about the number of new restaurants we expect to open and the number with Chipotlanes, our expectation to generate positive cash flow for the foreseeable future, our expectations for utilization of cash flow from operations, our ability to manage prices, risks and volatility in our supply chain, our plans for continuing stock buybacks and the period of time during which our cash and short-term investment will fund our operations. We use words such as “anticipate”, “believe”, “could”, “should”, “may”, “approximately”, “estimate”, “expect”, “intend”, “project”, “target”, "goal" and similar terms and phrases, including references to assumptions, to identify forward-looking statements. The forward-looking statements in this report are based on currently available operating, financial and competitive information available to us as of the date of this filing and we assume no obligation to update these forward-looking statements. These statements are subject to risks and uncertainties that could cause actual results to differ materially from those described in the statements, including but not limited to: increasing wage inflation, including as a result of state or local regulations mandating higher minimum wages, and the competitive labor market, which impacts our ability to attract and retain qualified employees and has resulted in occasional staffing shortages; the impact of any union organizing efforts and our responses to such efforts; risks of food safety incidents and food-borne illnesses; risks associated with our reliance on certain information technology systems and potential material failures, interruptions or outages; privacy and cyber security risks, including risk of breaches, unauthorized access, theft, modification, destruction or ransom of guest or employee personal or confidential information stored on our network or the network of third party providers; the impact of competition, including from sources outside the restaurant industry; the impact of federal, state or local government regulations relating to our employees, employment practices, restaurant design and construction, and the sale of food or alcoholic beverages; our ability to achieve our planned growth, such as the costs and availability of suitable new restaurant sites, construction materials and contractors and restaurant equipment; the expected costs and risks related to our international expansion, including through licensed restaurants in the Middle East and Mexico; increases in ingredient and other operating costs due to inflation, global conflicts, severe weather and climate change, our Food with Integrity philosophy, tariffs or trade restrictions; intermittent supply shortages relating to our Food with Integrity philosophy, rapid expansion and supply chain disruptions; the uncertainty of our ability to achieve expected levels of comparable restaurant sales due to factors such as changes in guests' perceptions of our brand, including as a result of negative publicity or social media posts, increased consumer uncertainty and decreased consumer spending (including as a result of higher inflation, mass layoffs, fear of possible recession and higher energy prices), or the inability to increase menu prices or realize the benefits of menu price increases; risks associated with our digital business, including risks arising from our reliance on third party delivery services and the IT infrastructure; litigation risks, including possible governmental actions and potential class action litigation related to food safety incidents, cybersecurity incidents, employment or privacy laws, advertising claims, contract disputes or other matters; and other risk factors described from time to time in our SEC reports, including our Annual Report on Form 10-K for the year ended December 31, 2024, and in other reports filed with the SEC, all of which are available on the investor relations page of our website at ir.Chipotle.com.
+As of June 30, 2025, we owned 3,750 Chipotle restaurants throughout the United States and 89 international Chipotle restaurants. Additionally, we had five international licensed restaurants. We manage our U.S. operations based on 11 regions and aggregate our operations to one reportable segment.
+Throughout “Management’s Discussion and Analysis of Financial Condition and Results of Operations” we discuss the following key operating metrics which we believe will drive our financial results and long-term growth model. We believe these metrics are useful to investors because management uses these metrics to assess the growth of our business and the effectiveness of our marketing and operational strategies:
+•  Comparable restaurant sales
+•  Food, beverage, and packaging as a percentage of total revenue
+•  Labor as a percentage of total revenue
+•  Occupancy as a percentage of total revenue
+•  Other operating costs as a percentage of total revenue
+•  New restaurant openings
+Second Quarter 2025 Financial Highlights, year-over-year:
+•  Total revenue increased 3.0% to $3.1 billion
+•  Comparable restaurant sales decreased 4.0%
+•  Diluted earnings per share was $0.32, a 3.0% decrease from $0.33
+14
+Table of Contents
+Sales Trends  . Comparable restaurant sales decreased 4.0% for the three months ended June 30, 2025. The decrease is attributable to lower transactions of 4.9% which is offset by a 0.9% increase in average check. While transactions have been impacted by a slowdown in consumer spending, we exited the quarter with positive comps and positive transactions. Comparable restaurant sales represent the change in period-over-period total revenue for company-owned restaurants in operation for at least 13 full calendar months. Digital sales represented 35.5% of total food and beverage revenue. For 2025, management is anticipating about flat comparable restaurant sales.
+Restaurant Development.   During the three months ended June 30, 2025, we opened 61 restaurants, which included 47 restaurants with a Chipotlane. We expect to open approximately 315 to 345 company-owned restaurants in 2025. We expect that at least 80% of our new company-owned restaurants will include a Chipotlane.
+Restaurant Activity
+The following table details company-owned restaurant unit data for the periods indicated.
+Three months ended
+June 30,     Six months ended
+June 30,
+2025     2024     2025     2024
+Beginning of period    3,781       3,479       3,726       3,437
+Chipotle openings    61       52       118       99
+Chipotle permanent closures    (2)      (1)      (4)      (4)
+Chipotle relocations    (1)      -       (1)      (2)
+Total at end of period    3,839       3,530       3,839       3,530
+The following table details licensed restaurant unit data for the periods indicated.
+Three months ended
+June 30,     Six months ended
+June 30,
+2025     2024     2025     2024
+Beginning of period    5       -       3       -
+Licensed restaurant openings    -       1       2       1
+Total at end of period    5       1       5       1
+15
+Table of Contents
+Results of Operations
+Our results of operations as a percentage of total revenue and period-over-period change are discussed in the following section.
+Revenue
+Three months ended
+June 30,     Percentage     Six months ended
+June 30,     Percentage
+2025     2024     change     2025     2024     change
+(dollars in millions)       (dollars in millions)
+Food and beverage revenue    $    3,047.8       $    2,954.9       3.1     %     $    5,907.6       $    5,639.4       4.8     %
+Delivery service revenue    15.6       18.2       (14.1     %)     31.1       35.6       (12.8     %)
+Total revenue    $    3,063.4       $    2,973.1       3.0     %     $    5,938.6       $    5,675.0       4.6     %
+Average restaurant sales   (1)
+$    3.142       $    3.146       (0.1     %)     $    3.142       $    3.146       (0.1     %)
+Comparable restaurant sales increase/(decrease)    (4.0%)     11.1%       (2.3     %)     9.1     %
+Transactions    (4.9%)     8.7%       (3.7%)     7.1%
+Average check    0.9%     2.4%       1.4%     2.0%
+Menu price increase    1.9%     3.3%       2.4%     3.1%
+Check mix    (1.0     %)     (0.9     %)       (1.0     %)     (1.1     %)
+(1)  Average restaurant sales refers to the average trailing 12-month food and beverage revenue for company-owned restaurants in operation for at least 12 full calendar months.
+The following is a summary of the change in restaurant sales for the period indicated:
+Three months ended     Six months ended
+(dollars in millions)
+For the period ended June 30, 2024    $    2,973.1       $    5,675.0
+Change from:
+Comparable restaurant sales    (126.5)      (142.7)
+Restaurants not yet in comparable base opened in 2025    60.2       73.7
+Restaurants not yet in comparable base opened in 2024    154.7       329.4
+Other    1.9       3.2
+For the period ended June 30, 2025    $    3,063.4       $    5,938.6
+Food, Beverage and Packaging Costs
+Three months ended
+June 30,     Percentage     Six months ended
+June 30,     Percentage
+2025     2024     change     2025     2024     change
+(dollars in millions)       (dollars in millions)
+Food, beverage and packaging    $    886.0       $    873.7       1.4     %     $    1,724.4       $    1,652.7       4.3     %
+As a percentage of total revenue    28.9     %     29.4     %     (0.5     %)     29.0     %     29.1     %     (0.1     %)
+Food, beverage and packaging costs decreased 0.5% as a percentage of total revenue for the three months ended June 30, 2025 compared to the three months ended June 30, 2024. The decrease was primarily due to a 0.6% benefit from menu price increases in the prior year and from cost of sales efficiencies. This decrease was partially offset by inflation across several ingredient costs, primarily steak and chicken.
+16
+Table of Contents
+Food, beverage and packaging costs decreased 0.1% as a percentage of total revenue for the six months ended June 30, 2025 compared to the six months ended June 30, 2024. The decrease was primarily due to a 0.7% benefit from menu price increases in the prior year and, to a lesser extent, from cost of sales efficiencies. This decrease was partially offset by higher usage or inflation across several ingredient costs, primarily chicken, avocados, dairy and steak.
+We estimate that the tariffs enacted since April 2025 will increase food, beverage and packaging costs by about 50 basis points on an ongoing basis. Due to goods imported prior to the enactment of tariffs, we anticipate about a 40 basis point increase in food, beverage and packaging costs during the third quarter of 2025 relating to tariffs. These estimates could vary based on future tariff policy changes.
+Labor Costs
+Three months ended
+June 30,     Percentage     Six months ended
+June 30,     Percentage
+2025     2024     change     2025     2024     change
+(dollars in millions)       (dollars in millions)
+Labor costs    $    756.3       $    716.6       5.5     %     $    1,474.5       $    1,376.1       7.2     %
+As a percentage of total revenue    24.7     %     24.1     %     0.6     %     24.8     %     24.2     %     0.6     %
+Labor costs increased 0.6% as a percentage of total revenue for the three months ended June 30, 2025 compared to the three months ended June 30, 2024. The increase was primarily due to the impact from lower sales volumes. A 0.5% benefit from menu price increases in the prior year and efficient management of labor more than offset wage inflation.
+Labor costs increased 0.6% as a percentage of total revenue for the three and six months ended June 30, 2025 compared to the three and six months ended June 30, 2024. The increase was due to the impact from lower sales volumes, as a 0.6% benefit from menu price increases in the prior year was offset by restaurant wage inflation, including minimum wage increases for our restaurants in California.
+Occupancy Costs
+Three months ended
+June 30,     Percentage     Six months ended
+June 30,     Percentage
+2025     2024     change     2025     2024     change
+(dollars in millions)       (dollars in millions)
+Occupancy costs    $    154.3       $    138.7       11.2     %     $    304.1       $    274.4       10.8     %
+As a percentage of total revenue    5.0     %     4.7     %     0.3     %     5.1     %     4.8     %     0.3     %
+Occupancy costs increased 0.3% as a percentage of total revenue for t  he three and six m  onths ended June 30, 2025 compared to the three and six months ended June 30, 2024. The increase was due to the impact from lower sales volumes, as a 0.1% benefit from menu price increases in the prior year was offset by expenses associated with new restaurants.
+Other Operating Costs
+Three months ended
+June 30,     Percentage     Six months ended
+June 30,     Percentage
+2025     2024     change     2025     2024     change
+(dollars in millions)           (dollars in millions)
+Other operating costs    $    428.7       $    384.8       11.4     %     $    843.8       $    770.5       9.5     %
+As a percentage of total revenue    14.0     %     12.9     %     1.1     %     14.2     %     13.6     %     0.6     %
+Other operating costs increased 1.1% as a percentage of total revenue for the three months ended June 30, 2025 compared to the three months ended June 30, 2024. The increase was due to the impact from several items, primarily 0.6% of higher marketing and promotional activities and 0.2% of lower sales volumes. These were partially offset by 0.2% from the benefit of menu price increases in the prior year.
+Other operating costs increased 0.6% as a percentage of total revenue for the   six   months ended June 30, 2025 compared to the six months ended June 30, 2024. The increase was due to the impact from several items, primarily 0.4% of higher marketing and promotional activities and 0.2% of lower sales volumes. These were partially offset by 0.2% from the benefit of menu price increases in the prior year.
+17
+Table of Contents
+General and Administrative Expenses
+Three months ended
+June 30,     Percentage     Six months ended
+June 30,     Percentage
+2025     2024     change     2025     2024     change
+(dollars in millions)           (dollars in millions)
+General and administrative expenses    $    172.2       $    175.0       (1.6     %)     $    344.9       $    379.7       (9.1     %)
+As a percentage of total revenue    5.6     %     5.9     %     (0.3     %)     5.8     %     6.7     %     (0.9     %)
+The following is a summary of the change in general and administrative expense for the period indicated:
+Three months ended     Six months ended
+(dollars in millions)
+For the period ended June 30, 2024    $    175.0       $    379.7
+Change from:
+Stock-based compensation, net of retention awards    (20.6)      (31.7)
+Performance bonuses    (10.0)      (16.5)
+Conferences, primarily the biennial All Managers’ Conference    1.5       (16.0)
+Legal contingencies    (3.3)      (15.7)
+Outside services related to corporate initiatives    4.3       7.4
+Wages    4.4       7.7
+Stock-based compensation, retention awards    12.2       24.1
+Other    8.7       5.9
+For the period ended June 30, 2025    $    172.2       $    344.9
+Provision for Income Taxes
+Three months ended
+June 30,     Percentage     Six months ended
+June 30,     Percentage
+2025     2024     change     2025     2024     change
+(dollars in millions)           (dollars in millions)
+Provision for income taxes    $    141.3       $    152.2       (7.2     %)     $    256.2       $    253.6       1.0     %
+Effective income tax rate    24.5     %     25.0     %     (0.5     %)     23.7     %     23.7     %     -     %
+The effective income tax rate decreased 0.5% for the three months ended June 30, 2025 compared to the three months ended June 30, 2024. The decrease was primarily driven by a 0.6% decrease in non-deductible expenses, partially offset by a 0.2% reduction in tax benefits related to option exercises and equity vesting.
+The effective income tax rate remained flat for the six months ended June 30, 2025 compared to the six months ended June 30, 2024. The six months ended June 30, 2025 had a 0.4% reduction in tax benefits related to option exercises and equity vesting which was offset primarily by a 0.3% decrease in non-deductible expenses.
+Seasonality
+Seasonal factors cause our profitability to fluctuate from quarter to quarter. Historically, our average daily restaurant sales and net income are lower in the first and fourth quarters due, in part, to the holiday season and because fewer people eat out during periods of inclement weather (the winter months) than during periods of mild or warm weather (the spring, summer and fall months). Other factors also have a seasonal effect on our results. For example, restaurants located near colleges and universities generally do more business during the academic year. Seasonal factors, however, might be moderated or outweighed by other factors that may influence our quarterly results, such as unexpected publicity impacting our business in a positive or negative way, disease outbreak, epidemic or endemic, the impact of inflation and consumer sentiment on consumer spending, fluctuations in food or packaging costs, the timing of holidays, or the timing of menu price increases or promotional activities and other marketing initiatives. The number of trading days in a quarter can also affect our results, although, on an overall annual basis, changes in trading days do not have a significant impact.
+18
+Table of Contents
+Our quarterly results are also affected by other factors such as the amount and timing of non-cash stock-based compensation expense and related tax rate impacts, litigation, settlement costs and related legal expenses, impairment charges and non-operating costs, timing of marketing or promotional expenses, the number and timing of new restaurants opened in a quarter, and closure of restaurants. New restaurants typically have higher operating costs following opening because of the expenses associated with their opening and operating inefficiencies in the months immediately following opening. Accordingly, results for a particular quarter are not necessarily indicative of results to be expected for any other quarter or for any year.
+Liquidity and Capital Resources
+Cash and Investments
+As of   June 30, 2025  , we had a cash and marketable investments balance of   $2.0 billion  , non-marketable investments of   $83.3 million,   and   $30.7 million   of restricted cash. After funding the current operations in our restaurants and support centers, the first planned use of our cash flow from operations is to provide capital for the continued investment in new restaurant construction. In addition to continuing to invest in our restaurant expansion, we expect to utilize cash flow from operations to: repurchase additional shares of our common stock subject to market conditions; invest in, maintain, and refurbish our existing restaurants; and for general corporate purposes. As of   June 30, 2025  ,   $838.8 million   remained available for repurchases of shares of our common stock, which includes the $  400.0   million additional authorization approved by our Board of Directors on   June 10, 2025  . Under the remaining repurchase authorizations, shares may be purchased from time to time in open market transactions, subject to market conditions.
+Borrowing Capacity
+As of   June 30, 2025  , we had   $500.0 million   of undrawn borrowing capacity under a line of credit facility.
+Use of Cash
+We believe that cash from operations, together with our cash and investment balances, will be sufficient to meet ongoing capital expenditures, working capital requirements and other cash needs for the foreseeable future. Assuming no significant declines in comparable restaurant sales, we expect we will generate positive cash flow for the foreseeable future.
+We have not required significant working capital because guests generally pay using cash or credit and debit cards and because our operations do not require significant receivables, nor do they require significant inventories due, in part, to our use of various fresh ingredients. In addition, we generally have the right to pay for the purchase of food, beverages and supplies sometime after the receipt of those items, generally within ten days, thereby reducing the need for incremental working capital to support our growth.
+Cash Flows
+Cash provided by operating activities was $1.12 billion for the six months ended June 30, 2025, compared to $1.13 billion for the six months ended June 30, 2024. The decrease was primarily due to net cash changes in operating assets and liabilities. This was partially offset by higher net earnings.
+Cash provided by investing activities was $8.1 million for the six months ended June 30, 2025, compared to cash used in investing activities of $637.3 million for the six months ended June 30, 2024. The change was primarily associated with a $677.5 million decrease in investment purchases net of investment maturities. This was partially offset by increased capital expenditures of $32.2 million primarily related to costs associated with new restaurant development.
+Cash used in financing activities was $1.0 billion for the six months ended June 30, 2025, compared to $245.4 million for the six months ended June 30, 2024. The change was primarily due to increased repurchases of common stock of $824.7 million and, to a lesser extent, $39.7 million of lower payments of tax withholding related to stock-based compensation.
+Critical Accounting Estimates
+Critical accounting estimates are those that we believe are both significant and that require us to make difficult, subjective or complex judgments, often because we need to estimate the effect of inherently uncertain matters. We base our estimates and judgments on historical experiences and various other factors that we believe to be appropriate under the circumstances. Actual results may differ from these estimates, and we might obtain different estimates if we used different assumptions or factors. We had no significant changes to our critical accounting estimates as described in our Annual Report on Form 10-K for the year ended December 31, 2024.
+19
+Table of Contents
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+Commodity Price Risks
+We are exposed to commodity price risks. The prices of many of the ingredients we use to prepare our food, as well as our packaging materials, kitchen equipment, construction material and utilities to run our restaurants, are affected by the price of other commodities, exchange rates, trade tariffs, foreign demand, weather, seasonality, production, availability and other factors outside our control. We work closely with our suppliers and use a mix of forward pricing protocols under which we agree with our supplier on fixed prices for deliveries at some time in the future, fixed pricing protocols under which we agree on a fixed price with our supplier for the duration of that protocol, formula pricing protocols under which the prices we pay are based on a specified formula related to the prices of the goods, such as spot prices or based on changes in industry indices, and range forward protocols under which we agree on a price range for the duration of that protocol. Generally, our pricing protocols with suppliers can remain in effect for periods ranging from one to 24 months, depending on the outlook for prices of the particular ingredient. In some cases, we have minimum purchase obligations. We have tried to increase the number of suppliers and geographic locations for our ingredients, packaging, equipment, construction and utilities, which we believe can help mitigate pricing volatility and supply continuity risks, and we follow industry news, trade tariffs, exchange rates, foreign demand, weather, geopolitical crises and other world events that may affect our ingredient prices. Increases in ingredient prices could adversely affect our results if we choose for competitive or other reasons not to increase menu prices at the same rate at which ingredient costs increase, or if menu price increases result in guest resistance. We also could experience shortages of key ingredients for many unforeseen reasons, such as crop damage due to inclement weather, if our suppliers need to close or restrict operations, or due to industry-wide shipping and freight delays.
+Changing Interest Rates
+We are exposed to interest rate risk through fluctuations of interest rates on our investments. As of June 30, 2025, we had $2.1 billion in cash and cash equivalents, current and long-term investments, and restricted cash, of which the substantial majority are interest bearing. Changes in interest rates affect the interest income we earn, and therefore impact our cash flows and results of operations.
+Foreign Currency Exchange Risk
+A portion of our operations consist of activities outside of the U.S. and we have currency risk on the transactions in other currencies and translation adjustments resulting from the conversion of our international financial results into the U.S. dollar. However, a substantial majority of our operations and investment activities are transacted in the U.S., and therefore our foreign currency risk is not material at this date.
+ITEM 4. CONTROLS AND PROCEDURES
+We maintain disclosure controls and procedures (as defined in Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) that are designed to ensure that information required to be disclosed in Exchange Act reports is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure.
+Evaluation of Disclosure Controls and Procedures
+As of June 30, 2025, we carried out an evaluation, under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures. Based on the foregoing, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of the end of the period covered by this report.
+Changes in Internal Control over Financial Reporting
+There were no changes during the fiscal quarter ended June 30, 2025 in our internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+PART II
+ITEM 1. LEGAL PROCEEDINGS
+For information regarding legal proceedings, refer to    Note 11. "Commitments and Contingencies"    in our condensed consolidated financial statements included in Item 1. “Financial Statements.”
+20
+Table of Contents
+ITEM 1A. RISK FACTORS
+For a description of risk factors that could impact our business, including risks and uncertainties related to consumer sentiment and changes in discretionary spending; potential increases in the costs of ingredients and restaurant equipment, including due to tariffs, trade sanctions or taxes; competitor discounting; and macroeconomic and geopolitical conditions, see Part I, Item 1A. "Risk Factors" of our Annual Report on Form 10-K for the year ended December 31, 2024.
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+Purchases of Equity Securities by the Issuer
+The table below reflects shares of common stock we repurchased during the second quarter of 2025.
+Period     Total Number of Shares Purchased     Average Price Paid Per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs  (1)
+Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs  (2)
+Purchased 4/1 through 4/30     3,611,700     $    48.76     3,611,700     $    698,562,270
+Purchased 5/1 through 5/31     3,107,020     50.85     3,107,020     $    540,566,615
+Purchased 6/1 through 6/30     1,972,065     51.62     1,972,065     $    838,761,338
+Total     8,690,785     $    50.16     8,690,785
+(1)  Shares were repurchased pursuant to repurchase programs announced on October 29, 2024 and December 17, 2024.
+(2)  The June total includes $400 million in additional authorizations approved by our Board of Directors on June 10, 2025, and announced on July 23, 2025. There is no expiration date for this program. The authorization to repurchase shares will end when we have repurchased the maximum amount of shares authorized, or we have determined to discontinue such repurchases.
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+None.
+ITEM 4. MINE SAFETY DISCLOSURES
+Not applicable.
+ITEM 5. OTHER INFORMATION
+Adoption or Termination of 10b5-1 Trading Plans
+During the quarter ended June 30, 2025, no Section 16 officer or director, as defined in Rule 16a-1(f) of the Securities Exchange Act of 1934 (the “Exchange Act”)   adopted  , modified, or   terminated   any Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as such terms are defined in Item 408(a) of Regulation S-K.
+21
+Table of Contents
+ITEM 6. EXHIBITS
+EXHIBIT INDEX
+Description of Exhibit Incorporated Herein by Reference
+Exhibit Number    Exhibit Description    Form    File No.    Filing Date    Exhibit Number    Filed Herewith
+10.1†
+Letter Agreement dated May 5, 2025, between Jack Hartung and Chipotle Mexican Grill, Inc.
+8-K    001-32731    May 07, 2025    10.1
+10.2
+Revolving Credit Agreement dated June 24, 2025 among Chipotle Mexican Grill, Inc. and JPMorgan Chase Bank, N.A., Administrative Agent, and other lenders party to the Agreement
+8-K    001-32731    June 27, 2025    10.1
+31.1
+Certification of Chief Executive Officer of Chipotle Mexican Grill, Inc. pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+-    -    -    -    X
+31.2
+Certificate of Chief Financial Officer of Chipotle Mexican Grill, Inc. pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+-    -    -    -    X
+32.1
+Certification of Chief Executive Officer and Chief Financial Officer of Chipotle Mexican Grill, Inc. pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+-    -    -    -    X
+101.INS    Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)    -    -    -    -    X
+101.SCH    Inline XBRL Taxonomy Extension Schema Document    -    -    -    -    X
+101.CAL    Inline XBRL Taxonomy Extension Calculation Linkbase Document    -    -    -    -    X
+101.DEF    Inline XBRL Taxonomy Extension Definition Linkbase Document    -    -    -    -    X
+101.LAB    Inline XBRL Taxonomy Extension Label Linkbase Document    -    -    -    -    X
+101.PRE    Inline XBRL Taxonomy Extension Presentation Linkbase Document     -    -    -    -    X
+104    Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)    -    -    -    -    X
+†- Management contracts and compensatory plans or arrangements required to be filed as exhibits.
+`
+22
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+CHIPOTLE MEXICAN GRILL, INC.
+By:    /s/ Jamie McConnell
+Name:    Jamie McConnell
+Title:
+Chief Accounting and Administrative Officer (principal accounting officer and duly authorized signatory for the registrant)
+Date: July 23, 2025
+23

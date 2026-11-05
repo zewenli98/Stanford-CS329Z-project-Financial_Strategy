@@ -1,0 +1,232 @@
+XML
+107
+R99.htm
+IDEA: XBRL DOCUMENT
+v3.23.3
+Regulatory Matters - Summary of Virginia Power Electric Transmission Project Applied (Detail) - Virginia Electric and Power Company
+$ in Millions
+3 Months Ended
+Mar. 31, 2023
+USD ($)
+mi
+kV
+Partial rebuild of Bristers-Ox 115 kV line in Fauquier and Prince William Counties, Virginia
+Public Utilities General Disclosures [Line Items]
+Application Date
+2022-08
+Approval Date
+2023-04
+Type of Line | kV
+230,000,000
+Miles of Lines | mi
+15,000,000
+Cost Estimate | $
+$ 40
+Construct new Mars and Wishing Star substations, transmission lines and related projects in Loudoun County, Virginia
+Public Utilities General Disclosures [Line Items]
+Application Date
+2022-10
+Approval Date
+2023-04
+Type of Line
+500/230 kV
+Miles of Lines | mi
+4
+Cost Estimate | $
+$ 720
+Rebuild of Lines #2019 and #2007 in the City of Virginia Beach, Virginia
+Public Utilities General Disclosures [Line Items]
+Application Date
+2023-02
+Type of Line | kV
+230,000,000
+Miles of Lines | mi
+5
+Cost Estimate | $
+$ 95
+Install transformer at Possum Point substation, rebuild and construct transmission lines and related projects in Prince William County, Virginia
+Public Utilities General Disclosures [Line Items]
+Application Date
+2023-03
+Type of Line | kV
+230
+Miles of Lines | mi
+2
+Cost Estimate | $
+$ 35
+Partial rebuild of Line #2011 in the Cities of Manassas and Manassas Park, Virginia and Prince William and Fairfax Counties, Virginia
+Public Utilities General Disclosures [Line Items]
+Application Date
+2023-03
+Type of Line | kV
+230
+Miles of Lines | mi
+7
+Cost Estimate | $
+$ 35
+X
+- Definition
+Application date of public utilities transmission.
++ References
+No definition available.
++ Details
+Name:
+d_ApplicationDateOfPublicUtilitiesTransmission
+Namespace Prefix:
+d_
+Data Type:
+xbrli:gYearMonthItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Approval date of public utilities transmission.
++ References
+No definition available.
++ Details
+Name:
+d_ApprovalDateOfPublicUtilitiesTransmission
+Namespace Prefix:
+d_
+Data Type:
+xbrli:gYearMonthItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Kilo Volt Line.
++ References
+No definition available.
++ Details
+Name:
+d_KiloVoltLine1
+Namespace Prefix:
+d_
+Data Type:
+dtr-types:voltageItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Kilo volt line one.
++ References
+No definition available.
++ Details
+Name:
+d_KiloVoltLineOne
+Namespace Prefix:
+d_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Public utilities, length of transmission line.
++ References
+No definition available.
++ Details
+Name:
+d_PublicUtilitiesLengthOfTransmissionLine
+Namespace Prefix:
+d_
+Data Type:
+dtr-types:lengthItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Public utilities, property, plant and equipment, expected cost of construction.
++ References
+No definition available.
++ Details
+Name:
+d_PublicUtilitiesPropertyPlantAndEquipmentExpectedCostOfConstruction
+Namespace Prefix:
+d_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- Definition
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
++ References
+No definition available.
++ Details
+Name:
+us-gaap_PublicUtilitiesGeneralDisclosuresLineItems
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Details
+Name:
+us-gaap_CapitalizedCostsOfUnprovedPropertiesExcludedFromAmortizationByPropertyOrProjectAxis=d_PartialRebuildOfBristersOx115KVLineInFauquierAndPrinceWilliamCountiesVirginiaMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+dei_LegalEntityAxis=d_VirginiaElectricAndPowerCompanyMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_CapitalizedCostsOfUnprovedPropertiesExcludedFromAmortizationByPropertyOrProjectAxis=d_ConstructNewMarsAndWishingStarSubstationsTransmissionLinesAndRelatedProjectsInLoudounCountyVirginiaMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_CapitalizedCostsOfUnprovedPropertiesExcludedFromAmortizationByPropertyOrProjectAxis=d_RebuildOfLines2019And2007InTheCityOfVirginiaBeachVirginiaMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_CapitalizedCostsOfUnprovedPropertiesExcludedFromAmortizationByPropertyOrProjectAxis=d_InstallTransformerAtPossumPointSubstationRebuildAndConstructTransmissionLinesAndRelatedProjectsInPrinceWilliamCountyVirginiaMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_CapitalizedCostsOfUnprovedPropertiesExcludedFromAmortizationByPropertyOrProjectAxis=d_PartialRebuildOfLine2011InTheCitiesOfManassasAndManassasParkVirginiaAndPrinceWilliamAndFairfaxCountiesVirginiaMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:

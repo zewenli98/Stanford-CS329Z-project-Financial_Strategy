@@ -1,0 +1,50 @@
+EX-99.1
+2
+d94012dex991.htm
+EX-99.1
+EX-99.1
+Exhibit 99.1
+March 20, 2026
+Stryker Corporation
+Att:
+David Nathans, Vice President, Chief Information Security Officer
+Subject:  Stryker Corporation Partner and Customer Connections to the Stryker Environment
+Mr. Nathans,
+Per your request,  Palo Alto Networks   Unit 42  hereby
+issues this letter as a status update on Unit 42’s services assisting  Stryker Corporation (Stryker)  to provide, at your direction, Digital Forensics and Incident Response (DFIR) services in relation to a security compromise involving
+impacts to Stryker’s Entra ID environment, servers, and workstations  (“Security Incident”).
+Scope of Work
+As part of the completed activities for this engagement, Unit 42 has worked with  Stryker ’s technical teams to perform the following:
+●
+Threat Hunting & Forensic Analysis:  Conducted deep-dive analysis of endpoint forensic images, network logs, and
+identity infrastructure (including  Entra ID/Active Directory ) to identify indicators of compromise (IOCs) and evidence of unauthorized access.
+●
+Containment & Eradication:  Identified and neutralized suspected malicious binaries and unauthorized persistence
+mechanisms.
+●
+Infrastructure Review:  Reviewed available forensic evidence from, and the security of critical business process
+flows within, the  Stryker  corporate environment.
+Current Findings and Assurance
+As of 2026-03-20, 15:20 UTC, based on the forensic evidence reviewed and the threat hunting activities performed across the environment:
+1.
+No Persistent Activity Identified:  Unit 42 has found no current evidence of active, uncontained, persistent
+unauthorized access within the  Stryker  environment.
+2.
+Eradication of Identified IOCs:  All known indicators of compromise associated with this specific incident have
+been successfully identified and addressed.
+3.
+Remediation Validation:   Stryker  has engaged Microsoft to assist with recovery of the identity
+infrastructure and has reported that existing accounts have been secured. Unit 42 is supporting Stryker and Microsoft in these efforts. Additionally, with guidance from
+Unit 42,  Stryker  is rebuilding impacted systems or restoring from backups predating the known window of compromise to further prevent threat actor re-entry. Those impacted systems not yet
+rebuilt/restored, have been isolated from the network.
+Conclusion
+As of the date of this letter, within the scope of our services, Unit 42 has not identified evidence of unauthorized activity related to the Security Incident since
+2026-03-11. Currently available evidence indicates that the identified unauthorized activity has been contained and the immediate risk to  Stryker ’s operational environment has been mitigated. At your direction, Unit 42 will continue to
+monitor the environment as part of its analysis and threat hunting phases.
+The information provided in this status update letter may be subject to change based on
+the continued performance of Unit 42’s services. Unit 42 shall not be responsible or liable for any reliance on the contents of this letter by any third party.
+Sincerely,
+Troy Bettencourt
+VP, Digital Forensics and Incident Response Palo
+Alto Networks |
+Unit 42 | 941.447.1030

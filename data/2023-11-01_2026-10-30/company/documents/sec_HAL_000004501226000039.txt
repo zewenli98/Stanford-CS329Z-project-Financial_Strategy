@@ -1,0 +1,1781 @@
+hal-20260331
+0000045012  December 31  835,397,735  2026  Q1  false  CHX  22  25  782  805  12,753  12,616  2.50  2.50  2,000  2,000  1,063  1,064  228  229  —  —  —  0.17  0.17        xbrli:shares    iso4217:USD      iso4217:USD    xbrli:shares      hal:Division    xbrli:pure    hal:Customers     0000045012    2026-01-01  2026-03-31      0000045012   exch:XCHI     2026-01-01  2026-03-31      0000045012   exch:XNYS     2026-01-01  2026-03-31      0000045012    2026-04-17      0000045012   us-gaap:ServiceMember     2026-01-01  2026-03-31      0000045012   us-gaap:ServiceMember     2025-01-01  2025-03-31      0000045012   us-gaap:ProductMember     2026-01-01  2026-03-31      0000045012   us-gaap:ProductMember     2025-01-01  2025-03-31      0000045012    2025-01-01  2025-03-31      0000045012    2026-03-31      0000045012    2025-12-31      0000045012    2024-12-31      0000045012    2025-03-31      0000045012   hal:CompletionAndProductionMember     2026-01-01  2026-03-31      0000045012   hal:CompletionAndProductionMember     2025-01-01  2025-03-31      0000045012   hal:DrillingAndEvaluationMember     2026-01-01  2026-03-31      0000045012   hal:DrillingAndEvaluationMember     2025-01-01  2025-03-31      0000045012   us-gaap:OperatingSegmentsMember     2026-01-01  2026-03-31      0000045012   us-gaap:OperatingSegmentsMember     2025-01-01  2025-03-31      0000045012   us-gaap:CorporateAndOtherMember     2026-01-01  2026-03-31      0000045012   us-gaap:CorporateAndOtherMember     2025-01-01  2025-03-31      0000045012   hal:CompletionAndProductionMember     2026-03-31      0000045012   hal:CompletionAndProductionMember     2025-12-31      0000045012   hal:DrillingAndEvaluationMember     2026-03-31      0000045012   hal:DrillingAndEvaluationMember     2025-12-31      0000045012   us-gaap:CorporateAndOtherMember     2026-03-31      0000045012   us-gaap:CorporateAndOtherMember     2025-12-31      0000045012   srt:MinimumMember     2026-01-01  2026-03-31      0000045012   srt:MaximumMember     2026-01-01  2026-03-31      0000045012   country:US  us-gaap:GeographicConcentrationRiskMember  us-gaap:SalesRevenueNetMember     2026-01-01  2026-03-31      0000045012   country:US  us-gaap:GeographicConcentrationRiskMember  us-gaap:SalesRevenueNetMember     2025-01-01  2025-03-31      0000045012   srt:NorthAmericaMember     2026-01-01  2026-03-31      0000045012   srt:NorthAmericaMember     2025-01-01  2025-03-31      0000045012   srt:LatinAmericaMember     2026-01-01  2026-03-31      0000045012   srt:LatinAmericaMember     2025-01-01  2025-03-31      0000045012   hal:EuropeAfricaCISMember     2026-01-01  2026-03-31      0000045012   hal:EuropeAfricaCISMember     2025-01-01  2025-03-31      0000045012   hal:MiddleEastAsiaMember     2026-01-01  2026-03-31      0000045012   hal:MiddleEastAsiaMember     2025-01-01  2025-03-31      0000045012   country:US  us-gaap:GeographicConcentrationRiskMember  us-gaap:AccountsReceivableMember     2026-01-01  2026-03-31      0000045012   country:US  us-gaap:GeographicConcentrationRiskMember  us-gaap:AccountsReceivableMember     2025-01-01  2025-12-31      0000045012   country:MX  us-gaap:CustomerConcentrationRiskMember  us-gaap:AccountsReceivableMember     2025-01-01  2025-12-31      0000045012   country:MX  us-gaap:CustomerConcentrationRiskMember  us-gaap:AccountsReceivableMember     2026-01-01  2026-03-31      0000045012   hal:CDSContractsAggregateMember     2026-03-31      0000045012   hal:CDSContractsAggregateMember     2025-12-31      0000045012   us-gaap:CommonStockMember     2025-12-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2025-12-31      0000045012   us-gaap:TreasuryStockCommonMember     2025-12-31      0000045012   us-gaap:RetainedEarningsMember     2025-12-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-12-31      0000045012   us-gaap:NoncontrollingInterestMember     2025-12-31      0000045012   us-gaap:CommonStockMember     2026-01-01  2026-03-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2026-01-01  2026-03-31      0000045012   us-gaap:TreasuryStockCommonMember     2026-01-01  2026-03-31      0000045012   us-gaap:RetainedEarningsMember     2026-01-01  2026-03-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-01-01  2026-03-31      0000045012   us-gaap:NoncontrollingInterestMember     2026-01-01  2026-03-31      0000045012   us-gaap:CommonStockMember     2026-03-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2026-03-31      0000045012   us-gaap:TreasuryStockCommonMember     2026-03-31      0000045012   us-gaap:RetainedEarningsMember     2026-03-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2026-03-31      0000045012   us-gaap:NoncontrollingInterestMember     2026-03-31      0000045012   us-gaap:CommonStockMember     2024-12-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2024-12-31      0000045012   us-gaap:TreasuryStockCommonMember     2024-12-31      0000045012   us-gaap:RetainedEarningsMember     2024-12-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-12-31      0000045012   us-gaap:NoncontrollingInterestMember     2024-12-31      0000045012   us-gaap:CommonStockMember     2025-01-01  2025-03-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2025-01-01  2025-03-31      0000045012   us-gaap:TreasuryStockCommonMember     2025-01-01  2025-03-31      0000045012   us-gaap:RetainedEarningsMember     2025-01-01  2025-03-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-01-01  2025-03-31      0000045012   us-gaap:NoncontrollingInterestMember     2025-01-01  2025-03-31      0000045012   us-gaap:CommonStockMember     2025-03-31      0000045012   us-gaap:AdditionalPaidInCapitalMember     2025-03-31      0000045012   us-gaap:TreasuryStockCommonMember     2025-03-31      0000045012   us-gaap:RetainedEarningsMember     2025-03-31      0000045012   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2025-03-31      0000045012   us-gaap:NoncontrollingInterestMember     2025-03-31      0000045012   us-gaap:FinancialGuaranteeMember     2026-03-31      0000045012   us-gaap:EmployeeStockOptionMember     2026-01-01  2026-03-31      0000045012   us-gaap:EmployeeStockOptionMember     2025-01-01  2025-03-31      0000045012   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel1Member     2026-03-31      0000045012   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel2Member     2026-03-31      0000045012   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2026-03-31      0000045012   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2026-03-31      0000045012   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel1Member     2025-12-31      0000045012   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel2Member     2025-12-31      0000045012   us-gaap:EstimateOfFairValueFairValueDisclosureMember     2025-12-31      0000045012   us-gaap:CarryingReportedAmountFairValueDisclosureMember     2025-12-31      0000045012   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel3Member     2025-12-31      0000045012   us-gaap:EstimateOfFairValueFairValueDisclosureMember  us-gaap:FairValueInputsLevel3Member     2026-03-31      0000045012   hal:CDSContractAMember     2026-03-31      0000045012   hal:CDSContractAMember     2026-01-01  2026-03-31      0000045012   hal:CDSContractBMember     2026-03-31      0000045012   hal:CDSContractBMember     2026-01-01  2026-03-31      0000045012   hal:M.CaseyMaxwellMember     2026-01-01  2026-03-31      0000045012   hal:M.CaseyMaxwellMember     2026-03-31      0000045012   hal:EricJ.CarreMember     2026-01-01  2026-03-31      0000045012   hal:EricJ.CarreMember     2026-03-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM    10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended    March 31, 2026
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _______to_______
+Commission File Number    001-03492
+HALLIBURTON COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+75-2677995
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+3000 North Sam Houston Parkway East,
+Houston,
+Texas
+77032
+(Address of principal executive offices)
+(Zip Code)
+(   281   )    871-2699
+(Registrant's telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol
+Name of each exchange on which registered
+Common Stock, par value $2.50 per share
+HAL
+New York Stock Exchange
+NYSE Texas
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days.                     ☒      Yes        ☐   No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted
+pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the
+registrant was required to submit such files).                                 ☒      Yes        ☐   No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller
+reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller
+reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer
+☒
+Accelerated Filer
+☐
+Non-accelerated Filer
+☐
+Smaller Reporting Company
+☐
+Emerging Growth Company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.       ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+☐      Yes     ☒   No
+As of   April 17, 2026  , there were      835,397,735      shares     of Halliburton Company common stock, $2.50 par value per share, outstanding.
+i
+HALLIBURTON COMPANY
+Index
+Page No.
+PART I.
+FINANCIAL INFORMATION
+1
+Item 1.
+Financial Statements
+1
+Condensed Consolidated Statements of Operations
+1
+Condensed Consolidated Statements of Comprehensive Income
+2
+Condensed Consolidated Balance Sheets
+3
+Condensed Consolidated Statements of Cash Flows
+4
+Notes to Condensed Consolidated Financial Statements
+5
+Note    1   . Basis of Presentation
+5
+Note    2   . Impairments and Other Charges
+5
+Note    3   . Business Segment Information
+6
+Note    4   . Revenue
+8
+Note    5   . Inventories
+9
+Note    6   . Accounts Payable
+9
+Note    7   . Income Taxes
+10
+Note    8   . Shareholders' Equity
+11
+Note 9. Commitments and Contingencies
+12
+Note    10   . Income per Share
+12
+Note    11   . Fair Value of Financial Instruments
+12
+Note    12   . New Accounting Pronouncements
+13
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+14
+Executive Overview
+14
+Liquidity and Capital Resources
+17
+Business Environment and Results of Operations
+19
+Results of Operations in 2026 Compared to 202   5
+21
+Forward-Looking Information
+24
+New Accounting Standards Not Yet Adopted
+24
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+24
+Item 4.
+Controls and Procedures
+24
+PART II.
+OTHER INFORMATION
+25
+Item 1.
+Legal Proceedings
+25
+Item 1(a).
+Risk Factors
+25
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+25
+Item 3.
+Defaults Upon Senior Securities
+25
+Item 4.
+Mine Safety Disclosures
+25
+Item 5.
+Other Information
+25
+Item 6.
+Exhibits
+26
+SIGNATURES
+27
+HAL   Q1 2026   FORM   10-Q   | 1
+Table of Contents
+PART I. FINANCIAL INFORMATION
+Item 1.     Financial Statements.
+HALLIBURTON COMPANY
+Condensed Consolidated   Statements of Operations
+(Unaudited)
+Three Months Ended
+March 31,
+Millions of dollars and shares except per share data
+2026
+2025
+Revenue:
+Services
+$     3,823
+$     3,809
+Product sales
+1,579
+1,608
+Total revenue
+5,402
+5,417
+Operating costs and expenses:
+Cost of services
+3,366
+3,286
+Cost of sales
+1,253
+1,252
+Impairments and other charges
+—
+356
+General and administrative
+62
+62
+SAP S4 upgrade expense
+42
+30
+Total operating costs and expenses
+4,723
+4,986
+Operating income
+679
+431
+Interest expense, net of interest income of $22 and $25
+( 82 )
+( 86 )
+Other, net
+( 28 )
+( 39 )
+Income before income taxes
+569
+306
+Income tax provision
+( 105 )
+( 103 )
+Net income
+$     464
+$     203
+Net (income) loss attributable to noncontrolling interest
+( 3 )
+1
+Net income attributable to company
+$     461
+$     204
+Basic and diluted net income per share
+$      0.55
+$      0.24
+Basic weighted average common shares outstanding
+837
+866
+Diluted weighted average common shares outstanding
+839
+866
+See N  otes to   Condensed Consolidated   Financial Statements  .
+HAL   Q1 2026   FORM   10-Q   | 2
+Table of Contents
+HALLIBURTON COMPANY
+Condensed Consolidated   Statements of Comprehensiv  e Income
+(Unaudited)
+Three Months Ended
+March 31,
+Millions of dollars
+2026
+2025
+Net income
+$     464
+$     203
+Other comprehensive income (loss), net of income taxes
+20
+( 6 )
+Comprehensive income
+$     484
+$     197
+Comprehensive (income) loss attributable to noncontrolling interest
+( 3 )
+1
+Comprehensive income attributable to company shareholders
+$     481
+$     198
+See Notes to   Condensed Consolidated   Financial Statements.
+HAL   Q1 2026   FORM   10-Q   | 3
+Table of Contents
+HALLIBURTON COMPANY
+Condensed Consolidated     Balance Sheets
+(Unaudited)
+Millions of dollars and shares except per share data
+March 31,
+2026
+December 31,
+2025
+Assets
+Current assets:
+Cash and equivalents
+$     2,003
+$     2,206
+Receivables (net of allowances for credit losses of $782 and $805)
+5,197
+4,942
+Inventories
+3,019
+2,976
+Other current assets
+1,316
+1,274
+Total current assets
+11,535
+11,398
+Property, plant, and equipment (net of accumulated depreciation of $12,753 and $12,616)
+5,182
+5,261
+Goodwill
+2,992
+2,938
+Deferred income taxes
+2,339
+2,298
+Operating lease right-of-use assets
+895
+938
+Other assets
+2,199
+2,177
+Total assets
+$     25,142
+$     25,010
+Liabilities and Shareholders' Equity
+Current liabilities:
+Accounts payable
+$     3,211
+$     3,133
+Accrued employee compensation and benefits
+622
+767
+Income taxes payable
+384
+375
+Taxes other than income
+250
+291
+Current portion of operating lease liabilities
+243
+263
+Current maturities of long-term debt
+90
+—
+Other current liabilities
+737
+759
+Total current liabilities
+5,537
+5,588
+Long-term debt
+7,070
+7,158
+Operating lease liabilities
+678
+712
+Employee compensation and benefits
+395
+428
+Other liabilities
+637
+619
+Total liabilities
+14,317
+14,505
+Shareholders' equity:
+Common stock, par value $2.50 per share (authorized 2,000 shares, issued 1,063 and 1,064 shares)
+2,659
+2,659
+Paid-in capital in excess of par value
+93
+112
+Accumulated other comprehensive loss
+( 343 )
+( 363 )
+Retained earnings
+15,355
+15,036
+Treasury stock, at cost (228 and 229 shares)
+( 6,984 )
+( 6,983 )
+Company shareholders' equity
+10,780
+10,461
+Noncontrolling interest in consolidated subsidiaries
+45
+44
+Total shareholders' equity
+10,825
+10,505
+Total liabilities and shareholders' equity
+$     25,142
+$     25,010
+See Notes to   Condensed Consolidated   Financial Statements.
+HAL   Q1 2026   FORM   10-Q   | 4
+Table of Contents
+HALLIBURTON COMPANY
+Condensed Consolidated   Statements of Cash Flows
+(Unaudited)
+Three Months Ended
+March 31,
+Millions of dollars
+2026
+2025
+Cash flows from operating activities:
+Net income
+$     464
+$     203
+Adjustments to reconcile net income to cash flows from operating activities:
+Depreciation, depletion, and amortization
+295
+277
+Impairments and other charges
+—
+356
+Changes in assets and liabilities:
+Receivables
+( 293 )
+( 86 )
+Inventories
+( 41 )
+( 4 )
+Accounts payable
+82
+( 64 )
+Other operating activities
+( 234 )
+( 305 )
+Total cash flows provided by operating activities
+273
+377
+Cash flows from investing activities:
+Capital expenditures
+( 192 )
+( 302 )
+Payments to acquire businesses, net of cash acquired
+( 97 )
+( 116 )
+Purchase of investment securities
+( 2 )
+( 96 )
+Proceeds from sales of property, plant, and equipment
+42
+49
+Sales of investment securities
+27
+41
+Purchase of an equity investment
+—
+( 345 )
+Other investing activities
+( 21 )
+( 15 )
+Total cash flows used in investing activities
+( 243 )
+( 784 )
+Cash flows from financing activities:
+Dividends to shareholders
+( 142 )
+( 147 )
+Stock repurchase program
+( 100 )
+( 250 )
+Other financing activities
+5
+( 9 )
+Total cash flows used in financing activities
+( 237 )
+( 406 )
+Effect of exchange rate changes on cash
+4
+( 1 )
+Decrease in cash and cash equivalents
+( 203 )
+( 814 )
+Cash and equivalents at beginning of period
+2,206
+2,618
+Cash and equivalents at end of period
+$     2,003
+$     1,804
+Supplemental disclosure of cash flow information:
+Cash payments during the period for:
+Interest
+$     114
+$     116
+Income taxes
+$     102
+$     165
+See Notes to   Condensed Consolidated   Financial Statements.
+HAL   Q1 2026   FORM   10-Q   | 5
+Table of Contents
+Part I. Item 1   | Notes to Condensed Consolidated Financial Statements
+HALLIBURTON COMPANY
+Notes to   Condensed Consolidated   Financial Statements
+(Unaudited)
+Note   1  .    Basis of Presentation
+The accompanying unaudited   condensed consolidated   financial statements were prepared using United States
+generally accepted accounting principles (U.S. GAAP) for interim financial information and the instructions to Form 10-Q and
+Regulation S-X. Accordingly, these financial statements do not include all information or notes required by U.S. GAAP for
+annual financial statements and should be read together with our   2025   Annual Report on Form 10-K.
+Our accounting policies are in accordance with U.S. GAAP. The preparation of financial statements in conformity with
+these accounting principles requires us to make estimates and assumptions that affect:
+•  the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the
+financial statements; and
+•  the reported amounts of revenue and expenses during the reporting period.
+Ultimate results could differ from our estimates.
+In our opinion, the   condensed consolidated   financial statements included herein contain all adjustments necessary to
+present fairly our financial position as of   March 31, 2026  ,   the results of our operations for the     three months ended     March 31,
+2026   and   2025  , and our cash flows for the   three months ended     March 31, 2026   and   2025  . Such adjustments are of a normal
+recurring nature. In addition, certain reclassifications of prior period balances have been made to conform to the current period
+presentation.
+The results of our operations for the   three months ended     March 31, 2026   may not be indicative of results for the full
+year.
+Note   2  .      Impairments and Other Charges
+During the three months ended    March 31, 2026  , there were        no        amounts   recorded in impairments and other charges.
+During   the   three months ended     March 31, 2025  ,   we recorded a pre-tax charge of   $ 356  million   primarily related to
+$ 107  million   in severance expense as we rationalized global headcount to align with activity levels and   $ 104  million   of
+additional impairment associated with a strategic decision to market for sale a portion of our chemical business. Additionally,
+we recognized a   $ 53  million   impairment related to facility closures and lease terminations. Other charges of   $ 92  million   were
+p  rimarily related to legacy environmental remediation cost estimate increases.
+HAL   Q1 2026   FORM   10-Q   | 6
+Table of Contents
+Part I. Item 1   | Notes to Condensed Consolidated Financial Statements
+Note   3  .    Business Segment Information
+We operate under       two       divisions, which form the basis for the       two       operating segments we report: the Completion and
+Production segment and the Drilling and Evaluation segment. Our equity in earnings and losses of unconsolidated affiliates that
+are accounted for using the equity method of accounting are included within cost of services and cost of sales on our statements
+of operations, which is part of operating income of the applicable segment.
+Our company’s   chief operating decision maker   (CODM) is Jeffrey Miller, Chairman of the Board, President and Chief
+Executive Officer. Throughout the year, our CODM assesses the performance of the two segments based on segment revenue
+and operating income, in comparison with forecast and plan and overall results, to make capital and resource allocation
+decisions.
+The follow  ing table presents information on our business segments.
+Three Months Ended
+March 31,
+Millions of dollars
+2026
+2025
+Revenue:
+Completion and Production
+$     3,016
+$     3,120
+Drilling and Evaluation
+2,386
+2,297
+Total revenue
+$     5,402
+$     5,417
+Operating income:
+Completion and Production
+$     439
+$     531
+Drilling and Evaluation
+351
+352
+Total operations
+790
+883
+Corporate and other (a)
+( 69 )
+( 66 )
+SAP S4 upgrade expense
+( 42 )
+( 30 )
+Impairments and other charges (b)
+—
+( 356 )
+Total operating income
+$     679
+$     431
+Interest expense, net of interest income
+$    ( 82 )
+$    ( 86 )
+Other, net
+( 28 )
+( 39 )
+Income before income taxes
+$     569
+$     306
+Capital expenditures:
+Completion and Production
+$     109
+$     178
+Drilling and Evaluation
+83
+124
+Total capital expenditures
+$     192
+$     302
+Depreciation, depletion, and amortization:
+Completion and Production
+$     163
+$     152
+Drilling and Evaluation
+126
+121
+Corporate and other
+6
+4
+Total depreciation, depletion, and amortization
+$     295
+$     277
+(a)
+Includes certain expenses not attributable to a business segment, such as costs related to support functions, corporate executives,
+and operating lease assets, and includes amortization expense associated with intangible assets recorded as a result of acquisitions.
+(b)
+For the three months ended   March 31, 2025  , the amount includes a   $ 201  million   charge attributable to Completion and
+Production, an   $ 85  million   charge attributable to Drilling and Evaluation, and a   $ 70  million   charge attributable to Corporate and
+other. See Notes to   Condensed Consolidated   Financial Statements, Note 2 for further discussion on impairments and other
+charges.
+HAL   Q1 2026   FORM   10-Q   | 7
+Table of Contents
+Part I. Item 1   | Notes to Condensed Consolidated Financial Statements
+The following table presents significant segment expenses, which represent the difference between segment revenue
+and segment operatin  g income and are regularly reviewed by our CODM  .
+Three Months Ended
+March 31,
+2026
+Millions of dollars
+Completion and
+Production
+Drilling and
+Evaluation
+Segment operating expenses:
+Cost of products, materials, and supplies
+$     1,271
+$     913
+Compensation
+479
+487
+Depreciation, depletion, and amortization
+163
+126
+Other
+664
+509
+Total segment operating expenses
+$     2,577
+$     2,035
+Three Months Ended
+March 31,
+2025
+Millions of dollars
+Completion and
+Production
+Drilling and
+Evaluation
+Segment operating expenses:
+Cost of products, materials, and supplies
+$     1,300
+$     882
+Compensation
+474
+467
+Depreciation, depletion, and amortization
+152
+121
+Other
+663
+475
+Total segment operating expenses
+$     2,589
+$     1,945
+Other segment operating expenses primarily consist of maintenance, overhead allocations, facilities cost, and other
+miscellaneous costs.
+The following table presents total assets by segment.
+Millions of dollars
+March 31,
+2026
+December 31,
+2025
+Total assets:
+Completion and Production (a)
+$     10,621
+$     10,492
+Drilling and Evaluation (a)
+8,087
+7,870
+Corporate and other (b)
+6,434
+6,648
+Total assets
+$     25,142
+$     25,010
+(a)
+Assets associated with specific segments primarily include receivables, inventories, property, plant, and equipment, operating lease right-of-
+use assets, equity in and advances to related companies, and goodwill.
+(b)
+Includes primarily cash and equivalents and deferred tax assets.
+HAL   Q1 2026   FORM   10-Q   | 8
+Table of Contents
+Part I. Item 1   | Notes to Condensed Consolidated Financial Statements
+Note   4  .    Revenue
+Revenue is recognized based on the transfer of control or our customers’ ability to benefit from our services and
+products in an amount that reflects the consideration we expect to receive in exchange for those services and products. Most   of
+our service and product contracts are short-term in nature. In recognizing revenue for our services and products, we determine
+the transaction price of purchase orders or contracts with our customers, which may consist of fixed and variable consideration.
+We also assess our customers’ ability and intention to pay, which is based on a variety of   factors, including our historical
+payment experience with, and the financial condition of, our customers. Payment terms and conditions vary by contract type,
+although terms generally include a requirement of payment   within    20    to    60    days  . Other judgments involved in recognizing
+revenue include an assessment of progress towards completion of performance obligations for certain long-term contracts,
+which involve estimating total costs to determine our progress towards contract completion and calculating the corresponding
+amount of revenue to recognize    .
+Disaggregation of revenue
+We disaggregate revenue from contracts with customers into types of services or products, consistent with our       two
+reportable segments, in addition to geographical area. Based on the location of services provided   and products sold,      37 %   and
+39 %       of   our consolidated revenue was from the United States   for the   three   months ended   March 31, 2026   and   2025  ,
+respectively.   No other country accounted for more than 10% of our revenue   for those periods.
+The following table presents information on our disaggregated revenue.
+Three Months Ended
+March 31,
+Millions of dollars
+2026
+2025
+Revenue by segment:
+Completion and Production
+$     3,016
+$     3,120
+Drilling and Evaluation
+2,386
+2,297
+Total revenue
+$     5,402
+$     5,417
+Revenue by geographic region:
+North America
+$     2,136
+$     2,236
+Latin America
+1,090
+896
+Europe/Africa/CIS
+858
+775
+Middle East/Asia
+1,318
+1,510
+Total revenue
+$     5,402
+$     5,417
+Contract balances
+We perform our obligations under contracts with our customers by transferring services and products in exchange for
+consideration. The timing of our performance often differs from the timing of our customers’ payment, which results in the
+recognition of receivables and deferred revenue. Deferred revenue represents advance consideration received from customers
+for contracts where revenue is recognized on future performance of service.   Deferred revenue, as well as revenue recognized
+during the period relating to amounts included as deferred revenue at the beginning of the period,   w  as not material   to our
+condensed c  onsolidated   financial statements.
+Transaction price allocated to remaining performance obligations
+Remaining performance obligations represent firm contracts for which work has not been performed and future
+revenue recognition is expected. We have elected the practical expedient permitting the exclusion of disclosing remaining
+performance obligations for contracts that have an original expected duration of    one year    or less. We have   some   long-term
+contracts related to software and integrated project management services such as lump sum turnkey contracts.   For software
+contracts, revenue is generally recognized over the duration of the contract period when the software is considered to be a right
+to access our intellectual property  . For lump sum turnkey projects, we recognize revenue over time using an input method,
+which requires us to exercise judgment.     Revenue allocated to remaining performance obl  igations for these long-term contracts
+is not material.
+HAL   Q1 2026   FORM   10-Q   | 9
+Table of Contents
+Part I. Item 1   | Notes to Condensed Consolidated Financial Statements
+Receivables
+As of   March 31, 2026  ,    32 %   of our net trade receivables were from customers in the United States  .   As of   December 31,
+2025  ,    31 %   of our net trade receivables   were   from customers in the United States.     Receivables from our primary customer in
+Mexico accounted for approximately     7  %   of our total receivables as of both   March 31, 2026   and   December 31, 2025  . While we
+have experienced payment delays from our primary customer in Mexico, the amounts are not in dispute and we have not
+historically had, and we do not expect, any material write-offs due to collectability of receivables from this customer.
+Furthermore, we have entered int  o credit default swaps (CDSs)   with third-party financial institutions that have an aggregate
+notional amount outstanding as of   March 31, 2026   of   $ 374  million  , compared to an aggregate notional amount outstanding as
+of   December 31, 2025   of   $ 592  million  ,   related to borrowings provided by the financial institutions to one of our primary
+customers in Mexico, of which portions of the proceeds were utilized by this customer to pay certain of our outstanding
+receivables. See Notes to   Condensed Consolidated   Financial Statements,   Note   11   for further information on these CDSs.     No
+countries other than the United States, and     no       single customer  ,     accounted   for more than     10  %   of our net trade receivables at
+those dates.
+W  e have risk of delayed customer payments and payment defaults associated with customer liquidity issues. We
+routinely monitor the financial stability of our customers and employ an extensive process to evaluate the collectability of
+outstanding receivables. This process, which involves judgment and estimates, includes a  nalysis of our customers’ historical
+time to pay, financial condition and various financial metrics, debt structure, credit ratings, and production profile, as well as
+political and economic factors in countries of operations and other customer-specific facto  rs.
+Note   5  .      Inventories
+Inventories consisted of the following:
+March 31,
+December 31,
+Millions of dollars
+2026
+2025
+Finished products and parts
+$     2,012
+$     1,968
+Raw materials and supplies
+871
+884
+Work in process
+136
+124
+Total inventories
+$     3,019
+$     2,976
+Note   6  .    Accounts Payable
+We have   an   agreement with a third party that allows our participating suppliers to finance payment obligations from us
+with a designated third-party   financial institution   who acts as our paying agent. We have generally extended our payment terms
+with suppliers to     90       day  s. A participating supplier may request the participating financial institution to finance one or more of
+our payment obligations to such supplier prior to the scheduled due date thereof at a discounted price. We are not required to
+provide collateral to the financial institution.
+Our obligations to participating suppliers, including amounts due and scheduled payment dates, are not impacted by
+the   suppliers  ’ decisions to finance amounts due under these financing arrangements.   Our   outstanding   payment obligations under
+this agreemen  t w  as     $ 267  million     a  s of   March 31, 2026  , and   $ 280  million   as of   December 31, 2025  , and are included in
+“Accounts payable” on the   Condensed Consolidated   Balance Sheets.
+HAL   Q1 2026   FORM   10-Q   | 10
+Table of Contents
+Part I. Item 1   | Notes to Condensed Consolidated Financial Statements
+N  ote     7  .    Income Taxes
+During the   three months ended     March 31, 2026  , we recorded a total income tax   provision   of     $ 105  million   on a pre-tax
+income of   $ 569  million  ,     resulting in an effective tax rate of    18.5 %   for the quarter. The effective tax rate for this period was
+primarily impacted by the re  lease of a valuation allowance in the amount of   $ 32  million   related to changes in deferred tax asset
+realizability.     During   the   three months ended     March 31, 2025  , we recorded a total income tax   provision   of   $ 103  million   on a
+pre-tax income of   $ 306  million  , resulting in an effective tax rate of    33.7 %   for the quarter. The effective tax rate for this period
+was primarily impacted by the additional valuation allowance recognized on our deferred tax assets, which resulted from the
+pre-tax   $ 356  million   of impairments and other charges.
+Our tax returns are subject to review by the taxing authorities in the jurisdictions where we file tax returns. In most
+cases we are no longer subject to examination by tax authorities for years   before   2014  .   The only significant operating
+jurisdiction that has tax filings under review or subject to examination by the tax authorities is the United States. As of
+March 31, 2026  , the United States federal income tax filings for   tax years 2016 through 2024   are currently under review or
+remain open for review by the Internal Revenue Service (the IRS).
+As of   March 31, 2026  , the primary unresolved issue for the   IRS audit for 2016   relates to the classification of the
+$ 3.5  billion   ordinary deduction that we claimed for the termination fee we paid to Baker Hughes in the second quarter of 2016
+for which we received a Notice of Proposed Adjustment (NOPA) from the IRS on September 28,   2023  . We regularly assess the
+likelihood of adverse outcomes resulting from tax examinations to determine the adequacy of our tax reserves, and we believe
+our income tax reserves are appropriately provided for all open tax years.   We do not expect a final resolution of this issue in the
+next twelve months.
+Based on the information currently available, we do not anticipate a significant increase or decrease to our tax
+contingencies within the next twelve months.
+HAL   Q1 2026   FORM   10-Q   | 11
+Table of Contents
+Part I. Item 1   | Notes to Condensed Consolidated Financial Statements
+Note   8  .    Shareholders' Equity
+The following tables   summarize   our shareholders’ equity activity for the   three months ended     March 31, 2026   and
+March 31, 2025  , respectively:
+Millions of dollars
+Common
+Stock
+Paid-in
+Capital in
+Excess of
+Par Value
+Treasury
+Stock
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Noncontrolling
+Interest in
+Consolidated
+Subsidiaries
+Total
+Balance at December 31, 2025
+$     2,659
+$     112
+$    ( 6,983 )
+$     15,036
+$    ( 363 )
+$     44
+$     10,505
+Comprehensive income (loss):
+Net income
+—
+—
+—
+461
+—
+3
+464
+Other comprehensive income (loss)
+—
+—
+—
+—
+20
+—
+20
+Cash dividends ($0.17 per share)
+—
+—
+—
+( 142 )
+—
+—
+( 142 )
+Stock repurchase program
+—
+—
+( 100 )
+—
+—
+—
+( 100 )
+Stock plans (a)
+—
+( 19 )
+99
+—
+—
+—
+80
+Other
+—
+—
+—
+—
+—
+( 2 )
+( 2 )
+Balance at March 31, 2026
+$     2,659
+$     93
+$    ( 6,984 )
+$     15,355
+$    ( 343 )
+$     45
+$     10,825
+(a)
+In the first quarter of   2026  , we issued common stock from treasury shares for stock options exercised, restricted stock grants,
+performance shares under our performance unit program, and purchases under our employee stock purchase plan.
+Millions of dollars
+Common
+Stock
+Paid-in
+Capital in
+Excess of
+Par Value
+Treasury
+Stock
+Retained
+Earnings
+Accumulated
+Other
+Comprehensive
+Income (Loss)
+Noncontrolling
+Interest in
+Consolidated
+Subsidiaries
+Total
+Balance at December 31, 2024
+$     2,662
+$     79
+$    ( 6,214 )
+$     14,332
+$    ( 353 )
+$     42
+$     10,548
+Comprehensive income (loss):
+Net income
+—
+—
+—
+204
+—
+( 1 )
+203
+Other comprehensive income (loss)
+—
+—
+—
+—
+( 6 )
+—
+( 6 )
+Cash dividends ($0.17 per share)
+—
+—
+—
+( 147 )
+—
+—
+( 147 )
+Stock repurchase program
+—
+—
+( 252 )
+—
+—
+—
+( 252 )
+Stock plans (a)
+( 1 )
+( 24 )
+83
+—
+—
+—
+58
+Other
+—
+4
+—
+—
+—
+1
+5
+Balance at March 31, 2025
+$     2,661
+$     59
+$    ( 6,383 )
+$     14,389
+$    ( 359 )
+$     42
+$     10,409
+(a)
+In the first quarter of   2025  , we issued common stock from treasury shares for stock options exercised, restricted stock grants,
+performance shares under our performance unit program, and purchases under our employee stock purchase plan.
+Our Board of Directors has authorized a program to repurchase our common stock from time to time.   We repurchased
+2.8  million   shares of our common stock under the program during the   three months ended     March 31, 2026   for     $ 100  million  .
+Approximately   $ 1.9  billion   remained authorized for repurchases under the program as of   March 31, 2026  . From the inception
+of this program in February of 2006 through   March 31, 2026  , we repurchased    329  million   shares of our common stock for a
+total cost of approximately   $ 12.2  billion  .   We repurchased    9.6  million   shares of our common stock under the program during the
+three months ended   March 31, 2025   for   approximately   $ 252  million  .
+Accumulated other comprehensive loss consisted of the following:
+March 31,
+December 31,
+Millions of dollars
+2026
+2025
+Cumulative translation adjustments
+$    ( 81 )
+$    ( 81 )
+Defined benefit and other postretirement liability adjustments
+( 225 )
+( 245 )
+Other
+( 37 )
+( 37 )
+Total accumulated other comprehensive loss
+$    ( 343 )
+$    ( 363 )
+HAL   Q1 2026   FORM   10-Q   | 12
+Table of Contents
+Part I. Item 1   | Notes to Condensed Consolidated Financial Statements
+Note   9  .    Commitments and Contingencies
+The Company is subject to various legal or governmental proceedings, claims or investigations, including personal
+injury, property damage, environmental, intellectual property, commercial, tax, and other matters arising in the ordinary course
+of business, the resolution of which, in the opinion of management, will not have a material adverse effect on our   consolidated
+results of operations or consolidated financial position  . There is inherent risk in any legal or governmental proceeding, claim or
+investigation, and no assurance can be given as to the outcome of these proceedings.
+Guarantee arrangements
+In the   normal course of business, we have in   place   agreements with financial institutions under which   approximately
+$ 3.2  billion   of letters of credit, bank guarantees,   or   surety bonds     were outstanding as of   March 31, 2026  . Some of the
+outstanding letters of credit have triggering events that would entitle a bank to require cash collateralization.   None of these off-
+balance sheet arrangements either has, or is     likely to have, a material effect on our consolidated financial statements.
+Note   10  .      Income per Share
+Basic income or loss per share is based on the weighted average number of common shares outstanding during the
+period. Diluted income per share includes additional common shares that would have been outstanding if potential common
+shares with a dilutive effect had been issued. Antidilutive securities represent potentially dilutive securities which are excluded
+from the computation of diluted income or loss per share as their impact was antidilutive.
+A reconciliation of the number of shares used for the basic and diluted income per share computations is as follows:
+Three Months Ended
+March 31,
+Millions of shares
+2026
+2025
+Basic weighted average common shares outstanding
+837
+866
+Dilutive effect of awards granted under our stock incentive plans
+2
+—
+Diluted weighted average common shares outstanding
+839
+866
+Antidilutive shares:
+Weighted average options with exercise price greater than the average
+market price
+5
+9
+Total antidilutive shares
+5
+9
+Note   11  .      Fair Value of Financial Instruments
+The carrying amount of cash and equivalents, receivables, and accounts payable, as reflected in the   Condensed
+Consolidated   Balance Sheets, approximates fair value due to the short maturities of these instruments.
+The carrying amount and fair value of our total debt is   as follows  :
+March 31, 2026
+December 31, 2025
+Millions of dollars
+Level 1
+Level 2
+Total fair
+value
+Carrying
+value
+Level 1
+Level 2
+Total fair
+value
+Carrying
+value
+Total debt
+$     6,916
+$     98
+$     7,014
+$     7,160
+$     6,722
+$     357
+$     7,079
+$     7,158
+T  he total fair value of our   deb  t   decreased during the first quarter of   2026  , prima  rily     as a result of higher   yields  .
+Our debt categorized within level 1 on the fair value hierarchy is calculated using quoted prices in active markets for
+identical liabilities with transactions occurring on the last    two days      of period-end. Our debt categorized within level 2 on the
+fair value hierarchy is calculated using significant observable inputs for similar liabilities where estimated values are
+determined from observable data points on our other bonds and on other similarly rated corporate debt or from observable data
+points of transactions occurring prior to    two days    from period-end and adjusting for changes in market conditions. Differences
+between the periods presented in our level 1 and level 2 classification of our long-term debt relate to the timing of when third-
+party market transactions on our debt are executed.     We have     no     debt categorized within level 3 on the fair value hierarchy.
+HAL   Q1 2026   FORM   10-Q   | 13
+Table of Contents
+Part I. Item 1   | Notes to Condensed Consolidated Financial Statements
+Credit risk
+We have entered into CDSs with third-party financial institutions that had an aggregate notional amount outstanding as
+of   March 31, 2026   of     $ 374  million  ,   compared to an aggregate notional amount outstanding as of   December 31, 2025   of   $ 592
+million  ,   related to borrowings provided by the financial institutions to one of our primary customers in Mexico, of which a
+portion of the proceeds were then utilized by this customer to pay certain of our outstanding receivables. Approximately   $ 331
+million   of the outstanding amount of the CDSs reduces monthly over its remaining      6   -month   term   and   $ 43  million   reduces
+monthly over its remaining    3   -month term  .
+The   fair value of the derivative liabilities was not material to our financial   condition   as of   March 31, 2026  .
+Note   12  .      New Accounting Pronouncements
+In November 2024, the Financial Accounting Standards Board issued Accounting Standards Update (ASU) 2024-03
+(Subtopic 220-40), “Disaggregation of Income Statement Expenses”, which requires additional disclosure of certain expense
+captions presented on the face of the Company’s income statement as well as disclosures about selling expenses. ASU 2024-03
+is effective for the Company’s annual reporting periods beginning after December 15, 2026, and interim reporting periods
+beginning after December 15, 2027, and should be applied on a prospective or retrospective basis, with early adoption
+permitted.   We continue to evaluate   the effect that adoption of ASU 2024-03 will have on our disclosures.
+HAL   Q1 2026   FORM   10-Q   | 14
+Table of Contents
+Part I. Item 2   | Executive Overview
+Item 2.   Management's Discussion and Analysis of Financial Condition and Results of Operations.
+Management's Discussion and Analysis of Financial Condition and Results of Operations should be read in
+conjunction with the condensed c  onsolidated   financial statements included in Item 1. Financial Statements contained herein.
+EXECUTIVE OVERVIEW
+Organization
+We are one of the world’s largest providers of products and services to the energy industry. We help our customers
+maximize asset value throughout the lifecycle of the reservoir from locating hydrocarbons and managing geological data, to
+drilling and formation evaluation, well construction and completion, and optimizing production throughout the life of the asset.
+Activity levels within our operations are significantly impacted by spending on upstream exploration, development, and
+production programs by major, national, and independent oil and natural gas companies  . We report our results under two
+segments, the Completion and Production segment and the Drilling and Evaluation segment.
+•  Completion and Production delivers cementing, stimulation,   specialty chemicals  , intervention, pressure control,
+artificial lift, and completion products and services. The segment consists of Artificial Lift, Cementing, Completion
+Tools, Multi-Chem, Pipeline and Process Services, Production Enhancement, and Production   Solutions  . During the
+third quarter of 2024, we made a strategic decision to market for sale a portion of our chemical business.   We expect
+the sale to be completed in the second quarter of 2026.
+•  Drilling and Evaluation provides field and reservoir modeling, drilling, fluids, evaluation, and precise wellbore
+placement solutions that enable customers to model, measure, drill, and optimize their well construction activities.
+The segment consists of Baroid, Drill Bits and Services, Halliburton Project Management, Landmark Software and
+Services, Sperry Drilling, Testing and Subsea, and Wireline and Perforating.
+The business operations of our segments are organized around four primary geographic regions: North America, Latin
+America, Europe/Africa/CIS, and Middle East/Asia. We have manufacturing operations in various locations, the most
+significant of which are in the United States, Malaysia, Singapore, and the United Kingdom. With   over 46,000   employees  ,   we
+operate in   more than 70   countries around the world, and our corporate headquarters is in Houston, Texas.
+Our value proposition is to collaborate and engineer solutions to maximize asset value for our customers. We   strive   to
+achieve strong cash flows and returns for our shareholders by delivering technology and services that improve efficiency,
+increase recovery, and maximize production for our customers. Our strategic priorities are to:
+-     International  : Consistently increase international growth in our directional drilling, unconventionals, well
+intervention, and artificial lift businesses. Develop our strategic collaboration with VoltaGrid around behind-the-
+meter power generation.
+-   North America  : Maximize value by, among other things, utilizing our Zeus IQ electric fracturing platform, our
+iCruise rotary steerable systems and LOGIX automation.
+-   Digital  : Continue to drive differentiation and efficiencies through the deployment of digital and automation
+technologies, both internally and for our customers.
+-   Capital efficiency  :   Maintain our capital expenditures at about   $1.1   billion  , while leveraging technology and targeted
+process improvements to enhance utilization of existing capital.
+-   Shareholder returns  : Return   over 50%   of annual free cash flow to shareholders through dividends and share
+repurchases.
+-   Advance a Sustainable Energy Future  : Continue to develop technologies and solutions to help lower our customers’
+and our emissions intensity, grow our low carbon energy business, and support Halliburton Labs early-stage
+company participants.
+HAL   Q1 2026   FORM   10-Q   | 15
+Table of Contents
+Part I. Item 2   | Executive Overview
+The following   charts   depict the revenue split between our two operating segments and our four primary geographic
+regions for the   three months ended     March 31, 2026  .
+Market conditions
+During the first quarter of 2026, the ongoing geopolitical conflict has impacted activity in the Middle East resulting in
+an impact   of $0.02 to $0.03 of diluted net income per share   across both of our segments. Oilfield activity reflected continued
+customer focus on capital discipline and returns, with spending concentrated on projects and programs that improve near-term
+production and operating efficiency. Customer activity levels and spending plans remained sensitive to oil and natural gas price
+volatility and changes in global supply-and-demand fundamentals and were impacted by geopolitical developments, including
+regional conflicts, sanctions, and trade or regulatory actions  .
+Trade tensions and tariffs continue to influence the global demand outlook, with varying impacts across end markets.
+Following a U.S. Supreme Court ruling that invalidated tariffs imposed in 2025 by the Trump Administration on goods from all
+countries, President Trump implemented a 150-day “global tariff” of 10% effective February 24, 2026, using presidential
+powers under Section 122 of the Trade Act of 1974, and indicated a desire to increase such “global tariff” to 15%. Although the
+Section 122 tariffs are due to expire in July, the Trump Administration has initiated processes that could result in new tariffs
+being imposed under other statutes. We continue to monitor and evaluate the effects on goods imported into the United States.
+Oil prices increased in the first quarter of 2026 compared to the fourth quarter of 2025. The West Texas Intermediate
+(WTI) crude oil price averaged approximately     $72   per barrel during the first quarter of 2026  , compared to approximately $60
+per barrel during the fourth quarter of 2025, or a 20% increase.   The Brent crude oil price averaged approximately   $80   per barrel
+during the first quarter of 2026, compared to approximately $64 per barrel during the fourth quarter, or a 25% increase.
+Globally, we continue to be impacted by inflationary cost increases, primarily related to logistics, chemicals, and
+cement, we manage these pressures through global procurement strategies, technology modifications, and sourcing efficiencies.
+As a standard practice, we generally seek to pass a portion of these cost increases on to our customers and believe we have
+effective solutions in place to minimize their operational impact.
+HAL   Q1 2026   FORM   10-Q   | 16
+Table of Contents
+Part I. Item 2   | Executive Overview
+Financial results
+The   following graph   illustrates our revenue and operating margins for each operating segment for the   first   quarter of
+2025   and   2026  .
+During the   first   quarter of   2026  , we generated total company revenue of   $5.4 billion  , relatively flat a  s compared to the
+first   quarter of   2025  .   We reported operating income of     $679 million  ,   in the   first   quarter of   2026  , as   co  mpared   to operating
+income of   $431 million   in the   first   quarter of   2025  , including impairments and other charges of   $356 million  .
+Our Completion and Production segment revenue   decreased     3%   in the   first   quarter of   2026  , as compared to the   first
+quarter of   2025  .     These results were primarily driven by lower stimulation activity in North America,   and   lower completion tool
+sales and decreased pressure pumping services in the Middle East. Partially offsetting these decreases were higher completion
+tool sales in the Western Hemisphere, and improved pressure pumping services in Africa.
+Our Drilling and Evaluation segment revenue     increased     4%     in the   first   quarter of   2026   as compared to the   first   quarter
+of   2025  .     These results   were primarily driven by higher project management activity in Latin America and increased drilling-
+related services in Europe and the Western Hemisphere. Partially offsetting these increases were lower activity across multiple
+product service lines in the Middle East, lower wireline activity in the Eastern Hemisphere, and decreased fluid services in the
+Gulf of America.
+Both divisional results were negatively impacted by the geopolitical conflict in the Middle East.
+Our North America revenue decreased   4%   in the   first   quarter of   2026   as compared to the   first   quarter of   2025  . This
+decline was primarily driven by lower stimulation activity and decreased artificial lift activity in US Land, and lower
+stimulation activity and decreased fluid services in the Gulf of America. Partially offsetting these decreases were increased
+drilling-related services in US Land and higher completion tool sales in the region.
+Internationally, revenue   increased     3%   in the   first   quarter of   2026   as compared to the   first   quarter of   2025  ,     largely
+driven   by improved   activity across multiple product service lines in Ecuador, the Caribbean, and Brazil, higher stimulation
+activity in Mexico and Argentina, increased drilling-related services and higher completion tool sales in Norway, and improved
+pressure pumping services in Angola. Offsetting these increases were lower activity across multiple product service lines in the
+Middle East and decreased drilling-related services in Namibia.
+Our operating performance and liquidity are described in more detail in “Liquidity and Capital Resources” and
+“Business Environment and Results of Operations.”
+HAL   Q1 2026   FORM   10-Q   | 17
+Table of Contents
+Part I. Item 2   | Liquidity and Capital Resources
+L  IQUIDITY AND CAPITAL RESOURCES
+As of   March 31, 2026  , we had   $2.0 billion   of cash and equivalents, compared to   $2.2 billion   of cash and equivalents at
+December 31, 2025  .
+Significant sources and uses of cash   during the first three months of   2026
+Sources of cash:
+•  Cash flows from operating activities were   $273 million  . Working capital, which consists of receivables,
+inventories, and accounts payable, collectively had   a negative   impact of   $252 million  .
+Uses of cash:
+•  Capital   expenditures   were   $192 million  .
+•  We repurchased   2.8 million   shares of our common stock for   $100 million  .
+•  We paid   $142 million   of dividends to our shareholders.
+Future sources and uses of   cash
+We manufacture most of our own equipment, which provides us with some flexibility to increase or decrease our
+capital expenditures based on market conditions.   We currently expect capital spending for 2026 to be approximately     $1.1
+billion  . We believe this level of spending will enable continued investment in our core strategic technologies and businesses  ,
+including the international expansion of our artificial lift, well intervention, unconventionals, and drilling technologies. We will
+continue to maintain capital discipline and monitor the rapidly changing market dynamics, and we may adjust our capital
+spending accordingly.
+While we maintain focus on liquidity and debt reduction, we are also focused on providing cash returns to our
+shareholders. Our quarterly dividend rate is   $0.17   per common share  , or approximately   $142 million  . In 2023, our Board
+approved a capital return framework with a goal of   returning at least 50% of our annual free cash flow to shareholders through
+dividends and share repurchases and we expect our returns to shareholders will be in line with our capital return framework for
+2026  .
+We may utilize share repurchases as part of our capital return framework. Our Board of Directors has authorized a
+program to repurchase our common stock from time to time.   We repurchased   2.8 million   shares of common stock during the
+first quarter of     2026   under this program. Approximately   $1.9 billion   remained authorized for repurchases as of   March 31, 2026
+and may be used for open market and other share purchases.
+During 2023, we began our migration to SAP S4 which we expect to complete in the   fourth quarter of   2026  .   During
+the   three months ended     March 31, 2026  , w  e incurred     $42 million   in expense on our SAP S4 migration and expect the estimated
+cost to be approximately $45 million per quarter going forward.   We believe the new system will provide important efficiency
+benefits, cost savings, enhanced visibility to our operations, and advanced analytics that will benefit us and our customers.
+We may, from time to time, redeem, repurchase, or otherwise acquire our outstanding debt through privately
+negotiated transactions, open market purchases, redemptions  , tender offers or otherwise, but we are u  nder no obligation to do
+so.
+Other factors affecting   liquidity
+Financial   condition in current market.   As of   March 31, 2026  , we had   $2.0 billion   of cash and equivalents and   $3.5
+billion   of available committed bank credit under our revolving credit facility  ,   with an expiration date of August 16, 2030.   We
+believe we have a manageable debt maturity profile, with   approximately   $90 million   due February 2027  .     Furthermore,   we have
+no financial covenants or material adverse change provisions in our bank agreements  ,   and our debt maturities extend over a
+long period of time.   We believe our cash on hand, cash flows generated from operations, and our available credit facility will
+provide   sufficient liquidity to address expected global cash needs  , including capital expenditures, working capital investments,
+shareholder returns, if any, debt repurchases, if any, and scheduled interest and principal payments,   in the short term and long
+term.
+Guarantee agreements  .   In the normal course of business, we have agreements with financial institutions under which
+approximately     $3.2 billion     of letters of credit, bank guarantees, or surety bonds were outstanding as of   March 31, 2026  . Some
+of the outstanding letters of credit have triggering events that would entitle a bank to require cash collateralization; however,
+none of these triggering events have occurred.   As of   March 31, 2026  , we had no material off-balance sheet liabilities and were
+not required to make any material cash distributions to our unconsolidated subsidiaries.
+HAL   Q1 2026   FORM   10-Q   | 18
+Table of Contents
+Part I. Item 2   | Liquidity and Capital Resources
+We have entered into credit default swaps   (CDSs)   with third-party financial institutions that have an aggregate
+notional amount   outstanding as of   March 31, 2026   of   $374 million  , compared to an aggregate notional amount outstanding as
+of   December 31, 2025   of   $592 million  ,     related to borrowings provided by the financial institutions to one of our primary
+customers in Mexico, of which portions of the proceeds were utilized by this customer to pay certain of our outstanding
+receivables.   Approximately   $331 million   of the outstanding amount of the CDSs reduces monthly over its remaining     6  -  month
+term and   $43 million     reduces monthly over its remaining   3  -month term  .
+Credit ratings  .   Our credit ratings with Standard & Poor’s   remain BBB+ for our long-term debt and A-2 f  or our short-
+term debt, with a stable outlook. Our credit ratings with Moody's Investors Service remain A3 for our long  -term debt and P-2
+for our short-term debt, with a stable outlook.
+Customer receivables  .   In line with industry practice, we bill our customers for our services in arrears and are,
+therefore, subject to our customers delaying or failing to pay our invoices. In weak economic environments, we may experience
+increased delays and failures to pay our invoices due to, among other reasons, a reduction in our customers’ cash flow from
+operations and their access to the credit markets, as well as unsettled political condi  tions.
+Receivables from our primary customer in Mexico accounted for approximately   7%   of our total receivables as of both
+March 31, 2026   and   December 31, 2025  . While we have experienced payment delays from our primary customer in Mexico,
+the amounts are not in dispute and we have not historically had, and we do not expect, any material write-offs due to
+collectability of receivables from this customer.
+HAL   Q1 2026   FORM   10-Q   | 19
+Table of Contents
+Part I. Item 2   | Business Environment and Results of Operations
+BUSINESS ENVIRONMENT AND RESULTS OF OPERATIONS
+We operate in   more than 70   countries   throughout the world to provide a comprehensive range of services and products
+to the energy industry. Our revenue is generated from the sale of services and products to major, national, and independent oil
+and natural gas companies worldwide. The industry we serve is highly competitive with many substantial competitors in each
+segment of our business.   B  ased on the location of the services provided and products sold  ,   37%   and   39%   of our consolidated
+revenue was from the United States for the   three months ended     March 31, 2026   and   2025  , respectively  .   No other country
+accounted for more than 10% of our revenue   for those periods.
+Activity within our business segments is significantly impacted by spending on upstream exploration, development,
+and production programs by our customers. Also impacting our activity is the status of the global economy, which impacts oil
+and natural gas consumption.
+Some of the more significant determinants of current and future spending levels of our customers are oil and natural
+gas prices, our customers’ expectations about future prices, global oil supply and demand, the impact on natural gas supply and
+demand in North America of electrification and data centers power requirements, completions   intensity  , the world economy, the
+availability of capital, government regulation, and global stability, which together drive worldwide drilling and completions
+activity.   Lower oil and natural gas prices usually translate into lower exploration and production budgets and lower rig count,
+while the opposite is usually true for higher oil and natural gas prices. Our financial performance is therefore significantly
+affected by oil and natural gas prices and worldwide rig activity, which are summarized in the tables below.
+The table below shows the average prices for West Texas Intermediate (W  TI) crude oil, United K  ingdom Brent crude
+oil, and Henry Hub natural gas.
+Three Months Ended
+Year Ended
+March 31,
+December 31,
+2026
+2025
+2025
+Oil Price - WTI   (1)
+$    71.98
+$    71.84
+$    65.46
+Oil Price - Brent   (1)
+80.21
+75.81
+69.10
+Natural Gas Price - Henry Hub   (2)
+4.79
+4.15
+3.53
+(1)
+Oil prices measured in dollars per barrel.
+(2)
+Natural gas price measured in dollars per million British thermal units (Btu), or MMBtu.
+The historical average rig counts based on the weekly Baker Hughes rig count data w  ere as follows:
+Three Months Ended
+Year Ended
+March 31,
+December 31,
+2026
+2025
+2025
+US Land
+532
+573
+546
+US Offshore
+16
+15
+15
+Canada
+209
+216
+175
+North America
+757
+804
+736
+International   (1)
+1,083
+1,097
+1,080
+Worldwide Total
+1,840
+1,901
+1,816
+(1)
+For the three months ended March 31, 2025, historical average rig counts shown are based on data
+provided by Baker Hughes, which included retroactive adjustments to international rig counts
+previously reported as a result of a methodology change.
+HAL   Q1 2026   FORM   10-Q   | 20
+Table of Contents
+Part I. Item 2   | Business Environment and Results of Operations
+Business   outlook
+We expect   oilfield services activity to be supported by continued customer focus on capital discipline, production
+optimization, and efficiency‑driven investment across both international and North America markets.   While we continue to
+experience operational disruptions   in the Middle East, including work cancellations, force‑majeure declarations, reduced
+offshore activity, and   higher logistics costs  , the majority of   our operations   remain active  .
+Outside the Middle East, our outlook remains positive. International activity is expected to grow in the mid‑to‑high
+single digits for the full year 2026, led by strong customer engagement and investment in Latin America and continued
+momentum in offshore markets.
+In North America, we see early signs of a services‑market recovery as customers accelerate development within
+existing budgets and reduce calendar white‑space. Depleted drilled‑but‑uncompleted well inventories are expected to support
+additional drilling activity, and demand for differentiated technologies, including electric fracturing and automated
+well‑construction solutions, continues to increase.
+We expect broader market fundamentals to remain supportive, although customer spending and activity levels may be
+influenced by volatility in oil and natural gas prices, changes in global supply‑and‑demand dynamics, inflationary cost
+pressures, and geopolitical developments. These factors, including regional conflicts, sanctions, and regulatory or trade
+changes, may affect project timing, supply chains, and access to certain markets  .
+HAL   Q1 2026   FORM   10-Q   | 21
+Table of Contents
+Part I. Item 2   | Results of Operations in   2026   Compared to   2025   (QTD)
+RESULTS OF OPERATIONS IN   2026   COMPARED TO   2025
+Three Months Ended     March 31, 2026   Compared with   Three Months Ended     March 31, 2025
+Three Months Ended
+March 31,
+Favorable
+Percentage
+Millions of dollars
+2026
+2025
+(Unfavorable)
+Change
+Revenue:
+By operating segment:
+Completion and Production
+$    3,016
+$    3,120
+$    (104)
+(3)  %
+Drilling and Evaluation
+2,386
+2,297
+89
+4
+Total revenue
+$    5,402
+$    5,417
+$    (15)
+—    %
+By geographic region:
+North America
+$    2,136
+$    2,236
+$    (100)
+(4)  %
+Latin America
+1,090
+896
+194
+22
+Europe/Africa/CIS
+858
+775
+83
+11
+Middle East/Asia
+1,318
+1,510
+(192)
+(13)
+Total revenue
+$    5,402
+$    5,417
+$    (15)
+—    %
+Operating income:
+By operating segment:
+Completion and Production
+$    439
+$    531
+$    (92)
+(17)  %
+Drilling and Evaluation
+351
+352
+(1)
+—
+Total operations
+790
+883
+(93)
+(11)
+Corporate and other
+(69)
+(66)
+(3)
+(5)
+SAP S4 upgrade expense
+(42)
+(30)
+(12)
+(40)
+Impairments and other charges
+—
+(356)
+356
+n/m
+Total operating income
+$    679
+$    431
+$    248
+58    %
+n/m = not meaningful
+Operating Segments
+Completion and Production
+Completion and Production revenue in the   first   quarter of   2026   was   $3.0 billion  ,   a decrease   of   $104 million  , or   3%  ,
+when compared to the   first   quarter of   2025  . Operating income in the   first   quarter of   2026   was   $439 million  ,   a decrease   of   $92
+million  , or   17%  , when compared to the   first   quarter of   2025  .   These results were primarily driven by lower stimulation activity
+in North America, and lower completion tool sales and decreased pressure pumping services in the Middle East. Partially
+offsetting these decreases were higher completion tool sales in the Western Hemisphere, and improved pressure pumping
+services in Africa.
+Drilling and Evaluation
+Drilling and Evaluation revenue in the   first   quarter of   2026   was   $2.4 billion  ,   an increase   of   $89 million  , or   4%  , when
+compared to the   first   quarter of   2025  . Operating income in the   first   quarter of   2026   was   $351 million  ,   flat   when compared to the
+first   quarter of   2025  . These results were primarily driven by higher project management activity in Latin America and increased
+drilling-related services in Europe and the Western Hemisphere. Partially offsetting these increases were lower activity across
+multiple product service lines in the Middle East, lower wireline activity in the Eastern Hemisphere, and decreased fluid
+services in the Gulf of America.
+In   the   first quarter of 2026  , the geopolitical conflict in the Middle East affected both of our operating segments, with
+a  n impact of $0.02 to $0.03 of diluted net income per share.
+HAL   Q1 2026   FORM   10-Q   | 22
+Table of Contents
+Part I. Item 2   | Results of Operations in   2026   Compared to   2025     (QTD)
+Geographic Regions
+North America
+North America revenue in the   first   quarter of   2026   was   $2.1 billion  , a   4%   decrease, as compared to the   first   quarter of
+2025  . This decline was primarily driven by lower stimulation activity and decreased artificial lift activity in US Land, and lower
+stimulation activity and decreased fluid services in the Gulf of America. Partially offsetting these decreases were increased
+drilling-related services in US Land and higher completion tool sales in the region.
+Latin America
+Latin America revenue in the   first   quarter of   2026   was   $1.1 billion  ,   a   22%     increase   compared to the   first   quarter of
+2025  .   This increase was primarily driven by higher activity across multiple product service lines in Ecuador, the Caribbean, and
+Brazil, and improved stimulation activity in Mexico and Argentina. Partially offsetting these increases were lower project
+management activity and decreased drilling-related services in Mexico.
+Europe/Africa/CIS
+Europe/Africa/CIS revenue in the   first   quarter of   2026   was   $858 million  , an   11%     increase   compared to the   first   quarter
+of   2025  .   This increase was primarily driven by increased drilling-related services and higher completion tool sales in Norway,
+and improved pressure pumping services in Angola. Partially offsetting these increases were lower completion tool sales in the
+Caspian Area and decreased drilling-related services in Namibia.
+Middle East/Asia
+Middle East/Asia revenue in the   first   quarter of   2026   was   $1.3 billion  , a   13%     decrease   compared to the   first   quarter of
+2025  .   This decrease was primarily driven by conflict-related disruptions that resulted in lower activity across multiple product
+service lines in Saudi Arabia and decreased drilling-related services in Qatar. Partially offsetting these decreases were higher
+completion tool sales and improved fluid services in Asia.
+Other Operating Items
+SAP S4 Upgrade Expense.   As previously mentioned, during 2023, we began our migration to SAP S4, which we
+expect to complete in   the fourth quarter   of 2026  . During the   first   quarter of   2026  , we recognized   $42 million   of expense on our
+SAP S4 migration. During the   first   quarter of   2025  , we recognized   $30 million   of expense on our SAP S4 migration.
+Impairments   and Other Charges  .      During the three months ended    March 31, 2026  , there were no amounts recorded in
+impairments and other charges. During the   three months ended     March 31, 2025  ,   we took a pre-tax charge of   $356 million
+primarily related to severance costs, an impairment of assets held for sale, an impairment of facility closures and lease
+terminations, and other items. See Notes to   Condensed Consolidated   Financial Statements, Note   2     for further discussion of
+these charges.
+Nonoperating Items
+Pension Settlement Charges from Plan Terminations.   During the   three months ended     March 31, 2026  , the Company
+entered into agreements to transfer certain defined benefit pension obligations to third-party insurers in connection with plan
+terminations. As a result, the Company recognized approximately $23 million of non-cash pension settlement charges,
+primarily related to the acceleration of actuarial losses previously recorded in accumulated other comprehensive income. This is
+included in “Other, net” on the   Condensed Consolidated   Statements of Operations.
+Income Tax Provision  .     During the   three months ended     March 31, 2026  , we recorded a total income tax provision of
+$105 million   on a pre-tax income of   $569 million  , resulting in an effective tax rate of   18.5%     fo  r t  he quarte  r. The effective tax
+rate for this period was primarily impacted by the re  lease of a valuation allowance in the amount of $32 million related to
+changes in deferred   tax asset realizability  .   During   the   three months ended     March 31, 2025  , we recorded a total income tax
+provision of   $103 million   on a pre-tax income of   $306 million  , resulting in an effective tax rate of   33.7%   for the quarter  . The
+effective tax rate for this period   was primarily impacted by the additional valuation allowance recognized on our deferred tax
+assets, which resulted from the pre-tax $356 million of impairments and other charges.
+Pillar   Two  .     The Organization for Economic Co-operation and Development enacted model rules for a new global
+minimum tax framework, also known as Pillar Two, and certain governments globally have enacted, or are in the process of
+enacting, legislation considering these model rules. These rules did not have a material impact on our taxes for the   three months
+ended     March 31, 2026   and   2025  .
+HAL   Q1 2026   FORM   10-Q   | 23
+Table of Contents
+Part I. Item 2   | Results of Operations in   2026   Compared to   2025     (QTD)
+Internal Revenue Service Notice of Proposed   Adjustment  .     We are subject to taxes in the United States and in numerous
+jurisdictions where we operate or where our subsidiaries are organized. Our tax returns are routinely subject to examination by
+the taxing authorities in the jurisdictions where we file tax returns. In most cases we are no longer subject to examination by tax
+authorities for years   before 2014  . The only significant operating jurisdiction that has tax filings under review or subject to
+examination by the tax authorities is the United States. Our United States federal income tax filings for tax years   2016 through
+2024, including carry back of 2016 net operating losses to 2014  , are currently under review or remain open for review by the
+IRS.
+On September 28, 2023, we received a NOPA from the IRS covering our 2016 U.S. tax return. The NOPA proposed
+an adjustment to reclassify approximately 95% of the $3.5 billion termination fee paid to Baker Hughes in 2016 from an
+ordinary expense deduction to a capital loss. The termination fee was paid to Baker Hughes under the merger agreement after
+antitrust regulators in multiple jurisdictions failed to approve our proposed merger. It is common commercial practice to include
+a termination fee in a merger agreement to compensate the target for damages incurred when the acquisition does not go
+forward. The IRS’s long-understood position at the time of payment had been to treat such payments as an ordinary and
+necessary business expense. We strongly disagree with the proposed adjustment on both a factual and legal basis, and we plan
+to vigorously contest it.
+We expect that resolving this dispute will take substantial time. In 2023, we initiated the IRS administrative appeals
+process, which is ongoing. Failing a resolution through that process, the matter would ultimately be resolved by the United
+States federal courts.
+We regularly assess the likelihood of adverse outcomes resulting from tax examinations to determine the adequacy of
+our tax reserves, and we believe our income tax reserves are appropriately provided for all open tax years. We cannot assure
+you that the matter will be determined in our favor or against us, and if the matter is ultimately determined unfavorably to us, it
+could have a material adverse impact on our results of operations and cash flows. Based on tax attributes currently available, we
+estimate that, should the IRS's position prevail through the appellate process and subsequent litigation, the proposed adjustment
+could result in cash taxes due of approximately        $640 m    illion        (plus interest thereon in the case of amounts due for previous tax
+years). Our estimates are calculated under current tax law and on the basis of our assumptions regarding taxable income and
+loss and other tax attributes over the relevant period, which law could change and which assumptions could and likely will
+differ materially from actual results. In any event, no payment of any additional tax is currently required, nor do we anticipate
+that the proposed adjustment would materially and adversely impact our ability to meet our expected uses of cash, including
+future capital expenditures, working capital investments, and scheduled debt repayments, or our ability to return cash to
+shareholders, even if a final determination of the matter is reached that is adverse to us.
+HAL   Q1 2026   FORM   10-Q   | 24
+Table of Contents
+Part I. Item 2   | Forward-Looking Information
+FORWARD-LOOKING INFORMATION
+The Private Securities Litigation Reform Act of 1995 provides safe harbor provisions for forward-looking information.
+Forward-looking information is based on projections and estimates, not historical information. Some statements in this Form
+10-Q  , inc  luding those in   Item 2.   Management’s Discussion and Analysis of Financial Condition and Results of Operations –
+Business Environment and Results of Operations – Business Outlook, are forward-looking and use words like “may,” “may
+not,” “believe,” “do not believe,” “plan,” “estimate,” “intend,” “expect,” “do not expect,” “anticipate,” “do not anticipate,”
+“should,” “likely,” and other expressions. We may also provide oral or written forward-looking information in our statements
+and other materials we release to the public. Forward-looking information involves risks and uncertainties and reflects our best
+judgment based on current information. Our results of operations can be affected by inaccurate assumptions we make or by
+known or unknown risks and uncertainties. In addition, other factors may affect the accuracy of our forward-looking
+information. As a result, no forward-looking information can be guaranteed. Actual events and the results of our operations may
+vary materially.
+We do not assume any responsibility to publicly update any of our forward-looking statements regardless of whether
+factors change as a result of new information, future events, or for any other reason, except as required by law. You should
+review any additional disclosures we make in our press releases and Forms 10-K, 10-Q, and 8-K filed with or furnished to the
+Securities and Exchange Commission. We also suggest that you listen to our quarterly earnings release conference calls with
+financial analysts.
+NEW ACCOUNTING STANDARDS NOT YET ADOPTED
+See Notes to   Condensed Consolidated   Financial Statements, Note 12 for further discussion of accounting standards
+adopted during the quarter and to be adopted in future periods.
+Item 3.   Quantitative and Qualitative Disclosures About Market Risk  .
+For quantitative and qualitative disclosures about market risk, see Part II, Item 7(a), “  Quantitative and Qualitative
+Disclosures About Market Risk  ,” in our   2025   Annual Report on Form 10-K. Our exposure to market risk has not changed
+materially since   December 31, 2025  .
+Item 4.   Controls and Procedures.
+In accordance with the Securities Exchange Act of 1934 Rules 13a-15 and 15d-15, we carried out an evaluation, under
+the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, of
+the effectiveness of our disclosure controls and procedures as of the end of the period covered by this report. Based on that
+evaluation, our Chief Executive Off  icer and Chief Financial Officer concluded that our disclosure controls and procedures were
+effective as of   March 31, 2026   to provide reasonable assurance that information required to be disclosed in our reports filed or
+submitted under the Exchange Act is recorded, processed, summarized, and reported   within the time periods specified in the
+Securities and Exchange Commission’s rules and forms. Our disclosure controls and procedures include controls and
+procedures designed to ensure that information required to be disclosed in reports filed or submitted under the Exchange Act is
+accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as
+appropriate, to allow timely decisions regarding required disclosure.
+There has been no change in our internal control over financial reporting that occurred during the quarter ended
+March 31, 2026   that has materially affected, or is reasonably likely to materially affect, our internal control over financial
+reporting.
+HAL   Q1 2026   FORM   10-Q   | 25
+Table of Contents
+Part II. Item 1 | Legal Proceedings
+PART II. OTHER INFORMATION
+Item 1.   Legal Proceedings.
+See Notes to   Condensed Consolidated   Financial Statements, Note   9   for further information regarding legal
+proceedings.
+Item 1(a).     Risk Factors.
+The statements in this section describe the known material risks to our business and should be considered carefully. As
+of   March 31, 2026  , there have been no material changes in risk factors previously disclosed in our Annual Report on Form 10-
+K for the fiscal year ended   December 31, 2025  .
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+Following is a summary of our repurchases of our common stock during the   three months ended     March 31, 2026  .
+Period
+Total Number
+of Shares
+Purchased (a)
+Average
+Price Paid per Share
+Total Number
+of Shares
+Purchased as
+Part of Publicly
+Announced Plans or
+Programs (b)
+Maximum
+Number (or
+Approximate
+Dollar Value) of
+Shares that may yet
+be Purchased Under
+the Program (b)
+January 1 - 31
+289,276
+$29.67
+—
+$2,049,168,144
+February 1 - 28
+991,682
+$35.20
+969,000
+$2,015,004,883
+March 1 - 31
+2,036,724
+$35.18
+1,873,433
+$1,949,168,163
+Total
+3,317,682
+$34.71
+2,842,433
+(a)
+Of the   3,317,682   shares purchased during the three-month period ended   March 31, 2026  ,   475,249   were acquired from employees
+in connection with the settlement of income tax and related benefit withholding obligations arising from vesting in restricted stock
+grants. These shares were not part of a publicly announced program to repurchase common stock.
+(b)
+Our Board of Directors has authorized a program to repurchase a specified dollar amount of our common stock from time to time.
+On July 21, 2014, our Board of Directors announced that it had approved an increase in the total available outstanding
+authorization for repurchases to $6.0 billion. Approximately   $1.9 billion   remained authorized for repurchases as of   March 31,
+2026  . From the inception of this program in February of 2006 through   March 31, 2026  , we repurchased approximately   329 million
+shares of our common stock for a total cost of approximately   $12.2 billion  . The program may be terminated or suspended at any
+time and does not have a specified expiration date.
+Item 3. Defaults Upon Senior Securities.
+None.
+Item 4.     Mine Safety Disclosures.
+Our barite and bentonite mining operations, in support of our fluid services business, are subject to regulation by the
+U.S.   Mine Safety and Health Administration   under the   Federal Mine Safety and Health Act of 1977  . Information concerning
+mine safety violations or other regulatory matters required by section 1503(a) of the Dodd-Frank Wall Street Reform and
+Consumer Protection Act and Item 104 of Regulation S-K (17 CFR 229.104) is included in Exhibit 95 to this   quarterly   report.
+Item 5.   Other Information.
+During the quarter   ended     March 31, 2026  ,   the following officers of the Company    adopte  d    or     terminated     a “Rule
+10b5-1 trading arrangement” or “non-Rule 10b5-1 trading arrangement,” as each term is defined in Item 408 of Regulation S-K,
+and no trading arrangements were adopted or terminated by directors of the Company.
+Reporting Officer
+Title
+Reporting
+Action
+Plan Adoption
+Date
+Plan End Date
+Aggregated Shares
+Covered
+Intended to Satisfy
+Rule 10b5-1?
+M. Casey Maxwell
+President, Western
+Hemisphere
+Plan Adoption
+2/3/2026
+8/14/2026
+20,348
+Yes
+Eric J. Carre
+Executive Vice
+President and Chief
+Financial Officer
+Plan Adoption
+3/18/2026
+8/14/2026
+188,957
+Yes
+HAL   Q1 2026   FORM   10-Q   | 26
+Table of Contents
+Part II. Item 6 | Exhibits
+Item 6.   Exhibits.
+†
+10.1
+Executive Agreement (effective February 1, 2026) (M. Casey Maxwell) (incorporated by reference to
+Exhibit 10.1 of Halliburton’s Form 8-K filed on January 14, 2026, File No. 001-03492).
+*
+31.1
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+*
+31.2
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+**
+32.1
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+**
+32.2
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+*
+95
+Mine Safety Disclosures.
+*
+101.INS
+XBRL Instance Document - the instance document does not appear in the Interactive Data File because its
+XBRL tags are embedded within the Inline XBRL document
+*
+101.SCH
+XBRL Taxonomy Extension Schema Document
+*
+101.CAL
+XBRL Taxonomy Extension Calculation Linkbase Document
+*
+101.LAB
+XBRL Taxonomy Extension Label Linkbase Document
+*
+101.PRE
+XBRL Taxonomy Extension Presentation Linkbase Document
+*
+101.DEF
+XBRL Taxonomy Extension Definition Linkbase Document
+*
+104
+Cover Page Interactive Data File - the cover page interactive data file does not appear in the Interactive Data
+File because its XBRL tags are embedded within the Inline XBRL document
+*
+Filed with this Form 10-Q.
+**
+Furnished with this Form 10-Q.
+†
+Management contracts or compensatory plans or arrangements.
+HAL   Q1 2026   FORM   10-Q   | 27
+Table of Contents
+SIGNATURES
+Pursuant to the requiremen  ts   of the Securities Exchange Act of 1934, the registrant has duly caused this report to be
+signed on its behalf by the undersigned thereunto duly authorized.
+HALLIBURTON COMPANY
+/s/ Eric J. Carre
+/s/ Stephanie S. Holzhauser
+Eric J. Carre
+Stephanie S. Holzhauser
+Executive Vice President and
+Senior Vice President and
+Chief Financial Officer
+Chief Accounting Officer
+Date:   April 24, 2026

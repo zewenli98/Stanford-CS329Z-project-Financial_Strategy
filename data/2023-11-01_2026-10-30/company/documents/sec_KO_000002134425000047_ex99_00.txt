@@ -1,0 +1,274 @@
+XML
+112
+R99.htm
+IDEA: XBRL DOCUMENT
+v3.25.2
+PENSION AND OTHER POSTRETIREMENT BENEFIT PLANS - Certain weighted average assumptions used in computing the benefit obligations and net periodic benefit cost (Details)
+12 Months Ended
+Dec. 31, 2024
+Dec. 31, 2023
+Dec. 31, 2022
+Pension plans
+Weighted average assumptions used in computing the benefit obligations
+Discount rate (as a percent)
+5.50%
+5.00%
+Interest Crediting Rate
+4.25%
+3.75%
+Rate of increase in compensation levels (as a percent)
+4.00%
+4.00%
+Weighted-average assumptions used in computing net periodic benefit cost
+Discount rate (as a percent)
+5.00%
+5.50%
+3.00%
+Interest Crediting Rate
+3.75%
+4.00%
+3.00%
+Rate of increase in compensation levels (as a percent)
+4.00%
+3.75%
+3.75%
+Expected Long-term Rate of Return on Plan Assets
+7.00%
+6.75%
+7.00%
+Other postretirement benefit plans
+Weighted average assumptions used in computing the benefit obligations
+Discount rate (as a percent)
+6.75%
+6.25%
+Weighted-average assumptions used in computing net periodic benefit cost
+Discount rate (as a percent)
+6.25%
+6.00%
+3.25%
+Expected Long-term Rate of Return on Plan Assets
+4.50%
+3.75%
+4.00%
+X
+- Definition
+Weighted average rate for present value of future retirement benefits cash flows, used to determine benefit obligation of defined benefit plan.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 715
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1
+-Subparagraph (k)(1)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480506/715-20-50-1
++ Details
+Name:
+us-gaap_DefinedBenefitPlanAssumptionsUsedCalculatingBenefitObligationDiscountRate
+Namespace Prefix:
+us-gaap_
+Data Type:
+dtr-types:percentItemType
+Balance Type:
+na
+Period Type:
+instant
+X
+- Definition
+Weighted average rate increase of compensation, used to determine benefit obligation of defined benefit plan. Plan includes, but is not limited to, pay-related defined benefit plan.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 715
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1
+-Subparagraph (k)(2)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480506/715-20-50-1
++ Details
+Name:
+us-gaap_DefinedBenefitPlanAssumptionsUsedCalculatingBenefitObligationRateOfCompensationIncrease
+Namespace Prefix:
+us-gaap_
+Data Type:
+dtr-types:percentItemType
+Balance Type:
+na
+Period Type:
+instant
+X
+- Definition
+Weighted-average interest crediting rate used to determine benefit obligation of defined benefit plan. Plan includes, but is not limited to, cash balance and other defined benefit plans with promised interest crediting rate.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 715
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1
+-Subparagraph (k)(4)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480506/715-20-50-1
++ Details
+Name:
+us-gaap_DefinedBenefitPlanAssumptionsUsedCalculatingBenefitObligationWeightedAverageInterestCreditingRate
+Namespace Prefix:
+us-gaap_
+Data Type:
+dtr-types:percentItemType
+Balance Type:
+na
+Period Type:
+instant
+X
+- Definition
+Weighted average rate for present value of future retirement benefits cash flows, used to determine net periodic benefit cost of defined benefit plan.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 715
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1
+-Subparagraph (k)(1)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480506/715-20-50-1
++ Details
+Name:
+us-gaap_DefinedBenefitPlanAssumptionsUsedCalculatingNetPeriodicBenefitCostDiscountRate
+Namespace Prefix:
+us-gaap_
+Data Type:
+dtr-types:percentItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Weighted average rate of return on plan assets, reflecting average rate of earnings expected on existing plan assets and expected contributions, used to determine net periodic benefit cost of defined benefit plan.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 715
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 8
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480506/715-20-50-8
+Reference 2: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 715
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1
+-Subparagraph (k)(3)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480506/715-20-50-1
++ Details
+Name:
+us-gaap_DefinedBenefitPlanAssumptionsUsedCalculatingNetPeriodicBenefitCostExpectedLongTermReturnOnAssets
+Namespace Prefix:
+us-gaap_
+Data Type:
+dtr-types:percentItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Weighted average rate of compensation increase used to determine net periodic benefit cost of defined benefit plan. Plan includes, but is not limited to, pay-related defined benefit plan.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 715
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1
+-Subparagraph (k)(2)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480506/715-20-50-1
++ Details
+Name:
+us-gaap_DefinedBenefitPlanAssumptionsUsedCalculatingNetPeriodicBenefitCostRateOfCompensationIncrease
+Namespace Prefix:
+us-gaap_
+Data Type:
+dtr-types:percentItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Weighted-average interest crediting rate used to determine net periodic benefit cost of defined benefit plan. Plan includes, but is not limited to, cash balance and other defined benefit plans with promised interest crediting rate.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 715
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1
+-Subparagraph (k)(4)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147480506/715-20-50-1
++ Details
+Name:
+us-gaap_DefinedBenefitPlanAssumptionsUsedCalculatingNetPeriodicBenefitCostWeightedAverageInterestCreditingRate
+Namespace Prefix:
+us-gaap_
+Data Type:
+dtr-types:percentItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- References
+No definition available.
++ Details
+Name:
+us-gaap_DefinedBenefitPlanWeightedAverageAssumptionsUsedInCalculatingBenefitObligationAbstract
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- References
+No definition available.
++ Details
+Name:
+us-gaap_DefinedBenefitPlanWeightedAverageAssumptionsUsedInCalculatingNetPeriodicBenefitCostAbstract
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Details
+Name:
+us-gaap_RetirementPlanTypeAxis=us-gaap_PensionPlansDefinedBenefitMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_RetirementPlanTypeAxis=us-gaap_OtherPostretirementBenefitPlansDefinedBenefitMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:

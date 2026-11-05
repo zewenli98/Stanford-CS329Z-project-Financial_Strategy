@@ -1,0 +1,198 @@
+XML
+107
+R99.htm
+IDEA: XBRL DOCUMENT
+v3.23.3
+Regulatory Matters - Schedule of Additional Significant Riders Associated with Virginia Power Projects (Parenthetical) (Detail) - Virginia Electric and Power Company - USD ($)
+$ in Millions
+1 Months Ended
+6 Months Ended
+Jul. 31, 2023
+May 31, 2023
+Apr. 30, 2023
+Jun. 30, 2023
+Rider T1
+Public Utilities General Disclosures [Line Items]
+Total revenue requirement
+[1]
+$ 879
+Rider T1 | Operating Segments | Virginia Regulation
+Public Utilities General Disclosures [Line Items]
+Total revenue requirement
+369
+Rider T1 | Operating Segments | Virginia Regulation | Transmission Component Of Virginia Powers
+Public Utilities General Disclosures [Line Items]
+Total revenue requirement
+510
+Rider GV
+Public Utilities General Disclosures [Line Items]
+Total revenue requirement
+[2]
+135
+Rider GV | Rate Years Beginning
+Public Utilities General Disclosures [Line Items]
+Total revenue requirement
+144
+Rider GV | Operating Segments
+Public Utilities General Disclosures [Line Items]
+Total revenue requirement
+148
+Rider SNA
+Public Utilities General Disclosures [Line Items]
+Total revenue requirement
+[3]
+50
+Rider SNA | Operating Segments | Virginia Regulation | First Phase Of Nuclear Life Extension Program
+Public Utilities General Disclosures [Line Items]
+Projected capital investment
+$ 1,200
+Base Rate Case | Virginia Regulation
+Public Utilities General Disclosures [Line Items]
+Total revenue requirement
+$ 350
+$ 351
+$ 350
+[1]
+Consists of $  510   million for the transmission component of Virginia Power's base rates and $  369   million for Rider T1.
+[2]
+The total revenue requirement requested is based on an estimated retirement of Greensville County in 2058, consistent with the current estimated useful life of the facility. Virginia Power also provided an alternative approach based on an estimated retirement of Greensville County in 2045, which if utilized would result in a revenue requirement of $  144   million and $  148   million for rate years beginning April 2024 and April 2025, respectively.
+[3]
+Virginia Power requested approval of cost recovery of approximately $  1.2   billion through Rider SNA for the first phase of nuclear life extension program which includes investments through 2024. In April 2022, Virginia Power, the Virginia Commission staff and certain interested parties filed a proposed stipulation recommending that costs incurred after February 2022 associated with the first phase of the nuclear life extension program for North Anna be deferred and requested for recovery in a subsequent Rider SNA filing.
+X
+- Definition
+Phase in plan net change in amount of cost deferred for rate making purposes.
++ References
+No definition available.
++ Details
+Name:
+d_PhaseInPlanNetChangeInAmountOfCostDeferredForRateMakingPurposes
+Namespace Prefix:
+d_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+duration
+X
+- Definition
+Public Utilities, Requested Rate, Amount
++ References
+No definition available.
++ Details
+Name:
+d_PublicUtilitiesRequestedRateAmount
+Namespace Prefix:
+d_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- Definition
+Line items represent financial concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.
++ References
+No definition available.
++ Details
+Name:
+us-gaap_PublicUtilitiesGeneralDisclosuresLineItems
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Details
+Name:
+us-gaap_PublicUtilitiesRegulatoryProceedingAxis=d_RiderT1Member
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+dei_LegalEntityAxis=d_VirginiaElectricAndPowerCompanyMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+srt_ConsolidationItemsAxis=us-gaap_OperatingSegmentsMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_RegulatoryAgencyAxis=d_VirginiaRegulationMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_CapitalizedCostsOfUnprovedPropertiesExcludedFromAmortizationByPropertyOrProjectAxis=d_TransmissionComponentOfVirginiaPowersMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_PublicUtilitiesRegulatoryProceedingAxis=d_RiderGVOneMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_CapitalizedCostsOfUnprovedPropertiesExcludedFromAmortizationByPropertyOrProjectAxis=d_RateYearsBeginningMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_PublicUtilitiesRegulatoryProceedingAxis=d_RiderSNAMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_CapitalizedCostsOfUnprovedPropertiesExcludedFromAmortizationByPropertyOrProjectAxis=d_FirstPhaseOfNuclearLifeExtensionProgramMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:
+X
+- Details
+Name:
+us-gaap_PublicUtilitiesRegulatoryProceedingAxis=d_BaseRateCaseMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:

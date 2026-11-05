@@ -1,0 +1,357 @@
+EX-99.1
+2
+nxp4q24exhibit991.htm
+EX-99.1
+Document
+NXP Semiconductors Reports Fourth Quarter and Full-Year 2024 Results
+EINDHOVEN, The Netherlands, February 3, 2025 –   NXP Semiconductors N.V. (NASDAQ: NXPI) today reported financial results for the fourth quarter and full-year, which ended December 31, 2024. “NXP delivered full-year 2024 revenue of $12.61 billion, a decrease of 5 percent year-on-year. In the fourth quarter, revenue was $3.11 billion, a decrease of 9 percent year-on-year, modestly above the mid-point of our guidance range. In review, NXP delivered resilient results throughout 2024, reflecting solid execution, consistent gross margin, and healthy free cash flow generation despite a challenging market environment. We rigorously focus on managing     what is in our control, to navigate a soft landing while executing our growth strategy,” said Kurt Sievers, NXP President and Chief Executive Officer.
+Key Highlights for the Fourth Quarter and Full-year 2024:
+•  Fourth quarter revenue was $3.11 billion, down 9 percent year-on-year. Full-year revenue was 12.61 billion, down 5 percent year-on-year;
+•  Fourth quarter GAAP gross margin was 53.9 percent, GAAP operating margin was 21.7 percent and GAAP diluted Net Income per Share was $1.93. Full year GAAP gross margin was 56.4 percent, GAAP operating margin was 27.1 percent and GAAP diluted Net Income per Share was $9.73;
+•  Fourth quarter Non-GAAP gross margin was 57.5 percent, non-GAAP operating margin was 34.2 percent, and non-GAAP diluted Net Income per Share was $3.18. Full-year Non-GAAP gross margin was 58.1 percent, non-GAAP operating margin was 34.6 percent, and non-GAAP diluted Net Income per Share was $13.09;
+•  Fourth quarter cash flow from operations was $391 million, with net capex investments of $99 million, resulting in non-GAAP free cash flow of $292 million. Full-year cash flow from operations was $2,782 million, with net capex investments of $693 million, resulting in non-GAAP free cash flow of $2,089 million;
+•  During the fourth quarter of 2024, NXP continued to execute its capital return policy with the payment of $258 million in cash dividends, and the repurchase of $455 million of its common shares. The total capital return of $713 million in the quarter represented 244 percent of fourth quarter non-GAAP free cash flow. On a trailing twelve month basis, capital return to shareholders represented $2.4 billion or 115 percent of non-GAAP free cash flow. The interim dividend for the fourth quarter 2024 was paid in cash on January 8, 2025 to shareholders of record as of December 5, 2024. Subsequent to the end of the fourth quarter, between January 1, 2025 and   January 31, 2025, NXP executed via a 10b5-1 program additional share repurchases totaling $101 million;
+•  On October 15, 2024, NXP introduced the S32J family of high-performance automotive Ethernet switches and network controllers to enable the next generation of software-defined vehicle development (SDV). The S32J family shares a common switch core with the NXP S32 portfolio of automotive processing devices to maximize software re-use and simplify network configuration and integration;
+•  On October 23, 2024, NXP announced Audi has adopted the Trimension® NCJ29Dx Ultra Wide Band (UWB) product family in its advanced UWB platform delivering precise and secure real-time localization to enable hands-free secure car access via smart mobile device and other UWB-based features. Cars featuring NXP’s Trimension UWB devices, including the Audi Q6 e-tron, will hit the road in 2024;
+•  On November 12, 2024, NXP announced the i.MX 94 family, the newest addition to its i.MX 9 series of applications processors, designed for industrial control, telematics, gateways, and building and energy control. The i.MX94 family includes Ethernet Time Sensitive Networking (TSN) switching capabilities;
+•  On November 12, 2024, NXP announced industry-first wireless battery management system (BMS) based on Ultra-Wideband (UWB) connectivity, expanding its "FlexCom" family of wired and wireless BMS solutions. The new UWB-based BMS solutions enable increased battery energy density, decoupling the mechanical and electrical development for faster time to market;
+•  On December 17, 2024, NXP announced it had entered into an definitive agreement to acquire Aviva Links, a provider of Automotive SerDes Alliance (ASA) compliant in-vehicle connectivity solutions in an all-cash transaction valued at $242.5 million. The acquisition of Aviva Links expands NXP's market leading in-vehicle networking (IVN)
+1
+portfolio with the industry’s most advanced ASA compliant portfolio, supporting SerDes point-to-point (ASA-ML) and Ethernet-based connectivity (ASA-MLE) with data rates up to 16 Gbps;
+•  On January 7, 2025, NXP announced it had entered into an definitive agreement to acquire TT Tech Auto, a leader in safety-critical systems and middleware for software-defined vehicles (SDVs). The all-cash transaction is valued at $625 million, and accelerates the NXP CoreRide platform, enabling automakers to reduce complexity, maximize system performance and shorten time to market. TT Tech Auto’s MotionWise middleware platform has a proven industry track record and is designed to manage the interconnected systems in SDVs, prioritizing safety-critical functions while ensuring seamless integration.
+Summary of Reported Fourth Quarter and Full-year 2024 ($ millions, unaudited  )   (1)
+Q4 2024    Q3 2024    Q4 2023    Q - Q    Y - Y    2024    2023    Y - Y
+Total Revenue    $    3,111         $    3,250         $    3,422         -4%    -9%    $    12,614         $    13,276         -5%
+GAAP Gross Profit    $    1,678         $    1,866         $    1,937         -10%    -13%    $    7,119         $    7,553         -6%
+Gross Profit Adjustments   (i)
+$    (111)      $    (26)      $    (73)          $    (213)      $    (209)
+Non-GAAP Gross Profit    $    1,789         $    1,892         $    2,010         -5%    -11%    $    7,332         $    7,762         -6%
+GAAP Gross Margin    53.9     %    57.4     %    56.6     %        56.4     %    56.9     %
+Non-GAAP Gross Margin    57.5     %    58.2     %    58.7     %        58.1     %    58.5     %
+GAAP Operating Income  (Loss)    $    675         $    990         $    907         -32%    -26%    $    3,417         $    3,661         -7%
+Operating Income Adjustments   (i)
+$    (390)      $    (163)      $    (312)          $    (952)      $    (1,001)
+Non-GAAP Operating Income    $    1,065         $    1,153         $    1,219         -8%    -13%    $    4,369         $    4,662         -6%
+GAAP Operating Margin    21.7     %    30.5     %    26.5     %        27.1     %    27.6     %
+Non-GAAP Operating Margin    34.2     %    35.5     %    35.6     %        34.6     %    35.1     %
+GAAP Net Income (Loss) attributable to Stockholders    $    495         $    718         $    697             $    2,510         $    2,797
+Net Income Adjustments   (i)
+$    (322)      $    (172)      $    (269)          $    (866)      $    (864)
+Non-GAAP Net Income (Loss) Attributable to Stockholders    $    817         $    890         $    966             $    3,376         $    3,661
+GAAP diluted Net Income (Loss) per Share   (ii)
+$    1.93         $    2.79         $    2.68             $    9.73         $    10.70
+Non-GAAP diluted Net Income (Loss) per Share   (ii)
+$    3.18         $    3.45         $    3.71             $    13.09         $    14.01
+Additional information
+Q4 2024    Q3 2024    Q4 2023    Q - Q    Y - Y    2024    2023    Y - Y
+Automotive    $    1,790       $    1,829       $    1,899       -2%    -6%    $    7,151       $    7,484       -4%
+Industrial & IoT    $    516       $    563       $    662       -8%    -22%    $    2,269       $    2,351       -3%
+Mobile    $    396       $    407       $    406       -3%    -2%    $    1,497       $    1,327       13%
+Comm. Infra. & Other    $    409       $    451       $    455       -9%    -10%    $    1,697       $    2,114       -20%
+DIO    151    149    132
+DPO     65    60    72
+DSO    30    30    24
+Cash Conversion Cycle    116    119    84
+Channel Inventory (weeks)    8    8    7
+Gross Financial Leverage   (iii)
+2.1x    1.9x    2.1x
+Net Financial Leverage   (iv)
+1.5x    1.3x    1.3x
+1.  Additional Information for the Fourth Quarter and Full-year 2024:
+i.  For an explanation of GAAP to non-GAAP adjustments, please see “Non-GAAP Financial Measures”.
+ii.  Refer to Table 1 below for the weighted average number of diluted shares for the presented periods.
+iii.  Gross financial leverage is defined as gross debt divided by trailing twelve months adjusted EBITDA.
+iv.  Net financial leverage is defined as net debt divided by trailing twelve months adjusted EBITDA.
+2
+Guidance for the First Quarter 2025: ($ millions, except Per Share data)   (1)
+Guidance Range
+GAAP      Reconciliation      non-GAAP
+Low      Mid      High          Low      Mid      High
+Total Revenue    $2,725      $2,825      $2,925          $2,725      $2,825      $2,925
+Q-Q    -12%      -9%      -6%          -12%      -9%      -6%
+Y-Y    -13%      -10%      -6%          -13%      -10%      -6%
+Gross Profit    $1,489      $1,559      $1,630      $(31)      $1,520      $1,590      $1,661
+Gross Margin    54.6%      55.2%      55.7%          55.8%      56.3%      56.8%
+Operating Income (loss)    $652      $712      $773      $(178)      $830      $890      $951
+Operating Margin    23.9%      25.2%      26.4%          30.5%      31.5%      32.5%
+Financial Income (expense)    $(90)      $(90)      $(90)      $(10)      $(80)      $(80)      $(80)
+Tax rate    18.0%-19.0%          17.0%-18.0%
+Equity-accounted investees    $(4)      $(4)      $(4)      $(3)      $(1)      $(1)      $(1)
+Non-controlling interests    $(5)      $(5)      $(5)          $(5)      $(5)      $(5)
+Shares - diluted    256.0      256.0      256.0          256.0      256.0      256.0
+Earnings Per Share - diluted    $1.75      $1.95      $2.14          $2.39      $2.59      $2.79
+Note (1) Additional Information:
+1.  GAAP Gross Profit is expected to include Purchase Price Accounting (“PPA”) effects, $(7) million; Share-based Compensation, $(16) million; Other Incidentals, $(8) million;
+2.  GAAP Operating Income (loss) is expected to include PPA effects, $(35) million; Share-based Compensation, $(128) million; Restructuring and Other Incidentals, $(15) million;
+3.  GAAP Financial Income (expense) is expected to include Other financial expense $(10) million;
+4.  GAAP Results relating to equity-accounted investees is expected to include results relating to non-foundry equity-accounted investees $(3) million;
+5.  GAAP diluted EPS is expected to include the adjustments noted above for PPA effects, Share-based Compensation, Restructuring and Other Incidentals in GAAP Operating Income (loss), the adjustment for Other financial expense, the adjustment for Non-controlling interests & Other and the adjustment on Tax due to the earlier mentioned adjustments.
+NXP has based the guidance included in this release on judgments and estimates that management believes are reasonable given its assessment of historical trends and other information reasonably available as of the date of this release. Please note, the guidance included in this release consists of predictions only, and is subject to a wide range of known and unknown risks and uncertainties, many of which are beyond NXP's control. The guidance included in this release should not be regarded as representations by NXP that the estimated results will be achieved. Actual results may vary materially from the guidance we provide today. In relation to the use of non-GAAP financial information see the note regarding "Non-GAAP Financial Measures" below. For the factors, risks, and uncertainties to which judgments, estimates and forward-looking statements generally are subject see the note regarding "Forward-looking Statements." We undertake no obligation to publicly update or revise any forward-looking statements, including the guidance set forth herein, to reflect future events or circumstances  .
+Non-GAAP Financial Measures
+In managing NXP's business on a consolidated basis, management develops an annual operating plan, which is approved by our Board of Directors, using non-GAAP financial measures, that are not in accordance with, nor an alternative to, U.S. generally accepted accounting principles (“GAAP”). In measuring performance against this plan, management considers the actual or potential impacts on these non-GAAP financial measures from actions taken to reduce costs with the goal of increasing our gross margin and operating margin and when assessing appropriate levels of research and development efforts. In addition, management relies upon these non-GAAP financial measures when making decisions about product spending, administrative budgets, and other operating expenses. We believe that these non-GAAP financial measures, when coupled with the GAAP results and the reconciliations to corresponding GAAP financial measures, provide a more complete understanding of the Company’s results of operations and the factors and trends affecting NXP’s business. We believe that they enable investors to perform additional comparisons of our operating results, to assess our liquidity and capital position and to analyze financial performance excluding the effect of expenses unrelated to core operating performance, certain non-cash expenses and share-based compensation expense, which may obscure trends in NXP's underlying performance. This information also enables investors to compare financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management.
+These non-GAAP financial measures are provided in addition to, and not as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. The presentation of these and other similar items in NXP’s non-GAAP financial results should not be interpreted as implying that these items are non-recurring, infrequent, or unusual. Reconciliations of these non-GAAP measures to the most comparable measures calculated in accordance with GAAP are provided in the financial statements portion of this release in a schedule entitled “Financial Reconciliation of GAAP to non-GAAP Results (unaudited).” Please refer to the NXP Historic Financial Model file found on the Financial Information page of the Investor Relations section of our website at https://investors.nxp.com for additional information related to our rationale for using these non-GAAP financial measures, as well as the impact of these measures on the presentation of NXP's operations.
+3
+In addition to providing financial information on a basis consistent with GAAP, NXP also provides the following selected financial measures on a non-GAAP basis: (i) Gross profit, (ii) Gross margin, (iii) Research and development, (iv) Selling, general and administrative, (v) Amortization of acquisition-related intangible assets, (vi) Other income, (vii) Operating income (loss), (viii) Operating margin, (ix) Financial Income (expense), (x) Income tax benefit (provision), (xi) Results relating to non-foundry equity-accounted investees, (xii) Net income (loss) attributable to stockholders, (xiii) Earnings per Share - Diluted, (xiv) EBITDA, adjusted EBITDA and trailing 12 month adjusted EBITDA, and (xv) free cash flow, trailing 12 month free cash flow and trailing 12 month free cash flow as a percent of Revenue. The non-GAAP information excludes, where applicable, the amortization of acquisition related intangible assets, the purchase accounting effect on inventory and property, plant and equipment, merger related costs (including integration costs), certain items related to divestitures, share-based compensation expense, restructuring and asset impairment charges, extinguishment of debt, foreign exchange gains and losses, income tax effect on adjustments described above and results from non-foundry equity-accounted investments.
+The difference in the benefit (provision) for income taxes between our GAAP and non-GAAP results relates to the income tax effects of the GAAP to non-GAAP adjustments that we make and the income tax effect of any discrete items that occur in the interim period. Discrete items primarily relate to unexpected tax events that may occur as these amounts cannot be forecasted (e.g., the impact of changes in tax law and/or rates, changes in estimates or resolved tax audits relating to prior year tax provisions, the excess or deficit tax effects on share-based compensation, etc.).
+Conference Call and Webcast Information
+The company will host a conference call with the financial community on Tuesday, February 4, 2025 at 8:00 a.m. U.S. Eastern Standard Time (EST) to review the fourth quarter 2024 results in detail.
+Interested parties may preregister to obtain a user-specific access code for the call here.
+The call will be webcast and can be accessed from the NXP Investor Relations website at www.nxp.com. A replay of the call will be available on the NXP Investor Relations website within 24 hours of the actual call.
+About NXP Semiconductors
+NXP Semiconductors N.V. (NASDAQ: NXPI) is the trusted partner for innovative solutions in the automotive, industrial & IoT, mobile, and communications infrastructure markets. NXP's "Brighter Together" approach combines leading-edge technology with pioneering people to develop system solutions that make the connected world better, safer, and more secure. The company has operations in more than 30 countries and posted revenue of $12.61 billion in 2024. Find out more at   www.nxp.com  .
+Forward-looking Statements
+This document includes forward-looking statements which include statements regarding NXP’s business strategy, financial condition, results of operations, market data, as well as any other statements which are not historical facts. By their nature, forward-looking statements are subject to numerous factors, risks and uncertainties that could cause actual outcomes and results to be materially different from those projected. These factors, risks and uncertainties include the following: market demand and semiconductor industry conditions; our ability to successfully introduce new technologies and products; the demand for the goods into which NXP’s products are incorporated; trade disputes between the U.S. and China, potential increase of barriers to international trade and resulting disruptions to NXP's established supply chains; the impact of government actions and regulations, including restrictions on the export of US-regulated products and technology; increasing and evolving cybersecurity threats and privacy risks, including theft of sensitive or confidential data; the ability to generate sufficient cash, raise sufficient capital or refinance corporate debt at or before maturity to meet both NXP's debt service and research and development and capital investment requirements; our ability to accurately estimate demand and match our production capacity accordingly or obtain supplies from third-party producers to meet demand; our access to production capacity from third-party outsourcing partners, and any events that might affect their business or NXP’s relationship with them; our ability to secure adequate and timely supply of equipment and materials from suppliers; our ability to avoid operational problems and product defects and, if such issues were to arise, to correct them quickly; our ability to form strategic partnerships and joint ventures and to successfully cooperate with our alliance partners; our ability to win competitive bid selection processes; our ability to develop products for use in customers’ equipment and products; the ability to successfully hire and retain key management and senior product engineers; global hostilities, including the invasion of Ukraine by Russia and resulting regional instability, sanctions and any other retaliatory measures taken against Russia and the continued hostilities and the armed conflict in the Middle East, which could adversely impact the global supply chain, disrupt our operations or negatively impact the demand for our products in our primary end markets; the ability to maintain good relationships with NXP's suppliers; and a change in tax laws could have an effect on our estimated effective tax rate. In addition, this document contains information concerning the semiconductor industry, our end markets and business generally, which is forward-looking in nature and is based on a variety of assumptions regarding the ways in which the semiconductor industry, our end markets and business will develop. NXP has based these assumptions on information currently available, if any one or more of these assumptions turn out to be incorrect, actual results may differ from those predicted. While NXP does not know what impact any such differences may have on its business, if there are such differences, its future results of operations and its financial condition could be materially adversely affected. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak to results only as of the date the statements were made. Except for any ongoing obligation to disclose material information as required by the United States federal securities laws, NXP does not have any intention or obligation to publicly update or revise any forward-looking statements after we distribute this document, whether to reflect any future events or circumstances or otherwise. For a discussion of potential risks and uncertainties, please refer to the risk factors listed in our SEC filings. Copies of our SEC filings are available on our Investor Relations website, www.nxp.com/investor or from the SEC website, www.sec.gov.
+For further information, please contact:
+Investors:                                    Media:
+Jeff Palmer                                    Paige Iven
+jeff.palmer@nxp.com                                paige.iven@nxp.com
++1 408 205 0687                                +1 817 975 0602
+NXP-CORP
+4
+NXP Semiconductors
+Table 1: Condensed consolidated statement of operations (unaudited)
+($ in millions except share data)     Three months ended      Full-year
+December 31, 2024      September 29, 2024      December 31, 2023      2024      2023
+Revenue    $    3,111           $    3,250           $    3,422           $    12,614           $    13,276
+Cost of revenue    (1,433)        (1,384)        (1,485)        (5,495)        (5,723)
+Gross profit    1,678           1,866           1,937           7,119           7,553
+Research and development    (612)        (577)        (651)        (2,347)        (2,418)
+Selling, general and administrative    (323)        (265)        (311)        (1,164)        (1,159)
+Amortization of acquisition-related intangible assets    (28)        (29)        (63)        (136)        (300)
+Total operating expenses    (963)        (871)        (1,025)        (3,647)        (3,877)
+Other income (expense)    (40)        (5)        (5)        (55)        (15)
+Operating income (loss)    675           990           907           3,417           3,661
+Financial income (expense):
+Extinguishment of debt    —         —         —         —         —
+Other financial income (expense)    (91)        (82)        (78)        (318)        (309)
+Income (loss) before income taxes    584           908           829           3,099           3,352
+Benefit (provision) for income taxes    (77)        (173)        (124)        (545)        (523)
+Results relating to equity-accounted investees    (2)        (6)        (2)        (12)        (7)
+Net income (loss)    505           729           703           2,542           2,822
+Less: Net income (loss) attributable to non-controlling interests    10         11         6         32         25
+Net income (loss) attributable to stockholders    495           718           697           2,510           2,797
+Earnings per share data:
+Net income (loss) per common share attributable to stockholders in $
+Basic    $    1.95         $    2.82         $    2.71         $    9.84         $    10.83
+Diluted    $    1.93         $    2.79         $    2.68         $    9.73         $    10.70
+Weighted average number of shares of common stock outstanding during the period (in thousands):
+Basic    254,349         254,458         257,285         255,208         258,381
+Diluted    256,628         257,717         260,298         257,848         261,370
+5
+NXP Semiconductors
+Table 2: Condensed consolidated balance sheet (unaudited)
+($ in millions)    As of
+December 31, 2024      September 29, 2024      December 31, 2023
+ASSETS
+Current assets:
+Cash and cash equivalents    $    3,292         $    2,748         $    3,862
+Short-term deposits    —         400         409
+Accounts receivable, net    1,032         1,070         894
+Inventories, net    2,356         2,234         2,134
+Other current assets    625         574         565
+Total current assets    7,305           7,026           7,864
+Non-current assets:
+Deferred tax assets    1,251         1,131         992
+Other non-current assets    1,796         1,510         1,297
+Property, plant and equipment, net     3,267         3,309         3,323
+Identified intangible assets, net    836         735         922
+Goodwill    9,930         9,958         9,955
+Total non-current assets    17,080           16,643           16,489
+Total assets    24,385           23,669           24,353
+LIABILITIES AND EQUITY
+Current liabilities:
+Accounts payable     1,017         899         1,164
+Restructuring liabilities-current    147         52         92
+Other current liabilities     1,434         1,542         1,855
+Short-term debt    500         499         1,000
+Total current liabilities    3,098           2,992           4,111
+Non-current liabilities:
+Long-term debt    10,354         9,683         10,175
+Restructuring liabilities    10         4         9
+Other non-current liabilities    1,392         1,246         1,098
+Total non-current liabilities    11,756           10,933           11,282
+Non-controlling interests    348         338         316
+Stockholders’ equity    9,183         9,406         8,644
+Total equity    9,531           9,744           8,960
+Total liabilities and equity    24,385           23,669           24,353
+6
+NXP Semiconductors
+Table 3: Condensed consolidated statement of cash flows (unaudited)
+($ in millions)    Three months ended      Full-year
+December 31, 2024      September 29, 2024      December 31, 2023      2024      2023
+Cash flows from operating activities:
+Net income (loss)    $    505           $    729           $    703           $    2,542           $    2,822
+Adjustments to reconcile net income (loss) to net cash provided by (used for) operating activities:
+Depreciation, amortization and impairment    259         218         269         925         1,106
+Share-based compensation    117         115         107         461         411
+Amortization of discount (premium) on debt, net    1         —         —         3         2
+Amortization of debt issuance costs    2         2         2         7         8
+Net (gain) loss on sale of assets    (1)        —         —         (3)        (1)
+Results relating to equity-accounted investees    2         6         2         12         7
+(Gain) loss on equity securities, net    6         7         —         18         (1)
+Deferred tax expense (benefit)    (145)        (40)        (97)        (272)        (267)
+Changes in operating assets and liabilities:
+(Increase) decrease in receivables and other current assets    (25)        (167)        (20)        (207)        (138)
+(Increase) decrease in inventories    (122)        (86)        6         (222)        (353)
+Increase (decrease) in accounts payable and other liabilities    16         118         101         (188)        (119)
+(Increase) decrease in other non-current assets    (218)        (134)        65         (306)        16
+Exchange differences    (1)        7         7         14         22
+Other items    (5)        4         (8)        (2)        (2)
+Net cash provided by (used for) operating activities    391           779           1,137           2,782           3,513
+Cash flows from investing activities:
+Purchase of identified intangible assets    (36)        (26)        (44)        (149)        (179)
+Capital expenditures on property, plant and equipment    (130)        (186)        (175)        (727)        (827)
+Insurance recoveries received for equipment damage    —         —         —         2         —
+Proceeds from the disposals of property, plant and equipment    1         —         —         4         1
+Advance payment from sale of property, plant and equipment    30         —         —         30         —
+Investment in short-term deposits    —         —         (409)        —         (409)
+Proceeds of short-term deposits    400         —         —         409         —
+Purchase of investments    (67)        (159)        (1)        (260)        (94)
+Proceeds from the sale of investments    —         —         —         5         —
+Net cash provided by (used for) investing activities    198           (371)        (629)        (686)        (1,508)
+Cash flows from financing activities:
+Repurchase of long-term debt    —         —         —         (1,000)        —
+Proceeds from the issuance of long-term debt    670         —         —         670         —
+Cash paid for debt issuance costs    (1)        —         —         (1)        —
+Dividends paid to common stockholders    (258)        (259)        (261)        (1,038)        (1,006)
+Proceeds from issuance of common stock through stock plans    3         39         1         82         71
+Purchase of treasury shares and restricted stock unit
+withholdings    (455)        (305)        (434)        (1,373)        (1,053)
+Other, net    —         (1)        —         (2)        (2)
+Net cash provided by (used for) financing activities    (41)        (526)        (694)        (2,662)        (1,990)
+Effect of changes in exchange rates on cash positions    (4)        7         6         (4)        2
+Increase (decrease) in cash and cash equivalents    544           (111)        (180)        (570)        17
+Cash and cash equivalents at beginning of period    2,748         2,859         4,042         3,862         3,845
+Cash and cash equivalents at end of period    3,292           2,748           3,862           3,292           3,862
+Net cash paid during the period for:
+Interest    92         27         83         243         261
+Income taxes, net of refunds    280         196         221         867         919
+Net gain (loss) on sale of assets:
+Cash proceeds from the sale of assets    1         —         —         4         1
+Book value of these assets    —         —         —         (1)        —
+Non-cash investing activities:
+Non-cash capital expenditures    161         125         266         161         266
+7
+NXP Semiconductors
+Table 4: Financial Reconciliation of GAAP to non-GAAP Results (unaudited)
+($ in millions except share data)    Three months ended      Full-year
+December 31, 2024      September 29, 2024      December 31, 2023      2024      2023
+GAAP Gross Profit    $    1,678           $    1,866           $    1,937           $    7,119           $    7,553
+PPA Effects    (11)        (12)        (13)        (47)        (53)
+Restructuring    (21)        —         (13)        (28)        (11)
+Share-based compensation    (15)        (14)        (14)        (59)        (54)
+Other incidentals    (64)        —         (33)        (79)        (91)
+Non-GAAP Gross Profit    $    1,789           $    1,892           $    2,010           $    7,332           $    7,762
+GAAP Gross margin    53.9       %      57.4       %      56.6       %      56.4       %      56.9       %
+Non-GAAP Gross margin    57.5       %      58.2       %      58.7       %      58.1       %      58.5       %
+GAAP Research and development    $    (612)        $    (577)        $    (651)        $    (2,347)        $    (2,418)
+Restructuring    (50)        —         (49)        (57)        (59)
+Share-based compensation    (60)        (58)        (55)        (234)        (211)
+Other incidentals    (5)        —         (1)        (6)        (5)
+Non-GAAP Research and development    $    (497)        $    (519)        $    (546)        $    (2,050)        $    (2,143)
+GAAP Selling, general and administrative    $    (323)        $    (265)        $    (311)        $    (1,164)        $    (1,159)
+PPA effects    —         (1)        (1)        (2)        (3)
+Restructuring    (41)        —         (22)        (40)        (28)
+Share-based compensation    (42)        (43)        (38)        (168)        (146)
+Other incidentals    (12)        (2)        (5)        (45)        (32)
+Non-GAAP Selling, general and administrative    $    (228)        $    (219)        $    (245)        $    (909)        $    (950)
+GAAP Operating income (loss)    $    675           $    990           $    907           $    3,417           $    3,661
+PPA effects    (39)        (42)        (77)        (185)        (356)
+Restructuring    (112)        —         (84)        (125)        (98)
+Share-based compensation    (117)        (115)        (107)        (461)        (411)
+Other incidentals    (122)        (6)        (44)        (181)        (136)
+Non-GAAP Operating income (loss)    $    1,065           $    1,153           $    1,219           $    4,369           $    4,662
+GAAP Operating margin    21.7       %      30.5       %      26.5       %      27.1       %      27.6       %
+Non-GAAP Operating margin    34.2       %      35.5       %      35.6       %      34.6       %      35.1       %
+GAAP Income tax benefit (provision)    $    (77)        $    (173)        $    (124)        $    (545)        $    (523)
+Income tax effect    87         9         54         141         170
+Non-GAAP Income tax benefit (provision)    $    (164)        $    (182)        $    (178)        $    (686)        $    (693)
+GAAP Net income (loss) attributable to stockholders    $    495           $    718           $    697           2,510         2,797
+PPA Effects    (39)        (42)        (77)        (185)        (356)
+Restructuring    (112)        —         (84)        (125)        (98)
+Share-based compensation    (117)        (115)        (107)        (461)        (411)
+Other incidentals    (122)        (6)        (44)        (181)        (136)
+Other adjustments:
+Adjustments to financial income (expense)    (17)        (12)        (9)        (43)        (26)
+Income tax effect    87         9         54         141         170
+Results relating to equity-accounted investees, excluding Foundry investees  1
+(2)        (6)        (2)        (12)        (7)
+Non-GAAP Net income (loss) attributable to stockholders    $    817           $    890           $    966           $    3,376           $    3,661
+Additional Information:
+1.   Refer to Table 7 below for further information regarding the results relating to equity-accounted investees.
+8
+($ in millions except share data)    Three months ended      Full-year
+December 31, 2024      September 29, 2024      December 31, 2023      2024      2023
+GAAP net income (loss) per common share attributable to stockholders - diluted    $    1.93           $    2.79           $    2.68           $    9.73           $    10.70
+PPA Effects    (0.15)        (0.16)        (0.30)        (0.72)        (1.36)
+Restructuring    (0.44)        —         (0.32)        (0.48)        (0.38)
+Share-based compensation    (0.46)        (0.45)        (0.41)        (1.79)        (1.57)
+Other incidentals    (0.47)        (0.02)        (0.17)        (0.70)        (0.52)
+Other adjustments:
+Adjustments to financial income (expense)    (0.07)        (0.05)        (0.03)        (0.17)        (0.10)
+Income tax effect    0.34         0.04         0.21         0.55         0.65
+Results relating to equity-accounted investees, excluding Foundry investees  1
+—         (0.02)        (0.01)        (0.05)        (0.03)
+Non-GAAP net income (loss) per common share attributable to stockholders - diluted    $    3.18           $    3.45           $    3.71           $    13.09           $    14.01
+Additional Information:
+1.  Refer to Table 7 below for further information regarding the results relating to equity-accounted investees.
+NXP Semiconductors
+Table 5: Financial Reconciliation of GAAP to non-GAAP Financial income (expense) (unaudited)
+($ in millions)    Three months ended      Full-year
+December 31, 2024      September 29, 2024      December 31, 2023      2024      2023
+GAAP Financial income (expense)    $    (91)        $    (82)        $    (78)        $    (318)        $    (309)
+Foreign exchange loss    3         (3)        (6)        (3)        (15)
+Other financial expense    (20)        (9)        (3)        (40)        (11)
+Non-GAAP Financial income (expense)    $    (74)        $    (70)        $    (69)        $    (275)        $    (283)
+NXP Semiconductors
+Table 6: Financial Reconciliation of GAAP to non-GAAP Other income (expense) (unaudited)
+($ in millions)    Three months ended      Full-year
+December 31, 2024      September 29, 2024      December 31, 2023      2024      2023
+GAAP Other income (expense)    $    (40)        $    (5)        $    (5)        $    (55)        $    (15)
+Other incidentals    (41)        (4)        (5)        (51)        (8)
+Non-GAAP Other income (expense)    $    1           $    (1)        $    —           $    (4)        $    (7)
+NXP Semiconductors
+Table 7: Financial Reconciliation of GAAP to non-GAAP Results relating to equity-accounted investees (unaudited)
+($ in millions)    Three months ended      Full-year
+December 31, 2024      September 29, 2024      December 31, 2023      2024      2023
+GAAP Results relating to equity-accounted investees    $    (2)        $    (6)        $    (2)        $    (12)        $    (7)
+Results of equity-accounted investees, excluding Foundry investees  1
+(2)        (6)        (2)        (12)        (7)
+Non-GAAP Results relating to equity-accounted investees    $    —           $    —           $    —           $    —           $    —
+Additional Information:
+1.  We adjust our results relating to equity-accounted investees for those results from investments over which NXP has significant influence, but not control, and whose business activities are not related to the core operating performance of NXP. Our equity-investments in foundry partners are part of our long-term core operating performance and accordingly those results comprise the Non-GAAP Results relating to equity-accounted investees.
+9
+NXP Semiconductors
+Table 8: Adjusted EBITDA and Free Cash Flow (unaudited)
+($ in millions)    Three months ended      Full-year
+December 31, 2024      September 29, 2024      December 31, 2023      2024      2023
+GAAP Net income (loss)    $    505           $    729           $    703           $    2,542           $    2,822
+Reconciling items to EBITDA (Non-GAAP)
+Financial (income) expense    91         82         78         318         309
+(Benefit) provision for income taxes    77         173         124         545         523
+Depreciation and impairment    190         149         167         630         652
+Amortization    69         69         102         295         454
+EBITDA (Non-GAAP)    $    932           $    1,202           $    1,174           $    4,330           $    4,760
+Reconciling items to adjusted EBITDA (Non-GAAP)
+Results of equity-accounted investees, excluding Foundry investees  1
+2         6         2         12         7
+Restructuring    112         —         84         125         98
+Share-based compensation    117         115         107         461         411
+Other incidental items  2
+77         6         44         136         134
+Adjusted EBITDA (Non-GAAP)    $    1,240           $    1,329           $    1,411           $    5,064           $    5,410
+Trailing twelve month adjusted EBITDA (Non-GAAP)    $    5,064           $    5,235           $    5,410           $    5,064           $    5,410
+Additional Information:
+1.  Refer to Table 7 above for further information regarding the results relating to equity-accounted investees.
+2.      Excluding from total other incidental items, charges included in depreciation, amortization or impairment reconciling items:
+–  other incidental items
+45         —         —         45         2
+($ in millions)    Three months ended      Full-year
+December 31, 2024      September 29, 2024      December 31, 2023      2024      2023
+Net cash provided by (used for) operating activities    $    391           $    779           $    1,137           $    2,782           $    3,513
+Net capital expenditures on property, plant and equipment    (99)        (186)        (175)        (693)        (826)
+Non-GAAP free cash flow    $    292           $    593           $    962           $    2,089           $    2,687
+Trailing twelve month non-GAAP free cash flow    $    2,089           $    2,759           $    2,687           $    2,089           $    2,687
+Trailing twelve month non-GAAP free cash flow
+as percent of Revenue    17       %      21       %      20       %      17       %      20       %
+10

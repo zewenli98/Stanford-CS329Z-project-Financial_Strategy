@@ -1,0 +1,92 @@
+XML
+104
+R99.htm
+IDEA: XBRL DOCUMENT
+v3.24.3
+Contingencies - Additional Information (Detail)
+$ in Millions
+Jun. 30, 2024
+USD ($)
+Commitments and Contingencies Disclosure [Abstract]
+Accrual for disclosed loss contingencies, current, ending balance
+$ 641
+Amount not accrued for estimated maximum losses for disclosed loss contingencies
+$ 600
+X
+- References
+No definition available.
++ Details
+Name:
+us-gaap_CommitmentsAndContingenciesDisclosureAbstract
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Amount of loss contingency liability.
++ References
+Reference 1: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 450
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483076/450-20-50-1
+Reference 2: http://www.xbrl.org/2003/role/recommendedDisclosureRef
+-Topic 450
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 10
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483076/450-20-50-10
++ Details
+Name:
+us-gaap_LossContingencyAccrualAtCarryingValue
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+instant
+X
+- Definition
+The difference between the maximum amount of estimated loss and the amount recorded as of the balance sheet date.
++ References
+Reference 1: http://www.xbrl.org/2009/role/commonPracticeRef
+-Topic 450
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 4
+-Subparagraph (b)
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483076/450-20-50-4
+Reference 2: http://www.xbrl.org/2009/role/commonPracticeRef
+-Topic 450
+-SubTopic 20
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 9
+-Subparagraph (b)
+-Publisher FASB
+-URI https://asc.fasb.org//1943274/2147483076/450-20-50-9
++ Details
+Name:
+us-gaap_LossContingencyRangeOfPossibleLossPortionNotAccrued
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant

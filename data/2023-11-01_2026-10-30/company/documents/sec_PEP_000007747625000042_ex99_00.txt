@@ -1,0 +1,103 @@
+XML
+109
+R99.htm
+IDEA: XBRL DOCUMENT
+v3.25.2
+Acquisitions & Divestitures - Siete acquisition (Details) - Siete acquisition
+$ in Millions
+Jan. 17, 2025
+USD ($)
+Acquisitions & Divestitures [Line Items]
+Business Combination, Consideration Transferred
+$ 1,200
+Business combination, transaction value
+$ 1,200
+X
+- Definition
+[Line Items] for Acquisitions & Divestitures [Table]
++ References
+No definition available.
++ Details
+Name:
+pep_AcquisitionsDivestituresLineItems
+Namespace Prefix:
+pep_
+Data Type:
+xbrli:stringItemType
+Balance Type:
+na
+Period Type:
+duration
+X
+- Definition
+Business combination, transaction value
++ References
+No definition available.
++ Details
+Name:
+pep_BusinessCombinationTransactionValue
+Namespace Prefix:
+pep_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+debit
+Period Type:
+instant
+X
+- Definition
+Amount of consideration transferred, consisting of acquisition-date fair value of assets transferred by the acquirer, liabilities incurred by the acquirer, and equity interest issued by the acquirer.
++ References
+Reference 1: http://www.xbrl.org/2003/role/exampleRef
+-Topic 805
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 8
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147479328/805-10-50-8
+Reference 2: http://www.xbrl.org/2003/role/exampleRef
+-Topic 805
+-SubTopic 10
+-Name Accounting Standards Codification
+-Section 55
+-Paragraph 41
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147479303/805-10-55-41
+Reference 3: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 805
+-SubTopic 30
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 2
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147479581/805-30-50-2
+Reference 4: http://www.xbrl.org/2003/role/disclosureRef
+-Topic 805
+-SubTopic 30
+-Name Accounting Standards Codification
+-Section 50
+-Paragraph 1
+-Subparagraph (b)
+-Publisher FASB
+-URI https://asc.fasb.org/1943274/2147479581/805-30-50-1
++ Details
+Name:
+us-gaap_BusinessCombinationConsiderationTransferred1
+Namespace Prefix:
+us-gaap_
+Data Type:
+xbrli:monetaryItemType
+Balance Type:
+credit
+Period Type:
+duration
+X
+- Details
+Name:
+us-gaap_BusinessAcquisitionAxis=pep_SieteAcquisitionMember
+Namespace Prefix:
+Data Type:
+na
+Balance Type:
+Period Type:

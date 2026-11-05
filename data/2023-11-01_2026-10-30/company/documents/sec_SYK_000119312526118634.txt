@@ -1,0 +1,93 @@
+8-K
+STRYKER CORP   false   0000310764                 0000310764       2026-03-23   2026-03-23           0000310764     us-gaap:CommonStockMember         2026-03-23   2026-03-23           0000310764     syk:SeniorUnsecuredNotes2.125Due2027Member         2026-03-23   2026-03-23           0000310764     syk:SeniorUnsecuredNotes3.375Due2028Member         2026-03-23   2026-03-23           0000310764     syk:SeniorUnsecuredNotes0.750Due2029Member         2026-03-23   2026-03-23           0000310764     syk:SeniorUnsecuredNotes2.625Due2030Member         2026-03-23   2026-03-23           0000310764     syk:SeniorUnsecuredNotes1.000Due2031Member         2026-03-23   2026-03-23           0000310764     syk:SeniorUnsecuredNotes3.375Due2032Member         2026-03-23   2026-03-23           0000310764     syk:SeniorUnsecuredNotes3.625Due2036Member         2026-03-23   2026-03-23
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM  8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d)
+of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):  March 23, 2026
+Stryker Corporation
+(Exact name of Registrant as Specified in Its Charter)
+Michigan
+001-13149
+38-1239739
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+1941 Stryker Way
+Portage ,  Michigan
+49002
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including Area Code:  (269)   385-2600
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form  8-K  filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐  Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐  Soliciting material pursuant to Rule  14a-12  under the Exchange Act (17 CFR  240.14a-12)
+☐   Pre-commencement  communications pursuant to Rule  14d-2(b)  under the Exchange Act (17 CFR  240.14d-2(b))
+☐   Pre-commencement  communications pursuant to Rule  13e-4(c)  under the Exchange Act (17 CFR  240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading
+Symbol(s)
+Name of each exchange
+on which registered
+Common Stock, $.10 Par Value
+SYK
+New York Stock Exchange
+2.125% Notes due 2027
+SYK27
+New York Stock Exchange
+3.375% Notes due 2028
+SYK28
+New York Stock Exchange
+0.750% Notes due 2029
+SYK29
+New York Stock Exchange
+2.625% Notes due 2030
+SYK30
+New York Stock Exchange
+1.000% Notes due 2031
+SYK31
+New York Stock Exchange
+3.375% Notes due 2032
+SYK32
+New York Stock Exchange
+3.625% Notes due 2036
+SYK36
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule  12b-2  of the Securities Exchange Act of 1934  (§ 240.12b-2  of this chapter).
+Emerging growth company  ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 7.01
+Regulation FD Disclosure.
+As previously reported in two separate Current Reports on Form  8-K,  filed with and furnished to (as the case may be) the U.S. Securities and Exchange Commission (the “SEC”) on March 11, 2026, and March 12, 2026, respectively, Stryker Corporation (the “Company”) disclosed that the Company had identified a cybersecurity incident. Since then, the Company has worked around the clock, together with third-party experts and law enforcement to contain and neutralize the impact of the cyber incident and restore operations. Since then, the Company has been providing updates to its customers, suppliers, vendors and partners on its ongoing investigation through the Company’s website and its social media channels. The information included in this report is a further update on the status of its ongoing investigation, which is also being communicated to its customers, suppliers, vendors, and partners through its website.
+Early in the Company’s investigation and based on the information it had at that time, management believed that the incident did not involve ransomware or malware. Further into the course of its investigation alongside Palo Alto Networks’ Unit 42 and other experts, the Company was able to identify that while the threat actor used a malicious file to run commands which allowed it to hide its activity while in its systems, this file was not capable of spreading — either inside or outside of the Company’s environment. As of the date of this report, the Company’s investigation has not identified malicious activity directed towards its customers, suppliers, vendors or partners. The Company has continued to learn more alongside its third-party advisors, including those at Palo Alto Networks Unit 42. Their latest findings are included in a General Assurance letter, which is attached hereto as Exhibit 99.1 and can also be found on the Company’s website at Stryker.com. This letter reaffirms the Company’s belief that this incident is contained and that the current analysis has not identified any evidence of the threat actor accessing customer, supplier, vendor and partner systems as a result of this incident. The Company has also posted a statement on its website at Stryker.com which is attached hereto as Exhibit 99.2.
+As its investigation is ongoing, the Company will continue to update its customers, suppliers, vendors and partners through its website disclosures, which updates will supersede previously made website reports. For example, the Company’s website reports have been updated to reflect that the cybersecurity incident caused disruption to the Company’s corporate network environment, including but not limited to the Microsoft environment. The Company’s investigation of the cybersecurity incident is ongoing, and the scope, nature and impact, including, but not limited to operational and financial impact, of the incident continue to be assessed and  re-evaluated.  Accordingly, the Company has not yet determined whether the incident is reasonably likely to have a material impact on the Company.
+The information furnished in this report, including Exhibits 99.1 and 99.2, shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such filing.
+Caution Concerning Forward-Looking Statements
+This Current Report on Form  8-K  contains forward-looking statements subject to the safe harbor protection provided by Section 27A of the Securities Act of 1933, Section 21E of the Securities Exchange Act of 1934, and the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact are forward-looking statements, including statements regarding the Company’s current beliefs regarding the extent of the cybersecurity incident and the results or findings of the Company’s investigation thereof; the Company’s ability to contain and/or mitigate the incident; the disruption to our business or operations; and the potential impact on the Company’s reputation, financial condition and results of operations. These forward-looking statements involve known and unknown risks, uncertainties and other important factors that may cause actual results to differ materially from expectations as of the date of this filing. Factors that could cause actual results to differ materially from those indicated in the forward-looking statements include, but are not limited to, any impairment of the integrity of the Company’s systems or data; delays or difficulties in restoring the Company’s systems and data; the Company’s continued ability to use alternatives to its systems, to the extent needed; the Company’s ability to process information it collected while using alternatives to its systems and the integrity of that information; the adequacy of processes during the period of disruption of the Company’s systems; the results of the Company’s analysis of the scope and details of the
+cybersecurity incident; the unauthorized release of any of the Company’s data, including third party data held by the Company, or the use of any such data for any fraudulent purposes; potential adverse impact of the incident on the Company’s results of operations, including revenue, operating income and cash flows from operations, and on its financial condition, including liquidity; diversion of management’s attention from operations of the Company to address the cybersecurity incident; potential litigation related to the cybersecurity incident; potential adverse effects on relationships with customers, suppliers, patients and other third parties as a result of the cybersecurity incident; reputational risk related to the cybersecurity incident; regulatory scrutiny as a result of the cybersecurity incident; and other risks listed or described from time to time in our filings with the SEC, including our Annual Report on Form  10-K  and Quarterly Reports on Form  10-Q  that we have filed or will file hereafter. Except as required by applicable law, we disclaim any intention or obligation to publicly update or revise any forward-looking statement to reflect any change in our expectations or in events, conditions or circumstances on which those expectations may be based, or that affect the likelihood that actual results will differ from those contained in the forward-looking statements.
+Item 9.01
+Financial Statements and Exhibits.
+(d)
+Exhibits
+99.1  General Assurance Letter
+99.2  Company Statement
+104 Cover Page Interactive Data File (the cover page XBRL tags are embedded within the Inline XBRL document)
+SIGNATURE
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+STRYKER CORPORATION
+(Registrant)
+Dated: March 23, 2026
+By:
+/s/ Tina S. French
+Name:
+Tina S. French
+Title:
+Corporate Secretary

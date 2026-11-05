@@ -1,0 +1,1387 @@
+ba-20240331
+FALSE  2024  Q1  0000012927  --12-31  http://fasb.org/us-gaap/2023#OtherAssetsCurrent  http://fasb.org/us-gaap/2023#OtherAssetsCurrent  http://fasb.org/us-gaap/2023#AccruedLiabilitiesCurrent  http://fasb.org/us-gaap/2023#AccruedLiabilitiesCurrent         0000012927    2024-01-01  2024-03-31      0000012927    2024-04-17     xbrli:shares     0000012927   us-gaap:ProductMember     2024-01-01  2024-03-31     iso4217:USD     0000012927   us-gaap:ProductMember     2023-01-01  2023-03-31      0000012927   us-gaap:ServiceMember     2024-01-01  2024-03-31      0000012927   us-gaap:ServiceMember     2023-01-01  2023-03-31      0000012927    2023-01-01  2023-03-31       iso4217:USD    xbrli:shares       0000012927    2024-03-31      0000012927    2023-12-31      0000012927    2022-12-31      0000012927    2023-03-31      0000012927   us-gaap:CommonStockMember     2022-12-31      0000012927   us-gaap:AdditionalPaidInCapitalMember     2022-12-31      0000012927   us-gaap:TreasuryStockCommonMember     2022-12-31      0000012927   us-gaap:RetainedEarningsMember     2022-12-31      0000012927   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2022-12-31      0000012927   us-gaap:NoncontrollingInterestMember     2022-12-31      0000012927   us-gaap:RetainedEarningsMember     2023-01-01  2023-03-31      0000012927   us-gaap:NoncontrollingInterestMember     2023-01-01  2023-03-31      0000012927   us-gaap:AdditionalPaidInCapitalMember     2023-01-01  2023-03-31      0000012927   us-gaap:TreasuryStockCommonMember     2023-01-01  2023-03-31      0000012927   us-gaap:CommonStockMember     2023-03-31      0000012927   us-gaap:AdditionalPaidInCapitalMember     2023-03-31      0000012927   us-gaap:TreasuryStockCommonMember     2023-03-31      0000012927   us-gaap:RetainedEarningsMember     2023-03-31      0000012927   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-03-31      0000012927   us-gaap:NoncontrollingInterestMember     2023-03-31      0000012927   us-gaap:CommonStockMember     2023-12-31      0000012927   us-gaap:AdditionalPaidInCapitalMember     2023-12-31      0000012927   us-gaap:TreasuryStockCommonMember     2023-12-31      0000012927   us-gaap:RetainedEarningsMember     2023-12-31      0000012927   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2023-12-31      0000012927   us-gaap:NoncontrollingInterestMember     2023-12-31      0000012927   us-gaap:RetainedEarningsMember     2024-01-01  2024-03-31      0000012927   us-gaap:NoncontrollingInterestMember     2024-01-01  2024-03-31      0000012927   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-01-01  2024-03-31      0000012927   us-gaap:AdditionalPaidInCapitalMember     2024-01-01  2024-03-31      0000012927   us-gaap:TreasuryStockCommonMember     2024-01-01  2024-03-31      0000012927   us-gaap:CommonStockMember     2024-03-31      0000012927   us-gaap:AdditionalPaidInCapitalMember     2024-03-31      0000012927   us-gaap:TreasuryStockCommonMember     2024-03-31      0000012927   us-gaap:RetainedEarningsMember     2024-03-31      0000012927   us-gaap:AccumulatedOtherComprehensiveIncomeMember     2024-03-31      0000012927   us-gaap:NoncontrollingInterestMember     2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember     2024-01-01  2024-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember     2023-01-01  2023-03-31      0000012927   ba:CorporateReconcilingItemsAndEliminationsMember     2024-01-01  2024-03-31      0000012927   ba:CorporateReconcilingItemsAndEliminationsMember     2023-01-01  2023-03-31      0000012927   us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   ba:AntidilutiveOrPerformanceConditionNotMetMember  us-gaap:PerformanceSharesMember     2024-01-01  2024-03-31      0000012927   ba:AntidilutiveOrPerformanceConditionNotMetMember  us-gaap:PerformanceSharesMember     2023-01-01  2023-03-31      0000012927   ba:AntidilutiveOrPerformanceConditionNotMetMember  us-gaap:RestrictedStockUnitsRSUMember     2024-01-01  2024-03-31      0000012927   ba:AntidilutiveOrPerformanceConditionNotMetMember  us-gaap:RestrictedStockUnitsRSUMember     2023-01-01  2023-03-31      0000012927   ba:AntidilutiveOrPerformanceConditionNotMetMember  us-gaap:EmployeeStockOptionMember     2024-01-01  2024-03-31      0000012927   ba:AntidilutiveOrPerformanceConditionNotMetMember  us-gaap:EmployeeStockOptionMember     2023-01-01  2023-03-31     xbrli:pure     0000012927   srt:MinimumMember     2023-12-31      0000012927   srt:MaximumMember     2023-12-31      0000012927   us-gaap:OtherCurrentAssetsMember     2022-12-31      0000012927   us-gaap:OtherNoncurrentAssetsMember     2022-12-31      0000012927   us-gaap:OtherCurrentAssetsMember     2023-01-01  2023-03-31      0000012927   us-gaap:OtherNoncurrentAssetsMember     2023-01-01  2023-03-31      0000012927   us-gaap:OtherCurrentAssetsMember     2023-03-31      0000012927   us-gaap:OtherNoncurrentAssetsMember     2023-03-31      0000012927   us-gaap:OtherCurrentAssetsMember     2023-12-31      0000012927   us-gaap:OtherNoncurrentAssetsMember     2023-12-31      0000012927   us-gaap:OtherCurrentAssetsMember     2024-01-01  2024-03-31      0000012927   us-gaap:OtherNoncurrentAssetsMember     2024-01-01  2024-03-31      0000012927   us-gaap:OtherCurrentAssetsMember     2024-03-31      0000012927   us-gaap:OtherNoncurrentAssetsMember     2024-03-31      0000012927   ba:AirplaneProgram737Member     2024-03-31      0000012927   ba:AirplaneProgram737Member     2023-12-31      0000012927   ba:AirplaneProgram777xMember     2024-03-31      0000012927   ba:AirplaneProgram777xMember     2023-12-31      0000012927   ba:AirplaneProgram777xMember     2023-01-01  2023-03-31      0000012927   ba:AirplaneProgram787Member     2024-03-31      0000012927   ba:AirplaneProgram787Member     2023-12-31      0000012927   ba:AirplaneProgram787Member     2024-01-01  2024-03-31      0000012927   ba:AirplaneProgram787Member     2023-01-01  2023-03-31      0000012927   ba:EarlyIssueSalesConsiderationMember     2024-03-31      0000012927   ba:EarlyIssueSalesConsiderationMember     2023-12-31      0000012927   srt:MinimumMember     2024-03-31      0000012927   srt:MaximumMember     2024-03-31      0000012927   ba:BBBCreditRatingMember     2024-03-31      0000012927   ba:BCreditRatingMember     2024-03-31      0000012927   ba:CCCCreditRatingMember     2024-03-31      0000012927   srt:B717Member     2024-03-31      0000012927   srt:B717Member     2023-12-31      0000012927   ba:B7478Member     2024-03-31      0000012927   ba:B7478Member     2023-12-31      0000012927   srt:B737Member     2024-03-31      0000012927   srt:B737Member     2023-12-31      0000012927   srt:B777Member     2024-03-31      0000012927   srt:B777Member     2023-12-31      0000012927   ba:B747400aircraftMember     2024-03-31      0000012927   ba:B747400aircraftMember     2023-12-31      0000012927   ba:TimeDepositsMember     2024-01-01  2024-03-31      0000012927   ba:TimeDepositsMember     2023-01-01  2023-03-31      0000012927   ba:AlaskaAirlines7379AccidentAnd7379GroundingMember     2024-01-01  2024-03-31      0000012927   srt:B737Member     2023-12-31      0000012927   srt:B737Member     2022-12-31      0000012927   srt:B737Member     2024-01-01  2024-03-31      0000012927   srt:B737Member     2023-01-01  2023-03-31      0000012927   srt:B737Member     2024-03-31      0000012927   srt:B737Member     2023-03-31      0000012927   ba:ContingentOnCustomerNegotiationsMember     2024-03-31      0000012927   ba:CurrentYearMember     2024-01-01  2024-03-31      0000012927   ba:TotalContractualTradeInValueMaximumMember  ba:CommercialAircraftCommitmentsMember     2024-03-31      0000012927   ba:TotalContractualTradeInValueMaximumMember  ba:CommercialAircraftCommitmentsMember     2023-12-31      0000012927   ba:NetAmountsPayableToCustomersRelatedToProbableContractualTradeInCommitmentsMember  ba:CommercialAircraftCommitmentsMember     2024-03-31      0000012927   ba:NetAmountsPayableToCustomersRelatedToProbableContractualTradeInCommitmentsMember  ba:CommercialAircraftCommitmentsMember     2023-12-31      0000012927   ba:ProbableContractualTradeInValueMember  ba:CommercialAircraftCommitmentsMember     2024-03-31      0000012927   ba:ProbableContractualTradeInValueMember  ba:CommercialAircraftCommitmentsMember     2023-12-31      0000012927   ba:FinancingCommitmentMember     2024-03-31      0000012927   ba:FinancingCommitmentMember     2023-12-31      0000012927   ba:FinancingCommitmentMember  us-gaap:ExternalCreditRatingNonInvestmentGradeMember     2024-03-31      0000012927   ba:JointVentureMember     2024-03-31      0000012927   ba:SupplierFinanceProgramMajorityOfAmountsPayableMember  srt:MinimumMember     2024-03-31      0000012927   ba:SupplierFinanceProgramMajorityOfAmountsPayableMember  srt:MaximumMember     2024-03-31      0000012927   ba:VC25BMember     2024-03-31     ba:aircraft     0000012927   ba:VC25BMember     2023-01-01  2023-12-31      0000012927   ba:KC46ATankerMember     2011-12-31     ba:tanker     0000012927    2011-12-31     ba:lot     0000012927   ba:KC46ATankerMember     2024-03-31      0000012927   ba:KC46ATankerMember     2023-01-01  2023-12-31      0000012927   ba:KC46ATankerMember     2024-01-01  2024-03-31      0000012927   ba:CapitalizedPrecontractCostsMember  ba:KC46ATankerMember     2024-03-31      0000012927   ba:PotentialTerminationLiabilitiesMember  ba:KC46ATankerMember     2024-03-31      0000012927   ba:MQ25Member     2018-09-30      0000012927   ba:MQ25Member     2018-07-01  2018-09-30      0000012927   ba:MQ25Member     2023-01-01  2023-12-31      0000012927   ba:MQ25Member     2024-01-01  2024-03-31      0000012927   ba:T7AEMDMember     2018-12-31     ba:simulator     0000012927   ba:T7AProductionMember     2018-12-31      0000012927   ba:T7AEMDAndProductionMember     2023-01-01  2023-12-31      0000012927   ba:T7AEMDAndProductionMember     2024-01-01  2024-03-31      0000012927   ba:T7AProductionMember  ba:CapitalizedPrecontractCostsMember     2024-03-31      0000012927   ba:T7AProductionMember  ba:PotentialTerminationLiabilitiesMember     2024-03-31      0000012927   ba:CommercialCrewMember     2023-01-01  2023-12-31      0000012927   ba:CommercialCrewMember  ba:CapitalizedPrecontractCostsMember     2024-03-31      0000012927   ba:PotentialTerminationLiabilitiesMember  ba:CommercialCrewMember     2024-03-31      0000012927   ba:ContingentRepurchaseCommitmentMember     2024-03-31      0000012927   ba:ContingentRepurchaseCommitmentMember     2023-12-31      0000012927   us-gaap:FinancialGuaranteeMember     2024-03-31      0000012927   us-gaap:FinancialGuaranteeMember     2023-12-31      0000012927   srt:MinimumMember  ba:ContingentRepurchaseCommitmentMember     2024-03-31      0000012927   srt:MaximumMember  ba:ContingentRepurchaseCommitmentMember     2024-03-31      0000012927   us-gaap:PensionPlansDefinedBenefitMember     2024-01-01  2024-03-31      0000012927   us-gaap:PensionPlansDefinedBenefitMember     2023-01-01  2023-03-31      0000012927   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2024-01-01  2024-03-31      0000012927   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2023-01-01  2023-03-31      0000012927   us-gaap:PensionPlansDefinedBenefitMember  us-gaap:OperatingIncomeLossMember     2024-01-01  2024-03-31      0000012927   us-gaap:PensionPlansDefinedBenefitMember  us-gaap:OperatingIncomeLossMember     2023-01-01  2023-03-31      0000012927   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember  us-gaap:OperatingIncomeLossMember     2024-01-01  2024-03-31      0000012927   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember  us-gaap:OperatingIncomeLossMember     2023-01-01  2023-03-31      0000012927   us-gaap:OtherIncomeMember  us-gaap:PensionPlansDefinedBenefitMember     2024-01-01  2024-03-31      0000012927   us-gaap:OtherIncomeMember  us-gaap:PensionPlansDefinedBenefitMember     2023-01-01  2023-03-31      0000012927   us-gaap:OtherIncomeMember  us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2024-01-01  2024-03-31      0000012927   us-gaap:OtherIncomeMember  us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2023-01-01  2023-03-31      0000012927   ba:OperatingIncomeLossBeforeTaxesMember  us-gaap:PensionPlansDefinedBenefitMember     2024-01-01  2024-03-31      0000012927   ba:OperatingIncomeLossBeforeTaxesMember  us-gaap:PensionPlansDefinedBenefitMember     2023-01-01  2023-03-31      0000012927   ba:OperatingIncomeLossBeforeTaxesMember  us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2024-01-01  2024-03-31      0000012927   ba:OperatingIncomeLossBeforeTaxesMember  us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember     2023-01-01  2023-03-31      0000012927   us-gaap:RestrictedStockUnitsRSUMember     2024-02-20  2024-02-20      0000012927   us-gaap:RestrictedStockUnitsRSUMember     2024-03-11  2024-03-11      0000012927   ba:PerformanceRestrictedStockUnitsPRSUMember     2024-03-11  2024-03-11      0000012927   ba:PerformanceRestrictedStockUnitsPRSUMember  srt:MinimumMember     2024-03-11  2024-03-11      0000012927   ba:PerformanceRestrictedStockUnitsPRSUMember  srt:MaximumMember     2024-03-11  2024-03-11      0000012927   us-gaap:AccumulatedTranslationAdjustmentMember     2022-12-31      0000012927   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2022-12-31      0000012927   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2022-12-31      0000012927   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2022-12-31      0000012927   us-gaap:AccumulatedTranslationAdjustmentMember     2023-01-01  2023-03-31      0000012927   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2023-01-01  2023-03-31      0000012927   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2023-01-01  2023-03-31      0000012927   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2023-01-01  2023-03-31      0000012927   us-gaap:AccumulatedTranslationAdjustmentMember     2023-03-31      0000012927   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2023-03-31      0000012927   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2023-03-31      0000012927   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2023-03-31      0000012927   us-gaap:AccumulatedTranslationAdjustmentMember     2023-12-31      0000012927   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2023-12-31      0000012927   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2023-12-31      0000012927   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2023-12-31      0000012927   us-gaap:AccumulatedTranslationAdjustmentMember     2024-01-01  2024-03-31      0000012927   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2024-01-01  2024-03-31      0000012927   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2024-01-01  2024-03-31      0000012927   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2024-01-01  2024-03-31      0000012927   us-gaap:AccumulatedTranslationAdjustmentMember     2024-03-31      0000012927   us-gaap:AccumulatedNetUnrealizedInvestmentGainLossMember     2024-03-31      0000012927   us-gaap:AccumulatedGainLossNetCashFlowHedgeParentMember     2024-03-31      0000012927   us-gaap:AccumulatedDefinedBenefitPlansAdjustmentMember     2024-03-31      0000012927   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-03-31      0000012927   us-gaap:ForeignExchangeContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2023-12-31      0000012927   us-gaap:CommodityContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2024-03-31      0000012927   us-gaap:CommodityContractMember  us-gaap:DesignatedAsHedgingInstrumentMember     2023-12-31      0000012927   us-gaap:NondesignatedMember  us-gaap:ForeignExchangeContractMember     2024-03-31      0000012927   us-gaap:NondesignatedMember  us-gaap:ForeignExchangeContractMember     2023-12-31      0000012927   us-gaap:CommodityContractMember  us-gaap:NondesignatedMember     2024-03-31      0000012927   us-gaap:CommodityContractMember  us-gaap:NondesignatedMember     2023-12-31      0000012927   us-gaap:ForeignExchangeContractMember     2024-01-01  2024-03-31      0000012927   us-gaap:ForeignExchangeContractMember     2023-01-01  2023-03-31      0000012927   us-gaap:CommodityContractMember     2024-01-01  2024-03-31      0000012927   us-gaap:CommodityContractMember     2023-01-01  2023-03-31      0000012927   us-gaap:OperatingExpenseMember     2024-01-01  2024-03-31      0000012927   us-gaap:OperatingExpenseMember     2023-01-01  2023-03-31      0000012927   us-gaap:GeneralAndAdministrativeExpenseMember     2024-01-01  2024-03-31      0000012927   us-gaap:GeneralAndAdministrativeExpenseMember     2023-01-01  2023-03-31      0000012927   us-gaap:OperatingExpenseMember     2024-01-01  2024-03-31      0000012927   us-gaap:OperatingExpenseMember     2023-01-01  2023-03-31      0000012927   us-gaap:GeneralAndAdministrativeExpenseMember     2024-01-01  2024-03-31      0000012927   us-gaap:GeneralAndAdministrativeExpenseMember     2023-01-01  2023-03-31      0000012927   us-gaap:FairValueMeasurementsRecurringMember     2024-03-31      0000012927   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2024-03-31      0000012927   us-gaap:FairValueMeasurementsRecurringMember     2023-12-31      0000012927   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel1Member     2023-12-31      0000012927   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2024-03-31      0000012927   us-gaap:FairValueMeasurementsRecurringMember  us-gaap:FairValueInputsLevel2Member     2023-12-31      0000012927   us-gaap:InvestmentsMember  us-gaap:FairValueMeasurementsNonrecurringMember     2024-03-31      0000012927   us-gaap:InvestmentsMember  us-gaap:FairValueInputsLevel3Member  us-gaap:MarketApproachValuationTechniqueMember  us-gaap:FairValueMeasurementsNonrecurringMember     2024-03-31      0000012927   us-gaap:InvestmentsMember  us-gaap:FairValueMeasurementsNonrecurringMember     2024-01-01  2024-03-31      0000012927   us-gaap:InvestmentsMember  us-gaap:FairValueMeasurementsNonrecurringMember     2023-03-31      0000012927   us-gaap:InvestmentsMember  us-gaap:FairValueInputsLevel3Member  us-gaap:MarketApproachValuationTechniqueMember  us-gaap:FairValueMeasurementsNonrecurringMember     2023-03-31      0000012927   us-gaap:InvestmentsMember  us-gaap:FairValueMeasurementsNonrecurringMember     2023-01-01  2023-03-31      0000012927   ba:OperatingLeaseEquipmentAndAssetsHeldForSaleOrReLeaseMember  us-gaap:FairValueMeasurementsNonrecurringMember     2024-03-31      0000012927   ba:OperatingLeaseEquipmentAndAssetsHeldForSaleOrReLeaseMember  us-gaap:FairValueInputsLevel3Member  us-gaap:MarketApproachValuationTechniqueMember  us-gaap:FairValueMeasurementsNonrecurringMember     2024-03-31      0000012927   ba:OperatingLeaseEquipmentAndAssetsHeldForSaleOrReLeaseMember  us-gaap:FairValueMeasurementsNonrecurringMember     2024-01-01  2024-03-31      0000012927   ba:OperatingLeaseEquipmentAndAssetsHeldForSaleOrReLeaseMember  us-gaap:FairValueMeasurementsNonrecurringMember     2023-03-31      0000012927   ba:OperatingLeaseEquipmentAndAssetsHeldForSaleOrReLeaseMember  us-gaap:FairValueInputsLevel3Member  us-gaap:MarketApproachValuationTechniqueMember  us-gaap:FairValueMeasurementsNonrecurringMember     2023-03-31      0000012927   ba:OperatingLeaseEquipmentAndAssetsHeldForSaleOrReLeaseMember  us-gaap:FairValueMeasurementsNonrecurringMember     2023-01-01  2023-03-31      0000012927   us-gaap:FairValueMeasurementsNonrecurringMember  us-gaap:PropertyPlantAndEquipmentMember     2024-03-31      0000012927   us-gaap:MarketApproachValuationTechniqueMember  us-gaap:FairValueInputsLevel2Member  us-gaap:PropertyPlantAndEquipmentMember  us-gaap:FairValueMeasurementsNonrecurringMember     2024-03-31      0000012927   us-gaap:FairValueMeasurementsNonrecurringMember  us-gaap:PropertyPlantAndEquipmentMember     2024-01-01  2024-03-31      0000012927   us-gaap:FairValueMeasurementsNonrecurringMember  us-gaap:PropertyPlantAndEquipmentMember     2023-03-31      0000012927   us-gaap:MarketApproachValuationTechniqueMember  us-gaap:FairValueInputsLevel2Member  us-gaap:PropertyPlantAndEquipmentMember  us-gaap:FairValueMeasurementsNonrecurringMember     2023-03-31      0000012927   us-gaap:FairValueMeasurementsNonrecurringMember  us-gaap:PropertyPlantAndEquipmentMember     2023-01-01  2023-03-31      0000012927   us-gaap:OtherAssetsMember  us-gaap:FairValueMeasurementsNonrecurringMember     2024-03-31      0000012927   us-gaap:IncomeApproachValuationTechniqueMember  us-gaap:FairValueInputsLevel3Member  ba:OtherAssetsAndAcquiredIntangibleAssetsMember  us-gaap:FairValueMeasurementsNonrecurringMember     2024-03-31      0000012927   us-gaap:OtherAssetsMember  us-gaap:FairValueMeasurementsNonrecurringMember     2024-01-01  2024-03-31      0000012927   us-gaap:OtherAssetsMember  us-gaap:FairValueMeasurementsNonrecurringMember     2023-03-31      0000012927   us-gaap:IncomeApproachValuationTechniqueMember  us-gaap:FairValueInputsLevel3Member  ba:OtherAssetsAndAcquiredIntangibleAssetsMember  us-gaap:FairValueMeasurementsNonrecurringMember     2023-03-31      0000012927   us-gaap:OtherAssetsMember  us-gaap:FairValueMeasurementsNonrecurringMember     2023-01-01  2023-03-31      0000012927   us-gaap:FairValueMeasurementsNonrecurringMember     2024-03-31      0000012927   us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsNonrecurringMember     2024-03-31      0000012927   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsNonrecurringMember     2024-03-31      0000012927   us-gaap:FairValueMeasurementsNonrecurringMember     2024-01-01  2024-03-31      0000012927   us-gaap:FairValueMeasurementsNonrecurringMember     2023-03-31      0000012927   us-gaap:FairValueInputsLevel2Member  us-gaap:FairValueMeasurementsNonrecurringMember     2023-03-31      0000012927   us-gaap:FairValueInputsLevel3Member  us-gaap:FairValueMeasurementsNonrecurringMember     2023-03-31      0000012927   us-gaap:FairValueMeasurementsNonrecurringMember     2023-01-01  2023-03-31      0000012927   srt:MinimumMember  ba:AircraftValuePublicationsMember     2024-03-31      0000012927   ba:AircraftValuePublicationsMember  srt:MaximumMember     2024-03-31      0000012927   ba:AircraftValuePublicationsMember     2024-03-31      0000012927   ba:AircraftConditionAdjustmentsMember  srt:MinimumMember     2024-03-31      0000012927   ba:AircraftConditionAdjustmentsMember  srt:MaximumMember     2024-03-31      0000012927   ba:AircraftConditionAdjustmentsMember     2024-03-31      0000012927   us-gaap:FairValueInputsLevel2Member     2024-03-31      0000012927   us-gaap:FairValueInputsLevel3Member     2024-03-31      0000012927   us-gaap:FairValueInputsLevel2Member     2023-12-31      0000012927    2019-01-01  2019-12-31     ba:segment     0000012927   ba:CommercialAirplanesSegmentMember  srt:EuropeMember  us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  srt:EuropeMember  us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  srt:AsiaMember  us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  srt:AsiaMember  us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember  us-gaap:MiddleEastMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember  us-gaap:MiddleEastMember     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  ba:OtherMember  us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  ba:OtherMember  us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:NonUsMember  us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:NonUsMember  us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember  country:US     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember  country:US     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember  srt:B737MaxMember  ba:CustomerConcessionsMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember  srt:B737MaxMember  ba:CustomerConcessionsMember     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember  ba:ExternalCustomersMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember  ba:ExternalCustomersMember     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:IntersegmentEliminationMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:IntersegmentEliminationMember     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:FixedPriceContractMember  us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:FixedPriceContractMember  us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember  us-gaap:TransferredAtPointInTimeMember     2024-01-01  2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember  us-gaap:TransferredAtPointInTimeMember     2023-01-01  2023-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:OperatingSegmentsMember  country:US     2024-01-01  2024-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:OperatingSegmentsMember  country:US     2023-01-01  2023-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:NonUsMember  us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:NonUsMember  us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:TransferredOverTimeMember  us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:TransferredOverTimeMember  us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:FixedPriceContractMember  us-gaap:OperatingSegmentsMember     2024-01-01  2024-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:FixedPriceContractMember  us-gaap:OperatingSegmentsMember     2023-01-01  2023-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:OperatingSegmentsMember  ba:USGovernmentContractsMember     2024-01-01  2024-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:OperatingSegmentsMember  ba:USGovernmentContractsMember     2023-01-01  2023-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:CommercialCustomersMember  ba:GlobalServicesMember     2024-01-01  2024-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:CommercialCustomersMember  ba:GlobalServicesMember     2023-01-01  2023-03-31      0000012927   ba:GovernmentCustomersMember  us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember     2024-01-01  2024-03-31      0000012927   ba:GovernmentCustomersMember  us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember     2023-01-01  2023-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember  ba:ExternalCustomersMember     2024-01-01  2024-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember  ba:ExternalCustomersMember     2023-01-01  2023-03-31      0000012927   ba:GlobalServicesMember  us-gaap:IntersegmentEliminationMember     2024-01-01  2024-03-31      0000012927   ba:GlobalServicesMember  us-gaap:IntersegmentEliminationMember     2023-01-01  2023-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember  us-gaap:TransferredAtPointInTimeMember     2024-01-01  2024-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember  us-gaap:TransferredAtPointInTimeMember     2023-01-01  2023-03-31      0000012927   us-gaap:FixedPriceContractMember  us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember     2024-01-01  2024-03-31      0000012927   us-gaap:FixedPriceContractMember  us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember     2023-01-01  2023-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember  ba:USGovernmentContractsMember     2024-01-01  2024-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember  ba:USGovernmentContractsMember     2023-01-01  2023-03-31      0000012927   ba:WithinNextFiscalYearMember     2024-03-31      0000012927   ba:WithinNextFourFiscalYearsMember     2024-03-31      0000012927   us-gaap:PensionPlansDefinedBenefitMember  ba:CorporateReconcilingItemsAndEliminationsMember     2024-01-01  2024-03-31      0000012927   us-gaap:PensionPlansDefinedBenefitMember  ba:CorporateReconcilingItemsAndEliminationsMember     2023-01-01  2023-03-31      0000012927   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember  ba:CorporateReconcilingItemsAndEliminationsMember     2024-01-01  2024-03-31      0000012927   us-gaap:OtherPostretirementBenefitPlansDefinedBenefitMember  ba:CorporateReconcilingItemsAndEliminationsMember     2023-01-01  2023-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember     2024-03-31      0000012927   ba:CommercialAirplanesSegmentMember  us-gaap:OperatingSegmentsMember     2023-12-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:OperatingSegmentsMember     2024-03-31      0000012927   ba:BoeingDefenseSpaceSecuritySegmentMember  us-gaap:OperatingSegmentsMember     2023-12-31      0000012927   us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember     2024-03-31      0000012927   us-gaap:OperatingSegmentsMember  ba:GlobalServicesMember     2023-12-31      0000012927   ba:CorporateReconcilingItemsAndEliminationsMember     2024-03-31      0000012927   ba:CorporateReconcilingItemsAndEliminationsMember     2023-12-31
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM  10-Q
+(Mark One)
+☒          QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended    March 31, 2024
+or
+☐          TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                          to
+Commission file number    1-442
+THE BOEING COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware           91-0425694
+(State or other jurisdiction of
+incorporation or organization)         (I.R.S. Employer Identification No.)
+929 Long Bridge Drive      Arlington,      VA           22202
+(Address of principal executive offices)         (Zip Code)
+(703)      465-3500
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class     Trading Symbol(s)     Name of each exchange on which registered
+Common Stock, $5.00 Par Value       BA       New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.  Yes    ☒   No   ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).  Yes    ☒   No   ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act. (Check one):
+Large Accelerated Filer     ☒     Accelerated filer    ☐
+Non-accelerated filer    ☐     Smaller reporting company      ☐
+Emerging growth company     ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.   ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).
+Yes   ☐    No    ☒
+As of April 17, 2024, there were  613,884,224  shares of common stock, $5.00 par value, issued and outstanding.
+THE BOEING COMPANY
+FORM 10-Q
+For the Quarter Ended March 31, 2024
+INDEX
+Part I. Financial Information (Unaudited)    Page
+Item 1.
+Financial Statements
+1
+Condensed Consolidated Statements of Operations
+1
+Condensed Consolidated Statements of Comprehensive Income
+2
+Condensed Consolidated Statements of Financial Position
+3
+Condensed Consolidated Statements of Cash Flows
+4
+Condensed Consolidated Statements of Equity
+5
+Summary of Business Segment Data
+6
+Note 1 - Basis of Presentation
+7
+Note 2 - Earnings Per Share
+7
+Note 3 - Income Taxes
+8
+Note 4 - Allowance for Losses on Financial Assets
+9
+Note 5 - Inventories
+10
+Note 6 - Contracts with Customers
+10
+Note 7 - Financing Receivables and Operating Lease Equipment
+11
+Note 8 - Investments
+12
+Note 9 - Liabilities, Commitments & Contingencies
+13
+Note 10 - Arrangements with Off-Balance Sheet Risk
+16
+Note 11 - Postretirement Plans
+17
+Note 12 - Share-Based Compensation and Other Compensation Arrangements
+18
+Note 13 - Shareholders' Equity
+19
+Note 14 - Derivative Financial Instruments
+19
+Note 15 - Fair Value Measurements
+21
+Note 16 - Legal Proceedings
+23
+Note 17 - Segment and Revenue Information
+23
+Report of Independent Registered Public Accounting Firm
+27
+Forward-Looking Statements
+28
+Item 2.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+30
+Consolidated Results of Operations and Financial Condition
+30
+Commercial Airplanes
+35
+Defense, Space & Security
+38
+Global Services
+40
+Liquidity and Capital Resources
+41
+Contingent Obligations
+42
+Non-GAAP Measures
+43
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+44
+Item 4.
+Controls and Procedures
+45
+Part II. Other Information
+Item 1.
+Legal Proceedings
+46
+Item 1A.
+Risk Factors
+46
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+46
+Item 3.
+Defaults Upon Senior Securities
+46
+Item 4.
+Mine Safety Disclosures
+46
+Item 5.
+Other Information
+46
+Item 6.
+Exhibits
+47
+Signature
+48
+Table of Contents
+Part I. Financial Information
+Item 1. Financial Statements
+The Boeing Company and Subsidiaries
+Condensed Consolidated Statements of Operations
+(Unaudited)
+(Dollars in millions, except per share data)    Three months ended March 31
+2024     2023
+Sales of products    $ 13,268          $ 14,914
+Sales of services     3,301           3,007
+Total revenues     16,569           17,921
+Cost of products    ( 12,064 )      ( 13,553 )
+Cost of services    ( 2,629 )      ( 2,445 )
+Total costs and expenses    ( 14,693 )      ( 15,998 )
+1,876           1,923
+Income/(loss) from operating investments, net     67          ( 27 )
+General and administrative expense    ( 1,161 )      ( 1,304 )
+Research and development expense, net    ( 868 )      ( 741 )
+Loss from operations    ( 86 )      ( 149 )
+Other income, net     277           302
+Interest and debt expense    ( 569 )      ( 649 )
+Loss before income taxes    ( 378 )      ( 496 )
+Income tax benefit     23           71
+Net loss    ( 355 )      ( 425 )
+Less: net loss attributable to noncontrolling interest    ( 12 )      ( 11 )
+Net loss attributable to Boeing Shareholders    ($ 343 )      ($ 414 )
+Basic loss per share    ($ 0.56 )      ($ 0.69 )
+Diluted loss per share    ($ 0.56 )      ($ 0.69 )
+Weighted average diluted shares (millions)     613.2       602.5
+See Notes to the Condensed Consolidated Financial Statements.
+1
+Table of Contents
+The Boeing Company and Subsidiaries
+Condensed Consolidated Statements of Comprehensive Income
+(Unaudited)
+(Dollars in millions)    Three months ended March 31
+2024         2023
+Net loss    ($ 355 )      ($ 425 )
+Other comprehensive (loss)/income, net of tax:
+Currency translation adjustments    ( 35 )       16
+Derivative instruments:
+Unrealized (losses)/gains arising during period, net of tax of $ 19  and ($ 5 )
+( 65 )       18
+Reclassification adjustment for losses/(gains) included in net loss, net of tax of ($ 2 ) and $ 1
+7          ( 5 )
+Total unrealized (loss)/gain on derivative instruments, net of tax
+( 58 )       13
+Defined benefit pension plans and other postretirement benefits:
+Net actuarial loss arising during the period, net of tax of $ 17  and $ 2
+( 19 )      ( 7 )
+Amortization of actuarial losses/(gains) included in net periodic pension cost, net of tax of ($ 12 ) and $ 0
+11          ( 2 )
+Amortization of prior service credits included in net periodic pension cost, net of tax of $ 12  and $ 6
+( 11 )      ( 20 )
+Pension and postretirement cost related to our equity method investments, net of tax of ($ 3 ) and $ 0
+5
+Total defined benefit pension plans and other postretirement benefits, net of tax    ( 14 )      ( 29 )
+Other comprehensive (loss)/income, net of tax
+( 107 )       0
+Comprehensive loss, net of tax    ( 462 )      ( 425 )
+Less: Comprehensive loss related to noncontrolling interest    ( 12 )      ( 11 )
+Comprehensive loss attributable to Boeing Shareholders, net of tax    ($ 450 )      ($ 414 )
+See Notes to the Condensed Consolidated Financial Statements.
+2
+Table of Contents
+The Boeing Company and Subsidiaries
+Condensed Consolidated Statements of Financial Position
+(Unaudited)
+(Dollars in millions, except per share data)    March 31
+2024     December 31
+2023
+Assets
+Cash and cash equivalents    $ 6,914          $ 12,691
+Short-term and other investments     615           3,274
+Accounts receivable, net     2,959           2,649
+Unbilled receivables, net     9,673           8,317
+Current portion of financing receivables, net     57           99
+Inventories     83,471           79,741
+Other current assets, net     2,843           2,504
+Total current assets     106,532           109,275
+Financing receivables and operating lease equipment, net     833           860
+Property, plant and equipment, net of accumulated depreciation of $ 22,414  and $ 22,245
+10,696           10,661
+Goodwill     8,089           8,093
+Acquired intangible assets, net     2,034           2,094
+Deferred income taxes     68           59
+Investments     1,042           1,035
+Other assets, net of accumulated amortization of $ 1,098  and $ 1,046
+5,190           4,935
+Total assets    $ 134,484          $ 137,012
+Liabilities and equity
+Accounts payable    $ 11,616          $ 11,964
+Accrued liabilities     21,607           22,331
+Advances and progress billings     58,972           56,328
+Short-term debt and current portion of long-term debt     1,063           5,204
+Total current liabilities     93,258           95,827
+Deferred income taxes     223           229
+Accrued retiree health care     2,196           2,233
+Accrued pension plan liability, net     6,400           6,516
+Other long-term liabilities     2,546           2,332
+Long-term debt     46,877           47,103
+Total liabilities     151,500           154,240
+Shareholders’ equity:
+Common stock, par value $  5.00   —   1,200,000,000   shares authorized;   1,012,261,159   shares issued
+5,061           5,061
+Additional paid-in capital     10,539           10,309
+Treasury stock, at cost —  398,878,880  and  402,746,136  shares
+( 49,105 )      ( 49,549 )
+Retained earnings     26,908           27,251
+Accumulated other comprehensive loss    ( 10,412 )      ( 10,305 )
+Total shareholders’ deficit    ( 17,009 )      ( 17,233 )
+Noncontrolling interests    ( 7 )       5
+Total equity    ( 17,016 )      ( 17,228 )
+Total liabilities and equity    $ 134,484          $ 137,012
+See Notes to the Condensed Consolidated Financial Statements.
+3
+Table of Contents
+The Boeing Company and Subsidiaries
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Cash flows – operating activities:
+Net loss    ($ 355 )      ($ 425 )
+Adjustments to reconcile net loss to net cash provided by operating activities:
+Non-cash items –
+Share-based plans expense     119           222
+Treasury shares issued for 401(k) contribution     606           553
+Depreciation and amortization     442           457
+Investment/asset impairment charges, net     21           11
+Other charges and credits, net     10           33
+Changes in assets and liabilities –
+Accounts receivable    ( 328 )      ( 341 )
+Unbilled receivables    ( 1,357 )      ( 1,055 )
+Advances and progress billings     2,718           1,417
+Inventories    ( 3,778 )      ( 390 )
+Other current assets    ( 249 )       82
+Accounts payable    ( 264 )       231
+Accrued liabilities    ( 666 )      ( 769 )
+Income taxes receivable, payable and deferred    ( 59 )      ( 122 )
+Other long-term liabilities    ( 83 )      ( 117 )
+Pension and other postretirement plans    ( 261 )      ( 244 )
+Financing receivables and operating lease equipment, net     79           101
+Other     43           38
+Net cash used by operating activities    ( 3,362 )      ( 318 )
+Cash flows – investing activities:
+Payments to acquire property, plant and equipment    ( 567 )      ( 468 )
+Proceeds from disposals of property, plant and equipment      11           5
+Contributions to investments    ( 243 )      ( 3,561 )
+Proceeds from investments     2,907           2,203
+Other    ( 34 )      ( 2 )
+Net cash provided/(used) by investing activities     2,074          ( 1,823 )
+Cash flows – financing activities:
+New borrowings     27           17
+Debt repayments    ( 4,442 )      ( 1,699 )
+Stock options exercised         44
+Employee taxes on certain share-based payment arrangements    ( 65 )      ( 42 )
+Other     18
+Net cash used by financing activities    ( 4,462 )      ( 1,680 )
+Effect of exchange rate changes on cash and cash equivalents    ( 28 )       10
+Net decrease in cash & cash equivalents, including restricted    ( 5,778 )      ( 3,811 )
+Cash & cash equivalents, including restricted, at beginning of year     12,713           14,647
+Cash & cash equivalents, including restricted, at end of period     6,935           10,836
+Less restricted cash & cash equivalents, included in Investments     21           24
+Cash and cash equivalents at end of period    $ 6,914          $ 10,812
+See Notes to the Condensed Consolidated Financial Statements.
+4
+Table of Contents
+The Boeing Company and Subsidiaries
+Condensed Consolidated Statements of Equity
+For the three months ended March 31, 2024 and 2023
+(Unaudited)
+Boeing shareholders
+(Dollars in millions)    Common
+Stock    Additional
+Paid-In
+Capital    Treasury Stock    Retained
+Earnings    Accumulated Other Comprehensive Loss    Non-
+controlling
+Interests    Total
+Balance at January 1, 2023    $ 5,061       $ 9,947       ($ 50,814 )     $ 29,473       ($ 9,550 )     $ 35       ($ 15,848 )
+Net loss       ( 414 )      ( 11 )     ( 425 )
+Other comprehensive income, net of tax of $ 4
+0
+Share-based compensation      222            222
+Treasury shares issued for stock options exercised, net
+( 27 )      71           44
+Treasury shares issued for other share-based plans, net
+( 67 )      37          ( 30 )
+Treasury shares issued for 401(k) contribution      223        330           553
+Balance at March 31, 2023    $ 5,061       $ 10,298       ($ 50,376 )     $ 29,059       ($ 9,550 )     $ 24       ($ 15,484 )
+Balance at January 1, 2024    $ 5,061         $ 10,309         ($ 49,549 )     $ 27,251         ($ 10,305 )     $ 5         ($ 17,228 )
+Net loss       ( 343 )      ( 12 )     ( 355 )
+Other comprehensive loss, net of tax of $ 31
+( 107 )      ( 107 )
+Share-based compensation      119              119
+Treasury shares issued for other share-based plans, net
+( 116 )      65            ( 51 )
+Treasury shares issued for 401(k) contribution       227          379             606
+Balance at March 31, 2024    $ 5,061         $ 10,539         ($ 49,105 )     $ 26,908         ($ 10,412 )     ($ 7 )     ($ 17,016 )
+See Notes to the Condensed Consolidated Financial Statements.
+5
+Table of Contents
+The Boeing Company and Subsidiaries
+Notes to Condensed Consolidated Financial Statements
+Summary of Business Segment Data
+(Unaudited)
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Revenues:
+Commercial Airplanes    $ 4,653          $ 6,704
+Defense, Space & Security     6,950           6,539
+Global Services     5,045           4,720
+Unallocated items, eliminations and other    ( 79 )      ( 42 )
+Total revenues    $ 16,569          $ 17,921
+Loss from operations:
+Commercial Airplanes    ($ 1,143 )      ($ 615 )
+Defense, Space & Security     151          ( 212 )
+Global Services     916           847
+Segment operating (loss)/earnings    ( 76 )       20
+Unallocated items, eliminations and other    ( 312 )      ( 460 )
+FAS/CAS service cost adjustment     302           291
+Loss from operations    ( 86 )      ( 149 )
+Other income, net     277           302
+Interest and debt expense    ( 569 )      ( 649 )
+Loss before income taxes    ( 378 )      ( 496 )
+Income tax benefit     23           71
+Net loss    ( 355 )      ( 425 )
+Less: net loss attributable to noncontrolling interest    ( 12 )      ( 11 )
+Net loss attributable to Boeing Shareholders    ($ 343 )      ($ 414 )
+This information is an integral part of the Notes to the Condensed Consolidated Financial Statements. See Note 17 for further segment results.
+6
+Table of Contents
+The Boeing Company and Subsidiaries
+Notes to the Condensed Consolidated Financial Statements
+(Dollars in millions, except otherwise stated)
+(Unaudited)
+Note 1 –  Basis of Presentation
+The condensed consolidated interim financial statements included in this report have been prepared by management of The Boeing Company (herein referred to as “Boeing”, the “Company”, “we”, “us”, or “our”). In the opinion of management, all adjustments (consisting of normal recurring accruals) necessary for a fair presentation are reflected in the interim financial statements. The results of operations for the period ended March 31, 2024 are not necessarily indicative of the operating results for the full year. The interim financial statements should be read in conjunction with the audited Consolidated Financial Statements, including the notes thereto, included in our 2023 Annual Report on Form 10-K.
+Use of Estimates
+The preparation of financial statements in conformity with U.S. generally accepted accounting principles (GAAP) requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.
+Long-term Contracts
+Substantially all contracts at our Defense, Space & Security (BDS) segment and certain contracts at our Global Services (BGS) segment are long-term contracts with the U.S. government and other customers that generally extend over several years. Changes in estimated revenues, cost of sales, and the related effect on operating income are recognized using a cumulative catch-up adjustment which recognizes in the current period the cumulative effect of the changes on current and prior periods based on a long-term contract’s percentage-of-completion. When the current estimates of total revenues and costs at completion for a long-term contract indicate a loss, a provision for the entire reach-forward loss on the long-term contract is recognized.
+The table below reflects the impact of net cumulative catch-up adjustments for changes in estimated revenues and costs at completion across all long-term contracts, including the impact to Loss from operations from changes in estimated losses on unexercised options.
+(In millions - except per share amounts)      Three months ended March 31
+2024     2023
+Decrease to Revenue        ($ 218 )      ($ 312 )
+Increase to Loss from operations
+($ 366 )      ($ 518 )
+Increase to Diluted loss per share
+($ 0.56 )      ($ 0.74 )
+Note 2 –  Earnings Per Share
+Basic and diluted earnings per share are computed using the two-class method, which is an earnings allocation method that determines earnings per share for common shares and participating securities. The undistributed earnings are allocated between common shares and participating securities as if all earnings had been distributed during the period. Participating securities and common shares have equal rights to undistributed earnings.
+Basic earnings per share is calculated by taking net earnings attributable to Boeing Shareholders, less earnings available to participating securities, divided by the basic weighted average common shares outstanding.
+7
+Table of Contents
+Diluted earnings per share is calculated by taking net earnings attributable to Boeing Shareholders, less earnings available to participating securities, divided by the diluted weighted average common shares outstanding. Diluted weighted average common shares outstanding is calculated using the treasury stock method.
+The elements used in the computation of Basic and Diluted loss per share were as follows:
+(In millions - except per share amounts)    Three months ended March 31
+2024     2023
+Net loss attributable to Boeing Shareholders    ($ 343 )      ($ 414 )
+Less: earnings available to participating securities
+Net loss available to common shareholders
+($ 343 )      ($ 414 )
+Basic
+Basic weighted average shares outstanding
+613.2           602.5
+Less: participating securities  (1)
+0.3           0.3
+Basic weighted average common shares outstanding
+612.9           602.2
+Diluted
+Diluted weighted average shares outstanding
+613.2           602.5
+Less: participating securities  (1)
+0.3           0.3
+Diluted weighted average common shares outstanding
+612.9           602.2
+Net loss per share:
+Basic
+($ 0.56 )      ($ 0.69 )
+Diluted
+( 0.56 )      ( 0.69 )
+(1)  Participating securities include certain instruments in our deferred compensation plan.
+The following table represents potential common shares that were not included in the computation of Diluted loss per share because the effect was antidilutive based on their strike price or the performance condition was not met.
+(Shares in millions)    Three months ended March 31
+2024     2023
+Performance restricted stock units     0.5
+Restricted stock units             0.1
+Stock options     0.8           0.8
+In addition, potential common shares of  3.1  million and  5.3  million for the three months ended March 31, 2024 and 2023 were excluded from the computation of Diluted loss per share, because the effect would have been antidilutive as a result of incurring a net loss in those periods.
+Note 3 –  Income Taxes
+We computed our 2024 interim tax provision using an estimated annual effective tax rate of  14.1 %, adjusted for discrete items. Our 2024 estimated annual effective tax rate is primarily driven by taxes on non-U.S. operations. The effective tax rates were  6.1 % and  14.3 % for the three months ended March 31, 2024 and 2023, and differ from the estimated annual effective tax rates primarily due to discrete increases in the domestic valuation allowance.
+As of December 31, 2023, the Company had recorded valuation allowances of $ 4,550  primarily for certain domestic deferred tax assets, and certain domestic net operating losses, tax credit and interest carryforwards. To measure the valuation allowance, the Company estimated in what year each of     its
+8
+Table of Contents
+deferred tax assets and liabilities would reverse using systematic and logical methods to estimate the reversal patterns. Based on these methods, deferred tax liabilities are assumed to reverse and generate taxable income over the next  5  to  10  years while deferred tax assets related to pension and other postretirement benefit obligations are assumed to reverse and generate tax deductions over the next  15  to  20  years. The valuation allowance results from not having sufficient income from deferred tax liability reversals in the appropriate future periods to support the realization of deferred tax assets.
+Federal income tax audits have been settled for all years prior to 2018. The Internal Revenue Service is currently auditing the 2018-2020 tax years. We are also subject to examination in major state and international jurisdictions for the 2010-2022 tax years. We believe appropriate provisions for all outstanding tax issues have been made for all jurisdictions and all open years.
+Audit outcomes and the timing of audit settlements are subject to significant uncertainty. It is reasonably possible that within the next 12 months, unrecognized tax benefits related to federal tax matters under audit may decrease by up to $ 620  based on current estimates.
+Note 4 –  Allowances for Losses on Financial Assets
+The changes in allowances for expected credit losses for the three months ended March 31, 2024 and 2023 consisted of the following:
+Accounts receivable     Unbilled receivables    Other current assets
+Financing receivables
+Other assets    Total
+Balance at January 1, 2023    ($ 116 )     ($ 23 )     ($ 85 )     ($ 55 )     ($ 88 )     ($ 367 )
+Changes in estimates     1        1        8        ( 4 )      6
+Write-offs     3         1          4
+Recoveries     1            1
+Balance at March 31, 2023
+($ 111 )     ($ 22 )     ($ 76 )     ($ 55 )     ($ 92 )     ($ 356 )
+Balance at January 1, 2024    ($ 89 )     ($ 19 )     ($ 50 )     ($ 51 )     ($ 122 )     ($ 331 )
+Changes in estimates    ( 16 )     ( 1 )     ( 1 )      15         ( 10 )     ( 13 )
+Write-offs     2           9            11
+Recoveries     1              1
+Balance at March 31, 2024
+($ 102 )     ($ 20 )     ($ 42 )     ($ 36 )     ($ 132 )     ($ 332 )
+9
+Table of Contents
+Note 5 –  Inventories
+Inventories consisted of the following:
+March 31
+2024     December 31
+2023
+Commercial aircraft programs    $ 72,505          $ 68,683
+Long-term contracts in progress     538           686
+Capitalized precontract costs  (1)
+897           946
+Commercial spare parts, used aircraft, general stock materials and other
+9,531           9,426
+Total    $ 83,471          $ 79,741
+(1)    Capitalized precontract costs at March 31, 2024 and December 31, 2023 included amounts related to KC-46A Tanker, Commercial Crew, and T-7A Red Hawk Production Options. See Note 9.
+Commercial Aircraft Programs
+At March 31, 2024 and December 31, 2023, commercial aircraft programs inventory included the following amounts related to the 737 program: deferred production costs of $ 6,794  and $ 6,011  and unamortized tooling and other non-recurring costs of $ 872  and $ 792 . At March 31, 2024, $ 7,635  of 737 deferred production costs, unamortized tooling and other non-recurring costs are expected to be recovered from units included in the program accounting quantity that have firm orders, and $ 31  is expected to be recovered from units included in the program accounting quantity that represent expected future orders.
+At March 31, 2024 and December 31, 2023, commercial aircraft programs inventory included the following amounts related to the 777X program: $ 5,337  and $ 4,638  of work in process,     $ 2,160  and $ 1,792  of deferred production costs and $ 4,139  and $ 4,063      of unamortized tooling and other non-recurring costs. We expensed abnormal production costs of $ 126  during the three months ended March 31, 2023. In the fourth quarter of 2023, the 777X program resumed production, and as a result, there were no abnormal production costs during the three months ended March 31, 2024.
+At March 31, 2024 and December 31, 2023, commercial aircraft programs inventory included the following amounts related to the 787 program: deferred production costs of $ 12,107  and $ 12,384 , $ 1,606  and $ 1,764  of supplier advances, and $ 1,443  and $ 1,480  of unamortized tooling and other non-recurring costs. At March 31, 2024, $ 11,601  of 787 deferred production costs, unamortized tooling and other non-recurring costs are expected to be recovered from units included in the program accounting quantity that have firm orders, and $ 1,949  is expected to be recovered from units included in the program accounting quantity that represent expected future orders. We expensed abnormal production costs of $ 80  and $ 379  during the three months ended March 31, 2024 and 2023.
+Commercial aircraft programs inventory included amounts credited in cash or other consideration (early issue sales consideration) to airline customers totaling $ 4,558  and $ 4,126  at March 31, 2024 and December 31, 2023.
+Note 6 –  Contracts with Customers
+Unbilled receivables increased from $ 8,317  at December 31, 2023 to $ 9,673  at March 31, 2024, primarily driven by revenue recognized at BDS in excess of billings.
+Advances and progress billings increased from $ 56,328  at December 31, 2023 to $ 58,972  at March 31, 2024, primarily driven by advances on orders received at Commercial Airplanes (BCA), partially offset by revenue recognized at BDS.
+Revenues recognized during the three months ended March 31, 2024 and 2023 from amounts recorded as Advances and progress billings at the beginning of each year were $ 4,181  and $ 3,881 .
+10
+Table of Contents
+Note 7 –  Financing Receivables and Operating Lease Equipment
+Financing receivables and operating lease equipment, net consisted of the following:
+March 31
+2024     December 31
+2023
+Financing receivables:
+Investment in sales-type leases    $ 492          $ 556
+Notes     91           102
+Total financing receivables
+583           658
+Less allowance for losses on receivables     36           51
+Financing receivables, net     547           607
+Operating lease equipment, at cost, less accumulated depreciation of $ 71  and $ 70
+343           352
+Total    $ 890          $ 959
+Financing arrangements typically range in terms from  1  to  12  years and may include options to extend or terminate. Certain leases include provisions to allow the lessee to purchase the underlying aircraft at a specified price. At March 31, 2024 and December 31, 2023, $ 34  and $ 44  were determined to be uncollectible financing receivables and placed on non-accrual status. The allowance for losses on receivables decreased primarily due to cash collections during the three months ended March 31, 2024.
+The components of investment in sales-type leases consisted of the following:
+March 31
+2024     December 31
+2023
+Gross lease payments receivable    $ 616          $ 697
+Unearned income    ( 137 )      ( 162 )
+Net lease payments receivable     479           535
+Unguaranteed residual assets     13           21
+Total    $ 492          $ 556
+Financing interest income received for the three months ended March 31, 2024 and 2023 was $ 2  and $ 4 .
+Our financing receivable balances at March 31, 2024 by internal credit rating category and year of origination consisted of the following:
+Rating categories    Current    2023    2022    2021    2020    Prior    Total
+BBB       $ 72         $ 31         $ 194         $ 100         $ 58         $ 455
+B                    94          94
+CCC              34                34
+Total carrying value of financing receivables           $ 72         $ 31         $ 228         $ 100         $ 152         $ 583
+At March 31, 2024, our allowance for losses related to receivables with ratings of CCC, B and BBB. We applied default rates that averaged  100.0 %,  0.0 % and  0.5 %, respectively, to the exposure associated with those receivables.
+11
+Table of Contents
+Financing Receivables Exposure
+The majority of our financing receivables and operating lease equipment portfolio is concentrated in the following aircraft models:
+March 31
+2024     December 31
+2023
+717 Aircraft (Accounted for as sales type leases)
+$ 456          $ 478
+747-8 Aircraft (Accounted for as sales-type leases)
+126           129
+737 Aircraft ($ 142  and $ 148  accounted for as operating leases)
+142           156
+777 Aircraft (Accounted for as operating leases)
+192           194
+747-400 Aircraft (Accounted for as sales-type leases)
+43
+Operating lease equipment primarily includes large commercial jet aircraft.
+Lease income recorded in Sales of services on the Condensed Consolidated Statements of Operations for the three months ended March 31, 2024 and 2023 included $ 10  and $ 15  of interest income from sales-type leases and $ 18  and $ 11  from operating lease payments. Profit at the commencement of sales-type leases was recorded in Sales of services for the three months ended March 31, 2024 and 2023 in the amount of $ 0  and $ 12 .
+Note 8 –  Investments
+Our investments, which are recorded in Short-term and other investments or Investments, consisted of the following:
+March 31
+2024     December 31
+2023
+Time deposits   (1)
+$ 105          $ 2,753
+Equity method investments   (2)
+965           966
+Available-for-sale debt investments   (1)
+506           499
+Equity and other investments     60           69
+Restricted cash & cash equivalents   (1)(3)
+21           22
+Total    $ 1,657          $ 4,309
+(1)  Primarily included in Short-term and other investments on our Condensed Consolidated Statements of Financial Position.
+(2)  Dividends received were $ 20  and $ 0  during the three months ended March 31, 2024 and 2023.
+(3)  Reflects amounts restricted in support of our workers’ compensation programs and insurance premiums.
+Contributions to investments and Proceeds from investments on our Condensed Consolidated Statements of Cash Flows primarily relate to time deposits and available-for-sale debt investments. Cash used for the purchase of time deposits during the three months ended March 31, 2024 and 2023 was $ 90  and $ 3,435 . Cash proceeds from the maturities of time deposits during the three months ended March 31, 2024 and 2023 were $ 2,740  and $ 2,095 .
+Allowance for losses on available-for-sale debt investments are assessed quarterly. All instruments are considered investment grade, and we have not recognized an allowance for credit losses as of March 31, 2024.
+12
+Table of Contents
+Note 9 –  Liabilities, Commitments and Contingencies
+737 MAX Customer Concessions and Other Considerations
+During the three months ended March 31, 2024, we recorded an earnings charge of $ 443 , net of insurance recoveries, in connection with estimated considerations to customers for disruption related to the Alaska Airlines 737-9 accident and 737-9 grounding. This charge is reflected in the financial statements as a reduction to revenue.
+The following table summarizes changes in the 737 MAX customer concessions and other considerations liability during the three months ended March 31, 2024 and 2023.
+2024     2023
+Beginning balance – January 1    $ 1,327          $ 1,864
+Reductions for payments made    ( 553 )      ( 141 )
+Changes in estimates     510
+Ending balance – March 31    $ 1,284          $ 1,723
+At March 31, 2024, $ 430  of the liability balance remains subject to negotiations with customers, the majority of which we expect to pay in 2024. Of the contracted amount, we expect to pay $ 332  in 2024, while the remaining amounts are primarily expected to be liquidated by lower customer delivery payments.
+Environmental
+The following table summarizes changes in environmental remediation liabilities during the three months ended March 31, 2024 and 2023.
+2024     2023
+Beginning balance – January 1    $ 844          $ 752
+Reductions for payments made, net of recoveries    ( 14 )      ( 10 )
+Changes in estimates     7           46
+Ending balance – March 31    $ 837          $ 788
+The liabilities recorded represent our best estimate or the low end of a range of reasonably possible costs expected to be incurred to remediate sites, including operation and maintenance over periods of up to 30 years. It is reasonably possible that we may incur costs that exceed these recorded amounts because of regulatory agency orders and directives, changes in laws and/or regulations, higher than expected costs and/or the discovery of new or additional contamination. As part of our estimating process, we develop a range of reasonably possible alternate scenarios that includes the high end of a range of reasonably possible cost estimates for all remediation sites for which we have sufficient information based on our experience and existing laws and regulations. There are some potential remediation obligations where the costs of remediation cannot be reasonably estimated. At March 31, 2024 and December 31, 2023, the high end of the estimated range of reasonably possible remediation costs exceeded our recorded liabilities by $ 971  and $ 1,030 .
+13
+Table of Contents
+Product Warranties
+The following table summarizes changes in product warranty liabilities recorded during the three months ended March 31, 2024 and 2023.
+2024     2023
+Beginning balance – January 1    $ 2,448          $ 2,275
+Additions for current year deliveries     22           47
+Reductions for payments made    ( 75 )      ( 116 )
+Changes in estimates            ( 31 )
+Ending balance – March 31    $ 2,395          $ 2,175
+Commercial Aircraft Trade-In Commitments
+In conjunction with signing definitive agreements for the sale of new aircraft, we have entered into trade-in commitments with certain customers that give them the right to trade in used aircraft at a specified price. The probability that trade-in commitments will be exercised is determined by using both quantitative information from valuation sources and qualitative information from other sources. The probability of exercise is assessed quarterly, or as events trigger a change, and takes into consideration the current economic and airline industry environments. Trade-in commitments, which can be terminated by mutual consent with the customer, may be exercised only during the period specified in the agreement, and require advance notice by the customer.
+Trade-in commitment agreements at March 31, 2024 have expiration dates from 2024 through 2030. At March 31, 2024 and December 31, 2023 total contractual trade-in commitments were $ 1,426  and $ 1,415 . As of March 31, 2024 and December 31, 2023, we estimated it was probable we would be obligated to perform on certain of these commitments with net amounts payable to customers totaling $ 311  and $ 407  and the fair value of the related trade-in aircraft was $ 311  and $ 407 .
+Financing Commitments
+Financing commitments related to aircraft on order, including options and those proposed in sales campaigns, and refinancing of delivered aircraft, totaled $ 17,008  and $ 17,003  as of March 31, 2024 and December 31, 2023.  The estimated earliest potential funding dates for these commitments as of March 31, 2024 are as follows:
+Total
+April through December 2024
+$ 1,810
+2025     3,271
+2026     3,996
+2027     3,220
+2028     1,642
+Thereafter     3,069
+$ 17,008
+As of March 31, 2024, $ 13,682  of these financing commitments relate to customers we believe have less than investment-grade credit. We have concluded that no reserve for future potential losses is required for these financing commitments based upon the terms, such as collateralization and interest rates, under which funding would be provided.
+Other Financial Commitments
+We have financial commitments to make additional capital contributions totaling $ 262  to certain joint ventures over the next  nine years .
+14
+Table of Contents
+Standby Letters of Credit and Surety Bonds
+We have entered into standby letters of credit and surety bonds with financial institutions primarily relating to the guarantee of our future performance on certain contracts and security agreements. Contingent liabilities on outstanding letters of credit agreements and surety bonds aggregated approximately     $ 4,480  and $ 4,548  as of March 31, 2024 and December 31, 2023.
+Supply Chain Financing Programs
+The Company has supply chain financing programs in place under which participating suppliers may elect to obtain payment from an intermediary. The Company confirms the validity of invoices from participating suppliers and agrees to pay the intermediary an amount based on invoice totals. The majority of amounts payable under these programs are due within  30  to  90  days but may extend up to  12  months. At March 31, 2024 and December 31, 2023, Accounts payable included $ 2.5  billion and $ 2.9  billion payable to suppliers who have elected to participate in these programs. We do not believe that future changes in the availability of supply chain financing would have a significant impact on our liquidity.
+Recoverable Costs on Government Contracts
+Our final incurred costs for each year are subject to audit and review for allowability by the U.S. government, which can result in payment demands related to costs they believe should be disallowed. We work with the U.S. government to assess the merits of claims and where appropriate reserve for amounts disputed. If we are unable to satisfactorily resolve disputed costs, we could be required to record an earnings charge and/or provide refunds to the U.S. government.
+Fixed-Price Contracts
+Long-term contracts that are contracted on a fixed-price basis could result in losses in future periods. Certain of the fixed-price contracts are for the development of new products, services and related technologies. This development work scope is inherently uncertain and subject to significant variability in estimates of the cost and time required to complete the work by us and our suppliers. The operational and technical complexities of fixed-price development contracts create financial risk, which could trigger additional earnings charges, termination provisions, order cancellations, or other financially significant exposure.
+VC-25B Presidential Aircraft
+The Company’s firm fixed-price contract for the Engineering and Manufacturing Development (EMD) effort on the U.S. Air Force’s (USAF) VC-25B Presidential Aircraft, commonly known as Air Force One, is a $ 4  billion program to develop and modify  two  747-8 commercial aircraft. During 2023, we increased the reach-forward loss on the contract by $ 482  driven by engineering changes to support the build and installation process; the resolution of supplier negotiations; and factory performance related to labor instability. While we have provisioned for all of our anticipated costs to complete the contract, risk remains that we may record additional losses in future periods.
+KC-46A Tanker
+In 2011, we were awarded a contract from the USAF to design, develop, manufacture, and deliver  four  next generation aerial refueling tankers as well as priced options for  13  annual production lots totaling  179  aircraft. Since 2016, the USAF has authorized  ten  low rate initial production (LRIP) lots for a total of  139  aircraft. The EMD contract and authorized LRIP lots total approximately $ 27  billion as of March 31, 2024.
+During 2023, we increased the reach-forward loss on the KC-46A Tanker program by $ 309  primarily resulting from factory disruption and additional rework due to a supplier quality issue. During the three months ended March 31, 2024, we increased the reach-forward loss on the KC-46A Tanker program by $ 128 , primarily due to factory disruption associated with supply chain constraints. As of March 31, 2024, we had approximately $ 130  of capitalized precontract costs and $ 214  of potential termination liabilities to
+15
+Table of Contents
+suppliers related to future production lots. Risk remains that we may record additional losses in future periods.
+MQ-25
+In the third quarter of 2018, we were awarded the MQ-25 EMD contract by the U.S. Navy. The contract is a fixed-price contract that now includes development and delivery of  seven  aircraft and test articles at a contract price of $ 890 . In connection with winning the competition, we recognized a reach-forward loss of $ 291  in the third quarter of 2018. During 2023, we increased the reach-forward loss by $ 231  primarily driven by production and flight testing delays as well as higher than anticipated production costs to complete EMD aircraft attributable to factory performance. During the first quarter of 2024, we were awarded a cost-type contract modification totaling $ 657  for  two  additional test aircraft plus other scope increases. Risk remains that we may record additional losses in future periods.
+T-7A Red Hawk EMD Contract & Production Options
+In 2018, we were awarded the T-7A Red Hawk program. The EMD portion of the contract is a $ 860  fixed-price contract and includes  five  aircraft and  seven  simulators. The production portion of the contract includes  11  production lots for aircraft and related services for  346  T-7A Red Hawk aircraft that we believe are probable of being exercised. We expect the first production and support contract option to be exercised in 2025. During 2023, we increased the reach-forward loss on the T-7A Red Hawk program by $ 275  primarily reflecting higher estimated production costs. During the three months ended March 31, 2024, we increased the reach-forward loss on the T-7A Red Hawk program by $ 94  primarily reflecting further increases in estimated production costs. At March 31, 2024, we had approximately $ 235  of capitalized precontract costs and $ 305  of potential termination liabilities to suppliers related to future production lots. Risk remains that we may record additional losses in future periods.
+Commercial Crew
+National Aeronautics and Space Administration (NASA) has contracted us to design and build the CST-100 Starliner spacecraft to transport crews to the International Space Station and in the second quarter of 2022, we successfully completed the uncrewed Orbital Flight Test. During 2023, we increased the reach-forward loss by $ 288  primarily as a result of delaying the crewed flight test previously scheduled for July 2023 following notification by a parachute supplier of an issue identified through testing. A crewed flight test is planned for May 2024. At March 31, 2024, we had approximately $ 229  of capitalized precontract costs and $ 158  of potential termination liabilities to suppliers related to fixed-price unauthorized future missions. Risk remains that we may record additional losses in future periods.
+Note 10 –  Arrangements with Off-Balance Sheet Risk
+We enter into arrangements with off-balance sheet risk in the normal course of business, primarily in the form of guarantees.
+The following table provides quantitative data regarding our third party guarantees. The maximum potential payments represent a “worst-case scenario” and do not necessarily reflect amounts that we expect to pay. The carrying amount of liabilities represents the amount included in Accrued liabilities.
+Maximum
+Potential Payments     Estimated Proceeds from
+Collateral/Recourse     Carrying Amount of
+Liabilities
+March 31
+2024    December 31
+2023     March 31
+2024    December 31
+2023     March 31
+2024    December 31
+2023
+Contingent repurchase commitments
+$ 404         $ 404        $ 404         $ 404
+Credit guarantees
+15          15                   $ 14         $ 14
+Contingent Repurchase Commitments   In conjunction with signing a definitive agreement for the sale of commercial aircraft, we have entered into contingent repurchase commitments with certain customers wherein we agree to repurchase the sold aircraft at a specified price, generally  10  to  15  years after
+16
+Table of Contents
+delivery. Our repurchase of the aircraft is contingent upon entering into a mutually acceptable agreement for the sale of additional new aircraft in the future. The commercial aircraft repurchase price specified in contingent repurchase commitments is generally lower than the expected fair value at the specified repurchase date. Estimated proceeds from collateral/recourse in the table above represent the lower of the contracted repurchase price or the expected fair value of each aircraft at the specified repurchase date.
+If a future sale agreement is reached and a customer elects to exercise its right under a contingent repurchase commitment, the contingent repurchase commitment becomes a trade-in commitment. Our historical experience is that contingent repurchase commitments infrequently become trade-in commitments.
+Credit Guarantees   We have issued credit guarantees where we are obligated to make payments to a guaranteed party in the event that the original lessee or debtor does not make payments or perform certain specified services. Generally, these guarantees have been extended on behalf of guaranteed parties with less than investment-grade credit. Current outstanding credit guarantees expire through 2036.
+Other Indemnifications   In conjunction with our sales of Electron Dynamic Devices, Inc. and Rocketdyne Propulsion and Power businesses and our BCA facilities in Wichita, Kansas and Tulsa and McAlester, Oklahoma, we agreed to indemnify, for an indefinite period, the buyers for costs relating to pre-closing environmental conditions and certain other items. We are unable to assess the potential number of future claims that may be asserted under these indemnifications, nor the amounts thereof (if any). As a result, we cannot estimate the maximum potential amount of future payments under these indemnities. To the extent that claims have been made under these indemnities and/or are probable and reasonably estimable, liabilities associated with these indemnities are included in the environmental liability disclosure in Note 9.
+Note 11 –  Postretirement Plans
+The components of net periodic benefit (income)/cost for the three months ended March 31 were as follows:
+Pension     Postretirement
+2024     2023     2024     2023
+Service cost    $ 2          $ 1        $ 12          $ 12
+Interest cost     659           705         31           37
+Expected return on plan assets    ( 829 )      ( 861 )      ( 2 )      ( 2 )
+Amortization of prior service credits    ( 20 )      ( 20 )      ( 3 )      ( 6 )
+Recognized net actuarial loss/(gain)     67           42        ( 44 )      ( 44 )
+Net periodic benefit income    ($ 121 )      ($ 133 )      ($ 6 )      ($ 3 )
+Net periodic benefit cost included in Loss from operations    $ 2          $ 1        $ 11          $ 15
+Net periodic benefit income included in Other income, net    ( 123 )      ( 134 )      ( 18 )      ( 15 )
+Net periodic benefit income included in Loss before income taxes
+($ 121 )      ($ 133 )      ($ 7 )      $ 0
+17
+Table of Contents
+Note 12 –  Share-Based Compensation and Other Compensation Arrangements
+Restricted Stock Units
+On February 20 and March 11, 2024, we granted  2,008,499  restricted stock units (RSU) to our executives and  125,432  RSUs to our executive officers as part of our long-term incentive program. The RSUs granted under this program have a grant date fair value of $ 204.15  and $ 192.94  per unit. The RSUs granted under this program will generally vest and settle in common stock (on a one-for-one basis) on the third anniversary of the grant date. If an executive terminates employment because of retirement, layoff, disability, or death, the executive (or beneficiary) may receive some or all of their stock units depending on certain age and service conditions. In all other cases, the RSUs will not vest and all rights to the stock units will terminate.
+Performance Restricted Stock Units
+On March 11, 2024, we granted  153,306  performance restricted stock units (PRSU) to our executive officers as part of our long-term incentive program that will result in that number of PRSUs being paid out if the target performance metric is achieved. The PRSUs granted under this program have a grant date fair value of $ 192.94  per unit. The award payout can range from  0 % to  200 % of the initial PRSU grant based on cumulative free cash flow achievement over the period January 1, 2024 through December 31, 2026 as compared to the target set at the start of the performance period, as well as the achievement of certain safety goals. The PRSUs granted under this program will vest at the payout amount determined on the third anniversary of the grant date and settle in common stock (on a one-for-one basis). If an executive terminates employment because of retirement, layoff, disability, or death, the executive (or beneficiary) remains eligible under the award and, if the award is earned, may receive some or all of their stock units depending on certain age and service conditions. In all other cases, the PRSUs will not vest and all rights to the stock units will terminate.
+18
+Table of Contents
+Note 13 –  Shareholders' Equity
+Accumulated Other Comprehensive Loss
+Changes in Accumulated other comprehensive loss (AOCI) by component for the three months ended March 31, 2024 and 2023 were as follows:
+Currency Translation Adjustments     Unrealized Gains and Losses on Certain Investments
+Unrealized Gains and Losses on Derivative Instruments
+Defined Benefit Pension Plans & Other Postretirement Benefits
+Total   (1)
+Balance at January 1, 2023    ($ 167 )          ($ 24 )      ($ 9,359 )      ($ 9,550 )
+Other comprehensive income/(loss) before reclassifications
+16             18        ( 7 )       27
+Amounts reclassified from AOCI
+( 5 )      ( 22 )
+(2)
+( 27 )
+Net current period Other comprehensive income/(loss)
+16             13        ( 29 )       0
+Balance at March 31, 2023    ($ 151 )              ($ 11 )      ($ 9,388 )      ($ 9,550 )
+Balance at January 1, 2024    ($ 134 )      $ 2          $ 12          ($ 10,185 )      ($ 10,305 )
+Other comprehensive loss before reclassifications
+( 35 )          ( 65 )      ( 14 )      ( 114 )
+Amounts reclassified from AOCI
+7
+(2)
+7
+Net current period Other comprehensive loss
+( 35 )          ( 58 )      ( 14 )      ( 107 )
+Balance at March 31, 2024    ($ 169 )      $ 2          ($ 46 )      ($ 10,199 )      ($ 10,412 )
+(1)        Net of tax.
+(2)      Primarily relates to the amortization of prior service credits and actuarial losses/(gains) included in net periodic pension cost for the three months ended March 31, 2024 and 2023 totaling $ 0  and ($ 22 ) (net of tax of $ 0  and $ 6 ).
+Note 14 –  Derivative Financial Instruments
+Cash Flow Hedges
+Our cash flow hedges include foreign currency forward contracts, commodity swaps and commodity purchase contracts. We use foreign currency forward contracts to manage currency risk associated with certain expected sales and purchases through 2031. We use commodity derivatives, such as fixed-price purchase commitments and swaps to hedge against potentially unfavorable price changes for commodities used in production. Our commodity contracts hedge forecasted transactions through 2028.
+Derivative Instruments Not Receiving Hedge Accounting Treatment
+We have entered into agreements to purchase and sell aluminum to address long-term strategic sourcing objectives and non-U.S. business requirements. These agreements are derivative instruments for accounting purposes. The quantities of aluminum in these agreements offset and are priced at prevailing market prices. We also hold certain foreign currency forward contracts and commodity swaps which do not qualify for hedge accounting treatment.
+19
+Table of Contents
+Notional Amounts and Fair Values
+The notional amounts and fair values of derivative instruments in the Condensed Consolidated Statements of Financial Position were as follows:
+Notional amounts   (1)
+Other assets        Accrued liabilities
+March 31
+2024    December 31
+2023    March 31
+2024    December 31
+2023    March 31
+2024    December 31
+2023
+Derivatives designated as hedging instruments:
+Foreign exchange contracts    $ 4,268         $ 4,120       $ 54         $ 85       ($ 88 )     ($ 63 )
+Commodity contracts     479          514        78          83       ( 15 )     ( 8 )
+Derivatives not receiving hedge accounting treatment:
+Foreign exchange contracts     222          254        2          1       ( 24 )     ( 32 )
+Commodity contracts     87          115             ( 1 )     ( 2 )
+Total derivatives    $ 5,056         $ 5,003       $ 134         $ 169       ($ 128 )     ($ 105 )
+Netting arrangements      ( 47 )     ( 47 )      47          47
+Net recorded balance      $ 87         $ 122       ($ 81 )     ($ 58 )
+(1)  Notional amounts represent the gross contract/notional amount of the derivatives outstanding.
+(Losses)/gains associated with our hedging transactions and forward points recognized in Other comprehensive (loss)/income are presented in the following table:
+Three months ended March 31
+2024     2023
+Recognized in Other comprehensive (loss)/income, net of taxes:
+Foreign exchange contracts        ($ 57 )      $ 10
+Commodity contracts        ( 8 )       8
+(Losses)/gains associated with our hedging transactions and forward points reclassified from AOCI to earnings are presented in the following table:
+Three months ended March 31
+2024     2023
+Foreign exchange contracts
+Costs and expenses        ($ 7 )      ($ 2 )
+General and administrative expense        ( 4 )      ( 11 )
+Commodity contracts
+Costs and expenses            $ 17
+General and administrative expense        $ 2           2
+Gains/(losses) related to undesignated derivatives on foreign exchange and commodity cash flow hedging transactions recognized in Other income, net were insignificant for the three months ended March 31, 2024 and 2023.
+Based on our portfolio of cash flow hedges, we expect to reclassify losses of $ 55  (pre-tax) out of AOCI into earnings during the next 12 months.
+We have derivative instruments with credit-risk-related contingent features. If we default on our  five-year  credit facility, our derivative counterparties could require settlement for foreign exchange and certain commodity contracts with original maturities of at least  five years . The fair value of those contracts in a net liability position at March 31, 2024 was $ 20 . For other particular commodity contracts, our counterparties
+20
+Table of Contents
+could require collateral posted in an amount determined by our credit ratings. At March 31, 2024, there was no collateral posted related to our derivatives.
+Note 15 –  Fair Value Measurements
+The fair value hierarchy has three levels based on the reliability of the inputs used to determine fair value. Level 1 refers to fair values determined based on quoted prices in active markets for identical assets. Level 2 refers to fair values estimated using significant other observable inputs and Level 3 includes fair values estimated using significant unobservable inputs.  The following table presents our assets and liabilities that are measured at fair value on a recurring basis and are categorized using the fair value hierarchy.
+March 31, 2024     December 31, 2023
+Total     Level 1     Level 2       Total     Level 1     Level 2
+Assets
+Money market funds    $ 1,919          $ 1,919              $ 1,514        $ 1,514
+Available-for-sale debt investments:
+Commercial paper     299            $ 299             291          $ 291
+Corporate notes     200             200             183           183
+U.S. and local government agencies     17             17         25           25
+Other equity investments     75           75               44         44
+Derivatives     87             87             122           122
+Total assets    $ 2,597          $ 1,994          $ 603            $ 2,179        $ 1,558        $ 621
+Liabilities
+Derivatives    ($ 81 )        ($ 81 )        ($ 58 )        ($ 58 )
+Other    ( 17 )        ( 17 )
+Total liabilities    ($ 98 )             ($ 98 )        ($ 58 )        ($ 58 )
+Money market funds, available-for-sale debt investments and equity securities are valued using a market approach based on the quoted market prices or broker/dealer quotes of identical or comparable instruments.
+Derivatives include foreign currency and commodity contracts. Our foreign currency forward contracts are valued using an income approach based on the present value of the forward rate less the contract rate multiplied by the notional amount. Commodity derivatives are valued using an income approach based on the present value of the commodity index prices less the contract rate multiplied by the notional amount.
+Certain assets have been measured at fair value on a nonrecurring basis.  The following table presents the nonrecurring losses recognized for the three months ended March 31 due to long-lived asset impairment and the fair value and asset classification of the related assets as of the impairment date:
+2024     2023
+Fair Value     Level 2     Level 3     Total
+Losses     Fair Value     Level 2     Level 3     Total
+Losses
+Investments                  ($ 4 )                ($ 11 )
+Operating lease equipment
+$ 15            $ 15          ( 5 )
+Property, plant and equipment     18          $ 18            ( 9 )
+Other assets
+( 3 )
+Total    $ 33          $ 18          $ 15          ($ 21 )                              ($ 11 )
+Level 3 Investments, Property, plant and equipment, and Other assets were primarily valued using an income approach based on the discounted cash flows associated with the underlying assets. Level 2 Property, plant and equipment were valued based on a third party valuation using a combination of
+21
+Table of Contents
+income and market approaches that considered estimates of net operating income, capitalization rates, comparable property sales and adjusted for as-is condition. The fair value of the impaired operating lease equipment is derived by calculating a median collateral value from a consistent group of third party aircraft value publications. The values provided by the third party aircraft publications are derived from their knowledge of market trades and other market factors. Management reviews the publications quarterly to assess the continued appropriateness and consistency with market trends. Under certain circumstances, we adjust values based on the attributes and condition of the specific aircraft or equipment, usually when the features or use of the aircraft vary significantly from the more generic aircraft attributes covered by third party publications, or on the expected net sales price for the aircraft.
+For Level 3 assets that were measured at fair value on a nonrecurring basis during the period ended March 31, 2024, the following table presents the fair value of those assets as of the measurement date, valuation techniques and related unobservable inputs of those assets.
+Fair
+Value     Valuation
+Technique(s)     Unobservable Input     Range
+Median or Average
+Operating Lease Equipment
+$ 15      Market approach     Aircraft value publications
+$ 21  - $ 27   (1)
+Median $ 23
+Aircraft condition adjustments
+($ 8 ) - $ 0   (2)
+Net ($ 8 )
+(1)  The range represents the sum of the highest and lowest values for all aircraft subject to fair value measurement, according to the third party aircraft valuation publications that we use in our valuation process.
+(2)  The negative amount represents the sum, for all aircraft subject to fair value measurement, of all downward adjustments based on consideration of individual aircraft attributes and condition. The positive amount represents the sum of all such upward adjustments.
+Fair Value Disclosures
+The fair values and related carrying values of financial instruments that are not required to be remeasured at fair value on the Condensed Consolidated Statements of Financial Position were as follows:
+March 31, 2024
+Carrying
+Amount    Total Fair
+Value    Level 1    Level 2    Level 3
+Assets
+Notes receivable, net    $ 283         $ 301          $ 289         $ 12
+Liabilities
+Debt, excluding finance lease obligations     ( 47,689 )     ( 44,246 )      ( 44,246 )
+December 31, 2023
+Carrying
+Amount    Total Fair
+Value    Level 1    Level 2    Level 3
+Assets
+Notes receivable, net    $ 257       $ 270        $ 270
+Liabilities
+Debt, excluding finance lease obligations     ( 52,055 )     ( 51,039 )      ( 51,039 )
+The fair value of notes receivables classified as Level 2 is estimated with discounted cash flow analysis using interest rates currently offered on loans with similar terms to borrowers of similar credit quality. The fair value of notes receivables classified as Level 3 is based on our best estimate using available counterparty financial data. The fair value of our debt that is traded in the secondary market is classified as Level 2 and is based on current market yields. For our debt that is not traded in the secondary market, the fair value is classified as Level 2 and is based on our indicative borrowing cost derived from dealer quotes or discounted cash flows. With regard to other financial instruments with off-balance sheet risk, it
+22
+Table of Contents
+is not practicable to estimate the fair value of our indemnifications and financing commitments because the amount and timing of those arrangements are uncertain. Items not included in the above disclosures include cash, restricted cash, time deposits and other deposits, commercial paper, money market funds, Accounts receivable, Unbilled receivables, Other current assets, Accounts payable and long-term payables. The carrying values of those items, as reflected in the Condensed Consolidated Statements of Financial Position, approximate their fair value at March 31, 2024 and December 31, 2023. The fair value of assets and liabilities whose carrying value approximates fair value is determined using Level 2 inputs, with the exception of cash (Level 1).
+Note 16 –  Legal Proceedings
+Various legal proceedings, claims and investigations related to products, contracts, employment and other matters are pending against us. In addition, we are subject to various government inquiries and investigations from which civil, criminal or administrative proceedings could result or have resulted in the past. Such proceedings involve or could involve claims by the government for fines, penalties, compensatory and treble damages, restitution and/or forfeitures. Under U.S. government regulations, a company, or one or more of its operating divisions or subdivisions, can also be suspended or debarred from government contracts, have certain of its production certificates suspended or revoked, or lose its export privileges, based on the results of investigations. We believe, based upon current information, that the outcome of any currently pending legal proceeding, claim, or government dispute, inquiry or investigation will not have a material effect on our financial position, results of operations or cash flows. With respect to the matters set forth below, we cannot reasonably estimate a range of loss in excess of recorded amounts, if any.
+Multiple legal actions and inquiries were initiated as a result of the October 29, 2018 accident of Lion Air Flight 610 and the March 10, 2019 accident of Ethiopian Airlines Flight 302. On January 7, 2021, we entered into a Deferred Prosecution Agreement (DPA) with the U.S. Department of Justice that resolved the Department of Justice’s investigation into us regarding the evaluation of the 737 MAX by the Federal Aviation Administration. Among other obligations, the DPA includes a three-year reporting period, which ended earlier this year. The Department is currently considering whether we fulfilled our obligations under the DPA and whether to move to dismiss the information, which motion will require court approval. Multiple legal actions were initiated as a result of the January 5, 2024 Alaska Airlines Flight 1282 accident. We are also subject to multiple governmental and regulatory investigations and inquiries relating to the Alaska Airlines Flight 1282 accident and our commercial airplanes business. We cannot reasonably estimate a range of loss, if any, not covered by available insurance that may result given the current status of pending lawsuits, investigations and inquiries related to the 737 program.
+During 2019, we entered into agreements with Embraer S.A. (Embraer) to establish joint ventures that included the commercial aircraft and services operations of Embraer, of which we were expected to acquire an  80  percent ownership stake for $ 4,200 , as well as a joint venture to promote and develop new markets for the C-390 Millennium. In 2020, we exercised our contractual right to terminate these agreements based on Embraer’s failure to meet certain required closing conditions. Embraer has disputed our right to terminate the agreements, and the dispute is currently in arbitration, which we currently expect to be resolved in 2024.
+Note 17 –  Segment and Revenue Information
+Our primary profitability measurement to review segment operating results is Loss from operations. We operate in  three  reportable segments: BCA, BDS, and BGS. All other activities fall within Unallocated items, eliminations and other. See page 6 for the Summary of Business Segment Data, which is an integral part of this note.
+BCA develops, produces and markets commercial jet aircraft principally to the commercial airline industry worldwide. Revenue on commercial aircraft contracts is recognized at the point in time when an aircraft is completed and accepted by the customer.
+23
+Table of Contents
+BDS engages in the research, development, production and modification of the following products and related services: manned and unmanned military aircraft and weapons systems, surveillance and engagement, strategic defense and intelligence systems, satellite systems and space exploration. BDS revenue is generally recognized over the contract term (over time) as costs are incurred.
+BGS provides parts, maintenance, modifications, logistics support, training, data analytics and information-based services to commercial and government customers worldwide. BGS segment revenue and costs include certain products and services provided to other segments. Revenue on commercial spare parts contracts is recognized at the point in time when a spare part is delivered to the customer. Revenue on other contracts is generally recognized over the contract term (over time) as costs are incurred.
+The following tables present BCA, BDS and BGS revenues from contracts with customers disaggregated in a number of ways, such as geographic location, contract type and the method of revenue recognition. We believe these best depict how the nature, amount, timing and uncertainty of our revenues and cash flows are affected by economic factors.
+BCA revenues by customer location consisted of the following:
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Revenue from contracts with customers:
+Europe    $ 770          $ 1,355
+Asia     2,113           806
+Middle East     768           716
+Other non-U.S.     410           353
+Total non-U.S. revenues     4,061           3,230
+United States     985           3,435
+Estimated potential concessions and other considerations to 737 MAX customers, net of insurance recoveries
+( 443 )
+Total revenues from contracts with customers     4,603           6,665
+Intersegment revenues eliminated on consolidation     50           39
+Total segment revenues    $ 4,653          $ 6,704
+Revenue recognized on fixed-price contracts     100        %      100      %
+Revenue recognized at a point in time     99        %      100      %
+BDS revenues on contracts with customers, based on the customer's location, consisted of the following:
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Revenue from contracts with customers:
+U.S. customers    $ 5,444          $ 5,310
+Non-U.S. customers  (1)
+1,506           1,229
+Total segment revenue from contracts with customers    $ 6,950          $ 6,539
+Revenue recognized over time     99        %      99      %
+Revenue recognized on fixed-price contracts     58        %      61      %
+Revenue from the U.S. government  (1)
+91        %      91      %
+(1)  Includes revenues earned from foreign military sales through the U.S. government.
+24
+Table of Contents
+BGS revenues consisted of the following:
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Revenue from contracts with customers:
+Commercial    $ 3,000          $ 2,716
+Government     1,934           1,926
+Total revenues from contracts with customers     4,934           4,642
+Intersegment revenues eliminated on consolidation     111           78
+Total segment revenues    $ 5,045          $ 4,720
+Revenue recognized at a point in time     54        %      51      %
+Revenue recognized on fixed-price contracts     87        %      87      %
+Revenue from the U.S. government  (1)
+29        %      36      %
+(1)  Includes revenues earned from foreign military sales through the U.S. government.
+Backlog
+Our total backlog includes contracts that we and our customers are committed to perform. The value in backlog represents the estimated transaction prices on performance obligations to our customers for which work remains to be performed. Backlog is converted into revenue, primarily based on the cost incurred or at delivery and acceptance of products, depending on the applicable revenue recognition model.
+Our backlog at March 31, 2024 was $ 528,749 . We expect approximately  27 % to be converted to revenue through 2025 and approximately  71 % through 2028, with the remainder thereafter. There is significant uncertainty regarding the timing of when backlog will convert into revenue. We may experience reductions to backlog and/or significant order cancellations due to production disruptions, and/or further delays to entry into service of the 777X, 737-7 and/or 737-10.
+Unallocated Items, Eliminations and Other
+Unallocated items, eliminations and other include common internal services that support Boeing’s global business operations and eliminations of certain sales between segments. We generally allocate costs to business segments based on the U.S. Government Cost Accounting Standards (CAS).  Components of Unallocated items, eliminations and other (expense)/income are shown in the following table.
+Three months ended March 31
+2024     2023
+Share-based plans    $ 10          ($ 52 )
+Deferred compensation    ( 30 )      ( 54 )
+Amortization of previously capitalized interest    ( 23 )      ( 23 )
+Research and development expense, net    ( 89 )      ( 76 )
+Eliminations and other unallocated items    ( 180 )      ( 255 )
+Unallocated items, eliminations and other
+($ 312 )      ($ 460 )
+25
+Table of Contents
+Pension and Other Postretirement Benefit Expense
+Pension costs are allocated to BDS and BGS businesses supporting government customers using CAS, which employ different actuarial assumptions and accounting conventions than GAAP. These costs are allocable to government contracts. Other postretirement benefit costs are allocated to business segments based on CAS, which is generally based on benefits paid. FAS/CAS service cost adjustment represents the difference between the Financial Accounting Standards (FAS) pension and postretirement service costs calculated under GAAP and costs allocated to the business segments. Non-operating pension and postretirement expenses represent the components of net periodic benefit costs other than service cost. These expenses are included in Other income, net.  Components of FAS/CAS service cost adjustment are shown in the following table:
+Three months ended March 31
+2024     2023
+Pension FAS/CAS service cost adjustment    $ 230          $ 223
+Postretirement FAS/CAS service cost adjustment     72           68
+FAS/CAS service cost adjustment    $ 302          $ 291
+Assets
+Segment assets are summarized in the table below:
+March 31
+2024     December 31
+2023
+Commercial Airplanes    $ 80,811          $ 77,047
+Defense, Space & Security     16,046           14,921
+Global Services     16,365           16,193
+Unallocated items, eliminations and other     21,262           28,851
+Total    $ 134,484          $ 137,012
+Assets included in Unallocated items, eliminations and other primarily consist of Cash and cash equivalents, Short-term and other investments, tax assets, capitalized interest and assets managed centrally on behalf of the  three  principal business segments and intercompany eliminations.
+26
+Table of Contents
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Board of Directors and Shareholders of
+The Boeing Company
+Arlington, Virginia
+Results of Review of Interim Financial Information
+We have reviewed the accompanying condensed consolidated statement of financial position of The Boeing Company and subsidiaries (the “Company”) as of March 31, 2024, the related condensed consolidated statements of operations, comprehensive income, equity, and cash flows for the three-month periods ended March 31, 2024 and 2023, and the related notes (collectively referred to as the "condensed consolidated interim financial information"). Based on our reviews, we are not aware of any material modifications that should be made to the accompanying condensed consolidated interim financial information for it to be in conformity with accounting principles generally accepted in the United States of America.
+We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated statement of financial position of the Company as of December 31, 2023, and the related consolidated statements of operations, comprehensive income, equity, and cash flows for the year then ended (not presented herein); and in our report dated January 31, 2024, we expressed an unqualified opinion on those consolidated financial statements. In our opinion, the information set forth in the accompanying condensed consolidated statement of financial position as of December 31, 2023, is fairly stated, in all material respects, in relation to the consolidated statement of financial position from which it has been derived.
+Basis for Review Results
+This condensed consolidated interim financial information is the responsibility of the Company's management. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our reviews in accordance with standards of the PCAOB. A review of interim financial information consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion.
+/s/ Deloitte & Touche LLP
+Chicago, Illinois
+April 24, 2024
+27
+Table of Contents
+FORWARD-LOOKING STATEMENTS
+This report contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as “may,” “should,” “expects,” “intends,” “projects,” “plans,” “believes,” “estimates,” “targets,” “anticipates” and similar expressions generally identify these forward-looking statements. Examples of forward-looking statements include statements relating to our future financial condition and operating results, as well as any other statement that does not directly relate to any historical or current fact.
+Forward-looking statements are based on expectations and assumptions that we believe to be reasonable when made, but that may not prove to be accurate. These statements are not guarantees and are subject to risks, uncertainties, and changes in circumstances that are difficult to predict. Many factors could cause actual results to differ materially and adversely from these forward-looking statements. Among these factors are risks related to:
+(1)    general conditions in the economy and our industry, including those due to regulatory changes;
+(2)    our reliance on our commercial airline customers;
+(3)
+the overall health of our aircraft production system, production quality issues, commercial airplane production rates, our ability to successfully develop and certify new aircraft or new derivative aircraft, and the ability of our aircraft to meet stringent performance and reliability standards;
+(4)
+changing budget and appropriation levels and acquisition priorities of the U.S. government, as well as significant delays in U.S. government appropriations;
+(5)    our dependence on our subcontractors and suppliers, as well as the availability of highly skilled labor and raw materials;
+(6)
+work stoppages or other labor disruptions;
+(7)    competition within our markets;
+(8)    our non-U.S. operations and sales to non-U.S. customers;
+(9)    changes in accounting estimates;
+(10)    realizing the anticipated benefits of mergers, acquisitions, joint ventures/strategic alliances or divestitures;
+(11)    our dependence on U.S. government contracts;
+(12)    our reliance on fixed-price contracts;
+(13)    our reliance on cost-type contracts;
+(14)    contracts that include in-orbit incentive payments;
+(15)    unauthorized access to our, our customers’ and/or our suppliers' information and systems;
+(16)    potential business disruptions, including threats to physical security or our information technology systems, extreme weather (including effects of climate change) or other acts of nature, and pandemics or other public health crises;
+28
+Table of Contents
+(17)    potential adverse developments in new or pending litigation and/or government inquiries or investigations;
+(18)    potential environmental liabilities;
+(19)
+effects of climate change and legal, regulatory or market responses to such change;
+(20)    changes in our ability to obtain debt financing on commercially reasonable terms, at competitive rates and in sufficient amounts;
+(21)    substantial pension and other postretirement benefit obligations;
+(22)
+the adequacy of our insurance coverage; and
+(23)
+customer and aircraft concentration in our customer financing portfolio.
+Additional information concerning these and other factors can be found in our filings with the Securities and Exchange Commission, including our most recent Annual Report on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form 8-K. Any forward-looking statement speaks only as of the date on which it is made, and we assume no obligation to update or revise any forward-looking statement, whether as a result of new information, future events, or otherwise, except as required by law.
+29
+Table of Contents
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Overview
+On January 5, 2024, an Alaska Airlines 737-9 flight made an emergency landing after a mid-exit door plug detached in flight. Following the accident, the Federal Aviation Administration (FAA) grounded and required inspections of all 737-9 aircraft with a mid-exit door plug, which constituted the large majority of the approximately 220 737-9 aircraft in the in-service fleet. On January 24, 2024, the FAA approved an enhanced maintenance and inspection process that was required to be performed on each of the grounded 737-9 aircraft. Our 737-9 operators returned their fleets to service in the first quarter. All 737-9 aircraft in production are undergoing this same enhanced inspection process prior to delivery.
+The Alaska Airlines accident and the resulting actions we are taking, including slowing production, to improve compliance with our manufacturing quality control requirements have significantly impacted our financial position, results of operations and cash flows during the first quarter of 2024.
+Consolidated Results of Operations and Financial Condition
+Consolidated Results of Operations
+The following table summarizes key indicators of consolidated results of operations:
+(Dollars in millions, except per share data)    Three months ended March 31
+2024     2023
+Revenues    $16,569         $17,921
+GAAP
+Loss from operations    ($86)      ($149)
+Operating margins    (0.5)    %     (0.8)    %
+Effective income tax rate    6.1       %     14.3     %
+Net loss attributable to Boeing Shareholders    ($343)      ($414)
+Diluted loss per share    ($0.56)      ($0.69)
+Non-GAAP   (1)
+Core operating loss    ($388)      ($440)
+Core operating margins    (2.3)    %     (2.5)    %
+Core loss per share    ($1.13)      ($1.27)
+(1)  These measures exclude certain components of pension and other postretirement benefit expense. See pages 43-44 for important information about these non-GAAP measures and reconciliations to the most directly comparable GAAP measures.
+30
+Table of Contents
+Revenues
+The following table summarizes Revenues:
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Commercial Airplanes    $4,653         $6,704
+Defense, Space & Security    6,950         6,539
+Global Services    5,045         4,720
+Unallocated items, eliminations and other    (79)      (42)
+Total    $16,569         $17,921
+Revenues for the three months ended March 31, 2024 decreased by $1,352 million compared with the same period in 2023 driven by lower revenues at Commercial Airplanes (BCA), partially offset by higher revenues at Defense, Space & Security (BDS) and Global Services (BGS). BCA revenues decreased by $2,051 million primarily driven by lower 737 deliveries and 737-9 customer considerations. BDS revenues increased by $411 million primarily due to higher volume on weapons and proprietary programs and MQ-25 contract modifications in 2024, partially offset by the U.S. Air Force (USAF) KC-46A Tanker Lot 9 award in 2023. BGS revenues increased by $325 million primarily due to higher commercial services revenue.
+Revenues will continue to be significantly impacted until the global supply chain stabilizes, labor instability diminishes, and deliveries ramp up.
+Loss from Operations
+The following table summarizes Loss from operations:
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Commercial Airplanes    ($1,143)      ($615)
+Defense, Space & Security    151         (212)
+Global Services    916         847
+Segment operating (loss)/earnings    (76)      20
+Unallocated items, eliminations and other    (312)      (460)
+Pension FAS/CAS service cost adjustment    230         223
+Postretirement FAS/CAS service cost adjustment    72         68
+Loss from operations (GAAP)
+($86)      ($149)
+FAS/CAS service cost adjustment *     (302)      (291)
+Core operating loss (Non-GAAP) **
+($388)      ($440)
+*    The FAS/CAS service cost adjustment represents the difference between the FAS pension and postretirement service costs calculated under GAAP and costs allocated to the business segments.
+**    Core operating loss is a Non-GAAP measure that excludes the FAS/CAS service cost adjustment. See pages 43-44.
+Loss from operations for the three months ended March 31, 2024 decreased by $63 million compared with the same period in 2023. BDS earnings from operations increased by $363 million compared to the same period in 2023 primarily due to lower charges in 2024 on major fixed-price development programs of $92 million, revenue growth on weapons and proprietary programs, and improved performance across other programs that were more adversely affected by labor instability and supply chain performance in the prior year. BGS earnings from operations increased by $69 million primarily due to higher commercial
+31
+Table of Contents
+services revenue, partially offset by lower government services performance. BCA loss from operations increased by $528 million reflecting lower 737 deliveries and 737-9 customer considerations, partially offset by lower abnormal production costs. Loss from operations on Unallocated items, eliminations and other decreased by $148 million compared with the same period in 2023 primarily due to decreases in eliminations and other unallocated items and share based plans expense.
+Core operating loss for the three months ended March 31, 2024 decreased by $52 million compared with the same period in 2023, primarily due to changes in Loss from operations as described above.
+For information related to Postretirement Plans, see Note 11 to our Condensed Consolidated Financial Statements.
+Unallocated Items, Eliminations and Other
+The most significant items included in Unallocated items, eliminations and other (expense)/income are shown in the following table:
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Share-based plans    $10         ($52)
+Deferred compensation    (30)      (54)
+Amortization of previously capitalized interest    (23)      (23)
+Research and development expense, net    (89)      (76)
+Eliminations and other unallocated items    (180)      (255)
+Unallocated items, eliminations and other     ($312)      ($460)
+Share-based plans expense for the three months ended March 31, 2024 decreased by $62 million compared with the same period in 2023 primarily due to fewer outstanding share-based awards in 2024.
+Deferred compensation expense for the three months ended March 31, 2024 decreased by $24 million compared with the same period in 2023 primarily driven by changes in our stock price.
+Research and development expense for the three months ended March 31, 2024 was largely unchanged compared with the same period in 2023.
+Eliminations and other unallocated items expense for the three months ended March 31, 2024 decreased by $75 million compared with the same period in 2023 due to a decrease in environmental remediation expense.
+Other Earnings Items
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Loss from operations    ($86)      ($149)
+Other income, net    277         302
+Interest and debt expense    (569)      (649)
+Loss before income taxes    (378)      (496)
+Income tax benefit    23         71
+Net loss from continuing operations    (355)      (425)
+Less: net loss attributable to noncontrolling interest    (12)      (11)
+Net loss attributable to Boeing Shareholders    ($343)      ($414)
+32
+Table of Contents
+Other income, net for the three months ended March 31, 2024 remained relatively consistent compared with the same period in 2023. For information on changes related to non-operating pension and postretirement expenses, see Note 11 to our Condensed Consolidated Financial Statements.
+Interest and debt expense for the three months ended March 31, 2024 was lower compared with the same period in the prior year primarily as a result of lower average debt balances.
+For additional discussion related to Income Taxes, see Note 3 to our Condensed Consolidated Financial Statements.
+Total Costs and Expenses (“Cost of Sales”)
+Cost of sales, for both products and services, consists primarily of raw materials, parts, sub-assemblies, labor, overhead and subcontracting costs. Our BCA segment predominantly uses program accounting to account for cost of sales. Under program accounting, cost of sales for each commercial aircraft program equals the product of (i) revenue recognized in connection with customer deliveries and (ii) the estimated cost of sales percentage applicable to the total remaining program. For long-term contracts, the amount reported as cost of sales is recognized as incurred. Substantially all contracts at our BDS segment and certain contracts at our BGS segment are long-term contracts with the U.S. government and other customers that generally extend over several years. Cost of sales for commercial spare parts is recorded at average cost.
+The following table summarizes cost of sales:
+(Dollars in millions)    Three months ended March 31
+2024     2023    Change
+Cost of sales    $14,693         $15,998      ($1,305)
+Cost of sales as a % of Revenues
+88.7       %     89.3     %    (0.6)    %
+Cost of sales for the three months ended March 31, 2024 decreased by $1,305 million, or 8% compared with the same periods in 2023, primarily due to lower revenues at BCA, partially offset by higher revenues at BDS and BGS. Cost of sales as a percentage of Revenues remained largely consistent during the three months ended March 31, 2024 compared with the same period in 2023.
+Research and Development
+Research and development expense, net is summarized in the following table:
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Commercial Airplanes    $518         $444
+Defense, Space & Security    235         195
+Global Services    26         26
+Other    89         76
+Total    $868         $741
+Research and development expense increased by $127 million during the three months ended March 31, 2024 compared to the same period in 2023. The increase at BCA is primarily due to higher spending on the 777X program.
+33
+Table of Contents
+Backlog
+(Dollars in millions)    March 31
+2024     December 31
+2023
+Commercial Airplanes    $447,533         $440,507
+Defense, Space & Security    60,744         59,012
+Global Services    19,693         19,869
+Unallocated items, eliminations and other    779         807
+Total Backlog    $528,749         $520,195
+Contractual backlog    $505,918         $497,094
+Unobligated backlog    22,831         23,101
+Total Backlog    $528,749         $520,195
+Contractual backlog of unfilled orders excludes purchase options, announced orders for which definitive contracts have not been executed, orders where customers have the unilateral right to terminate, and unobligated U.S. and non-U.S. government contract funding. The increase in contractual backlog during the three months ended March 31, 2024 was primarily due to increases in BCA and BDS backlog. We may experience reductions to backlog and/or significant order cancellations due to production disruptions and/or further delays to entry into service of the 777X, 737-7 and/or 737-10.
+Unobligated backlog includes U.S. and non-U.S. government definitive contracts for which funding has not been authorized. Unobligated backlog was largely unchanged during the three months ended March 31, 2024.
+Additional Considerations
+Global Trade   We continually monitor the global trade environment in response to geopolitical economic developments, as well as changes in tariffs, trade agreements, or sanctions that may impact the Company.
+The current state of U.S.-China relations remains an ongoing watch item. Since 2018, the U.S. and China have imposed tariffs on each other’s imports. Certain aircraft parts and components that Boeing procures are subject to these tariffs. We are mitigating import costs through Duty Drawback Customs procedures. China is a significant market for commercial aircraft and we have long-standing relationships with our Chinese customers, who represent a key component of our commercial aircraft backlog. Overall, the U.S.-China trade relationship remains stalled as economic and national security concerns continue to be a challenge  .
+Beginning in June 2018, the U.S. Government imposed tariffs on steel and aluminum imports. In response to these tariffs, several major U.S. trading partners have imposed, or announced their intention to impose, tariffs on U.S. goods. The U.S. has subsequently reached agreements with Mexico, Canada, Japan, the United Kingdom, and the European Union to ease or remove tariffs on steel and/or aluminum. We continue to monitor the potential for any extra costs that may result from the remaining global tariffs.
+We are complying with all U.S. and other government export control restrictions and sanctions imposed on certain businesses and individuals in Russia. We continue to monitor and evaluate additional sanctions and export restrictions that may be imposed by the U.S. Government or other governments, as well as any responses from Russia that could affect our supply chain, business partners or customers, for any additional impacts to our business.
+Supply Chain   We and our suppliers are experiencing supply chain disruptions as a result of global supply chain constraints and labor instability. We and our suppliers are also experiencing inflationary pressures. We continue to monitor the health and stability of the supply chain. These factors have reduced overall productivity and adversely impacted our financial position, results of operations and cash flows.
+34
+Table of Contents
+The current conflict in Israel and the Gaza Strip has the potential to impact certain of our suppliers, and has impacted some operations for our airline and lessor customers. We are closely monitoring developments, supporting our employees and customers, and will take mitigating actions as appropriate.
+Segment Results of Operations and Financial Condition
+Commercial Airplanes
+Results of Operations
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Revenues    $ 4,653      $ 6,704
+Loss from operations    ($ 1,143 )     ($ 615 )
+Operating margins    (24.6)%     (9.2)%
+Revenues
+BCA revenues decreased by $2,051 million for the three months ended March 31, 2024 compared with the same period in 2023 driven by lower 737 deliveries and 737-9 customer considerations.
+Commercial airplane deliveries, including intercompany deliveries, were as follows:
+737        *    747         767        *    777          787         Total
+Deliveries during the first three months of 2024    67      (1)           3      (2)       13       83
+Deliveries during the first three months of 2023    113      (2)    1       1       4        11       130
+Cumulative deliveries as of 3/31/2024    8,595       1,573       1,306       1,727        1,123
+Cumulative deliveries as of 12/31/2023    8,528       1,573       1,303       1,727        1,110
+*   Intercompany deliveries identified by parentheses.
+Loss From Operations
+BCA loss from operations was $ 1,143  million for the three months ended March 31, 2024 compared with $ 615  million in the same period in 2023 reflecting lower 737 deliveries and 737-9 customer considerations, partially offset by lower abnormal production costs.
+Backlog
+Our total backlog represents the estimated transaction prices on unsatisfied and partially satisfied performance obligations to our customers where we believe it is probable that we will collect the consideration due and where no contingencies remain before we and the customer are required to perform. Backlog does not include prospective orders where customer-controlled contingencies remain, such as the customer receiving approval from its board of directors, shareholders or government or completing financing arrangements. All such contingencies must be satisfied or have expired prior to recording a new firm order even if satisfying such conditions is highly probable. Backlog excludes options and customer financing orders as well as orders where customers have the unilateral right to terminate. A number of our customers may have contractual remedies, including rights to reject individual airplane deliveries if the actual delivery date is significantly later than the contractual delivery date. We address customer claims and requests for other contractual relief as they arise. The value of orders in backlog is adjusted as changes to price and schedule are agreed to with customers and is reported in accordance with the requirements of Accounting Standards Codification (ASC) 606.
+BCA total backlog increased from $440,507 million as of December 31, 2023 to $447,533 million at March 31, 2024 reflecting new orders in excess of deliveries. Aircraft order cancellations and net ASC 606 adjustments during the three months ended March 31, 2024 were not significant. ASC 606 adjustments
+35
+Table of Contents
+include consideration of aircraft orders where a customer-controlled contingency may exist, as well as an assessment of whether the customer is committed to perform, impacts of geopolitical events or related sanctions, or whether it is probable that the customer will pay the full amount of consideration when it is due. We may experience reductions to backlog and/or significant order cancellations due to production disruptions and/or further delays to entry into service of the 777X, 737-7 and/or 737-10.
+Accounting Quantity
+The following table provides details of the accounting quantities and firm orders by program. Cumulative firm orders represent the cumulative number of commercial jet aircraft deliveries plus undelivered firm orders. Firm orders include certain military derivative aircraft that are not included in program accounting quantities. All revenues and costs associated with military derivative aircraft production are reported in the BDS segment.
+Program
+As of 3/31/2024    737         767         777         777X     787        †
+Program accounting quantities    11,600         1,279         1,790         500         1,700
+Undelivered units under firm orders    4,357        *    101         47         444         719        (8)
+Cumulative firm orders    12,952         1,407         1,774         444         1,842
+As of 12/31/2023    737       767       777       777X     787      †
+Program accounting quantities    11,600       1,279       1,790       500       1,700
+Undelivered units under firm orders    4,332       104       48       416       726      (8)
+Cumulative firm orders    12,860       1,407       1,775       416       1,836
+† Customer financing aircraft orders are identified in parentheses.
+*  Approximate undelivered orders by minor model: 737-7 (7%), 737-8 (65%), 737-9 (3%) and 737-10 (25%).
+Program Highlights
+737 Program   On January 10, 2024, the FAA notified Boeing that it had initiated an investigation into the 737 quality control system (737-9 Production Audit). This was followed by the FAA announcing actions to increase its oversight of Boeing, including conducting:
+1.  An audit involving the 737-9 production line and its suppliers to evaluate Boeing’s compliance with approved quality procedures,
+2.  Increased monitoring of Boeing’s 737-9 in-service events, and
+3.  An assessment of safety risks around delegated authority and quality oversight, and examination of options to move these functions under independent third parties.
+On January 24, 2024, the FAA stated it will not approve production rate increases or additional production lines for the 737 MAX until it is satisfied that Boeing is in full compliance with required quality control procedures.
+The FAA communicated its findings from the 737-9 Production Audit of Boeing and Spirit AeroSystems (Spirit) on February 28, 2024. The FAA found multiple instances where the companies failed to comply with manufacturing quality control requirements and provided 90 days from March 1, 2024 to submit a corrective action plan. We are working to develop a comprehensive action plan to address the issues identified by the FAA.
+36
+Table of Contents
+Our planned production rates are dependent on our suppliers' ability to support our operations and our ability to meet heightened quality control requirements. Prior to the Alaska Airlines accident, we were operating at a production rate of 38 per month. During the first quarter of 2024, as part of our plan to address the issues identified, we slowed production rates to reduce traveled work in our factory, as well as at our suppliers. We are now conducting fuselage inspections at Spirit to ensure quality prior to shipment to Boeing.
+We are following the lead of the FAA as we work through the certification process of the 737-7 and 737-10 models. During the first quarter of 2024, the 737-10 program completed the first phase of FAA certification flight testing. As of March 31, 2024, we had approximately 35 737-7 and 737-10 aircraft in inventory. We are planning to incorporate engineering solutions to the de-icing systems on the 737-7 and 737-10 prior to certification, which will delay certification and first deliveries.
+As of March 31, 2024, we had approximately 110 737-8 aircraft in inventory that were produced prior to 2023, including approximately 70 aircraft for customers in China. We expect to deliver most of the aircraft in inventory by the end of 2024.
+The production slow-down and certification delays had an adverse impact on our financial position, results of operations and cash flows during the first quarter of 2024.     This is expected to continue until production rates recover. In the event that we are unable to deliver aircraft and/or increase future production rates consistent with our assumptions, our financial position, results of operations and cash flows will continue to be adversely affected.
+See further discussion of the 737 MAX in Note 9 and Note 16 to our Condensed Consolidated Financial Statements  .
+767 Program   The 767 assembly line includes the commercial program and a derivative to support the KC-46A Tanker program. The commercial program has near break-even gross margins. We are currently at a production rate of 3 aircraft per month.
+777 and 777X Programs   We are currently at a combined production rate of 4 per month for the 777/777X programs.
+We are following the lead of the FAA as we work through the certification process including obtaining approval from the FAA to begin certification flight testing. We expect the first delivery of the 777-9 to occur in 2025 and the 777-8 freighter to occur in 2027. First delivery of the 777-8 passenger aircraft is not expected to occur before 2030.
+The level of profitability on the 777X program will be subject to a number of factors. These factors include aircraft certification requirements and timing, change incorporation on completed aircraft, production disruption due to labor instability and supply chain disruption, customer negotiations, further production rate adjustments for the 777X or other commercial aircraft programs, and contraction of the accounting quantity. One or more of these factors could result in reach-forward losses in future periods.
+787 Program   We are slowing near-term production to below 5 per month due to supply chain constraints, which are also impacting 2024 deliveries. As of March 31, 2024, we had approximately 40 aircraft in inventory that require rework which we expect to complete by the end of 2024.     The inspections and rework costs on inventoried aircraft are accounted for as abnormal production costs, and we expensed $80 million in the three months ended March 31, 2024.
+Additional Considerations
+On March 1, 2024, we confirmed that we were engaged in preliminary discussions with Spirit regarding a potential acquisition of its business.   We believe that a deal on reasonable terms would allow for the reintegration of our and Spirit’s manufacturing operations and would further strengthen aviation safety, improve quality and serve the interests of our customers, employees, and shareholders.   We continue to
+37
+Table of Contents
+engage with Spirit regarding a potential acquisition; however, we have not entered into a definitive agreement, and no assurances can be made that we will reach a definitive agreement and complete the potential acquisition.
+Defense, Space & Security
+Overview
+The Consolidated Appropriations Act, 2024, and the Further Consolidated Appropriations Act, 2024, enacted in March 2024, provided fiscal year 2024 appropriations for government departments and agencies, including $844 billion for the United States Department of Defense (U.S. DoD) and $25 billion for the National Aeronautics and Space Administration (NASA). They included funding for Boeing’s major programs, including P-8, CH-47 Chinook, F-15, KC-46A Tanker, AH-64 Apache, V-22 Osprey, and Space Launch System.
+In March 2024, the U.S. government released the President's budget request for fiscal year 2025 (FY25), which requested $850 billion in funding for the U.S. DoD and $25 billion for NASA.
+There is ongoing uncertainty with respect to program-level appropriations for the U.S. DoD, NASA and other government agencies for FY25 and beyond. Future budget cuts or investment priority changes, including changes associated with the authorizations and appropriations process, could result in reductions, cancellations and/or delays of existing contracts or programs. Any of these impacts could have a material effect on our results of operations, financing position, and/or cash flows.
+The non-U.S. market continues to be driven by complex and evolving security challenges and the need to modernize aging equipment and inventories. BDS expects that it will continue to have a wide range of opportunities across Asia, Europe and the Middle East given the diverse regional threats. At March 31, 2024, 31% of BDS backlog was attributable to non-U.S. customers.
+Results of Operations
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Revenues    $6,950         $6,539
+Earnings/(loss) from operations
+$151         ($212)
+Operating margins    2.2       %     (3.2)    %
+Since our operating cycle is long-term and involves many different types of development and production contracts with varying delivery and milestone schedules, the operating results of a particular period may not be indicative of future operating results. In addition, depending on the customer and their funding sources, our orders might be structured as annual follow-on contracts, or as one large multi-year order or long-term award. As a result, period-to-period comparisons of backlog are not necessarily indicative of future workloads. The following discussions of comparative results among periods should be viewed in this context.
+38
+Table of Contents
+Deliveries of new-build production units, including remanufactures and modifications, were as follows:
+Three months ended March 31
+2024     2023
+F/A-18 Models    1     7
+F-15 Models    1     2
+CH-47 Chinook (New)    1     5
+CH-47 Chinook (Remanufactured)    1     1
+AH-64 Apache (New)      7
+AH-64 Apache (Remanufactured)    6     13
+P-8 Models    1     3
+KC-46 Tanker    3     1
+Commercial Satellites      3
+Total    14     42
+Revenues
+BDS revenues for the three months ended March 31, 2024 increased by $411 million compared with the same period in 2023. The increase reflects higher volume on weapons and proprietary programs and MQ-25 contract modifications in 2024, partially offset by the USAF KC-46A Tanker Lot 9 award in 2023. Net unfavorable cumulative contract catch-up adjustments for the three months ended March 31, 2024 were $104 million lower than the prior year comparable period.
+Earnings/(Loss) From Operations
+BDS earnings from operations was $151 million for the three months ended March 31, 2024 compared with loss from operations of $212 million in the same period in 2023. The increase in earnings reflects lower charges in 2024 on major fixed-price development programs of $92 million, revenue growth on weapons and proprietary programs, and improved performance across other programs that were more adversely affected by labor instability and supply chain performance in the prior year. Net unfavorable cumulative contract catch-up adjustments were $158 million lower than the comparable period in the prior year, as losses incurred on the five major fixed-price development programs totaled $222 million compared with $314 million in the same period in 2023.
+See further discussion of fixed-price contracts in Note 9 to our Condensed Consolidated Financial Statements.
+BDS earnings/(loss) from operations includes our share of earnings from equity method investments of $75 million for the three months ended March 31, 2024 compared with equity loss of $14 million for the three months ended March 31, 2023.
+Backlog
+BDS backlog increased from $59,012 million as of December 31, 2023 to $60,744 million at March 31, 2024, primarily due to the timing of awards, partially offset by revenue recognized on contracts awarded in prior periods.
+Additional Considerations
+Our BDS business includes a variety of development programs which have complex design and technical challenges. Some of these programs have cost-type contracting arrangements. In these cases, the associated financial risks are primarily reduced award or incentive fees, lower profit rates or program cancellation if cost, schedule or technical performance issues arise. Examples of these programs include Ground-based Midcourse Defense, Proprietary and Space Launch System programs.
+39
+Table of Contents
+Some of our development programs are contracted on a fixed-price basis. Examples of significant fixed-price development programs include Commercial Crew, KC-46A Tanker, MQ-25, T-7A Red Hawk, VC-25B, and commercial and military satellites. A number of our ongoing fixed-price development programs have reach-forward losses. New programs could also have risk for reach-forward loss upon contract award and during the period of contract performance. Many development programs have highly complex designs. As technical or quality issues arise during development, we may experience schedule delays and cost impacts, which could increase our estimated cost to perform the work or reduce our estimated price, either of which could result in a material charge or otherwise adversely affect our financial condition. These programs are ongoing, and while we believe the cost and fee estimates incorporated in the financial statements are appropriate, the technical complexity of these programs creates financial risk as additional completion costs may become necessary or scheduled delivery dates could be extended, which could trigger termination provisions or other financially significant exposure. Risk remains that we may be required to record additional reach-forward losses in future periods.
+Global Services
+Results of Operations
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Revenues    $5,045         $4,720
+Earnings from operations    $916         $847
+Operating margins    18.2       %     17.9     %
+Revenues
+BGS revenues for the three months ended March 31, 2024 increased by $325 million compared with the same period in 2023 primarily due to higher commercial services revenue. The net unfavorable impact of cumulative contract catch-up adjustments for the three months ended March 31, 2024 was $10 million higher than the prior year comparable period.
+Earnings From Operations
+BGS earnings from operations for the three months ended March 31, 2024 increased by $69 million compared with the same period in 2023, primarily due to higher commercial services revenue, partially offset by lower government services performance. The net unfavorable impact of cumulative contract catch-up adjustments for the three months ended March 31, 2024 was $6 million higher than the prior year comparable period.
+Backlog
+BGS total backlog decreased from $19,869 million at December 31, 2023 to $19,693 million at March 31, 2024, primarily due to revenue recognized on contracts awarded in prior years, partially offset by timing of awards.
+40
+Table of Contents
+Liquidity and Capital Resources
+Cash Flow Summary
+(Dollars in millions)    Three months ended March 31
+2024     2023
+Net loss    ($355)      ($425)
+Non-cash items    1,198         1,276
+Changes in assets and liabilities    (4,205)      (1,169)
+Net cash used by operating activities    (3,362)      (318)
+Net cash provided/(used) by investing activities    2,074         (1,823)
+Net cash used by financing activities    (4,462)      (1,680)
+Effect of exchange rate changes on cash and cash equivalents    (28)      10
+Net decrease in cash & cash equivalents, including restricted    (5,778)      (3,811)
+Cash & cash equivalents, including restricted, at beginning of year    12,713         14,647
+Cash & cash equivalents, including restricted, at end of period    $6,935         $10,836
+Operating Activities   Net cash used by operating activities was $3.4 billion during the three months ended March 31, 2024, compared with $0.3 billion during the same period in 2023. The $3.1 billion increase in cash used by operating activities was primarily driven by changes in commercial airplane program inventory. Changes in assets and liabilities for the three months ended March 31, 2024 decreased by $3.0 billion compared with the same period in 2023 primarily driven by unfavorable changes in Inventories ($3.4 billion) and Accounts payable ($0.5 billion), and higher payments to 737 MAX customers ($0.4 billion), partially offset by an increase in Advances and progress billings ($1.3 billion).
+The growth in Inventories was primarily driven by decreased deliveries for the 737 program in the first quarter of 2024 as compared to the same period in 2023. Concessions paid to 737 MAX customers totaled $553 million and $141 million for the three months ended March 31, 2024 and 2023. Reductions in Accounts payable in 2024 were a use of cash while growth in Accounts payable in 2023 was a source of cash. The increase in Advances and progress billings is primarily driven by advances on orders received at BCA, partially offset by revenue recognized at BDS.
+Payables to suppliers who elected to participate in supply chain financing programs decreased by $0.4 billion during the three months ended March 31, 2024 and increased by $0.1 billion during the three months ended March 31, 2023.
+Investing Activities   Cash provided by investing activities was $2.1 billion during the three months ended March 31, 2024, compared with cash used of $1.8 billion during the same period in 2023. The increase in cash inflows during the three months ended March 31, 2024 compared to the same period in 2023 was primarily due to net proceeds from investments of $2.7 billion in 2024 compared to net contributions to investments of $1.4 billion in 2023. During the three months ended March 31, 2024 and 2023, capital expenditures were $0.6 billion and $0.5 billion. We continue to expect capital expenditures in 2024 to be higher than in 2023.
+Financing Activities   Cash used by financing activities was $4.5 billion during the three months ended March 31, 2024 compared with $1.7 billion during the same period in 2023. During the three months ended March 31, 2024, net repayments on our debt were $4.4 billion compared with $1.7 billion in the same period in 2023.
+As of March 31, 2024 the total debt balance was $47.9 billion, down from $52.3 billion at December 31, 2023. At March 31, 2024, $1.1 billion of debt was classified as short-term.
+41
+Table of Contents
+Capital Resources
+We expect to be able to fund our cash requirements through cash and short-term investments and cash provided by operations, as well as continued access to capital markets. At March 31, 2024, we had $6.9 billion of cash, $0.6 billion of short-term investments, and $10.0 billion of unused borrowing capacity on revolving credit line agreements. In the third quarter of 2023, we entered into a $3.0 billion five-year revolving credit agreement expiring in August 2028 and a $0.8 billion 364-day revolving credit agreement expiring in August 2024. The 364-day credit facility has a one-year term out option which allows us to extend the maturity of any borrowings until August 2025. The legacy three-year revolving credit agreement expiring in August 2025, which consists of $3.0 billion of total commitments, and the legacy five-year revolving credit agreement expiring in October 2024, as amended, which consists of $3.2 billion of total commitments, each remain in effect. We anticipate that these credit lines will remain undrawn and primarily serve as back-up liquidity to support our general corporate borrowing needs.
+Our credit ratings were downgraded in 2020 and remained unchanged as of March 31, 2024. During the third quarter of 2023, S&P upgraded the outlook on our credit rating from negative to stable primarily driven by improving deliveries and expected increases in production. During the first quarter of 2024, Moody’s placed our Baa2 and Prime-2 ratings on review for downgrade primarily driven by concern that we will be unable to deliver 737 aircraft at the volumes required to materially expand free cash flow and retire debt in a reasonable timeframe. Fitch also downgraded our credit rating outlook from positive to stable driven by the financial impact of unexpected operational disruptions and the potential for additional corporate actions that should enhance longer-term operations.
+We expect to be able to access capital markets when we require additional funding in order to pay off existing debt, address further impacts to our business related to market developments, fund outstanding financing commitments or meet other business requirements. For example, we continue to engage with Spirit regarding a potential acquisition of its business. A number of factors could cause us to incur increased borrowing costs and to have greater difficulty accessing public and private markets for debt. These factors include disruptions or declines in the global capital markets and/or a decline in our financial performance, outlook or credit ratings, and/or associated changes in demand for our products and services. These risks will be particularly acute if we are subject to further credit rating downgrades such as those we experienced in 2020. The occurrence of any or all of these events may adversely affect our ability to fund our operations and financing or contractual commitments.
+Any future borrowings may affect our credit ratings and are subject to various debt covenants. At March 31, 2024, we were in compliance with the covenants for our debt and credit facilities. The most restrictive covenants include a limitation on mortgage debt and sale and leaseback transactions as a percentage of consolidated net tangible assets (as defined in the credit agreements), and a limitation on consolidated debt as a percentage of total capital (as defined in the credit agreements). When considering debt covenants, we continue to have substantial borrowing capacity.
+Off-Balance Sheet Arrangements
+We are a party to certain off-balance sheet arrangements including certain guarantees. For discussion of these arrangements, see Note 10 to our Condensed Consolidated Financial Statements.
+Contingent Obligations
+We have significant contingent obligations that arise in the ordinary course of business, which include the following:
+Legal   Various legal proceedings, claims and investigations are pending against us. Legal contingencies are discussed in Note 16 to our Condensed Consolidated Financial Statements.
+Environmental Remediation   We are involved with various environmental remediation activities and have recorded a liability of $837 million at March 31, 2024. For additional information, see Note 9 to our Condensed Consolidated Financial Statements.
+42
+Table of Contents
+Non-GAAP Measures
+Core Operating Earnings/(Loss), Core Operating Margin and Core Earnings/(Loss) Per Share
+Our unaudited condensed consolidated interim financial statements are prepared in accordance with generally accepted accounting principles in the United States of America (GAAP) which we supplement with certain non-GAAP financial information. These non-GAAP measures should not be considered in isolation or as a substitute for the related GAAP measures, and other companies may define such measures differently. We encourage investors to review our financial statements and publicly-filed reports in their entirety and not to rely on any single financial measure. Core operating earnings/(loss), Core operating margin and Core earnings/(loss) per share exclude the FAS/CAS service cost adjustment. The FAS/CAS service cost adjustment represents the difference between the Financial Accounting Standards (FAS) pension and postretirement service costs calculated under GAAP and costs allocated to the business segments. Core earnings/(loss) per share excludes both the FAS/CAS service cost adjustment and non-operating pension and postretirement expenses. Non-operating pension and postretirement expenses represent the components of net periodic benefit costs other than service cost. Pension costs allocated to BDS and BGS businesses supporting government customers are computed in accordance with U.S. Government Cost Accounting Standards (CAS), which employ different actuarial assumptions and accounting conventions than GAAP. CAS costs are allocable to government contracts. Other postretirement benefit costs are allocated to all business segments based on CAS, which is generally based on benefits paid.
+The Pension FAS/CAS service cost adjustments recognized in Loss from operations were benefits of $230 million and $223 million for the three months ended March 31, 2024 and 2023. The higher benefits in 2024 were primarily due to increases in allocated pension cost year over year. The non-operating pension expenses included in Other income, net were benefits of $123 million and $134 million for the three months ended March 31, 2024, and 2023. The lower benefits in 2024 were primarily due to lower expected return on plan assets and higher amortization of actuarial losses, partially offset by lower interest cost.
+For further discussion of pension and other postretirement costs see the Management’s Discussion and Analysis on page 26 of our 2023 Annual Report on Form 10-K. Management uses core operating earnings/(loss), core operating margin and core earnings/(loss) per share for purposes of evaluating and forecasting underlying business performance. Management believes these core earnings measures provide investors additional insights into operational performance as unallocated pension and other postretirement benefit costs primarily represent costs driven by market factors and costs not allocable to U.S. government contracts.
+43
+Table of Contents
+Reconciliation of Non-GAAP Measures to GAAP Measures
+The table below reconciles the non-GAAP financial measures of Core operating loss, Core operating margin and Core loss per share with the most directly comparable GAAP financial measures of Loss from operations, operating margins and Diluted loss per share.
+(Dollars in millions, except per share data)    Three months ended March 31
+2024     2023
+Revenues    $16,569         $17,921
+Loss from operations, as reported
+($86)      ($149)
+Operating margins    (0.5)    %     (0.8)    %
+Pension FAS/CAS service cost adjustment   (1)
+($230)      ($223)
+Postretirement FAS/CAS service cost adjustment   (1)
+(72)      (68)
+FAS/CAS service cost adjustment   (1)
+($302)      ($291)
+Core operating loss (non-GAAP)
+($388)      ($440)
+Core operating margins (non-GAAP)    (2.3)    %     (2.5)    %
+Diluted loss per share, as reported
+($0.56)      ($0.69)
+Pension FAS/CAS service cost adjustment   (1)
+(0.37)      (0.37)
+Postretirement FAS/CAS service cost adjustment   (1)
+(0.12)      (0.11)
+Non-operating pension income   (2)
+(0.20)      (0.23)
+Non-operating postretirement income   (2)
+(0.03)      (0.02)
+Provision for deferred income taxes on adjustments   (3)
+0.15         0.15
+Core loss per share (non-GAAP)    ($1.13)      ($1.27)
+Weighted average diluted shares (in millions)    613.2         602.5
+(1)   FAS/CAS service cost adjustment represents the difference between the FAS pension and postretirement service costs calculated under GAAP and costs allocated to the business segments. This adjustment is excluded from Core operating loss (non-GAAP).
+(2)   Non-operating pension and postretirement expense/(income) represents the components of net periodic benefit cost/(income) other than service cost/(income). This expense/(income) is included in Other income, net and is excluded from Core loss per share (non-GAAP).
+(3)   The income tax impact is calculated using the U.S. corporate statutory tax rate.
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+There have been no significant changes to our market risk since December 31, 2023.
+44
+Table of Contents
+Item 4. Controls and Procedures
+(a)  Evaluation of Disclosure Controls and Procedures.
+Our Chief Executive Officer and Chief Financial Officer have evaluated our disclosure controls and procedures as of March 31, 2024 and have concluded that these disclosure controls and procedures are effective to ensure that information required to be disclosed by us in the reports that we file or submit under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the time periods specified in the Securities and Exchange Commission’s rules and forms and is accumulated and communicated to our management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure.
+(b)  Changes in Internal Control Over Financial Reporting.
+There were no changes in our internal control over financial reporting that occurred during the first quarter of 2024 that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+45
+Table of Contents
+Part II. Other Information
+Item 1. Legal Proceedings
+Currently, we are involved in a number of legal proceedings. For a discussion of contingencies related to legal proceedings, see Note 16 to our Condensed Consolidated Financial Statements, which is hereby incorporated by reference.
+Item 1A. Risk Factors
+There have been no material changes in our risk factors from those disclosed in Part I, Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023.
+Item 2. Unregistered Sales of Equity Securities, Use of Proceeds, and Issuer Purchases of Equity Securities
+Issuer Purchases of Equity Securities
+The following table provides information about purchases we made during the quarter ended March 31, 2024 of equity securities that are registered by us pursuant to Section 12 of the Exchange Act:
+(Dollars in millions, except per share data)
+(a)     (b)     (c)     (d)
+Total Number
+of Shares
+Purchased   (1)
+Average
+Price
+Paid per
+Share     Total Number of
+Shares Purchased
+as Part of Publicly
+Announced Plans
+or Programs     Approximate Dollar
+Value of Shares That
+May Yet be Purchased
+Under the Plans or
+Programs
+1/1/2024 thru 1/31/2024    70,393       $248.08
+2/1/2024 thru 2/29/2024    230,224       204.29
+3/1/2024 thru 3/31/2024    1,829       202.56
+Total    302,446       $214.47
+(1)  A total of 302,213 shares were transferred to us from employees in satisfaction of minimum tax withholding obligations associated with the vesting of restricted stock units during the period. We did not purchase any shares of our common stock in the open market pursuant to a repurchase program.
+Item 3. Defaults Upon Senior Securities
+Not applicable.
+Item 4. Mine Safety Disclosures
+Not applicable.
+Item 5. Other Information
+During the three months ended March 31, 2024, none of our directors or officers     adopted  , modified   or     terminated     a “Rule 10b5-1 trading arrangement” or a “non-Rule 10b5-1 trading arrangement” as such terms are defined under Item 408 of Regulation S-K.
+During the three months ended March 31, 2024, the Company did not adopt, modify or terminate a “Rule 10b5-1 trading arrangement” as such term is defined under Item 408 of Regulation S-K.
+46
+Table of Contents
+Item 6. Exhibits
+10.1
+Form of U.S. Notice of Terms of Long-Term Incentive Restricted Stock Units – CEO*
+10.2
+Form of U.S. Notice of Terms of Long-Term Incentive Performance Restricted Stock Units – CEO*
+10.3
+Form of U.S. Notice of Terms of Long-Term Incentive Restricted Stock Units*
+10.4
+Form of International Notice of Terms of Long-Term Incentive Restricted Stock Units (Stock-Settled)*
+10.5
+Form of U.S. Notice of Terms of Long-Term Incentive Performance Restricted Stock Units*
+10.6
+Form of International Notice of Terms of Long-Term Incentive Performance Restricted Stock Units (Stock-Settled)*
+15
+Letter from Independent Registered Public Accounting Firm regarding unaudited interim financial information
+31.1
+Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2
+Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1
+Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+32.2
+Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS    Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH    Inline XBRL Taxonomy Extension Schema Document
+101.CAL    Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF    Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB    Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE    Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104    Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101)
+*Management contract or compensatory plan
+47
+Table of Contents
+Signature
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+THE BOEING COMPANY
+(Registrant)
+April 24, 2024     /s/ Michael J. Cleary
+(Date)
+Michael J. Cleary
+Senior Vice President and Controller
+48
