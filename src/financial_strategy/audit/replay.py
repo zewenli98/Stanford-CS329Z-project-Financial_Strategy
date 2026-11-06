@@ -43,15 +43,17 @@ def replay_run(run_dir: Path) -> list[dict]:
     volatility, anomaly = market_components(features, config.ranking)
     metadata = json.loads((run_dir / "snapshot/metadata.json").read_text())
     exposure_values = json.loads((run_dir / "snapshot/exposures.json").read_text())
+    document_path = run_dir / "snapshot/evidence_documents.json"
+    documents = json.loads(document_path.read_text()) if document_path.exists() else {}
     snapshot = PointInTimeSnapshot(
         snapshot_id=metadata["snapshot_id"],
         bars=pl.read_parquet(run_dir / "snapshot/market.parquet"),
         company_evidence=tuple(
-            EvidenceRecord.model_validate(item)
+            _restore_document(EvidenceRecord.model_validate(item), documents)
             for item in _read_jsonl(run_dir / "snapshot/company_evidence.jsonl")
         ),
         macro_evidence=tuple(
-            MacroEvidenceRecord.model_validate(item)
+            _restore_document(MacroEvidenceRecord.model_validate(item), documents)
             for item in _read_jsonl(run_dir / "snapshot/macro_evidence.jsonl")
         ),
         corporate_actions=tuple(
@@ -99,3 +101,7 @@ def replay_run(run_dir: Path) -> list[dict]:
 
 def _read_jsonl(path: Path) -> list[dict]:
     return [json.loads(line) for line in path.read_text().splitlines() if line.strip()]
+
+
+def _restore_document(item: EvidenceRecord, documents: dict[str, str]) -> EvidenceRecord:
+    return item.model_copy(update={"document_text": documents.get(item.evidence_id)})

@@ -12,7 +12,7 @@ def evaluate_ranking(
     k: int,
     eligible_count: int,
     large_move_threshold: float,
-) -> dict[str, float | int | None]:
+) -> dict[str, float | int | list[str] | None]:
     k_effective = min(k, eligible_count)
     if k_effective == 0:
         return {
@@ -22,6 +22,7 @@ def evaluate_ranking(
             "precision_at_k": None,
             "mean_absolute_return_at_k": None,
             "ndcg_at_k": None,
+            "selected_symbols": [],
         }
     # Preserve rank positions when a selected symbol has no valid label. Filtering
     # first would incorrectly move lower-ranked names upward and inflate DCG.
@@ -45,4 +46,5 @@ def evaluate_ranking(
         "precision_at_k": precision,
         "mean_absolute_return_at_k": mean_return,
         "ndcg_at_k": ndcg,
+        "selected_symbols": symbols[:k_effective],
     }

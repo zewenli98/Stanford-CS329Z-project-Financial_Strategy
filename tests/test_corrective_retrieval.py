@@ -73,7 +73,7 @@ def test_current_release_is_accepted_and_prior_quarter_is_not_written() -> None:
         excerpt="Prior quarter results and guidance.",
         published_at=CUTOFF - timedelta(days=90),
         first_seen_at=CUTOFF - timedelta(days=90),
-        retrieved_at=CUTOFF - timedelta(days=90),
+        retrieved_at=CUTOFF - timedelta(days=89),
         available_at=CUTOFF - timedelta(days=90),
     )
     current = _evidence("ev_current")
@@ -95,6 +95,8 @@ def test_prior_quarter_only_rewrites_once_then_records_the_gap() -> None:
         title="Second-quarter earnings",
         excerpt="Prior quarter results and guidance.",
         published_at=CUTOFF - timedelta(days=90),
+        first_seen_at=CUTOFF - timedelta(days=90),
+        retrieved_at=CUTOFF - timedelta(days=89),
         available_at=CUTOFF - timedelta(days=90),
     )
     output, _invocations, traces = _suite().company(_task(), "AAPL", [prior], "snapshot")
@@ -144,6 +146,8 @@ def test_exhausted_company_search_budget_records_a_gap() -> None:
         "ev_prior",
         title="Second-quarter earnings",
         published_at=CUTOFF - timedelta(days=90),
+        first_seen_at=CUTOFF - timedelta(days=90),
+        retrieved_at=CUTOFF - timedelta(days=89),
         available_at=CUTOFF - timedelta(days=90),
     )
     output, _invocations, traces = _suite(company_max_tool_calls_per_symbol=1).company(

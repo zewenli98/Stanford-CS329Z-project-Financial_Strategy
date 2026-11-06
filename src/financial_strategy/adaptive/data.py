@@ -35,6 +35,7 @@ def compute_range_features(
     bars: pl.DataFrame,
     expected_sessions: list[date],
     required_sessions: int = 21,
+    symbol_sectors: dict[str, str] | None = None,
 ) -> tuple[dict[str, RangeFeature], dict[str, str]]:
     """Build history-only features from a gateway-filtered, complete daily history.
 
@@ -47,7 +48,12 @@ def compute_range_features(
         raise ValueError("Range features require at least 21 completed sessions")
     if len(expected_sessions) < required_sessions:
         raise ValueError("expected_sessions must contain the required completed sessions")
-    context, rejected = compute_features(bars, expected_sessions, required_sessions)
+    context, rejected = compute_features(
+        bars,
+        expected_sessions,
+        required_sessions,
+        symbol_sectors,
+    )
     features: dict[str, RangeFeature] = {}
     for symbol, historical in context.items():
         rows = bars.filter(pl.col("symbol") == symbol).sort("session").tail(20)

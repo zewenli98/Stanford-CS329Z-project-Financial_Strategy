@@ -598,7 +598,11 @@ def run_adaptive(
                     },
                 )
             expected = calendar.completed_sessions_before(task.decision_cutoff, 21)
-            features, rejected = compute_range_features(snapshot.bars, expected)
+            features, rejected = compute_range_features(
+                snapshot.bars,
+                expected,
+                symbol_sectors={item.symbol: item.sector for item in exposures},
+            )
             _freeze_documents(writer, snapshot, config)
             initial_cards = None
         else:

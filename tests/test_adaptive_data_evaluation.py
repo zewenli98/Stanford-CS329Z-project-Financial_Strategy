@@ -73,7 +73,7 @@ def test_range_features_reject_bad_range_and_missing_session():
 
 
 def test_derive_labels_reports_missing_october_fourteenth_without_source_changes():
-    source = ROOT / "data/2026-10-01_2026-10-14/market/daily_bars.parquet"
+    source = ROOT / "tests/fixtures/integration/market/daily_bars.parquet"
     before = file_sha256(source)
     labels, coverage = derive_range_labels(source, [date(2026, 10, 13), date(2026, 10, 14)])
     assert coverage["missing_sessions"] == ["2026-10-14"]

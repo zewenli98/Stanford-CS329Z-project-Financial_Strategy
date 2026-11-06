@@ -55,13 +55,13 @@ ranking:
       earnings: 1.0
       guidance: 1.0
       merger_acquisition: 0.9
-      major_regulatory: 0.9
-      trading_halt: 0.9
+      buyback: 0.75
+      dividend: 0.5
       financing: 0.75
-      major_litigation: 0.75
-      product_safety: 0.75
+      litigation_regulatory: 0.9
       management_change: 0.5
-      routine_product_news: 0.3
+      product: 0.3
+      cybersecurity: 0.9
     confidence_factors:
       high: 1.0
       medium: 0.75

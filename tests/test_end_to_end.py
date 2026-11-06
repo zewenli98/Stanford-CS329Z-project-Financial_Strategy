@@ -37,6 +37,12 @@ def test_screening_freezes_responses_and_replays_without_cache(tmp_path: Path) -
     assert list((run_dir / "llm_responses").glob("*.json"))
     assert (run_dir / "snapshot/universe.json").exists()
     assert (run_dir / "snapshot/sector_exposures.json").exists()
+    published = json.loads((run_dir / "published_research_cards.json").read_text())
+    assert all(
+        card["deterministic_verification"]["verdict"] == "PASS"
+        and card["semantic_verification"]["verdict"] == "PASS"
+        for card in published
+    )
     response = json.loads(next((run_dir / "llm_responses").glob("*.json")).read_text())
     assert response["validation_status"] == "valid"
     assert response["response_content_hash"]

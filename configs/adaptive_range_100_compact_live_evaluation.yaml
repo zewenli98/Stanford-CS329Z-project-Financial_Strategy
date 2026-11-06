@@ -1,4 +1,4 @@
-screening_config: configs\adaptive_range_100_compact_live.yaml
+screening_config: configs/adaptive_range_100_compact_live.yaml
 evaluation:
   sessions:
   - '2026-08-03'

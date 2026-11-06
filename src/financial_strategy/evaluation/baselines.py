@@ -30,7 +30,7 @@ def baseline_rankings(
             status_factors.get(item.event_status.value, 0.0)
             for item in company_evidence
             if item.symbol == symbol
-            and item.event_type == "earnings"
+            and "earnings" in item.event_types
             and item.event_status is not None
         ]
         score = max(scores, default=0.0)

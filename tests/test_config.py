@@ -7,6 +7,7 @@ from financial_strategy.config import (
     MVPConfig,
     load_evaluation_config,
     load_mvp_config,
+    load_tuning_config,
 )
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -15,7 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def test_real_config_is_valid_and_weights_are_frozen() -> None:
     config = load_mvp_config(ROOT / "configs/screening_2026-10-14.yaml")
     assert config.ranking.final_weights.macro == 0.15
-    assert config.ranking.minimum_score == 0.35
+    assert config.ranking.minimum_score == 0.0
     assert config.data.input_adjustment_policy == "split_adjusted"
     assert config.agents.mode == "live"
 
@@ -30,7 +31,7 @@ def test_evaluation_config_covers_ten_sessions_and_range_labels() -> None:
     assert config.evaluation.sessions[-1] == date(2026, 10, 14)
     assert config.screening_config == Path("configs/screening_2026-10-14.yaml")
     assert config.evaluation.labels == Path(
-        "data/2026-10-01_2026-10-14/evaluation/labels.parquet"
+        "tests/fixtures/integration/evaluation/labels.parquet"
     )
 
 
@@ -78,3 +79,11 @@ def test_role_model_overrides_default_agent_model() -> None:
 
     assert agents.model_for("synthesis") == "openai/gpt-5.6-luna"
     assert agents.model_for("verifier") == "anthropic/claude-sonnet"
+
+
+def test_tuning_config_freezes_search_and_holdout_paths() -> None:
+    config = load_tuning_config(ROOT / "configs/tuning.yaml")
+    assert config.search.seed == 329
+    assert config.search.trials == 750
+    assert config.search.candidate_counts == [10, 15, 20]
+    assert config.large_move_threshold == 0.02

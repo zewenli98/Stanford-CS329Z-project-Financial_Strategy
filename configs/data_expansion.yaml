@@ -1,0 +1,29 @@
+snapshot_id: 2023-11-01_2026-10-30
+output_path: data/2023-11-01_2026-10-30
+evaluation_start: "2023-11-01"
+evaluation_end: "2026-10-30"
+download_start: "2023-07-01"
+warmup_sessions: 60
+target_universe_size: 200
+candidate_universe_size: 500
+minimum_session_completeness: 0.98
+top_k: 10
+deep_research_candidates: 50
+development_fraction: 0.90
+universe_source:
+  name: github_sp500_constituents
+  url: https://raw.githubusercontent.com/datasets/s-and-p-500-companies/master/data/constituents.csv
+  membership_policy: current_constituents_research_only
+market_source:
+  name: yfinance
+  adjustment_policy: raw_unadjusted
+  chunk_size: 50
+company_source:
+  name: sec_edgar_full_documents
+  forms: [8-K, 10-K, 10-Q]
+  user_agent_env: SEC_USER_AGENT
+  max_requests_per_second: 8
+reproducibility:
+  seed: 329
+  allow_overwrite: true
+  provenance_mode: public_research_not_strict_pit

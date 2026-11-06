@@ -1,4 +1,4 @@
-screening_config: configs\adaptive_range_100_offline.yaml
+screening_config: configs/adaptive_range_100_offline.yaml
 evaluation:
   sessions:
   - '2023-11-01'

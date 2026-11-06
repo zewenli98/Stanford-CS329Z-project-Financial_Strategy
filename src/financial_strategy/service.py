@@ -22,6 +22,7 @@ from financial_strategy.features.engine import compute_features
 from financial_strategy.llm import make_client
 from financial_strategy.ranking.ranker import market_components
 from financial_strategy.ranking.screen import coarse_screen
+from financial_strategy.schemas import Verdict
 from financial_strategy.task.validator import validate_and_freeze_task
 from financial_strategy.workflow import build_screening_graph
 
@@ -84,6 +85,7 @@ def run_screening(
             snapshot.bars,
             expected_sessions,
             int(config.features["required_complete_sessions"]),
+            {item.symbol: item.sector for item in exposures},
         )
         volatility, anomaly = market_components(features, config.ranking)
         candidates, coarse_scores = coarse_screen(
@@ -101,6 +103,14 @@ def run_screening(
         writer.write_parquet("snapshot/market.parquet", snapshot.bars)
         writer.write_jsonl("snapshot/company_evidence.jsonl", list(snapshot.company_evidence))
         writer.write_jsonl("snapshot/macro_evidence.jsonl", list(snapshot.macro_evidence))
+        writer.write_json(
+            "snapshot/evidence_documents.json",
+            {
+                item.evidence_id: item.document_text
+                for item in (*snapshot.company_evidence, *snapshot.macro_evidence)
+                if item.document_text is not None
+            },
+        )
         writer.write_jsonl("snapshot/corporate_actions.jsonl", list(snapshot.corporate_actions))
         writer.write_json("snapshot/exposures.json", list(snapshot.exposures))
         writer.write_json("snapshot/calendar.json", list(snapshot.calendar_schedule))
@@ -168,6 +178,17 @@ def run_screening(
         writer.write_json("macro_context.json", result["macro_context"])
         writer.write_json("initial_research_cards.json", result["initial_cards"])
         writer.write_json("research_cards.json", result["cards"])
+        writer.write_json(
+            "published_research_cards.json",
+            [
+                card
+                for card in result["cards"]
+                if card.deterministic_verification is not None
+                and card.deterministic_verification.verdict == Verdict.PASS
+                and card.semantic_verification is not None
+                and card.semantic_verification.verdict == Verdict.PASS
+            ],
+        )
         writer.write_json("verification_reports.json", [
             {
                 "symbol": card.symbol,

@@ -24,6 +24,7 @@ CUTOFF = datetime(2026, 10, 14, 13, tzinfo=UTC)
 
 def evidence(symbol="AAPL", *, at=None, text=None, evidence_id="private_aapl_id"):
     text = text or "Apple Inc. reports revenue growth of 3.7% and unresolved regulatory review."
+    available = at or CUTOFF - timedelta(hours=1)
     return EvidenceRecord(
         evidence_id=evidence_id,
         scope="company",
@@ -33,10 +34,10 @@ def evidence(symbol="AAPL", *, at=None, text=None, evidence_id="private_aapl_id"
         source_url="https://apple.com/news/private_aapl_id",
         title="Apple Inc. update",
         excerpt=text,
-        published_at=at or CUTOFF - timedelta(hours=1),
-        first_seen_at=at or CUTOFF - timedelta(hours=1),
-        retrieved_at=CUTOFF,
-        available_at=at or CUTOFF - timedelta(hours=1),
+        published_at=available,
+        first_seen_at=available,
+        retrieved_at=max(CUTOFF, available),
+        available_at=available,
         content_hash=hashlib.sha256(text.encode()).hexdigest(),
         snapshot_id="private_snapshot",
         timestamp_confidence="high",
