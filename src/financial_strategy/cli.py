@@ -10,6 +10,11 @@ import typer
 from dotenv import load_dotenv
 
 from financial_strategy.audit.replay import replay_run
+from financial_strategy.evaluation.retrieval_accuracy import (
+    evaluate_retrieval_labels,
+    load_retrieval_labels,
+    load_retrieval_traces,
+)
 from financial_strategy.evaluation.runner import run_evaluation
 from financial_strategy.service import run_screening
 
@@ -50,6 +55,18 @@ def evaluate(
 
     output, report = run_evaluation(config)
     typer.echo(json.dumps({"report_path": str(output), "report": report}, indent=2))
+
+
+@app.command("evaluate-retrieval")
+def evaluate_retrieval(
+    labels: Annotated[Path, typer.Option(exists=True, readable=True)],
+    traces: Annotated[Path | None, typer.Option(exists=True, readable=True)] = None,
+) -> None:
+    """Score company, event, sufficiency, and action judgments. Rank stays separate."""
+
+    recorded = None if traces is None else load_retrieval_traces(traces)
+    report = evaluate_retrieval_labels(load_retrieval_labels(labels), recorded)
+    typer.echo(json.dumps(report, indent=2))
 
 
 @app.command("prepare-range-labels")

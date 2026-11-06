@@ -11,6 +11,14 @@ from financial_strategy.config import MVPConfig
 from financial_strategy.errors import StrategyError
 from financial_strategy.llm import InvocationResult, LLMClient
 from financial_strategy.retrieval.bm25 import search
+from financial_strategy.retrieval.corrective import (
+    CURRENT_RELEASE_NOT_IN_SNAPSHOT,
+    DEFAULT_QUESTION,
+    CompanyQuestion,
+    RetrievalJudgment,
+    run_corrective_retrieval,
+    scripted_retrieval_judgment,
+)
 from financial_strategy.schemas import (
     Claim,
     ClaimType,
@@ -48,6 +56,10 @@ def scripted_responder(role: str, payload: dict) -> dict:
     if role == "macro_evidence":
         return {"evidence_ids": [item["evidence_id"] for item in payload["evidence"]]}
     if role == "company_evidence":
+        if payload.get("op") == "propose_question":
+            return {"question": DEFAULT_QUESTION}
+        if payload.get("op") == "judge_retrieval":
+            return scripted_retrieval_judgment(payload)
         evidence = payload["evidence"]
         events = []
         claims = []
@@ -121,6 +133,9 @@ class AgentSuite:
     _total_tool_calls: int = 0
     _macro_tool_calls: int = 0
     _company_tool_calls: dict[str, int] = field(default_factory=dict)
+    _company_retrieval: dict[str, tuple[CompanyAgentOutput, list[dict]]] = field(
+        default_factory=dict
+    )
 
     def _reserve_tool_call(self, role: str, symbol: str | None = None) -> None:
         with self._budget_lock:
@@ -197,45 +212,104 @@ class AgentSuite:
         symbol: str,
         evidence: list,
         snapshot_id: str,
-    ) -> tuple[CompanyAgentOutput, InvocationResult, list[dict]]:
-        self._reserve_tool_call("company", symbol)
-        query = "earnings guidance merger regulation financing litigation management product"
-        hits = search(
-            evidence,
-            query,
-            self.config.retrieval,
-            scope="company",
-            symbol=symbol,
-        )
-        payload = {
+    ) -> tuple[CompanyAgentOutput, list[InvocationResult], list[dict]]:
+        cached = self._company_retrieval.get(symbol)
+        if cached is not None:
+            output, _traces = cached
+            return output.model_copy(deep=True), [], []
+        invocations: list[InvocationResult] = []
+        question_payload = {
+            "op": "propose_question",
             "symbol": symbol,
             "task_id": task.task_id,
-            "evidence": [hit.evidence.model_dump(mode="json") for hit in hits],
+            "decision_cutoff": task.decision_cutoff.isoformat(),
+            "instructions": (
+                "Ask one factual question about whether this company's current earnings "
+                "release lowered guidance. Do not answer it, and do not ask about a prior quarter."
+            ),
         }
-        invocation = self.client.generate("company_evidence", payload, CompanyAgentOutput)
-        output = CompanyAgentOutput.model_validate(invocation.response)
-        trace = [
-            {
-                "scope": "company",
+        question_call = self.client.generate(
+            "company_evidence",
+            question_payload,
+            CompanyQuestion,
+            attempt_type="company_question",
+        )
+        invocations.append(question_call)
+        question = CompanyQuestion.model_validate(question_call.response).question
+
+        def judge(active_question: str, query: str, hits: list, attempt: int) -> RetrievalJudgment:
+            payload = {
+                "op": "judge_retrieval",
                 "symbol": symbol,
-                "snapshot_id": snapshot_id,
+                "task_id": task.task_id,
+                "decision_cutoff": task.decision_cutoff.isoformat(),
+                "news_lookback_days": task.news_lookback_days,
+                "question": active_question,
                 "query": query,
-                "algorithm": self.config.retrieval.algorithm,
-                "tokenizer_version": self.config.retrieval.tokenizer_version,
-                "k1": self.config.retrieval.k1,
-                "b": self.config.retrieval.b,
-                "top_n": self.config.retrieval.top_n,
-                "candidate_count": sum(
-                    item.scope == "company" and item.symbol == symbol
-                    for item in evidence
+                "attempt": attempt,
+                "evidence": [item.model_dump(mode="json") for item in hits],
+                "instructions": (
+                    "Judge the retrieved passages against the question. company_match is true "
+                    "only when every passage is about this company. event_match is true only "
+                    "when a passage is about this event, not a prior quarter. sufficient is true "
+                    "only when those passages can answer the question. action is accept, rewrite, "
+                    "or record_gap. Rewrite at most once. If the current release is absent, gap "
+                    f"is {CURRENT_RELEASE_NOT_IN_SNAPSHOT}. On accept, list only the evidence_ids "
+                    "for the current event."
                 ),
-                "returned_evidence_ids": [
-                    hit.evidence.evidence_id for hit in hits
-                ],
-                "scores": [hit.score for hit in hits],
             }
-        ]
-        return output, invocation, trace
+            invocation = self.client.generate(
+                "company_evidence",
+                payload,
+                RetrievalJudgment,
+                attempt_type="retrieval_judgment",
+            )
+            invocations.append(invocation)
+            return RetrievalJudgment.model_validate(invocation.response)
+
+        result, accepted = run_corrective_retrieval(
+            evidence=list(evidence),
+            symbol=symbol,
+            snapshot_id=snapshot_id,
+            retrieval=self.config.retrieval,
+            question=question,
+            reserve_search=lambda: self._reserve_tool_call("company", symbol),
+            judge=judge,
+        )
+        if result.gap or not accepted:
+            output = CompanyAgentOutput(
+                events=[],
+                claims=[
+                    Claim(
+                        claim_id="claim_retrieval_gap",
+                        text=(
+                            f"{result.gap}: the current release is not supported by "
+                            "the retrieved evidence."
+                        ),
+                        claim_type=ClaimType.INFERENCE,
+                        evidence_ids=[],
+                    )
+                ],
+            )
+        else:
+            payload = {
+                "symbol": symbol,
+                "task_id": task.task_id,
+                "question": question,
+                "evidence": [item.model_dump(mode="json") for item in accepted],
+                "instructions": (
+                    "Use only the supplied evidence for this question. Do not describe a "
+                    "prior release as the current one."
+                ),
+            }
+            invocation = self.client.generate("company_evidence", payload, CompanyAgentOutput)
+            invocations.append(invocation)
+            output = _restrict_to_accepted(
+                CompanyAgentOutput.model_validate(invocation.response),
+                {item.evidence_id for item in accepted},
+            )
+        self._company_retrieval[symbol] = (output.model_copy(deep=True), result.traces)
+        return output, invocations, result.traces
 
     def synthesize(
         self,
@@ -289,6 +363,28 @@ class AgentSuite:
         }
         invocation = self.client.generate("verifier", payload, VerificationReport)
         return VerificationReport.model_validate(invocation.response), invocation
+
+
+def _restrict_to_accepted(
+    output: CompanyAgentOutput,
+    accepted_ids: set[str],
+) -> CompanyAgentOutput:
+    events = [
+        event
+        for event in output.events
+        if event.evidence_ids and set(event.evidence_ids) <= accepted_ids
+    ]
+    claims = [claim for claim in output.claims if set(claim.evidence_ids) <= accepted_ids]
+    if not claims:
+        claims = [
+            Claim(
+                claim_id="claim_no_accepted_statement",
+                text="No statement was retained from the accepted evidence.",
+                claim_type=ClaimType.INFERENCE,
+                evidence_ids=[],
+            )
+        ]
+    return output.model_copy(update={"events": events, "claims": claims})
 
 
 def empty_company_output() -> CompanyAgentOutput:

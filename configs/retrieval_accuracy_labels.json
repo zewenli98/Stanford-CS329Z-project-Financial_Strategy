@@ -1,0 +1,98 @@
+[
+  {
+    "case_id": "current_release",
+    "symbol": "AAPL",
+    "question": "Did the current earnings release lower guidance?",
+    "decision_cutoff": "2026-10-14T13:00:00+00:00",
+    "news_lookback_days": 7,
+    "attempt": 0,
+    "evidence": [
+      {
+        "evidence_id": "ev_current",
+        "scope": "company",
+        "symbol": "AAPL",
+        "title": "Third-quarter earnings",
+        "excerpt": "The company updated guidance.",
+        "event_type": "earnings",
+        "event_types": ["earnings"],
+        "published_at": "2026-10-10T12:00:00+00:00"
+      }
+    ],
+    "company_match": true,
+    "event_match": true,
+    "sufficient": true,
+    "action": "accept"
+  },
+  {
+    "case_id": "prior_quarter_rewrite",
+    "symbol": "AAPL",
+    "question": "Did the current earnings release lower guidance?",
+    "decision_cutoff": "2026-10-14T13:00:00+00:00",
+    "news_lookback_days": 7,
+    "attempt": 0,
+    "evidence": [
+      {
+        "evidence_id": "ev_prior",
+        "scope": "company",
+        "symbol": "AAPL",
+        "title": "Second-quarter earnings",
+        "excerpt": "Prior quarter results and guidance.",
+        "event_type": "earnings",
+        "event_types": ["earnings"],
+        "published_at": "2026-07-14T12:00:00+00:00"
+      }
+    ],
+    "company_match": true,
+    "event_match": false,
+    "sufficient": false,
+    "action": "rewrite"
+  },
+  {
+    "case_id": "prior_quarter_gap",
+    "symbol": "AAPL",
+    "question": "Did the current earnings release lower guidance?",
+    "decision_cutoff": "2026-10-14T13:00:00+00:00",
+    "news_lookback_days": 7,
+    "attempt": 1,
+    "evidence": [
+      {
+        "evidence_id": "ev_prior",
+        "scope": "company",
+        "symbol": "AAPL",
+        "title": "Second-quarter earnings",
+        "excerpt": "Prior quarter results and guidance.",
+        "event_type": "earnings",
+        "event_types": ["earnings"],
+        "published_at": "2026-07-14T12:00:00+00:00"
+      }
+    ],
+    "company_match": true,
+    "event_match": false,
+    "sufficient": false,
+    "action": "record_gap"
+  },
+  {
+    "case_id": "wrong_company",
+    "symbol": "AAPL",
+    "question": "Did the current earnings release lower guidance?",
+    "decision_cutoff": "2026-10-14T13:00:00+00:00",
+    "news_lookback_days": 7,
+    "attempt": 0,
+    "evidence": [
+      {
+        "evidence_id": "ev_other",
+        "scope": "company",
+        "symbol": "MSFT",
+        "title": "Third-quarter earnings",
+        "excerpt": "The company updated guidance.",
+        "event_type": "earnings",
+        "event_types": ["earnings"],
+        "published_at": "2026-10-10T12:00:00+00:00"
+      }
+    ],
+    "company_match": false,
+    "event_match": false,
+    "sufficient": false,
+    "action": "record_gap"
+  }
+]

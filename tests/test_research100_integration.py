@@ -2,6 +2,8 @@
 
 import json
 import math
+from collections import Counter
+from datetime import date
 from pathlib import Path
 
 import polars as pl
@@ -135,5 +137,21 @@ def test_native_sec_metadata_and_macro_confidence_are_preserved():
         MacroEvidenceRecord.model_validate(json.loads(s))
         for s in (SOURCE / "macro/events.jsonl").read_text().splitlines()
     ]
-    assert len(macro) == 171 and all(r.timestamp_confidence.value == "low" for r in macro)
+    counts = Counter(record.event_type for record in macro)
+    original = ("cpi_yoy", "nonfarm_payrolls", "unemployment", "fed_rate")
+    assert sum(counts[name] for name in original) == 171
+    assert counts["dgs2"] > 0 and counts["dgs10"] > 0 and counts["vixcls"] > 0
+    assert all(record.timestamp_confidence.value == "low" for record in macro)
+    first_dgs10 = next(
+        record
+        for record in macro
+        if record.event_type == "dgs10" and record.event_time.date() == date(2023, 7, 7)
+    )
+    next_dgs10 = next(
+        record
+        for record in macro
+        if record.event_type == "dgs10" and record.event_time.date() == date(2023, 7, 10)
+    )
+    assert first_dgs10.actual == 4.06 and first_dgs10.consensus is None
+    assert next_dgs10.actual == 4.01 and next_dgs10.consensus == 4.06
     assert (ROOT / "data/research100_v1/macro/events.jsonl").read_text() == ""

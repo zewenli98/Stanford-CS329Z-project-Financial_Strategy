@@ -8,12 +8,12 @@ task:
 calendar:
   name: XNYS
 data:
-  universe: data\research100_v1\universe\symbols.json
-  market_bars: data\research100_v1\market\daily_bars.parquet
-  corporate_actions: data\research100_v1\market\corporate_actions.jsonl
-  company_evidence: data\2023-11-01_2026-10-30\company\evidence.jsonl
-  macro_events: data\research100_v1\macro\events.jsonl
-  macro_documents: data\2023-11-01_2026-10-30\macro\documents
+  universe: data/research100_v1/universe/symbols.json
+  market_bars: data/research100_v1/market/daily_bars.parquet
+  corporate_actions: data/research100_v1/market/corporate_actions.jsonl
+  company_evidence: data/2023-11-01_2026-10-30/company/evidence.jsonl
+  macro_events: data/research100_v1/macro/events.jsonl
+  macro_documents: data/2023-11-01_2026-10-30/macro/documents
   sector_exposures: configs/sector_exposures.json
   input_adjustment_policy: split_adjusted
   snapshot_adjustment_policy: split_adjusted
@@ -96,6 +96,9 @@ ranking:
       unemployment: 0.1
       nonfarm_payrolls: 50.0
       fed_rate: 25.0
+      dgs2: 0.1
+      dgs10: 0.1
+      vixcls: 2.0
       gdp: 0.5
     scheduled_strength:
       scheduled_before_open: 0.5

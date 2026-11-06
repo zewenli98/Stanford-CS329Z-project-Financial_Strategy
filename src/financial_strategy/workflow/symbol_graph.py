@@ -19,7 +19,7 @@ from financial_strategy.workflow.state import SymbolResearchState
 
 def build_symbol_graph(agents: AgentSuite):
     def company_node(state: SymbolResearchState) -> dict:
-        output, invocation, traces = agents.company(
+        output, invocations, traces = agents.company(
             state["task"],
             state["symbol"],
             list(state["snapshot"].company_evidence),
@@ -27,7 +27,7 @@ def build_symbol_graph(agents: AgentSuite):
         )
         return {
             "company_output": output,
-            "attempts": [*state.get("attempts", []), invocation],
+            "attempts": [*state.get("attempts", []), *invocations],
             "retrieval_traces": [*state.get("retrieval_traces", []), *traces],
         }
 

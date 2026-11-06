@@ -94,6 +94,9 @@ ranking:
       unemployment: 0.10
       nonfarm_payrolls: 50.0
       fed_rate: 25.0
+      dgs2: 0.10
+      dgs10: 0.10
+      vixcls: 2.0
       gdp: 0.50
     scheduled_strength:
       scheduled_before_open: 0.50
