@@ -32,7 +32,7 @@ class ResearchQuestion(StrictModel):
     resolution_probability: Probability
     discovery: bool = False
     allowed_tools: list[ToolName] = Field(default_factory=list)
-    reserved_cost_usd: float = Field(gt=0, allow_inf_nan=False)
+    reserved_cost_usd: float = Field(ge=0, allow_inf_nan=False)
 
     @model_validator(mode="after")
     def validate_scenarios(self) -> ResearchQuestion:
@@ -145,6 +145,21 @@ class ForecastOutput(StrictModel):
         symbols = [item.symbol for item in self.forecasts]
         if len(symbols) != len(set(symbols)):
             raise ValueError("forecast symbols must be unique")
+        return self
+
+
+class SingleAgentOutput(StrictModel):
+    """One-shot research and forecast decision used by the single-agent control."""
+
+    cards: list[InfoCard] = Field(default_factory=list, max_length=1)
+    forecasts: list[RangeForecast] = Field(default_factory=list, max_length=1)
+
+    @model_validator(mode="after")
+    def consistent_decision(self) -> SingleAgentOutput:
+        if len({item.card_id for item in self.cards}) != len(self.cards):
+            raise ValueError("single-agent card IDs must be unique")
+        if len({item.symbol for item in self.forecasts}) != len(self.forecasts):
+            raise ValueError("single-agent forecast symbols must be unique")
         return self
 
 

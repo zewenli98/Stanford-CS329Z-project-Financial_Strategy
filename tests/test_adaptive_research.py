@@ -270,6 +270,36 @@ def test_forecast_rejects_change_without_cited_card():
     assert suite.forecast_issues[0]["code"] == "UNSUPPORTED_FORECAST_UPDATE"
 
 
+def test_forecast_with_cited_card_is_clamped_to_relative_bound():
+    view = view_for()
+
+    def responder(role, payload):
+        raw = deterministic_responder(role, payload)
+        if payload["op"] == "adaptive_forecast":
+            raw["forecasts"][0]["predicted_range"] = 0.5
+        return raw
+
+    suite = ResearchAgentSuite(
+        LocalClient(responder), view, limits={"max_forecast_relative_change": 0.2}
+    )
+    forecasts = forecasts_for(view)
+    card = card_for(view)
+    card.status = "accepted"
+    updated = suite.update_forecasts(forecasts, [card])
+    assert updated[0].predicted_range == pytest.approx(0.03)
+    assert suite.forecast_adjustments == [
+        {
+            "symbol": updated[0].symbol,
+            "baseline_range": 0.025,
+            "proposed_range": 0.5,
+            "bounded_range": pytest.approx(0.03),
+            "relative_change": pytest.approx(0.2),
+            "was_clamped": True,
+            "supporting_card_ids": [card.card_id],
+        }
+    ]
+
+
 def test_memory_expiry_append_only_and_no_future_same_day_visibility(tmp_path):
     view = view_for()
     card = card_for(view)

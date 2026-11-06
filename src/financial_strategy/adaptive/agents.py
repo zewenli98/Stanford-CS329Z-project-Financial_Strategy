@@ -19,6 +19,7 @@ from financial_strategy.adaptive.models import (
     PlannerOutput,
     RangeForecast,
     ResearchQuestion,
+    SingleAgentOutput,
     WorkerAction,
 )
 from financial_strategy.adaptive.tools import OpaqueToolView, ResearchToolError, _plain
@@ -30,6 +31,7 @@ class ResearchResult:
     question_id: str
     accepted_cards: list[InfoCard] = field(default_factory=list)
     rejected_cards: list[InfoCard] = field(default_factory=list)
+    forecasts: list[RangeForecast] = field(default_factory=list)
     tool_traces: list[dict] = field(default_factory=list)
     attempts: list[Any] = field(default_factory=list)
     stop_reason: str = "worker_limit"
@@ -139,6 +141,7 @@ class ResearchAgentSuite:
         self.plan_attempts: list[Any] = []
         self.forecast_attempts: list[Any] = []
         self.forecast_issues: list[dict] = []
+        self.forecast_adjustments: list[dict] = []
 
     def _limit(self, key: str, default: int) -> int:
         if isinstance(self.limits, dict):
@@ -493,6 +496,141 @@ class ResearchAgentSuite:
         result.stop_reason = "repair_limit" if repair_issues else "worker_limit"
         return result
 
+    def single_agent(
+        self,
+        question: ResearchQuestion,
+        forecasts: list[RangeForecast] | dict[str, RangeForecast],
+        *,
+        packet: list[dict],
+    ) -> ResearchResult:
+        """Run the fair one-shot LLM control without independent semantic verification."""
+        result = ResearchResult(question_id=question.question_id)
+        values = list(forecasts.values()) if isinstance(forecasts, dict) else forecasts
+        relevant = [item for item in values if item.symbol in question.symbols]
+        read_spans = [
+            item["result"]["span"]
+            for item in packet
+            if isinstance(item.get("result"), dict) and "span" in item["result"]
+        ]
+        payload = {
+            "op": "adaptive_single_agent",
+            "symbol": question.symbols[0],
+            "instructions": (
+                "Act as a single financial-research agent. Using only the supplied point-in-time "
+                "source packets, decide whether there is one material catalyst for the coming "
+                "regular session. If supported, return one evidence card with an exact supplied "
+                "source span and one updated range forecast for the same company. Otherwise return "
+                "empty cards and forecasts. Preserve baseline_range, cite the returned card in "
+                "supporting_card_ids, and keep predicted_range within the configured relative "
+                "bound. Separate source facts from uncertain range-impact inferences. Do not "
+                "invent facts, "
+                "IDs, sources, future outcomes, or external lookups. Negative news may increase "
+                "absolute range; forecast volatility rather than price direction."
+            ),
+            "question": question.model_dump(mode="json"),
+            "decision_cutoff": self.view.cutoff.isoformat(),
+            "target_session": self.view.task.target_session.isoformat(),
+            "forecasts": [_plain(item) for item in relevant],
+            "source_packets": packet,
+            "max_forecast_relative_change": self._relative_change_limit(),
+        }
+        try:
+            output = self._generate(
+                "synthesis", payload, SingleAgentOutput, result.attempts
+            )
+        except Exception:
+            result.stop_reason = "invalid_single_agent_output"
+            return result
+        if not output.cards:
+            result.stop_reason = "abstained"
+            return result
+        card = output.cards[0].model_copy(deep=True)
+        card.status = "pending"
+        issues = verify_card_deterministic(card, question, self.view, read_spans)
+        if issues:
+            card.status = "rejected"
+            card.verification_issues = issues
+            result.rejected_cards.append(card)
+            result.stop_reason = "deterministic_rejected"
+            return result
+        if len(output.forecasts) != 1:
+            card.status = "rejected"
+            card.verification_issues = ["MISSING_FORECAST"]
+            result.rejected_cards.append(card)
+            result.stop_reason = "invalid_single_agent_forecast"
+            return result
+        forecast = output.forecasts[0]
+        old = next((item for item in relevant if item.symbol == forecast.symbol), None)
+        if (
+            old is None
+            or forecast.baseline_range != old.baseline_range
+            or card.card_id not in forecast.supporting_card_ids
+            or set(forecast.supporting_card_ids) - ({card.card_id} | set(old.supporting_card_ids))
+        ):
+            card.status = "rejected"
+            card.verification_issues = ["INVALID_FORECAST_LINK"]
+            result.rejected_cards.append(card)
+            result.stop_reason = "invalid_single_agent_forecast"
+            return result
+        card.status = "accepted"
+        card.verification_issues = []
+        result.accepted_cards.append(card)
+        result.forecasts.append(forecast)
+        result.stop_reason = "accepted"
+        return result
+
+    def apply_single_agent_forecasts(
+        self,
+        forecasts: list[RangeForecast] | dict[str, RangeForecast],
+        proposed: list[RangeForecast],
+        cards: list[InfoCard],
+    ) -> list[RangeForecast]:
+        current = list(forecasts.values()) if isinstance(forecasts, dict) else list(forecasts)
+        by_symbol = {item.symbol: item for item in current}
+        accepted = {card.card_id: card for card in cards if card.status == "accepted"}
+        for forecast in proposed:
+            old = by_symbol.get(forecast.symbol)
+            cited = set(forecast.supporting_card_ids)
+            new_ids = cited - (set(old.supporting_card_ids) if old else set())
+            if (
+                old is None
+                or forecast.baseline_range != old.baseline_range
+                or not new_ids
+                or new_ids - set(accepted)
+                or any(forecast.symbol not in accepted[card_id].symbols for card_id in new_ids)
+            ):
+                self.forecast_issues.append(
+                    {"symbol": forecast.symbol, "code": "INVALID_SINGLE_AGENT_FORECAST"}
+                )
+                continue
+            forecast = forecast.model_copy(deep=True)
+            proposed_range = forecast.predicted_range
+            limit = self._relative_change_limit()
+            lower = old.baseline_range * (1 - limit)
+            upper = old.baseline_range * (1 + limit)
+            forecast.predicted_range = min(upper, max(lower, proposed_range))
+            forecast.supporting_card_ids = sorted(set(old.supporting_card_ids) | cited)
+            forecast.revision = old.revision + 1
+            forecast.fallback = False
+            self.forecast_adjustments.append(
+                {
+                    "symbol": forecast.symbol,
+                    "baseline_range": old.baseline_range,
+                    "proposed_range": proposed_range,
+                    "bounded_range": forecast.predicted_range,
+                    "relative_change": (
+                        forecast.predicted_range / old.baseline_range - 1
+                        if old.baseline_range > 0
+                        else 0.0
+                    ),
+                    "was_clamped": proposed_range != forecast.predicted_range,
+                    "supporting_card_ids": forecast.supporting_card_ids,
+                    "source": "single_agent",
+                }
+            )
+            by_symbol[forecast.symbol] = forecast
+        return [by_symbol[item.symbol] for item in current]
+
     def update_forecasts(
         self,
         forecasts: list[RangeForecast] | dict[str, RangeForecast],
@@ -532,10 +670,14 @@ class ResearchAgentSuite:
                 "companies. Preserve baseline_range. Cite every new card that justifies an "
                 "update in supporting_card_ids; distinguish uncertain causal interpretation from "
                 "observed facts. Leave a forecast unchanged when evidence adds no material signal. "
+                "Any update must remain within the configured relative bound around "
+                "baseline_range. Negative news can increase absolute range; assess volatility, "
+                "not price direction. "
                 "No price target, probability calibration, or trade instruction is requested."
             ),
             "forecasts": [_plain(by_symbol[symbol]) for symbol in affected],
             "accepted_cards": [_plain(card) for card in new_cards],
+            "max_forecast_relative_change": self._relative_change_limit(),
         }
         output = self._generate("synthesis", payload, ForecastOutput, self.forecast_attempts)
         for forecast in output.forecasts:
@@ -560,11 +702,36 @@ class ResearchAgentSuite:
                 )
                 continue
             forecast = forecast.model_copy(deep=True)
+            proposed = forecast.predicted_range
+            limit = self._relative_change_limit()
+            lower = old.baseline_range * (1 - limit)
+            upper = old.baseline_range * (1 + limit)
+            forecast.predicted_range = min(upper, max(lower, proposed))
+            self.forecast_adjustments.append(
+                {
+                    "symbol": forecast.symbol,
+                    "baseline_range": old.baseline_range,
+                    "proposed_range": proposed,
+                    "bounded_range": forecast.predicted_range,
+                    "relative_change": (
+                        forecast.predicted_range / old.baseline_range - 1
+                        if old.baseline_range > 0
+                        else 0.0
+                    ),
+                    "was_clamped": proposed != forecast.predicted_range,
+                    "supporting_card_ids": sorted(prior_ids | cited),
+                }
+            )
             forecast.supporting_card_ids = sorted(prior_ids | cited)
             forecast.revision = old.revision + 1
             forecast.fallback = old.fallback if not new_ids else False
             by_symbol[forecast.symbol] = forecast
         return [by_symbol[item.symbol] for item in current]
+
+    def _relative_change_limit(self) -> float:
+        if isinstance(self.limits, dict):
+            return float(self.limits.get("max_forecast_relative_change", 0.2))
+        return float(getattr(self.limits, "max_forecast_relative_change", 0.2))
 
 
 def deterministic_responder(role: str, payload: dict) -> dict:

@@ -45,6 +45,7 @@ def evaluate_expanded_agents(
 ) -> tuple[Path, dict]:
     expansion = yaml.safe_load(config_path.read_text())
     dataset = ROOT / expansion["output_path"]
+    evidence_dataset = ROOT / expansion.get("evidence_path", expansion["output_path"])
     output_dir = (output_dir or ROOT / "runs/expanded_agent").resolve()
     output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -71,9 +72,9 @@ def evaluate_expanded_agents(
         dtype=float,
     )
     market_weights /= market_weights.sum()
-    evidence = _load_evidence(dataset / "company/evidence.jsonl")
+    evidence = _load_evidence(evidence_dataset / "company/evidence.jsonl")
     macro_available = bool(
-        (dataset / "macro/events.jsonl").read_text().strip()
+        (evidence_dataset / "macro/events.jsonl").read_text().strip()
     )
 
     artifacts, event_scores, market_scores = build_candidate_artifacts(

@@ -165,7 +165,8 @@ def main():
     }
     assert all(sha(SOURCE / name) == value for name, value in source_hashes.items())
     (DEST / "preparation.json").write_text(json.dumps(report, indent=2), encoding="utf-8")
-    config = yaml.safe_load(Path("configs/adaptive_range_live_five_day.yaml").read_text())
+    # Start from the maintained, repository-contained prototype configuration.
+    config = yaml.safe_load(Path("configs/adaptive_range_v1.yaml").read_text())
     config["task"].update(
         universe_snapshot_id=snapshot_id,
         target_session=LIVE_DAYS[0],

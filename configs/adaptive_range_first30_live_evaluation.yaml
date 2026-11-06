@@ -43,6 +43,6 @@ evaluation:
     - 5
     - 10
   replicates: 1
-  session_parallelism: 4
+  session_parallelism: 8
   aggregate_budget_usd: 24.0
   large_move_threshold: 0.04

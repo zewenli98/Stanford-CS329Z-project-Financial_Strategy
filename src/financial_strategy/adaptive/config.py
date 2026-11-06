@@ -11,7 +11,14 @@ from financial_strategy.config import MVPConfig, _load_yaml
 from financial_strategy.errors import ConfigError
 
 Policy = Literal[
-    "scenario", "uniform", "random", "boundary", "lexicographic", "baseline", "history_only"
+    "scenario",
+    "uniform",
+    "random",
+    "boundary",
+    "lexicographic",
+    "single_agent",
+    "baseline",
+    "history_only",
 ]
 
 
@@ -40,9 +47,12 @@ class AdaptiveSettings(BaseModel):
     compact_research_prompts: bool = False
     research_protocol: Literal["legacy", "guided", "packet"] = "legacy"
     candidate_method: Literal["volatility", "hybrid", "event_uncertainty"] = "volatility"
-    baseline_method: Literal["mean20", "mean5", "mean10", "median20", "ewma10"] = "mean20"
+    baseline_method: Literal[
+        "mean20", "mean5", "mean10", "median20", "ewma10", "market_score"
+    ] = "mean20"
     evidence_previous_day_only: bool = False
     forecast_blend: float = Field(default=1.0, ge=0, le=1)
+    max_forecast_relative_change: float = Field(default=0.2, ge=0, le=1)
     prices: dict[str, ModelPrice] = Field(default_factory=dict)
     pricing_as_of: str | None = None
     # Offline simulations use explicit reference prices, never claims about actual provider rates.

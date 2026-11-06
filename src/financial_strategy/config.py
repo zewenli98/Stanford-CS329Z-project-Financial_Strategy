@@ -224,7 +224,7 @@ class RoleConfig(ConfigModel):
 
 class AgentsConfig(ConfigModel):
     mode: Literal["scripted", "recorded", "live"]
-    provider: Literal["openai", "openrouter"] = "openai"
+    provider: Literal["openai", "openrouter", "tinker"] = "openai"
     model: str
     recordings_path: Path
     cache_path: Path

@@ -45,7 +45,6 @@ only-include = [
     "configs",
     "scripts",
     "docs/adaptive-range-v1.md",
-    "docs/architecture-experiments.md",
     "README.md",
     "pyproject.toml",
     "uv.lock",

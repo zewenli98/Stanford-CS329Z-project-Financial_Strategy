@@ -7,6 +7,7 @@ from collections import defaultdict
 from datetime import datetime
 
 from financial_strategy.adaptive.models import ResearchQuestion
+from financial_strategy.ranking.ranker import market_components
 
 EVENT_WEIGHTS = {
     "earnings": 1.0,
@@ -32,7 +33,17 @@ def event_priority(records, cutoff: datetime):
     return dict(scores)
 
 
-def history_baselines(features, bars, method):
+def history_baselines(features, bars, method, ranking=None):
+    if method == "market_score":
+        if ranking is None or ranking.market_feature_weights is None:
+            raise ValueError("market_score baseline requires frozen market_feature_weights")
+        contexts = {symbol: item.historical_context for symbol, item in features.items()}
+        scores, _ = market_components(contexts, ranking)
+        # Preserve range units while making the ordering exactly equal to M: assign
+        # the sorted mean-range values according to the frozen market-score rank.
+        ranked_symbols = sorted(scores, key=lambda symbol: (scores[symbol], symbol))
+        ranked_ranges = sorted(float(item.mean_range_20d) for item in features.values())
+        return dict(zip(ranked_symbols, ranked_ranges, strict=True))
     if method == "mean20":
         return {s: f.mean_range_20d for s, f in features.items()}
     if method == "median20":

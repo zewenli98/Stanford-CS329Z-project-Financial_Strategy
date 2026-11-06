@@ -1,150 +1,154 @@
-# Financial Strategy
+# Point-in-Time Multi-Agent Volatility Forecasting
 
-Point-in-time research workflows for ranking US common stocks. Both the ranking workflow
-and the opt-in `adaptive_range_v1` workflow forecast the regular-session range,
-`(high - low) / low`. Ranking outputs an order; adaptive range also outputs the range
-itself. They share frozen inputs, structured research, verification, and replayable audit
-output. That range is the only rank label. Open-to-close magnitude remains a market
-feature named `median_abs_oc_return_*`.
+This repository contains the prototype for a multi-agent research system that forecasts
+which U.S. stocks will experience the largest intraday price ranges in the forthcoming
+regular trading session. At 9:00 a.m. New York time, the system ranks an eligible stock
+universe using only information available before that cutoff and publishes a top-10
+watchlist.
 
-## Quick start
+The research question is whether verified multi-agent research adds forecasting value over
+a frozen quantitative market control. The market model is therefore a no-agent baseline,
+not the main contribution.
+
+## System design
+
+The prototype separates the research process into explicit roles:
+
+1. **Market control (M)** builds the initial ranking from historical price, volatility, and
+   volume features.
+2. **Orchestrator** proposes dated research questions for candidate stocks.
+3. **Allocator** prioritizes questions that may affect the top-10 decision.
+4. **Research workers** search the frozen company and macro evidence corpus.
+5. **Independent verifier** checks entity identity, publication time, exact quotations, and
+   whether the evidence supports the claimed volatility mechanism.
+6. **Forecast revision** may update a stock only when it cites accepted evidence. Live
+   revisions are code-bounded to 20% above or below M's forecast.
+7. **Fail-closed execution** retains M whenever planning, retrieval, validation, or revision
+   fails.
+
+The target is the regular-session range `(high - low) / low`. It measures realized
+intraday volatility, not price direction, return, or trading profit.
+
+## Prediction designs
+
+- **Prediction A — learned correction:** verified research is encoded as structured event
+  features and used to train a residual correction to M. The correction is enabled only if
+  it passes chronological validation.
+- **Prediction B — daily direct revision:** the multi-agent system researches current
+  premarket events and directly adjusts M's next-session range forecasts after independent
+  verification.
+
+Both designs are evaluated by paired comparison with the same frozen M control.
+
+## Run the bundled prototype
+
+Requirements:
+
+- Python 3.12+
+- [`uv`](https://docs.astral.sh/uv/)
+
+Install the project and run the test suite:
 
 ```bash
+git clone https://github.com/zewenli98/Stanford-CS329Z-project-Financial_Strategy.git
+cd Stanford-CS329Z-project-Financial_Strategy
 uv sync --extra dev
 uv run pytest
 ```
 
-## Adaptive daily-range experiment
-
-The adaptive example runs in **scripted mode by default**. It exercises an orchestrator,
-general research workers, local tools, card verification, allocation, and dollar accounting
-without calling a model provider. Its scripted forecaster deliberately preserves the
-historical-range baseline; it is an integration fixture, not a financial forecasting model.
+Run the bundled point-in-time multi-agent prototype. This configuration uses the checked-in
+integration fixture and recorded model responses, so it requires no API key:
 
 ```bash
 uv run financial-strategy screen --config configs/adaptive_range_v1.yaml
+```
+
+The command prints a run ID and publishes an immutable run under `runs/`. Inspect:
+
+- `watchlist.json` for the top-10 selection;
+- `range_predictions.json` for baseline and revised range forecasts;
+- `research_questions.jsonl` and `research_cards.json` for agent research;
+- `rejected_cards.json` for failed verification;
+- `tool_traces.jsonl` and `model_calls.jsonl` for the audit trail;
+- `manifest.json` and `manifest.json.sha256` for artifact integrity.
+
+Replay the published run without making a live provider call:
+
+```bash
 uv run financial-strategy replay RUN_ID
-uv run financial-strategy prepare-range-labels --config configs/adaptive_range_evaluation.yaml
-uv run financial-strategy evaluate --config configs/adaptive_range_evaluation.yaml
 ```
 
-Replace `RUN_ID` with the screening command's published run ID. On Windows, an already
-synchronized environment can run `.venv\Scripts\financial-strategy.exe` in place of
-`uv run financial-strategy`.
+Replace `RUN_ID` with the identifier printed by the screening command.
 
-The screening output contains expected ranges for the supplied eligible stocks and a
-configurable top-`k` watchlist. For example, `predicted_range: 0.03` means an expected 3%
-regular-session range, not a 3% directional return or a 3% probability.
+## Run the 100-stock research experiment
 
-Default research limits are two concurrent workers, eight batches, and a $2 normalized
-uncached model-spend cap per run. Live inference requires manually supplied, dated prices
-for every exact model ID; the example's offline reference prices are not provider quotes.
-The existing snapshot supplies high/low labels for nine of the ten configured October
-sessions. October 14 remains screening-only until genuine target-day high/low are supplied.
-Missing labels are reported rather than replaced with the legacy open/close labels.
+The full historical study uses local datasets that are intentionally excluded from GitHub.
+The expected local paths are:
 
-See [the adaptive workflow guide](docs/adaptive-range-v1.md) for the allocation derivation,
-configuration, budgets, masking limits, memory, replay, and comparison methodology.
+```text
+data/2023-11-01_2026-10-30/
+data/research100_v1/
+```
 
-For the five-session live-model pilot, use
-`configs/adaptive_range_live_five_day_evaluation.yaml` with
-`scripts/run_live_range_study.py`. The evaluation retains a top-10 watchlist and separately
-scores its top-3 and top-5 prefixes against the full eligible universe. It writes per-day
-costs, metrics, watchlists, and immutable model/tool audits. This historical pilot uses paid
-inference and an aggregate cap; see the workflow guide before starting a new run.
-
-## Real-data snapshot
-
-The report builders produce local offline briefs, daily cost records, and top-3/5/10
-metrics. Generated results, datasets, source extracts, caches, and credentials are
-excluded from this code package. These historical studies are descriptive results,
-not evidence of statistical superiority.
-
-The 2026-10-01 through 2026-10-14 snapshot freezes real inputs for 20 stocks from Yahoo
-Finance, SEC EDGAR, verified company news pages, BLS, and pre-release Dow Jones consensus
-reports from CNBC. The model only receives evidence that passed the point-in-time gateway.
-
-Both the fixed ranking workflow and `adaptive_range_v1` read this same snapshot. The
-workflow differs only in the configuration: ranking configs omit `workflow`, while range
-configs set `workflow: adaptive_range_v1`.
+Given the parent archive, create the fixed 100-stock subset:
 
 ```bash
-uv run python scripts/fetch_real_data.py
-uv run financial-strategy screen --config configs/screening_2026-10-14.yaml
-uv run financial-strategy screen --config configs/adaptive_range_v1.yaml
-uv run financial-strategy evaluate --config configs/evaluation_2026-10-01_2026-10-14.yaml
+uv run python scripts/prepare_research100.py --compact
 ```
 
-The original real-data screening example uses live OpenRouter structured output.
-Configure the shared model with `agents.model`
-(the real-data example uses `openai/gpt-5.6-luna`) and put the credential in an untracked
-`.env` file:
+For live Prediction B, create an untracked `.env` file:
 
 ```dotenv
 OPENROUTER_API_KEY=your-key
 ```
 
-Each role inherits `agents.model` by default. Set `agents.roles.<role>.model` to give a
-specific role a different model.
-
-Live runs remain bounded by per-symbol and task-level model/tool call limits. The screening
-configuration uses `top_k=10`; the ten-session evaluation is an integration example, not
-evidence of strategy performance.
-
-`tests/fixtures/integration/provenance.json` records source parameters, retrieval times, known
-availability assumptions, package versions, and hashes. Yahoo history is explicitly treated
-as split-adjusted and is never adjusted a second time by the gateway. Yahoo is an unofficial
-source and can revise historical data, while GDELT is used only for discovery.
-
-## Commands
-
-- `screen`: create a new immutable screening run.
-- `replay`: verify and deterministically rebuild an existing successful run.
-- `evaluate`: create new historical screening tasks, freeze predictions, then load labels.
-- `prepare-range-labels`: derive adaptive range labels and report coverage from frozen high/low.
-- `evaluate-retrieval`: score company, event, and sufficiency judgments separately from rank.
-- `prepare-tuning`: create one immutable Agent artifact run per train/validation session.
-- `tune`: search deterministic ranking parameters on train, freeze the winner, and consume
-  the chronological validation holdout once.
-
-## Train/validation tuning
-
-The study universe is the 100-stock subset `data/research100_v1`. It keeps the parent
-archive's company filings and the expanded macro file. A session is one regular New York
-trading day. The 752 sessions are split into 676 training days and a final 76-day test.
-Training ranks `(high - low) / low` and does not score those 76 days:
+Then run the matched 30-session comparison between M and M plus the full multi-agent direct
+revision workflow:
 
 ```bash
-uv run python -m scripts.train_expanded
+uv run python scripts/run_live_range_study.py \
+  configs/adaptive_range_first30_live_evaluation.yaml \
+  --receipt runs/prediction_b_first30/receipt.json
 ```
 
-After that report is frozen, score the 76 days once without refitting:
+The runner refuses to overwrite an existing receipt to prevent accidental paid reruns.
+Provider, model, concurrency, point-in-time inputs, frozen M weights, and the 20% revision
+bound are defined in `configs/adaptive_range_100_compact_live.yaml`.
 
-```bash
-uv run python -m scripts.train_expanded --holdout
+## Evaluation
+
+The primary ranking metric is NDCG@10. The report also includes:
+
+- mean realized range among the selected top 10;
+- precision@10 for stocks whose realized range exceeds 4%;
+- mean absolute forecast error;
+- top-k overlap and regret;
+- accepted and rejected evidence cards;
+- changed forecasts and final forecast revisions;
+- per-session paired differences between the multi-agent arm and M.
+
+Labels are opened only after prediction artifacts are published and hash-verified. Missing
+high/low labels are reported rather than replaced with another target.
+
+## Repository layout
+
+```text
+src/financial_strategy/   Core gateway, ranking, agent, verification, and evaluation code
+configs/                  Maintained prototype and research configurations
+scripts/                  Data preparation, training, live evaluation, and audit entry points
+tests/                    Unit tests plus a self-contained integration fixture
+docs/                     Detailed adaptive workflow documentation
+reports/                  ICLR-style project report and bibliography
 ```
 
-Do not run `financial-strategy tune` before that holdout command. `tune` also reads the
-same 76 sessions and records them as consumed.
+## Reproducibility and safety
 
-Historical macro rows from current-view calendar endpoints use their verified observation time,
-while explicitly labeling historical availability as an assumption. The expanded fixture covers
-2023-07-01 through 2026-10-30 and contains 144 released observations plus 27 scheduled FOMC
-records. Research replay assumes actual is available at `event_time` and consensus one second
-earlier; `macro/audit.json` records that these timestamps are assumptions, not archived-source
-proof. Four rows absent from Nasdaq were filled from the TradingView economic calendar API and
-are counted separately in the audit. The earlier v2 Agent artifacts and `train_validation_v1.json` report
-remain invalidated audit history; new tuning uses the v3 artifact index in `configs/tuning.yaml`.
+- `.env`, `.env.*`, `data/`, `runs/`, and `cache/` are ignored and must remain local.
+- The gateway admits only market bars and evidence available before the daily cutoff.
+- The evaluator opens target-session highs and lows only after prediction publication.
+- Every accepted claim is tied to a source span and verification decision.
+- Failed agent operations fall back to the quantitative control.
+- The software is a research prototype. It does not place trades or estimate portfolio
+  profitability.
 
-The project is research software. It does not place trades and its heuristic rank score is
-not a probability.
-
-## Current study
-
-Ranking and adaptive range both forecast `(high - low) / low` for the same 100 stocks.
-The parent archive `data/2023-11-01_2026-10-30` supplies company filings and the expanded
-macro records, including CPI, payrolls, unemployment, FOMC, DGS2, DGS10, and VIX. Residual
-scoring stays disabled, so the published ranking order is the market score. LLM research
-is kept for audit and process scores. `final_weights.company_event` and
-`final_weights.macro` stay at zero. Earlier open-to-close, close-to-close, and 200-stock
-candidate configs have been removed. Keep `.env`, `data/`, `runs/`, and `cache/` local.
+For implementation details, see [the adaptive workflow guide](docs/adaptive-range-v1.md).

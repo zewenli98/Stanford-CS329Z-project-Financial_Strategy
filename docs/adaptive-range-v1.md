@@ -283,38 +283,22 @@ all labeled forecasts, so it is the same at every cutoff. Reports include
 `daily_costs.csv`, `daily_metrics.csv`, and `daily_watchlists.csv`. Outcomes appear in
 evaluation artifacts only after the prediction run has been published.
 
-### Five-day live-model pilot
+### Live matched evaluation
 
-The bounded pilot configuration uses October 7, 8, 9, 12, and 13, 2026, all with complete
-high/low labels for the 20-stock universe. It compares live `scenario` research with
-the no-inference `baseline`, using one chronological replicate and top-3/5/10 reports.
-It uses frozen historical evidence, not a prospective five-day market deployment.
+The maintained live study compares the frozen market control M with Prediction B, which
+adds the complete multi-agent research and bounded revision workflow. It uses the same
+sessions, initial ordering, and labels in both arms.
 
-```powershell
-.venv\Scripts\python.exe scripts\run_live_range_study.py configs\adaptive_range_live_five_day_evaluation.yaml --receipt runs\NEW_RECEIPT.json
+```bash
+uv run python scripts/run_live_range_study.py \
+  configs/adaptive_range_first30_live_evaluation.yaml \
+  --receipt runs/prediction_b_first30/receipt.json
 ```
 
 This command makes paid model calls. The runner refuses to overwrite an existing receipt
-or progress log, writes per-day progress, and preserves all run audits. The evaluation
-configuration must reserve the full grid under its aggregate cap. For the original pilot,
-five sandbox connection failures were conservatively charged at $0.056768 per date.
-The retry configuration therefore caps each successful attempt at $1.943232, with an
-aggregate retry reservation of $9.71616, so original failures plus retries remain below
-the authorized $2 per day and $10 total. Prices are frozen in the screening configuration;
-verify model availability and refresh prices before a subsequent study.
-
-The saved `actual_usd` field is a cost-accounting estimate: reported tokens priced at
-the frozen rates, plus full bounds for failed or usage-missing calls. It is not a
-reconciled provider invoice. The results-brief builder separates token-priced amounts
-from uncertain-charge bounds and includes prior failed attempts:
-
-```powershell
-.venv\Scripts\python.exe scripts\build_live_range_report.py runs\live_five_day_20261104_retry_receipt.json --prior-receipt runs\live_five_day_20261104_receipt.json
-```
-
-The builder checks run manifests and daily/aggregate spending caps before writing the
-offline HTML brief and consolidated cost, metrics, and watchlist CSVs. The pilot is
-descriptive development evidence; it does not establish statistical superiority.
+or progress log, writes per-day progress, and preserves all run audits. Provider prices,
+model identity, concurrency, input limits, and the 20% revision bound are frozen in
+`configs/adaptive_range_100_compact_live.yaml`. A new study should use a new receipt path.
 
 The present scripted fixture demonstrates engineering behavior. It does not calibrate
 event effects, prove the scenario probabilities or resolution estimates accurate, or

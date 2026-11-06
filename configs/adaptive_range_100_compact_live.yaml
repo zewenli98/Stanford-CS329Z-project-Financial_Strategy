@@ -28,18 +28,34 @@ screening:
   anomaly_weight: 0.4
 ranking:
   minimum_score: 0.35
+  market_feature_weights:
+    atr_14d: 0.07661649096269793
+    distance_to_ma20: 0.009283544893280994
+    industry_residual_volatility_20d: 0.016416163368599766
+    market_residual_volatility_20d: 0.05164067852416188
+    median_abs_oc_return_10d: 0.03440099716970012
+    median_abs_oc_return_20d: 0.19873568092262076
+    median_abs_oc_return_5d: 0.02491504346100524
+    median_abs_oc_return_60d: 0.0799195958129046
+    median_range_20d: 0.0770192649997626
+    momentum_10d: 0.0033972547199116526
+    momentum_20d: 0.007533959038496068
+    previous_session_relative_volume: 0.04439865769264718
+    realized_volatility_10d: 0.05079264692738189
+    realized_volatility_20d: 0.14497115721618445
+    realized_volatility_5d: 0.04520444190596001
+    realized_volatility_60d: 0.07321056775583838
+    return_5d: 0.0398745297875634
+    reversal_1d: 0.02166932484128307
+    robust_volume_zscore_20d: 4.773230793651631e-19
+    volatility_trend_5_20: 1.156098662122497e-18
   final_weights:
     volatility: 0.5833333333333334
     anomaly: 0.4166666666666667
     company_event: 0.0
     macro: 0.0
-  volatility_weights:
-    median_abs_oc_return_20d: 0.6
-    realized_volatility_20d: 0.4
-  anomaly_weights:
-    abs_return_5d: 0.35
-    previous_session_relative_volume: 0.4
-    abs_distance_to_ma20: 0.25
+  volatility_weights: null
+  anomaly_weights: null
   percentile:
     tie_method: average
     singleton_value: 0.5
@@ -158,17 +174,20 @@ adaptive:
   seed: 31
   replicate_id: research100_v1
   memory_days: 7
-  max_input_bytes: 60000
+  max_input_bytes: 120000
   offline_price:
     input_per_million: 0.1
     output_per_million: 0.4
   pricing_as_of: '2026-11-06T00:10:36.246061+00:00'
   prices:
     openai/gpt-5.6-luna:
-      input_per_million: 0.19999999999999998
+      input_per_million: 0.2
       output_per_million: 1.2
       request_usd: 0.0
   research_candidate_limit: 20
   candidate_method: event_uncertainty
+  baseline_method: market_score
+  max_forecast_relative_change: 0.2
   memory_path: null
   compact_research_prompts: true
+  research_protocol: packet

@@ -194,6 +194,15 @@ class LiveClient:
                 "base_url": "https://openrouter.ai/api/v1",
                 "extra_body": {"provider": {"require_parameters": True}},
             }
+        elif config.provider == "tinker":
+            api_key = os.environ.get("TINKER_API_KEY")
+            base_url = os.environ.get("TINKER_BASE_URL")
+            if not api_key or not base_url:
+                raise StrategyError(
+                    "MISSING_LLM_API_KEY",
+                    "TINKER_API_KEY and TINKER_BASE_URL are required for live Tinker mode",
+                )
+            self._model_kwargs = {"api_key": api_key, "base_url": base_url}
 
     def generate(
         self,
@@ -262,9 +271,12 @@ class LiveClient:
             )
             if adaptive_worker else schema
         )
+        # Tinker's OpenAI-compatible endpoint accepts JSON-schema requests but
+        # does not reliably enforce their field names. Its json_object mode is
+        # compatible; Pydantic below remains the fail-closed schema validator.
         structured = model.with_structured_output(
             wire_schema,
-            method="json_schema",
+            method="json_mode" if self.config.provider == "tinker" else "json_schema",
             include_raw=True,
         )
         citation_instruction = ""

@@ -32,6 +32,7 @@ POLICIES = (
     "random",
     "boundary",
     "lexicographic",
+    "single_agent",
     "scenario",
 )
 
@@ -47,7 +48,14 @@ class AdaptiveEvaluationBody(ConfigModel):
     ndcg: dict[str, str | None] | None = None
     policies: list[
         Literal[
-            "baseline", "history_only", "uniform", "random", "boundary", "lexicographic", "scenario"
+            "baseline",
+            "history_only",
+            "uniform",
+            "random",
+            "boundary",
+            "lexicographic",
+            "single_agent",
+            "scenario",
         ]
     ] = Field(default_factory=lambda: list(POLICIES), min_length=1)
     budgets_usd: list[float] = Field(default_factory=lambda: [0.5, 1.0, 2.0], min_length=1)

@@ -150,7 +150,12 @@ def _execute(
     writer._adaptive_failure_audit = failure_audit
     # Forecast the whole universe, but keep costly research context bounded.
     all_features = features
-    baselines = history_baselines(features, snapshot.bars, config.adaptive.baseline_method)
+    baselines = history_baselines(
+        features,
+        snapshot.bars,
+        config.adaptive.baseline_method,
+        config.ranking,
+    )
     limit = config.adaptive.research_candidate_limit
     if limit is not None:
         candidates = select_candidates(
@@ -168,7 +173,11 @@ def _execute(
             "eligible_count": len(all_features),
             "candidate_count": len(features),
             "candidate_limit": limit,
-            "method": "descending_history_only_mean_range_20d_then_symbol",
+            "method": (
+                "frozen_market_score_rank_with_mean_range_quantiles"
+                if config.adaptive.baseline_method == "market_score"
+                else "descending_history_only_range_then_symbol"
+            ),
             "candidate_symbols": sorted(features),
             "remaining_forecasts": "retain_history_only_baseline",
             "baseline_method": config.adaptive.baseline_method,
@@ -315,7 +324,7 @@ def _execute(
             means,
             top_k=task.top_k,
             batch_size=config.adaptive.max_workers,
-            policy=policy,
+            policy="boundary" if policy == "single_agent" else policy,
             epsilon=config.adaptive.exploration_probability,
             inspection_counts=inspected,
             seed=config.adaptive.seed + state["batch"] * 1009,
@@ -372,6 +381,12 @@ def _execute(
                         if config.adaptive.research_protocol == "packet"
                         else None
                     )
+                    if policy == "single_agent":
+                        return suite.single_agent(
+                            question,
+                            state["forecasts"],
+                            packet=packet or view.packet_observations(question.symbols[0]),
+                        )
                     return suite.research(question, state["forecasts"], packet=packet)
             except Exception as exc:
                 # A single bounded worker failure does not discard the market baseline.
@@ -387,6 +402,7 @@ def _execute(
             futures = [pool.submit(worker, key, hold) for key, hold in reservations.items()]
             results = sorted((future.result() for future in futures), key=lambda x: x.question_id)
         new_cards = []
+        proposed_forecasts = []
         for result in results:
             question = pending[result.question_id]
             closed.add(_question_key(question))
@@ -403,6 +419,7 @@ def _execute(
                     seen_cards.add(_card_key(card))
                     accepted.append(card)
             new_cards.extend(accepted)
+            proposed_forecasts.extend(result.forecasts)
             rejected.extend(result.rejected_cards)
             research_log.append(
                 {
@@ -414,7 +431,13 @@ def _execute(
                 }
             )
         stored = run_memory.append(new_cards)
-        current = update(state["forecasts"], stored)
+        current = (
+            suite.apply_single_agent_forecasts(
+                state["forecasts"], proposed_forecasts, stored
+            )
+            if policy == "single_agent"
+            else update(state["forecasts"], stored)
+        )
         # Remember pending finalization if a non-final update could not be afforded.
         state = {**state, "forecasts": current, "batch": state["batch"] + 1}
         return state
@@ -449,7 +472,8 @@ def _execute(
                 remaining_cards = [
                     card for card in run_memory.active() if card.card_id not in applied
                 ]
-                forecasts = update(forecasts, remaining_cards, final=True)
+                if policy != "single_agent":
+                    forecasts = update(forecasts, remaining_cards, final=True)
         except StrategyError as exc:
             counters["stop_reason"] = exc.code
         finally:
@@ -491,6 +515,7 @@ def _execute(
     writer.write_jsonl("allocation_decisions.jsonl", decisions)
     writer.write_jsonl("research_results.jsonl", research_log)
     writer.write_jsonl("forecast_revisions.jsonl", revisions)
+    writer.write_jsonl("forecast_adjustments.jsonl", suite.forecast_adjustments)
     writer.write_json("forecast_issues.json", suite.forecast_issues)
     writer.write_jsonl("tool_traces.jsonl", sorted(view.trace, key=lambda x: canonical_json(x)))
     writer.write_jsonl("model_attempts.jsonl", client.attempt_log)

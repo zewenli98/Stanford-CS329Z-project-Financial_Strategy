@@ -101,6 +101,58 @@ def test_openrouter_requires_key(monkeypatch, tmp_path: Path) -> None:
     assert error.value.code == "MISSING_LLM_API_KEY"
 
 
+def test_tinker_requires_key_and_endpoint(monkeypatch, tmp_path: Path) -> None:
+    config = load_mvp_config(ROOT / "configs/screening_2026-10-14.yaml")
+    live = config.agents.model_copy(
+        update={"mode": "live", "provider": "tinker", "cache_path": tmp_path}
+    )
+    monkeypatch.delenv("TINKER_API_KEY", raising=False)
+    monkeypatch.delenv("TINKER_BASE_URL", raising=False)
+    with pytest.raises(StrategyError) as error:
+        LiveClient(live)
+    assert error.value.code == "MISSING_LLM_API_KEY"
+
+
+def test_tinker_uses_json_mode(monkeypatch, tmp_path: Path) -> None:
+    captured: dict = {}
+
+    class Message:
+        usage_metadata = {"input_tokens": 10, "output_tokens": 5}
+
+    class FakeModel:
+        def __init__(self, **kwargs):
+            captured["kwargs"] = kwargs
+
+        def with_structured_output(self, schema, **kwargs):
+            captured["schema"] = schema
+            captured["structured_kwargs"] = kwargs
+            return self
+
+        def invoke(self, _messages):
+            return {
+                "parsed": VerificationReport(verdict="PASS", issues=[], attempt=0),
+                "raw": Message(),
+                "parsing_error": None,
+            }
+
+    config = load_mvp_config(ROOT / "configs/screening_2026-10-14.yaml")
+    live = config.agents.model_copy(
+        update={
+            "mode": "live",
+            "provider": "tinker",
+            "model": "openai/gpt-oss-120b",
+            "cache_path": tmp_path,
+            "recordings_path": tmp_path / "recordings",
+        }
+    )
+    monkeypatch.setenv("TINKER_API_KEY", "test-secret")
+    monkeypatch.setenv("TINKER_BASE_URL", "https://tinker.example/v1")
+    monkeypatch.setattr("financial_strategy.llm.client.ChatOpenAI", FakeModel)
+    assert LiveClient(live).generate("verifier", {}, VerificationReport).response.verdict == "PASS"
+    assert captured["kwargs"]["base_url"] == "https://tinker.example/v1"
+    assert captured["structured_kwargs"] == {"method": "json_mode", "include_raw": True}
+
+
 def test_openrouter_uses_structured_output_without_leaking_key(
     monkeypatch, tmp_path: Path
 ) -> None:
