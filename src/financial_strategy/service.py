@@ -37,6 +37,10 @@ def run_screening(
     run_id: str | None = None,
     task_overrides: dict | None = None,
 ) -> tuple[Path, list[dict]]:
+    from financial_strategy.adaptive.config import is_adaptive_config
+    if is_adaptive_config(config_path):
+        from financial_strategy.adaptive.service import run_adaptive
+        return run_adaptive(config_path, run_id=run_id, task_overrides=task_overrides)
     config = load_mvp_config(config_path)
     if task_overrides:
         config = config.model_copy(

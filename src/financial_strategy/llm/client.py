@@ -17,6 +17,7 @@ from pydantic import BaseModel, ValidationError
 from financial_strategy.config import AgentsConfig, canonical_json
 from financial_strategy.errors import StrategyError
 from financial_strategy.llm.cache import AtomicJsonCache
+from financial_strategy.llm.structured import WORKER_WIRE_VERSION, worker_response_schema
 
 SchemaT = TypeVar("SchemaT", bound=BaseModel)
 
@@ -68,6 +69,8 @@ def request_hash(
         "attempt_type": attempt_type,
         "model_parameters": {"max_tokens": max_tokens},
     }
+    if payload.get("_workflow") == "adaptive_range_v1" and schema.__name__ == "WorkerAction":
+        request["model_parameters"]["worker_wire_version"] = WORKER_WIRE_VERSION
     return hashlib.sha256(canonical_json(request)).hexdigest()
 
 
@@ -140,7 +143,8 @@ class RecordedClient:
                 f"No recording exists for {role}:{key}",
             )
         started = time.monotonic()
-        raw = json.loads(path.read_text())["response"]
+        recording = json.loads(path.read_text())
+        raw = recording["response"]
         response = schema.model_validate(raw)
         return InvocationResult(
             response,
@@ -153,6 +157,8 @@ class RecordedClient:
             self.config.model_for(role),
             role_config.prompt_version,
             schema.__name__,
+            input_tokens=int(recording.get("input_tokens", 0)),
+            output_tokens=int(recording.get("output_tokens", 0)),
         )
 
 
@@ -207,19 +213,51 @@ class LiveClient:
                 self.config.model_for(role),
                 role_config.prompt_version,
                 schema.__name__,
+                input_tokens=int(cached.get("input_tokens", 0)),
+                output_tokens=int(cached.get("output_tokens", 0)),
             )
         model = ChatOpenAI(
             model=self.config.model_for(role),
             max_tokens=role_config.max_tokens,
+            max_retries=0,
             **self._model_kwargs,
         )
+        adaptive_worker = (payload.get("_workflow") == "adaptive_range_v1"
+                           and schema.__name__ == "WorkerAction")
+        observed_spans = [item["result"]["span"] for item in payload.get("observations", [])
+                          if isinstance(item, dict) and isinstance(item.get("result"), dict)
+                          and "span" in item["result"]]
+        wire_schema = (
+            worker_response_schema(
+                schema, observed_spans, final_action=payload.get("final_action_required", False),
+                strict_tools="tool_contracts" in payload,
+            )
+            if adaptive_worker else schema
+        )
         structured = model.with_structured_output(
-            schema,
+            wire_schema,
             method="json_schema",
             include_raw=True,
         )
         citation_instruction = ""
-        if role == "synthesis":
+        if payload.get("_workflow") == "adaptive_range_v1":
+            citation_instruction = (
+                " Follow the operation instructions in the payload. Use opaque source and card "
+                "IDs exactly as supplied. Separate supported observations from range-impact "
+                "hypotheses. Never invent an external lookup or a future outcome."
+            )
+            if adaptive_worker:
+                citation_instruction += (
+                    " Emit exactly ONE action object and wait for its observation. Never emit "
+                    "multiple JSON objects or simulate a tool result. Unused argument fields must "
+                    "be null. read requires evidence_id (singular); start/end may be null to use "
+                    "the bounded default span. search uses query, symbol, scope, top_n. features "
+                    "and timeline use symbol. cards optionally uses symbol. finish/abstain use "
+                    "no arguments. On finish copy the complete returned span object unchanged "
+                    "into source_spans: do not reconstruct quotes or count offsets yourself. "
+                    "Every observation must be supported by the quoted span."
+                )
+        elif role == "synthesis":
             citation_instruction = (
                 " Feature-derived observed facts must cite the supplied feature_id in "
                 "feature_ids only. evidence_ids may contain only IDs supplied in evidence "
@@ -255,7 +293,8 @@ class LiveClient:
         input_tokens = int(usage.get("input_tokens", 0))
         output_tokens = int(usage.get("output_tokens", 0))
         raw = validated.model_dump(mode="json")
-        self.cache.write(key, {"response": raw})
+        self.cache.write(key, {"response": raw, "input_tokens": input_tokens,
+                               "output_tokens": output_tokens})
         return InvocationResult(
             response=validated,
             request_hash=key,

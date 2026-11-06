@@ -1,11 +1,12 @@
 from __future__ import annotations
 
-import hashlib
 import json
 from datetime import date, datetime
 from pathlib import Path
 
 import polars as pl
+
+from financial_strategy.data.provenance import verify_snapshot_provenance
 
 ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT = ROOT / "data/2026-10-01_2026-10-14"
@@ -47,14 +48,7 @@ def test_real_snapshot_evidence_is_point_in_time_and_real() -> None:
     assert len(evidence) >= 8
     assert any(item["source_type"] == "company_release" for item in evidence)
     assert (
-        len(
-            {
-                item["symbol"]
-                for item in evidence
-                if item["source_type"] == "company_release"
-            }
-        )
-        >= 4
+        len({item["symbol"] for item in evidence if item["source_type"] == "company_release"}) >= 4
     )
     assert all("example.com" not in item["source_url"] for item in evidence)
     assert all(datetime.fromisoformat(item["available_at"]) <= CUTOFF for item in evidence)
@@ -74,15 +68,38 @@ def test_real_snapshot_consensus_has_pre_release_provenance() -> None:
         assert event["consensus_source_name"] == "Dow Jones survey via CNBC"
         assert event["consensus_source_url"].startswith("https://www.cnbc.com/")
         assert event["consensus_content_hash"]
-        assert datetime.fromisoformat(
-            event["consensus_published_at"]
-        ) < datetime.fromisoformat(event["event_time"])
+        assert datetime.fromisoformat(event["consensus_published_at"]) < datetime.fromisoformat(
+            event["event_time"]
+        )
 
 
 def test_real_snapshot_file_hashes_match_provenance() -> None:
     provenance = json.loads((SNAPSHOT / "provenance.json").read_text())
+    checked = verify_snapshot_provenance(SNAPSHOT)
+    assert len(checked["files"]) == len(provenance["files"])
 
-    for relative_path, metadata in provenance["files"].items():
-        payload = (SNAPSHOT / relative_path).read_bytes()
-        assert hashlib.sha256(payload).hexdigest() == metadata["sha256"]
-        assert len(payload) == metadata["size_bytes"]
+
+def test_sec_evidence_keeps_its_per_filing_acceptance_timestamp() -> None:
+    records = [
+        row
+        for row in read_jsonl(SNAPSHOT / "company/evidence.jsonl")
+        if row["evidence_id"].startswith("sec_")
+    ]
+    assert records
+    for record in records:
+        raw = json.loads(
+            (SNAPSHOT / "raw/sec" / f"{record['symbol'].lower()}_submissions.json").read_text()
+        )
+        recent = raw["filings"]["recent"]
+        accession = record["evidence_id"].rsplit("_", 1)[-1]
+        index = next(
+            i
+            for i, value in enumerate(recent["accessionNumber"])
+            if value.replace("-", "") == accession
+        )
+        accepted = datetime.fromisoformat(
+            recent["acceptanceDateTime"][index].replace("Z", "+00:00")
+        )
+        assert accepted.tzinfo is not None
+        assert accepted == datetime.fromisoformat(record["available_at"])
+        assert accepted == datetime.fromisoformat(record["first_seen_at"])

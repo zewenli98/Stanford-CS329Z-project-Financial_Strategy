@@ -1,0 +1,368 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="An offline team brief for the adaptive daily-range research harness: architecture, worked example, saved-run receipts, and validation limits.">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src data: blob:; font-src data:; connect-src 'none'; base-uri 'none'; object-src 'none'">
+<title>Adaptive range research · framework and tested behavior</title>
+<style>
+:root{--paper:#f5f3ed;--panel:#fff;--ink:#18343c;--muted:#4c656b;--line:#d6ded8;--teal:#096f63;--teal-soft:#e7f1ed;--blue:#405d84;--blue-soft:#edf2fa;--amber:#80531c;--amber-soft:#fbf0d9;--rose:#8a4143;--rose-soft:#f9eded;--radius:17px;--toolbar:73px}
+
+*{box-sizing:border-box}
+html{scroll-behavior:auto;scroll-padding-top:98px}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.65 "Segoe UI",Arial,sans-serif}
+a{color:var(--teal);text-underline-offset:4px}
+button,input,select{font:inherit}
+button{cursor:pointer}
+button:focus-visible,a:focus-visible,input:focus-visible,summary:focus-visible,select:focus-visible{outline:3px solid #ae721a;outline-offset:4px}
+button:disabled{cursor:default}
+h1,h2,h3,p,figure{margin:0}
+h1,h2,h3{line-height:1.2}
+h1{font:clamp(38px,4.7vw,65px)/1.08 Georgia,"Times New Roman",serif;letter-spacing:-1.7px;max-width:950px}
+h2{font:clamp(28px,3vw,38px)/1.2 Georgia,"Times New Roman",serif;letter-spacing:-.5px}
+h3{font-size:19px}
+p+p{margin-top:13px}
+ul,ol{padding-left:24px}
+li+li{margin-top:8px}
+strong{font-weight:650}
+small,.small{font-size:13px;line-height:1.5}
+.muted{color:var(--muted)}
+.mono,code{font-family:Consolas,"Courier New",monospace;font-size:.9em}
+code{background:#edf0eb;padding:2px 5px;border-radius:4px;overflow-wrap:anywhere}
+.num{font-variant-numeric:tabular-nums}
+.skip{position:absolute;top:-80px;left:20px;background:var(--ink);color:white;padding:12px;z-index:100}
+.skip:focus{top:8px}
+.topbar{position:sticky;top:0;z-index:20;background:#f5f3edf5;backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.topbar-inner{max-width:1510px;margin:auto;min-height:73px;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 34px}
+.brand{font-size:14px;font-weight:700;letter-spacing:.7px;display:flex;align-items:center;gap:11px}
+.brand-mark{display:grid;place-items:center;width:31px;height:31px;border-radius:9px;background:var(--ink);color:white;font-family:Georgia,serif;font-size:18px}
+.top-actions{display:flex;align-items:center;gap:15px}
+.status-pill,.eyebrow,.tag{font-size:11px;text-transform:uppercase;letter-spacing:1.15px;font-weight:700}
+.status-pill{background:var(--teal-soft);color:var(--teal);border-radius:40px;padding:6px 11px}
+.button{border:1px solid var(--line);border-radius:9px;background:var(--panel);color:var(--ink);padding:8px 13px;font-size:13px;font-weight:600}
+.button.primary{background:var(--ink);color:white;border-color:var(--ink)}
+.page{max-width:1510px;margin:auto;display:grid;grid-template-columns:190px minmax(0,1fr);gap:42px;padding:43px 34px 80px}
+.sidebar{position:sticky;top:105px;align-self:start}
+.sidebar-title{font-size:11px;letter-spacing:1.5px;text-transform:uppercase;color:var(--muted);margin-bottom:13px}
+.sidebar a{display:block;text-decoration:none;color:var(--muted);padding:8px 11px;border-left:2px solid transparent;font-size:14px}
+.sidebar a.active{border-color:var(--teal);color:var(--teal);font-weight:650;background:#e8eee8}
+.sidebar .reading-note{border-top:1px solid var(--line);margin-top:24px;padding-top:18px;font-size:12px;color:var(--muted)}
+main{min-width:0}
+.eyebrow{color:var(--teal);margin-bottom:19px}
+.hero-copy{font-size:19px;line-height:1.65;max-width:850px;margin-top:22px;color:var(--muted)}
+.hero .notice{margin-top:26px}
+.notice{background:var(--amber-soft);border-left:4px solid #ba832b;border-radius:0 10px 10px 0;padding:15px 19px}
+.notice strong{color:var(--amber)}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:17px;margin:29px 0 17px}
+.stat{border-top:2px solid var(--ink);padding-top:15px}
+.stat b{display:block;font-size:33px;font-weight:600;line-height:1.15;letter-spacing:-.8px}
+.stat span{display:block;font-size:13px;color:var(--muted);margin-top:8px}
+.hero-foot{font-size:12px;color:var(--muted)}
+section{margin-top:76px;scroll-margin-top:0}
+.section-head{display:flex;gap:18px;align-items:baseline;margin-bottom:23px}
+.section-number{font:15px Consolas,monospace;color:var(--teal);font-weight:700}
+.section-intro{max-width:890px;color:var(--muted);font-size:17px;margin-bottom:24px}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.three-col{display:grid;grid-template-columns:repeat(3,1fr);gap:19px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:25px;min-width:0}
+.card h3{margin-bottom:13px}
+.card p{font-size:15px}
+.tag{display:inline-block;color:var(--teal);margin-bottom:13px}
+.tag.blue{color:var(--blue)}
+.tag.amber{color:var(--amber)}
+.keyline{border-top:1px solid var(--line);padding-top:17px;margin-top:20px}
+.equation{overflow-x:auto;padding:18px 8px;margin:15px 0;background:#f8faf7;border-radius:8px;text-align:center}
+.equation math{font-family:"Cambria Math","STIX Two Math",serif;font-size:1.15em;min-width:max-content;margin:auto}
+.equation.compact{padding:10px}
+.formula-text{font:18px/1.8 "Cambria Math",Georgia,serif;text-align:center;white-space:nowrap}
+.table-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:13px;background:white}
+table{border-collapse:collapse;width:100%;font-size:14px}
+caption{text-align:left;padding:14px 17px;color:var(--muted);font-size:12px}
+th,td{text-align:left;padding:14px 16px;border-bottom:1px solid #e7ebe5;vertical-align:top}
+thead{background:#eff3ee}
+th{font-size:12px;font-weight:650}
+tr:last-child td{border-bottom:0}
+td.number,th.number{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.flow-frame{background:white;border:1px solid var(--line);border-radius:18px;padding:12px;overflow:hidden}
+.flow-frame svg{display:block;width:100%;height:auto}
+.figure-caption{font-size:13px;color:var(--muted);margin-top:13px}
+.flow-mobile{display:none}
+.flow-detail{margin-top:15px;display:grid;grid-template-columns:190px 1fr;gap:22px;align-items:start;border-left:4px solid var(--teal);padding:16px 20px;background:var(--teal-soft);border-radius:0 11px 11px 0}
+.flow-detail p{font-size:14px}
+.role-table{margin-top:24px}
+.role-label{font-size:11px;padding:3px 7px;border-radius:5px;background:var(--teal-soft);color:var(--teal);font-weight:700;white-space:nowrap}
+.role-label.llm{background:var(--blue-soft);color:var(--blue)}
+.role-label.mixed{background:#f1eaf7;color:#665078}
+.snapshot-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.snapshot-item{padding:18px;background:white;border:1px solid var(--line);border-radius:12px}
+.snapshot-item strong{display:block;font-size:23px}
+.snapshot-item span{font-size:12px;color:var(--muted)}
+.lab{border:1px solid var(--line);border-radius:18px;background:white;overflow:hidden}
+.lab-top{padding:24px 27px;background:#edf3ef;border-bottom:1px solid var(--line)}
+.lab-body{display:grid;grid-template-columns:minmax(240px,.8fr) minmax(320px,1.2fr);gap:28px;padding:27px}
+.control{margin-bottom:20px}
+.control label{display:flex;justify-content:space-between;gap:14px;font-size:14px;font-weight:600}
+.control output{font-variant-numeric:tabular-nums;color:var(--teal)}
+input[type=range]{width:100%;accent-color:var(--teal);margin:13px 0 0}
+input[type=number],select{width:100%;padding:8px 10px;border:1px solid #bbc9c1;border-radius:7px;background:white;color:var(--ink);margin-top:8px}
+.control-pair{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.lab-chart{min-width:0}
+.lab-chart svg{width:100%;height:270px;display:block}
+.legend{display:flex;gap:20px;font-size:12px;color:var(--muted);margin:7px 0}
+.legend i{display:inline-block;width:11px;height:11px;margin-right:6px;border-radius:2px}
+.result-strip{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:17px}
+.result-strip div{background:#f0f5f0;border-radius:10px;padding:13px}
+.result-strip b{display:block;font-size:23px;font-variant-numeric:tabular-nums}
+.result-strip span{font-size:12px;color:var(--muted)}
+.lab-bottom{border-top:1px solid var(--line);padding:21px 27px}
+.steps{list-style:none;counter-reset:steps;padding:0;margin:25px 0}
+.steps>li{counter-increment:steps;position:relative;padding-left:47px;margin:23px 0}
+.steps>li:before{content:counter(steps);position:absolute;left:0;top:0;width:29px;height:29px;border-radius:50%;display:grid;place-items:center;background:var(--teal-soft);color:var(--teal);font-weight:700;font-size:13px}
+.steps p{font-size:15px;margin-top:8px}
+.steps .equation{text-align:left}
+.definitions{display:grid;grid-template-columns:100px 1fr;gap:8px 17px;margin:18px 0;font-size:14px}
+.definitions dt{font:17px "Cambria Math",Georgia,serif;color:var(--teal)}
+.definitions dd{margin:0}
+.synthetic-source{padding:18px 20px;border-left:3px solid #7f9eaa;background:#eff4f7;border-radius:0 9px 9px 0;margin:17px 0;font-size:14px}
+blockquote{margin:10px 0 0}
+.info-card{background:#f8faf7;border:1px solid #d7e3d8;border-radius:12px;overflow:hidden}
+.info-card .head{background:#e8f1e9;padding:14px 18px;display:flex;justify-content:space-between;gap:16px;font-size:13px;font-weight:650}
+.info-card dl{display:grid;grid-template-columns:135px 1fr;gap:12px;padding:18px;margin:0;font-size:14px}
+.info-card dt{font-weight:650}
+.info-card dd{margin:0}
+.mode-controls{display:flex;gap:9px;flex-wrap:wrap;margin:18px 0 14px}
+.mode-controls button{border:1px solid var(--line);border-radius:8px;padding:9px 12px;background:white;font-size:13px;color:var(--ink)}
+.mode-controls [aria-pressed=true]{background:var(--ink);color:white;border-color:var(--ink)}
+.mode-result{border:1px solid var(--line);border-radius:12px;padding:20px;background:white}
+.mode-result strong{font-size:19px}
+.ranking{display:flex;gap:12px;margin:17px 0;flex-wrap:wrap}
+.ranking span{background:#eef4ef;padding:9px 15px;border-radius:8px;font-size:14px}
+.evidence-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:22px}
+.actual-badge{color:var(--teal);background:var(--teal-soft);padding:4px 8px;border-radius:5px;font-size:10px;letter-spacing:1px;font-weight:700}
+.receipt-row{display:flex;justify-content:space-between;gap:18px;padding:11px 0;border-bottom:1px solid var(--line);font-size:14px}
+.receipt-row:last-child{border:0}
+.receipt-row b{font-weight:600;font-variant-numeric:tabular-nums}
+.status-ok{color:var(--teal);font-weight:650}
+.status-pending{color:var(--amber);font-weight:650}
+.boundary{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.boundary .card:first-child{border-top:3px solid var(--teal)}
+.boundary .card:last-child{border-top:3px solid #b57e26}
+.talk-track{padding:24px 27px;background:var(--ink);color:#f6faf8;border-radius:15px;font-size:18px;line-height:1.65;margin-top:24px}
+.talk-track .tag{color:#a7d4c4}
+details{background:white;border:1px solid var(--line);border-radius:12px;padding:17px 20px;margin-top:18px}
+summary{cursor:pointer;font-weight:600}
+details[open] summary{margin-bottom:18px}
+.print-note{display:none}
+.footer{border-top:1px solid var(--line);margin-top:63px;padding-top:21px;font-size:12px;color:var(--muted)}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+@media(max-width:1150px){.page{grid-template-columns:160px 1fr;gap:25px;padding:35px 23px}
+.topbar-inner{padding-left:23px;padding-right:23px}
+.card{padding:21px}
+.lab-body{grid-template-columns:1fr 1.2fr;gap:20px;padding:21px}
+.snapshot-grid{grid-template-columns:repeat(2,1fr)}
+.flow-detail{grid-template-columns:150px 1fr;gap:14px}
+}
+
+@media(max-width:880px){.page{display:block;padding:28px 22px 60px}
+.sidebar{position:static;display:flex;gap:4px;overflow-x:auto;margin-bottom:30px;border-bottom:1px solid var(--line);padding-bottom:8px}
+.sidebar-title,.reading-note{display:none}
+.sidebar a{white-space:nowrap;padding:7px 10px;border-left:0;border-radius:7px}
+.sidebar a.active{background:var(--teal-soft)}
+.topbar-inner{padding:12px 20px}
+.brand{font-size:12px}
+.status-pill{display:none}
+.top-actions{gap:8px}
+.three-col{grid-template-columns:1fr}
+.two-col{gap:16px}
+.section-intro{font-size:16px}
+.hero-copy{font-size:17px}
+.lab-body{grid-template-columns:1fr 1.2fr}
+.flow-frame{padding:5px}
+.flow-detail{grid-template-columns:1fr}
+.evidence-grid{grid-template-columns:1fr}
+section{margin-top:55px}
+}
+
+@media(max-width:620px){body{font-size:15px}
+.page{padding:23px 16px 50px}
+.topbar-inner{padding:10px 16px;min-height:64px}
+.brand{max-width:210px;line-height:1.4}
+.brand-mark{flex-shrink:0}
+.top-actions .diagram-download{display:none}
+.button{padding:7px 10px}
+.two-col,.boundary{grid-template-columns:1fr}
+.stats{grid-template-columns:1fr 1fr;gap:22px 17px}
+.stat b{font-size:30px}
+h1{letter-spacing:-1px}
+.hero-copy{font-size:16px}
+.notice{padding:13px 15px}
+.section-head{gap:12px;margin-bottom:18px}
+.flow-desktop{display:none}
+.flow-mobile{display:block;padding:16px}
+.mobile-stage{background:#f4f8f4;border:1px solid #d3dfd7;padding:14px 15px;border-radius:10px;font-size:14px;position:relative;margin-bottom:23px}
+.mobile-stage:not(:last-child):after{content:'↓';position:absolute;bottom:-25px;left:50%;color:var(--muted)}
+.mobile-stage span{display:block;font-size:12px;color:var(--muted);margin-top:3px}
+.flow-detail{font-size:14px}
+.snapshot-grid{gap:10px}
+.snapshot-item{padding:15px}
+.lab-body{display:block;padding:20px}
+.lab-chart{margin-top:24px}
+.lab-top,.lab-bottom{padding:20px}
+.result-strip b{font-size:21px}
+.card{padding:20px}
+.steps>li{padding-left:40px}
+.definitions{grid-template-columns:75px 1fr;gap:10px}
+.info-card dl{grid-template-columns:1fr;gap:5px;padding:17px}
+.info-card dd{margin-bottom:10px}
+.info-card .head{flex-wrap:wrap;gap:6px}
+th,td{padding:11px 12px}
+.table-wrap table{min-width:520px}
+.receipt-row{font-size:13px}
+.talk-track{font-size:16px;padding:21px}
+.equation math{font-size:1em}
+}
+
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}
+*{transition:none!important}
+}
+
+@media print{@page{size:A4;margin:16mm}
+body{font-size:10pt;background:white;color:#111}
+.topbar,.sidebar,.lab-controls,.mode-controls,.diagram-download,.mode-result,.skip{display:none!important}
+.page{display:block;max-width:none;padding:0}
+.hero h1{font-size:29pt}
+.hero-copy{font-size:12pt}
+.stats{margin:18px 0}
+.stat b{font-size:23pt}
+section{margin-top:28px;break-inside:auto}
+.section-head{break-after:avoid}
+h2{font-size:20pt}
+h3{font-size:13pt}
+.card,.notice,.lab,.info-card,.table-wrap{box-shadow:none;break-inside:avoid}
+.flow-desktop{display:block}
+.flow-mobile{display:none}
+.flow-frame{padding:0}
+.flow-detail{display:none}
+.lab-body{display:block;padding:15px}
+.lab-chart svg{max-width:520px;margin:auto}
+.two-col,.three-col,.boundary{gap:12px}
+.lab-top,.lab-bottom{padding:15px}
+.print-note{display:block}
+.talk-track{background:#f2f5f1;color:#111}
+.footer{margin-top:25px}
+.table-wrap{overflow:visible}
+.equation{overflow:visible}
+.table-wrap table{min-width:0}
+a{color:inherit;text-decoration:none}
+details{display:block}
+.details-text{display:block}
+summary{list-style:none}
+.eyebrow,.tag{font-size:8pt}
+}
+
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar"><div class="topbar-inner"><div class="brand"><span class="brand-mark" aria-hidden="true">R</span> FINANCIAL STRATEGY / RESEARCH V1</div><div class="top-actions"><span class="status-pill">Scripted engineering validation</span><button class="button diagram-download" id="download-diagram" type="button">Save diagram</button><button class="button primary" id="print-page" type="button">Print / PDF</button></div></div></header>
+<div class="page">
+<nav class="sidebar" aria-label="Brief sections"><div class="sidebar-title">Team walkthrough</div><a class="active" href="#overview">The objective</a><a href="#workflow">Workflow picture</a><a href="#inputs">Data and boundaries</a><a href="#example">Worked example</a><a href="#recorded">Recorded run</a><a href="#tested">What was tested</a><a href="#next">Research claim</a><div class="reading-note">Standalone, offline brief.<br>All graphics and interactions are embedded.<br><br>Evidence snapshot:<br>November 4, 2026.</div></nav>
+<main id="main">
+<div class="notice"><strong>Subsequent live-model pilot:</strong> five historical sessions have now been run with real model inference. <a href="live-five-day-results.html">Open the results, top-3/5/10 statistics, and daily costs.</a> This framework brief retains the original scripted validation receipts.</div>
+<div class="hero" id="overview">
+<div class="eyebrow">Architecture + experiment brief · adaptive_range_v1</div>
+<h1>Research the questions that can change the watchlist.</h1>
+<p class="hero-copy">Before the market opens, forecast each stock’s daily trading range. Spend a limited research budget on factual questions that could alter the selected stocks. Verify the evidence, update the forecasts, and keep a replayable record of every decision.</p>
+<div class="notice"><strong>What has been demonstrated:</strong> the harness executes, enforces controls, and replays correctly in scripted tests. <strong>Forecasting skill has not been established.</strong> The scripted forecaster deliberately keeps the historical baseline unchanged.</div>
+<div class="stats"><div class="stat"><b>132</b><span>Repository tests passed in the last completed validation</span></div><div class="stat"><b>14</b><span>Offline comparison runs: 7 policies × 2 dates</span></div><div class="stat"><b>20 → 10</b><span>Stocks forecast → stocks selected in the saved demo</span></div><div class="stat"><b>$0</b><span>Actual model-provider spend in these scripted runs</span></div></div>
+<p class="hero-foot">This brief combines a recorded engineering run with a separate, explicitly illustrative allocation example. It makes no claim of a trading edge or an allocation-performance advantage.</p>
+</div>
+
+<section aria-labelledby="target-title"><div class="section-head"><span class="section-number">01</span><h2 id="target-title">The decision we are trying to improve</h2></div>
+<div class="two-col"><article class="card"><span class="tag">Prediction task</span><h3>Same-day relative range, before the open</h3><p>At <strong>09:00 Eastern</strong>, rank the provided stock group by predicted regular-session relative range. The highest <em>k</em> forecasts form the watchlist; <em>k</em> is configurable.</p><p>For one stock and one target session, let <strong>H</strong> be its highest regular-session price and <strong>L &gt; 0</strong> its lowest. Both are unknown at the cutoff. The realized range <strong>R</strong> is:</p><div class="equation"><math display="block" aria-label="R equals H minus L divided by L"><mi>R</mi><mo>=</mo><mfrac><mrow><mi>H</mi><mo>−</mo><mi>L</mi></mrow><mi>L</mi></mfrac></math></div><p class="small muted">A dimensionless ratio: 0.05 means 5%. It is not a standard deviation, direction forecast, or directly achievable trading return.</p></article>
+<article class="card"><span class="tag blue">Why this target matters</span><h3>A quiet close can hide a wide session</h3><p>Illustrative prices: a stock opens at $100, trades between $95 and $105, and closes at $100.</p><div class="equation"><math display="block" aria-label="105 minus 95 over 95 equals 10 over 95 approximately 0.105263 equals 10.5263 percent"><mfrac><mrow><mn>105</mn><mo>−</mo><mn>95</mn></mrow><mn>95</mn></mfrac><mo>=</mo><mfrac><mn>10</mn><mn>95</mn></mfrac><mo>≈</mo><mn>0.105263</mn><mo>=</mo><mn>10.5263</mn><mo>%</mo></math></div><p>Its open-to-close return is <strong>(100 − 100) / 100 = 0%</strong>, but its relative range is about <strong>10.53%</strong>.</p><p class="keyline">Researchers need a reason for uncertainty or repricing <strong>during the regular session</strong>. A large overnight opening gap alone does not establish a wide session range.</p></article></div>
+</section>
+
+<section id="workflow" aria-labelledby="workflow-heading"><div class="section-head"><span class="section-number">02</span><h2 id="workflow-heading">The whole workflow, in one picture</h2></div><p class="section-intro">The orchestrator plans and forecasts. General workers investigate. Code controls data access, allocation, budgets, and publication. Select a stage in the desktop diagram for its responsibility.</p>
+<figure><div class="flow-frame"><div class="flow-desktop">{{WORKFLOW_SVG}}</div><div class="flow-mobile" aria-label="Workflow in reading order"><div class="mobile-stage"><strong>1. Freeze eligible inputs · CODE</strong><span>Cutoff, universe, source copies; no target outcomes.</span></div><div class="mobile-stage"><strong>2. Initialize forecasts · CODE</strong><span>20-session range baseline and broad evidence coverage.</span></div><div class="mobile-stage"><strong>3. Plan questions · LLM</strong><span>Factual questions, answer scenarios, and cost bounds.</span></div><div class="mobile-stage"><strong>4. Allocate research · CODE</strong><span>Scenario priority, exploration, and logged probabilities.</span></div><div class="mobile-stage"><strong>5. General researchers · LLM + TOOLS</strong><span>At most 2 concurrent workers; local search and source reads.</span></div><div class="mobile-stage"><strong>6. Verify cards · CODE + LLM</strong><span>Check support; allow one bounded targeted repair.</span></div><div class="mobile-stage"><strong>7. Forecast update · LLM</strong><span>Accepted new evidence informs an update; otherwise retain forecasts.</span></div><div class="mobile-stage"><strong>Loop back to planning, or stop</strong><span>Budget, batch, or available-action limit; accepted-card memory persists within the arm.</span></div><div class="mobile-stage"><strong>8. Publish → evaluate / replay · CODE</strong><span>Immutable forecasts first; outcome labels afterward.</span></div></div></div><figcaption class="figure-caption">These are conceptual stages. The actual LangGraph has three nodes—<code>plan → allocate → research → plan</code>. Tool use, verification, memory commit, and forecast updates execute inside the research node. Setup and final publication surround the graph.</figcaption></figure>
+<div class="flow-detail" aria-live="polite"><strong id="stage-title">3 · Propose factual questions</strong><p id="stage-detail">The planner sees historical forecasts, eligible evidence leads, accepted cards, prior research outcomes, and remaining funds. It proposes questions about what can be learned from the available archive—not about future realized prices.</p></div>
+<div class="table-wrap role-table"><table><thead><tr><th>Component</th><th>Its job</th><th>What makes it different</th></tr></thead><tbody><tr><td><span class="role-label llm">Orchestrator</span></td><td>Propose questions and revise numerical range forecasts.</td><td>Sees shared research state. It does not bypass tool or budget controls.</td></tr><tr><td><span class="role-label llm">General researchers</span></td><td>Use a bounded ReAct cycle: select an action, inspect its result, then continue or finish.</td><td>Same protocol and model; different assigned questions, starting evidence, and search histories. No fixed bull/bear beliefs.</td></tr><tr><td><span class="role-label mixed">Verifier</span></td><td>Check citations, spans, timing, identity, numbers, and semantic support.</td><td>Checks whether observations are supported. It cannot verify a future market effect.</td></tr><tr><td><span class="role-label">Deterministic harness</span></td><td>Compute features and priorities, reserve funds, sort forecasts, write hashes, and replay.</td><td>The model cannot directly change its access boundary or spending limits.</td></tr></tbody></table></div>
+</section>
+
+<section id="inputs" aria-labelledby="inputs-heading"><div class="section-head"><span class="section-number">03</span><h2 id="inputs-heading">What enters, and what stays outside</h2></div>
+<div class="table-wrap"><table><thead><tr><th>Input</th><th>Used for</th><th>Boundary</th></tr></thead><tbody><tr><td>Frozen stock universe</td><td>Company identities, sectors, eligibility, and the user’s selection group.</td><td>Only the supplied eligible companies are forecast.</td></tr><tr><td>Daily OHLCV + corporate actions</td><td>20-session mean, median, and latest relative range; historical volatility and anomaly context.</td><td>Completed sessions available before cutoff. Require 21 complete sessions for the accompanying return features.</td></tr><tr><td>Company filings and news</td><td>New-versus-repeated disclosures, event timing, and source-backed facts.</td><td>Local eligible evidence and frozen source spans. No unrestricted web or filesystem access.</td></tr><tr><td>Macro releases + sector exposures</td><td>Release context, actual/consensus information when eligible, and possible transmission to companies.</td><td>Declared source availability must precede cutoff.</td></tr><tr><td>Accepted-card memory</td><td>Carry forward verified research without repeating it.</td><td>Seven-day active view; isolated by policy, budget, and replicate. Outcome labels never enter it.</td></tr><tr><td>Target-session high and low</td><td>Compute realized range and evaluate the frozen watchlist.</td><td><strong>Evaluation only, after immutable predictions are published.</strong></td></tr></tbody></table></div>
+<div class="snapshot-grid" style="margin-top:20px"><div class="snapshot-item"><strong>20 stocks</strong><span>Current engineering fixture</span></div><div class="snapshot-item"><strong>24 + 2</strong><span>Company + macro evidence records in the source snapshot</span></div><div class="snapshot-item"><strong>180 / 200</strong><span>Available target stock-day range labels</span></div><div class="snapshot-item"><strong>9 of 10 dates</strong><span>October 14 has no high/low labels in this snapshot</span></div></div>
+<p class="small muted" style="margin-top:17px">The sources were collected retrospectively. Availability timestamps and version assumptions are enforced, but are not proof of a contemporaneous feed. Aliases hide direct company identifiers from agents; dates, prices, products, and distinctive events can still reveal identities.</p>
+</section>
+
+<section id="example" aria-labelledby="example-heading"><div class="section-head"><span class="section-number">04</span><h2 id="example-heading">A worked example: which question deserves research?</h2></div><p class="section-intro"><strong>Illustrative example, not a saved financial result.</strong> Suppose the watchlist has one slot. Company A’s current expected range is 2.5%; Company B’s is 2.0%, so A is currently selected. A question about an available filing could change B’s position.</p>
+<div class="synthetic-source"><span class="tag blue">Fictitious evidence setup</span><p><strong>Question:</strong> Does the premarket filing introduce new conditions for today’s scheduled regulatory decision, or repeat what was already known?</p><blockquote>“08:15 ET. The issuer discloses additional conditions governing the regulatory decision scheduled for 10:00 ET today.”</blockquote><p class="small muted" style="margin-top:10px">This teaching source is invented. The question concerns evidence already available before 09:00, not the future result of the 10:00 decision.</p></div>
+<div class="lab"><div class="lab-top"><span class="tag">Interactive scheduling example</span><h3>Could learning the answer change the selected company?</h3><p class="small muted" style="margin-top:8px">The probabilities, shifts, resolution chance, and cost below are hypothetical planner inputs. They are not calibrated estimates from the fixture.</p></div><div class="lab-body"><div class="lab-controls"><div class="control"><label for="answer-probability">Probability of answer 1 <output id="p-value" for="answer-probability">50%</output></label><input id="answer-probability" aria-label="Probability of answer 1" type="range" min="0.1" max="0.9" step="0.1" value="0.5"><p class="small muted">Answer 1: new conditions. Answer 2: repeated / already resolved information. Probabilities sum to one.</p></div><div class="control"><label for="shift-amplitude">Proposed log-shift amplitude <output id="shift-value" for="shift-amplitude">±1.0</output></label><input id="shift-amplitude" aria-label="Proposed log-shift amplitude" type="range" min="0" max="1.5" step="0.1" value="1"><p class="small muted">Code clips to ±1.5, then halves the proposal. Default applied shifts: +0.5 and −0.5.</p></div><div class="control-pair"><div class="control"><label for="resolution-chance">Resolution chance</label><input id="resolution-chance" aria-label="Resolution chance" type="number" min="0" max="1" step="0.1" value="0.8"></div><div class="control"><label for="reserved-cost">Reserved cost ($)</label><select id="reserved-cost" aria-label="Reserved cost in dollars"><option value="0.05">0.05</option><option value="0.10" selected>0.10</option><option value="0.20">0.20</option><option value="0.50">0.50</option></select></div></div><button class="button" id="reset-example" type="button">Reset example</button><p class="small muted" style="margin-top:15px">A larger score means a more consequential hypothetical question per reserved dollar. It does not mean a larger expected trading profit.</p></div>
+<div class="lab-chart"><div class="legend"><span><i style="background:#59737e"></i>Company A</span><span><i style="background:#087f74"></i>Company B</span></div><svg id="example-chart" role="img" aria-label="Current and hypothetical range forecasts for Company A and Company B"></svg><div class="result-strip" aria-live="polite"><div><span>Answer-weighted B mean</span><b id="preserved-mean">2.0000%</b><span>Remains the current 2% forecast</span></div><div><span>Acquisition priority</span><b id="priority-value">0.016969</b><span>Range-ratio units per reserved dollar</span></div></div></div></div>
+<div class="lab-bottom"><div class="table-wrap"><table><thead><tr><th>Hypothetical state</th><th class="number">Probability</th><th class="number">B’s range</th><th>Selected</th><th class="number">Selection advantage</th></tr></thead><tbody id="scenario-table"><tr><td>Answer 1 · new conditions</td><td class="number">50%</td><td class="number">2.9242%</td><td>B</td><td class="number">0.4242 pp</td></tr><tr><td>Answer 2 · repeated information</td><td class="number">50%</td><td class="number">1.0758%</td><td>A</td><td class="number">0.0000 pp</td></tr></tbody></table></div><p class="small muted" id="lab-explanation" style="margin-top:14px">Conditional advantage = 0.5 × (0.0292423 − 0.025) + 0.5 × 0 = 0.00212117. Multiply by 0.8 and divide by $0.10 → priority 0.01696937.</p><p class="print-note small">Print shows the current interactive values. The derivation below describes the default example.</p></div></div>
+
+<h3 style="margin-top:35px">Why the scenario calculation is mean-preserving</h3><p style="margin-top:12px">Fix the current forecast while comparing this question’s answers. The quantities below are fixed scheduling assumptions; their mathematical consistency does not establish predictive calibration.</p>
+<dl class="definitions"><dt>m<sub>s</sub></dt><dd>Current nonnegative expected-range forecast for stock <em>s</em>.</dd><dt>p<sub>a</sub></dt><dd>Probability of proposed answer <em>a</em>, conditional on useful resolution; nonnegative and summing to one.</dd><dt>d<sub>s,a</sub></dt><dd>Proposed log-multiplicative shift for stock <em>s</em> under answer <em>a</em>.</dd><dt>b<sub>s,a</sub></dt><dd>Applied shift after clipping <em>d</em> to [−1.5, 1.5] and multiplying by 0.5.</dd><dt>r, c</dt><dd>Estimated useful-resolution probability <em>r</em> in [0, 1], and positive reserved research cost <em>c</em> in dollars.</dd></dl>
+<ol class="steps"><li><strong>Transform the proposed shifts.</strong><p>For the default B example, proposed shifts +1 and −1 lie within the clipping bounds. Halving them gives applied shifts +0.5 and −0.5. The natural exponential function, exp, converts these log shifts to positive multipliers.</p></li>
+<li><strong>Build a positive normalizer for each affected stock.</strong><div class="equation"><math display="block" aria-label="Z sub s equals the sum over answers of p sub a exp of b sub s a"><msub><mi>Z</mi><mi>s</mi></msub><mo>=</mo><munder><mo>∑</mo><mi>a</mi></munder><msub><mi>p</mi><mi>a</mi></msub><mi mathvariant="normal">exp</mi><mo>(</mo><msub><mi>b</mi><mrow><mi>s</mi><mo>,</mo><mi>a</mi></mrow></msub><mo>)</mo></math></div><p>Each exponential is positive and the probabilities sum to one, so <em>Z<sub>s</sub> &gt; 0</em>. For B, <strong>Z = 0.5 × exp(0.5) + 0.5 × exp(−0.5) = 1.1276259652</strong>.</p></li>
+<li><strong>Normalize the answer-specific forecast.</strong><div class="equation"><math display="block" aria-label="m sub s a equals m sub s times exp b sub s a divided by Z sub s"><msub><mi>m</mi><mrow><mi>s</mi><mo>,</mo><mi>a</mi></mrow></msub><mo>=</mo><msub><mi>m</mi><mi>s</mi></msub><mfrac><mrow><mi mathvariant="normal">exp</mi><mo>(</mo><msub><mi>b</mi><mrow><mi>s</mi><mo>,</mo><mi>a</mi></mrow></msub><mo>)</mo></mrow><msub><mi>Z</mi><mi>s</mi></msub></mfrac></math></div><p>B’s forecasts become <strong>0.02 × exp(0.5) / 1.1276259652 = 0.0292423431</strong> and <strong>0.02 × exp(−0.5) / 1.1276259652 = 0.0107576569</strong>. A is unaffected and remains 0.025 in both scenarios.</p></li>
+<li><strong>Verify the mean before using the scenarios.</strong><div class="equation"><math display="block" aria-label="Sum p a m s a equals m s over Z s times sum p a exp b s a equals m s over Z s times Z s equals m s"><munder><mo>∑</mo><mi>a</mi></munder><msub><mi>p</mi><mi>a</mi></msub><msub><mi>m</mi><mrow><mi>s</mi><mo>,</mo><mi>a</mi></mrow></msub><mo>=</mo><mfrac><msub><mi>m</mi><mi>s</mi></msub><msub><mi>Z</mi><mi>s</mi></msub></mfrac><munder><mo>∑</mo><mi>a</mi></munder><msub><mi>p</mi><mi>a</mi></msub><mi mathvariant="normal">exp</mi><mo>(</mo><msub><mi>b</mi><mrow><mi>s</mi><mo>,</mo><mi>a</mi></mrow></msub><mo>)</mo><mo>=</mo><mfrac><msub><mi>m</mi><mi>s</mi></msub><msub><mi>Z</mi><mi>s</mi></msub></mfrac><msub><mi>Z</mi><mi>s</mi></msub><mo>=</mo><msub><mi>m</mi><mi>s</mi></msub></math></div><p>The first step substitutes the definition and factors out <em>m<sub>s</sub> / Z<sub>s</sub></em>, which does not depend on the answer. The sum is exactly <em>Z<sub>s</sub></em> by definition; its positivity permits cancellation. Numerically, <strong>0.5 × 0.0292423431 + 0.5 × 0.0107576569 = 0.0200000000</strong>. A zero current mean also stays zero in every multiplicative scenario. Do not clip the normalized means afterward.</p></li>
+<li><strong>Measure how learning could change selection.</strong><p>Let <strong>S<sub>0</sub></strong> be the currently selected top-<em>k</em> companies. For any full forecast vector <strong>x</strong>, define <strong>T<sub>k</sub>(x)</strong> as the sum of its <em>k</em> largest entries (or all entries when fewer than <em>k</em> stocks are eligible). Let <strong>m<sup>a</sup></strong> be the full vector under answer <em>a</em>.</p><div class="equation"><math display="block" aria-label="Priority equals r over c times sum p a times T k of m a minus the sum over s in S zero of m s a"><mi mathvariant="normal">priority</mi><mo>=</mo><mfrac><mi>r</mi><mi>c</mi></mfrac><munder><mo>∑</mo><mi>a</mi></munder><msub><mi>p</mi><mi>a</mi></msub><mo>[</mo><msub><mi>T</mi><mi>k</mi></msub><mo>(</mo><msup><mi>m</mi><mi>a</mi></msup><mo>)</mo><mo>−</mo><munder><mo>∑</mo><mrow><mi>s</mi><mo>∈</mo><msub><mi>S</mi><mn>0</mn></msub></mrow></munder><msub><mi>m</mi><mrow><mi>s</mi><mo>,</mo><mi>a</mi></mrow></msub><mo>]</mo></math></div><p>The bracket compares the best selection under that answer with retaining the original selection. It is nonnegative because retaining the original selection remains an available choice. Nonnegative answer weights and <em>r</em>, divided by positive <em>c</em>, preserve that sign.</p><p>With one slot, only answer 1 replaces A: conditional advantage = <strong>0.5 × (0.0292423431 − 0.025) + 0.5 × 0 = 0.0021211716</strong>. Useful-resolution weighting gives <strong>0.8 × 0.0021211716 = 0.0016969373</strong>. Dividing by $0.10 gives <strong>0.0169693726 ratio units per dollar</strong>, equivalent to <strong>1.69693726 percentage points per dollar</strong>.</p></li></ol>
+<div class="notice"><strong>Why normalize?</strong> Without normalization, the same ±0.5 shifts would average to <strong>0.0225525193</strong>, silently raising B’s 2% mean to 2.2553% before research. Mean preservation prevents this inflation. It does not establish that the answers, probabilities, shifts, or resolution estimates are correct.</div>
+
+<h3 style="margin-top:35px">From a source to a forecast update</h3><p style="margin:13px 0 18px">A worker reads the fictitious source, returns a card, and receives verification feedback. The observations and the impact hypothesis remain separate.</p>
+<div class="info-card"><div class="head"><span>INFORMATION CARD · TEACHING EXAMPLE</span><span>Source-backed facts / uncertain interpretation</span></div><dl><dt>Company / question</dt><dd>Company B · Does this filing add new conditions?</dd><dt>Observed fact</dt><dd>The quoted filing discloses additional conditions for a decision scheduled at 10:00 ET.</dd><dt>Provenance</dt><dd>Opaque source ID + exact character span; source available at 08:15 ET, before the 09:00 cutoff.</dd><dt>Range mechanism</dt><dd>New uncertainty <em>may</em> sustain repricing after the 09:30 open. This is an inference, not a verified future effect.</dd><dt>Counterargument</dt><dd>The opening price may already reflect the disclosure, leaving little subsequent range.</dd><dt>Missing information</dt><dd>The future decision and the intraday price response remain unknown.</dd></dl></div>
+<div class="mode-controls" role="group" aria-label="Illustrative forecast outcome"><button type="button" aria-pressed="true" data-mode="accepted">Accepted evidence</button><button type="button" aria-pressed="false" data-mode="unresolved">Unresolved / rejected</button><button type="button" aria-pressed="false" data-mode="scripted">Scripted fixture behavior</button></div>
+<div class="mode-result" aria-live="polite"><strong id="mode-title">Illustrative model update: B becomes the selected company</strong><div class="ranking" id="mode-ranking"><span>1 · B · 2.7%</span><span>2 · A · 2.5%</span></div><p id="mode-copy">With accepted evidence, the orchestrator could revise B from 2.0% to 2.7%, citing the card and its uncertainty. This 2.7% is a teaching assumption, not a measured effect or a saved model forecast.</p></div>
+<p class="small muted" style="margin-top:14px"><strong>The scheduling scenarios are not the final forecasting rule.</strong> The illustrative 2.7% update is separate from the sliders and their answer-specific values. In actual operation, the orchestrator makes a new, evidence-grounded forecast; with no accepted new information it retains the previous one.</p>
+</section>
+
+<section id="recorded" aria-labelledby="recorded-heading"><div class="section-head"><span class="section-number">05</span><h2 id="recorded-heading">What the saved demo actually did</h2></div><p class="section-intro"><span class="actual-badge">RECORDED ARTIFACTS</span> <code>adaptive_demo_v1</code> screened October 14, 2026 at 09:00 Eastern in <strong>scripted</strong> mode. These counts come from the saved run, not the fictitious A/B example.</p>
+<div class="evidence-grid"><article class="card"><h3>Execution receipt</h3><div id="demo-receipt"><div class="receipt-row"><span>Forecasts → watchlist</span><b>20 → 10</b></div><div class="receipt-row"><span>Research batches / assignments</span><b>8 / 16</b></div><div class="receipt-row"><span>Accepted / rejected cards</span><b>14 / 0</b></div><div class="receipt-row"><span>Scripted role invocations</span><b>70</b></div><div class="receipt-row"><span>Local tool calls</span><b>45</b></div><div class="receipt-row"><span>Numerical forecasts changed</span><b>0</b></div></div><p class="small muted keyline">The 70 invocations comprise 8 planner, 40 worker, 14 verifier, and 8 forecast invocations. They are local scripted responses, not 70 paid LLM calls. The scripted semantic verifier returns PASS; semantic judgment quality was not measured.</p></article>
+<article class="card"><h3>Budget and stop receipt</h3><div class="receipt-row"><span>Configured daily cap</span><b>$2.00</b></div><div class="receipt-row"><span>Normalized reference cost</span><b>$0.0472767</b></div><div class="receipt-row"><span>Actual provider spend</span><b>$0.00</b></div><div class="receipt-row"><span>Stop reason</span><b>8-batch limit</b></div><div class="receipt-row"><span>Recorded replay</span><b class="status-ok">Matched exactly</b></div><p class="small muted keyline">The cap was not exhausted. Reference cost uses explicit synthetic rates to exercise accounting. Budget enforcement was also unit-tested with reservations, failures, retries, caches, and concurrent attempts.</p></article></div>
+<div class="two-col" style="margin-top:22px"><article class="card"><h3>Why a lower-score question can run first</h3><p>The first saved dispatch explored <code>question_0010</code>, with a priority of about <strong>0.001287</strong>. The next dispatch exploited <code>question_0002</code>, with a priority of about <strong>0.005048</strong>.</p><p>Exploration is normally sampled with probability 0.2, using weights that favor less-inspected companies. If no positive exploitation action exists, remaining actions can be explored with effective probability 1. Both effective probabilities and exact question-selection probabilities are logged.</p><p class="small muted keyline">There were 10 exploratory dispatches in this 16-assignment demo. That is an observed count, not a claim that a 20% mixture must produce exactly 20% exploration in one short run.</p></article><article class="card"><h3>Published output, still at the baseline</h3><div class="table-wrap"><table><thead><tr><th>Rank / symbol</th><th class="number">Predicted range</th></tr></thead><tbody id="actual-watchlist"><tr><td>1 · META</td><td class="number">3.4265%</td></tr><tr><td>2 · CAT</td><td class="number">2.7591%</td></tr><tr><td>3 · TSLA</td><td class="number">2.5926%</td></tr></tbody></table></div><p class="small muted keyline">First three rows of the recorded watchlist. Every numerical forecast equaled its historical baseline. These are predictions in a scripted fixture, not observed October 14 ranges; that date lacks outcome labels.</p></article></div>
+</section>
+
+<section id="tested" aria-labelledby="tested-heading"><div class="section-head"><span class="section-number">06</span><h2 id="tested-heading">What was tested—and what the results support</h2></div><div class="table-wrap"><table><thead><tr><th>Validation</th><th>What was exercised</th><th>Supported conclusion</th></tr></thead><tbody><tr><td><strong>132 repository tests passed</strong></td><td>Allocation math, zero forecasts, probability validation, propensities, deduplication, citation checks, temporal access, memory, fallback, and legacy compatibility.</td><td class="status-ok">Engineering behavior passed the tested cases.</td></tr><tr><td><strong>Budget and failure tests</strong></td><td>Atomic reservations, protected finalization funds, per-attempt limits, retries, normalized caches, invalid charges, and missing live pricing.</td><td class="status-ok">Accounting and fail-closed controls work in unit and mocked-provider tests.</td></tr><tr><td><strong>Frozen-run replay</strong></td><td>Rebuild from saved inputs and model-response tape; compare forecasts, selections, allocations, research results, revisions, and tool traces.</td><td class="status-ok">The recorded trajectory is reproducible under the tested implementation.</td></tr><tr><td><strong>Data and source checks</strong></td><td>Future-bar exclusion, label-read isolation, high/low coverage, source hashes, and per-filing EDGAR acceptance times.</td><td class="status-ok">The tested boundaries and provenance checks are enforced.</td></tr><tr><td><strong>Live model forecasting</strong></td><td>No real model-provider forecasting trial was run.</td><td class="status-pending">Forecast accuracy, calibration, and provider behavior remain unvalidated.</td></tr><tr><td><strong>Semantic quality</strong></td><td>Verifier plumbing and rejection/repair cases were tested with scripted or mocked judgments.</td><td class="status-pending">No independently measured hallucination-detection rate.</td></tr></tbody></table></div>
+<h3 style="margin-top:30px">The comparison smoke test was deliberately small</h3><p style="margin-top:12px">The saved report contains <strong>7 policies × 2 dates × one $0.50 cap × one replicate = 14 runs</strong>, with zero failed runs and $0 actual provider spend. Seven October 13 runs were scored. Seven October 14 runs reported missing range labels.</p>
+<div class="table-wrap" style="margin-top:18px"><table><thead><tr><th>Comparison arm</th><th>What it isolates</th></tr></thead><tbody><tr><td>Historical baseline</td><td>No model inference; 20-session mean relative range.</td></tr><tr><td>History-only orchestrator</td><td>Model forecasting with historical features, without research evidence.</td></tr><tr><td>Uniform round-robin</td><td>Prefer less-inspected companies.</td></tr><tr><td>Seeded random</td><td>Research without decision-sensitive priorities.</td></tr><tr><td>Current boundary</td><td>Prioritize companies near the current selection cutoff.</td></tr><tr><td>Original lexicographic rule</td><td>Selection flips, rank displacement, evidence coverage, cost, then stable ID.</td></tr><tr><td>Scenario acquisition score</td><td>Hypothetical answer-specific selection advantage × resolution / reserved cost.</td></tr></tbody></table></div>
+<div class="notice" style="margin-top:20px"><strong>Interpretation limit:</strong> this is an execution comparison, not a ten-day backtest, a three-budget curve, or evidence that one allocator beats another. In scripted mode all arms preserve the same numerical baseline by construction. Equal performance here cannot distinguish their forecasting value.</div>
+<details><summary>How the primary metric works</summary><div class="details-text"><p>Fix one evaluated session with complete labels. Let <strong>k</strong> be the chosen watchlist size, <strong>S</strong> the selected set of <em>k</em> stocks, and <strong>O</strong> the set of <em>k</em> stocks with the largest realized ranges. For stock <em>s</em>, <strong>R<sub>s</sub></strong> is its realized relative range.</p><div class="equation"><math display="block" aria-label="Regret equals one over k times the sum over O of R s minus one over k times the sum over S of R s"><mi mathvariant="normal">regret</mi><mo>=</mo><mfrac><mn>1</mn><mi>k</mi></mfrac><munder><mo>∑</mo><mrow><mi>s</mi><mo>∈</mo><mi>O</mi></mrow></munder><msub><mi>R</mi><mi>s</mi></msub><mo>−</mo><mfrac><mn>1</mn><mi>k</mi></mfrac><munder><mo>∑</mo><mrow><mi>s</mi><mo>∈</mo><mi>S</mi></mrow></munder><msub><mi>R</mi><mi>s</mi></msub></math></div><p>Smaller is better. On the one scored smoke-test date, the oracle mean range was 3.94431918% and the selected mean was 3.23879445%. Subtraction gives <strong>3.94431918 − 3.23879445 = 0.70552473 percentage points</strong> of regret, or a ratio of 0.0070552473. This is a descriptive fixture result, not an out-of-sample superiority finding.</p><p>Partial and missing labels are reported explicitly. Partial-coverage scores use the labelled eligible universe, preserve selected positions, and give missing selected labels zero contribution; they must not be interpreted as complete-day regret.</p></div></details>
+</section>
+
+<section id="next" aria-labelledby="next-heading"><div class="section-head"><span class="section-number">07</span><h2 id="next-heading">The research claim we can test next</h2></div><p class="section-intro">The candidate contribution is <strong>question-specific research allocation for a range watchlist</strong>. Agent count, budget awareness, and attention to the top-<em>k</em> boundary already have precedents. The open empirical question is whether our answer-sensitive priorities improve selection at a matched cost.</p>
+<div class="boundary"><article class="card"><span class="tag">Established in this version</span><h3>A usable experiment harness</h3><ul><li>Bounded planning and local research.</li><li>Verified-card interfaces and targeted repair.</li><li>Evidence-gated numerical updates.</li><li>Explicit costs, source timing, aliases, and memory isolation.</li><li>Comparable policies, saved decisions, and exact recorded replay.</li></ul></article><article class="card"><span class="tag amber">Needed for a forecasting claim</span><h3>A larger, genuinely informative study</h3><ul><li>More dates and events with reliable point-in-time sources and complete labels.</li><li>A model/date protocol addressing historical knowledge.</li><li>A real-model headroom test against strong historical baselines.</li><li>Held-out comparisons of allocation policies at binding budgets.</li><li>Independent evidence audits and dependence-aware uncertainty estimates.</li></ul></article></div>
+<div class="talk-track"><span class="tag">A 60-second explanation for teammates</span><p>“We built a premarket research harness to rank stocks by their expected intraday high-to-low range. Every stock starts with a historical baseline. An orchestrator proposes factual questions, and code allocates a limited budget based on how learning an answer might change the watchlist. General workers inspect frozen evidence, a verifier checks their cards, and accepted new information can inform forecast updates. We have tested execution, controls, and replay. The current scripted fixture keeps numerical forecasts unchanged, so it has not established an accuracy advantage. The next experiment is whether targeted research improves watchlist quality over simpler allocation at the same cost.”</p></div>
+<details><summary>Receipts and reproducibility</summary><p>This standalone brief embeds its diagram, facts, equations, and interactions. It makes no network requests and needs no external fonts or JavaScript libraries.</p><ul><li>Demo source: <code>runs/adaptive_demo_v1</code>.</li><li>Comparison source: <code>runs/adaptive_evaluation_2013f87de535/report.json</code>.</li><li>Label coverage: <code>runs/range_labels_smoke_v1/coverage.json</code>.</li><li>Test receipt: <code>132 passed in 20.85s</code>, from the last completed implementation validation on November 4, 2026. That suite was not rerun to produce this explanatory page.</li><li>Reusable builder: <code>scripts/build_framework_overview.py</code>; source template: <code>scripts/framework_overview_template.html</code>.</li></ul><p class="small muted">The builder reads existing artifacts and performs no model inference. Its output also records a compact facts snapshot alongside the separate SVG diagram.</p></details>
+</section>
+<footer class="footer">Financial Strategy · adaptive_range_v1 · Engineering brief dated November 4, 2026.<br>All A/B figures and the fictitious source are labelled teaching examples. Recorded counts and costs are drawn from saved run artifacts. Future-impact interpretations and acquisition inputs remain uncalibrated.</footer>
+</main></div>
+<script id="recorded-facts" type="application/json">{{FACTS_JSON}}</script>
+<script>
+(()=>{'use strict';
+const facts=JSON.parse(document.getElementById('recorded-facts').textContent);
+const $=id=>document.getElementById(id);
+const stageInfo={freeze:['1 · Freeze eligible inputs','Code validates the stock universe and cutoff, filters completed available bars and evidence, and copies eligible source documents into the run. The outcome labels are unavailable to researchers.'],baseline:['2 · Initialize range forecasts','Each company starts from its mean relative range over 20 completed sessions. Twenty-one sessions are required for accompanying return features. Shallow company and macro searches establish initial coverage.'],plan:['3 · Propose factual questions','The planner sees historical forecasts, eligible evidence leads, accepted cards, compact prior research outcomes, and remaining funds. Questions concern what can be learned from the archive—not future realized prices.'],allocate:['4 · Allocate research effort','Code calculates the mean-preserving scenario acquisition score and selects a bounded batch. It normally mixes exploitation with 20% exploration; it logs effective selection probabilities and avoids duplicate event investigations.'],research:['5 · Run general researchers','Workers share one protocol. They differ in question, initial evidence, and search history. Their bounded ReAct actions can search, read source spans, inspect features or timelines, retrieve accepted cards, finish, or report insufficient evidence.'],verify:['6 · Verify information cards','Code checks references, exact read spans, company identity, timestamps, and numerical support. A separate model-role invocation assesses semantic support. One targeted repair can occur within assignment limits. Passing a card does not certify its future market effect.'],forecast:['7 · Update range forecasts','The orchestrator may update forecasts only with accepted new evidence or a correction, with relevant card citations. No accepted new information means previous forecasts remain. Scheduling scenarios are not mechanically substituted as the final forecast.'],publish:['8 · Publish, then evaluate or replay','Code sorts numerical forecasts, writes the full ranking and top-k watchlist, and publishes a hashed audit. Evaluation loads outcomes afterward. Exact replay consumes recorded inputs and responses; another policy must execute any unseen research path.']};
+document.querySelectorAll('#workflow-svg [data-stage]').forEach(node=>{const activate=()=>{document.querySelectorAll('#workflow-svg [data-stage]').forEach(n=>n.classList.toggle('selected',n===node));const info=stageInfo[node.dataset.stage];$('stage-title').textContent=info[0];$('stage-detail').textContent=info[1];};node.addEventListener('click',activate);node.addEventListener('keydown',event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();activate();}});});
+$('print-page').addEventListener('click',()=>window.print());
+let printDetails=[];window.addEventListener('beforeprint',()=>{printDetails=[...document.querySelectorAll('details')].map(node=>({node,open:node.open}));printDetails.forEach(({node})=>{node.open=true;});});window.addEventListener('afterprint',()=>{printDetails.forEach(({node,open})=>{node.open=open;});printDetails=[];});
+$('download-diagram').addEventListener('click',()=>{const graphic=$('workflow-svg').cloneNode(true);graphic.querySelectorAll('.selected').forEach(n=>n.classList.remove('selected'));const blob=new Blob([new XMLSerializer().serializeToString(graphic)],{type:'image/svg+xml;charset=utf-8'});const link=document.createElement('a');const url=URL.createObjectURL(blob);link.href=url;link.download='adaptive-range-v1-workflow.svg';link.click();setTimeout(()=>URL.revokeObjectURL(url),2000);});
+const links=[...document.querySelectorAll('.sidebar a')];const sections=links.map(a=>document.querySelector(a.getAttribute('href'))).filter(Boolean);const observer=new IntersectionObserver(entries=>{const visible=entries.filter(e=>e.isIntersecting).sort((a,b)=>a.boundingClientRect.top-b.boundingClientRect.top);if(visible.length){links.forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+visible[0].target.id));}},{rootMargin:'-12% 0px -65% 0px'});sections.forEach(s=>observer.observe(s));
+const pct=(value,digits=4)=>(value*100).toFixed(digits)+'%';
+const nfmt=(value,digits=8)=>value.toFixed(digits);
+const el=(tag,attrs={},text='')=>{const node=document.createElementNS('http://www.w3.org/2000/svg',tag);for(const [k,v]of Object.entries(attrs))node.setAttribute(k,String(v));if(text)node.textContent=text;return node;};
+function drawChart(states){const svg=$('example-chart');const width=Math.max(285,Math.round(svg.getBoundingClientRect().width));const height=270;svg.setAttribute('viewBox',`0 0 ${width} ${height}`);svg.replaceChildren();svg.append(el('title',{},'Current and hypothetical forecasts. Values are percentage ranges, not realized returns.'));const left=72,right=66,plot=width-left-right,max=Math.max(...states.flatMap(s=>[s.a,s.b]))*1.17;const ticks=4;for(let i=0;i<=ticks;i++){const x=left+plot*i/ticks;svg.append(el('line',{x1:x,x2:x,y1:26,y2:234,stroke:'#dce5df','stroke-width':1}));svg.append(el('text',{x,y:255,'text-anchor':'middle','font-family':'Segoe UI,Arial,sans-serif','font-size':12,fill:'#4c656b'},(100*max*i/ticks).toFixed(1)+'%'));}states.forEach((state,index)=>{const y=43+index*69;svg.append(el('text',{x:0,y:y+12,'font-size':13,'font-family':'Segoe UI,Arial,sans-serif',fill:'#18343c'},state.label));[['A',state.a,'#59737e'],['B',state.b,'#087f74']].forEach(([name,value,color],j)=>{const by=y+j*21;svg.append(el('rect',{x:left,y:by,width:plot*value/max,height:13,rx:3,fill:color}));svg.append(el('text',{x:left-10,y:by+11,'text-anchor':'end','font-size':12,'font-family':'Segoe UI,Arial,sans-serif',fill:'#405d63'},name));svg.append(el('text',{x:left+plot+8,y:by+11,'font-size':12,'font-family':'Segoe UI,Arial,sans-serif',fill:'#18343c'},pct(value,2)));});});}
+let chartStates=[];
+function updateExample(){const p=Number($('answer-probability').value),d=Number($('shift-amplitude').value),r=Number($('resolution-chance').value),cost=Number($('reserved-cost').value);if($('resolution-chance').value.trim()===''||!Number.isFinite(r)||r<0||r>1){$('resolution-chance').setCustomValidity('Enter a probability between 0 and 1.');return;}$('resolution-chance').setCustomValidity('');if(!Number.isFinite(cost)||cost<=0){$('reserved-cost').setCustomValidity('Choose a positive reserved cost.');return;}$('reserved-cost').setCustomValidity('');const a=.025,b=.020,applied=.5*Math.max(-1.5,Math.min(1.5,d));const z=p*Math.exp(applied)+(1-p)*Math.exp(-applied);const yes=b*Math.exp(applied)/z,no=b*Math.exp(-applied)/z;const gain1=Math.max(0,yes-a),gain2=Math.max(0,no-a),conditional=p*gain1+(1-p)*gain2,priority=r*conditional/cost,mean=p*yes+(1-p)*no;$('p-value').textContent=(p*100).toFixed(0)+'%';$('shift-value').textContent='±'+d.toFixed(1);$('preserved-mean').textContent=pct(mean);$('priority-value').textContent=nfmt(priority,6);$('scenario-table').replaceChildren();[['Answer 1 · new conditions',p,yes,gain1],['Answer 2 · repeated information',1-p,no,gain2]].forEach(([label,probability,value,gain])=>{const tr=document.createElement('tr');[label,(probability*100).toFixed(0)+'%',pct(value),value>a?'B':'A',(gain*100).toFixed(4)+' pp'].forEach((text,index)=>{const td=document.createElement('td');td.textContent=text;if([1,2,4].includes(index))td.className='number';tr.append(td);});$('scenario-table').append(tr);});$('lab-explanation').textContent=`Normalizer Z = ${z.toFixed(8)}. Conditional advantage = ${p.toFixed(1)} × ${gain1.toFixed(8)} + ${(1-p).toFixed(1)} × ${gain2.toFixed(8)} = ${conditional.toFixed(8)}. Multiply by ${r.toFixed(1)} and divide by $${cost.toFixed(2)} → priority ${priority.toFixed(8)} ratio units per dollar. Displayed values are rounded; calculations use full precision.`;chartStates=[{label:'Current',a,b},{label:'Answer 1',a,b:yes},{label:'Answer 2',a,b:no}];drawChart(chartStates);}
+['answer-probability','shift-amplitude','resolution-chance','reserved-cost'].forEach(id=>$(id).addEventListener('input',updateExample));$('reset-example').addEventListener('click',()=>{$('answer-probability').value=.5;$('shift-amplitude').value=1;$('resolution-chance').value=.8;$('reserved-cost').value='0.10';updateExample();});
+new ResizeObserver(()=>{if(chartStates.length)drawChart(chartStates);}).observe($('example-chart'));
+const modes={accepted:{title:'Illustrative model update: B becomes the selected company',rank:['1 · B · 2.7%','2 · A · 2.5%'],copy:'With accepted evidence, the orchestrator could revise B from 2.0% to 2.7%, citing the card and its uncertainty. This 2.7% is a teaching assumption, not a measured effect or a saved model forecast.'},unresolved:{title:'No accepted new evidence: retain the existing forecasts',rank:['1 · A · 2.5%','2 · B · 2.0%'],copy:'The source could not resolve the question or the card failed verification. Research cost and the stop reason are still recorded. The forecast remains unchanged, so A stays selected.'},scripted:{title:'Scripted fixture: exercise the loop while preserving the baseline',rank:['1 · A · 2.5%','2 · B · 2.0%'],copy:'The scripted responder can produce accepted cards and call the forecasting stage, but deliberately retains each baseline number. That is how the saved real-fixture demo behaves. It demonstrates orchestration, not a useful numerical impact estimate.'}};
+document.querySelectorAll('[data-mode]').forEach(button=>button.addEventListener('click',()=>{document.querySelectorAll('[data-mode]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));const state=modes[button.dataset.mode];$('mode-title').textContent=state.title;$('mode-copy').textContent=state.copy;$('mode-ranking').replaceChildren(...state.rank.map(text=>{const span=document.createElement('span');span.textContent=text;return span;}));}));
+$('actual-watchlist').replaceChildren(...facts.example_watchlist.map(row=>{const tr=document.createElement('tr');const name=document.createElement('td');name.textContent=row.rank+' · '+row.symbol;const value=document.createElement('td');value.className='number';value.textContent=pct(row.predicted_range);tr.append(name,value);return tr;}));
+updateExample();
+})();
+</script>
+</body>
+</html>

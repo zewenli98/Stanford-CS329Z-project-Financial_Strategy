@@ -100,6 +100,13 @@ class CorporateActionRecord(StrictModel):
     source: str
 
 
+class EvidenceChunk(StrictModel):
+    chunk_id: str
+    start_char: int = Field(ge=0)
+    end_char: int = Field(gt=0)
+    content_hash: str
+
+
 class EvidenceRecord(StrictModel):
     evidence_id: str
     scope: Literal["company", "macro"]
@@ -120,11 +127,21 @@ class EvidenceRecord(StrictModel):
     content_path: str | None = None
     event_type: str | None = None
     event_status: EventStatus | None = None
+    # Versioned SEC dataset metadata; preserve it through freezing and replay.
+    event_types: list[str] = Field(default_factory=list)
+    schema_version: int = Field(default=1, ge=1)
+    document_content_hash: str | None = None
+    accession_number: str | None = None
+    filing_form: str | None = None
+    exhibit_type: str | None = None
+    chunks: list[EvidenceChunk] = Field(default_factory=list)
 
     @model_validator(mode="after")
     def company_requires_symbol(self) -> EvidenceRecord:
         if self.scope == "company" and not self.symbol:
             raise ValueError("company evidence requires symbol")
+        if self.event_type is None and self.event_types:
+            self.event_type = self.event_types[0]
         return self
 
 

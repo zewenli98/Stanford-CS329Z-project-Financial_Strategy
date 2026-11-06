@@ -127,11 +127,16 @@ class RunWriter:
 
     @staticmethod
     def _fsync_file(path: Path) -> None:
-        with path.open("rb") as handle:
+        # Windows FlushFileBuffers requires a descriptor opened for writing.
+        with path.open("r+b") as handle:
             os.fsync(handle.fileno())
 
     @staticmethod
     def _fsync_directory(path: Path) -> None:
+        # Windows cannot open directories through os.open. Files have already been
+        # flushed and directory promotion is still atomic; POSIX also fsyncs metadata.
+        if os.name == "nt":
+            return
         descriptor = os.open(path, os.O_RDONLY)
         try:
             os.fsync(descriptor)

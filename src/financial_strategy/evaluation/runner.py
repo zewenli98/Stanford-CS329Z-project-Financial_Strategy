@@ -33,6 +33,12 @@ def _read_jsonl(path: Path) -> list[dict]:
 
 
 def run_evaluation(path: str | Path) -> tuple[Path, dict]:
+    from financial_strategy.adaptive.config import is_adaptive_config
+    from financial_strategy.config import _load_yaml
+    raw = _load_yaml(Path(path))
+    if is_adaptive_config(raw["screening_config"]):
+        from financial_strategy.adaptive.evaluation import run_adaptive_evaluation
+        return run_adaptive_evaluation(path)
     evaluation_config = load_evaluation_config(path)
     screening_path = evaluation_config.screening_config
     config = load_mvp_config(screening_path)

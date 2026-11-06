@@ -26,6 +26,10 @@ from financial_strategy.workflow import build_screening_graph
 
 
 def replay_run(run_dir: Path) -> list[dict]:
+    from financial_strategy.adaptive.config import is_adaptive_config
+    if is_adaptive_config(run_dir / "config.yaml"):
+        from financial_strategy.adaptive.replay import replay_adaptive
+        return replay_adaptive(run_dir)
     manifest = verify_manifest(run_dir)
     if manifest["status"] != "completed":
         raise AuditError("RUN_NOT_REPLAYABLE", str(run_dir))
