@@ -14,7 +14,7 @@ evaluation:
     - "2026-10-14"
   cutoff_time: "09:00:00"
   timezone: America/New_York
-  labels: data/2026-10-01_2026-10-14/evaluation/labels.parquet
+  labels: tests/fixtures/integration/evaluation/labels.parquet
   large_move_threshold: 0.02
   variants:
     - historical_volatility

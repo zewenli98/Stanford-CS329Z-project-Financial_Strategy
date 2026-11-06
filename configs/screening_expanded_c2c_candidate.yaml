@@ -1,0 +1,185 @@
+agents:
+  cache_path: cache/llm
+  company_max_tool_calls_per_symbol: 5
+  input_cost_per_million: 0.0
+  macro_max_tool_calls: 4
+  max_cost_usd: null
+  max_model_calls_per_symbol: 8
+  max_parallel_symbols: 2
+  max_total_input_tokens: null
+  max_total_model_calls: 170
+  max_total_output_tokens: null
+  max_total_tool_calls: 110
+  mode: scripted
+  model: scripted
+  output_cost_per_million: 0.0
+  provider: openrouter
+  recordings_path: data/2023-11-01_2026-10-30/llm/recordings
+  roles:
+    company_evidence:
+      max_tokens: 2048
+      model: null
+      prompt_version: company_v1
+    macro_evidence:
+      max_tokens: 2048
+      model: null
+      prompt_version: macro_v1
+    synthesis:
+      max_tokens: 2048
+      model: null
+      prompt_version: synthesis_v1
+    verifier:
+      max_tokens: 2048
+      model: null
+      prompt_version: verifier_v1
+calendar:
+  name: XNYS
+data:
+  company_evidence: data/2023-11-01_2026-10-30/company/evidence.jsonl
+  corporate_actions: data/2023-11-01_2026-10-30/market/corporate_actions.jsonl
+  input_adjustment_policy: raw_unadjusted
+  macro_documents: data/2023-11-01_2026-10-30/macro/documents
+  macro_events: data/2023-11-01_2026-10-30/macro/events.jsonl
+  market_bars: data/2023-11-01_2026-10-30/market/daily_bars.parquet
+  sector_exposures: configs/sector_exposures.json
+  snapshot_adjustment_policy: split_adjusted
+  universe: data/2023-11-01_2026-10-30/universe/symbols.json
+  zero_volume_policy: require_explicit_no_trade_status
+features:
+  imputation: none
+  required_complete_sessions: 21
+output:
+  runs_path: runs/expanded
+ranking:
+  anomaly_weights:
+    abs_distance_to_ma20: 0.25
+    abs_return_5d: 0.35
+    previous_session_relative_volume: 0.4
+  company_event:
+    confidence_factors:
+      high: 1.0
+      low: 0.5
+      medium: 0.75
+    recency:
+    - factor: 1.0
+      max_sessions: 1
+    - factor: 0.7
+      max_sessions: 3
+    - factor: 0.4
+      max_sessions: 7
+    status_factors:
+      no_event_found: 0.0
+      released_before_cutoff: 1.0
+      scheduled_after_close: 0.15
+      scheduled_before_open: 0.6
+      scheduled_during_session: 0.7
+      timing_unknown: 0.0
+    type_factors:
+      buyback: 0.75
+      cybersecurity: 0.9
+      dividend: 0.5
+      earnings: 1.0
+      financing: 0.75
+      guidance: 1.0
+      litigation_regulatory: 0.9
+      management_change: 0.5
+      merger_acquisition: 0.9
+      product: 0.3
+  final_weights:
+    anomaly: 0.4166666666666667
+    company_event: 0.0
+    macro: 0.0
+    volatility: 0.5833333333333334
+  macro:
+    confidence_factors:
+      high: 1.0
+      low: 0.5
+      medium: 0.75
+    exposure_method: sector_heuristic_v1
+    scheduled_strength:
+      scheduled_after_close: 0.15
+      scheduled_before_open: 0.5
+      scheduled_during_session: 0.5
+      timing_unknown: 0.0
+    supported_risk_factors:
+    - inflation
+    - interest_rates
+    - oil_prices
+    - usd
+    surprise_bins:
+      moderate_upper_exclusive: 2.0
+      small_upper_exclusive: 1.0
+    surprise_factors:
+      large: 1.0
+      moderate: 0.7
+      small: 0.4
+    surprise_scales:
+      cpi_yoy: 0.1
+      fed_rate: 25.0
+      gdp: 0.5
+      nonfarm_payrolls: 50.0
+      unemployment: 0.1
+  market_feature_weights:
+    atr_14d: 0.04913344837179619
+    distance_to_ma20: 0.01943693048450571
+    industry_residual_volatility_20d: 0.03132138252694663
+    market_residual_volatility_20d: 0.04225606767811267
+    median_abs_oc_return_10d: 0.03452031185703369
+    median_abs_oc_return_20d: 0.18664103074082028
+    median_abs_oc_return_5d: 0.023423539549202323
+    median_abs_oc_return_60d: 0.05159272864993319
+    median_range_20d: 0.04769336612311741
+    momentum_10d: 0.015248497245750512
+    momentum_20d: 0.009337404018801374
+    previous_session_relative_volume: 0.07817576084661004
+    realized_volatility_10d: 0.0412247751139715
+    realized_volatility_20d: 0.13076504945707973
+    realized_volatility_5d: 0.04144297339547526
+    realized_volatility_60d: 0.045577418820232224
+    return_5d: 0.04588721726771935
+    reversal_1d: 0.03455260218097478
+    robust_volume_zscore_20d: 0.03620614783306007
+    volatility_trend_5_20: 0.03556334783885708
+  minimum_score: 0.0
+  percentile:
+    singleton_value: 0.5
+    tie_method: average
+  residual_model:
+    coefficients: {}
+    enabled: false
+    feature_schema_hash: null
+    intercept: 0.0
+    market_score_calibration: none
+    max_abs_residual: 0.15
+    model_hash: null
+    version: llm_residual_v2
+  semantic_warning_penalty: 0.02
+  volatility_weights:
+    median_abs_oc_return_20d: 0.6
+    realized_volatility_20d: 0.4
+retrieval:
+  algorithm: bm25
+  b: 0.75
+  k1: 1.5
+  tokenizer_version: nfkc_alnum_v1
+  top_n: 8
+retry:
+  backoff_seconds:
+  - 1.0
+  - 2.0
+  structured_repair_max_retries: 1
+  technical_max_retries: 2
+revision:
+  max_rounds: 2
+screening:
+  anomaly_weight: 0.4
+  candidate_multiplier: 1
+  minimum_candidates: 50
+  volatility_weight: 0.6
+task:
+  decision_cutoff: '2026-10-30T09:00:00-04:00'
+  news_lookback_days: 7
+  price_lookback_sessions: 60
+  target_session: '2026-10-30'
+  top_k: 10
+  universe_snapshot_id: 2023-11-01_2026-10-30

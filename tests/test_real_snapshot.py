@@ -2,13 +2,14 @@ from __future__ import annotations
 
 import hashlib
 import json
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 import polars as pl
 
 ROOT = Path(__file__).resolve().parents[1]
-SNAPSHOT = ROOT / "data/2026-10-01_2026-10-14"
+SNAPSHOT = ROOT / "tests/fixtures/integration"
+CURRENT_SNAPSHOT = ROOT / "data/2023-11-01_2026-10-30"
 CUTOFF = datetime.fromisoformat("2026-10-14T09:00:00-04:00")
 EVALUATION_SESSIONS = [
     date(2026, 10, 1),
@@ -86,3 +87,145 @@ def test_real_snapshot_file_hashes_match_provenance() -> None:
         payload = (SNAPSHOT / relative_path).read_bytes()
         assert hashlib.sha256(payload).hexdigest() == metadata["sha256"]
         assert len(payload) == metadata["size_bytes"]
+
+
+def test_expanded_snapshot_has_chronological_train_validation_split() -> None:
+    bars = pl.read_parquet(CURRENT_SNAPSHOT / "market/daily_bars.parquet")
+    labels = pl.read_parquet(CURRENT_SNAPSHOT / "evaluation/labels.parquet")
+    splits = json.loads((CURRENT_SNAPSHOT / "splits.json").read_text())
+
+    assert bars.height == 167_400
+    assert bars["session"].n_unique() == 837
+    assert labels.height == 150_400
+    assert labels["session"].n_unique() == 752
+    assert len(splits["train_sessions"]) == 676
+    assert len(splits["validation_sessions"]) == 76
+    assert max(splits["train_sessions"]) < min(splits["validation_sessions"])
+    assert not set(splits["train_sessions"]) & set(splits["validation_sessions"])
+
+
+def test_expanded_snapshot_has_complete_macro_backfill() -> None:
+    company = read_jsonl(CURRENT_SNAPSHOT / "company/evidence.jsonl")
+    macro = read_jsonl(CURRENT_SNAPSHOT / "macro/events.jsonl")
+
+    assert len(company) == 14_383
+    assert len({item["evidence_id"] for item in company}) == len(company)
+    assert all(item["schema_version"] == 1 for item in company)
+    taxonomy = {
+        "earnings",
+        "guidance",
+        "merger_acquisition",
+        "buyback",
+        "dividend",
+        "financing",
+        "litigation_regulatory",
+        "management_change",
+        "product",
+        "cybersecurity",
+    }
+    assert all(set(item["event_types"]) <= taxonomy for item in company)
+    assert all("event_type" not in item for item in company)
+    classification_audit = json.loads(
+        (CURRENT_SNAPSHOT / "company/event_classification_audit.json").read_text()
+    )
+    assert classification_audit["record_count"] == len(company)
+    assert classification_audit["network_sources_added"] == 0
+    assert classification_audit["documents_modified"] == 0
+    document_paths = {item["content_path"] for item in company}
+    assert len(document_paths) == len(company)
+    assert all(
+        (CURRENT_SNAPSHOT / "company" / item["content_path"]).is_file()
+        for item in company
+    )
+    assert all(
+        hashlib.sha256(
+            (CURRENT_SNAPSHOT / "company" / item["content_path"]).read_bytes()
+        ).hexdigest()
+        == item["document_content_hash"]
+        for item in company
+    )
+    assert document_paths == {
+        f"documents/{path.name}"
+        for path in (CURRENT_SNAPSHOT / "company/documents").glob("*.txt")
+    }
+    assert len(macro) == 171
+    assert {item["snapshot_id"] for item in macro} == {
+        "2023-11-01_2026-10-30"
+    }
+    assert {
+        event_type: sum(
+            item["event_type"] == event_type
+            and item["status"] == "released_before_cutoff"
+            for item in macro
+        )
+        for event_type in {
+            "cpi_yoy",
+            "nonfarm_payrolls",
+            "unemployment",
+            "fed_rate",
+        }
+    } == {
+        "cpi_yoy": 39,
+        "nonfarm_payrolls": 39,
+        "unemployment": 39,
+        "fed_rate": 27,
+    }
+    assert sum(
+        item["status"] == "scheduled_during_session" for item in macro
+    ) == 27
+    assert all(item["timestamp_confidence"] == "low" for item in macro)
+    assert all(
+        datetime.fromisoformat(item["consensus_published_at"])
+        == datetime.fromisoformat(item["event_time"]) - timedelta(seconds=1)
+        for item in macro
+        if item["consensus"] is not None
+    )
+    assert any(
+        datetime.fromisoformat(item["event_time"]).date()
+        < date(2023, 11, 1)
+        for item in macro
+    )
+    assert all(
+        date(2023, 7, 1)
+        <= datetime.fromisoformat(item["event_time"]).date()
+        <= date(2026, 10, 30)
+        for item in macro
+    )
+    assert all(
+        (CURRENT_SNAPSHOT / "macro" / item["content_path"]).is_file()
+        for item in macro
+    )
+    audit = json.loads(
+        (CURRENT_SNAPSHOT / "macro/audit.json").read_text()
+    )
+    assert audit["distinct_release_sessions"] == 104
+    assert audit["released_event_counts"] == {
+        "cpi_yoy": 39,
+        "fed_rate": 27,
+        "nonfarm_payrolls": 39,
+        "unemployment": 39,
+    }
+    assert audit["secondary_assumed_pit_count"] == 171
+    assert audit["fallback_calendar_row_count"] == 4
+    assert audit["fallback_actual_override_count"] == 2
+    assert audit["missing_calendar_rows"] == []
+    fallback = {
+        (item["event_type"], item["event_time"][:10]): (
+            item["actual"],
+            item["consensus"],
+        )
+        for item in macro
+        if item["source_type"]
+        == "official_date_with_fallback_calendar_consensus"
+    }
+    assert fallback == {
+        ("nonfarm_payrolls", "2023-09-01"): (187.0, 170.0),
+        ("unemployment", "2023-09-01"): (3.8, 3.5),
+        ("cpi_yoy", "2023-10-12"): (3.7, 3.6),
+        ("cpi_yoy", "2025-05-13"): (2.3, 2.4),
+    }
+
+    manifest = json.loads((CURRENT_SNAPSHOT / "manifest.json").read_text())
+    for relative_path, expected_hash in manifest["file_sha256"].items():
+        payload = (CURRENT_SNAPSHOT / relative_path).read_bytes()
+        assert hashlib.sha256(payload).hexdigest() == expected_hash

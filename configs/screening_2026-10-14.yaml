@@ -10,12 +10,12 @@ calendar:
   name: XNYS
 
 data:
-  universe: data/2026-10-01_2026-10-14/universe/symbols.json
-  market_bars: data/2026-10-01_2026-10-14/market/daily_bars.parquet
-  corporate_actions: data/2026-10-01_2026-10-14/market/corporate_actions.jsonl
-  company_evidence: data/2026-10-01_2026-10-14/company/evidence.jsonl
-  macro_events: data/2026-10-01_2026-10-14/macro/events.jsonl
-  macro_documents: data/2026-10-01_2026-10-14/macro/documents
+  universe: tests/fixtures/integration/universe/symbols.json
+  market_bars: tests/fixtures/integration/market/daily_bars.parquet
+  corporate_actions: tests/fixtures/integration/market/corporate_actions.jsonl
+  company_evidence: tests/fixtures/integration/company/evidence.jsonl
+  macro_events: tests/fixtures/integration/macro/events.jsonl
+  macro_documents: tests/fixtures/integration/macro/documents
   sector_exposures: configs/sector_exposures.json
   input_adjustment_policy: split_adjusted
   snapshot_adjustment_policy: split_adjusted
@@ -32,7 +32,7 @@ screening:
   anomaly_weight: 0.40
 
 ranking:
-  minimum_score: 0.35
+  minimum_score: 0.0
   final_weights:
     volatility: 0.35
     anomaly: 0.25
@@ -60,13 +60,13 @@ ranking:
       earnings: 1.00
       guidance: 1.00
       merger_acquisition: 0.90
-      major_regulatory: 0.90
-      trading_halt: 0.90
+      buyback: 0.75
+      dividend: 0.50
       financing: 0.75
-      major_litigation: 0.75
-      product_safety: 0.75
+      litigation_regulatory: 0.90
       management_change: 0.50
-      routine_product_news: 0.30
+      product: 0.30
+      cybersecurity: 0.90
     confidence_factors:
       high: 1.00
       medium: 0.75
@@ -112,7 +112,7 @@ agents:
   mode: live
   provider: openrouter
   model: openai/gpt-5.6-luna
-  recordings_path: data/2026-10-01_2026-10-14/llm/recordings
+  recordings_path: tests/fixtures/integration/llm/recordings
   cache_path: cache/llm
   max_parallel_symbols: 2
   macro_max_tool_calls: 4

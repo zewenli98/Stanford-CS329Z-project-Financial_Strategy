@@ -1,4 +1,4 @@
-"""Write-once run publication with content hashes and atomic directory promotion."""
+"""Replaceable run publication with content hashes and staged directory promotion."""
 
 from __future__ import annotations
 
@@ -36,15 +36,13 @@ def file_sha256(path: Path) -> str:
 
 
 class RunWriter:
-    """Accumulate one run under .tmp and publish it exactly once."""
+    """Accumulate one run under .tmp and replace the current run on publish."""
 
     def __init__(self, runs_root: Path, run_id: str) -> None:
         self.runs_root = runs_root
         self.run_id = run_id
         self.final = runs_root / run_id
         self.temporary = runs_root / ".tmp" / f"{run_id}_{uuid4().hex}"
-        if self.final.exists():
-            raise AuditError("RUN_ALREADY_EXISTS", str(self.final))
         self.temporary.mkdir(parents=True, exist_ok=False)
 
     def write_json(self, relative: str, value: object) -> Path:
@@ -110,10 +108,9 @@ class RunWriter:
         self._fsync_file(self.temporary / "manifest.json.sha256")
         self._fsync_directory(self.temporary)
         self.runs_root.mkdir(parents=True, exist_ok=True)
-        try:
-            os.rename(self.temporary, self.final)
-        except FileExistsError as exc:
-            raise AuditError("RUN_ALREADY_EXISTS", str(self.final)) from exc
+        if self.final.exists():
+            shutil.rmtree(self.final)
+        os.rename(self.temporary, self.final)
         self._fsync_directory(self.runs_root)
         return self.final
 
@@ -147,6 +144,18 @@ def verify_manifest(run_dir: Path) -> dict:
     if file_sha256(manifest_path) != digest_path.read_text().strip():
         raise AuditError("ARTIFACT_HASH_MISMATCH", "manifest hash differs")
     manifest = json.loads(manifest_path.read_text())
+    expected_paths = {artifact["path"] for artifact in manifest["artifacts"]}
+    actual_paths = {
+        str(path.relative_to(run_dir))
+        for path in run_dir.rglob("*")
+        if path.is_file()
+        and path.name not in {"manifest.json", "manifest.json.sha256"}
+    }
+    if actual_paths != expected_paths:
+        raise AuditError(
+            "ARTIFACT_HASH_MISMATCH",
+            "run contains missing or unlisted files",
+        )
     for artifact in manifest["artifacts"]:
         path = run_dir / artifact["path"]
         if (

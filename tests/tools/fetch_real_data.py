@@ -1,4 +1,4 @@
-"""Build an immutable real-data snapshot for 2026-10-01 through 2026-10-14."""
+"""Build or replace the real-data snapshot for 2026-10-01 through 2026-10-14."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ import json
 import os
 import re
 import shutil
-from datetime import UTC, date, datetime, timedelta
+from datetime import UTC, date, datetime, time, timedelta
 from html.parser import HTMLParser
 from importlib.metadata import version
 from pathlib import Path
@@ -22,8 +22,9 @@ import polars as pl
 import yfinance as yf
 
 from financial_strategy.data.calendar import TradingCalendar
+from financial_strategy.data.company_events import classify_company_event
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[2]
 EVALUATION_SESSIONS = (
     date(2026, 10, 1),
     date(2026, 10, 2),
@@ -38,12 +39,14 @@ EVALUATION_SESSIONS = (
 )
 TARGET_SESSION = EVALUATION_SESSIONS[-1]
 EASTERN = ZoneInfo("America/New_York")
+CENTRAL = ZoneInfo("America/Chicago")
 DECISION_CUTOFF = datetime(2026, 10, 14, 9, 0, tzinfo=EASTERN)
 EARLIEST_DECISION_CUTOFF = datetime(2026, 10, 1, 9, 0, tzinfo=EASTERN)
 NEWS_START = EARLIEST_DECISION_CUTOFF - timedelta(days=7)
 LOOKBACK_SESSIONS = 60
 EXPECTED_SOURCE_SESSION_COUNT = 69
 SNAPSHOT_ID = "2026-10-01_2026-10-14_v1"
+TRAIN_SESSION_COUNT = 7
 
 SEC_USER_AGENT = os.environ.get(
     "SEC_USER_AGENT",
@@ -239,7 +242,7 @@ OFFICIAL_NEWS = {
             ),
             "published_at": "2026-10-13T00:00:00-04:00",
             "available_at": "2026-10-14T00:00:00-04:00",
-            "event_type": "earnings",
+            "event_types": ["earnings"],
         },
     ],
     "AAPL": [
@@ -359,6 +362,58 @@ def content_hash(value: str | bytes) -> str:
     return hashlib.sha256(raw).hexdigest()
 
 
+def configure_snapshot(
+    *,
+    evaluation_start: date,
+    evaluation_end: date,
+    lookback_sessions: int,
+    snapshot_id: str,
+    train_sessions: int,
+) -> None:
+    """Configure the fetch pipeline from explicit, reproducible CLI inputs."""
+
+    global EVALUATION_SESSIONS
+    global TARGET_SESSION
+    global DECISION_CUTOFF
+    global EARLIEST_DECISION_CUTOFF
+    global NEWS_START
+    global LOOKBACK_SESSIONS
+    global EXPECTED_SOURCE_SESSION_COUNT
+    global SNAPSHOT_ID
+    global TRAIN_SESSION_COUNT
+
+    calendar = TradingCalendar("XNYS")
+    sessions = tuple(
+        date.fromisoformat(item["session"])
+        for item in calendar.schedule_snapshot(evaluation_start, evaluation_end)
+    )
+    if len(sessions) < 2:
+        raise ValueError("evaluation range must contain at least two XNYS sessions")
+    if train_sessions <= 0 or train_sessions >= len(sessions):
+        raise ValueError("train_sessions must leave at least one validation session")
+    if lookback_sessions < 21:
+        raise ValueError("lookback_sessions must be at least 21")
+
+    EVALUATION_SESSIONS = sessions
+    TARGET_SESSION = sessions[-1]
+    DECISION_CUTOFF = datetime.combine(TARGET_SESSION, time(9, 0), EASTERN)
+    EARLIEST_DECISION_CUTOFF = datetime.combine(sessions[0], time(9, 0), EASTERN)
+    NEWS_START = EARLIEST_DECISION_CUTOFF - timedelta(days=7)
+    LOOKBACK_SESSIONS = lookback_sessions
+    SNAPSHOT_ID = snapshot_id
+    TRAIN_SESSION_COUNT = train_sessions
+
+    all_market_sessions = {
+        market_session
+        for evaluation_session in sessions
+        for market_session in calendar.completed_sessions_before(
+            datetime.combine(evaluation_session, time(9, 0), EASTERN),
+            lookback_sessions,
+        )
+    }
+    EXPECTED_SOURCE_SESSION_COUNT = len(all_market_sessions)
+
+
 def write_json(path: Path, value: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(value, indent=2, sort_keys=True, default=str) + "\n")
@@ -432,23 +487,18 @@ def filing_excerpt(text: str) -> str:
     return text[:600]
 
 
-def classify_event(title: str, text: str, form: str | None = None, items: str = "") -> str:
-    sample = f"{title} {text[:4000]}".lower()
-    if form in {"10-Q", "10-K"} or "2.02" in items or any(
-        term in sample for term in ("earnings", "quarterly results", "financial results")
-    ):
-        return "earnings"
-    if "guidance" in sample or "outlook" in sample:
-        return "guidance"
-    if any(term in sample for term in ("merger", "acquisition", "acquire")):
-        return "merger_acquisition"
-    if any(term in sample for term in ("regulator", "antitrust", "investigation")):
-        return "major_regulatory"
-    if any(term in sample for term in ("offering", "financing", "credit agreement")):
-        return "financing"
-    if any(term in sample for term in ("chief executive", "appoints", "resigns")):
-        return "management_change"
-    return "routine_product_news"
+def classify_event(
+    title: str, text: str, form: str | None = None, items: str = ""
+) -> list[str]:
+    classification_text = (
+        f"earnings results {text}" if "2.02" in items else text
+    )
+    classification = classify_company_event(
+        title=title,
+        text=classification_text,
+        filing_form=form,
+    )
+    return list(classification.event_types)
 
 
 def fetch_market(output: Path, calendar: TradingCalendar, retrieved_at: datetime) -> dict:
@@ -704,7 +754,7 @@ def fetch_sec_and_news(
                     "content_path": f"documents/{document_name}",
                     "event_status": "released_before_cutoff",
                     "event_time": accepted,
-                    "event_type": classify_event(
+                    "event_types": classify_event(
                         title, text, filing["form"], filing.get("items", "")
                     ),
                     "evidence_id": f"sec_{symbol.lower()}_{accession.replace('-', '')}",
@@ -726,83 +776,105 @@ def fetch_sec_and_news(
 
         query = f"{metadata['company_query']} sourcelang:english"
         gdelt_url = "https://api.gdeltproject.org/api/v2/doc/doc"
-        params = {
-            "query": query,
-            "mode": "artlist",
-            "maxrecords": 25,
-            "format": "json",
-            "sort": "datedesc",
-            "startdatetime": NEWS_START.astimezone(UTC).strftime("%Y%m%d%H%M%S"),
-            "enddatetime": DECISION_CUTOFF.astimezone(UTC).strftime("%Y%m%d%H%M%S"),
-        }
-        try:
-            gdelt_response = client.get(gdelt_url, params=params)
-            gdelt_response.raise_for_status()
-            gdelt_data = gdelt_response.json()
-        except (httpx.HTTPError, ValueError):
-            gdelt_data = {"articles": [], "retrieval_error": True}
-        write_json(raw_gdelt / f"{symbol.lower()}.json", gdelt_data)
         allowed_domains = set(metadata["official_domains"]) | SECONDARY_NEWS_DOMAINS
-        accepted_news = 0
-        for article in gdelt_data.get("articles", []):
-            if accepted_news >= 5:
-                break
-            article_url = article.get("url", "")
-            domain = urlparse(article_url).netloc or article.get("domain", "")
-            if not article_url or not domain_matches(domain, allowed_domains):
-                continue
+        seen_urls: set[str] = set()
+        window_start = NEWS_START.astimezone(UTC)
+        window_number = 0
+        while window_start < DECISION_CUTOFF.astimezone(UTC):
+            window_end = min(
+                window_start + timedelta(days=7),
+                DECISION_CUTOFF.astimezone(UTC),
+            )
+            params = {
+                "query": query,
+                "mode": "artlist",
+                "maxrecords": 25,
+                "format": "json",
+                "sort": "datedesc",
+                "startdatetime": window_start.strftime("%Y%m%d%H%M%S"),
+                "enddatetime": window_end.strftime("%Y%m%d%H%M%S"),
+            }
             try:
-                seen_at = parse_gdelt_datetime(article["seendate"])
-                article_response = client.get(article_url)
-                article_response.raise_for_status()
-                published_at = extract_published_at(article_response.text)
-                if published_at is None:
-                    continue
-                available_at = max(published_at, seen_at)
-                if not (
-                    NEWS_START.astimezone(UTC)
-                    <= published_at
-                    <= available_at
-                    <= DECISION_CUTOFF.astimezone(UTC)
+                gdelt_response = client.get(gdelt_url, params=params)
+                gdelt_response.raise_for_status()
+                gdelt_data = gdelt_response.json()
+            except (httpx.HTTPError, ValueError):
+                gdelt_data = {"articles": [], "retrieval_error": True}
+            write_json(
+                raw_gdelt / f"{symbol.lower()}_{window_number:03d}.json",
+                {
+                    "window_start": window_start,
+                    "window_end": window_end,
+                    **gdelt_data,
+                },
+            )
+            accepted_in_window = 0
+            for article in gdelt_data.get("articles", []):
+                if accepted_in_window >= 5:
+                    break
+                article_url = article.get("url", "")
+                domain = urlparse(article_url).netloc or article.get("domain", "")
+                if (
+                    not article_url
+                    or article_url in seen_urls
+                    or not domain_matches(domain, allowed_domains)
                 ):
                     continue
-                extractor = TextExtractor()
-                extractor.feed(article_response.text)
-                text = extractor.text()
-                if len(text) < 500:
+                try:
+                    seen_at = parse_gdelt_datetime(article["seendate"])
+                    article_response = client.get(article_url)
+                    article_response.raise_for_status()
+                    published_at = extract_published_at(article_response.text)
+                    if published_at is None:
+                        continue
+                    available_at = max(published_at, seen_at)
+                    if not (
+                        window_start
+                        <= published_at
+                        <= available_at
+                        <= window_end
+                    ):
+                        continue
+                    extractor = TextExtractor()
+                    extractor.feed(article_response.text)
+                    text = extractor.text()
+                    if len(text) < 500:
+                        continue
+                except (httpx.HTTPError, KeyError, ValueError):
                     continue
-            except (httpx.HTTPError, KeyError, ValueError):
-                continue
-            digest = content_hash(article_url)[:16]
-            document_name = f"news_{symbol.lower()}_{digest}.txt"
-            (documents / document_name).write_text(text + "\n")
-            title = normalize_text(article.get("title", "")) or f"{symbol} company news"
-            official = domain_matches(domain, set(metadata["official_domains"]))
-            evidence.append(
-                {
-                    "available_at": available_at,
-                    "content_hash": content_hash(text),
-                    "content_path": f"documents/{document_name}",
-                    "event_status": "released_before_cutoff",
-                    "event_time": published_at,
-                    "event_type": classify_event(title, text),
-                    "evidence_id": f"news_{symbol.lower()}_{digest}",
-                    "excerpt": text[:600],
-                    "first_seen_at": seen_at,
-                    "published_at": published_at,
-                    "retrieved_at": retrieved_at,
-                    "scope": "company",
-                    "snapshot_id": SNAPSHOT_ID,
-                    "source_name": domain.lower().removeprefix("www."),
-                    "source_type": "company_release" if official else "news_article",
-                    "source_url": article_url,
-                    "symbol": symbol,
-                    "timestamp_confidence": "high" if official else "medium",
-                    "title": title,
-                }
-            )
-            source_counts["web_news"] += 1
-            accepted_news += 1
+                digest = content_hash(article_url)[:16]
+                document_name = f"news_{symbol.lower()}_{digest}.txt"
+                (documents / document_name).write_text(text + "\n")
+                title = normalize_text(article.get("title", "")) or f"{symbol} company news"
+                official = domain_matches(domain, set(metadata["official_domains"]))
+                evidence.append(
+                    {
+                        "available_at": available_at,
+                        "content_hash": content_hash(text),
+                        "content_path": f"documents/{document_name}",
+                        "event_status": "released_before_cutoff",
+                        "event_time": published_at,
+                        "event_types": classify_event(title, text),
+                        "evidence_id": f"news_{symbol.lower()}_{digest}",
+                        "excerpt": text[:600],
+                        "first_seen_at": seen_at,
+                        "published_at": published_at,
+                        "retrieved_at": retrieved_at,
+                        "scope": "company",
+                        "snapshot_id": SNAPSHOT_ID,
+                        "source_name": domain.lower().removeprefix("www."),
+                        "source_type": "company_release" if official else "news_article",
+                        "source_url": article_url,
+                        "symbol": symbol,
+                        "timestamp_confidence": "high" if official else "medium",
+                        "title": title,
+                    }
+                )
+                seen_urls.add(article_url)
+                source_counts["web_news"] += 1
+                accepted_in_window += 1
+            window_start = window_end
+            window_number += 1
 
         for official_article in OFFICIAL_NEWS.get(symbol, []):
             article_url = official_article["url"]
@@ -838,8 +910,8 @@ def fetch_sec_and_news(
                     "content_path": f"documents/{document_name}",
                     "event_status": "released_before_cutoff",
                     "event_time": published_at,
-                    "event_type": official_article.get(
-                        "event_type", "routine_product_news"
+                    "event_types": official_article.get(
+                        "event_types", ["product"]
                     ),
                     "evidence_id": f"official_{symbol.lower()}_{digest}",
                     "excerpt": text[:600],
@@ -1057,8 +1129,24 @@ def fetch_macro(output: Path, client: httpx.Client, retrieved_at: datetime) -> d
         "title": "The Employment Situation - September 2026",
         "unit": "thousands_of_jobs",
     }
+    official_records = [payroll_record, cpi_record]
+    calendar_records = fetch_nasdaq_macro_calendar(
+        output,
+        client,
+        retrieved_at,
+    )
+    official_keys = {
+        (item["event_type"], str(item["event_time"])) for item in official_records
+    }
     records = sorted(
-        [payroll_record, cpi_record],
+        [
+            *official_records,
+            *[
+                item
+                for item in calendar_records
+                if (item["event_type"], str(item["event_time"])) not in official_keys
+            ],
+        ],
         key=lambda item: str(item["available_at"]),
     )
     write_jsonl(output / "macro/events.jsonl", records)
@@ -1079,9 +1167,129 @@ def fetch_macro(output: Path, client: httpx.Client, retrieved_at: datetime) -> d
     }
 
 
+def fetch_nasdaq_macro_calendar(
+    output: Path,
+    client: httpx.Client,
+    retrieved_at: datetime,
+) -> list[dict]:
+    """Fail closed for a current-view endpoint without historical version timestamps.
+
+    Nasdaq can be useful for discovery, but retrieving a historical row today does
+    not prove when that exact consensus or actual value first became available.
+    In particular, the endpoint may expose revised values. Those rows therefore
+    cannot become point-in-time evidence until an archived source supplies a
+    verifiable observation timestamp.
+    """
+
+    del client
+    verification_path = ROOT / "configs/manual_macro_verifications.json"
+    verification = json.loads(verification_path.read_text())
+    write_json(output / "macro/manual_macro_verifications.json", verification)
+    risk_factors = {
+        "fed_rate": ["interest_rates", "usd"],
+        "unemployment": ["interest_rates", "usd"],
+        "nonfarm_payrolls": ["interest_rates", "usd"],
+        "cpi_yoy": ["inflation", "interest_rates"],
+    }
+    units = {
+        "fed_rate": "basis_points",
+        "unemployment": "percentage_points",
+        "nonfarm_payrolls": "thousands_of_jobs",
+        "cpi_yoy": "percentage_points",
+    }
+    records: list[dict] = []
+    for item in verification["records"]:
+        event_time = datetime.fromisoformat(item["event_time"])
+        if not (
+            min(EVALUATION_SESSIONS) <= event_time.date() <= max(EVALUATION_SESSIONS)
+        ):
+            continue
+        event_type = item["event_type"]
+        assumed_consensus_time = event_time - timedelta(seconds=1)
+        record_hash = content_hash(
+            json.dumps(item, sort_keys=True, separators=(",", ":"))
+        )
+        document_name = f"{item['verification_id'].removeprefix('manual_')}.txt"
+        document_text = (
+            "Macro event record\n\n"
+            f"Event: {item['event_name']}\n"
+            f"Event type: {event_type}\n"
+            f"Event time (UTC): {item['event_time']}\n"
+            f"Actual: {item['actual_raw']}\n"
+            f"Consensus: {item['consensus_raw']}\n"
+            "Source: Nasdaq Economic Calendar\n"
+            f"Source URL: {item['source_url']}\n"
+            "\nData policy: actual and consensus are treated as true values "
+            "for research use.\n"
+        )
+        (output / "macro/documents" / document_name).write_text(document_text)
+        records.append(
+            {
+                "actual": parse_macro_number(item["actual_raw"], event_type),
+                "affected_risk_factors": risk_factors[event_type],
+                # This is an explicit research assumption, not a source-verified
+                # first-seen timestamp: actual is available at the event release,
+                # while consensus is assumed known immediately beforehand.
+                "available_at": event_time,
+                "consensus": parse_macro_number(item["consensus_raw"], event_type),
+                "consensus_content_hash": record_hash,
+                "consensus_published_at": assumed_consensus_time,
+                "consensus_source_name": "Nasdaq Economic Calendar",
+                "consensus_source_url": item["source_url"],
+                "content_hash": record_hash,
+                "content_path": f"documents/{document_name}",
+                "event_status": "released_before_cutoff",
+                "event_time": event_time,
+                "event_type": event_type,
+                "evidence_id": item["verification_id"],
+                "excerpt": (
+                    f"Manually verified values with assumed historical availability: "
+                    f"{item['event_name']} "
+                    f"actual {item['actual_raw']} versus consensus "
+                    f"{item['consensus_raw']}."
+                ),
+                "first_seen_at": event_time,
+                "published_at": event_time,
+                "retrieved_at": retrieved_at,
+                "scope": "macro",
+                "snapshot_id": SNAPSHOT_ID,
+                "source_name": "Nasdaq Economic Calendar",
+                "source_type": "manual_verified_assumed_pit",
+                "source_url": item["source_url"],
+                "status": "released_before_cutoff",
+                "symbol": None,
+                "timestamp_confidence": "low",
+                "title": item["event_name"],
+                "unit": units[event_type],
+            }
+        )
+    return records
+
+
+def parse_macro_number(value: str, event_type: str) -> float | None:
+    cleaned = normalize_text(value).replace(",", "")
+    if not cleaned or cleaned in {"&nbsp;", "-"}:
+        return None
+    multiplier = 1.0
+    if cleaned[-1:].upper() == "K":
+        cleaned = cleaned[:-1]
+    elif cleaned[-1:].upper() == "M":
+        cleaned = cleaned[:-1]
+        multiplier = 1000.0
+    elif cleaned[-1:].upper() == "B":
+        cleaned = cleaned[:-1]
+        multiplier = 1_000_000.0
+    cleaned = cleaned.rstrip("%")
+    try:
+        number = float(cleaned) * multiplier
+    except ValueError:
+        return None
+    return number * 100.0 if event_type == "fed_rate" else number
+
+
 def build_snapshot(final_path: Path) -> None:
     if final_path.exists():
-        raise FileExistsError(f"immutable snapshot already exists: {final_path}")
+        shutil.rmtree(final_path)
     temporary = final_path.parent / f".{final_path.name}.{uuid4().hex}.tmp"
     temporary.mkdir(parents=True)
     retrieved_at = datetime.now(UTC)
@@ -1101,6 +1309,20 @@ def build_snapshot(final_path: Path) -> None:
                 temporary, client, retrieved_at
             )
             macro_provenance = fetch_macro(temporary, client, retrieved_at)
+        train_sessions = EVALUATION_SESSIONS[:TRAIN_SESSION_COUNT]
+        validation_sessions = EVALUATION_SESSIONS[TRAIN_SESSION_COUNT:]
+        split_payload = {
+            "snapshot_id": SNAPSHOT_ID,
+            "strategy": "chronological_holdout",
+            "train_sessions": train_sessions,
+            "validation_sessions": validation_sessions,
+            "train_fraction": len(train_sessions) / len(EVALUATION_SESSIONS),
+            "validation_fraction": len(validation_sessions) / len(EVALUATION_SESSIONS),
+        }
+        split_payload["content_hash"] = content_hash(
+            json.dumps(split_payload, sort_keys=True, default=str)
+        )
+        write_json(temporary / "splits.json", split_payload)
         files = {}
         for path in sorted(temporary.rglob("*")):
             if path.is_file():
@@ -1134,8 +1356,13 @@ def build_snapshot(final_path: Path) -> None:
                         "conservatively treated as available at 00:00 ET the next day."
                     ),
                     (
-                        "This ten-session snapshot is an integration example, "
-                        "not a performance study."
+                        "Historical evidence coverage is limited to records whose "
+                        "point-in-time availability can be verified."
+                    ),
+                    (
+                        "Nasdaq historical calendar consensus values are retrieved after "
+                        "the event and may be revised; these records use medium timestamp "
+                        "confidence and should be tested in a no-macro ablation."
                     ),
                 ],
                 "files": files,
@@ -1153,9 +1380,29 @@ def main() -> None:
     parser.add_argument(
         "--output",
         type=Path,
-        default=ROOT / "data/2026-10-01_2026-10-14",
+        default=ROOT / "tests/fixtures/integration",
     )
+    parser.add_argument(
+        "--evaluation-start",
+        type=date.fromisoformat,
+        default=EVALUATION_SESSIONS[0],
+    )
+    parser.add_argument(
+        "--evaluation-end",
+        type=date.fromisoformat,
+        default=EVALUATION_SESSIONS[-1],
+    )
+    parser.add_argument("--lookback-sessions", type=int, default=LOOKBACK_SESSIONS)
+    parser.add_argument("--snapshot-id", default=SNAPSHOT_ID)
+    parser.add_argument("--train-sessions", type=int, default=TRAIN_SESSION_COUNT)
     args = parser.parse_args()
+    configure_snapshot(
+        evaluation_start=args.evaluation_start,
+        evaluation_end=args.evaluation_end,
+        lookback_sessions=args.lookback_sessions,
+        snapshot_id=args.snapshot_id,
+        train_sessions=args.train_sessions,
+    )
     build_snapshot(args.output.resolve())
     print(args.output.resolve())
 

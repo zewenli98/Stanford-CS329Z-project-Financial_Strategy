@@ -206,7 +206,10 @@ def run_evaluation(path: str | Path) -> tuple[Path, dict]:
             -required_sessions:
         ]
         recomputed, _rejected = compute_features(
-            snapshot_bars, expected_sessions, required_sessions
+            snapshot_bars,
+            expected_sessions,
+            required_sessions,
+            {symbol: item.sector for symbol, item in exposures.items()},
         )
         consistent = sum(
             symbol in recomputed

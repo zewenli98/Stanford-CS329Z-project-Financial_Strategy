@@ -17,6 +17,29 @@ from financial_strategy.verification.deterministic import verify_card
 from financial_strategy.workflow.state import SymbolResearchState
 
 
+def revision_target(report: VerificationReport) -> str:
+    """Route a business revision to the role that owns the failing field."""
+
+    codes = {issue.code for issue in report.issues}
+    if report.verdict == Verdict.ABSTAIN or "TIME_BOUNDARY_VIOLATION" in codes:
+        return "abstain"
+    evidence_owned_field = any(
+        issue.field.startswith(("claims", "events", "catalyst_assessment.metrics"))
+        for issue in report.issues
+    )
+    if "UNSUPPORTED_EVENT_STATUS" in codes or (
+        evidence_owned_field
+        and codes
+        & {
+            "MISSING_EVIDENCE",
+            "INVALID_NUMERIC_CLAIM",
+            "WRONG_CITATION",
+        }
+    ):
+        return "company"
+    return "synthesis"
+
+
 def build_symbol_graph(agents: AgentSuite):
     def company_node(state: SymbolResearchState) -> dict:
         output, invocation, traces = agents.company(
@@ -24,6 +47,7 @@ def build_symbol_graph(agents: AgentSuite):
             state["symbol"],
             list(state["snapshot"].company_evidence),
             state["snapshot"].snapshot_id,
+            state.get("revision_feedback"),
         )
         return {
             "company_output": output,
@@ -37,6 +61,7 @@ def build_symbol_graph(agents: AgentSuite):
             state["feature"],
             state["company_output"],
             state["macro_context"],
+            state.get("revision_feedback"),
         )
         card = ResearchCard(
             symbol=state["symbol"],
@@ -45,7 +70,10 @@ def build_symbol_graph(agents: AgentSuite):
             target_session=state["task"].target_session,
             features=state["feature"],
             events=state["company_output"].events,
-            claims=output.claims,
+            # Synthesis is interpretive only. Atomic facts remain exactly the
+            # normalized output of the evidence agent.
+            claims=state["company_output"].claims,
+            catalyst_assessment=output.catalyst_assessment,
             prediction=Prediction(
                 rationale=output.rationale,
                 counterarguments=output.counterarguments,
@@ -68,6 +96,9 @@ def build_symbol_graph(agents: AgentSuite):
             update["initial_card"] = card.model_copy(deep=True)
         if report.verdict == Verdict.REVISE:
             update["revision_round"] = state.get("revision_round", 0) + 1
+            update["revision_feedback"] = [
+                issue.model_dump(mode="json") for issue in report.issues
+            ]
         return update
 
     def route_deterministic(state: SymbolResearchState) -> str:
@@ -78,12 +109,7 @@ def build_symbol_graph(agents: AgentSuite):
             return "abstain"
         if state.get("revision_round", 0) > state["task"].max_revision_rounds:
             return "abstain"
-        codes = {issue.code for issue in report.issues}
-        if "TIME_BOUNDARY_VIOLATION" in codes:
-            return "abstain"
-        if codes & {"MISSING_EVIDENCE", "UNSUPPORTED_EVENT_STATUS"}:
-            return "company"
-        return "synthesis"
+        return revision_target(report)
 
     def semantic_node(state: SymbolResearchState) -> dict:
         evidence = [
@@ -97,8 +123,7 @@ def build_symbol_graph(agents: AgentSuite):
         )
         card = state["card"].model_copy(deep=True)
         card.semantic_verification = report
-        if report.verdict == Verdict.PASS:
-            card.eligibility = Eligibility(eligible=True)
+        card.eligibility = Eligibility(eligible=report.verdict == Verdict.PASS)
         update: dict = {
             "card": card,
             "semantic_report": report,
@@ -106,6 +131,9 @@ def build_symbol_graph(agents: AgentSuite):
         }
         if report.verdict == Verdict.REVISE:
             update["revision_round"] = state.get("revision_round", 0) + 1
+            update["revision_feedback"] = [
+                issue.model_dump(mode="json") for issue in report.issues
+            ]
         return update
 
     def route_semantic(state: SymbolResearchState) -> str:
@@ -116,14 +144,7 @@ def build_symbol_graph(agents: AgentSuite):
             return "abstain"
         if state.get("revision_round", 0) > state["task"].max_revision_rounds:
             return "abstain"
-        codes = {issue.code for issue in report.issues}
-        if "TIME_BOUNDARY_VIOLATION" in codes:
-            return "abstain"
-        if codes & {"MISSING_EVIDENCE", "UNSUPPORTED_EVENT_STATUS"}:
-            return "company"
-        if codes & {"BAD_INFERENCE", "WRONG_CITATION"}:
-            return "synthesis"
-        return "abstain"
+        return revision_target(report)
 
     def abstain_node(state: SymbolResearchState) -> dict:
         card = state["card"].model_copy(deep=True)
