@@ -29,6 +29,7 @@ from financial_strategy.config import (
 )
 from financial_strategy.errors import ConfigError
 from financial_strategy.evaluation.baselines import baseline_rankings
+from financial_strategy.evaluation.labels import range_ratio
 from financial_strategy.evaluation.metrics import evaluate_ranking
 from financial_strategy.features.engine import compute_features
 from financial_strategy.ranking.ranker import (
@@ -115,6 +116,16 @@ def run_tuning(config: TuningConfig) -> tuple[Path, dict]:
     if index.get("version") != 2 or index["split_hash"] != splits["content_hash"]:
         raise ConfigError("ARTIFACT_INDEX_MISMATCH", str(config.artifact_index))
     base = load_mvp_config(config.screening_config)
+    if (
+        base.ranking.market_feature_weights is not None
+        or base.ranking.volatility_weights is None
+        or base.ranking.anomaly_weights is None
+    ):
+        raise ConfigError(
+            "TUNING_REQUIRES_COMPONENT_RANKER",
+            "tune starts from volatility_weights and anomaly_weights, "
+            "with no market_feature_weights",
+        )
     if index["screening_config_hash"] != _screening_config_hash(base):
         raise ConfigError("ARTIFACT_INDEX_MISMATCH", "screening config hash differs")
     if index.get("data_hashes") != _screening_data_hashes(base):
@@ -157,9 +168,9 @@ def run_tuning(config: TuningConfig) -> tuple[Path, dict]:
         config.labels,
         expected_train,
         train_artifacts,
+        base.data.market_bars,
     )
-    search_macro_weight = any(artifact.macro_evidence for artifact in train_artifacts)
-    candidates = _parameter_candidates(base, config, search_macro_weight)
+    candidates = _parameter_candidates(base, config)
     scored_metrics: dict[str, tuple[CandidateParameters, dict[str, dict]]] = {}
     for parameters in candidates:
         metrics = _evaluate_parameters(
@@ -208,6 +219,7 @@ def run_tuning(config: TuningConfig) -> tuple[Path, dict]:
         config.labels,
         expected_validation,
         validation_artifacts,
+        base.data.market_bars,
     )
     validation_variants = _evaluate_validation_variants(
         validation_artifacts,
@@ -264,7 +276,8 @@ def run_tuning(config: TuningConfig) -> tuple[Path, dict]:
         "screening_config_hash": _screening_config_hash(base),
         "search": config.search.model_dump(mode="json"),
         "searchable_components": {
-            "macro_weight": search_macro_weight,
+            "company_event_weight": False,
+            "macro_weight": False,
             "macro_observation_count": sum(
                 len(artifact.macro_evidence) for artifact in train_artifacts
             ),
@@ -332,7 +345,9 @@ def run_train_cross_validation(config: TuningConfig) -> tuple[Path, dict]:
         raise ConfigError("ARTIFACT_INDEX_MISMATCH", str(config.artifact_index))
     sessions = list(splits["train_sessions"])
     artifacts = _load_artifacts(config, index, sessions)
-    labels = _load_and_validate_labels(config.labels, sessions, artifacts)
+    labels = _load_and_validate_labels(
+        config.labels, sessions, artifacts, base.data.market_bars
+    )
     reliability = _artifact_reliability(artifacts)
     if reliability["time_boundary_violation_rate"] != 0:
         raise ConfigError("TIME_BOUNDARY_VIOLATION", "train artifacts contain future evidence")
@@ -387,47 +402,17 @@ def run_train_cross_validation(config: TuningConfig) -> tuple[Path, dict]:
         config.search.bootstrap_samples,
         config.search.bootstrap_block_sessions,
     )
-    best_market_total = best.final_weights[0] + best.final_weights[1]
-    agent_anchor = CandidateParameters(
-        final_weights=(
-            best.final_weights[0] / best_market_total,
-            best.final_weights[1] / best_market_total,
-            0.0,
-            0.0,
-        ),
-        volatility_weights=best.volatility_weights,
-        anomaly_weights=best.anomaly_weights,
-        minimum_score=best.minimum_score,
-        candidate_count=best.candidate_count,
-    )
-    agent_anchor_metrics = _evaluate_parameters(
-        artifacts,
-        labels,
-        base,
-        agent_anchor,
-        config.large_move_threshold,
-    )
-    agent_residual_delta = _paired_metric_delta(
-        metrics,
-        agent_anchor_metrics,
-        "ndcg_at_k",
-        config.search.seed,
-        config.search.bootstrap_samples,
-        config.search.bootstrap_block_sessions,
-    )
-    agent_residual_ci = agent_residual_delta["95ci"]
-    agent_residual_promotable = bool(
-        best.final_weights[2] + best.final_weights[3] > 0
-        and agent_residual_ci is not None
-        and agent_residual_ci[0] > 0
-    )
-    promoted = best
-    promoted_metrics = metrics
+    # Company and macro final weights are fixed at zero: they do not enter the
+    # published score. Promotion is the learned feature-weight ranker, or the
+    # original component ranker when that model does not clear its gate.
     learned_promotable = learned_diagnostics["promotable"]
     market_total = (
         base.ranking.final_weights.volatility
         + base.ranking.final_weights.anomaly
     )
+    component_volatility = base.ranking.volatility_weights
+    component_anomaly = base.ranking.anomaly_weights
+    assert component_volatility is not None and component_anomaly is not None
     if learned_promotable:
         promoted = CandidateParameters(
             final_weights=(
@@ -436,15 +421,13 @@ def run_train_cross_validation(config: TuningConfig) -> tuple[Path, dict]:
                 0.0,
                 0.0,
             ),
-            volatility_weights=tuple(
-                base.ranking.volatility_weights.model_dump().values()
-            ),
-            anomaly_weights=tuple(base.ranking.anomaly_weights.model_dump().values()),
+            volatility_weights=tuple(component_volatility.model_dump().values()),
+            anomaly_weights=tuple(component_anomaly.model_dump().values()),
             minimum_score=base.ranking.minimum_score,
             candidate_count=max(config.search.candidate_counts),
         )
         promoted_metrics = learned_metrics
-    elif not agent_residual_promotable:
+    else:
         promoted = CandidateParameters(
             final_weights=(
                 base.ranking.final_weights.volatility / market_total,
@@ -452,10 +435,8 @@ def run_train_cross_validation(config: TuningConfig) -> tuple[Path, dict]:
                 0.0,
                 0.0,
             ),
-            volatility_weights=tuple(
-                base.ranking.volatility_weights.model_dump().values()
-            ),
-            anomaly_weights=tuple(base.ranking.anomaly_weights.model_dump().values()),
+            volatility_weights=tuple(component_volatility.model_dump().values()),
+            anomaly_weights=tuple(component_anomaly.model_dump().values()),
             minimum_score=0.0,
             candidate_count=max(config.search.candidate_counts),
         )
@@ -473,7 +454,11 @@ def run_train_cross_validation(config: TuningConfig) -> tuple[Path, dict]:
         candidate = candidate.model_copy(
             update={
                 "ranking": candidate.ranking.model_copy(
-                    update={"market_feature_weights": learned_mapping}
+                    update={
+                        "market_feature_weights": learned_mapping,
+                        "volatility_weights": None,
+                        "anomaly_weights": None,
+                    }
                 )
             }
         )
@@ -501,8 +486,8 @@ def run_train_cross_validation(config: TuningConfig) -> tuple[Path, dict]:
             config.search.bootstrap_block_sessions,
         ),
         "paired_ndcg_delta": residual_delta,
-        "agent_residual_delta": agent_residual_delta,
-        "agent_residual_promotable": agent_residual_promotable,
+        "agent_residual_delta": None,
+        "agent_residual_promotable": False,
         "learned_market_ranker": learned_diagnostics,
         "diagnostic_breakdowns": _diagnostic_breakdowns(
             metrics,
@@ -610,43 +595,52 @@ def _load_and_validate_labels(
     path: Path,
     sessions: list[str],
     artifacts: list[SessionArtifact],
+    market_bars: Path,
 ) -> dict[str, dict[str, float]]:
-    """Load only one split and require one finite positive-price label per symbol."""
+    """Load one split and require one finite intraday-range label per symbol."""
 
     frame = (
         pl.scan_parquet(path)
         .filter(pl.col("session").cast(pl.String).is_in(sessions))
         .collect()
     )
-    required_columns = {"session", "symbol", "open", "close"}
+    required_columns = {"session", "symbol"}
     if not required_columns <= set(frame.columns):
         raise ConfigError("INVALID_LABELS", "labels are missing required columns")
-    rows = frame.select(sorted(required_columns)).to_dicts()
+    rows = frame.select("session", "symbol").to_dicts()
     expected = {
         (artifact.session, symbol)
         for artifact in artifacts
         for symbol in artifact.features
     }
     seen: set[tuple[str, str]] = set()
-    labels: dict[str, dict[str, float]] = {}
     for row in rows:
         session = str(row["session"])
         key = (session, str(row["symbol"]))
         if key in seen:
             raise ConfigError("DUPLICATE_LABEL", f"{session}/{row['symbol']}")
         seen.add(key)
-        open_price = float(row["open"])
-        close_price = float(row["close"])
-        if (
-            not math.isfinite(open_price)
-            or not math.isfinite(close_price)
-            or open_price <= 0
-            or close_price <= 0
-        ):
-            raise ConfigError("INVALID_LABEL_VALUE", f"{session}/{row['symbol']}")
-        labels.setdefault(session, {})[str(row["symbol"])] = abs(
-            close_price / open_price - 1.0
-        )
+    bars = pl.read_parquet(market_bars).filter(
+        pl.col("session").cast(pl.String).is_in(sessions)
+    )
+    if not {"session", "symbol", "high", "low"} <= set(bars.columns):
+        raise ConfigError("INVALID_LABELS", "market bars are missing high/low")
+    prices: dict[tuple[str, str], tuple[float, float]] = {}
+    for row in bars.select("session", "symbol", "high", "low").iter_rows(named=True):
+        key = (str(row["session"]), str(row["symbol"]))
+        if key in prices:
+            raise ConfigError("DUPLICATE_LABEL", f"{key[0]}/{key[1]}")
+        try:
+            prices[key] = (float(row["high"]), float(row["low"]))
+        except (TypeError, ValueError) as exc:
+            raise ConfigError("INVALID_LABEL_VALUE", f"{key[0]}/{key[1]}") from exc
+    labels: dict[str, dict[str, float]] = {}
+    for session, symbol in seen:
+        price = prices.get((session, symbol))
+        ratio = None if price is None else range_ratio(*price)
+        if ratio is None:
+            raise ConfigError("INVALID_LABEL_VALUE", f"{session}/{symbol}")
+        labels.setdefault(session, {})[symbol] = ratio
     if seen != expected:
         missing = sorted(expected - seen)
         extra = sorted(seen - expected)
@@ -715,12 +709,23 @@ def _complete_validation_consumption(
 def _parameter_candidates(
     base: MVPConfig,
     config: TuningConfig,
-    search_macro_weight: bool = True,
 ) -> list[CandidateParameters]:
+    volatility_weights = base.ranking.volatility_weights
+    anomaly_weights = base.ranking.anomaly_weights
+    if (
+        volatility_weights is None
+        or anomaly_weights is None
+        or base.ranking.market_feature_weights is not None
+    ):
+        raise ConfigError(
+            "TUNING_REQUIRES_COMPONENT_RANKER",
+            "tune starts from volatility_weights and anomaly_weights, "
+            "with no market_feature_weights",
+        )
     base_parameters = CandidateParameters(
         final_weights=tuple(base.ranking.final_weights.model_dump().values()),
-        volatility_weights=tuple(base.ranking.volatility_weights.model_dump().values()),
-        anomaly_weights=tuple(base.ranking.anomaly_weights.model_dump().values()),
+        volatility_weights=tuple(volatility_weights.model_dump().values()),
+        anomaly_weights=tuple(anomaly_weights.model_dump().values()),
         minimum_score=base.ranking.minimum_score,
         candidate_count=max(
             base.screening.candidate_multiplier * base.task.top_k,
@@ -742,25 +747,11 @@ def _parameter_candidates(
     )
     values[json.dumps(anchor.as_dict(), sort_keys=True)] = anchor
     while len(values) < config.search.trials:
-        agent_total = rng.uniform(0.0, 0.20)
-        market_share = 1.0 - agent_total
         volatility_ratio = min(
             0.80,
             max(0.35, anchor_volatility + rng.uniform(-0.15, 0.15)),
         )
-        if search_macro_weight:
-            agent_split = _simplex(rng, 2)
-            company_weight = agent_total * agent_split[0]
-            macro_weight = agent_total * agent_split[1]
-        else:
-            company_weight = agent_total
-            macro_weight = 0.0
-        final_weights = (
-            market_share * volatility_ratio,
-            market_share * (1.0 - volatility_ratio),
-            company_weight,
-            macro_weight,
-        )
+        final_weights = (volatility_ratio, 1.0 - volatility_ratio, 0.0, 0.0)
         random_volatility = _simplex(rng, 2)
         volatility_weights = tuple(
             0.7 * base_value + 0.3 * random_value
@@ -799,7 +790,6 @@ def _simplex(rng: random.Random, size: int) -> tuple[float, ...]:
 def _apply_parameters(base: MVPConfig, parameters: CandidateParameters) -> MVPConfig:
     ranking = RankingConfig(
         minimum_score=parameters.minimum_score,
-        semantic_warning_penalty=base.ranking.semantic_warning_penalty,
         market_feature_weights=base.ranking.market_feature_weights,
         final_weights=WeightConfig(
             volatility=parameters.final_weights[0],
@@ -1026,20 +1016,18 @@ def _evaluate_validation_variants(
     candidate_count: int,
     large_move_threshold: float,
 ) -> dict[str, dict[str, dict]]:
-    variants: dict[str, dict[str, dict]] = {
-        name: {}
-        for name in (
-            "original_full_system",
-            "tuned_full_system",
-            "historical_volatility",
-            "historical_abs_oc",
-            "fixed_earnings_rule",
-            "no_agent_ranker",
-            "no_company_event",
-            "no_macro",
-            "no_semantic_verifier",
-        )
-    }
+    variant_names = [
+        "original_full_system",
+        "tuned_full_system",
+        "historical_volatility",
+        "historical_abs_oc",
+        "fixed_earnings_rule",
+        "no_agent_ranker",
+        "deterministic_event_baseline",
+    ]
+    if tuned.ranking.residual_model.enabled:
+        variant_names.extend(["no_company_event", "no_macro", "no_semantic_verifier"])
+    variants: dict[str, dict[str, dict]] = {name: {} for name in variant_names}
     for artifact in artifacts:
         base_v, base_a = market_components(artifact.features, base.ranking)
         tuned_v, tuned_a = market_components(artifact.features, tuned.ranking)
@@ -1095,11 +1083,14 @@ def _evaluate_validation_variants(
                 base,
             )
         )
-        for variant, variant_cards in (
-            ("no_company_event", cards),
-            ("no_macro", cards),
-            ("no_semantic_verifier", initial),
-        ):
+        ablations: list[tuple[str, list]] = []
+        if tuned.ranking.residual_model.enabled:
+            ablations = [
+                ("no_company_event", cards),
+                ("no_macro", cards),
+                ("no_semantic_verifier", initial),
+            ]
+        for variant, variant_cards in ablations:
             symbol_lists[variant] = [
                 item.symbol
                 for item in rank_cards(
@@ -1308,27 +1299,34 @@ def _learned_market_cv(
             )
             for symbol in artifact.features
         }
+    volatility_weights = base.ranking.volatility_weights
+    anomaly_weights = base.ranking.anomaly_weights
+    if volatility_weights is None or anomaly_weights is None:
+        raise ConfigError(
+            "TUNING_REQUIRES_COMPONENT_RANKER",
+            "the learned-ranker anchor is built from volatility_weights and anomaly_weights",
+        )
     anchor = np.zeros(len(MARKET_FEATURE_FIELDS), dtype=float)
     market_total = base.ranking.final_weights.volatility + base.ranking.final_weights.anomaly
     anchor[MARKET_FEATURE_FIELDS.index("median_abs_oc_return_20d")] = (
         base.ranking.final_weights.volatility
         / market_total
-        * base.ranking.volatility_weights.median_abs_oc_return_20d
+        * volatility_weights.median_abs_oc_return_20d
     )
     anchor[MARKET_FEATURE_FIELDS.index("realized_volatility_20d")] = (
         base.ranking.final_weights.volatility
         / market_total
-        * base.ranking.volatility_weights.realized_volatility_20d
+        * volatility_weights.realized_volatility_20d
     )
     anomaly_share = base.ranking.final_weights.anomaly / market_total
     anchor[MARKET_FEATURE_FIELDS.index("return_5d")] = (
-        anomaly_share * base.ranking.anomaly_weights.abs_return_5d
+        anomaly_share * anomaly_weights.abs_return_5d
     )
     anchor[MARKET_FEATURE_FIELDS.index("previous_session_relative_volume")] = (
-        anomaly_share * base.ranking.anomaly_weights.previous_session_relative_volume
+        anomaly_share * anomaly_weights.previous_session_relative_volume
     )
     anchor[MARKET_FEATURE_FIELDS.index("distance_to_ma20")] = (
-        anomaly_share * base.ranking.anomaly_weights.abs_distance_to_ma20
+        anomaly_share * anomaly_weights.abs_distance_to_ma20
     )
     variants: dict[str, dict] = {}
     schemes = (

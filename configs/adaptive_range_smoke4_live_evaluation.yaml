@@ -1,0 +1,21 @@
+screening_config: configs/adaptive_range_100_compact_live.yaml
+evaluation:
+  sessions:
+    - "2024-01-19"
+    - "2024-07-25"
+    - "2025-03-03"
+    - "2026-04-10"
+  cutoff_time: "09:00:00"
+  timezone: America/New_York
+  policies:
+    - baseline
+    - scenario
+  budgets_usd:
+    - 0.8
+  report_top_ks:
+    - 3
+    - 5
+    - 10
+  replicates: 1
+  aggregate_budget_usd: 3.2
+  large_move_threshold: 0.04

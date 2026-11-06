@@ -1,6 +1,7 @@
 # Adaptive daily-range research, version 1
 
-`adaptive_range_v1` is an opt-in experiment alongside the existing open-to-close workflow.
+`adaptive_range_v1` is an opt-in experiment alongside the ranking workflow. Both forecast
+the regular-session range, `(high - low) / low`.
 At a 9:00 a.m. America/New_York cutoff, it forecasts each eligible stock's same-day
 regular-session relative range and returns a configurable top-`k` watchlist. It does not
 execute trades. Working execution, bounded cost, evidence provenance, and reproducibility
@@ -41,9 +42,11 @@ it does not establish the order of those prices or an achievable trading return.
 
 Forecasts are finite, nonnegative expected ranges. Initially each forecast is the mean
 relative high/low range over the last 20 completed sessions. At least 21 complete sessions
-are required because the accompanying historical context also computes 20 close-to-close
-returns. No lognormal predictive-distribution assumption is imposed, and zero ranges are
-allowed. A baseline forecast of zero remains zero in hypothetical multiplicative scenarios.
+are required because the accompanying market-context features also compute 20
+close-to-close returns. Those returns are feature inputs. The forecast target remains
+the high-low range. No lognormal predictive-distribution assumption is imposed, and
+zero ranges are allowed. A baseline forecast of zero remains zero in hypothetical
+multiplicative scenarios.
 
 The workflow consumes the repository's frozen universe, daily OHLCV bars, corporate
 actions, company evidence, macro evidence, and local source documents. It retains the

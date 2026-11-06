@@ -34,10 +34,10 @@ screening:
 ranking:
   minimum_score: 0.0
   final_weights:
-    volatility: 0.35
-    anomaly: 0.25
-    company_event: 0.25
-    macro: 0.15
+    volatility: 0.5833333333333334
+    anomaly: 0.4166666666666667
+    company_event: 0.0
+    macro: 0.0
   volatility_weights:
     median_abs_oc_return_20d: 0.60
     realized_volatility_20d: 0.40
@@ -131,7 +131,7 @@ agents:
       prompt_version: company_v1
       max_tokens: 2048
     synthesis:
-      prompt_version: synthesis_v1
+      prompt_version: synthesis_v2
       max_tokens: 2048
     verifier:
       prompt_version: verifier_v1

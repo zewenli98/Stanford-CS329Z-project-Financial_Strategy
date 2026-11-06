@@ -6,7 +6,6 @@ never fills a missing target-session high/low with an open/close proxy.
 
 from __future__ import annotations
 
-import math
 from datetime import date
 from pathlib import Path
 from typing import Literal
@@ -16,6 +15,7 @@ import polars as pl
 from pydantic import Field
 
 from financial_strategy.errors import DataError
+from financial_strategy.evaluation.labels import range_ratio
 from financial_strategy.features.engine import compute_features
 from financial_strategy.schemas import FeatureRecord
 from financial_strategy.schemas.models import StrictModel
@@ -120,10 +120,11 @@ def derive_range_labels(
         seen.add(key)
         try:
             high, low = float(row["high"]), float(row["low"])
+            ratio = range_ratio(high, low)
         except (TypeError, ValueError):
             invalid.append({"session": row["session"].isoformat(), "symbol": row["symbol"]})
             continue
-        if not math.isfinite(high) or not math.isfinite(low) or low <= 0 or high < low:
+        if ratio is None:
             invalid.append({"session": row["session"].isoformat(), "symbol": row["symbol"]})
             continue
         found[key] = {
@@ -131,7 +132,7 @@ def derive_range_labels(
             "symbol": row["symbol"],
             "high": high,
             "low": low,
-            "range": (high - low) / low,
+            "range": ratio,
         }
     coverage = {
         "target": "(high-low)/low",

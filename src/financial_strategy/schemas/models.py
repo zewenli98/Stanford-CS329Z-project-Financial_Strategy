@@ -379,9 +379,9 @@ class CatalystAssessment(StrictModel):
     ] = Field(
         default="neutral",
         description=(
-            "Residual correction to expected absolute-movement rank, not price direction. "
-            "Negative and positive catalysts may both promote; encode direction only in "
-            "surprise_direction."
+            "Residual correction to the expected regular-session range rank, "
+            "(high - low) / low. Negative and positive catalysts may both promote "
+            "a wider range; encode price direction only in surprise_direction."
         ),
     )
     field_confidence: dict[str, Confidence] = Field(default_factory=dict)

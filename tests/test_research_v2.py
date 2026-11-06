@@ -106,6 +106,33 @@ def test_hybrid_candidates_are_history_and_dated_evidence_only():
     assert select_candidates(scores, records, CUTOFF, 2, "hybrid") == ["A", "B"]
 
 
+def test_event_uncertainty_keeps_only_names_with_current_filings():
+    scores = {"A": 0.08, "B": 0.02, "C": 0.05}
+    records = [
+        SimpleNamespace(
+            symbol="B",
+            available_at=CUTOFF - timedelta(hours=2),
+            event_types=["buyback"],
+            event_type="buyback",
+        ),
+        SimpleNamespace(
+            symbol="C",
+            available_at=CUTOFF - timedelta(hours=1),
+            event_types=["earnings"],
+            event_type="earnings",
+        ),
+    ]
+    selected = select_candidates(
+        scores,
+        records,
+        CUTOFF,
+        5,
+        "event_uncertainty",
+        {"B": 0.4, "C": 0.1},
+    )
+    assert selected == ["B", "C"]
+
+
 def test_history_baseline_uses_supplied_completed_history():
     bars = pl.DataFrame(
         [{"symbol": "A", "session": i, "low": 100.0, "high": 100.0 + i} for i in range(1, 22)]

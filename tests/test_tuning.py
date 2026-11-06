@@ -151,8 +151,17 @@ def test_tuning_is_reproducible_and_validation_is_consumed_once(
     _first_path, first = run_tuning(first_config)
     candidate = load_mvp_config(first_config.tuned_config_path.with_suffix(".candidate.yaml"))
     assert sum(candidate.ranking.final_weights.model_dump().values()) == pytest.approx(1.0)
-    assert sum(candidate.ranking.volatility_weights.model_dump().values()) == pytest.approx(1.0)
-    assert sum(candidate.ranking.anomaly_weights.model_dump().values()) == pytest.approx(1.0)
+    assert candidate.ranking.final_weights.company_event == 0.0
+    assert candidate.ranking.final_weights.macro == 0.0
+    if candidate.ranking.market_feature_weights is None:
+        assert candidate.ranking.volatility_weights is not None
+        assert candidate.ranking.anomaly_weights is not None
+        assert sum(candidate.ranking.volatility_weights.model_dump().values()) == pytest.approx(1.0)
+        assert sum(candidate.ranking.anomaly_weights.model_dump().values()) == pytest.approx(1.0)
+    else:
+        assert sum(candidate.ranking.market_feature_weights.values()) == pytest.approx(1.0)
+        assert candidate.ranking.volatility_weights is None
+        assert candidate.ranking.anomaly_weights is None
     assert first["validation"]["session_count"] == 1
     assert "original_full_system" in first["validation"]["variants"]
     assert "tuned_full_system" in first["validation"]["variants"]

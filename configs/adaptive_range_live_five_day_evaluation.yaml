@@ -13,4 +13,4 @@ evaluation:
   report_top_ks: [3, 5, 10]
   replicates: 1
   aggregate_budget_usd: 9.71616
-  large_move_threshold: 0.02
+  large_move_threshold: 0.04

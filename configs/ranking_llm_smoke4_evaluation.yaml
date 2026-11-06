@@ -1,0 +1,20 @@
+screening_config: configs/screening_research100_llm_smoke4.yaml
+
+evaluation:
+  sessions:
+    - "2024-01-19"
+    - "2024-07-25"
+    - "2025-03-03"
+    - "2026-04-10"
+  cutoff_time: "09:00:00"
+  timezone: America/New_York
+  labels: data/research100_v1/evaluation/labels.parquet
+  large_move_threshold: 0.04
+  variants:
+    - no_agent_ranker
+    - full_system
+  ndcg:
+    relevance: intraday_range
+    gain: linear
+    discount: log2
+    zero_idcg: null

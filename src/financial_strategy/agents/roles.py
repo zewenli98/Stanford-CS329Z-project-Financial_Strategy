@@ -198,8 +198,8 @@ def scripted_responder(role: str, payload: dict) -> dict:
                 "target_session_timing": "before_open",
             },
             "rationale": [
-                "Deterministic market features and verified events may support elevated "
-                "absolute open-to-close movement."
+                "Deterministic market features and verified events may support a wider "
+                "regular-session range, (high - low) / low."
             ],
             "counterarguments": [
                 "Historical volatility and event presence do not guarantee a large move."
@@ -361,6 +361,23 @@ class AgentSuite:
         if cached is not None and not revision_feedback:
             output, _traces = cached
             return output.model_copy(deep=True), [], []
+        if not any(item.symbol == symbol for item in evidence):
+            output = CompanyAgentOutput(
+                events=[],
+                claims=[
+                    Claim(
+                        claim_id="claim_retrieval_gap",
+                        text=(
+                            f"{CURRENT_RELEASE_NOT_IN_SNAPSHOT}: no company filing is "
+                            "available before the decision cutoff."
+                        ),
+                        claim_type=ClaimType.INFERENCE,
+                        evidence_ids=[],
+                    )
+                ],
+            )
+            self._company_retrieval[symbol] = (output.model_copy(deep=True), [])
+            return output, [], []
         invocations: list[InvocationResult] = []
         question_payload = {
             "op": "propose_question",
@@ -368,9 +385,11 @@ class AgentSuite:
             "task_id": task.task_id,
             "decision_cutoff": task.decision_cutoff.isoformat(),
             "instructions": (
-                "Ask one factual question about a current company event that could change "
-                "absolute movement or the regular-session range. Prefer current earnings "
-                "and guidance. Do not answer it, and do not ask about a prior quarter."
+                "Ask one factual question about a current company filing that could change "
+                "the regular-session range. Earnings, guidance, mergers, buybacks, financing, "
+                "litigation, management changes, cybersecurity, and product announcements all "
+                "qualify. Do not answer it, and do not ask about a prior quarter. If this "
+                "company has no filing in the supplied evidence, do not invent one."
             ),
         }
         question_call = self.client.generate(
@@ -395,12 +414,14 @@ class AgentSuite:
                 "evidence": [item.model_dump(mode="json") for item in hits],
                 "instructions": (
                     "Judge the retrieved passages against the question. company_match is true "
-                    "only when every passage is about this company. event_match is true only "
-                    "when a passage is about this event, not a prior quarter. sufficient is true "
-                    "only when those passages can answer the question. action is accept, rewrite, "
-                    "or record_gap. Rewrite at most once. If the current release is absent, gap "
-                    f"is {CURRENT_RELEASE_NOT_IN_SNAPSHOT}. On accept, list only the evidence_ids "
-                    "for the current event."
+                    "only when every passage is about this company. event_match is true when a "
+                    "passage is a current earnings, guidance, merger, buyback, financing, "
+                    "litigation, management, cybersecurity, or product filing, not a prior "
+                    "quarter. sufficient is true only when those passages can answer the "
+                    "question. action is accept, rewrite, or record_gap. Rewrite at most once. "
+                    "If no current material filing is present, do not rewrite; record gap "
+                    f"{CURRENT_RELEASE_NOT_IN_SNAPSHOT}. On accept, list only the evidence_ids "
+                    "for that current filing."
                 ),
             }
             invocation = self.client.generate(

@@ -128,11 +128,9 @@ def _feature() -> FeatureRecord:
     )
 
 
-def test_semantic_blocking_issue_penalizes_but_does_not_gate() -> None:
+def test_semantic_verdict_does_not_change_market_only_score() -> None:
     config = load_mvp_config(ROOT / "configs/screening_2026-10-14.yaml")
-    ranking = config.ranking.model_copy(
-        update={"minimum_score": 0.0, "semantic_warning_penalty": 0.02}
-    )
+    ranking = config.ranking.model_copy(update={"minimum_score": 0.0})
     card = ResearchCard(
         symbol="AAPL",
         task_id="task",

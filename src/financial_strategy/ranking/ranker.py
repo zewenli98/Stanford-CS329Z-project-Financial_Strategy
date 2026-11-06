@@ -123,6 +123,8 @@ def market_components(
             for symbol in features
         }
         return score, score.copy()
+    if config.volatility_weights is None or config.anomaly_weights is None:
+        raise ValueError("component market ranker requires volatility and anomaly weights")
     med_oc = average_percentiles(
         {symbol: item.median_abs_oc_return_20d for symbol, item in features.items()}, singleton
     )
@@ -292,35 +294,48 @@ def macro_score(
     context: MacroContext,
     exposure: SymbolMacroExposure,
     config: RankingConfig,
+    symbol_range: float | None = None,
 ) -> float:
+    """Score only a cited, same-session macro assessment, scaled by this stock's range."""
+
+    cited = {
+        evidence_id: assessment
+        for assessment in context.assessments
+        if assessment.evidence_ids
+        and assessment.target_session_relevance in {"medium", "high"}
+        and assessment.target_session_timing in {"before_open", "during_session"}
+        for evidence_id in assessment.evidence_ids
+    }
+    if not cited or symbol_range is None or symbol_range <= 0:
+        return 0.0
     macro = config.macro
+    range_factor = min(1.0, symbol_range / 0.04)
     scores: list[float] = []
     for event in context.events:
+        assessment = cited.get(event.evidence_id)
+        if assessment is None:
+            continue
         if (
             context.target_session is not None
             and event.event_time is not None
             and event.event_time.date() != context.target_session
         ):
             continue
-        confidence = macro.confidence_factors[event.timestamp_confidence.value]
-        if event.actual is not None and event.consensus is not None:
-            scale = macro.surprise_scales.get(event.event_type)
-            if scale is None:
-                continue
-            z_value = abs(event.actual - event.consensus) / scale
-            if z_value < macro.surprise_bins["small_upper_exclusive"]:
-                strength = macro.surprise_factors["small"]
-            elif z_value < macro.surprise_bins["moderate_upper_exclusive"]:
-                strength = macro.surprise_factors["moderate"]
-            else:
-                strength = macro.surprise_factors["large"]
-        else:
+        confidence = macro.confidence_factors[assessment.confidence.value]
+        surprise = assessment.standardized_surprise
+        if surprise is None:
             strength = macro.scheduled_strength.get(event.status.value, 0.0)
+        elif abs(surprise) < macro.surprise_bins["small_upper_exclusive"]:
+            strength = macro.surprise_factors["small"]
+        elif abs(surprise) < macro.surprise_bins["moderate_upper_exclusive"]:
+            strength = macro.surprise_factors["moderate"]
+        else:
+            strength = macro.surprise_factors["large"]
         factor_exposure = max(
-            (exposure.exposures.get(factor, 0.0) for factor in event.affected_risk_factors),
+            (exposure.exposures.get(factor, 0.0) for factor in assessment.affected_risk_factors),
             default=0.0,
         )
-        scores.append(strength * factor_exposure * confidence)
+        scores.append(strength * factor_exposure * confidence * range_factor)
     return max(scores, default=0.0)
 
 
@@ -384,12 +399,6 @@ def llm_residual_features(card: ResearchCard) -> dict[str, float]:
         "strong_promote": 1.0,
     }
     signed_bucket = bucket[assessment.signed_residual_bucket]
-    # The target is absolute movement, not return direction. Legacy synthesis
-    # prompts often encoded negative news as a negative rank correction even
-    # when the same card expected a large move. Do not let that directional
-    # polarity suppress an otherwise material absolute-move catalyst.
-    if assessment.surprise_direction == "negative" and signed_bucket < 0:
-        signed_bucket = abs(signed_bucket)
     metric_kinds = {metric.kind for metric in assessment.metrics}
     metric_values: dict[tuple[str, str, str], dict[str, float]] = {}
     for metric in assessment.metrics:
@@ -508,15 +517,9 @@ def signed_llm_residual(card: ResearchCard, config: RankingConfig) -> float:
 
 
 def macro_interaction_residual(card: ResearchCard, config: RankingConfig) -> float:
-    """Return a bounded independent macro uplift from frozen interactions."""
+    """No signed macro residual is applied until one is trained and calibrated."""
 
-    if not card.macro_interactions:
-        return 0.0
-    value = max(
-        (item.expected_abs_impact for item in card.macro_interactions),
-        default=0.0,
-    )
-    return min(config.residual_model.max_abs_residual, value)
+    return 0.0
 
 
 def rank_cards(
@@ -574,7 +577,12 @@ def rank_cards(
             else 0.0
         )
         macro_component = (
-            macro_score(macro_context, exposures[card.symbol], config)
+            macro_score(
+                macro_context,
+                exposures[card.symbol],
+                config,
+                card.features.median_range_20d,
+            )
             if agent_pass
             else 0.0
         )
@@ -583,9 +591,9 @@ def rank_cards(
         if variant == "no_macro":
             macro_component = 0.0
         market_score = market_scores[card.symbol]
-        residual_uplift = (
-            weights.company_event * event_component + weights.macro * macro_component
-        )
+        # Published order is the market score. The calibrated residual is the
+        # only agent term, and only while residual_model.enabled is true.
+        # Event and macro components remain on the audit record.
         company_residual = (
             signed_llm_residual(card, config)
             if variant != "no_company_event"
@@ -597,10 +605,7 @@ def rank_cards(
             else 0.0
         )
         learned_residual = company_residual + macro_residual
-        if config.residual_model.enabled:
-            score = market_score + learned_residual
-        else:
-            score = market_score + max(0.0, residual_uplift)
+        score = market_score + learned_residual if config.residual_model.enabled else market_score
         score = min(1.0, max(0.0, score))
         if score >= config.minimum_score:
             weighted.append(

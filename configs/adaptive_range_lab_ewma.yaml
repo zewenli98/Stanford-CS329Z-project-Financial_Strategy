@@ -12,7 +12,7 @@ data:
   market_bars: data/research100_v1/market/daily_bars.parquet
   corporate_actions: data/research100_v1/market/corporate_actions.jsonl
   company_evidence: data/2023-11-01_2026-10-30/company/evidence.jsonl
-  macro_events: data/research100_v1/macro/events.jsonl
+  macro_events: data/2023-11-01_2026-10-30/macro/events.jsonl
   macro_documents: data/2023-11-01_2026-10-30/macro/documents
   sector_exposures: configs/sector_exposures.json
   input_adjustment_policy: split_adjusted
@@ -29,10 +29,10 @@ screening:
 ranking:
   minimum_score: 0.35
   final_weights:
-    volatility: 0.35
-    anomaly: 0.25
-    company_event: 0.25
-    macro: 0.15
+    volatility: 0.5833333333333334
+    anomaly: 0.4166666666666667
+    company_event: 0.0
+    macro: 0.0
   volatility_weights:
     median_abs_oc_return_20d: 0.6
     realized_volatility_20d: 0.4

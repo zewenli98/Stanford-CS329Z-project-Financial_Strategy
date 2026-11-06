@@ -30,7 +30,7 @@ from scripts.train_expanded import _load_feature_cache
 ROOT = Path(__file__).resolve().parents[1]
 SHRINKAGES = (0.1, 1.0, 10.0)
 RESIDUAL_SCALES = (0.0, 0.25, 0.5, 0.75, 1.0)
-LARGE_MOVE_THRESHOLD = 0.05
+LARGE_MOVE_THRESHOLD = 0.04
 MARKET_SCORE_CALIBRATION = "cross_sectional_percentile"
 
 
@@ -39,7 +39,7 @@ def train_residual(
     output: Path | None = None,
     candidate_path: Path | None = None,
     *,
-    label_mode: RankLabelMode = "open_to_close",
+    label_mode: RankLabelMode = "intraday_range",
     base_config_path: Path | None = None,
     feature_cache_path: Path | None = None,
 ) -> tuple[Path, dict]:
@@ -68,7 +68,7 @@ def train_residual(
     # Labels are intentionally opened only after the immutable artifact hash check.
     dataset = ROOT / "data/2023-11-01_2026-10-30"
     base_config_path = (
-        base_config_path or ROOT / "configs/screening_expanded_candidate.yaml"
+        base_config_path or ROOT / "configs/screening_research100_candidate.yaml"
     ).resolve()
     feature_cache_path = (
         feature_cache_path
@@ -88,6 +88,11 @@ def train_residual(
     }
     sessions = list(split["train_sessions"])
     config = load_mvp_config(base_config_path)
+    if config.ranking.market_feature_weights is None:
+        raise ValueError(
+            "residual training requires market_feature_weights; "
+            "use configs/screening_research100_candidate.yaml"
+        )
     market_weights = np.asarray(
         [config.ranking.market_feature_weights[field] for field in MARKET_FEATURE_FIELDS]
     )
@@ -711,20 +716,9 @@ def _evaluate_sessions(
                     company_residual = float(
                         np.clip(intercept + vector @ coefficients, -0.15, 0.15)
                     )
-            macro_residual = (
-                min(
-                    max(
-                        (
-                            item.expected_abs_impact
-                            for item in card.macro_interactions
-                        ),
-                        default=0.0,
-                    ),
-                    0.15,
-                )
-                if channel in {"macro", "full"}
-                else 0.0
-            )
+            # Production has no trained signed macro residual yet. Keep this at
+            # zero so a nonnegative heuristic cannot bypass residual calibration.
+            macro_residual = 0.0
             residual = company_residual + macro_residual
             if residual == 0.0:
                 continue
@@ -913,8 +907,8 @@ def main() -> None:
     parser.add_argument("--candidate-path", type=Path, default=None)
     parser.add_argument(
         "--label-mode",
-        choices=("open_to_close", "prev_close_to_close"),
-        default="open_to_close",
+        choices=("intraday_range",),
+        default="intraday_range",
     )
     parser.add_argument("--base-config", type=Path, default=None)
     parser.add_argument("--feature-cache", type=Path, default=None)

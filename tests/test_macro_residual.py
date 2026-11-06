@@ -150,7 +150,7 @@ def test_macro_context_verifier_recomputes_surprise() -> None:
     assert {issue.code for issue in report.issues} == {"INVALID_NUMERIC_CLAIM"}
 
 
-def test_macro_residual_is_independent_of_company_assessment() -> None:
+def test_untrained_macro_residual_is_zero() -> None:
     config = load_mvp_config(ROOT / "configs/screening_2026-10-14.yaml")
     history = [_event(date(2024, 1, day)) for day in range(1, 9)]
     returns = {
@@ -185,7 +185,7 @@ def test_macro_residual_is_independent_of_company_assessment() -> None:
         macro_interactions=interaction,
     )
     assert card.catalyst_assessment is None
-    assert macro_interaction_residual(card, config.ranking) > 0
+    assert macro_interaction_residual(card, config.ranking) == 0
 
 
 def test_backfill_matches_us_fomc_and_annual_cpi_rows() -> None:

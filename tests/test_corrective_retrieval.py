@@ -11,6 +11,7 @@ from financial_strategy.evaluation.retrieval_accuracy import (
 from financial_strategy.llm import make_client
 from financial_strategy.retrieval.corrective import (
     CURRENT_RELEASE_NOT_IN_SNAPSHOT,
+    REWRITE_QUERY,
     RetrievalJudgment,
     coerce_judgment,
     dedupe_evidence,
@@ -89,6 +90,30 @@ def test_current_release_is_accepted_and_prior_quarter_is_not_written() -> None:
     ]
 
 
+def test_current_buyback_filing_is_accepted() -> None:
+    filing = _evidence(
+        "ev_buyback",
+        title="Issuer repurchase 8-K",
+        excerpt="The board authorized a share buyback.",
+        event_type="buyback",
+        event_types=["buyback"],
+    )
+    output, _invocations, traces = _suite().company(_task(), "AAPL", [filing], "snapshot")
+
+    assert traces[0]["judgment"]["action"] == "accept"
+    assert traces[0]["judgment"]["accepted_evidence_ids"] == ["ev_buyback"]
+    assert output.events
+
+
+def test_missing_filing_does_not_call_the_model() -> None:
+    output, invocations, traces = _suite().company(_task(), "AAPL", [], "snapshot")
+
+    assert invocations == []
+    assert traces == []
+    assert output.events == []
+    assert CURRENT_RELEASE_NOT_IN_SNAPSHOT in output.claims[0].text
+
+
 def test_prior_quarter_only_rewrites_once_then_records_the_gap() -> None:
     prior = _evidence(
         "ev_prior",
@@ -105,7 +130,7 @@ def test_prior_quarter_only_rewrites_once_then_records_the_gap() -> None:
     assert output.claims[0].evidence_ids == []
     assert CURRENT_RELEASE_NOT_IN_SNAPSHOT in output.claims[0].text
     assert [trace["judgment"]["action"] for trace in traces] == ["rewrite", "record_gap"]
-    assert traces[1]["query"] == "current earnings guidance 8-K"
+    assert traces[1]["query"] == REWRITE_QUERY
 
 
 def test_reprints_of_one_filing_do_not_consume_a_second_hit() -> None:
@@ -119,9 +144,7 @@ def test_reprints_of_one_filing_do_not_consume_a_second_hit() -> None:
     )
     assert [item.evidence_id for item in dedupe_evidence([reprint, filing])] == ["ev_filing"]
 
-    output, _invocations, traces = _suite().company(
-        _task(), "AAPL", [reprint, filing], "snapshot"
-    )
+    output, _invocations, traces = _suite().company(_task(), "AAPL", [reprint, filing], "snapshot")
     assert traces[0]["deduped_count"] == 1
     assert traces[0]["returned_evidence_ids"] == ["ev_filing"]
     assert [event.evidence_ids for event in output.events] == [["ev_filing"]]

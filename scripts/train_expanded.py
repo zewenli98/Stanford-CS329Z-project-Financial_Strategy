@@ -32,13 +32,13 @@ from financial_strategy.tuning.learning import (
 from financial_strategy.tuning.runner import _block_bootstrap_ci
 
 ROOT = Path(__file__).resolve().parents[1]
-LARGE_MOVE_THRESHOLD = 0.05
+LARGE_MOVE_THRESHOLD = 0.04
 
 
 def build_feature_cache(
     dataset: Path,
     output: Path,
-    label_mode: RankLabelMode = "open_to_close",
+    label_mode: RankLabelMode = "intraday_range",
 ) -> tuple[dict[str, dict[str, np.ndarray]], dict[str, dict[str, float]], dict]:
     bars = pl.read_parquet(dataset / "market/daily_bars.parquet")
     universe = json.loads((dataset / "universe/symbols.json").read_text())
@@ -51,7 +51,13 @@ def build_feature_cache(
     sectors = {
         item["symbol"]: item["sector"] for item in universe["securities"]
     }
-    labels = load_rank_labels(dataset, label_mode)
+    if label_mode != "intraday_range":
+        raise ValueError(f"unknown rank label mode: {label_mode}")
+    labels = {
+        session: values
+        for session, values in load_rank_labels(dataset, label_mode).items()
+        if session not in set(split["validation_sessions"])
+    }
     source_sessions = sorted(bars["session"].unique().to_list())
     session_position = {session: index for index, session in enumerate(source_sessions)}
     target_sessions = [
@@ -134,7 +140,7 @@ def _adjust_window(
 def _load_feature_cache(
     dataset: Path,
     cache_path: Path,
-    label_mode: RankLabelMode = "open_to_close",
+    label_mode: RankLabelMode = "intraday_range",
 ) -> tuple[dict[str, dict[str, np.ndarray]], dict[str, dict[str, float]], dict]:
     cache = pl.read_parquet(cache_path)
     vectors: dict[str, dict[str, np.ndarray]] = {}
@@ -171,7 +177,7 @@ def _load_feature_cache(
 def train_expanded(
     config_path: Path,
     *,
-    label_mode: RankLabelMode = "open_to_close",
+    label_mode: RankLabelMode = "intraday_range",
     output_dir: Path | None = None,
     feature_cache_path: Path | None = None,
     candidate_path: Path | None = None,
@@ -181,12 +187,15 @@ def train_expanded(
     dataset = ROOT / expansion["output_path"]
     split = json.loads((dataset / "splits.json").read_text())
     train_sessions = list(split["train_sessions"])
-    output_dir = (output_dir or ROOT / "runs/expanded_training").resolve()
+    holdout_sessions = set(split["validation_sessions"])
+    if set(train_sessions) & holdout_sessions:
+        raise ValueError("train sessions overlap the final 76-session test")
+    output_dir = (output_dir or ROOT / "runs/research100_training").resolve()
     feature_cache = (
         feature_cache_path or output_dir / "feature_cache.parquet"
     ).resolve()
     candidate_path = (
-        candidate_path or ROOT / "configs/screening_expanded_candidate.yaml"
+        candidate_path or ROOT / "configs/screening_research100_candidate.yaml"
     ).resolve()
     if feature_cache.exists():
         vectors, labels, feature_diagnostics = _load_feature_cache(
@@ -200,6 +209,11 @@ def train_expanded(
             feature_cache,
             label_mode,
         )
+    labels = {
+        session: values
+        for session, values in labels.items()
+        if session not in holdout_sessions
+    }
     base = load_mvp_config(ROOT / "configs/screening_train_validation.yaml")
     anchor = _anchor_weights(base)
     baseline = _baseline_metrics(
@@ -383,6 +397,10 @@ def train_expanded(
 
 
 def _anchor_weights(base: object) -> np.ndarray:
+    volatility_weights = base.ranking.volatility_weights
+    anomaly_weights = base.ranking.anomaly_weights
+    if volatility_weights is None or anomaly_weights is None:
+        raise ValueError("expanded training starts from the component market ranker")
     weights = np.zeros(len(MARKET_FEATURE_FIELDS), dtype=float)
     market_total = (
         base.ranking.final_weights.volatility
@@ -394,25 +412,25 @@ def _anchor_weights(base: object) -> np.ndarray:
         "median_abs_oc_return_20d": (
             volatility_share
             * 0.5
-            * base.ranking.volatility_weights.median_abs_oc_return_20d
+            * volatility_weights.median_abs_oc_return_20d
         ),
         "realized_volatility_20d": (
             volatility_share
             * 0.5
-            * base.ranking.volatility_weights.realized_volatility_20d
+            * volatility_weights.realized_volatility_20d
         ),
         "return_5d": (
-            anomaly_share * 0.5 * base.ranking.anomaly_weights.abs_return_5d
+            anomaly_share * 0.5 * anomaly_weights.abs_return_5d
         ),
         "previous_session_relative_volume": (
             anomaly_share
             * 0.5
-            * base.ranking.anomaly_weights.previous_session_relative_volume
+            * anomaly_weights.previous_session_relative_volume
         ),
         "distance_to_ma20": (
             anomaly_share
             * 0.5
-            * base.ranking.anomaly_weights.abs_distance_to_ma20
+            * anomaly_weights.abs_distance_to_ma20
         ),
     }
     enhanced_volatility = (
@@ -661,10 +679,13 @@ def _write_candidate_config(
     dataset: Path,
 ) -> None:
     payload = base.model_dump(mode="json")
-    final_session = expansion["evaluation_end"]
+    split = json.loads((dataset / "splits.json").read_text())
+    universe = json.loads((dataset / "universe/symbols.json").read_text())
+    final_session = expansion.get("evaluation_end") or split["validation_sessions"][-1]
     payload["task"].update(
         {
-            "universe_snapshot_id": expansion["snapshot_id"],
+            "universe_snapshot_id": expansion.get("snapshot_id")
+            or universe["snapshot_id"],
             "target_session": final_session,
             "decision_cutoff": datetime.combine(
                 date.fromisoformat(final_session),
@@ -680,11 +701,6 @@ def _write_candidate_config(
             "universe": str(relative / "universe/symbols.json"),
             "market_bars": str(relative / "market/daily_bars.parquet"),
             "corporate_actions": str(relative / "market/corporate_actions.jsonl"),
-            "company_evidence": str(relative / "company/evidence.jsonl"),
-            "macro_events": str(relative / "macro/events.jsonl"),
-            "macro_documents": str(relative / "macro/documents"),
-            "input_adjustment_policy": "raw_unadjusted",
-            "snapshot_adjustment_policy": "split_adjusted",
         }
     )
     payload["screening"].update(
@@ -697,6 +713,9 @@ def _write_candidate_config(
     payload["ranking"]["market_feature_weights"] = dict(
         zip(MARKET_FEATURE_FIELDS, weights.tolist(), strict=True)
     )
+    payload["ranking"].pop("volatility_weights", None)
+    payload["ranking"].pop("anomaly_weights", None)
+    payload["ranking"].pop("semantic_warning_penalty", None)
     payload["ranking"]["final_weights"] = {
         "volatility": 0.5833333333333334,
         "anomaly": 0.4166666666666667,
@@ -731,17 +750,68 @@ def _write_json_atomic(path: Path, payload: dict) -> None:
         Path(temporary_name).unlink(missing_ok=True)
 
 
+def evaluate_frozen_holdout(
+    config_path: Path,
+    *,
+    output_dir: Path | None = None,
+    feature_cache_path: Path | None = None,
+) -> tuple[Path, dict]:
+    """Score a finished training report on the final 76 sessions without refitting."""
+
+    expansion = yaml.safe_load(config_path.read_text())
+    dataset = ROOT / expansion["output_path"]
+    split = json.loads((dataset / "splits.json").read_text())
+    holdout_sessions = list(split["validation_sessions"])
+    output_dir = (output_dir or ROOT / "runs/research100_training").resolve()
+    report_path = output_dir / "train_cv_report.json"
+    if not report_path.exists():
+        raise FileNotFoundError(f"train on the 676 sessions before testing: {report_path}")
+    training = json.loads(report_path.read_text())
+    feature_cache = (feature_cache_path or output_dir / "feature_cache.parquet").resolve()
+    vectors, labels, _diagnostics = _load_feature_cache(
+        dataset, feature_cache, "intraday_range"
+    )
+    missing = [session for session in holdout_sessions if session not in vectors]
+    if missing:
+        raise ValueError(f"feature cache has no holdout sessions, first missing {missing[0]}")
+    weights = np.asarray(
+        [training["winner_weights"][field] for field in MARKET_FEATURE_FIELDS],
+        dtype=float,
+    )
+    metrics = _evaluate(
+        holdout_sessions,
+        vectors,
+        labels,
+        weights,
+        expansion["top_k"],
+        LARGE_MOVE_THRESHOLD,
+    )
+    report = {
+        "dataset": str(dataset),
+        "label": "(high-low)/low",
+        "session_count": len(holdout_sessions),
+        "first_session": holdout_sessions[0],
+        "last_session": holdout_sessions[-1],
+        "source_training_report": str(report_path),
+        "metrics": _summary(metrics),
+        "refit": False,
+    }
+    destination = output_dir / "holdout_report.json"
+    _write_json_atomic(destination, report)
+    return destination, report
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument(
         "--config",
         type=Path,
-        default=ROOT / "configs/data_expansion.yaml",
+        default=ROOT / "configs/research100_study.yaml",
     )
     parser.add_argument(
-        "--label-mode",
-        choices=("open_to_close", "prev_close_to_close"),
-        default="open_to_close",
+        "--holdout",
+        action="store_true",
+        help="Score the frozen training report on the final 76 sessions without refitting.",
     )
     parser.add_argument("--output-directory", type=Path, default=None)
     parser.add_argument("--feature-cache", type=Path, default=None)
@@ -752,9 +822,16 @@ def main() -> None:
         help="Write the train-only winner for an explicitly experimental candidate.",
     )
     args = parser.parse_args()
+    if args.holdout:
+        path, report = evaluate_frozen_holdout(
+            args.config,
+            output_dir=args.output_directory,
+            feature_cache_path=args.feature_cache,
+        )
+        print(json.dumps({"report": str(path), "session_count": report["session_count"]}))
+        return
     path, report = train_expanded(
         args.config,
-        label_mode=args.label_mode,
         output_dir=args.output_directory,
         feature_cache_path=args.feature_cache,
         candidate_path=args.candidate_path,

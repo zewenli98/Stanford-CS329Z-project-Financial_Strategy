@@ -72,7 +72,7 @@ def generate_artifacts(
     reuse_directory: Path | None = None,
 ) -> tuple[Path, dict]:
     base_config_path = (
-        base_config_path or ROOT / "configs/screening_expanded_candidate.yaml"
+        base_config_path or ROOT / "configs/screening_train_validation.yaml"
     ).resolve()
     candidate_cards_path = (
         candidate_cards_path

@@ -14,9 +14,9 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 import numpy as np
-import polars as pl
 
 from financial_strategy.config import load_mvp_config
+from financial_strategy.evaluation.labels import load_rank_labels
 from financial_strategy.evaluation.metrics import evaluate_ranking
 from financial_strategy.macro import build_macro_interactions
 from financial_strategy.ranking.ranker import MARKET_FEATURE_FIELDS
@@ -30,7 +30,7 @@ from scripts.train_expanded import _load_feature_cache
 ROOT = Path(__file__).resolve().parents[1]
 EASTERN = ZoneInfo("America/New_York")
 WEIGHTS = (0.0, 0.05, 0.1, 0.2, 0.4, 0.6, 0.8, 1.0)
-LARGE_MOVE_THRESHOLD = 0.05
+LARGE_MOVE_THRESHOLD = 0.04
 
 
 def _atomic_json(path: Path, value: object) -> None:
@@ -254,22 +254,19 @@ def run_experiment(
         for line in (macro_fixture / "events.jsonl").read_text().splitlines()
         if line
     ]
-    dataset = ROOT / "data/2023-11-01_2026-10-30"
+    dataset = ROOT / "data/research100_v1"
     vectors, labels, _ = _load_feature_cache(
         dataset,
-        ROOT / "runs/expanded_training/feature_cache.parquet",
+        ROOT / "runs/research100_training/feature_cache.parquet",
     )
     split = json.loads((dataset / "splits.json").read_text())
     train_sessions = list(split["train_sessions"])
     train_set = set(train_sessions)
-    label_frame = pl.read_parquet(dataset / "evaluation/labels.parquet")
-    signed_returns: dict[str, dict[str, float]] = {}
-    for row in label_frame.iter_rows(named=True):
-        session = row["session"].isoformat()
-        if session in train_set:
-            signed_returns.setdefault(session, {})[row["symbol"]] = (
-                row["close"] - row["open"]
-            ) / row["open"]
+    signed_returns = {
+        session: values
+        for session, values in load_rank_labels(dataset).items()
+        if session in train_set
+    }
 
     universe = json.loads((dataset / "universe/symbols.json").read_text())
     sectors = {item["symbol"]: item["sector"] for item in universe["securities"]}
@@ -286,7 +283,12 @@ def run_experiment(
         )
         for symbol, sector in sectors.items()
     }
-    config = load_mvp_config(ROOT / "configs/screening_expanded_candidate.yaml")
+    config = load_mvp_config(ROOT / "configs/screening_research100_candidate.yaml")
+    if config.ranking.market_feature_weights is None:
+        raise ValueError(
+            "macro residual evaluation requires market_feature_weights; "
+            "use configs/screening_research100_candidate.yaml"
+        )
     weights = np.asarray(
         [
             config.ranking.market_feature_weights[field]

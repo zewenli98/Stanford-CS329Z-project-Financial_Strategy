@@ -29,10 +29,10 @@ screening:
 ranking:
   minimum_score: 0.35
   final_weights:
-    volatility: 0.35
-    anomaly: 0.25
-    company_event: 0.25
-    macro: 0.15
+    volatility: 0.5833333333333334
+    anomaly: 0.4166666666666667
+    company_event: 0.0
+    macro: 0.0
   volatility_weights:
     median_abs_oc_return_20d: 0.6
     realized_volatility_20d: 0.4

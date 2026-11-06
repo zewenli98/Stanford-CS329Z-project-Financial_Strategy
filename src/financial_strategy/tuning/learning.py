@@ -10,7 +10,7 @@ def transform_rank_target(
     values: np.ndarray,
     scheme: str,
     *,
-    large_move_threshold: float = 0.05,
+    large_move_threshold: float = 0.04,
 ) -> np.ndarray:
     """Apply one of the four pre-registered absolute-return target definitions."""
 

@@ -21,7 +21,7 @@ from financial_strategy.data.providers import (
 from financial_strategy.features.engine import compute_features
 from financial_strategy.llm import make_client
 from financial_strategy.ranking.ranker import market_components
-from financial_strategy.ranking.screen import coarse_screen
+from financial_strategy.ranking.screen import multi_channel_screen
 from financial_strategy.schemas import Verdict
 from financial_strategy.task.validator import validate_and_freeze_task
 from financial_strategy.workflow import build_screening_graph
@@ -37,12 +37,21 @@ def run_screening(
     *,
     run_id: str | None = None,
     task_overrides: dict | None = None,
+    cache_namespace: str | None = None,
 ) -> tuple[Path, list[dict]]:
     from financial_strategy.adaptive.config import is_adaptive_config
     if is_adaptive_config(config_path):
         from financial_strategy.adaptive.service import run_adaptive
         return run_adaptive(config_path, run_id=run_id, task_overrides=task_overrides)
     config = load_mvp_config(config_path)
+    if cache_namespace is not None:
+        config = config.model_copy(
+            update={
+                "agents": config.agents.model_copy(
+                    update={"cache_path": config.agents.cache_path / cache_namespace}
+                )
+            }
+        )
     if task_overrides:
         config = config.model_copy(
             update={"task": config.task.model_copy(update=task_overrides)}
@@ -88,11 +97,16 @@ def run_screening(
             {item.symbol: item.sector for item in exposures},
         )
         volatility, anomaly = market_components(features, config.ranking)
-        candidates, coarse_scores = coarse_screen(
+        candidates, coarse_scores, screening_audit = multi_channel_screen(
             volatility,
             anomaly,
             task.top_k,
             config.screening,
+            config.ranking,
+            snapshot.company_evidence,
+            snapshot.macro_evidence,
+            snapshot.exposures,
+            task.decision_cutoff,
         )
 
         # Freeze deterministic inputs before the graph starts. If an Agent fails, the
@@ -153,6 +167,7 @@ def run_screening(
                 "coarse_scores": coarse_scores,
                 "rejected": rejected,
                 "warnings": warnings,
+                "candidate_union": screening_audit,
             },
         )
 

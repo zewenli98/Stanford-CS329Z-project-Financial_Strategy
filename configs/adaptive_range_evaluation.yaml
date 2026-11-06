@@ -13,7 +13,7 @@ evaluation:
   - '2026-10-14'
   cutoff_time: 09:00:00
   timezone: America/New_York
-  large_move_threshold: 0.02
+  large_move_threshold: 0.04
   policies:
   - baseline
   - history_only

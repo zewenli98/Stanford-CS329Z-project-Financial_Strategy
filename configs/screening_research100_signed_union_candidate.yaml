@@ -1,0 +1,26 @@
+extends: screening_research100_candidate.yaml
+
+# Candidate only: no promotable signed residual artifact is currently configured.
+# Disabled residual is intentionally market-only; LLM output remains explanation/audit only.
+ranking:
+  residual_model:
+    enabled: false
+    version: llm_residual_v3_calibrated_candidate
+    market_score_calibration: none
+    coefficients: {}
+    intercept: 0.0
+    max_abs_residual: 0.15
+    feature_schema_hash: null
+    model_hash: null
+
+screening:
+  candidate_union:
+    enabled: true
+    seed: 329
+    total_cap: 30
+    market_top: {limit: 20}
+    boundary: {limit: 5}
+    recent_event: {limit: 10}
+    scheduled_catalyst: {limit: 10}
+    macro_exposure: {limit: 5}
+    random_exploration: {limit: 5}

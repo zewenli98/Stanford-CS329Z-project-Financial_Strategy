@@ -28,7 +28,7 @@ python scripts/prepare_research100.py --compact
 The fixed universe uses the 100 highest median dollar-volume stocks over the first
 60 pre-evaluation sessions. Price values remain unchanged. The script checks every
 recorded split before declaring the already-adjusted vendor series split-adjusted.
-Only high-confidence macro records qualify; none qualified in the evaluated archive.
+Study runs read the expanded macro archive, including CPI, payrolls, unemployment, FOMC, and the added DGS2, DGS10, and VIX series. The research subset's own macro file only keeps high-confidence records and is empty.
 
 Run deterministic checks before using a provider:
 

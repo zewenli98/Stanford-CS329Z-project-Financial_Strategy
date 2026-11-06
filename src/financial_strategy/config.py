@@ -179,11 +179,10 @@ class ResidualModelConfig(ConfigModel):
 
 class RankingConfig(ConfigModel):
     minimum_score: float = Field(ge=0, le=1)
-    semantic_warning_penalty: float = Field(default=0.02, ge=0, le=0.20)
     market_feature_weights: dict[str, float] | None = None
     final_weights: WeightConfig
-    volatility_weights: PairWeightConfig
-    anomaly_weights: AnomalyWeightConfig
+    volatility_weights: PairWeightConfig | None = None
+    anomaly_weights: AnomalyWeightConfig | None = None
     percentile: dict[str, str | float]
     company_event: CompanyEventConfig
     macro: MacroRankingConfig
@@ -196,11 +195,24 @@ class RankingConfig(ConfigModel):
         singleton = self.percentile.get("singleton_value")
         if not isinstance(singleton, (int, float)) or not 0 <= singleton <= 1:
             raise ValueError("percentile singleton_value must be in [0, 1]")
-        if self.market_feature_weights is not None:
+        has_feature_weights = self.market_feature_weights is not None
+        has_component_weights = (
+            self.volatility_weights is not None or self.anomaly_weights is not None
+        )
+        if has_feature_weights and has_component_weights:
+            raise ValueError(
+                "market_feature_weights is the only market score; "
+                "omit volatility_weights and anomaly_weights"
+            )
+        if has_feature_weights:
             if any(value < 0 for value in self.market_feature_weights.values()):
                 raise ValueError("market feature weights must be nonnegative")
             if abs(sum(self.market_feature_weights.values()) - 1.0) > 1e-9:
                 raise ValueError("market feature weights must sum to 1")
+        elif self.volatility_weights is None or self.anomaly_weights is None:
+            raise ValueError(
+                "component market ranker requires volatility_weights and anomaly_weights"
+            )
         return self
 
 
@@ -256,11 +268,28 @@ class RetrievalConfig(ConfigModel):
     tokenizer_version: str
 
 
+class CandidateChannelConfig(ConfigModel):
+    limit: int = Field(default=0, ge=0)
+
+
+class CandidateUnionConfig(ConfigModel):
+    enabled: bool = False
+    seed: int = 329
+    total_cap: int | None = Field(default=None, gt=0)
+    market_top: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+    boundary: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+    recent_event: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+    scheduled_catalyst: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+    macro_exposure: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+    random_exploration: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+
+
 class ScreeningConfig(ConfigModel):
     candidate_multiplier: int = Field(gt=0)
     minimum_candidates: int = Field(gt=0)
     volatility_weight: float = Field(ge=0, le=1)
     anomaly_weight: float = Field(ge=0, le=1)
+    candidate_union: CandidateUnionConfig = Field(default_factory=CandidateUnionConfig)
 
     @model_validator(mode="after")
     def weights_sum_to_one(self) -> ScreeningConfig:
@@ -309,14 +338,38 @@ class MVPConfig(ConfigModel):
         return self
 
 
+class BootstrapConfig(ConfigModel):
+    seed: int = 329
+    samples: int = Field(default=2_000, ge=100)
+    block_sizes: list[int] = Field(default_factory=lambda: [5, 10, 20], min_length=1)
+    confidence: float = Field(default=0.95, gt=0, lt=1)
+
+    @model_validator(mode="after")
+    def validate_blocks(self) -> BootstrapConfig:
+        if any(value <= 0 for value in self.block_sizes):
+            raise ValueError("bootstrap block sizes must be positive")
+        if len(self.block_sizes) != len(set(self.block_sizes)):
+            raise ValueError("bootstrap block sizes must be unique")
+        return self
+
+
 class EvaluationBody(ConfigModel):
     sessions: list[date]
     cutoff_time: str
     timezone: str
     labels: Path
     large_move_threshold: float = Field(gt=0)
+    session_parallelism: int = Field(default=1, ge=1, le=8)
+    replicates: int = Field(default=1, ge=1)
     variants: list[str]
     ndcg: dict[str, str | None]
+    bootstrap: BootstrapConfig = Field(default_factory=BootstrapConfig)
+
+    @model_validator(mode="after")
+    def validate_range_relevance(self) -> EvaluationBody:
+        if self.ndcg.get("relevance") != "intraday_range":
+            raise ValueError("evaluation.ndcg.relevance must be intraday_range")
+        return self
 
 
 class EvaluationConfig(ConfigModel):
@@ -388,7 +441,23 @@ def _load_yaml(path: Path) -> dict:
         raise ConfigError("CONFIG_READ_FAILED", f"Unable to read {path}: {exc}") from exc
     if not isinstance(value, dict):
         raise ConfigError("CONFIG_INVALID", f"{path} must contain a mapping")
+    parent = value.pop("extends", None)
+    if parent is not None:
+        parent_path = Path(parent)
+        if not parent_path.is_absolute():
+            parent_path = path.parent / parent_path
+        value = _deep_merge(_load_yaml(parent_path), value)
     return value
+
+
+def _deep_merge(base: dict, override: dict) -> dict:
+    result = dict(base)
+    for key, value in override.items():
+        if isinstance(value, dict) and isinstance(result.get(key), dict):
+            result[key] = _deep_merge(result[key], value)
+        else:
+            result[key] = value
+    return result
 
 
 def load_mvp_config(path: str | Path) -> MVPConfig:

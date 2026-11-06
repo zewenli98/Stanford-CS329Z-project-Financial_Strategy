@@ -56,10 +56,43 @@ def history_baselines(features, bars, method):
     return output
 
 
-def select_candidates(baselines, records, cutoff, limit, method):
+def range_uncertainty(bars):
+    """Return the coefficient of variation of each symbol's latest 20 ranges."""
+
+    histories = defaultdict(list)
+    for row in bars.sort(["symbol", "session"]).to_dicts():
+        low = row.get("low")
+        if low:
+            histories[row["symbol"]].append((row["high"] - low) / low)
+    uncertainty = {}
+    for symbol, values in histories.items():
+        window = values[-20:]
+        if len(window) < 5:
+            uncertainty[symbol] = 0.0
+            continue
+        mean = sum(window) / len(window)
+        variance = sum((value - mean) ** 2 for value in window) / (len(window) - 1)
+        uncertainty[symbol] = math.sqrt(variance) / mean if mean > 0 else 0.0
+    return uncertainty
+
+
+def select_candidates(baselines, records, cutoff, limit, method, uncertainty=None):
     ordered = sorted(baselines, key=lambda s: (-baselines[s], s))
     if limit is None:
         return ordered
+    if method == "event_uncertainty":
+        scores = event_priority(records, cutoff)
+        ranked = [symbol for symbol in baselines if scores.get(symbol, 0) > 0]
+        uncertainty = uncertainty or {}
+        ranked.sort(
+            key=lambda symbol: (
+                -uncertainty.get(symbol, 0.0),
+                -scores[symbol],
+                -baselines.get(symbol, 0.0),
+                symbol,
+            )
+        )
+        return ranked[:limit]
     if method == "volatility":
         return ordered[:limit]
     keep = ordered[: max(1, limit // 2)]

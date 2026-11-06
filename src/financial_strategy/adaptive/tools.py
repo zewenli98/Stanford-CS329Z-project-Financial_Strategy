@@ -11,7 +11,7 @@ import hashlib
 import json
 import re
 from collections.abc import Callable, Mapping
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any
 
@@ -299,7 +299,44 @@ class OpaqueToolView:
         }
 
     def lead_index(self) -> list[dict]:
-        return [dict(item) for item in self._records.values()]
+        """Return company filings plus a bounded macro lead set.
+
+        Daily rates and VIX stay searchable in full. The planner only receives the
+        latest print of each macro series and prints inside the news lookback, so
+        three years of daily observations do not overflow the request limit.
+        """
+
+        records = [dict(item) for item in self._records.values()]
+        company = [item for item in records if item.get("scope") != "macro"]
+        macro = [item for item in records if item.get("scope") == "macro"]
+        if not macro:
+            return company
+        lookback_days = int(getattr(self.task, "news_lookback_days", 7))
+        window_start = self.cutoff - timedelta(days=lookback_days)
+
+        def stamp(item: dict) -> datetime:
+            parsed = datetime.fromisoformat(item["available_at"])
+            if parsed.tzinfo is None:
+                return parsed.replace(tzinfo=self.cutoff.tzinfo)
+            return parsed
+
+        latest: dict[str, dict] = {}
+        for item in macro:
+            event_type = str(item.get("event_type") or "")
+            current = latest.get(event_type)
+            if current is None or stamp(item) > stamp(current):
+                latest[event_type] = item
+        selected = {
+            item["evidence_id"]: item
+            for item in latest.values()
+            if stamp(item) <= self.cutoff
+        }
+        for item in macro:
+            seen = stamp(item)
+            if window_start <= seen <= self.cutoff:
+                selected[item["evidence_id"]] = item
+        ordered = sorted(selected.values(), key=lambda item: (stamp(item), item["evidence_id"]))
+        return [*company, *ordered]
 
     def source_span(self, evidence_id: str, start: int, end: int) -> dict:
         if evidence_id not in self.documents:

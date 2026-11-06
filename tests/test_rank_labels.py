@@ -21,27 +21,41 @@ def _write_snapshot(tmp_path: Path) -> Path:
     ).write_parquet(dataset / "evaluation/labels.parquet")
     pl.DataFrame(
         [
-            {"session": date(2026, 1, 2), "symbol": "AAA", "close": 100.0},
-            {"session": date(2026, 1, 5), "symbol": "AAA", "close": 52.0},
-            {"session": date(2026, 1, 2), "symbol": "BBB", "close": 20.0},
-            {"session": date(2026, 1, 5), "symbol": "BBB", "close": 21.0},
+            {
+                "session": date(2026, 1, 2),
+                "symbol": "AAA",
+                "close": 100.0,
+                "high": 101.0,
+                "low": 99.0,
+            },
+            {
+                "session": date(2026, 1, 5),
+                "symbol": "AAA",
+                "close": 52.0,
+                "high": 55.0,
+                "low": 50.0,
+            },
+            {
+                "session": date(2026, 1, 2),
+                "symbol": "BBB",
+                "close": 20.0,
+                "high": 21.0,
+                "low": 19.0,
+            },
+            {
+                "session": date(2026, 1, 5),
+                "symbol": "BBB",
+                "close": 21.0,
+                "high": 22.0,
+                "low": 20.0,
+            },
         ]
     ).write_parquet(dataset / "market/daily_bars.parquet")
-    (dataset / "market/corporate_actions.jsonl").write_text(
-        '{"symbol":"AAA","action_type":"split","ratio":2.0,'
-        '"effective_at":"2026-01-05T14:30:00Z"}\n'
-        '{"symbol":"BBB","action_type":"cash_dividend","ratio":5.0,'
-        '"effective_at":"2026-01-05T14:30:00Z"}\n'
-    )
     return dataset
 
 
-def test_prev_close_labels_adjust_splits_but_not_dividends(tmp_path: Path) -> None:
-    labels = load_rank_labels(_write_snapshot(tmp_path), "prev_close_to_close")
-    assert labels["2026-01-05"]["AAA"] == pytest.approx(0.04)
-    assert labels["2026-01-05"]["BBB"] == pytest.approx(0.05)
-
-
-def test_open_to_close_labels_remain_available(tmp_path: Path) -> None:
-    labels = load_rank_labels(_write_snapshot(tmp_path), "open_to_close")
-    assert labels["2026-01-05"]["AAA"] == pytest.approx(abs(52 / 51 - 1))
+def test_default_rank_labels_use_shared_intraday_range(tmp_path: Path) -> None:
+    labels = load_rank_labels(_write_snapshot(tmp_path))
+    assert labels["2026-01-05"]["AAA"] == pytest.approx((55 - 50) / 50)
+    assert labels["2026-01-05"]["BBB"] == pytest.approx((22 - 20) / 20)
+    assert "2026-01-02" not in labels

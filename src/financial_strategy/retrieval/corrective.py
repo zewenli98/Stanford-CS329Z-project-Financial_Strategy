@@ -18,10 +18,29 @@ from financial_strategy.retrieval.bm25 import search
 from financial_strategy.schemas import EvidenceRecord
 from financial_strategy.schemas.models import StrictModel
 
-DEFAULT_QUESTION = "Did the current earnings release lower guidance?"
-INITIAL_QUERY = "earnings guidance merger regulation financing litigation management product"
-REWRITE_QUERY = "current earnings guidance 8-K"
+DEFAULT_QUESTION = (
+    "What current filing could change the next regular-session range: earnings, guidance, "
+    "a merger, buyback, financing, litigation, management change, cybersecurity, or product news?"
+)
+INITIAL_QUERY = (
+    "earnings guidance merger buyback financing litigation management cybersecurity product 8-K"
+)
+REWRITE_QUERY = "current 8-K earnings guidance merger buyback management product litigation"
 CURRENT_RELEASE_NOT_IN_SNAPSHOT = "CURRENT_RELEASE_NOT_IN_SNAPSHOT"
+MATERIAL_EVENT_TYPES = frozenset(
+    {
+        "earnings",
+        "guidance",
+        "merger_acquisition",
+        "buyback",
+        "dividend",
+        "financing",
+        "litigation_regulatory",
+        "management_change",
+        "product",
+        "cybersecurity",
+    }
+)
 WRONG_COMPANY = "WRONG_COMPANY"
 RETRIEVAL_BUDGET_EXHAUSTED = "RETRIEVAL_BUDGET_EXHAUSTED"
 
@@ -146,7 +165,7 @@ def scripted_retrieval_judgment(payload: dict) -> dict:
     matched = [
         item["evidence_id"]
         for item in evidence
-        if _is_current(item, cutoff, window) and _mentions_earnings(item)
+        if _is_current(item, cutoff, window) and _is_material_event(item)
     ]
     event_match = bool(matched)
     if company_match and event_match:
@@ -187,6 +206,30 @@ def run_corrective_retrieval(
     company_records = [
         item for item in evidence if item.scope == "company" and item.symbol == symbol
     ]
+    if not company_records:
+        gap_judgment = _gap_judgment(CURRENT_RELEASE_NOT_IN_SNAPSHOT)
+        return (
+            CorrectiveResult(
+                question=question,
+                accepted_evidence_ids=[],
+                gap=CURRENT_RELEASE_NOT_IN_SNAPSHOT,
+                traces=[
+                    _trace(
+                        symbol=symbol,
+                        snapshot_id=snapshot_id,
+                        question=question,
+                        attempt=0,
+                        query=INITIAL_QUERY,
+                        retrieval=retrieval,
+                        candidate_count=0,
+                        deduped_count=0,
+                        hits=[],
+                        judgment=gap_judgment,
+                    )
+                ],
+            ),
+            [],
+        )
     corpus = dedupe_evidence(company_records)
     query = INITIAL_QUERY
     traces: list[dict] = []
@@ -325,10 +368,26 @@ def _trace(
     return trace
 
 
-def _mentions_earnings(item: dict) -> bool:
+def _is_material_event(item: dict) -> bool:
     types = {item.get("event_type")} | set(item.get("event_types") or [])
     text = f"{item.get('title', '')}\n{item.get('excerpt', '')}".lower()
-    return bool(types & {"earnings", "guidance"}) or "earnings" in text or "guidance" in text
+    keywords = (
+        "earnings",
+        "guidance",
+        "merger",
+        "acquisition",
+        "buyback",
+        "repurchase",
+        "dividend",
+        "financing",
+        "litigation",
+        "regulatory",
+        "management",
+        "cyber",
+        "product",
+        "8-k",
+    )
+    return bool(types & MATERIAL_EVENT_TYPES) or any(word in text for word in keywords)
 
 
 def _is_current(item: dict, cutoff: datetime, window: timedelta) -> bool:

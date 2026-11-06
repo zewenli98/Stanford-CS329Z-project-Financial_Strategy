@@ -1,11 +1,11 @@
 screening_config: configs/screening_train_validation.yaml
-splits: data/2023-11-01_2026-10-30/splits.json
-labels: data/2023-11-01_2026-10-30/evaluation/labels.parquet
+splits: data/research100_v1/splits.json
+labels: data/research100_v1/evaluation/labels.parquet
 runs_path: runs
 artifact_index: runs/tuning_artifacts_v3/index.json
 output_path: runs/tuning_results/train_validation_v2.json
 tuned_config_path: configs/screening_tuned_v2.yaml
-large_move_threshold: 0.02
+large_move_threshold: 0.04
 session_parallelism: 4
 
 search:

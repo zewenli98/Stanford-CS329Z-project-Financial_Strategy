@@ -179,14 +179,16 @@ class ResearchAgentSuite:
             "instructions": (
                 "Plan bounded local evidence research for next regular-session (high-low)/low "
                 "ranking, at the supplied premarket cutoff. Use only opaque company/source/event "
-                "IDs in the context. Include one broad discovery question per company and specific "
-                "questions for material available leads. Each non-discovery question needs two or "
-                "three mutually exclusive answer scenarios with probabilities summing to one and "
-                "log_shifts to current mean range forecasts. These are subjective planning "
+                "IDs in the context. Ask only about a dated lead that is already available: "
+                "earnings, guidance, merger, buyback, financing, litigation, management change, "
+                "cybersecurity, or product news. Do not create a question for a company with no "
+                "available filing, and do not spend a question confirming the absence of news. "
+                "Prefer a lead whose current range forecast is uncertain. Each question needs two "
+                "or three mutually exclusive answer scenarios with probabilities summing to one "
+                "and log_shifts to current mean range forecasts. These are subjective planning "
                 "assumptions, not calibrated probabilities or verified future outcomes. State how "
-                "an answer could affect regular-session range, including uncertainty already "
-                "resolved before open. Never claim archive exhaustion proves no real event exists. "
-                "Use the supplied reserved_cost_usd for each question."
+                "an answer could change the regular-session range. Never claim archive exhaustion "
+                "proves no real event exists. Use the supplied reserved_cost_usd for each question."
             ),
             "context": self.view.model_context(),
             "forecasts": [_plain(item) for item in values],

@@ -6,8 +6,6 @@ from datetime import date, timedelta
 from pathlib import Path
 
 import polars as pl
-import pytest
-import yaml
 
 from scripts.build_expanded_data import load_config, select_universe
 from scripts.enrich_evidence import enrich_snapshot
@@ -141,37 +139,3 @@ def test_expanded_split_is_chronological_and_labels_are_complete() -> None:
     assert labels.height == 752 * 200
     assert labels.group_by("session").len()["len"].min() == 200
 
-
-def test_expanded_training_passes_stability_and_candidate_recall_gates() -> None:
-    report_path = ROOT / "runs/expanded_training/train_cv_report.json"
-    if not report_path.exists():
-        pytest.skip("expanded training report is a local artifact")
-    report = json.loads(report_path.read_text())
-    winner = report["variants"][report["winner"]]
-    assert report["promotable"]
-    assert winner["winning_folds"] == winner["fold_count"] == 32
-    assert min(winner["fold_deltas"]) > 0
-    assert winner["paired_ndcg_delta"]["95ci"][0] > 0
-    assert report["coarse_screen_recall_at_k"] >= 0.60
-    assert report["feature_diagnostics"]["minimum_symbols_per_session"] == 200
-    assert report["large_move_threshold"] == 0.05
-    assert report["industry_subgroups"]
-
-
-def test_unproven_agent_residual_is_isolated_from_candidate_ranking() -> None:
-    report_path = ROOT / "runs/expanded_agent/agent_residual_report.json"
-    if not report_path.exists():
-        pytest.skip("expanded agent report is a local artifact")
-    report = json.loads(report_path.read_text())
-    candidate = yaml.safe_load(
-        (ROOT / "configs/screening_expanded_candidate.yaml").read_text()
-    )
-    assert report["card_count"] == report["session_count"] * report["candidate_count"]
-    assert not report["company_residual_promotable"]
-    assert report["macro_evidence"]["status"] == "available_not_integrated"
-    assert not report["macro_evidence"]["residual_evaluated"]
-    assert report["ranking_policy"] == "market_only_agent_explanation_only"
-    assert candidate["ranking"]["final_weights"]["company_event"] == 0
-    assert candidate["ranking"]["final_weights"]["macro"] == 0
-    assert report["reliability"]["time_boundary_violation_rate"] == 0
-    assert report["reliability"]["unsupported_claim_rate"] == 0

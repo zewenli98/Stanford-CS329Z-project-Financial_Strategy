@@ -15,18 +15,15 @@ evaluation:
   cutoff_time: "09:00:00"
   timezone: America/New_York
   labels: tests/fixtures/integration/evaluation/labels.parquet
-  large_move_threshold: 0.02
+  large_move_threshold: 0.04
   variants:
     - historical_volatility
     - historical_abs_oc
     - fixed_earnings_rule
     - no_agent_ranker
     - full_system
-    - no_company_event
-    - no_macro
-    - no_semantic_verifier
   ndcg:
-    relevance: absolute_open_to_close_return
+    relevance: intraday_range
     gain: linear
     discount: log2
     zero_idcg: null

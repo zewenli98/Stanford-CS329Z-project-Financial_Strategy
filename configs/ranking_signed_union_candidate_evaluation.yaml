@@ -1,0 +1,28 @@
+screening_config: configs/screening_research100_signed_union_candidate.yaml
+
+evaluation:
+  sessions:
+    - "2024-01-19"
+    - "2024-07-25"
+    - "2025-03-03"
+    - "2026-04-10"
+  cutoff_time: "09:00:00"
+  timezone: America/New_York
+  labels: data/research100_v1/evaluation/labels.parquet
+  large_move_threshold: 0.04
+  session_parallelism: 1
+  replicates: 2
+  variants:
+    - no_agent_ranker
+    - deterministic_event_baseline
+    - full_system
+  bootstrap:
+    seed: 329
+    samples: 2000
+    block_sizes: [5, 10, 20]
+    confidence: 0.95
+  ndcg:
+    relevance: intraday_range
+    gain: linear
+    discount: log2
+    zero_idcg: null

@@ -155,3 +155,7 @@ def test_native_sec_metadata_and_macro_confidence_are_preserved():
     assert first_dgs10.actual == 4.06 and first_dgs10.consensus is None
     assert next_dgs10.actual == 4.01 and next_dgs10.consensus == 4.06
     assert (ROOT / "data/research100_v1/macro/events.jsonl").read_text() == ""
+    study_config = load_adaptive_config(ROOT / "configs/adaptive_range_100_offline.yaml")
+    assert study_config.data.macro_events == Path(
+        "data/2023-11-01_2026-10-30/macro/events.jsonl"
+    )

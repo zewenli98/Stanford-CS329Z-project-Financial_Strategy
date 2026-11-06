@@ -21,6 +21,15 @@ from financial_strategy.llm.structured import WORKER_WIRE_VERSION, worker_respon
 
 SchemaT = TypeVar("SchemaT", bound=BaseModel)
 
+SYNTHESIS_TARGET_INSTRUCTION = (
+    "The ranking target is the regular-session range (high - low) / low, in ratio units. "
+    "Use surprise_direction for positive or negative price direction; never use "
+    "demote merely because news is negative. Negative and positive catalysts can "
+    "both widen the expected range. signed_residual_bucket estimates only a residual "
+    "correction to that range rank after the supplied market feature score. Use demote "
+    "only when evidence indicates that score overstates the expected range. "
+)
+
 
 @dataclass(frozen=True)
 class InvocationResult:
@@ -287,14 +296,8 @@ class LiveClient:
                 "CatalystAssessment fields must be conservative, target-session-specific, "
                 "and supported by its evidence_ids. Use unknown or none instead of guessing. "
                 "When cited evidence does support a target-session catalyst, classify "
-                "materiality and expected absolute impact rather than defaulting to unknown. "
-                "The ranking target is absolute open-to-close movement, not return direction. "
-                "Use surprise_direction for positive or negative price direction; never use "
-                "demote merely because news is negative. Negative and positive catalysts can "
-                "both promote expected absolute movement. signed_residual_bucket estimates "
-                "only residual absolute-movement rank correction after the supplied market "
-                "feature score. Use demote only when evidence indicates that score overstates "
-                "expected absolute movement. "
+                "materiality and expected range impact rather than defaulting to unknown. "
+                f"{SYNTHESIS_TARGET_INSTRUCTION}"
                 "Apply every supplied revision_feedback item to the named field."
             )
             citation_instruction += (

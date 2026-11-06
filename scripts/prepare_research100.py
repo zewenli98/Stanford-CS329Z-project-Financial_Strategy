@@ -24,6 +24,22 @@ def sha(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
+def _write_study_targets(selected: list[str]) -> None:
+    """Copy the chronological 676/76 split and the 100-stock label panel."""
+
+    split = json.loads((SOURCE / "splits.json").read_text())
+    (DEST / "splits.json").write_text(json.dumps(split, indent=2) + "\n", encoding="utf-8")
+    panel = pl.read_parquet(SOURCE / "evaluation/labels.parquet").filter(
+        pl.col("symbol").is_in(selected)
+    )
+    prices = pl.read_parquet(DEST / "market/daily_bars.parquet").select(
+        "session", "symbol", "high", "low"
+    )
+    labels = panel.join(prices, on=["session", "symbol"], how="left")
+    (DEST / "evaluation").mkdir(exist_ok=True)
+    labels.write_parquet(DEST / "evaluation/labels.parquet")
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--live-prices", action="store_true")
@@ -98,6 +114,7 @@ def main():
         pl.lit(snapshot_id).alias("snapshot_id"),
     )
     derived.write_parquet(DEST / "market/daily_bars.parquet")
+    _write_study_targets(selected)
     (DEST / "market/corporate_actions.jsonl").write_text(
         "".join(json.dumps(a) + "\n" for a in actions if a["symbol"] in selected), encoding="utf-8"
     )
@@ -159,7 +176,7 @@ def main():
         market_bars=str(DEST / "market/daily_bars.parquet"),
         corporate_actions=str(DEST / "market/corporate_actions.jsonl"),
         company_evidence=str(SOURCE / "company/evidence.jsonl"),
-        macro_events=str(DEST / "macro/events.jsonl"),
+        macro_events=str(SOURCE / "macro/events.jsonl"),
         macro_documents=str(SOURCE / "macro/documents"),
         input_adjustment_policy="split_adjusted",
     )
@@ -201,7 +218,7 @@ def main():
                 "report_top_ks": [3, 5, 10],
                 "replicates": 1,
                 "aggregate_budget_usd": 3.0,
-                "large_move_threshold": 0.02,
+                "large_move_threshold": 0.04,
             },
         }
 

@@ -98,7 +98,7 @@ def compute_features(
                 "median_abs_oc_return_10d": _median_abs_oc(opens, closes, 10),
                 "median_abs_oc_return_60d": _median_abs_oc(opens, closes, 60),
                 "median_range_20d": float(
-                    np.median((highs[-20:] - lows[-20:]) / opens[-20:])
+                    np.median((highs[-20:] - lows[-20:]) / lows[-20:])
                 ),
                 "atr_14d": (
                     float(np.mean(true_ranges[-14:]) / closes[-1])

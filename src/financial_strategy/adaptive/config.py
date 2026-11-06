@@ -39,7 +39,7 @@ class AdaptiveSettings(BaseModel):
     research_candidate_limit: int | None = Field(default=None, ge=1)
     compact_research_prompts: bool = False
     research_protocol: Literal["legacy", "guided", "packet"] = "legacy"
-    candidate_method: Literal["volatility", "hybrid"] = "volatility"
+    candidate_method: Literal["volatility", "hybrid", "event_uncertainty"] = "volatility"
     baseline_method: Literal["mean20", "mean5", "mean10", "median20", "ewma10"] = "mean20"
     evidence_previous_day_only: bool = False
     forecast_blend: float = Field(default=1.0, ge=0, le=1)

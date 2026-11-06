@@ -558,7 +558,7 @@ def build_snapshot(config_path: Path) -> Path:
         _write_jsonl(temporary / "macro/events.jsonl", [])
         labels = bars.filter(
             pl.col("session") >= date.fromisoformat(config["evaluation_start"])
-        ).select(["session", "symbol", "open", "close"])
+        ).select(["session", "symbol", "open", "high", "low", "close"])
         labels.write_parquet(temporary / "evaluation/labels.parquet")
         split_at = int(len(evaluation_sessions) * float(config["development_fraction"]))
         train_sessions = evaluation_sessions[:split_at]

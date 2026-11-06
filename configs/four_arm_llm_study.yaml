@@ -1,0 +1,996 @@
+version: 1
+study: four_arm_llm_comparison
+seed: 329
+selection_rng: none
+labels_consulted: false
+target: (high-low)/low
+decision_cutoff: 09:00 America/New_York
+event_lookback_sessions: 7
+market_candidate_count: 20
+scheduled_macro_types:
+- cpi_yoy
+- fed_rate
+- nonfarm_payrolls
+- unemployment
+daily_series_excluded_from_macro_stratum:
+- dgs2
+- dgs10
+- vixcls
+arms:
+  market_only:
+    uses_llm: false
+    description: Frozen 20-feature market ranker.
+  market_plus_llm:
+    uses_llm: true
+    description: Same frozen 20-feature market ranker. LLM research is recorded for process audit and leaves the order unchanged while residual_model.enabled is false.
+  adaptive_baseline:
+    uses_llm: false
+    description: Historical-range baseline without a model call.
+  adaptive_plus_llm:
+    uses_llm: true
+    description: Historical-range baseline revised by adaptive LLM research.
+paired_comparisons:
+- market_plus_llm_minus_market_only
+- adaptive_plus_llm_minus_adaptive_baseline
+primary_metric: ndcg_at_10
+budgets_usd:
+  smoke_llm: 10
+  development_llm: 40
+  evaluation_llm: 100
+market_ranker:
+  source: runs/research100_training/train_cv_report.json
+  winner: pairwise_percentile_s025
+  weights:
+    median_abs_oc_return_20d: 0.19873568092262076
+    realized_volatility_20d: 0.14497115721618445
+    return_5d: 0.0398745297875634
+    previous_session_relative_volume: 0.04439865769264718
+    distance_to_ma20: 0.009283544893280994
+    realized_volatility_5d: 0.04520444190596001
+    realized_volatility_10d: 0.05079264692738189
+    realized_volatility_60d: 0.07321056775583838
+    median_abs_oc_return_5d: 0.02491504346100524
+    median_abs_oc_return_10d: 0.03440099716970012
+    median_abs_oc_return_60d: 0.0799195958129046
+    median_range_20d: 0.0770192649997626
+    atr_14d: 0.07661649096269793
+    robust_volume_zscore_20d: 4.773230793651631e-19
+    momentum_10d: 0.0033972547199116526
+    momentum_20d: 0.007533959038496068
+    reversal_1d: 0.02166932484128307
+    volatility_trend_5_20: 1.156098662122497e-18
+    market_residual_volatility_20d: 0.05164067852416188
+    industry_residual_volatility_20d: 0.016416163368599766
+inputs:
+  splits:
+    path: data/research100_v1/splits.json
+    sha256: 555a00e474d615cfbee2b665f27a6b9912ff55213654c29e26f26ebe1881883b
+  universe:
+    path: data/research100_v1/universe/symbols.json
+    sha256: c1feaac106e49d60e9bce4a74735576c43f6a1aa41ad81b9ffa741fec2960cf9
+  feature_cache:
+    path: runs/research100_training/feature_cache.parquet
+    sha256: 138ef4bbca2e6a0cbe8768f4d8f0ea5b06a0d25632ce5bf736538affe4862821
+  market_training_report:
+    path: runs/research100_training/train_cv_report.json
+    sha256: 085e3bd5839cde47a01c6a0a280b6308dbfb4704ddc1429c14215c7143889fd5
+  company_evidence:
+    path: data/2023-11-01_2026-10-30/company/evidence.jsonl
+    sha256: cf6aa89358f624564de2dae2bf289e855fc76e6bebc3e82dc1be71993508b27c
+  macro_events:
+    path: data/2023-11-01_2026-10-30/macro/events.jsonl
+    sha256: 4b8ba0091be3620fd88e893af7d4323c72225d268d96974aadb1edb7e54a23f4
+selection_rule:
+  training_sessions: 676
+  temporal_bins: 5
+  company_strata: within-bin tertiles of pre-cutoff top-20 evidence coverage
+  macro_stratum: CPI, payrolls, unemployment, or fed funds is scheduled on that session
+  within_cell_choice: chronological median
+  smoke_by_bin:
+  - low
+  - medium
+  - high
+  - high
+  - macro
+  development: one chronological median from every remaining bin and stratum
+time_bins:
+- index: 0
+  first_session: '2023-11-01'
+  last_session: '2024-05-16'
+  session_count: 136
+- index: 1
+  first_session: '2024-05-17'
+  last_session: '2024-11-27'
+  session_count: 135
+- index: 2
+  first_session: '2024-11-29'
+  last_session: '2025-06-16'
+  session_count: 135
+- index: 3
+  first_session: '2025-06-17'
+  last_session: '2025-12-29'
+  session_count: 135
+- index: 4
+  first_session: '2025-12-30'
+  last_session: '2026-07-15'
+  session_count: 135
+stratum_population_by_bin:
+  0:low: 39
+  0:medium: 39
+  0:high: 39
+  0:macro: 19
+  1:low: 40
+  1:medium: 40
+  1:high: 40
+  1:macro: 15
+  2:low: 39
+  2:medium: 39
+  2:high: 39
+  2:macro: 18
+  3:low: 40
+  3:medium: 40
+  3:high: 40
+  3:macro: 15
+  4:low: 39
+  4:medium: 39
+  4:high: 40
+  4:macro: 17
+smoke_sessions:
+- session: '2024-01-19'
+  time_bin: 0
+  stratum: low
+  symbols_with_evidence: 4
+  important_evidence_count: 2
+  symbols_with_document: 4
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - COIN
+  - SMCI
+  - AMD
+  - CVNA
+  - MRVL
+  - PYPL
+  - TSLA
+  - BA
+  - CRWD
+  - XYZ
+  - 'ON'
+  - UBER
+  - PLTR
+  - INTC
+  - F
+  - AMAT
+  - HUM
+  - PANW
+  - VLO
+  - MPC
+- session: '2024-07-25'
+  time_bin: 1
+  stratum: medium
+  symbols_with_evidence: 7
+  important_evidence_count: 8
+  symbols_with_document: 7
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - TSLA
+  - CRWD
+  - SMCI
+  - COIN
+  - 'ON'
+  - CVNA
+  - AVGO
+  - AMAT
+  - AMD
+  - LRCX
+  - MRVL
+  - PLTR
+  - NVDA
+  - XYZ
+  - MU
+  - QCOM
+  - GE
+  - CHTR
+  - SCHW
+  - UBER
+- session: '2025-03-03'
+  time_bin: 2
+  stratum: high
+  symbols_with_evidence: 10
+  important_evidence_count: 14
+  symbols_with_document: 10
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - SMCI
+  - MRVL
+  - PLTR
+  - COIN
+  - TSLA
+  - INTC
+  - XYZ
+  - NVDA
+  - MU
+  - CVNA
+  - 'ON'
+  - AVGO
+  - CRWD
+  - UBER
+  - LRCX
+  - HUM
+  - AMAT
+  - AMD
+  - ORCL
+  - ADI
+- session: '2025-08-29'
+  time_bin: 3
+  stratum: high
+  symbols_with_evidence: 9
+  important_evidence_count: 14
+  symbols_with_document: 9
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - 'ON'
+  - CVNA
+  - INTC
+  - COIN
+  - TSLA
+  - PLTR
+  - MRVL
+  - SMCI
+  - MU
+  - AMD
+  - CRWD
+  - UNH
+  - TGT
+  - XYZ
+  - AVGO
+  - NOW
+  - SLB
+  - CHTR
+  - PANW
+  - LRCX
+- session: '2026-04-10'
+  time_bin: 4
+  stratum: macro
+  symbols_with_evidence: 8
+  important_evidence_count: 8
+  symbols_with_document: 8
+  scheduled_macro_count: 1
+  scheduled_macro_types:
+  - cpi_yoy
+  macro_released_before_cutoff: 1
+  market_candidate_symbols:
+  - INTC
+  - LRCX
+  - PLTR
+  - MU
+  - SMCI
+  - MRVL
+  - CVNA
+  - COIN
+  - INTU
+  - AMAT
+  - CRWD
+  - BKNG
+  - NOW
+  - AMD
+  - ORCL
+  - HUM
+  - PANW
+  - TSLA
+  - XYZ
+  - CRM
+development_sessions:
+- session: '2024-01-22'
+  time_bin: 0
+  stratum: low
+  symbols_with_evidence: 4
+  important_evidence_count: 3
+  symbols_with_document: 4
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - SMCI
+  - AMD
+  - COIN
+  - CVNA
+  - PYPL
+  - MRVL
+  - CRWD
+  - BA
+  - XYZ
+  - TSLA
+  - AMAT
+  - PLTR
+  - INTC
+  - F
+  - AVGO
+  - LRCX
+  - HUM
+  - 'ON'
+  - MU
+  - NVDA
+- session: '2024-02-02'
+  time_bin: 0
+  stratum: macro
+  symbols_with_evidence: 10
+  important_evidence_count: 22
+  symbols_with_document: 10
+  scheduled_macro_count: 2
+  scheduled_macro_types:
+  - nonfarm_payrolls
+  - unemployment
+  macro_released_before_cutoff: 2
+  market_candidate_symbols:
+  - SMCI
+  - CVNA
+  - COIN
+  - AMD
+  - XYZ
+  - TSLA
+  - HUM
+  - PLTR
+  - INTC
+  - PYPL
+  - MRVL
+  - BA
+  - CRWD
+  - CHTR
+  - SLB
+  - VLO
+  - ABNB
+  - AMAT
+  - MPC
+  - 'ON'
+- session: '2024-02-14'
+  time_bin: 0
+  stratum: medium
+  symbols_with_evidence: 8
+  important_evidence_count: 16
+  symbols_with_document: 8
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - PLTR
+  - SMCI
+  - CVNA
+  - COIN
+  - PYPL
+  - XYZ
+  - CHTR
+  - AMAT
+  - CRWD
+  - NVDA
+  - TSLA
+  - DIS
+  - LRCX
+  - ABNB
+  - MRVL
+  - F
+  - AMD
+  - 'ON'
+  - BA
+  - META
+- session: '2024-02-22'
+  time_bin: 0
+  stratum: high
+  symbols_with_evidence: 11
+  important_evidence_count: 23
+  symbols_with_document: 11
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - SMCI
+  - COIN
+  - CVNA
+  - PLTR
+  - CRWD
+  - PANW
+  - TSLA
+  - UBER
+  - XYZ
+  - NVDA
+  - CHTR
+  - AMAT
+  - PYPL
+  - AMD
+  - ABNB
+  - ADBE
+  - 'ON'
+  - MRVL
+  - INTC
+  - META
+- session: '2024-07-24'
+  time_bin: 1
+  stratum: medium
+  symbols_with_evidence: 7
+  important_evidence_count: 8
+  symbols_with_document: 7
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - CRWD
+  - COIN
+  - TSLA
+  - CVNA
+  - 'ON'
+  - SMCI
+  - AVGO
+  - AMD
+  - LRCX
+  - AMAT
+  - MRVL
+  - MU
+  - NVDA
+  - CHTR
+  - GE
+  - SCHW
+  - PLTR
+  - XYZ
+  - UBER
+  - SBUX
+- session: '2024-08-09'
+  time_bin: 1
+  stratum: high
+  symbols_with_evidence: 11
+  important_evidence_count: 27
+  symbols_with_document: 11
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - SMCI
+  - COIN
+  - NVDA
+  - INTC
+  - LRCX
+  - 'ON'
+  - AMAT
+  - MRVL
+  - PLTR
+  - TSLA
+  - CVNA
+  - AVGO
+  - MU
+  - CRWD
+  - AMD
+  - QCOM
+  - UBER
+  - F
+  - ADI
+  - BA
+- session: '2024-09-06'
+  time_bin: 1
+  stratum: macro
+  symbols_with_evidence: 7
+  important_evidence_count: 14
+  symbols_with_document: 7
+  scheduled_macro_count: 2
+  scheduled_macro_types:
+  - nonfarm_payrolls
+  - unemployment
+  macro_released_before_cutoff: 2
+  market_candidate_symbols:
+  - TSLA
+  - COIN
+  - SMCI
+  - NVDA
+  - MRVL
+  - CVNA
+  - AVGO
+  - 'ON'
+  - INTC
+  - LRCX
+  - AMAT
+  - AMD
+  - QCOM
+  - MU
+  - VLO
+  - PLTR
+  - CRWD
+  - CHTR
+  - PANW
+  - XYZ
+- session: '2024-09-17'
+  time_bin: 1
+  stratum: low
+  symbols_with_evidence: 4
+  important_evidence_count: 7
+  symbols_with_document: 4
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - CVNA
+  - AVGO
+  - INTC
+  - SMCI
+  - COIN
+  - NVDA
+  - TSLA
+  - MRVL
+  - LRCX
+  - PLTR
+  - 'ON'
+  - MU
+  - AMD
+  - AMAT
+  - ORCL
+  - CRWD
+  - QCOM
+  - XYZ
+  - ADBE
+  - WFC
+- session: '2025-01-28'
+  time_bin: 2
+  stratum: low
+  symbols_with_evidence: 5
+  important_evidence_count: 7
+  symbols_with_document: 5
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - SMCI
+  - MRVL
+  - NVDA
+  - MU
+  - COIN
+  - AVGO
+  - PLTR
+  - CVNA
+  - AMD
+  - TSLA
+  - 'ON'
+  - XYZ
+  - AMAT
+  - INTC
+  - LRCX
+  - CRWD
+  - LLY
+  - ORCL
+  - NFLX
+  - TXN
+- session: '2025-03-04'
+  time_bin: 2
+  stratum: high
+  symbols_with_evidence: 11
+  important_evidence_count: 11
+  symbols_with_document: 11
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - SMCI
+  - COIN
+  - MRVL
+  - INTC
+  - PLTR
+  - TSLA
+  - XYZ
+  - NVDA
+  - CVNA
+  - 'ON'
+  - MU
+  - AVGO
+  - CRWD
+  - UBER
+  - AMAT
+  - LRCX
+  - AMD
+  - HUM
+  - ORCL
+  - MPC
+- session: '2025-03-12'
+  time_bin: 2
+  stratum: macro
+  symbols_with_evidence: 7
+  important_evidence_count: 12
+  symbols_with_document: 7
+  scheduled_macro_count: 1
+  scheduled_macro_types:
+  - cpi_yoy
+  macro_released_before_cutoff: 1
+  market_candidate_symbols:
+  - COIN
+  - TSLA
+  - CRWD
+  - MRVL
+  - SMCI
+  - PLTR
+  - CVNA
+  - NVDA
+  - MU
+  - XYZ
+  - ORCL
+  - AVGO
+  - 'ON'
+  - INTC
+  - LRCX
+  - BA
+  - NFLX
+  - UBER
+  - VLO
+  - ISRG
+- session: '2025-04-16'
+  time_bin: 2
+  stratum: medium
+  symbols_with_evidence: 7
+  important_evidence_count: 8
+  symbols_with_document: 7
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - CVNA
+  - PLTR
+  - MRVL
+  - TSLA
+  - AMD
+  - SMCI
+  - INTC
+  - 'ON'
+  - MU
+  - AVGO
+  - COIN
+  - LRCX
+  - CRWD
+  - NVDA
+  - META
+  - XYZ
+  - ADI
+  - QCOM
+  - VLO
+  - AMAT
+- session: '2025-08-26'
+  time_bin: 3
+  stratum: high
+  symbols_with_evidence: 9
+  important_evidence_count: 17
+  symbols_with_document: 9
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - COIN
+  - INTC
+  - CVNA
+  - PLTR
+  - 'ON'
+  - SMCI
+  - AMD
+  - TSLA
+  - TGT
+  - MRVL
+  - UNH
+  - MU
+  - PANW
+  - XYZ
+  - SBUX
+  - AVGO
+  - CHTR
+  - LRCX
+  - CRWD
+  - LLY
+- session: '2025-09-09'
+  time_bin: 3
+  stratum: medium
+  symbols_with_evidence: 8
+  important_evidence_count: 9
+  symbols_with_document: 8
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - MRVL
+  - AVGO
+  - MU
+  - AMD
+  - SMCI
+  - COIN
+  - PLTR
+  - TSLA
+  - 'ON'
+  - CVNA
+  - ORCL
+  - INTC
+  - LRCX
+  - TGT
+  - UNH
+  - XYZ
+  - NOW
+  - KVUE
+  - AMAT
+  - GOOGL
+- session: '2025-09-11'
+  time_bin: 3
+  stratum: macro
+  symbols_with_evidence: 6
+  important_evidence_count: 13
+  symbols_with_document: 6
+  scheduled_macro_count: 1
+  scheduled_macro_types:
+  - cpi_yoy
+  macro_released_before_cutoff: 1
+  market_candidate_symbols:
+  - AVGO
+  - MRVL
+  - SMCI
+  - MU
+  - PLTR
+  - COIN
+  - ORCL
+  - AMD
+  - CVNA
+  - UNH
+  - INTC
+  - HUM
+  - KVUE
+  - 'ON'
+  - TSLA
+  - CRM
+  - NOW
+  - XYZ
+  - LRCX
+  - UBER
+- session: '2025-10-16'
+  time_bin: 3
+  stratum: low
+  symbols_with_evidence: 1
+  important_evidence_count: 2
+  symbols_with_document: 1
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - AMD
+  - COIN
+  - INTC
+  - CVNA
+  - HUM
+  - SMCI
+  - TSLA
+  - MRVL
+  - ORCL
+  - 'ON'
+  - MU
+  - AMAT
+  - PYPL
+  - LRCX
+  - CRWD
+  - CRM
+  - AVGO
+  - XYZ
+  - PLTR
+  - NVDA
+- session: '2026-03-31'
+  time_bin: 4
+  stratum: low
+  symbols_with_evidence: 3
+  important_evidence_count: 1
+  symbols_with_document: 3
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - SMCI
+  - MU
+  - INTC
+  - LRCX
+  - MRVL
+  - COIN
+  - CVNA
+  - CRWD
+  - AMD
+  - AMAT
+  - NOW
+  - PLTR
+  - INTU
+  - SLB
+  - CRM
+  - ORCL
+  - XYZ
+  - PANW
+  - 'ON'
+  - TSLA
+- session: '2026-04-13'
+  time_bin: 4
+  stratum: high
+  symbols_with_evidence: 11
+  important_evidence_count: 7
+  symbols_with_document: 11
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - SMCI
+  - INTC
+  - MRVL
+  - PLTR
+  - LRCX
+  - CRWD
+  - MU
+  - CVNA
+  - INTU
+  - AMAT
+  - NOW
+  - COIN
+  - BKNG
+  - PANW
+  - AMD
+  - HUM
+  - AVGO
+  - NKE
+  - ORCL
+  - CRM
+- session: '2026-04-14'
+  time_bin: 4
+  stratum: medium
+  symbols_with_evidence: 7
+  important_evidence_count: 3
+  symbols_with_document: 7
+  scheduled_macro_count: 0
+  scheduled_macro_types: []
+  macro_released_before_cutoff: 0
+  market_candidate_symbols:
+  - INTC
+  - SMCI
+  - CVNA
+  - MRVL
+  - PLTR
+  - NOW
+  - LRCX
+  - INTU
+  - MU
+  - ORCL
+  - CRWD
+  - COIN
+  - AMAT
+  - PANW
+  - HUM
+  - BKNG
+  - ACN
+  - NKE
+  - CRM
+  - AMD
+- session: '2026-04-29'
+  time_bin: 4
+  stratum: macro
+  symbols_with_evidence: 10
+  important_evidence_count: 17
+  symbols_with_document: 10
+  scheduled_macro_count: 1
+  scheduled_macro_types:
+  - fed_rate
+  macro_released_before_cutoff: 1
+  market_candidate_symbols:
+  - INTC
+  - CHTR
+  - AMD
+  - ORCL
+  - SMCI
+  - NOW
+  - MU
+  - MRVL
+  - BKNG
+  - COIN
+  - CVNA
+  - LRCX
+  - 'ON'
+  - PANW
+  - INTU
+  - XYZ
+  - GE
+  - CRWD
+  - PLTR
+  - HUM
+evaluation_sessions:
+- '2026-07-16'
+- '2026-07-17'
+- '2026-07-20'
+- '2026-07-21'
+- '2026-07-22'
+- '2026-07-23'
+- '2026-07-24'
+- '2026-07-27'
+- '2026-07-28'
+- '2026-07-29'
+- '2026-07-30'
+- '2026-07-31'
+- '2026-08-03'
+- '2026-08-04'
+- '2026-08-05'
+- '2026-08-06'
+- '2026-08-07'
+- '2026-08-10'
+- '2026-08-11'
+- '2026-08-12'
+- '2026-08-13'
+- '2026-08-14'
+- '2026-08-17'
+- '2026-08-18'
+- '2026-08-19'
+- '2026-08-20'
+- '2026-08-21'
+- '2026-08-24'
+- '2026-08-25'
+- '2026-08-26'
+- '2026-08-27'
+- '2026-08-28'
+- '2026-08-31'
+- '2026-09-01'
+- '2026-09-02'
+- '2026-09-03'
+- '2026-09-04'
+- '2026-09-08'
+- '2026-09-09'
+- '2026-09-10'
+- '2026-09-11'
+- '2026-09-14'
+- '2026-09-15'
+- '2026-09-16'
+- '2026-09-17'
+- '2026-09-18'
+- '2026-09-21'
+- '2026-09-22'
+- '2026-09-23'
+- '2026-09-24'
+- '2026-09-25'
+- '2026-09-28'
+- '2026-09-29'
+- '2026-09-30'
+- '2026-10-01'
+- '2026-10-02'
+- '2026-10-05'
+- '2026-10-06'
+- '2026-10-07'
+- '2026-10-08'
+- '2026-10-09'
+- '2026-10-12'
+- '2026-10-13'
+- '2026-10-14'
+- '2026-10-15'
+- '2026-10-16'
+- '2026-10-19'
+- '2026-10-20'
+- '2026-10-21'
+- '2026-10-22'
+- '2026-10-23'
+- '2026-10-26'
+- '2026-10-27'
+- '2026-10-28'
+- '2026-10-29'
+- '2026-10-30'
+evaluation_window:
+  first_session: '2026-07-16'
+  last_session: '2026-10-30'
+  session_count: 76
+  previously_inspected_market_only: true
+  use: the executed comparison uses only its first 30 sessions
+execution_plan:
+  smoke_sessions:
+  - '2024-01-19'
+  - '2024-07-25'
+  - '2025-03-03'
+  - '2026-04-10'
+  development_sessions_used: false
+  evaluation_sessions: first 30 validation sessions, 2026-07-16 through 2026-08-26
+  reason: LLM settings are frozen before either run, so the 20 development days are not used for tuning.
+notes:
+- Smoke and development dates come only from the 676 training sessions.
+- Selection does not read target-session high, low, labels, or ranking metrics.
+- The final 76 sessions stay fixed. Market-only outcomes were already inspected.
+- Daily DGS and VIX observations do not make a session a macro-event day.
+- The chosen day is the chronological median of its cell, not its best outcome.
+- The executed plan keeps one low, medium, high, and macro smoke day, skips development, then runs the first 30 evaluation sessions.

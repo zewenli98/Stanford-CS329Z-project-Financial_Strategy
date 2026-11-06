@@ -5,8 +5,10 @@ from __future__ import annotations
 import csv
 import json
 import math
+import threading
 from collections import Counter
 from collections.abc import Callable
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime, time
 from pathlib import Path
 from typing import Literal
@@ -21,6 +23,7 @@ from financial_strategy.audit import RunWriter
 from financial_strategy.audit.writer import verify_manifest
 from financial_strategy.config import ConfigModel
 from financial_strategy.errors import AuditError, ConfigError
+from financial_strategy.evaluation.bootstrap import paired_moving_block_bootstrap
 
 POLICIES = (
     "baseline",
@@ -39,7 +42,7 @@ class AdaptiveEvaluationBody(ConfigModel):
     timezone: str = "America/New_York"
     # Accepted for migration, never read: legacy labels contain open/close only.
     labels: Path | None = None
-    large_move_threshold: float = Field(default=0.02, gt=0)
+    large_move_threshold: float = Field(default=0.04, gt=0)
     variants: list[str] | None = None
     ndcg: dict[str, str | None] | None = None
     policies: list[
@@ -49,8 +52,12 @@ class AdaptiveEvaluationBody(ConfigModel):
     ] = Field(default_factory=lambda: list(POLICIES), min_length=1)
     budgets_usd: list[float] = Field(default_factory=lambda: [0.5, 1.0, 2.0], min_length=1)
     replicates: int = Field(default=1, ge=1)
+    session_parallelism: int = Field(default=1, ge=1, le=8)
     aggregate_budget_usd: float | None = Field(default=None, gt=0, allow_inf_nan=False)
     report_top_ks: list[int] = Field(default_factory=lambda: [3, 5, 10], min_length=1)
+    bootstrap_seed: int = 329
+    bootstrap_samples: int = Field(default=2_000, ge=100)
+    bootstrap_block_sizes: list[int] = Field(default_factory=lambda: [5, 10, 20], min_length=1)
 
     @model_validator(mode="after")
     def check_grid(self) -> AdaptiveEvaluationBody:
@@ -66,6 +73,10 @@ class AdaptiveEvaluationBody(ConfigModel):
             value <= 0 for value in self.report_top_ks
         ):
             raise ValueError("Reporting cutoffs must be unique positive integers")
+        if any(value <= 0 for value in self.bootstrap_block_sizes) or len(
+            self.bootstrap_block_sizes
+        ) != len(set(self.bootstrap_block_sizes)):
+            raise ValueError("Bootstrap block sizes must be unique positive integers")
         time.fromisoformat(self.cutoff_time)
         ZoneInfo(self.timezone)
         return self
@@ -81,7 +92,7 @@ def evaluate_range_ranking(
     labels: dict[str, float],
     *,
     k: int,
-    large_move_threshold: float = 0.02,
+    large_move_threshold: float = 0.04,
 ) -> dict:
     """Evaluate full forecasts, preserving zero-filled unlabelled rank positions.
 
@@ -156,7 +167,7 @@ def evaluate_range_cutoffs(
     labels: dict[str, float],
     *,
     top_ks: list[int],
-    large_move_threshold: float = 0.02,
+    large_move_threshold: float = 0.04,
 ) -> dict[str, dict]:
     """Score prefixes of one forecast ordering against the full eligible universe.
 
@@ -368,6 +379,7 @@ def run_adaptive_evaluation(
     writer = RunWriter(Path(config.output["runs_path"]), evaluation_id)
     records: list[dict] = []
     coverage_records: list[dict] = []
+    state_lock = threading.Lock()
     writer.write_json("evaluation_config.json", spec)
     writer.write_json("screening_config.json", config)
     try:
@@ -389,24 +401,52 @@ def run_adaptive_evaluation(
                             "memory_path": memory_path,
                         }
                     )
-                    arm_config = config.model_copy(update={"adaptive": adaptive})
-                    for session in sorted(body.sessions):
+
+                    def run_session(
+                        session: date,
+                        adaptive=adaptive,
+                        memory_path=memory_path,
+                        policy=policy,
+                        budget=budget,
+                        arm_id=arm_id,
+                        replicate=replicate,
+                    ) -> None:
                         cutoff = datetime.combine(
                             session, time.fromisoformat(body.cutoff_time), ZoneInfo(body.timezone)
                         )
+                        # Concurrent days must not share mutable research memory.
+                        session_adaptive = (
+                            adaptive.model_copy(
+                                update={"memory_path": memory_path / session.isoformat()}
+                            )
+                            if body.session_parallelism > 1
+                            else adaptive
+                        )
+                        session_config = config.model_copy(update={"adaptive": session_adaptive})
+                        session_config = session_config.model_copy(
+                            update={
+                                "agents": session_config.agents.model_copy(
+                                    update={
+                                        "cache_path": session_config.agents.cache_path
+                                        / f"replicate_{replicate}"
+                                    }
+                                )
+                            }
+                        )
                         run_id = f"ar_{uuid4().hex[:12]}"
                         if progress:
-                            progress(
-                                {
-                                    "event": "session_started",
-                                    "session": str(session),
-                                    "policy": policy,
-                                    "run_id": run_id,
-                                }
-                            )
+                            with state_lock:
+                                progress(
+                                    {
+                                        "event": "session_started",
+                                        "session": str(session),
+                                        "policy": policy,
+                                        "run_id": run_id,
+                                    }
+                                )
                         try:
                             run_dir, _ = run_adaptive(
-                                arm_config,
+                                session_config,
                                 run_id=run_id,
                                 task_overrides={
                                     "target_session": session,
@@ -423,27 +463,27 @@ def run_adaptive_evaluation(
                                     failed_integrity = summarize_run_integrity(failed_dir, [])
                                 except AuditError:
                                     failed_integrity = {"artifact_integrity_verified": False}
-                            records.append(
-                                {
-                                    "arm": arm_id,
-                                    "policy": policy,
-                                    "budget_usd": budget,
-                                    "replicate_id": str(replicate),
-                                    "session": session.isoformat(),
-                                    "run_id": run_id,
-                                    "status": "failed",
-                                    "error": str(exc),
-                                    "metrics": {},
-                                    "integrity": failed_integrity,
-                                }
-                            )
-                            writer.write_json("progress.json", records)
-                            if progress:
-                                progress({"event": "session_failed", **records[-1]})
-                            continue
+                            failed_record = {
+                                "arm": arm_id,
+                                "policy": policy,
+                                "budget_usd": budget,
+                                "replicate_id": str(replicate),
+                                "session": session.isoformat(),
+                                "run_id": run_id,
+                                "status": "failed",
+                                "error": str(exc),
+                                "metrics": {},
+                                "integrity": failed_integrity,
+                            }
+                            with state_lock:
+                                records.append(failed_record)
+                                writer.write_json("progress.json", records)
+                                if progress:
+                                    progress({"event": "session_failed", **failed_record})
+                            return
                         # Intentionally only here: immutable predictions already exist.
                         label_frame, coverage = derive_range_labels(
-                            arm_config.data.market_bars,
+                            session_config.data.market_bars,
                             [session],
                             [row["symbol"] for row in forecasts],
                         )
@@ -451,7 +491,7 @@ def run_adaptive_evaluation(
                         metrics = evaluate_range_ranking(
                             forecasts,
                             labels,
-                            k=arm_config.task.top_k,
+                            k=session_config.task.top_k,
                             large_move_threshold=body.large_move_threshold,
                         )
                         metrics_by_k = evaluate_range_cutoffs(
@@ -487,15 +527,28 @@ def run_adaptive_evaluation(
                                     "predicted_range": row["predicted_range"],
                                     "realized_range": labels.get(row["symbol"]),
                                 }
-                                for index, row in enumerate(ordered[: arm_config.task.top_k])
+                                for index, row in enumerate(ordered[: session_config.task.top_k])
                             ],
                             "integrity": summarize_run_integrity(run_dir, forecasts),
                         }
-                        records.append(record)
-                        writer.write_json("progress.json", records)
-                        if progress:
-                            progress({"event": "session_completed", **record})
-                        coverage_records.append({"run_id": run_id, **coverage})
+                        with state_lock:
+                            records.append(record)
+                            coverage_records.append({"run_id": run_id, **coverage})
+                            writer.write_json("progress.json", records)
+                            if progress:
+                                progress({"event": "session_completed", **record})
+
+                    sessions = sorted(body.sessions)
+                    workers = min(body.session_parallelism, len(sessions))
+                    if workers == 1:
+                        for session in sessions:
+                            run_session(session)
+                    else:
+                        with ThreadPoolExecutor(max_workers=workers) as pool:
+                            futures = [pool.submit(run_session, session) for session in sessions]
+                            for future in as_completed(futures):
+                                future.result()
+        records.sort(key=lambda row: (row["arm"], row["session"]))
         summary: dict[str, dict] = {}
         for arm in sorted({record["arm"] for record in records}):
             rows = [record for record in records if record["arm"] == arm]
@@ -614,8 +667,8 @@ def run_adaptive_evaluation(
             "reserved_live_budget_usd": maximum_spend,
             "aggregate_budget_usd": body.aggregate_budget_usd,
             "replication_scope": (
-                "Independent policy/replicate trajectories; exact requests may share cache "
-                "within a replicate."
+                "Policy/replicate trajectories have isolated memory and replicate-scoped "
+                "response caches; exact requests may share cache only within a replicate."
             ),
             "label_source": "existing frozen market high/low; no open/close substitution",
             "partial_label_note": (
@@ -624,6 +677,7 @@ def run_adaptive_evaluation(
                 "its denominator."
             ),
             "summary": summary,
+            "paired_comparisons": summarize_adaptive_paired_comparisons(records, body),
             "sessions": records,
         }
         writer.write_json("report.json", report)
@@ -697,3 +751,77 @@ def run_adaptive_evaluation(
             },
         )
         raise
+
+
+def summarize_adaptive_paired_comparisons(
+    records: list[dict], body: AdaptiveEvaluationBody
+) -> dict:
+    """Compare policies to same-budget baselines within each replicate."""
+
+    usable = [
+        row for row in records
+        if row["status"] in {"completed", "partial_range_labels"}
+    ]
+    result = {}
+    policies = sorted({row["policy"] for row in usable} - {"baseline"})
+    budgets = sorted({row["budget_usd"] for row in usable})
+    for budget in budgets:
+        for policy in policies:
+            name = f"{policy}_budget_{budget:g}_vs_baseline"
+            result[name] = {}
+            for metric in ("top_k_regret", "mean_selected_range", "ndcg_at_k"):
+                replicate_summaries = []
+                for replicate_id in sorted({row["replicate_id"] for row in usable}):
+                    challenger_rows = [
+                        row for row in usable
+                        if row["policy"] == policy
+                        and row["budget_usd"] == budget
+                        and row["replicate_id"] == replicate_id
+                    ]
+                    baseline_rows = [
+                        row for row in usable
+                        if row["policy"] == "baseline"
+                        and row["budget_usd"] == budget
+                        and row["replicate_id"] == replicate_id
+                    ]
+                    challenger = {
+                        row["session"]: row["metrics"].get(metric)
+                        for row in challenger_rows
+                    }
+                    baseline = {
+                        row["session"]: row["metrics"].get(metric)
+                        for row in baseline_rows
+                    }
+                    if metric == "top_k_regret":
+                        challenger, baseline = baseline, challenger
+                    paired = paired_moving_block_bootstrap(
+                        challenger,
+                        baseline,
+                        seed=body.bootstrap_seed,
+                        samples=body.bootstrap_samples,
+                        block_sizes=body.bootstrap_block_sizes,
+                    )
+                    replicate_summaries.append({"replicate_id": replicate_id, **paired})
+                deltas = [
+                    item["mean_delta"] for item in replicate_summaries
+                    if item["mean_delta"] is not None
+                ]
+                result[name][metric] = {
+                    "direction": "positive=challenger_better",
+                    "replicates": replicate_summaries,
+                    "aggregate_replicate_deltas": _adaptive_delta_distribution(deltas),
+                }
+    return result
+
+
+def _adaptive_delta_distribution(values: list[float]) -> dict:
+    if not values:
+        return {"count": 0, "mean": None, "std": None, "min": None, "max": None}
+    mean = sum(values) / len(values)
+    return {
+        "count": len(values),
+        "mean": mean,
+        "std": math.sqrt(sum((value - mean) ** 2 for value in values) / len(values)),
+        "min": min(values),
+        "max": max(values),
+    }

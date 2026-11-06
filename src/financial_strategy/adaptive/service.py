@@ -26,6 +26,7 @@ from financial_strategy.adaptive.models import InfoCard, RangeForecast
 from financial_strategy.adaptive.research_v2 import (
     history_baselines,
     packet_questions,
+    range_uncertainty,
     select_candidates,
 )
 from financial_strategy.adaptive.tools import OpaqueToolView
@@ -158,6 +159,7 @@ def _execute(
             task.decision_cutoff,
             limit,
             config.adaptive.candidate_method,
+            range_uncertainty(snapshot.bars),
         )
         features = {symbol: features[symbol] for symbol in sorted(candidates)}
     writer.write_json(

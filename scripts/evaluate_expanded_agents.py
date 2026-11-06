@@ -32,13 +32,13 @@ from financial_strategy.tuning.runner import _block_bootstrap_ci
 
 ROOT = Path(__file__).resolve().parents[1]
 EVENT_WEIGHT_GRID = (0.0, 0.01, 0.025, 0.05, 0.10, 0.15, 0.25)
-LARGE_MOVE_THRESHOLD = 0.05
+LARGE_MOVE_THRESHOLD = 0.04
 
 
 def evaluate_expanded_agents(
     config_path: Path,
     *,
-    label_mode: RankLabelMode = "open_to_close",
+    label_mode: RankLabelMode = "intraday_range",
     output_dir: Path | None = None,
     feature_cache_path: Path | None = None,
     training_report_path: Path | None = None,
@@ -543,12 +543,12 @@ def main() -> None:
     parser.add_argument(
         "--config",
         type=Path,
-        default=ROOT / "configs/data_expansion.yaml",
+        default=ROOT / "configs/research100_study.yaml",
     )
     parser.add_argument(
         "--label-mode",
-        choices=("open_to_close", "prev_close_to_close"),
-        default="open_to_close",
+        choices=("intraday_range",),
+        default="intraday_range",
     )
     parser.add_argument("--output-directory", type=Path, default=None)
     parser.add_argument("--feature-cache", type=Path, default=None)

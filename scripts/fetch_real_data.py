@@ -595,6 +595,8 @@ def fetch_market(output: Path, calendar: TradingCalendar, retrieved_at: datetime
                     "session": evaluation_session,
                     "symbol": symbol,
                     "open": float(target["Open"]),
+                    "high": float(target["High"]),
+                    "low": float(target["Low"]),
                     "close": float(target["Close"]),
                 }
             )

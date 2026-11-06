@@ -518,7 +518,7 @@ def test_numeric_surprise_uses_matched_reported_and_consensus() -> None:
     assert features["has_numeric_surprise"] == 1.0
 
 
-def test_negative_price_direction_does_not_demote_absolute_movement() -> None:
+def test_negative_surprise_preserves_signed_demote_bucket() -> None:
     assessment = _assessment().model_copy(
         update={
             "surprise_direction": "negative",
@@ -533,7 +533,7 @@ def test_negative_price_direction_does_not_demote_absolute_movement() -> None:
         features=_feature(),
         catalyst_assessment=assessment,
     )
-    assert llm_residual_features(card)["signed_bucket"] == 1.0
+    assert llm_residual_features(card)["signed_bucket"] == -1.0
 
     card.catalyst_assessment.surprise_direction = "unknown"
     assert llm_residual_features(card)["signed_bucket"] == -1.0
