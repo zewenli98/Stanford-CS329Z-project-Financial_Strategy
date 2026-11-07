@@ -21,7 +21,9 @@ from financial_strategy.config import load_mvp_config
 from financial_strategy.data.providers import LocalEvidenceProvider
 from financial_strategy.ranking.ranker import (
     calibrate_market_scores,
+    direct_verified_signed_residual,
     llm_residual_features,
+    rank_cards,
     signed_llm_residual,
 )
 from financial_strategy.schemas import (
@@ -34,6 +36,7 @@ from financial_strategy.schemas import (
     FeatureRecord,
     MacroContext,
     ResearchCard,
+    SymbolMacroExposure,
     VerificationReport,
 )
 from financial_strategy.tuning.learning import fit_signed_ridge_residual
@@ -434,6 +437,83 @@ def test_signed_residual_requires_both_verifiers_and_can_demote() -> None:
     )
     assert signed_llm_residual(card, ranking) == 0.0
     assert llm_residual_features(card)["signed_bucket"] == -1.0
+
+
+def test_disabled_ridge_still_applies_verified_signed_bucket() -> None:
+    config = load_mvp_config(ROOT / "configs/screening_2026-10-14.yaml")
+    ranking = config.ranking.model_copy(update={"minimum_score": 0.0})
+    promoted = _assessment().model_copy(
+        update={
+            "signed_residual_bucket": "promote",
+            "target_session_timing": "unknown",
+            "target_session_relevance": "high",
+        }
+    )
+    card = ResearchCard(
+        symbol="AAPL",
+        task_id="task",
+        decision_cutoff=datetime(2026, 11, 1, tzinfo=UTC),
+        target_session=date(2026, 11, 2),
+        features=_feature(),
+        catalyst_assessment=promoted,
+        deterministic_verification=VerificationReport(verdict="PASS"),
+        semantic_verification=VerificationReport(verdict="PASS"),
+        eligibility=Eligibility(eligible=True),
+    )
+    # 0.15 cap * promote 0.5 * unknown timing 0.5 * high relevance 1.0
+    assert direct_verified_signed_residual(card, ranking) == pytest.approx(0.0375)
+    peer = card.model_copy(update={"symbol": "MSFT", "catalyst_assessment": None})
+    entries = rank_cards(
+        [card, peer],
+        {"AAPL": 0.5, "MSFT": 0.52},
+        {"AAPL": 0.5, "MSFT": 0.52},
+        MacroContext(task_id="task", events=[], evidence_ids=[]),
+        {
+            symbol: SymbolMacroExposure(
+                symbol=symbol,
+                sector="technology",
+                exposure_method="sector_heuristic_v1",
+                template_version="v1",
+                exposures={},
+            )
+            for symbol in ("AAPL", "MSFT")
+        },
+        ranking,
+        2,
+    )
+    by_symbol = {entry.symbol: entry for entry in entries}
+    assert by_symbol["AAPL"].score == pytest.approx(by_symbol["AAPL"].market_score + 0.0375)
+    assert by_symbol["MSFT"].score == pytest.approx(by_symbol["MSFT"].market_score)
+    card.semantic_verification = VerificationReport(
+        verdict="REVISE",
+        issues=[
+            {
+                "code": "BAD_INFERENCE",
+                "severity": "blocking",
+                "field": "catalyst_assessment",
+                "required_action": "revise_assessment",
+            }
+        ],
+    )
+    assert direct_verified_signed_residual(card, ranking) == pytest.approx(0.0375)
+    blocked = rank_cards(
+        [card],
+        {"AAPL": 0.5},
+        {"AAPL": 0.5},
+        MacroContext(task_id="task", events=[], evidence_ids=[]),
+        {
+            "AAPL": SymbolMacroExposure(
+                symbol="AAPL",
+                sector="technology",
+                exposure_method="sector_heuristic_v1",
+                template_version="v1",
+                exposures={},
+            )
+        },
+        ranking,
+        1,
+    )
+    assert blocked[0].score == pytest.approx(blocked[0].market_score)
 
 
 def test_signed_residual_does_not_apply_intercept_without_features() -> None:

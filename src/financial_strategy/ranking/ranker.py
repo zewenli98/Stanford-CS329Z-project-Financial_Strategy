@@ -489,6 +489,45 @@ def llm_residual_features(card: ResearchCard) -> dict[str, float]:
     return {name: result[name] for name in LLM_RESIDUAL_FEATURE_FIELDS}
 
 
+_SIGNED_BUCKET = {
+    "strong_demote": -1.0,
+    "demote": -0.5,
+    "neutral": 0.0,
+    "promote": 0.5,
+    "strong_promote": 1.0,
+}
+_TIMING_WEIGHT = {
+    "before_open": 1.0,
+    "during_session": 1.0,
+    "prior_session": 0.6,
+    "unknown": 0.5,
+    "after_close": 0.35,
+}
+_RELEVANCE_WEIGHT = {"none": 0.0, "low": 0.5, "medium": 0.75, "high": 1.0}
+
+
+def direct_verified_signed_residual(card: ResearchCard, config: RankingConfig) -> float:
+    """Apply the model's own verified range residual when no ridge model is promoted.
+
+    The learned residual stays off unless chronological validation promotes it.
+    A verified non-neutral ``signed_residual_bucket`` is still the language model's
+    explicit correction to the market rank, so Prediction A uses that judgment
+    directly, clipped to ``max_abs_residual``. Neutral, irrelevant, or unverified
+    cards leave the market score unchanged.
+    """
+
+    assessment = card.catalyst_assessment
+    if assessment is None or not assessment.evidence_ids:
+        return 0.0
+    signed = _SIGNED_BUCKET[assessment.signed_residual_bucket]
+    relevance = _RELEVANCE_WEIGHT[assessment.target_session_relevance]
+    if signed == 0.0 or relevance == 0.0:
+        return 0.0
+    limit = config.residual_model.max_abs_residual
+    value = limit * signed * _TIMING_WEIGHT[assessment.target_session_timing] * relevance
+    return max(-limit, min(limit, value))
+
+
 def signed_llm_residual(card: ResearchCard, config: RankingConfig) -> float:
     model = config.residual_model
     if not model.enabled:
@@ -591,22 +630,25 @@ def rank_cards(
         if variant == "no_macro":
             macro_component = 0.0
         market_score = market_scores[card.symbol]
-        # Published order is the market score. The calibrated residual is the
-        # only agent term, and only while residual_model.enabled is true.
-        # Event and macro components remain on the audit record.
-        company_residual = (
-            signed_llm_residual(card, config)
-            if variant != "no_company_event"
-            else 0.0
-        )
+        # Event and macro heuristic components stay on the audit record.
+        # The published correction is either the promoted ridge residual or,
+        # when that model is off, the verified signed residual from the
+        # language-model assessment.
+        if variant == "no_company_event":
+            company_residual = 0.0
+        elif config.residual_model.enabled:
+            company_residual = signed_llm_residual(card, config)
+        elif agent_pass:
+            company_residual = direct_verified_signed_residual(card, config)
+        else:
+            company_residual = 0.0
         macro_residual = (
             macro_interaction_residual(card, config)
             if variant != "no_macro"
             else 0.0
         )
         learned_residual = company_residual + macro_residual
-        score = market_score + learned_residual if config.residual_model.enabled else market_score
-        score = min(1.0, max(0.0, score))
+        score = min(1.0, max(0.0, market_score + learned_residual))
         if score >= config.minimum_score:
             weighted.append(
                 (
