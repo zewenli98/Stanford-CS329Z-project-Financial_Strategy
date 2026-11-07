@@ -17,6 +17,27 @@ from typing import Any
 
 from financial_strategy.errors import StrategyError
 
+_AMBIGUOUS_COMPANY_NAMES = frozenset(
+    {"target", "gap", "block", "carrier", "progressive", "southern", "united"}
+)
+_COMPANY_CONTEXT = (
+    r"(?=\s+(?i:shares?|stock|earnings|revenue|retailer|reported|reports|announced|"
+    r"announces|raised|raises|cut|cuts|reaffirmed|said|says)\b)"
+)
+
+
+def _company_name_pattern(name: str) -> re.Pattern:
+    """Keep ordinary prose distinct from ambiguous, shortened issuer names."""
+    boundary = r"(?<![\w])"
+    ending = r"(?![\w])"
+    if name.casefold() not in _AMBIGUOUS_COMPANY_NAMES:
+        return re.compile(boundary + re.escape(name) + ending, re.IGNORECASE)
+    # A bare name needs a capital within that exact token, not in a later word.
+    capital = rf"(?=.{{0,{len(name) - 1}}}[A-Z])"
+    return re.compile(
+        boundary + capital + "(?i:" + re.escape(name) + ")" + ending + _COMPANY_CONTEXT
+    )
+
 
 class ResearchToolError(StrategyError):
     """An invalid action cannot expand the worker's permitted data boundary."""
@@ -94,20 +115,23 @@ class OpaqueToolView:
                 str(security.get("cik", "")),
                 str(security.get("permanent_entity_id", "")),
             }
+            company_names: set[str] = set()
             name = str(security.get("company_name", "")).strip()
             if name:
-                identifiers.add(name)
+                company_names.add(name)
                 short = re.sub(
-                    r"\s+(?:INCORPORATED|CORPORATION|CORP|INC|CO|LTD|PLC)\.?\b.*$",
+                    r",?\s+(?:INCORPORATED|CORPORATION|CORP|INC|CO|LTD|PLC)\.?\b.*$",
                     "",
                     name,
                     flags=re.IGNORECASE,
                 ).strip()
                 if len(short) >= 3:
-                    identifiers.add(short)
+                    company_names.add(short)
+            for company_name in company_names:
+                self._replacements.append((_company_name_pattern(company_name), alias))
             for identifier in sorted(identifiers, key=len, reverse=True):
                 if identifier and identifier != "None":
-                    if protocol_v2 and identifier == symbol:
+                    if identifier == symbol:
                         # Common English words and single letters are not safe bare identifiers.
                         if len(symbol) <= 2 or symbol in {"LOW", "ALL", "ARE", "NOW", "IT"}:
                             pattern = re.compile(r"\$" + re.escape(symbol) + r"\b")

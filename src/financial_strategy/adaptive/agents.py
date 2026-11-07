@@ -10,7 +10,7 @@ from __future__ import annotations
 import hashlib
 import re
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import date, datetime
 from typing import Any
 
 from financial_strategy.adaptive.models import (
@@ -41,8 +41,64 @@ def _numbers(text: str) -> set[str]:
     from decimal import Decimal
 
     text = re.sub(r"\b(?:company|source|event|card|question)_[a-zA-Z0-9_]+\b", "", text)
+    # A dash between positive endpoints is a range separator, not a unary minus.
+    # Preserve genuine negatives, including a negative second endpoint and exponents.
+    text = re.sub(
+        r"(\d[\d,]*(?:\.\d+)?\s*(?:%|[kmbt]|million|billion|trillion)?)"
+        r"\s*[-\u2013\u2014]\s*(?=[$\u20ac\u00a3]?\d)",
+        r"\1 to ",
+        text,
+        flags=re.IGNORECASE,
+    )
     matches = re.findall(r"(?<![\w])[-+]?\d[\d,]*(?:\.\d+)?(?:[eE][-+]?\d+)?", text)
     return {str(Decimal(value.replace(",", "")).normalize()) for value in matches}
+
+
+_MONTHS = {
+    name: i
+    for i, name in enumerate(
+        ("jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"), 1
+    )
+}
+_DATE_MENTION = re.compile(
+    r"\b(?P<iso>\d{4}-\d{2}-\d{2})\b|"
+    r"\b(?P<month>Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|"
+    r"Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)"
+    r"\.?\s+(?P<day>\d{1,2})(?:st|nd|rd|th)?(?:,?\s+(?P<year>\d{4}))?\b",
+    re.IGNORECASE,
+)
+
+
+def _date_mentions(text: str, default_year: int):
+    for match in _DATE_MENTION.finditer(text):
+        try:
+            value = (
+                date.fromisoformat(match["iso"])
+                if match["iso"]
+                else date(
+                    int(match["year"] or default_year),
+                    _MONTHS[match["month"][:3].lower()],
+                    int(match["day"]),
+                )
+            )
+        except ValueError:
+            value = None
+        yield match, value
+
+
+def _fact_numbers(text: str, supported_dates: set[date], default_year: int):
+    """Validate dates as dates; never whitelist their components as financial facts."""
+    chunks = []
+    previous = 0
+    invalid_date = False
+    for match, value in _date_mentions(text, default_year):
+        chunks.append(text[previous : match.start()])
+        if value not in supported_dates:
+            invalid_date = True
+            chunks.append(match.group())
+        previous = match.end()
+    chunks.append(text[previous:])
+    return _numbers(" ".join(chunks)), invalid_date
 
 
 def verify_card_deterministic(
@@ -116,9 +172,24 @@ def verify_card_deterministic(
             for s in card.source_spans
             if s.evidence_id in view.evidence_map
         )
-    supported_numbers = _numbers("\n".join(source_text))
+    default_year = view.task.target_session.year
+    supported_dates = {view.task.target_session, view.cutoff.date()}
+    for span in card.source_spans:
+        record = view.evidence_map.get(span.evidence_id)
+        if record is not None:
+            supported_dates.update([record.published_at.date(), record.available_at.date()])
+            if record.event_time is not None:
+                supported_dates.add(record.event_time.date())
+    for text in source_text:
+        supported_dates.update(
+            value for _, value in _date_mentions(text, default_year) if value is not None
+        )
+    supported_numbers, _ = _fact_numbers("\n".join(source_text), supported_dates, default_year)
     for observation in card.observations:
-        if _numbers(observation) - supported_numbers:
+        numbers, invalid_date = _fact_numbers(observation, supported_dates, default_year)
+        if invalid_date:
+            issues.append("UNSUPPORTED_DATE_FACT")
+        if numbers - supported_numbers:
             issues.append("UNSUPPORTED_NUMERICAL_FACT")
     return sorted(set(issues))
 
@@ -162,9 +233,20 @@ class ResearchAgentSuite:
         *,
         attempt_type: str = "initial",
     ) -> Any:
-        result = self.client.generate(
-            role, self.view.sanitize_model(payload), schema, attempt_type=attempt_type
+        # Task context is authoritative input, not a fact that must be in a filing.
+        payload = {
+            **payload,
+            "target_session": self.view.task.target_session.isoformat(),
+            "decision_cutoff": self.view.cutoff.isoformat(),
+        }
+        # These instructions are authored by the harness; redact evidence and model
+        # content without rewriting trusted control text (e.g. "Target the next session").
+        visible = self.view.sanitize_model(
+            {k: v for k, v in payload.items() if k != "instructions"}
         )
+        if "instructions" in payload:
+            visible["instructions"] = payload["instructions"]
+        result = self.client.generate(role, visible, schema, attempt_type=attempt_type)
         attempts.append(result)
         return schema.model_validate(result.response)
 
