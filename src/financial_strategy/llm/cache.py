@@ -41,5 +41,15 @@ class AtomicJsonCache:
                 os.link(temporary, final)
             except FileExistsError:
                 pass
+            except PermissionError:
+                if os.name != "nt":
+                    raise
+                # Windows rename is atomic and refuses to replace an existing
+                # destination, unlike POSIX rename. Restricted Windows sessions
+                # may disallow hard links even inside the workspace.
+                try:
+                    os.rename(temporary, final)
+                except FileExistsError:
+                    pass
         finally:
             temporary.unlink(missing_ok=True)

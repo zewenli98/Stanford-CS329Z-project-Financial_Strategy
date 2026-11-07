@@ -1,0 +1,814 @@
+{
+  "model": "frozen_20_feature_market_ranker",
+  "sessions": [
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.06315135474980807,
+        "ndcg_at_k": 0.7566367782826403,
+        "precision_at_k": 0.9,
+        "selected_symbols": [
+          "MRVL",
+          "INTC",
+          "MU",
+          "IBM",
+          "ON",
+          "AMAT",
+          "LRCX",
+          "AMD",
+          "CRWD",
+          "SMCI"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-16"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.08073801187323446,
+        "ndcg_at_k": 0.854141620551036,
+        "precision_at_k": 0.9,
+        "selected_symbols": [
+          "MRVL",
+          "IBM",
+          "ON",
+          "LRCX",
+          "INTC",
+          "AMD",
+          "SMCI",
+          "AMAT",
+          "MU",
+          "ORCL"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-17"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.046149821186977726,
+        "ndcg_at_k": 0.7406812443255648,
+        "precision_at_k": 0.7,
+        "selected_symbols": [
+          "IBM",
+          "INTC",
+          "AMAT",
+          "MRVL",
+          "LRCX",
+          "MU",
+          "ON",
+          "AMD",
+          "SMCI",
+          "ORCL"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-20"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.045037282511177786,
+        "ndcg_at_k": 0.6628631062211627,
+        "precision_at_k": 0.6,
+        "selected_symbols": [
+          "MRVL",
+          "LRCX",
+          "INTC",
+          "AMAT",
+          "IBM",
+          "AMD",
+          "ORCL",
+          "MU",
+          "ON",
+          "SMCI"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-21"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.059436040316927674,
+        "ndcg_at_k": 0.7997499034991915,
+        "precision_at_k": 0.7,
+        "selected_symbols": [
+          "MRVL",
+          "LRCX",
+          "SMCI",
+          "INTC",
+          "AMAT",
+          "MU",
+          "AMD",
+          "COIN",
+          "IBM",
+          "ON"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-22"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.0499720744041875,
+        "ndcg_at_k": 0.6945028728364266,
+        "precision_at_k": 0.8,
+        "selected_symbols": [
+          "SMCI",
+          "MRVL",
+          "AMD",
+          "LRCX",
+          "MU",
+          "IBM",
+          "CVNA",
+          "AMAT",
+          "INTC",
+          "COIN"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-23"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.06268509614504188,
+        "ndcg_at_k": 0.7342145419014625,
+        "precision_at_k": 0.9,
+        "selected_symbols": [
+          "SMCI",
+          "MRVL",
+          "AMD",
+          "CVNA",
+          "TSLA",
+          "MU",
+          "INTC",
+          "AMAT",
+          "IBM",
+          "NOW"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-24"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.08073473825298355,
+        "ndcg_at_k": 0.867479568822211,
+        "precision_at_k": 0.9,
+        "selected_symbols": [
+          "SMCI",
+          "MRVL",
+          "MU",
+          "INTC",
+          "AMD",
+          "TSLA",
+          "AMAT",
+          "LRCX",
+          "ORCL",
+          "IBM"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-27"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.06372310161303793,
+        "ndcg_at_k": 0.8884858574262837,
+        "precision_at_k": 0.9,
+        "selected_symbols": [
+          "LRCX",
+          "MRVL",
+          "SMCI",
+          "MU",
+          "AMD",
+          "AMAT",
+          "INTC",
+          "TSLA",
+          "COIN",
+          "NOW"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-28"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.08513266263970612,
+        "ndcg_at_k": 0.8679484065543174,
+        "precision_at_k": 0.9,
+        "selected_symbols": [
+          "MRVL",
+          "AMD",
+          "MU",
+          "AMAT",
+          "LRCX",
+          "SMCI",
+          "INTC",
+          "NOW",
+          "IBM",
+          "ON"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-29"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.07034162334112433,
+        "ndcg_at_k": 0.8758576859605746,
+        "precision_at_k": 0.9,
+        "selected_symbols": [
+          "MU",
+          "AMAT",
+          "MRVL",
+          "SMCI",
+          "AMD",
+          "LRCX",
+          "NOW",
+          "INTC",
+          "ON",
+          "COIN"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-30"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.07695304321664885,
+        "ndcg_at_k": 0.8292537096274712,
+        "precision_at_k": 0.9,
+        "selected_symbols": [
+          "AMAT",
+          "LRCX",
+          "MRVL",
+          "MU",
+          "AMD",
+          "SMCI",
+          "INTC",
+          "NOW",
+          "CVNA",
+          "INTU"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-07-31"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.0708754775183892,
+        "ndcg_at_k": 0.9041062485739843,
+        "precision_at_k": 1.0,
+        "selected_symbols": [
+          "MU",
+          "MRVL",
+          "LRCX",
+          "AMD",
+          "AMAT",
+          "COIN",
+          "SMCI",
+          "NOW",
+          "INTC",
+          "CVNA"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-03"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.05621827517523853,
+        "ndcg_at_k": 0.6224409984662946,
+        "precision_at_k": 0.8,
+        "selected_symbols": [
+          "MU",
+          "MRVL",
+          "ORCL",
+          "AMD",
+          "LRCX",
+          "AMAT",
+          "COIN",
+          "SMCI",
+          "INTC",
+          "CVNA"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-04"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.047905926902122906,
+        "ndcg_at_k": 0.7014174745973566,
+        "precision_at_k": 0.8,
+        "selected_symbols": [
+          "MRVL",
+          "SMCI",
+          "AMD",
+          "LRCX",
+          "MU",
+          "AMAT",
+          "INTC",
+          "ORCL",
+          "PLTR",
+          "NOW"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-05"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.0665851149736,
+        "ndcg_at_k": 0.8416551394988359,
+        "precision_at_k": 0.9,
+        "selected_symbols": [
+          "AMD",
+          "MRVL",
+          "LRCX",
+          "SMCI",
+          "MU",
+          "AMAT",
+          "PLTR",
+          "INTC",
+          "ORCL",
+          "ON"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-06"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.056120267874688046,
+        "ndcg_at_k": 0.8372732732988794,
+        "precision_at_k": 0.7,
+        "selected_symbols": [
+          "MRVL",
+          "MU",
+          "SMCI",
+          "AMD",
+          "PLTR",
+          "INTC",
+          "ORCL",
+          "LRCX",
+          "AMAT",
+          "COIN"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-07"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.049327557636788325,
+        "ndcg_at_k": 0.8508901724985681,
+        "precision_at_k": 0.5,
+        "selected_symbols": [
+          "MRVL",
+          "SMCI",
+          "MU",
+          "PLTR",
+          "AMD",
+          "NOW",
+          "LRCX",
+          "INTC",
+          "ORCL",
+          "COIN"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-10"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.03495091724139064,
+        "ndcg_at_k": 0.643307157324459,
+        "precision_at_k": 0.3,
+        "selected_symbols": [
+          "MRVL",
+          "SMCI",
+          "MU",
+          "PLTR",
+          "AMD",
+          "LRCX",
+          "INTC",
+          "AMAT",
+          "NOW",
+          "CVNA"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-11"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.041752477269950086,
+        "ndcg_at_k": 0.7205900084691222,
+        "precision_at_k": 0.5,
+        "selected_symbols": [
+          "MRVL",
+          "SMCI",
+          "AMD",
+          "AMAT",
+          "LRCX",
+          "MU",
+          "ORCL",
+          "PLTR",
+          "INTC",
+          "ADBE"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-12"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.0610756348996631,
+        "ndcg_at_k": 0.884149859809037,
+        "precision_at_k": 0.8,
+        "selected_symbols": [
+          "SMCI",
+          "MRVL",
+          "ORCL",
+          "LRCX",
+          "MU",
+          "AMAT",
+          "PLTR",
+          "AMD",
+          "NOW",
+          "ON"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-13"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.04238856275859131,
+        "ndcg_at_k": 0.7547533721704668,
+        "precision_at_k": 0.6,
+        "selected_symbols": [
+          "SMCI",
+          "MRVL",
+          "MU",
+          "LRCX",
+          "PLTR",
+          "COIN",
+          "AMAT",
+          "ORCL",
+          "NOW",
+          "ADBE"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-14"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.038548722888217826,
+        "ndcg_at_k": 0.723140635536178,
+        "precision_at_k": 0.4,
+        "selected_symbols": [
+          "SMCI",
+          "AMD",
+          "AMAT",
+          "LRCX",
+          "MU",
+          "MRVL",
+          "ORCL",
+          "COIN",
+          "INTU",
+          "PLTR"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-17"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.0460362263212787,
+        "ndcg_at_k": 0.8845791868306104,
+        "precision_at_k": 0.5,
+        "selected_symbols": [
+          "SMCI",
+          "MRVL",
+          "AMAT",
+          "LRCX",
+          "MU",
+          "AMD",
+          "NOW",
+          "CHTR",
+          "CVNA",
+          "ORCL"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-18"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.06860266586128393,
+        "ndcg_at_k": 0.7112959501938029,
+        "precision_at_k": 1.0,
+        "selected_symbols": [
+          "SMCI",
+          "MRVL",
+          "CVNA",
+          "MU",
+          "LRCX",
+          "AMAT",
+          "CHTR",
+          "AMD",
+          "NOW",
+          "INTC"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-19"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.04553758710014252,
+        "ndcg_at_k": 0.6780002838215621,
+        "precision_at_k": 0.4,
+        "selected_symbols": [
+          "MRVL",
+          "LRCX",
+          "AMAT",
+          "COIN",
+          "CVNA",
+          "AMD",
+          "CHTR",
+          "SMCI",
+          "ADBE",
+          "NOW"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-20"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.04564745745253649,
+        "ndcg_at_k": 0.8114831578571383,
+        "precision_at_k": 0.6,
+        "selected_symbols": [
+          "MRVL",
+          "CHTR",
+          "SMCI",
+          "COIN",
+          "CVNA",
+          "MU",
+          "AMAT",
+          "LRCX",
+          "AMD",
+          "NOW"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-21"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.05161873537709368,
+        "ndcg_at_k": 0.9011325314429576,
+        "precision_at_k": 0.9,
+        "selected_symbols": [
+          "MRVL",
+          "CVNA",
+          "COIN",
+          "SMCI",
+          "AMAT",
+          "INTC",
+          "LRCX",
+          "MU",
+          "CHTR",
+          "PLTR"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-24"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.04972447859800771,
+        "ndcg_at_k": 0.8618893821867196,
+        "precision_at_k": 0.5,
+        "selected_symbols": [
+          "COIN",
+          "SMCI",
+          "MRVL",
+          "MU",
+          "CVNA",
+          "AMAT",
+          "INTC",
+          "LRCX",
+          "AMD",
+          "CHTR"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-25"
+    },
+    {
+      "eligible_feature_count": 100,
+      "label_count": 100,
+      "metrics": {
+        "k_effective": 10,
+        "mean_absolute_return_at_k": 0.032061957535904496,
+        "ndcg_at_k": 0.5460217853438128,
+        "precision_at_k": 0.2,
+        "selected_symbols": [
+          "MRVL",
+          "SMCI",
+          "COIN",
+          "CVNA",
+          "CHTR",
+          "MU",
+          "INTC",
+          "CRWD",
+          "AMAT",
+          "LRCX"
+        ],
+        "selection_count": 10,
+        "selection_coverage": 1.0
+      },
+      "rejected_count": 0,
+      "session": "2026-08-26"
+    }
+  ],
+  "source_config": "configs/screening_research100_llm_live.yaml",
+  "summary": {
+    "average_mean_absolute_return_at_k": 0.056301096454524774,
+    "average_ndcg_at_k": 0.781664730464271,
+    "average_precision_at_k": 0.7133333333333333,
+    "session_count": 30
+  },
+  "weights": {
+    "atr_14d": 0.07661649096269793,
+    "distance_to_ma20": 0.009283544893280994,
+    "industry_residual_volatility_20d": 0.016416163368599766,
+    "market_residual_volatility_20d": 0.05164067852416188,
+    "median_abs_oc_return_10d": 0.03440099716970012,
+    "median_abs_oc_return_20d": 0.19873568092262076,
+    "median_abs_oc_return_5d": 0.02491504346100524,
+    "median_abs_oc_return_60d": 0.0799195958129046,
+    "median_range_20d": 0.0770192649997626,
+    "momentum_10d": 0.0033972547199116526,
+    "momentum_20d": 0.007533959038496068,
+    "previous_session_relative_volume": 0.04439865769264718,
+    "realized_volatility_10d": 0.05079264692738189,
+    "realized_volatility_20d": 0.14497115721618445,
+    "realized_volatility_5d": 0.04520444190596001,
+    "realized_volatility_60d": 0.07321056775583838,
+    "return_5d": 0.0398745297875634,
+    "reversal_1d": 0.02166932484128307,
+    "robust_volume_zscore_20d": 4.773230793651631e-19,
+    "volatility_trend_5_20": 1.156098662122497e-18
+  }
+}

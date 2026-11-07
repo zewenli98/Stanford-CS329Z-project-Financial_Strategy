@@ -30,6 +30,7 @@ class SymbolResearchState(TypedDict, total=False):
     deterministic_report: VerificationReport
     semantic_report: VerificationReport
     revision_round: int
+    revision_feedback: list[dict[str, Any]]
     attempts: list[InvocationResult]
     retrieval_traces: list[dict[str, Any]]
 

@@ -1,0 +1,5775 @@
+{
+  "large_move_threshold": 0.04,
+  "screening_config": "configs/screening_research100_llm_live.yaml",
+  "sessions": [
+    {
+      "coarse_screen_recall": 0.48484848484848486,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.06315135474980807,
+          "ndcg_at_k": 0.7566367782826403,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "MRVL",
+            "INTC",
+            "MU",
+            "IBM",
+            "ON",
+            "AMAT",
+            "LRCX",
+            "AMD",
+            "CRWD",
+            "SMCI"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.06315135474980807,
+          "ndcg_at_k": 0.7566367782826403,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "MRVL",
+            "INTC",
+            "MU",
+            "IBM",
+            "ON",
+            "AMAT",
+            "LRCX",
+            "AMD",
+            "CRWD",
+            "SMCI"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.35,
+          "score": 0.675,
+          "semantic_verifier_pass_rate": 0.35
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 108,
+          "by_role": {
+            "company_evidence": {
+              "completed": 6,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 50,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 51,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 108,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.6416666666666667,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": null,
+          "action_accuracy": 0.0,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 3,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "MRVL"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "IBM"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "ACN"
+            }
+          ],
+          "event_match_accuracy": 0.0,
+          "judged_trace_count": 3,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.25,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.0,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "BAD_INFERENCE": 1,
+          "MISSING_EVIDENCE": 12
+        },
+        "event_status_accuracy": null,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 108,
+        "model_latency_seconds": 348.1893200057093,
+        "revision_round_distribution": {
+          "0": 4,
+          "1": 2,
+          "2": 14
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-16_376625e6",
+      "session": "2026-07-16",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.42105263157894735,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.08073801187323446,
+          "ndcg_at_k": 0.854141620551036,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "MRVL",
+            "IBM",
+            "ON",
+            "LRCX",
+            "INTC",
+            "AMD",
+            "SMCI",
+            "AMAT",
+            "MU",
+            "ORCL"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.08073801187323446,
+          "ndcg_at_k": 0.854141620551036,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "MRVL",
+            "IBM",
+            "ON",
+            "LRCX",
+            "INTC",
+            "AMD",
+            "SMCI",
+            "AMAT",
+            "MU",
+            "ORCL"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.3,
+          "score": 0.65,
+          "semantic_verifier_pass_rate": 0.3
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 109,
+          "by_role": {
+            "company_evidence": {
+              "completed": 5,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 51,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 52,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 109,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7583333333333333,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.5,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 2,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "IBM"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ACN"
+            }
+          ],
+          "event_match_accuracy": 0.5,
+          "judged_trace_count": 2,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.625,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.5,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 14
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 109,
+        "model_latency_seconds": 343.83000337705016,
+        "revision_round_distribution": {
+          "0": 4,
+          "1": 1,
+          "2": 15
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-17_89cb6a81",
+      "session": "2026-07-17",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.631578947368421,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.046149821186977726,
+          "ndcg_at_k": 0.7406812443255648,
+          "precision_at_k": 0.7,
+          "selected_symbols": [
+            "IBM",
+            "INTC",
+            "AMAT",
+            "MRVL",
+            "LRCX",
+            "MU",
+            "ON",
+            "AMD",
+            "SMCI",
+            "ORCL"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.046149821186977726,
+          "ndcg_at_k": 0.7406812443255648,
+          "precision_at_k": 0.7,
+          "selected_symbols": [
+            "IBM",
+            "INTC",
+            "AMAT",
+            "MRVL",
+            "LRCX",
+            "MU",
+            "ON",
+            "AMD",
+            "SMCI",
+            "ORCL"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.4,
+          "score": 0.7,
+          "semantic_verifier_pass_rate": 0.4
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 95,
+          "by_role": {
+            "company_evidence": {
+              "completed": 5,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 44,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 45,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 95,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.775,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.5,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 2,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "IBM"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ISRG"
+            }
+          ],
+          "event_match_accuracy": 0.5,
+          "judged_trace_count": 2,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.625,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.5,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "BAD_INFERENCE": 1,
+          "MISSING_EVIDENCE": 12
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 95,
+        "model_latency_seconds": 300.02802870981395,
+        "revision_round_distribution": {
+          "0": 8,
+          "2": 12
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-20_44734d64",
+      "session": "2026-07-20",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.7058823529411765,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.045037282511177786,
+          "ndcg_at_k": 0.6628631062211627,
+          "precision_at_k": 0.6,
+          "selected_symbols": [
+            "MRVL",
+            "LRCX",
+            "INTC",
+            "AMAT",
+            "IBM",
+            "AMD",
+            "ORCL",
+            "MU",
+            "ON",
+            "SMCI"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.045037282511177786,
+          "ndcg_at_k": 0.6628631062211627,
+          "precision_at_k": 0.6,
+          "selected_symbols": [
+            "MRVL",
+            "LRCX",
+            "INTC",
+            "AMAT",
+            "IBM",
+            "AMD",
+            "ORCL",
+            "MU",
+            "ON",
+            "SMCI"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.45,
+          "score": 0.725,
+          "semantic_verifier_pass_rate": 0.45
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 93,
+          "by_role": {
+            "company_evidence": {
+              "completed": 3,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 44,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 45,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 93,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.9083333333333333,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 1.0,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 1,
+          "decision_audit": [
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ISRG"
+            }
+          ],
+          "event_match_accuracy": 1.0,
+          "judged_trace_count": 1,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 1.0,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 1.0,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 11
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 93,
+        "model_latency_seconds": 297.81197225581855,
+        "revision_round_distribution": {
+          "0": 7,
+          "1": 2,
+          "2": 11
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-21_06fe9817",
+      "session": "2026-07-21",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.5454545454545454,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.059436040316927674,
+          "ndcg_at_k": 0.7997499034991915,
+          "precision_at_k": 0.7,
+          "selected_symbols": [
+            "MRVL",
+            "LRCX",
+            "SMCI",
+            "INTC",
+            "AMAT",
+            "MU",
+            "AMD",
+            "COIN",
+            "IBM",
+            "ON"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.059436040316927674,
+          "ndcg_at_k": 0.7997499034991915,
+          "precision_at_k": 0.7,
+          "selected_symbols": [
+            "MRVL",
+            "LRCX",
+            "SMCI",
+            "INTC",
+            "AMAT",
+            "MU",
+            "AMD",
+            "COIN",
+            "IBM",
+            "ON"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.4,
+          "score": 0.7,
+          "semantic_verifier_pass_rate": 0.4
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 99,
+          "by_role": {
+            "company_evidence": {
+              "completed": 5,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 46,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 47,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 99,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.775,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.5,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 2,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ISRG"
+            }
+          ],
+          "event_match_accuracy": 0.5,
+          "judged_trace_count": 2,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.625,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.5,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "BAD_INFERENCE": 1,
+          "MISSING_EVIDENCE": 12,
+          "SEMANTIC_WARNING": 2
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 99,
+        "model_latency_seconds": 316.3176917510573,
+        "revision_round_distribution": {
+          "0": 6,
+          "1": 2,
+          "2": 12
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-22_02672085",
+      "session": "2026-07-22",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.48148148148148145,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.0499720744041875,
+          "ndcg_at_k": 0.6945028728364266,
+          "precision_at_k": 0.8,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "AMD",
+            "LRCX",
+            "MU",
+            "IBM",
+            "CVNA",
+            "AMAT",
+            "INTC",
+            "COIN"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.0499720744041875,
+          "ndcg_at_k": 0.6945028728364266,
+          "precision_at_k": 0.8,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "AMD",
+            "LRCX",
+            "MU",
+            "IBM",
+            "CVNA",
+            "AMAT",
+            "INTC",
+            "COIN"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.5,
+          "score": 0.75,
+          "semantic_verifier_pass_rate": 0.5
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 100,
+          "by_role": {
+            "company_evidence": {
+              "completed": 10,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 44,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 45,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 100,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7916666666666666,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.5,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 4,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "IBM"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ISRG"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "NOW"
+            }
+          ],
+          "event_match_accuracy": 0.5,
+          "judged_trace_count": 4,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.625,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.5,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 10
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 100,
+        "model_latency_seconds": 312.41794374980964,
+        "revision_round_distribution": {
+          "0": 7,
+          "1": 2,
+          "2": 11
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-23_b4c7defe",
+      "session": "2026-07-23",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.6363636363636364,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.06268509614504188,
+          "ndcg_at_k": 0.7342145419014625,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "AMD",
+            "CVNA",
+            "TSLA",
+            "MU",
+            "INTC",
+            "AMAT",
+            "IBM",
+            "NOW"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.06268509614504188,
+          "ndcg_at_k": 0.7342145419014625,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "AMD",
+            "CVNA",
+            "TSLA",
+            "MU",
+            "INTC",
+            "AMAT",
+            "IBM",
+            "NOW"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.55,
+          "score": 0.775,
+          "semantic_verifier_pass_rate": 0.55
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 106,
+          "by_role": {
+            "company_evidence": {
+              "completed": 24,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 40,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 41,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 106,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.775,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.4,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 10,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "TSLA"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "IBM"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "NOW"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ISRG"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "TMUS"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "TXN"
+            }
+          ],
+          "event_match_accuracy": 0.4,
+          "judged_trace_count": 10,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.55,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.4,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 9
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 106,
+        "model_latency_seconds": 376.8401318753604,
+        "revision_round_distribution": {
+          "0": 9,
+          "1": 2,
+          "2": 9
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-24_c0afb4a1",
+      "session": "2026-07-24",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.6,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.08073473825298355,
+          "ndcg_at_k": 0.867479568822211,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "MU",
+            "INTC",
+            "AMD",
+            "TSLA",
+            "AMAT",
+            "LRCX",
+            "ORCL",
+            "IBM"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.08073473825298355,
+          "ndcg_at_k": 0.867479568822211,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "MU",
+            "INTC",
+            "AMD",
+            "TSLA",
+            "AMAT",
+            "LRCX",
+            "ORCL",
+            "IBM"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.65,
+          "score": 0.825,
+          "semantic_verifier_pass_rate": 0.65
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 94,
+          "by_role": {
+            "company_evidence": {
+              "completed": 20,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 36,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 37,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 94,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.8166666666666668,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.5,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 8,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "TSLA"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "IBM"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "NOW"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "TMUS"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ISRG"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            }
+          ],
+          "event_match_accuracy": 0.5,
+          "judged_trace_count": 8,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.625,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.5,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 7
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 94,
+        "model_latency_seconds": 301.381216912996,
+        "revision_round_distribution": {
+          "0": 11,
+          "1": 2,
+          "2": 7
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-27_88716d5a",
+      "session": "2026-07-27",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.5,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.06372310161303793,
+          "ndcg_at_k": 0.8884858574262837,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "LRCX",
+            "MRVL",
+            "SMCI",
+            "MU",
+            "AMD",
+            "AMAT",
+            "INTC",
+            "TSLA",
+            "COIN",
+            "NOW"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.06372310161303793,
+          "ndcg_at_k": 0.8884858574262837,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "LRCX",
+            "MRVL",
+            "SMCI",
+            "MU",
+            "AMD",
+            "AMAT",
+            "INTC",
+            "TSLA",
+            "COIN",
+            "NOW"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.65,
+          "score": 0.825,
+          "semantic_verifier_pass_rate": 0.65
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 95,
+          "by_role": {
+            "company_evidence": {
+              "completed": 21,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 36,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 37,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 95,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.812037037037037,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.4444444444444444,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 9,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "rewrite",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 1,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "TSLA"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "NOW"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "IBM"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ISRG"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "TMUS"
+            }
+          ],
+          "event_match_accuracy": 0.5555555555555556,
+          "judged_trace_count": 9,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.6111111111111112,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.4444444444444444,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 7
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 95,
+        "model_latency_seconds": 318.5481687958818,
+        "revision_round_distribution": {
+          "0": 11,
+          "1": 2,
+          "2": 7
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-28_19b4846a",
+      "session": "2026-07-28",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.4358974358974359,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.08513266263970612,
+          "ndcg_at_k": 0.8679484065543174,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "MRVL",
+            "AMD",
+            "MU",
+            "AMAT",
+            "LRCX",
+            "SMCI",
+            "INTC",
+            "NOW",
+            "IBM",
+            "ON"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.08513266263970612,
+          "ndcg_at_k": 0.8679484065543174,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "MRVL",
+            "AMD",
+            "MU",
+            "AMAT",
+            "LRCX",
+            "SMCI",
+            "INTC",
+            "NOW",
+            "IBM",
+            "ON"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.55,
+          "score": 0.775,
+          "semantic_verifier_pass_rate": 0.55
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 96,
+          "by_role": {
+            "company_evidence": {
+              "completed": 14,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 40,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 41,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 96,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7583333333333333,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.3333333333333333,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 6,
+          "decision_audit": [
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "NOW"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "IBM"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "TSLA"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "CHTR"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            }
+          ],
+          "event_match_accuracy": 0.3333333333333333,
+          "judged_trace_count": 6,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.5,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.3333333333333333,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 9
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 96,
+        "model_latency_seconds": 301.2483014576137,
+        "revision_round_distribution": {
+          "0": 8,
+          "1": 4,
+          "2": 8
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-29_a300c6b7",
+      "session": "2026-07-29",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.5384615384615384,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.07034162334112433,
+          "ndcg_at_k": 0.8758576859605746,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "MU",
+            "AMAT",
+            "MRVL",
+            "SMCI",
+            "AMD",
+            "LRCX",
+            "NOW",
+            "INTC",
+            "ON",
+            "COIN"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.07034162334112433,
+          "ndcg_at_k": 0.8758576859605746,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "MU",
+            "AMAT",
+            "MRVL",
+            "SMCI",
+            "AMD",
+            "LRCX",
+            "NOW",
+            "INTC",
+            "ON",
+            "COIN"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.7,
+          "score": 0.85,
+          "semantic_verifier_pass_rate": 0.7
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 98,
+          "by_role": {
+            "company_evidence": {
+              "completed": 18,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 39,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 40,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 98,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.8041666666666667,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.375,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 8,
+          "decision_audit": [
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            },
+            {
+              "action": "rewrite",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 1,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CHTR"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "ISRG"
+            }
+          ],
+          "event_match_accuracy": 0.5,
+          "judged_trace_count": 8,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.5625,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.375,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "BAD_INFERENCE": 1,
+          "MISSING_EVIDENCE": 5
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 98,
+        "model_latency_seconds": 332.59978312510066,
+        "revision_round_distribution": {
+          "0": 8,
+          "1": 5,
+          "2": 7
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-30_3c1b4ee9",
+      "session": "2026-07-30",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.6296296296296297,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.07695304321664885,
+          "ndcg_at_k": 0.8292537096274712,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "AMAT",
+            "LRCX",
+            "MRVL",
+            "MU",
+            "AMD",
+            "SMCI",
+            "INTC",
+            "NOW",
+            "CVNA",
+            "INTU"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.07695304321664885,
+          "ndcg_at_k": 0.8292537096274712,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "AMAT",
+            "LRCX",
+            "MRVL",
+            "MU",
+            "AMD",
+            "SMCI",
+            "INTC",
+            "NOW",
+            "CVNA",
+            "INTU"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.35,
+          "score": 0.675,
+          "semantic_verifier_pass_rate": 0.35
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 106,
+          "by_role": {
+            "company_evidence": {
+              "completed": 10,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 47,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 48,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 106,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7666666666666666,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.5,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 4,
+          "decision_audit": [
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "QCOM"
+            }
+          ],
+          "event_match_accuracy": 0.5,
+          "judged_trace_count": 4,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.625,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.5,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "BAD_INFERENCE": 2,
+          "MISSING_EVIDENCE": 13
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 106,
+        "model_latency_seconds": 338.1009921648074,
+        "revision_round_distribution": {
+          "0": 6,
+          "1": 1,
+          "2": 13
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-07-31_4bf0d7e5",
+      "session": "2026-07-31",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.5588235294117647,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.0708754775183892,
+          "ndcg_at_k": 0.9041062485739843,
+          "precision_at_k": 1.0,
+          "selected_symbols": [
+            "MU",
+            "MRVL",
+            "LRCX",
+            "AMD",
+            "AMAT",
+            "COIN",
+            "SMCI",
+            "NOW",
+            "INTC",
+            "CVNA"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.0708754775183892,
+          "ndcg_at_k": 0.9041062485739843,
+          "precision_at_k": 1.0,
+          "selected_symbols": [
+            "MU",
+            "MRVL",
+            "LRCX",
+            "AMD",
+            "AMAT",
+            "COIN",
+            "SMCI",
+            "NOW",
+            "INTC",
+            "CVNA"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.55,
+          "score": 0.775,
+          "semantic_verifier_pass_rate": 0.55
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 103,
+          "by_role": {
+            "company_evidence": {
+              "completed": 11,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 45,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 46,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 103,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.725,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.2,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 5,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CHTR"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "QCOM"
+            }
+          ],
+          "event_match_accuracy": 0.2,
+          "judged_trace_count": 5,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.4,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.2,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "BAD_INFERENCE": 1,
+          "MISSING_EVIDENCE": 8
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 103,
+        "model_latency_seconds": 349.15201120986603,
+        "revision_round_distribution": {
+          "0": 7,
+          "1": 1,
+          "2": 12
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-03_1df9de4b",
+      "session": "2026-08-03",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.5714285714285714,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.05621827517523853,
+          "ndcg_at_k": 0.6224409984662946,
+          "precision_at_k": 0.8,
+          "selected_symbols": [
+            "MU",
+            "MRVL",
+            "ORCL",
+            "AMD",
+            "LRCX",
+            "AMAT",
+            "COIN",
+            "SMCI",
+            "INTC",
+            "CVNA"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.05621827517523853,
+          "ndcg_at_k": 0.6224409984662946,
+          "precision_at_k": 0.8,
+          "selected_symbols": [
+            "MU",
+            "MRVL",
+            "ORCL",
+            "AMD",
+            "LRCX",
+            "AMAT",
+            "COIN",
+            "SMCI",
+            "INTC",
+            "CVNA"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.45,
+          "score": 0.725,
+          "semantic_verifier_pass_rate": 0.45
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 107,
+          "by_role": {
+            "company_evidence": {
+              "completed": 11,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 47,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 48,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 107,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.8458333333333333,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.75,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 4,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ON"
+            }
+          ],
+          "event_match_accuracy": 0.75,
+          "judged_trace_count": 4,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.8125,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.75,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "BAD_INFERENCE": 1,
+          "MISSING_EVIDENCE": 10
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 107,
+        "model_latency_seconds": 364.6465538747143,
+        "revision_round_distribution": {
+          "0": 5,
+          "1": 3,
+          "2": 12
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-04_619f4dc0",
+      "session": "2026-08-04",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.41379310344827586,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.047905926902122906,
+          "ndcg_at_k": 0.7014174745973566,
+          "precision_at_k": 0.8,
+          "selected_symbols": [
+            "MRVL",
+            "SMCI",
+            "AMD",
+            "LRCX",
+            "MU",
+            "AMAT",
+            "INTC",
+            "ORCL",
+            "PLTR",
+            "NOW"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.047905926902122906,
+          "ndcg_at_k": 0.7014174745973566,
+          "precision_at_k": 0.8,
+          "selected_symbols": [
+            "MRVL",
+            "SMCI",
+            "AMD",
+            "LRCX",
+            "MU",
+            "AMAT",
+            "INTC",
+            "ORCL",
+            "PLTR",
+            "NOW"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.7,
+          "score": 0.875,
+          "semantic_verifier_pass_rate": 0.75
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 93,
+          "by_role": {
+            "company_evidence": {
+              "completed": 21,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 35,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 36,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 93,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.8630952380952381,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.5714285714285714,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 7,
+          "decision_audit": [
+            {
+              "action": "rewrite",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 1,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "PLTR"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ON"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            }
+          ],
+          "event_match_accuracy": 0.7142857142857143,
+          "judged_trace_count": 7,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.7142857142857143,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.5714285714285714,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 5,
+          "SYMBOL_BUDGET_EXHAUSTED": 1
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 93,
+        "model_latency_seconds": 341.0840111717116,
+        "revision_round_distribution": {
+          "0": 12,
+          "1": 2,
+          "2": 6
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-05_91c429f8",
+      "session": "2026-08-05",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.4782608695652174,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.0665851149736,
+          "ndcg_at_k": 0.8416551394988359,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "AMD",
+            "MRVL",
+            "LRCX",
+            "SMCI",
+            "MU",
+            "AMAT",
+            "PLTR",
+            "INTC",
+            "ORCL",
+            "ON"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.0665851149736,
+          "ndcg_at_k": 0.8416551394988359,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "AMD",
+            "MRVL",
+            "LRCX",
+            "SMCI",
+            "MU",
+            "AMAT",
+            "PLTR",
+            "INTC",
+            "ORCL",
+            "ON"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.6,
+          "score": 0.8,
+          "semantic_verifier_pass_rate": 0.6
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 94,
+          "by_role": {
+            "company_evidence": {
+              "completed": 14,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 39,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 40,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 94,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.8222222222222223,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.5,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 6,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "PLTR"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ON"
+            },
+            {
+              "action": "rewrite",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            },
+            {
+              "action": "accept",
+              "attempt": 1,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "COIN"
+            }
+          ],
+          "event_match_accuracy": 0.6666666666666666,
+          "judged_trace_count": 6,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.6666666666666666,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.5,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 8,
+          "SEMANTIC_WARNING": 1
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 94,
+        "model_latency_seconds": 312.5336976221297,
+        "revision_round_distribution": {
+          "0": 9,
+          "1": 3,
+          "2": 8
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-06_8edf0e91",
+      "session": "2026-08-06",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.7142857142857143,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.056120267874688046,
+          "ndcg_at_k": 0.8372732732988794,
+          "precision_at_k": 0.7,
+          "selected_symbols": [
+            "MRVL",
+            "MU",
+            "SMCI",
+            "AMD",
+            "PLTR",
+            "INTC",
+            "ORCL",
+            "LRCX",
+            "AMAT",
+            "COIN"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.056120267874688046,
+          "ndcg_at_k": 0.8372732732988794,
+          "precision_at_k": 0.7,
+          "selected_symbols": [
+            "MRVL",
+            "MU",
+            "SMCI",
+            "AMD",
+            "PLTR",
+            "INTC",
+            "ORCL",
+            "LRCX",
+            "AMAT",
+            "COIN"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.75,
+          "score": 0.875,
+          "semantic_verifier_pass_rate": 0.75
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 76,
+          "by_role": {
+            "company_evidence": {
+              "completed": 14,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 30,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 31,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 76,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7916666666666666,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.3333333333333333,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 6,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "PLTR"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "ON"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "QCOM"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "CRM"
+            }
+          ],
+          "event_match_accuracy": 0.3333333333333333,
+          "judged_trace_count": 6,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.5,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.3333333333333333,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 5
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 76,
+        "model_latency_seconds": 227.5535550841596,
+        "revision_round_distribution": {
+          "0": 15,
+          "2": 5
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-07_9c69faec",
+      "session": "2026-08-07",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.6666666666666666,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.049327557636788325,
+          "ndcg_at_k": 0.8508901724985681,
+          "precision_at_k": 0.5,
+          "selected_symbols": [
+            "MRVL",
+            "SMCI",
+            "MU",
+            "PLTR",
+            "AMD",
+            "NOW",
+            "LRCX",
+            "INTC",
+            "ORCL",
+            "COIN"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.049327557636788325,
+          "ndcg_at_k": 0.8508901724985681,
+          "precision_at_k": 0.5,
+          "selected_symbols": [
+            "MRVL",
+            "SMCI",
+            "MU",
+            "PLTR",
+            "AMD",
+            "NOW",
+            "LRCX",
+            "INTC",
+            "ORCL",
+            "COIN"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.75,
+          "score": 0.875,
+          "semantic_verifier_pass_rate": 0.75
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 93,
+          "by_role": {
+            "company_evidence": {
+              "completed": 15,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 38,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 39,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 93,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.8333333333333334,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.5,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 6,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "PLTR"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ON"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "CRM"
+            }
+          ],
+          "event_match_accuracy": 0.5,
+          "judged_trace_count": 6,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.625,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.5,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "BAD_INFERENCE": 1,
+          "MISSING_EVIDENCE": 4
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 93,
+        "model_latency_seconds": 318.48939546453767,
+        "revision_round_distribution": {
+          "0": 10,
+          "1": 2,
+          "2": 8
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-10_c0db690a",
+      "session": "2026-08-10",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.5,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.03495091724139064,
+          "ndcg_at_k": 0.643307157324459,
+          "precision_at_k": 0.3,
+          "selected_symbols": [
+            "MRVL",
+            "SMCI",
+            "MU",
+            "PLTR",
+            "AMD",
+            "LRCX",
+            "INTC",
+            "AMAT",
+            "NOW",
+            "CVNA"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.03495091724139064,
+          "ndcg_at_k": 0.643307157324459,
+          "precision_at_k": 0.3,
+          "selected_symbols": [
+            "MRVL",
+            "SMCI",
+            "MU",
+            "PLTR",
+            "AMD",
+            "LRCX",
+            "INTC",
+            "AMAT",
+            "NOW",
+            "CVNA"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.5,
+          "score": 0.75,
+          "semantic_verifier_pass_rate": 0.5
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 105,
+          "by_role": {
+            "company_evidence": {
+              "completed": 9,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 47,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 48,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 105,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7291666666666666,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.25,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 4,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "CRM"
+            }
+          ],
+          "event_match_accuracy": 0.25,
+          "judged_trace_count": 4,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.4375,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.25,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 10
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 105,
+        "model_latency_seconds": 350.59663445455953,
+        "revision_round_distribution": {
+          "0": 6,
+          "1": 1,
+          "2": 13
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-11_041e88e1",
+      "session": "2026-08-11",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.5454545454545454,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.041752477269950086,
+          "ndcg_at_k": 0.7205900084691222,
+          "precision_at_k": 0.5,
+          "selected_symbols": [
+            "MRVL",
+            "SMCI",
+            "AMD",
+            "AMAT",
+            "LRCX",
+            "MU",
+            "ORCL",
+            "PLTR",
+            "INTC",
+            "ADBE"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.041752477269950086,
+          "ndcg_at_k": 0.7205900084691222,
+          "precision_at_k": 0.5,
+          "selected_symbols": [
+            "MRVL",
+            "SMCI",
+            "AMD",
+            "AMAT",
+            "LRCX",
+            "MU",
+            "ORCL",
+            "PLTR",
+            "INTC",
+            "ADBE"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.55,
+          "score": 0.775,
+          "semantic_verifier_pass_rate": 0.55
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 97,
+          "by_role": {
+            "company_evidence": {
+              "completed": 5,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 45,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 46,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 97,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7027777777777778,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": null,
+          "action_accuracy": 0.0,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 3,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "rewrite",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 1,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            }
+          ],
+          "event_match_accuracy": 0.3333333333333333,
+          "judged_trace_count": 3,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.3333333333333333,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.0,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 9
+        },
+        "event_status_accuracy": null,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 97,
+        "model_latency_seconds": 322.0494523330126,
+        "revision_round_distribution": {
+          "0": 7,
+          "1": 1,
+          "2": 12
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-12_565a89ca",
+      "session": "2026-08-12",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.7,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.0610756348996631,
+          "ndcg_at_k": 0.884149859809037,
+          "precision_at_k": 0.8,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "ORCL",
+            "LRCX",
+            "MU",
+            "AMAT",
+            "PLTR",
+            "AMD",
+            "NOW",
+            "ON"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.0610756348996631,
+          "ndcg_at_k": 0.884149859809037,
+          "precision_at_k": 0.8,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "ORCL",
+            "LRCX",
+            "MU",
+            "AMAT",
+            "PLTR",
+            "AMD",
+            "NOW",
+            "ON"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.65,
+          "score": 0.85,
+          "semantic_verifier_pass_rate": 0.7
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 91,
+          "by_role": {
+            "company_evidence": {
+              "completed": 12,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 39,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 39,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 91,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7625000000000001,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.25,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 4,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "ON"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            }
+          ],
+          "event_match_accuracy": 0.25,
+          "judged_trace_count": 4,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.4375,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.25,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 6,
+          "SYMBOL_BUDGET_EXHAUSTED": 1
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 91,
+        "model_latency_seconds": 288.15653741708957,
+        "revision_round_distribution": {
+          "0": 10,
+          "1": 3,
+          "2": 7
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-13_cb74ec68",
+      "session": "2026-08-13",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.6666666666666666,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.04238856275859131,
+          "ndcg_at_k": 0.7547533721704668,
+          "precision_at_k": 0.6,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "MU",
+            "LRCX",
+            "PLTR",
+            "COIN",
+            "AMAT",
+            "ORCL",
+            "NOW",
+            "ADBE"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.04238856275859131,
+          "ndcg_at_k": 0.7547533721704668,
+          "precision_at_k": 0.6,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "MU",
+            "LRCX",
+            "PLTR",
+            "COIN",
+            "AMAT",
+            "ORCL",
+            "NOW",
+            "ADBE"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.75,
+          "score": 0.875,
+          "semantic_verifier_pass_rate": 0.75
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 90,
+          "by_role": {
+            "company_evidence": {
+              "completed": 16,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 36,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 37,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 90,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.875,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.6666666666666666,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 6,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "LRCX"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMAT"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CHTR"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "ON"
+            }
+          ],
+          "event_match_accuracy": 0.6666666666666666,
+          "judged_trace_count": 6,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.75,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.6666666666666666,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "BAD_INFERENCE": 1,
+          "MISSING_EVIDENCE": 5
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 90,
+        "model_latency_seconds": 279.11711241398007,
+        "revision_round_distribution": {
+          "0": 11,
+          "1": 2,
+          "2": 7
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-14_96bc06da",
+      "session": "2026-08-14",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.6923076923076923,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.038548722888217826,
+          "ndcg_at_k": 0.723140635536178,
+          "precision_at_k": 0.4,
+          "selected_symbols": [
+            "SMCI",
+            "AMD",
+            "AMAT",
+            "LRCX",
+            "MU",
+            "MRVL",
+            "ORCL",
+            "COIN",
+            "INTU",
+            "PLTR"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.038548722888217826,
+          "ndcg_at_k": 0.723140635536178,
+          "precision_at_k": 0.4,
+          "selected_symbols": [
+            "SMCI",
+            "AMD",
+            "AMAT",
+            "LRCX",
+            "MU",
+            "MRVL",
+            "ORCL",
+            "COIN",
+            "INTU",
+            "PLTR"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.6,
+          "score": 0.825,
+          "semantic_verifier_pass_rate": 0.65
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 88,
+          "by_role": {
+            "company_evidence": {
+              "completed": 11,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 38,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 38,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 88,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.6916666666666668,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": null,
+          "action_accuracy": 0.0,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 4,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "AMAT"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            }
+          ],
+          "event_match_accuracy": 0.0,
+          "judged_trace_count": 4,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.25,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.0,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 7,
+          "SYMBOL_BUDGET_EXHAUSTED": 1
+        },
+        "event_status_accuracy": null,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 88,
+        "model_latency_seconds": 267.21742312656716,
+        "revision_round_distribution": {
+          "0": 11,
+          "1": 2,
+          "2": 7
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-17_f1f1a425",
+      "session": "2026-08-17",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.6666666666666666,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.0460362263212787,
+          "ndcg_at_k": 0.8845791868306104,
+          "precision_at_k": 0.5,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "AMAT",
+            "LRCX",
+            "MU",
+            "AMD",
+            "NOW",
+            "CHTR",
+            "CVNA",
+            "ORCL"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.0460362263212787,
+          "ndcg_at_k": 0.8845791868306104,
+          "precision_at_k": 0.5,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "AMAT",
+            "LRCX",
+            "MU",
+            "AMD",
+            "NOW",
+            "CHTR",
+            "CVNA",
+            "ORCL"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.65,
+          "score": 0.825,
+          "semantic_verifier_pass_rate": 0.65
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 100,
+          "by_role": {
+            "company_evidence": {
+              "completed": 16,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 41,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 42,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 100,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.8107142857142856,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.42857142857142855,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 7,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "SMCI"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMAT"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CHTR"
+            },
+            {
+              "action": "rewrite",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 1,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            }
+          ],
+          "event_match_accuracy": 0.5714285714285714,
+          "judged_trace_count": 7,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.6071428571428571,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.42857142857142855,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 7
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 100,
+        "model_latency_seconds": 362.6714859518688,
+        "revision_round_distribution": {
+          "0": 9,
+          "1": 1,
+          "2": 10
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-18_ddb40047",
+      "session": "2026-08-18",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.5142857142857142,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.06860266586128393,
+          "ndcg_at_k": 0.7112959501938029,
+          "precision_at_k": 1.0,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "CVNA",
+            "MU",
+            "LRCX",
+            "AMAT",
+            "CHTR",
+            "AMD",
+            "NOW",
+            "INTC"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.06860266586128393,
+          "ndcg_at_k": 0.7112959501938029,
+          "precision_at_k": 1.0,
+          "selected_symbols": [
+            "SMCI",
+            "MRVL",
+            "CVNA",
+            "MU",
+            "LRCX",
+            "AMAT",
+            "CHTR",
+            "AMD",
+            "NOW",
+            "INTC"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.5,
+          "score": 0.775,
+          "semantic_verifier_pass_rate": 0.55
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 103,
+          "by_role": {
+            "company_evidence": {
+              "completed": 21,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 40,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 41,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 103,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7999999999999999,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.5,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 6,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "MRVL"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMAT"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTC"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "ON"
+            }
+          ],
+          "event_match_accuracy": 0.5,
+          "judged_trace_count": 6,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.625,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.5,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 9,
+          "SYMBOL_BUDGET_EXHAUSTED": 1
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 103,
+        "model_latency_seconds": 349.9143419531174,
+        "revision_round_distribution": {
+          "0": 10,
+          "2": 10
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-19_6af57971",
+      "session": "2026-08-19",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.46153846153846156,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.04553758710014252,
+          "ndcg_at_k": 0.6780002838215621,
+          "precision_at_k": 0.4,
+          "selected_symbols": [
+            "MRVL",
+            "LRCX",
+            "AMAT",
+            "COIN",
+            "CVNA",
+            "AMD",
+            "CHTR",
+            "SMCI",
+            "ADBE",
+            "NOW"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.04553758710014252,
+          "ndcg_at_k": 0.6780002838215621,
+          "precision_at_k": 0.4,
+          "selected_symbols": [
+            "MRVL",
+            "LRCX",
+            "AMAT",
+            "COIN",
+            "CVNA",
+            "AMD",
+            "CHTR",
+            "SMCI",
+            "ADBE",
+            "NOW"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.55,
+          "score": 0.775,
+          "semantic_verifier_pass_rate": 0.55
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 97,
+          "by_role": {
+            "company_evidence": {
+              "completed": 13,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 41,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 42,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 97,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.8250000000000001,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.6,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 5,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "MRVL"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "AMAT"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CHTR"
+            }
+          ],
+          "event_match_accuracy": 0.6,
+          "judged_trace_count": 5,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.7,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.6,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 9
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 97,
+        "model_latency_seconds": 310.4378321231343,
+        "revision_round_distribution": {
+          "0": 9,
+          "1": 1,
+          "2": 10
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-20_6d0a2274",
+      "session": "2026-08-20",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.7692307692307693,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.04564745745253649,
+          "ndcg_at_k": 0.8114831578571383,
+          "precision_at_k": 0.6,
+          "selected_symbols": [
+            "MRVL",
+            "CHTR",
+            "SMCI",
+            "COIN",
+            "CVNA",
+            "MU",
+            "AMAT",
+            "LRCX",
+            "AMD",
+            "NOW"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.04564745745253649,
+          "ndcg_at_k": 0.8114831578571383,
+          "precision_at_k": 0.6,
+          "selected_symbols": [
+            "MRVL",
+            "CHTR",
+            "SMCI",
+            "COIN",
+            "CVNA",
+            "MU",
+            "AMAT",
+            "LRCX",
+            "AMD",
+            "NOW"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.65,
+          "score": 0.825,
+          "semantic_verifier_pass_rate": 0.65
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 93,
+          "by_role": {
+            "company_evidence": {
+              "completed": 13,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 39,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 40,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 93,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.8416666666666667,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.6,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 5,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "MRVL"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "CHTR"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CVNA"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMAT"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            }
+          ],
+          "event_match_accuracy": 0.6,
+          "judged_trace_count": 5,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.7,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.6,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "BAD_INFERENCE": 1,
+          "MISSING_EVIDENCE": 6
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 93,
+        "model_latency_seconds": 323.3139959615655,
+        "revision_round_distribution": {
+          "0": 9,
+          "1": 3,
+          "2": 8
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-21_3400d402",
+      "session": "2026-08-21",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.75,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.05161873537709368,
+          "ndcg_at_k": 0.9011325314429576,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "MRVL",
+            "CVNA",
+            "COIN",
+            "SMCI",
+            "AMAT",
+            "INTC",
+            "LRCX",
+            "MU",
+            "CHTR",
+            "PLTR"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.05161873537709368,
+          "ndcg_at_k": 0.9011325314429576,
+          "precision_at_k": 0.9,
+          "selected_symbols": [
+            "MRVL",
+            "CVNA",
+            "COIN",
+            "SMCI",
+            "AMAT",
+            "INTC",
+            "LRCX",
+            "MU",
+            "CHTR",
+            "PLTR"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.65,
+          "score": 0.825,
+          "semantic_verifier_pass_rate": 0.65
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 89,
+          "by_role": {
+            "company_evidence": {
+              "completed": 13,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 37,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 38,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 89,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.8416666666666667,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.6,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 5,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "MRVL"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMAT"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "CHTR"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "PANW"
+            }
+          ],
+          "event_match_accuracy": 0.6,
+          "judged_trace_count": 5,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.7,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.6,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 7
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 89,
+        "model_latency_seconds": 300.2179402920883,
+        "revision_round_distribution": {
+          "0": 11,
+          "1": 1,
+          "2": 8
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-24_fe60c82e",
+      "session": "2026-08-24",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.7272727272727273,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.04972447859800771,
+          "ndcg_at_k": 0.8618893821867196,
+          "precision_at_k": 0.5,
+          "selected_symbols": [
+            "COIN",
+            "SMCI",
+            "MRVL",
+            "MU",
+            "CVNA",
+            "AMAT",
+            "INTC",
+            "LRCX",
+            "AMD",
+            "CHTR"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.04972447859800771,
+          "ndcg_at_k": 0.8618893821867196,
+          "precision_at_k": 0.5,
+          "selected_symbols": [
+            "COIN",
+            "SMCI",
+            "MRVL",
+            "MU",
+            "CVNA",
+            "AMAT",
+            "INTC",
+            "LRCX",
+            "AMD",
+            "CHTR"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.5,
+          "score": 0.775,
+          "semantic_verifier_pass_rate": 0.55
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 99,
+          "by_role": {
+            "company_evidence": {
+              "completed": 15,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 41,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 42,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 99,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7374999999999999,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.25,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 4,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "MRVL"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMAT"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "PANW"
+            }
+          ],
+          "event_match_accuracy": 0.25,
+          "judged_trace_count": 4,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.4375,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.25,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 9,
+          "SYMBOL_BUDGET_EXHAUSTED": 1
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 99,
+        "model_latency_seconds": 310.90273750177585,
+        "revision_round_distribution": {
+          "0": 9,
+          "1": 1,
+          "2": 10
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-25_f7289ba1",
+      "session": "2026-08-25",
+      "status": "completed"
+    },
+    {
+      "coarse_screen_recall": 0.45454545454545453,
+      "metrics": {
+        "full_system": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.032061957535904496,
+          "ndcg_at_k": 0.5460217853438128,
+          "precision_at_k": 0.2,
+          "selected_symbols": [
+            "MRVL",
+            "SMCI",
+            "COIN",
+            "CVNA",
+            "CHTR",
+            "MU",
+            "INTC",
+            "CRWD",
+            "AMAT",
+            "LRCX"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        },
+        "no_agent_ranker": {
+          "k_effective": 10,
+          "mean_absolute_return_at_k": 0.032061957535904496,
+          "ndcg_at_k": 0.5460217853438128,
+          "precision_at_k": 0.2,
+          "selected_symbols": [
+            "MRVL",
+            "SMCI",
+            "COIN",
+            "CVNA",
+            "CHTR",
+            "MU",
+            "INTC",
+            "CRWD",
+            "AMAT",
+            "LRCX"
+          ],
+          "selection_count": 10,
+          "selection_coverage": 1.0
+        }
+      },
+      "process_scores": {
+        "evidence_and_verification": {
+          "card_count": 20,
+          "deterministic_pass_rate": 1.0,
+          "eligible_card_rate": 0.6,
+          "score": 0.825,
+          "semantic_verifier_pass_rate": 0.65
+        },
+        "limitations": [
+          "Retrieval judgment accuracy is compared with a deterministic metadata oracle, not human labels.",
+          "Question quality and passage-level relevance require an independently labeled benchmark.",
+          "Verifier pass rate measures pipeline acceptance, not independent factual correctness."
+        ],
+        "model_execution": {
+          "attempt_count": 92,
+          "by_role": {
+            "company_evidence": {
+              "completed": 18,
+              "score": 1.0
+            },
+            "macro_evidence": {
+              "completed": 1,
+              "score": 1.0
+            },
+            "synthesis": {
+              "completed": 36,
+              "score": 1.0
+            },
+            "verifier": {
+              "completed": 37,
+              "score": 1.0
+            }
+          },
+          "completed_attempt_count": 92,
+          "failed_attempt_count": 0,
+          "retry_or_repair_attempt_count": 0,
+          "retry_or_repair_rate": 0.0,
+          "score": 1.0
+        },
+        "overall_process_score": 0.7472222222222222,
+        "overall_weighting": "equal_mean_of_available_execution_retrieval_verification_scores",
+        "retrieval_and_tool_decisions": {
+          "accepted_id_contract_accuracy": 1.0,
+          "action_accuracy": 0.16666666666666666,
+          "company_match_accuracy": 1.0,
+          "company_trace_count": 6,
+          "decision_audit": [
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "MU"
+            },
+            {
+              "action": "accept",
+              "attempt": 0,
+              "field_matches": {
+                "action": true,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": true
+              },
+              "oracle_action": "accept",
+              "symbol": "AMAT"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "AMD"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "PANW"
+            },
+            {
+              "action": "rewrite",
+              "attempt": 0,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": true,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTU"
+            },
+            {
+              "action": "record_gap",
+              "attempt": 1,
+              "field_matches": {
+                "action": false,
+                "company_match": true,
+                "event_match": false,
+                "sufficient": false
+              },
+              "oracle_action": "accept",
+              "symbol": "INTU"
+            }
+          ],
+          "event_match_accuracy": 0.3333333333333333,
+          "judged_trace_count": 6,
+          "returned_company_identity_accuracy": 1.0,
+          "score": 0.41666666666666663,
+          "score_type": "deterministic_snapshot_proxy_not_human_gold",
+          "sufficient_accuracy": 0.16666666666666666,
+          "tool_invocation_control": "workflow_managed; LM generates questions and judgments"
+        },
+        "score_scale": "0_to_1"
+      },
+      "reliability": {
+        "abstain_reason_distribution": {
+          "MISSING_EVIDENCE": 7,
+          "SYMBOL_BUDGET_EXHAUSTED": 1
+        },
+        "event_status_accuracy": 1.0,
+        "feature_recompute_consistency_rate": 1.0,
+        "model_attempt_count": 92,
+        "model_latency_seconds": 276.5341060417704,
+        "revision_round_distribution": {
+          "0": 11,
+          "1": 2,
+          "2": 7
+        },
+        "time_boundary_violation_rate": 0.0,
+        "unsupported_claim_rate": 0.0
+      },
+      "replicate_id": "0",
+      "run_id": "eval_r0_2026-08-26_223fb5e2",
+      "session": "2026-08-26",
+      "status": "completed"
+    }
+  ],
+  "summary": {
+    "average_selection_count": 10.0,
+    "completed_session_count": 30,
+    "failed_run_rate": 0.0,
+    "failed_session_count": 0,
+    "failure_reason_distribution": {},
+    "paired_comparisons": {
+      "deterministic_event_baseline_vs_no_agent_ranker": {
+        "mean_absolute_return_at_k": {
+          "aggregate_replicate_deltas": {
+            "count": 0,
+            "max": null,
+            "mean": null,
+            "min": null,
+            "std": null
+          },
+          "direction": "positive=challenger_better",
+          "replicates": [
+            {
+              "block_sensitivity": {},
+              "confidence_interval": null,
+              "effective_block": null,
+              "mean_delta": null,
+              "paired_session_count": 0,
+              "replicate_id": "0"
+            }
+          ]
+        },
+        "ndcg_at_k": {
+          "aggregate_replicate_deltas": {
+            "count": 0,
+            "max": null,
+            "mean": null,
+            "min": null,
+            "std": null
+          },
+          "direction": "positive=challenger_better",
+          "replicates": [
+            {
+              "block_sensitivity": {},
+              "confidence_interval": null,
+              "effective_block": null,
+              "mean_delta": null,
+              "paired_session_count": 0,
+              "replicate_id": "0"
+            }
+          ]
+        },
+        "precision_at_k": {
+          "aggregate_replicate_deltas": {
+            "count": 0,
+            "max": null,
+            "mean": null,
+            "min": null,
+            "std": null
+          },
+          "direction": "positive=challenger_better",
+          "replicates": [
+            {
+              "block_sensitivity": {},
+              "confidence_interval": null,
+              "effective_block": null,
+              "mean_delta": null,
+              "paired_session_count": 0,
+              "replicate_id": "0"
+            }
+          ]
+        }
+      },
+      "full_system_vs_no_agent_ranker": {
+        "mean_absolute_return_at_k": {
+          "aggregate_replicate_deltas": {
+            "count": 1,
+            "max": 0.0,
+            "mean": 0.0,
+            "min": 0.0,
+            "std": 0.0
+          },
+          "direction": "positive=challenger_better",
+          "replicates": [
+            {
+              "block_sensitivity": {
+                "10": {
+                  "confidence_interval": [
+                    0.0,
+                    0.0
+                  ],
+                  "effective_block": 10
+                },
+                "20": {
+                  "confidence_interval": [
+                    0.0,
+                    0.0
+                  ],
+                  "effective_block": 20
+                },
+                "5": {
+                  "confidence_interval": [
+                    0.0,
+                    0.0
+                  ],
+                  "effective_block": 5
+                }
+              },
+              "confidence_interval": [
+                0.0,
+                0.0
+              ],
+              "effective_block": 10,
+              "mean_delta": 0.0,
+              "paired_session_count": 30,
+              "replicate_id": "0"
+            }
+          ]
+        },
+        "ndcg_at_k": {
+          "aggregate_replicate_deltas": {
+            "count": 1,
+            "max": 0.0,
+            "mean": 0.0,
+            "min": 0.0,
+            "std": 0.0
+          },
+          "direction": "positive=challenger_better",
+          "replicates": [
+            {
+              "block_sensitivity": {
+                "10": {
+                  "confidence_interval": [
+                    0.0,
+                    0.0
+                  ],
+                  "effective_block": 10
+                },
+                "20": {
+                  "confidence_interval": [
+                    0.0,
+                    0.0
+                  ],
+                  "effective_block": 20
+                },
+                "5": {
+                  "confidence_interval": [
+                    0.0,
+                    0.0
+                  ],
+                  "effective_block": 5
+                }
+              },
+              "confidence_interval": [
+                0.0,
+                0.0
+              ],
+              "effective_block": 10,
+              "mean_delta": 0.0,
+              "paired_session_count": 30,
+              "replicate_id": "0"
+            }
+          ]
+        },
+        "precision_at_k": {
+          "aggregate_replicate_deltas": {
+            "count": 1,
+            "max": 0.0,
+            "mean": 0.0,
+            "min": 0.0,
+            "std": 0.0
+          },
+          "direction": "positive=challenger_better",
+          "replicates": [
+            {
+              "block_sensitivity": {
+                "10": {
+                  "confidence_interval": [
+                    0.0,
+                    0.0
+                  ],
+                  "effective_block": 10
+                },
+                "20": {
+                  "confidence_interval": [
+                    0.0,
+                    0.0
+                  ],
+                  "effective_block": 20
+                },
+                "5": {
+                  "confidence_interval": [
+                    0.0,
+                    0.0
+                  ],
+                  "effective_block": 5
+                }
+              },
+              "confidence_interval": [
+                0.0,
+                0.0
+              ],
+              "effective_block": 10,
+              "mean_delta": 0.0,
+              "paired_session_count": 30,
+              "replicate_id": "0"
+            }
+          ]
+        }
+      }
+    },
+    "process_scores": {
+      "average_evidence_and_verification_score": 0.785,
+      "average_model_execution_score": 1.0,
+      "average_overall_process_score": 0.7876300705467372,
+      "average_retrieval_and_tool_decisions_score": 0.5778902116402116,
+      "score_scale": "0_to_1",
+      "session_count": 30
+    },
+    "session_count": 30,
+    "session_coverage": 1.0,
+    "variants": {
+      "full_system": {
+        "average_mean_absolute_return_at_k": 0.056301096454524774,
+        "average_ndcg_at_k": 0.781664730464271,
+        "average_precision_at_k": 0.7133333333333333,
+        "failed_days": 0,
+        "mean_absolute_return_at_k_null_days": 0,
+        "ndcg_at_k_null_days": 0,
+        "precision_at_k_null_days": 0,
+        "valid_days": 30
+      },
+      "no_agent_ranker": {
+        "average_mean_absolute_return_at_k": 0.056301096454524774,
+        "average_ndcg_at_k": 0.781664730464271,
+        "average_precision_at_k": 0.7133333333333333,
+        "failed_days": 0,
+        "mean_absolute_return_at_k_null_days": 0,
+        "ndcg_at_k_null_days": 0,
+        "precision_at_k_null_days": 0,
+        "valid_days": 30
+      }
+    }
+  }
+}

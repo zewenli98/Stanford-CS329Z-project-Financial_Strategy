@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "exchange-calendars>=4.11",
-    "httpx>=0.28",
+    "httpx[socks]>=0.28",
     "langchain-core>=1.0",
     "langchain-openai>=1.0",
     "langgraph>=1.0",
@@ -38,9 +38,23 @@ build-backend = "hatchling.build"
 [tool.hatch.build.targets.wheel]
 packages = ["src/financial_strategy"]
 
+[tool.hatch.build.targets.sdist]
+only-include = [
+    "src",
+    "tests",
+    "configs",
+    "scripts",
+    "docs/adaptive-range-v1.md",
+    "README.md",
+    "pyproject.toml",
+    "uv.lock",
+]
+exclude = ["**/__pycache__", "**/*.pyc", "**/.env", "**/.env.*"]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 addopts = "-q"
+pythonpath = ["src", "."]
 
 [tool.ruff]
 line-length = 100

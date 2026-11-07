@@ -1,0 +1,20 @@
+screening_config: configs/screening_train_validation.yaml
+splits: data/research100_v1/splits.json
+labels: data/research100_v1/evaluation/labels.parquet
+runs_path: runs
+artifact_index: runs/tuning_artifacts_v3/index.json
+output_path: runs/tuning_results/train_validation_v2.json
+tuned_config_path: configs/screening_tuned_v2.yaml
+large_move_threshold: 0.04
+session_parallelism: 4
+
+search:
+  seed: 329
+  trials: 750
+  minimum_scores: [0.20, 0.25, 0.30, 0.35, 0.40, 0.45, 0.50, 0.55, 0.60]
+  candidate_counts: [10, 15, 20]
+  primary_metric: ndcg_at_k
+  minimum_session_coverage: 0.90
+  maximum_failed_run_rate: 0.05
+  bootstrap_samples: 2000
+  bootstrap_block_sessions: 5

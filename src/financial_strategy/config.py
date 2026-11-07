@@ -12,6 +12,7 @@ import yaml
 from pydantic import BaseModel, ConfigDict, Field, model_validator
 
 from financial_strategy.errors import ConfigError
+from financial_strategy.schemas import COMPANY_EVENT_TYPES
 
 
 class ConfigModel(BaseModel):
@@ -41,10 +42,10 @@ class DataConfig(ConfigModel):
 
 
 class WeightConfig(ConfigModel):
-    volatility: float
-    anomaly: float
-    company_event: float
-    macro: float
+    volatility: float = Field(ge=0, le=1)
+    anomaly: float = Field(ge=0, le=1)
+    company_event: float = Field(ge=0, le=1)
+    macro: float = Field(ge=0, le=1)
 
     @model_validator(mode="after")
     def sum_to_one(self) -> WeightConfig:
@@ -54,8 +55,8 @@ class WeightConfig(ConfigModel):
 
 
 class PairWeightConfig(ConfigModel):
-    median_abs_oc_return_20d: float
-    realized_volatility_20d: float
+    median_abs_oc_return_20d: float = Field(ge=0, le=1)
+    realized_volatility_20d: float = Field(ge=0, le=1)
 
     @model_validator(mode="after")
     def sum_to_one(self) -> PairWeightConfig:
@@ -65,9 +66,9 @@ class PairWeightConfig(ConfigModel):
 
 
 class AnomalyWeightConfig(ConfigModel):
-    abs_return_5d: float
-    previous_session_relative_volume: float
-    abs_distance_to_ma20: float
+    abs_return_5d: float = Field(ge=0, le=1)
+    previous_session_relative_volume: float = Field(ge=0, le=1)
+    abs_distance_to_ma20: float = Field(ge=0, le=1)
 
     @model_validator(mode="after")
     def sum_to_one(self) -> AnomalyWeightConfig:
@@ -108,6 +109,10 @@ class CompanyEventConfig(ConfigModel):
             raise ValueError("company status factors must define every supported status")
         if set(self.confidence_factors) != {"high", "medium", "low"}:
             raise ValueError("company confidence factors must define high, medium, and low")
+        if set(self.type_factors) != set(COMPANY_EVENT_TYPES):
+            raise ValueError(
+                "company type factors must define every supported company event type"
+            )
         boundaries = [band.max_sessions for band in self.recency]
         if not boundaries or boundaries != sorted(set(boundaries)):
             raise ValueError("recency boundaries must be present and strictly increasing")
@@ -147,14 +152,41 @@ class MacroRankingConfig(ConfigModel):
         return self
 
 
+class ResidualModelConfig(ConfigModel):
+    enabled: bool = False
+    version: str = "llm_residual_v2"
+    market_score_calibration: Literal[
+        "none", "cross_sectional_percentile"
+    ] = "none"
+    coefficients: dict[str, float] = Field(default_factory=dict)
+    intercept: float = 0.0
+    max_abs_residual: float = Field(default=0.15, gt=0, le=1)
+    feature_schema_hash: str | None = None
+    model_hash: str | None = None
+
+    @model_validator(mode="after")
+    def enabled_model_is_frozen(self) -> ResidualModelConfig:
+        if self.enabled and (
+            not self.coefficients
+            or self.feature_schema_hash is None
+            or self.model_hash is None
+        ):
+            raise ValueError(
+                "enabled residual model requires coefficients and frozen hashes"
+            )
+        return self
+
+
 class RankingConfig(ConfigModel):
     minimum_score: float = Field(ge=0, le=1)
+    market_feature_weights: dict[str, float] | None = None
     final_weights: WeightConfig
-    volatility_weights: PairWeightConfig
-    anomaly_weights: AnomalyWeightConfig
+    volatility_weights: PairWeightConfig | None = None
+    anomaly_weights: AnomalyWeightConfig | None = None
     percentile: dict[str, str | float]
     company_event: CompanyEventConfig
     macro: MacroRankingConfig
+    residual_model: ResidualModelConfig = Field(default_factory=ResidualModelConfig)
 
     @model_validator(mode="after")
     def validate_percentile(self) -> RankingConfig:
@@ -163,6 +195,24 @@ class RankingConfig(ConfigModel):
         singleton = self.percentile.get("singleton_value")
         if not isinstance(singleton, (int, float)) or not 0 <= singleton <= 1:
             raise ValueError("percentile singleton_value must be in [0, 1]")
+        has_feature_weights = self.market_feature_weights is not None
+        has_component_weights = (
+            self.volatility_weights is not None or self.anomaly_weights is not None
+        )
+        if has_feature_weights and has_component_weights:
+            raise ValueError(
+                "market_feature_weights is the only market score; "
+                "omit volatility_weights and anomaly_weights"
+            )
+        if has_feature_weights:
+            if any(value < 0 for value in self.market_feature_weights.values()):
+                raise ValueError("market feature weights must be nonnegative")
+            if abs(sum(self.market_feature_weights.values()) - 1.0) > 1e-9:
+                raise ValueError("market feature weights must sum to 1")
+        elif self.volatility_weights is None or self.anomaly_weights is None:
+            raise ValueError(
+                "component market ranker requires volatility_weights and anomaly_weights"
+            )
         return self
 
 
@@ -174,7 +224,7 @@ class RoleConfig(ConfigModel):
 
 class AgentsConfig(ConfigModel):
     mode: Literal["scripted", "recorded", "live"]
-    provider: Literal["openai", "openrouter"] = "openai"
+    provider: Literal["openai", "openrouter", "tinker"] = "openai"
     model: str
     recordings_path: Path
     cache_path: Path
@@ -184,6 +234,11 @@ class AgentsConfig(ConfigModel):
     max_model_calls_per_symbol: int = Field(gt=0)
     max_total_tool_calls: int = Field(gt=0)
     max_total_model_calls: int = Field(gt=0)
+    max_total_input_tokens: int | None = Field(default=None, gt=0)
+    max_total_output_tokens: int | None = Field(default=None, gt=0)
+    max_cost_usd: float | None = Field(default=None, gt=0)
+    input_cost_per_million: float = Field(default=0.0, ge=0)
+    output_cost_per_million: float = Field(default=0.0, ge=0)
     roles: dict[str, RoleConfig]
 
     @model_validator(mode="after")
@@ -213,11 +268,28 @@ class RetrievalConfig(ConfigModel):
     tokenizer_version: str
 
 
+class CandidateChannelConfig(ConfigModel):
+    limit: int = Field(default=0, ge=0)
+
+
+class CandidateUnionConfig(ConfigModel):
+    enabled: bool = False
+    seed: int = 329
+    total_cap: int | None = Field(default=None, gt=0)
+    market_top: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+    boundary: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+    recent_event: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+    scheduled_catalyst: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+    macro_exposure: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+    random_exploration: CandidateChannelConfig = Field(default_factory=CandidateChannelConfig)
+
+
 class ScreeningConfig(ConfigModel):
     candidate_multiplier: int = Field(gt=0)
     minimum_candidates: int = Field(gt=0)
     volatility_weight: float = Field(ge=0, le=1)
     anomaly_weight: float = Field(ge=0, le=1)
+    candidate_union: CandidateUnionConfig = Field(default_factory=CandidateUnionConfig)
 
     @model_validator(mode="after")
     def weights_sum_to_one(self) -> ScreeningConfig:
@@ -266,19 +338,100 @@ class MVPConfig(ConfigModel):
         return self
 
 
+class BootstrapConfig(ConfigModel):
+    seed: int = 329
+    samples: int = Field(default=2_000, ge=100)
+    block_sizes: list[int] = Field(default_factory=lambda: [5, 10, 20], min_length=1)
+    confidence: float = Field(default=0.95, gt=0, lt=1)
+
+    @model_validator(mode="after")
+    def validate_blocks(self) -> BootstrapConfig:
+        if any(value <= 0 for value in self.block_sizes):
+            raise ValueError("bootstrap block sizes must be positive")
+        if len(self.block_sizes) != len(set(self.block_sizes)):
+            raise ValueError("bootstrap block sizes must be unique")
+        return self
+
+
 class EvaluationBody(ConfigModel):
     sessions: list[date]
     cutoff_time: str
     timezone: str
     labels: Path
     large_move_threshold: float = Field(gt=0)
+    session_parallelism: int = Field(default=1, ge=1, le=8)
+    replicates: int = Field(default=1, ge=1)
     variants: list[str]
     ndcg: dict[str, str | None]
+    bootstrap: BootstrapConfig = Field(default_factory=BootstrapConfig)
+
+    @model_validator(mode="after")
+    def validate_range_relevance(self) -> EvaluationBody:
+        if self.ndcg.get("relevance") != "intraday_range":
+            raise ValueError("evaluation.ndcg.relevance must be intraday_range")
+        return self
 
 
 class EvaluationConfig(ConfigModel):
     screening_config: Path
     evaluation: EvaluationBody
+
+
+class TuningSearchConfig(ConfigModel):
+    seed: int
+    trials: int = Field(ge=1, le=100_000)
+    minimum_scores: list[float]
+    candidate_counts: list[int]
+    primary_metric: Literal["ndcg_at_k"] = "ndcg_at_k"
+    minimum_session_coverage: float = Field(ge=0, le=1)
+    maximum_failed_run_rate: float = Field(ge=0, le=1)
+    bootstrap_samples: int = Field(ge=100)
+    bootstrap_block_sessions: int = Field(gt=0)
+
+    @model_validator(mode="after")
+    def validate_search_space(self) -> TuningSearchConfig:
+        if not self.minimum_scores or any(
+            value < 0 or value > 1 for value in self.minimum_scores
+        ):
+            raise ValueError("minimum_scores must be non-empty and in [0, 1]")
+        if not self.candidate_counts or any(value <= 0 for value in self.candidate_counts):
+            raise ValueError("candidate_counts must contain positive values")
+        if len(set(self.minimum_scores)) != len(self.minimum_scores):
+            raise ValueError("minimum_scores must be unique")
+        if len(set(self.candidate_counts)) != len(self.candidate_counts):
+            raise ValueError("candidate_counts must be unique")
+        return self
+
+
+class TuningConfig(ConfigModel):
+    screening_config: Path
+    splits: Path
+    labels: Path
+    runs_path: Path
+    artifact_index: Path
+    output_path: Path
+    tuned_config_path: Path
+    large_move_threshold: float = Field(gt=0)
+    session_parallelism: int = Field(default=1, gt=0, le=8)
+    search: TuningSearchConfig
+
+    @model_validator(mode="after")
+    def validate_paths(self) -> TuningConfig:
+        writable = {
+            self.artifact_index.resolve(),
+            self.output_path.resolve(),
+            self.tuned_config_path.resolve(),
+        }
+        if len(writable) != 3:
+            raise ValueError("artifact_index, output_path, and tuned_config_path must differ")
+        source = {
+            self.screening_config.resolve(),
+            self.splits.resolve(),
+            self.labels.resolve(),
+        }
+        if writable & source:
+            raise ValueError("tuning output paths must not alias input paths")
+        return self
 
 
 def _load_yaml(path: Path) -> dict:
@@ -288,7 +441,23 @@ def _load_yaml(path: Path) -> dict:
         raise ConfigError("CONFIG_READ_FAILED", f"Unable to read {path}: {exc}") from exc
     if not isinstance(value, dict):
         raise ConfigError("CONFIG_INVALID", f"{path} must contain a mapping")
+    parent = value.pop("extends", None)
+    if parent is not None:
+        parent_path = Path(parent)
+        if not parent_path.is_absolute():
+            parent_path = path.parent / parent_path
+        value = _deep_merge(_load_yaml(parent_path), value)
     return value
+
+
+def _deep_merge(base: dict, override: dict) -> dict:
+    result = dict(base)
+    for key, value in override.items():
+        if isinstance(value, dict) and isinstance(result.get(key), dict):
+            result[key] = _deep_merge(result[key], value)
+        else:
+            result[key] = value
+    return result
 
 
 def load_mvp_config(path: str | Path) -> MVPConfig:
@@ -303,6 +472,14 @@ def load_evaluation_config(path: str | Path) -> EvaluationConfig:
     path = Path(path)
     try:
         return EvaluationConfig.model_validate(_load_yaml(path))
+    except ValueError as exc:
+        raise ConfigError("CONFIG_INVALID", str(exc)) from exc
+
+
+def load_tuning_config(path: str | Path) -> TuningConfig:
+    path = Path(path)
+    try:
+        return TuningConfig.model_validate(_load_yaml(path))
     except ValueError as exc:
         raise ConfigError("CONFIG_INVALID", str(exc)) from exc
 

@@ -57,8 +57,12 @@ def validate_and_freeze_task(
         symbols.add(symbol)
         if security.get("security_type") != "common_stock":
             raise ConfigError("UNSUPPORTED_SECURITY_TYPE", symbol)
-        if security.get("venue") not in SUPPORTED_VENUES:
+        venue = security.get("venue")
+        regional_us = venue == "US" and config.calendar["name"] == "XNYS"
+        if venue not in SUPPORTED_VENUES and not regional_us:
             raise ConfigError("UNSUPPORTED_VENUE", symbol)
+        if regional_us and "REGIONAL_US_VENUE_EXCHANGE_UNSPECIFIED" not in warnings:
+            warnings.append("REGIONAL_US_VENUE_EXCHANGE_UNSPECIFIED")
         if security.get("country") != "US" or security.get("session_profile") != "us_regular":
             raise ConfigError("UNSUPPORTED_SESSION_PROFILE", symbol)
         if not security.get("permanent_entity_id") or not security.get("sector"):

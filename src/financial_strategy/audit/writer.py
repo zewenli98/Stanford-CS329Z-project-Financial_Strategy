@@ -127,11 +127,16 @@ class RunWriter:
 
     @staticmethod
     def _fsync_file(path: Path) -> None:
-        with path.open("rb") as handle:
+        # Windows FlushFileBuffers requires a descriptor opened for writing.
+        with path.open("r+b") as handle:
             os.fsync(handle.fileno())
 
     @staticmethod
     def _fsync_directory(path: Path) -> None:
+        # Windows cannot open directories through os.open. Files have already been
+        # flushed and directory promotion is still atomic; POSIX also fsyncs metadata.
+        if os.name == "nt":
+            return
         descriptor = os.open(path, os.O_RDONLY)
         try:
             os.fsync(descriptor)
@@ -147,6 +152,18 @@ def verify_manifest(run_dir: Path) -> dict:
     if file_sha256(manifest_path) != digest_path.read_text().strip():
         raise AuditError("ARTIFACT_HASH_MISMATCH", "manifest hash differs")
     manifest = json.loads(manifest_path.read_text())
+    expected_paths = {artifact["path"] for artifact in manifest["artifacts"]}
+    actual_paths = {
+        str(path.relative_to(run_dir))
+        for path in run_dir.rglob("*")
+        if path.is_file()
+        and path.name not in {"manifest.json", "manifest.json.sha256"}
+    }
+    if actual_paths != expected_paths:
+        raise AuditError(
+            "ARTIFACT_HASH_MISMATCH",
+            "run contains missing or unlisted files",
+        )
     for artifact in manifest["artifacts"]:
         path = run_dir / artifact["path"]
         if (

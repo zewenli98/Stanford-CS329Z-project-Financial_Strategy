@@ -17,6 +17,7 @@ from financial_strategy.schemas import (
     VerificationIssue,
     VerificationReport,
 )
+from financial_strategy.verification.deterministic import verify_macro_context
 from financial_strategy.workflow.state import ScreeningState
 from financial_strategy.workflow.symbol_graph import build_symbol_graph
 
@@ -30,9 +31,22 @@ def build_screening_graph(config: MVPConfig, agents: AgentSuite):
             list(state["snapshot"].macro_evidence),
             state["snapshot"].snapshot_id,
         )
+        deterministic = verify_macro_context(
+            context,
+            list(state["snapshot"].macro_evidence),
+            config.ranking.macro.surprise_scales,
+        )
+        attempts = [invocation]
+        if deterministic.verdict == Verdict.PASS and context.assessments:
+            semantic, semantic_invocation = agents.macro_semantic_verify(context)
+            attempts.append(semantic_invocation)
+            if semantic.verdict != Verdict.PASS:
+                context = context.model_copy(update={"assessments": []})
+        elif deterministic.verdict != Verdict.PASS:
+            context = context.model_copy(update={"assessments": []})
         return {
             "macro_context": context,
-            "attempts": [invocation],
+            "attempts": attempts,
             "retrieval_traces": traces,
         }
 
@@ -59,14 +73,16 @@ def build_screening_graph(config: MVPConfig, agents: AgentSuite):
     def research_symbol(state: dict) -> dict:
         try:
             result = symbol_graph.invoke(state)
-        except StrategyError as exc:
-            if exc.code.startswith("TASK_"):
+        except (StrategyError, ConnectionError, TimeoutError) as exc:
+            code = getattr(exc, "code", None) or type(exc).__name__
+            if isinstance(exc, StrategyError) and code.startswith("TASK_"):
                 raise
             report = VerificationReport(
                 verdict=Verdict.ABSTAIN,
                 issues=[
                     VerificationIssue(
-                        code=exc.code,
+                        code="SCHEMA_ERROR",
+                        detail_code=code,
                         severity="blocking",
                         field="agent",
                         required_action="abstain",
@@ -84,7 +100,7 @@ def build_screening_graph(config: MVPConfig, agents: AgentSuite):
                 ),
                 deterministic_verification=report,
                 semantic_verification=report,
-                eligibility=Eligibility(eligible=False, abstain_reasons=[exc.code]),
+                eligibility=Eligibility(eligible=False, abstain_reasons=[code]),
             )
             return {
                 "cards": [card],

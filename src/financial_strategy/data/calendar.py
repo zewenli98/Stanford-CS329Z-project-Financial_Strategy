@@ -34,6 +34,17 @@ class TradingCalendar:
         self._require_session(session)
         return self._calendar.previous_session(pd.Timestamp(session)).date()
 
+    def session_distance(self, earlier: date, later: date) -> int:
+        """Count XNYS sessions strictly after earlier through later."""
+
+        if earlier >= later:
+            return 0
+        sessions = self._calendar.sessions_in_range(
+            pd.Timestamp(earlier),
+            pd.Timestamp(later),
+        )
+        return max(0, len(sessions) - int(self.is_session(earlier)))
+
     def completed_sessions_before(self, cutoff: datetime, count: int) -> list[date]:
         """Return the newest `count` sessions whose close is strictly before cutoff."""
 

@@ -14452,7 +14452,7 @@
     "company/event_classification_audit.json": "79c9b8fc755dec8acb879360184387c6ed254f2be37cc81b5374f4ca363dbf6a",
     "company/evidence.jsonl": "cf6aa89358f624564de2dae2bf289e855fc76e6bebc3e82dc1be71993508b27c",
     "evaluation/labels.parquet": "459d267d366ddd90d7d8e9ed9037ddb3dba2923f4398330e803d878ebfbd9626",
-    "macro/audit.json": "a4db1bb4a3d579caefee8d7e5ffa9cb6b1963d7aceee36a72e7d310ced5c7395",
+    "macro/audit.json": "e331c4c57272c83aa916a26877e692b235e775a72b6bf87164e7f3dbad89fbd7",
     "macro/documents/cpi_yoy_2023-07-12.json": "0d418d7c131496a28ef023305b89d79feff01ba620f36d3dbac19ed13824382e",
     "macro/documents/cpi_yoy_2023-08-10.json": "166c7a6857bf8d02d417e59185c6aff99043b72fe3c241623a98978ed407a809",
     "macro/documents/cpi_yoy_2023-09-13.json": "e24cead02366ed83404fd221b342d40fdb2a22e3d5069dd4062e3d23ff4fd26c",
@@ -14624,7 +14624,7 @@
     "macro/documents/unemployment_2026-08-07.json": "407436260004ff76e200827243163fe6ec93b06a7e394157fcfaae46ba368657",
     "macro/documents/unemployment_2026-09-04.json": "d90e21ef1e5bbe9e70bdb2b6e961e0b1a5c13d12844fa424c68c0299fd245df7",
     "macro/documents/unemployment_2026-10-02.json": "031feeafccdc226ce553d2db81b90dea2daa43ea1338c992d7534773b752d8f0",
-    "macro/events.jsonl": "3c0a2089c658a32aa39849bc435611b86017cf096a021cf7c9c98ddf68373a31",
+    "macro/events.jsonl": "4b8ba0091be3620fd88e893af7d4323c72225d268d96974aadb1edb7e54a23f4",
     "market/corporate_actions.jsonl": "ac19335d2bb57b55b6b934beb6221280313639fb1015ec5da0784a2681a3382d",
     "market/daily_bars.parquet": "87438a13157e41274f5312dc2442fac7212097757990120a5c9033ff8f7c1bfc",
     "quality_report.json": "db5622b8e7e39ba9b3370ed8dec8885b4cc0cdb9562cc6248c85be265f87f6b9",
@@ -14635,13 +14635,14 @@
   "macro_backfill": {
     "collection_end": "2026-10-30",
     "collection_start": "2023-07-01",
-    "distinct_release_sessions": 104,
+    "distinct_release_sessions": 860,
     "document_count": 171,
     "evaluation_start": "2023-11-01",
     "fallback_actual_override_count": 2,
     "fallback_calendar_row_count": 4,
     "missing_calendar_row_count": 0,
-    "record_count": 171
+    "record_count": 2630,
+    "daily_close_record_count": 2459
   },
   "quality": {
     "duplicate_bar_keys": 0,

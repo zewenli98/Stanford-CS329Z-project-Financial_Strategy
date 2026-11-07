@@ -6,6 +6,8 @@ __pycache__/
 
 # Virtual environment
 .venv/
+.tools/
+.pytest_tmp_*/
 
 # Test, lint, and coverage caches
 .pytest_cache/
@@ -26,3 +28,9 @@ dist/
 .env
 .env.*
 .DS_Store
+
+# Local datasets and generated research outputs (existing tracked data stays tracked).
+/data/
+/docs/assets/
+/docs/live-five-day-results.html
+/docs/adaptive-range-v1-overview.html

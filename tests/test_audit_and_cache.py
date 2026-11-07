@@ -8,12 +8,14 @@ from financial_strategy.errors import AuditError
 from financial_strategy.llm.cache import AtomicJsonCache
 
 
-def test_run_writer_publishes_manifest_and_refuses_overwrite(tmp_path: Path) -> None:
+def test_run_writer_publishes_manifest_once(tmp_path: Path) -> None:
     writer = RunWriter(tmp_path, "run_1")
     writer.write_json("result.json", {"value": 1})
     run_dir = writer.publish("completed")
     manifest = verify_manifest(run_dir)
     assert manifest["status"] == "completed"
+    assert json.loads((run_dir / "result.json").read_text()) == {"value": 1}
+
     with pytest.raises(AuditError) as error:
         RunWriter(tmp_path, "run_1")
     assert error.value.code == "RUN_ALREADY_EXISTS"

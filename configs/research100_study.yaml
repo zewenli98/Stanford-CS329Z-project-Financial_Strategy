@@ -1,0 +1,7 @@
+output_path: data/research100_v1
+evidence_path: data/2023-11-01_2026-10-30
+top_k: 10
+deep_research_candidates: 20
+development_fraction: 0.90
+label: (high-low)/low
+large_move_threshold: 0.04

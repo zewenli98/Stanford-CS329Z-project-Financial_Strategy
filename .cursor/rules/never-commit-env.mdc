@@ -1,0 +1,13 @@
+---
+description: Never commit or push .env or other local secret files
+alwaysApply: true
+---
+
+# Never commit or push .env
+
+`.env`, `.env.*`, and other local secret files stay on this machine.
+
+- Do not `git add` them, including `git add -f` and `git add .` if a force flag would include them.
+- Do not commit them, amend them into a commit, or include them in a push or pull request.
+- Before every commit or push, confirm they are untracked and ignored. If one is staged or already tracked, stop and tell the user. Do not push until it is removed from the index and from the commits being published.
+- `.gitignore` already lists `.env` and `.env.*`. Keep that ignore rule in place.

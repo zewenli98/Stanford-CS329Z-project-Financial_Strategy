@@ -107,7 +107,7 @@ def test_missing_label_keeps_its_original_rank_position() -> None:
 def test_deterministic_verifier_rejects_unsupported_event_status() -> None:
     evidence = _evidence("ev", "earnings").model_copy(
         update={
-            "event_type": "earnings",
+            "event_types": ["earnings"],
             "event_status": "scheduled_after_close",
         }
     )
@@ -133,7 +133,7 @@ def test_deterministic_verifier_rejects_unsupported_event_status() -> None:
         events=[
             EventRecord(
                 event_id="event",
-                event_type="earnings",
+                event_types=["earnings"],
                 status="released_before_cutoff",
                 confidence="high",
                 evidence_ids=["ev"],
