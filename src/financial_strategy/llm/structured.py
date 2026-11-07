@@ -9,6 +9,29 @@ from pydantic import BaseModel
 WORKER_WIRE_VERSION = "single_action_grounded_v3"
 
 
+COMPANY_WIRE_VERSION = "closed_company_v1"
+
+
+def closed_response_schema(schema: type[BaseModel]) -> dict:
+    """Declare every typed object field on the provider wire; validate locally too."""
+    body = deepcopy(schema.model_json_schema())
+
+    def close(node):
+        if isinstance(node, dict):
+            node.pop("default", None)
+            if node.get("type") == "object":
+                node["additionalProperties"] = False
+                node["required"] = list(node.get("properties", {}))
+            for value in node.values():
+                close(value)
+        elif isinstance(node, list):
+            for value in node:
+                close(value)
+
+    close(body)
+    return {"name": schema.__name__, "schema": body, "strict": True}
+
+
 def worker_response_schema(
     schema: type[BaseModel],
     read_spans: list[dict] | None = None,

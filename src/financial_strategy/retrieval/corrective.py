@@ -14,7 +14,7 @@ from pydantic import Field, model_validator
 
 from financial_strategy.config import RetrievalConfig
 from financial_strategy.errors import StrategyError
-from financial_strategy.retrieval.bm25 import search
+from financial_strategy.retrieval.bm25 import RetrievalHit, search
 from financial_strategy.schemas import EvidenceRecord
 from financial_strategy.schemas.models import StrictModel
 
@@ -89,9 +89,11 @@ class CorrectiveResult(StrictModel):
 def dedupe_evidence(records: list[EvidenceRecord]) -> list[EvidenceRecord]:
     """Collapse a filing and its reprints before they compete for the top-n slots."""
 
-    grouped: dict[str, EvidenceRecord] = {}
+    grouped: dict[tuple[str, str | None], EvidenceRecord] = {}
     for record in records:
-        key = record.accession_number or record.content_hash
+        # An accession contains a filing wrapper and distinct exhibits. Collapse
+        # reprints of the same document, without discarding the earnings release.
+        key = (record.accession_number or record.content_hash, record.document_content_hash)
         current = grouped.get(key)
         if current is None or _more_specific(record, current):
             grouped[key] = record
@@ -200,6 +202,7 @@ def run_corrective_retrieval(
     question: str,
     reserve_search: Callable[[], None],
     judge: Callable[[str, str, list[EvidenceRecord], int], RetrievalJudgment],
+    on_retrieved_hits: Callable[[list[RetrievalHit]], None] | None = None,
 ) -> tuple[CorrectiveResult, list[EvidenceRecord]]:
     """Search, judge, rewrite at most once, then keep only the accepted passages."""
 
@@ -260,6 +263,8 @@ def run_corrective_retrieval(
             break
         hits = search(corpus, query, retrieval, scope="company", symbol=symbol)
         hit_records = [hit.evidence for hit in hits]
+        if on_retrieved_hits is not None:
+            on_retrieved_hits(hits)
         judgment = coerce_judgment(
             judge(question, query, hit_records, attempt),
             {item.evidence_id for item in hit_records},

@@ -49,6 +49,80 @@ def test_screening_freezes_responses_and_replays_without_cache(tmp_path: Path) -
     assert replay_run(run_dir) == watchlist
 
 
+@pytest.mark.parametrize("error_type", [ConnectionError, TimeoutError])
+def test_one_provider_failure_retains_other_verified_cards(monkeypatch, error_type):
+    from types import SimpleNamespace
+
+    from test_corrective_retrieval import _task
+    from test_llm_residual import _feature
+
+    from financial_strategy.schemas import (
+        MacroContext,
+        ResearchCard,
+        SymbolMacroExposure,
+        VerificationReport,
+    )
+    from financial_strategy.workflow import graph
+
+    task = _task()
+    features = {s: _feature().model_copy(update={"symbol": s}) for s in ("AAPL", "MSFT")}
+    exposures = [
+        SymbolMacroExposure(
+            symbol=s,
+            sector="technology",
+            exposure_method="sector_heuristic_v1",
+            template_version="v1",
+            exposures={},
+        )
+        for s in features
+    ]
+
+    class Symbols:
+        def invoke(self, state):
+            if state["symbol"] == "AAPL":
+                raise error_type("injected provider outage")
+            card = ResearchCard(
+                symbol=state["symbol"],
+                task_id=task.task_id,
+                decision_cutoff=task.decision_cutoff,
+                target_session=task.target_session,
+                features=state["feature"],
+                deterministic_verification=VerificationReport(verdict="PASS"),
+                semantic_verification=VerificationReport(verdict="PASS"),
+            )
+            return {"card": card}
+
+    class Agents:
+        def macro(self, *args):
+            return MacroContext(task_id=task.task_id, events=[], evidence_ids=[]), None, []
+
+    monkeypatch.setattr(graph, "build_symbol_graph", lambda agents: Symbols())
+    config = load_mvp_config(ROOT / "configs/screening_2026-10-14.yaml")
+    result = graph.build_screening_graph(config, Agents()).invoke(
+        {
+            "task": task,
+            "features": features,
+            "candidates": list(features),
+            "snapshot": SimpleNamespace(
+                snapshot_id="snapshot", company_evidence=[], macro_evidence=[], exposures=exposures
+            ),
+            "volatility": {"AAPL": 0.6, "MSFT": 0.5},
+            "anomaly": {"AAPL": 0.6, "MSFT": 0.5},
+            "cards": [],
+            "initial_cards": [],
+            "attempts": [],
+            "retrieval_traces": [],
+        }
+    )
+    cards = {c.symbol: c for c in result["cards"]}
+    assert cards["AAPL"].eligibility.eligible is False
+    assert cards["AAPL"].semantic_verification.verdict == "ABSTAIN"
+    assert cards["AAPL"].eligibility.abstain_reasons == [error_type.__name__]
+    assert cards["MSFT"].semantic_verification.verdict == "PASS"
+    assert {r.symbol for r in result["watchlist"]} == set(features)
+    assert all(r.score == r.market_score for r in result["watchlist"])
+
+
 def test_agent_failure_publishes_inputs_without_watchlist(tmp_path: Path) -> None:
     config = load_mvp_config(ROOT / "configs/screening_2026-10-14.yaml")
     data = config.model_dump(mode="json")

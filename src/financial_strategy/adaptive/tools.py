@@ -427,6 +427,9 @@ class OpaqueToolView:
             )
             if isinstance(end, int) and end - start > self.max_read_chars:
                 raise ResearchToolError("READ_LIMIT_EXCEEDED", "source span exceeds read limit")
+            # Clamp bounded EOF reads; strict citation spans are unchanged.
+            if isinstance(end, int) and not isinstance(end, bool):
+                end = min(end, len(self.documents[source]))
             span = self.source_span(source, start, end)
             return {**self._records[source], "span": span}
         if name == "cards":
@@ -475,15 +478,41 @@ class OpaqueToolView:
         # Press releases are useful near the beginning; filings often start with XBRL.
         if re.search(r"EX-99|PRESS RELEASE|FOR IMMEDIATE RELEASE", text[:1000], re.I):
             return 0
-        matches = list(
+        # Prefer a section heading over later references inside legal boilerplate.
+        heading = re.search(
+            r"^[ \t]*Item\s+(?:2\.02|5\.02|8\.01|3\.02)\b", text, re.I | re.M
+        )
+        if heading:
+            return max(0, heading.start() - 100)
+        # Quarterly/annual filings can have tens of thousands of XBRL characters
+        # before the report. The last full MD&A heading follows the contents entry.
+        discussion = list(
             re.finditer(
-                r"Item\s+(?:2\.02|5\.02|8\.01|3\.02)|Results of Operations and Financial Condition",
+                r"^[ \t]*(?:Item\s+[27]\.\s*)?Management[\u2019']s\s+Discussion\s+and\s+Analysis\b",
                 text,
-                re.I,
+                re.I | re.M,
             )
         )
-        if matches:
-            return max(0, matches[-1].start() - 100)
+        if discussion:
+            # Skip the MD&A introduction and forward-looking-statement disclaimer
+            # when the report identifies a substantive developments/results section.
+            body_start = discussion[-1].end()
+            substantive = re.search(
+                r"^[ \t]*(?:Significant developments|Results of operations|"
+                r"Financial (?:highlights|overview)|Executive summary|Total revenues)\b",
+                text[body_start:],
+                re.I | re.M,
+            )
+            if substantive:
+                return max(0, body_start + substantive.start() - 100)
+            return max(0, discussion[-1].start() - 100)
+        match = re.search(
+            r"Item\s+(?:2\.02|5\.02|8\.01|3\.02)|Results of Operations and Financial Condition",
+            text,
+            re.I,
+        )
+        if match:
+            return max(0, match.start() - 100)
         return 0
 
     def packet_observations(self, alias):
@@ -504,9 +533,9 @@ class OpaqueToolView:
             text = self.documents[source]
             starts = [self.preferred_start(source)]
             # Include explicit counterevidence/outlook passages instead of only the headline.
-            match = re.search(
-                r"(?:not changed|unchanged|outlook|guidance|expects|expect to)", text, re.I
-            )
+            match = re.compile(
+                r"(?:not changed|unchanged|outlook|guidance|expects|expect to)", re.I
+            ).search(text, starts[0] + 1400)
             if match and match.start() > starts[0] + 1400:
                 starts.append(max(0, match.start() - 250))
             elif len(text) > starts[0] + 1800:

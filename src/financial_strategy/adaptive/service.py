@@ -263,6 +263,7 @@ def _execute(
     )
     inspected, closed, seen_cards = {}, set(), {_card_key(card) for card in prior}
     pending, reservations = {}, {}
+    deferred_assignments = []
     policy = config.adaptive.policy
     final_hold = None
 
@@ -347,6 +348,7 @@ def _execute(
                 for q in chosen
             ]
         reservations.clear()
+        deferred_assignments.clear()
         for decision in batch:
             decisions.append({"batch": state["batch"], **decision.model_dump(mode="json")})
             if decision.question_id is not None:
@@ -356,7 +358,8 @@ def _execute(
                         question.reserved_cost_usd, label=question.question_id
                     )
                 except StrategyError:
-                    break
+                    # Retry once current workers release their conservative budget holds.
+                    deferred_assignments.append(question.question_id)
         if not reservations:
             reason = (
                 "budget_exhausted"
@@ -393,14 +396,28 @@ def _execute(
                 from financial_strategy.adaptive.agents import ResearchResult
 
                 return ResearchResult(
-                    question_id=question_id, stop_reason=getattr(exc, "code", type(exc).__name__)
+                    question_id=question_id,
+                    stop_reason=getattr(exc, "code", None) or type(exc).__name__,
                 )
             finally:
                 ledger.release(reservation)
 
         with ThreadPoolExecutor(max_workers=config.adaptive.max_workers) as pool:
-            futures = [pool.submit(worker, key, hold) for key, hold in reservations.items()]
-            results = sorted((future.result() for future in futures), key=lambda x: x.question_id)
+            results = []
+            while reservations:
+                futures = [pool.submit(worker, key, hold) for key, hold in reservations.items()]
+                results.extend(future.result() for future in futures)
+                reservations.clear()
+                waiting = list(deferred_assignments)
+                deferred_assignments.clear()
+                for question_id in waiting:
+                    try:
+                        reservations[question_id] = ledger.reserve(
+                            pending[question_id].reserved_cost_usd, label=question_id
+                        )
+                    except StrategyError:
+                        deferred_assignments.append(question_id)
+            results.sort(key=lambda x: x.question_id)
         new_cards = []
         proposed_forecasts = []
         for result in results:
@@ -432,9 +449,7 @@ def _execute(
             )
         stored = run_memory.append(new_cards)
         current = (
-            suite.apply_single_agent_forecasts(
-                state["forecasts"], proposed_forecasts, stored
-            )
+            suite.apply_single_agent_forecasts(state["forecasts"], proposed_forecasts, stored)
             if policy == "single_agent"
             else update(state["forecasts"], stored)
         )

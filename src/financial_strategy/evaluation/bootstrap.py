@@ -41,7 +41,9 @@ def paired_moving_block_bootstrap(
             sampled: list[float] = []
             while len(sampled) < len(deltas):
                 start = rng.randrange(len(deltas))
-                sampled.extend(deltas[(start + offset) % len(deltas)] for offset in range(effective))
+                sampled.extend(
+                    deltas[(start + offset) % len(deltas)] for offset in range(effective)
+                )
             means.append(sum(sampled[: len(deltas)]) / len(deltas))
         means.sort()
         alpha = (1 - confidence) / 2

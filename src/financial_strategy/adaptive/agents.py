@@ -505,7 +505,13 @@ class ResearchAgentSuite:
                     "and include explicit unchanged-outlook or other counterevidence."
                 )
             finish_due = step >= max_models - 1 - (1 if v2 and not repaired else 0)
-            if packet is not None or (self._limit("compact_research_prompts", 0) and finish_due):
+            if packet is not None:
+                payload["instructions"] += (
+                    " The supplied packet is an initial set of read passages, not the complete "
+                    "archive. If it contains only metadata or omits a needed passage, use the "
+                    "remaining permitted read actions before deciding whether to abstain."
+                )
+            if (packet is not None or self._limit("compact_research_prompts", 0)) and finish_due:
                 payload["final_action_required"] = True
                 payload["instructions"] += (
                     " This is your FINAL action. Finish with one supported card using an "

@@ -401,6 +401,11 @@ class AgentSuite:
         invocations.append(question_call)
         question = CompanyQuestion.model_validate(question_call.response).question
 
+        active_hits = []
+
+        def observe_hits(hits):
+            active_hits[:] = hits
+
         def judge(active_question: str, query: str, hits: list, attempt: int) -> RetrievalJudgment:
             payload = {
                 "op": "judge_retrieval",
@@ -411,7 +416,7 @@ class AgentSuite:
                 "question": active_question,
                 "query": query,
                 "attempt": attempt,
-                "evidence": [item.model_dump(mode="json") for item in hits],
+                "evidence": [_hit_payload(hit) for hit in active_hits],
                 "instructions": (
                     "Judge the retrieved passages against the question. company_match is true "
                     "only when every passage is about this company. event_match is true when a "
@@ -441,6 +446,7 @@ class AgentSuite:
             question=question,
             reserve_search=lambda: self._reserve_tool_call("company", symbol),
             judge=judge,
+            on_retrieved_hits=observe_hits,
         )
         if result.gap or not accepted:
             output = CompanyAgentOutput(
@@ -461,8 +467,13 @@ class AgentSuite:
             payload = {
                 "symbol": symbol,
                 "task_id": task.task_id,
+                "target_session": task.target_session.isoformat(),
+                "decision_cutoff": task.decision_cutoff.isoformat(),
                 "question": question,
-                "evidence": [_accepted_payload(item) for item in accepted],
+                "evidence": [
+                    _hit_payload(hit) for hit in active_hits
+                    if hit.evidence.evidence_id in result.accepted_evidence_ids
+                ],
                 "revision_feedback": revision_feedback or [],
                 "instructions": (
                     "Use only the supplied evidence for this question. Extract normalized "
@@ -501,6 +512,8 @@ class AgentSuite:
         payload = {
             "symbol": feature.symbol,
             "task_id": task.task_id,
+            "target_session": task.target_session.isoformat(),
+            "decision_cutoff": task.decision_cutoff.isoformat(),
             "feature": feature.model_dump(mode="json"),
             "company_claims": [item.model_dump(mode="json") for item in company.claims],
             "events": [item.model_dump(mode="json") for item in company.events],
@@ -808,14 +821,29 @@ def align_synthesis_output(
         for metric in company.metrics
         for citation in metric.citations
     }
+    # A supplied claim/event identifier is an explicit reference to its own
+    # existing sources. Resolve unique references; never guess an unknown ID or
+    # resolve a name that occurs more than once in the supplied facts.
+    references = {}
+    for item in [*company.claims, *company.events]:
+        key = getattr(item, "claim_id", None) or getattr(item, "event_id", None)
+        if not key:
+            continue
+        references[key] = None if key in references else set(item.evidence_ids)
+
+    def resolve_sources(values):
+        resolved = set()
+        for value in values:
+            if value in allowed_ids:
+                resolved.add(value)
+            elif references.get(value) is not None:
+                resolved.update(references[value] & allowed_ids)
+        return sorted(resolved)
+
     assessment = output.catalyst_assessment.model_copy(
         update={
-            "evidence_ids": sorted(
-                set(output.catalyst_assessment.evidence_ids) & allowed_ids
-            ),
-            "counterevidence_ids": sorted(
-                set(output.catalyst_assessment.counterevidence_ids) & allowed_ids
-            ),
+            "evidence_ids": resolve_sources(output.catalyst_assessment.evidence_ids),
+            "counterevidence_ids": resolve_sources(output.catalyst_assessment.counterevidence_ids),
             "metrics": list(company.metrics),
         }
     )

@@ -17,7 +17,12 @@ from pydantic import BaseModel, ValidationError
 from financial_strategy.config import AgentsConfig, canonical_json
 from financial_strategy.errors import StrategyError
 from financial_strategy.llm.cache import AtomicJsonCache
-from financial_strategy.llm.structured import WORKER_WIRE_VERSION, worker_response_schema
+from financial_strategy.llm.structured import (
+    COMPANY_WIRE_VERSION,
+    WORKER_WIRE_VERSION,
+    closed_response_schema,
+    worker_response_schema,
+)
 
 SchemaT = TypeVar("SchemaT", bound=BaseModel)
 
@@ -80,6 +85,8 @@ def request_hash(
     }
     if payload.get("_workflow") == "adaptive_range_v1" and schema.__name__ == "WorkerAction":
         request["model_parameters"]["worker_wire_version"] = WORKER_WIRE_VERSION
+    if schema.__name__ == "CompanyAgentOutput":
+        request["model_parameters"]["company_wire_version"] = COMPANY_WIRE_VERSION
     return hashlib.sha256(canonical_json(request)).hexdigest()
 
 
@@ -269,7 +276,8 @@ class LiveClient:
                 schema, observed_spans, final_action=payload.get("final_action_required", False),
                 strict_tools="tool_contracts" in payload,
             )
-            if adaptive_worker else schema
+            if adaptive_worker else closed_response_schema(schema)
+            if schema.__name__ == "CompanyAgentOutput" else schema
         )
         # Tinker's OpenAI-compatible endpoint accepts JSON-schema requests but
         # does not reliably enforce their field names. Its json_object mode is

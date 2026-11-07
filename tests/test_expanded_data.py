@@ -122,7 +122,13 @@ def test_expanded_snapshot_has_complete_200_symbol_panel_and_valid_hashes() -> N
     assert quality["duplicate_bar_keys"] == 0
     assert quality["zero_volume_rows"] == 0
     for relative, expected in manifest["file_sha256"].items():
-        actual = hashlib.sha256((dataset / relative).read_bytes()).hexdigest()
+        path = dataset / relative
+        payload = path.read_bytes()
+        actual = hashlib.sha256(payload).hexdigest()
+        if actual != expected and path.suffix.lower() in {".txt", ".json", ".jsonl"}:
+            # Git may expand acquisition LF text to CRLF on Windows.
+            payload.decode("utf-8", errors="strict")
+            actual = hashlib.sha256(payload.replace(b"\r\n", b"\n")).hexdigest()
         assert actual == expected
 
 

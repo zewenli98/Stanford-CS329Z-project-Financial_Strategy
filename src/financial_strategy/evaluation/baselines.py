@@ -47,10 +47,7 @@ def baseline_rankings(
     weights = config.ranking.final_weights
     market_weight = weights.volatility + weights.anomaly
     no_agent_scores = {
-        symbol: (
-            weights.volatility * volatility[symbol]
-            + weights.anomaly * anomaly[symbol]
-        )
+        symbol: (weights.volatility * volatility[symbol] + weights.anomaly * anomaly[symbol])
         / market_weight
         for symbol in features
     }
@@ -69,11 +66,19 @@ def baseline_rankings(
     for item in company_evidence:
         if item.available_at > cutoff or item.symbol not in deterministic_scores:
             continue
-        status = event_config.status_factors.get(item.event_status.value, 0.0) if item.event_status else 0.0
-        event_type = max((event_config.type_factors.get(value, 0.0) for value in item.event_types), default=0.0)
+        status = (
+            event_config.status_factors.get(item.event_status.value, 0.0)
+            if item.event_status
+            else 0.0
+        )
+        event_type = max(
+            (event_config.type_factors.get(value, 0.0) for value in item.event_types), default=0.0
+        )
         confidence = event_config.confidence_factors[item.timestamp_confidence.value]
         age_days = max(0, (cutoff.date() - item.available_at.date()).days)
-        recency = next((band.factor for band in event_config.recency if age_days <= band.max_sessions), 0.0)
+        recency = next(
+            (band.factor for band in event_config.recency if age_days <= band.max_sessions), 0.0
+        )
         deterministic_scores[item.symbol] += status * event_type * confidence * recency
     deterministic_event = sorted(
         deterministic_scores,

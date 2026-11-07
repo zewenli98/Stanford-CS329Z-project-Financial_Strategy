@@ -31,9 +31,10 @@ intraday volatility, not price direction, return, or trading profit.
 
 ## Prediction designs
 
-- **Prediction A — learned correction:** verified research is encoded as structured event
-  features and used to train a residual correction to M. The correction is enabled only if
-  it passes chronological validation.
+- **Prediction A — verified ranking correction:** verified research supplies a signed
+  correction to M's unitless ranking score. A learned residual model is used only after
+  chronological validation; while it is disabled, a bounded direct rule maps verified
+  assessments to score adjustments.
 - **Prediction B — daily direct revision:** the multi-agent system researches current
   premarket events and directly adjusts M's next-session range forecasts after independent
   verification.
@@ -79,6 +80,91 @@ uv run financial-strategy replay RUN_ID
 ```
 
 Replace `RUN_ID` with the identifier printed by the screening command.
+
+## One-day live demo on Windows
+
+Run both prediction heads with fresh OpenRouter model calls for one session from the
+frozen historical archive. First run `uv sync --extra dev` and restore the local archive
+listed below under **Run the 100-stock research experiment**; the full demo dataset is not
+bundled with GitHub. Run these commands from the repository root:
+
+```powershell
+.\scripts\run_live_demo.ps1 -DryRun
+.\scripts\run_live_demo.ps1
+.\scripts\run_live_demo.ps1 -Date 2026-08-27 -RequireDifferences
+.\scripts\run_live_demo.ps1 -Head A -Date 2026-08-27
+.\scripts\run_live_demo.ps1 -Head B -Date 2026-08-27
+```
+
+If Windows blocks direct script execution, use this form for a fresh live run:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File ".\scripts\run_live_demo.ps1" -RequireDifferences
+```
+
+Append `-Date 2026-07-31` to choose another archived session. Each invocation starts fresh
+model calls. To rebuild the final comparison from an existing saved run without inference:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File ".\scripts\run_live_demo.ps1" -ReportRunId YOUR_RUN_ID
+```
+
+Replace `YOUR_RUN_ID` with the launch ID printed by your earlier run. The ground-truth
+column appears automatically in normal runs, regardless of `-RequireDifferences`.
+
+The default session is **2026-08-27**, with **three Head B batches** and both heads.
+Put `OPENROUTER_API_KEY` in an untracked `.env` in this checkout or the shared main
+repository, or pass `-EnvFile C:\path\to\.env` explicitly. Existing environment
+credentials take precedence. Credential files are read without copying their contents.
+The script uses this checkout's `.venv` and `src` code, enables UTF-8, and prepares the 100-stock
+subset when needed. Preparation leaves source data and tracked configurations unchanged
+and skips outcome labels. `-DryRun` checks input coverage and prints the no-agent baseline
+without a provider call or an API key.
+
+`-Head Both` is the default. Head A runs the existing company/macro research,
+verification, and verified-correction ranking workflow. Head B runs adaptive research
+and direct range revision. They share the session, cutoff, data, and frozen market weights.
+The learned ridge model retains its configured promotion status. When it is disabled,
+the bounded direct correction uses verified non-neutral assessments. Distinct filing
+exhibits and retrieved body chunks are preserved. Exact, unique claim/event references
+are normalized to their existing document IDs before deterministic and semantic
+verification, so a separate citation-repair script is not needed. A's unitless scores
+are displayed separately from B's percentage-range forecasts.
+
+The default budget settings are $0.80 for A and $0.80 for B. `-HeadABudgetUsd` controls
+A's existing post-response usage guard; it is not a strict pre-dispatch spending cap.
+`-BudgetUsd` controls B's reserved, configured-price research cap, calculated from the dated
+model prices in `configs/adaptive_range_100_compact_live.yaml`. Adjust research coverage
+with `-MaxBatches`; its default is three. This runs live inference on an archived session; it does
+not fetch today's prices or news. Dates without complete historical inputs stop before
+live inference. A three-minute recording may need edits around model waiting time.
+
+Each invocation uses separate response caches for A and B and a new run ID. It prints
+both top tens, A's market score/residual/final score and verification counts, B's baseline
+and revised ranges, and a side-by-side M/A/B/ground-truth membership table.
+Ground truth ranks the same full prediction universe by realized session (high-low)/low,
+with actual ranges shown as percentages. Target-session bars are opened only after
+published predictions pass integrity checks. Missing high/low coverage is reported
+explicitly rather than displaying a partial universe as the true top ten. A's cost display covers
+successful responses with reported usage; failed/unreported usage may also be billed.
+Full audit files stay under `runs/`. The launch configurations, per-head status and
+summary, and `comparison.csv` stay under `runs/demo_launches/`. The CSV includes A's market
+score and correction and B's baseline and forecast ranges. `summary.json` records changed
+forecasts and whether all three top-ten orders differ. A's run ID has an `a_`
+prefix; B retains the launch run ID. Each head has its own replay command. A failed head
+is labeled and leaves its comparison column empty, while the other head can still finish.
+Reusing a supplied `-RunId` is refused.
+To add ground truth to an existing saved presentation without paid inference, run
+`.\scripts\run_live_demo.ps1 -ReportRunId YOUR_RUN_ID`. This refreshes only
+`comparison.csv` and `ground_truth.json`; published predictions and the original
+summary stay unchanged. New full runs also include ground truth in `summary.json`.
+To rehearse without paid inference, use `-Offline`. Baseline fallback is explicitly
+identified if no live provider response completes.
+
+`-RequireDifferences` validates the demonstration without changing model outputs. It exits
+with code 3 if completed live research does not produce three distinct M/A/B orders;
+the audit is retained. Live model judgments can vary, so August 27's earlier ranking is
+not hardcoded or guaranteed. An unchanged result can still be a valid research outcome.
 
 ## Run the 100-stock research experiment
 

@@ -61,36 +61,69 @@ def multi_channel_screen(
     legacy, scores = coarse_screen(volatility, anomaly, top_k, screening)
     cfg = screening.candidate_union
     eligible = sorted(volatility.keys() & anomaly.keys())
-    cap = min(len(eligible), cfg.total_cap or max(screening.candidate_multiplier * top_k, screening.minimum_candidates))
+    cap = min(
+        len(eligible),
+        cfg.total_cap or max(screening.candidate_multiplier * top_k, screening.minimum_candidates),
+    )
     if not cfg.enabled:
         audit = CandidateUnionAudit(
-            enabled=False, eligible_count=len(eligible), total_cap=cap,
-            candidates=legacy, provenance={symbol: ["legacy"] for symbol in legacy}, dropped={},
+            enabled=False,
+            eligible_count=len(eligible),
+            total_cap=cap,
+            candidates=legacy,
+            provenance={symbol: ["legacy"] for symbol in legacy},
+            dropped={},
         )
         return legacy, scores, audit
 
-    evidence = [item for item in company_evidence if item.available_at <= cutoff and item.symbol in eligible]
+    evidence = [
+        item for item in company_evidence if item.available_at <= cutoff and item.symbol in eligible
+    ]
     event_scores: dict[str, float] = {}
     scheduled_scores: dict[str, float] = {}
     for item in evidence:
-        status = ranking.company_event.status_factors.get(item.event_status.value, 0.0) if item.event_status else 0.0
-        event_type = max((ranking.company_event.type_factors.get(value, 0.0) for value in item.event_types), default=0.0)
+        status = (
+            ranking.company_event.status_factors.get(item.event_status.value, 0.0)
+            if item.event_status
+            else 0.0
+        )
+        event_type = max(
+            (ranking.company_event.type_factors.get(value, 0.0) for value in item.event_types),
+            default=0.0,
+        )
         confidence = ranking.company_event.confidence_factors[item.timestamp_confidence.value]
         age_days = max(0, (cutoff.date() - item.available_at.date()).days)
-        recency = next((band.factor for band in ranking.company_event.recency if age_days <= band.max_sessions), 0.0)
+        recency = next(
+            (
+                band.factor
+                for band in ranking.company_event.recency
+                if age_days <= band.max_sessions
+            ),
+            0.0,
+        )
         value = status * event_type * confidence * recency
         event_scores[item.symbol] = max(event_scores.get(item.symbol, 0.0), value)
-        if item.event_status and item.event_status.value in {"scheduled_before_open", "scheduled_during_session", "scheduled_after_close"}:
+        if item.event_status and item.event_status.value in {
+            "scheduled_before_open",
+            "scheduled_during_session",
+            "scheduled_after_close",
+        }:
             scheduled_scores[item.symbol] = max(scheduled_scores.get(item.symbol, 0.0), value)
 
     market_order = sorted(eligible, key=lambda symbol: (-scores[symbol], symbol))
     edge = max(0, min(len(market_order), top_k) - 1)
     boundary_order = sorted(
         eligible,
-        key=lambda symbol: (abs(market_order.index(symbol) - edge), market_order.index(symbol), symbol),
+        key=lambda symbol: (
+            abs(market_order.index(symbol) - edge),
+            market_order.index(symbol),
+            symbol,
+        ),
     )
     event_order = sorted(event_scores, key=lambda symbol: (-event_scores[symbol], symbol))
-    scheduled_order = sorted(scheduled_scores, key=lambda symbol: (-scheduled_scores[symbol], symbol))
+    scheduled_order = sorted(
+        scheduled_scores, key=lambda symbol: (-scheduled_scores[symbol], symbol)
+    )
     macro_anomalies: dict[str, float] = {}
     for item in macro_evidence:
         if item.available_at > cutoff:
@@ -106,7 +139,10 @@ def multi_channel_screen(
             macro_anomalies[factor] = max(macro_anomalies.get(factor, 0.0), strength)
     exposure_scores = {
         item.symbol: max(
-            (exposure * macro_anomalies.get(factor, 0.0) for factor, exposure in item.exposures.items()),
+            (
+                exposure * macro_anomalies.get(factor, 0.0)
+                for factor, exposure in item.exposures.items()
+            ),
             default=0.0,
         )
         for item in exposures
@@ -147,7 +183,11 @@ def multi_channel_screen(
         if any(symbol not in candidates for symbol in symbols)
     }
     audit = CandidateUnionAudit(
-        enabled=True, eligible_count=len(eligible), total_cap=cap, candidates=candidates,
-        provenance={symbol: provenance[symbol] for symbol in candidates}, dropped=dropped,
+        enabled=True,
+        eligible_count=len(eligible),
+        total_cap=cap,
+        candidates=candidates,
+        provenance={symbol: provenance[symbol] for symbol in candidates},
+        dropped=dropped,
     )
     return candidates, scores, audit

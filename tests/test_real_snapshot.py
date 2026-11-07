@@ -31,6 +31,16 @@ def read_jsonl(path: Path) -> list[dict]:
     return [json.loads(line) for line in path.read_text().splitlines() if line]
 
 
+def _matches_acquisition_hash(path: Path, expected: str) -> bool:
+    payload = path.read_bytes()
+    if hashlib.sha256(payload).hexdigest() == expected:
+        return True
+    if path.suffix.lower() not in {".txt", ".json", ".jsonl"}:
+        return False
+    payload.decode("utf-8", errors="strict")
+    return hashlib.sha256(payload.replace(b"\r\n", b"\n")).hexdigest() == expected
+
+
 def test_real_snapshot_shape_and_adjustment_policy() -> None:
     bars = pl.read_parquet(SNAPSHOT / "market/daily_bars.parquet")
     labels = pl.read_parquet(SNAPSHOT / "evaluation/labels.parquet")
@@ -79,8 +89,12 @@ def test_real_snapshot_file_hashes_match_provenance() -> None:
     provenance = json.loads((SNAPSHOT / "provenance.json").read_text())
     checked = verify_snapshot_provenance(SNAPSHOT)
     assert len(checked["files"]) == len(provenance["files"])
+    verification = {row["path"]: row for row in checked["files"]}
     for relative_path, metadata in provenance["files"].items():
         payload = (SNAPSHOT / relative_path).read_bytes()
+        assert hashlib.sha256(payload).hexdigest() == verification[relative_path]["on_disk_sha256"]
+        if verification[relative_path]["verification"] == "git_crlf_only":
+            payload = payload.replace(b"\r\n", b"\n")
         assert hashlib.sha256(payload).hexdigest() == metadata["sha256"]
         assert len(payload) == metadata["size_bytes"]
 
@@ -134,10 +148,9 @@ def test_expanded_snapshot_has_complete_macro_backfill() -> None:
         for item in company
     )
     assert all(
-        hashlib.sha256(
-            (CURRENT_SNAPSHOT / "company" / item["content_path"]).read_bytes()
-        ).hexdigest()
-        == item["document_content_hash"]
+        _matches_acquisition_hash(
+            CURRENT_SNAPSHOT / "company" / item["content_path"], item["document_content_hash"]
+        )
         for item in company
     )
     assert document_paths == {
@@ -226,5 +239,4 @@ def test_expanded_snapshot_has_complete_macro_backfill() -> None:
 
     manifest = json.loads((CURRENT_SNAPSHOT / "manifest.json").read_text())
     for relative_path, expected_hash in manifest["file_sha256"].items():
-        payload = (CURRENT_SNAPSHOT / relative_path).read_bytes()
-        assert hashlib.sha256(payload).hexdigest() == expected_hash
+        assert _matches_acquisition_hash(CURRENT_SNAPSHOT / relative_path, expected_hash)

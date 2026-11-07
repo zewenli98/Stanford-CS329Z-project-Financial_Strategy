@@ -44,6 +44,11 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--live-prices", action="store_true")
     parser.add_argument("--compact", action="store_true")
+    parser.add_argument(
+        "--screening-only",
+        action="store_true",
+        help="Prepare screening inputs only; leave labels and configuration files untouched.",
+    )
     args = parser.parse_args()
     bars = pl.read_parquet(SOURCE / "market/daily_bars.parquet")
     universe = json.loads((SOURCE / "universe/symbols.json").read_text())
@@ -114,7 +119,8 @@ def main():
         pl.lit(snapshot_id).alias("snapshot_id"),
     )
     derived.write_parquet(DEST / "market/daily_bars.parquet")
-    _write_study_targets(selected)
+    if not args.screening_only:
+        _write_study_targets(selected)
     (DEST / "market/corporate_actions.jsonl").write_text(
         "".join(json.dumps(a) + "\n" for a in actions if a["symbol"] in selected), encoding="utf-8"
     )
@@ -165,6 +171,9 @@ def main():
     }
     assert all(sha(SOURCE / name) == value for name, value in source_hashes.items())
     (DEST / "preparation.json").write_text(json.dumps(report, indent=2), encoding="utf-8")
+    if args.screening_only:
+        print(json.dumps({"prepared": str(DEST), "stocks": len(selected), "rows": derived.height}))
+        return
     # Start from the maintained, repository-contained prototype configuration.
     config = yaml.safe_load(Path("configs/adaptive_range_v1.yaml").read_text())
     config["task"].update(

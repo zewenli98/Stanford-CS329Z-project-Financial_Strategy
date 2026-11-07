@@ -177,9 +177,9 @@ def test_metric_quote_is_deterministically_verified() -> None:
     assert verify_card(card, [evidence]).verdict == "PASS"
     bad = card.model_copy(deep=True)
     bad.catalyst_assessment.metrics[0].value = 999.0
-    assert {
-        issue.code for issue in verify_card(bad, [evidence]).issues
-    } == {"INVALID_NUMERIC_CLAIM"}
+    assert {issue.code for issue in verify_card(bad, [evidence]).issues} == {
+        "INVALID_NUMERIC_CLAIM"
+    }
 
 
 def test_agent_contract_filters_unsupported_fields_before_synthesis() -> None:
@@ -314,10 +314,51 @@ def test_company_normalization_drops_mismatched_event_citations() -> None:
             "claims": [],
         }
     )
-    normalized = normalize_company_output(
-        output, [evidence], timestamp
-    )
+    normalized = normalize_company_output(output, [evidence], timestamp)
     assert normalized.events[0].event_types == ["earnings"]
+
+
+def test_synthesis_resolves_only_explicit_unique_fact_references():
+    company = CompanyAgentOutput(
+        events=[
+            {
+                "event_id": "event_000",
+                "event_types": ["earnings"],
+                "status": "released_before_cutoff",
+                "confidence": "high",
+                "evidence_ids": ["e2"],
+            }
+        ],
+        claims=[
+            {
+                "claim_id": "claim_known",
+                "text": "Reported fact.",
+                "claim_type": "observed_fact",
+                "evidence_ids": ["e1"],
+            }
+        ],
+    )
+    output = SynthesisOutput(
+        catalyst_assessment=_assessment().model_copy(
+            update={
+                "evidence_ids": ["claim_known", "event_000", "unknown", "e1"],
+                "counterevidence_ids": ["claim_known"],
+            }
+        )
+    )
+    macro = MacroContext(task_id="task", events=[], evidence_ids=[])
+    result = align_synthesis_output(output, company, macro)
+    assert result.catalyst_assessment.evidence_ids == ["e1", "e2"]
+    assert result.catalyst_assessment.counterevidence_ids == ["e1"]
+    assert (
+        result.catalyst_assessment.signed_residual_bucket
+        == output.catalyst_assessment.signed_residual_bucket
+    )
+    company.claims.append(company.claims[0].model_copy(update={"evidence_ids": ["e3"]}))
+    result = align_synthesis_output(output, company, macro)
+    # The ambiguous claim reference is dropped; the genuine source and unique event remain.
+    assert result.catalyst_assessment.evidence_ids == ["e1", "e2"]
+    assert result.catalyst_assessment.counterevidence_ids == []
 
 
 def test_synthesis_cannot_create_facts_or_unverified_metrics() -> None:
@@ -563,9 +604,7 @@ def test_unknown_impact_remains_trainable_when_evidence_is_present() -> None:
 
 
 def test_residual_features_require_same_day_timing() -> None:
-    assessment = _assessment().model_copy(
-        update={"target_session_timing": "prior_session"}
-    )
+    assessment = _assessment().model_copy(update={"target_session_timing": "prior_session"})
     card = ResearchCard(
         symbol="AAPL",
         task_id="task",
@@ -579,12 +618,8 @@ def test_residual_features_require_same_day_timing() -> None:
 
 def test_numeric_surprise_uses_matched_reported_and_consensus() -> None:
     reported = _assessment().metrics[0]
-    consensus = reported.model_copy(
-        update={"kind": "consensus", "value": 100.0}
-    )
-    assessment = _assessment().model_copy(
-        update={"metrics": [reported, consensus]}
-    )
+    consensus = reported.model_copy(update={"kind": "consensus", "value": 100.0})
+    assessment = _assessment().model_copy(update={"metrics": [reported, consensus]})
     card = ResearchCard(
         symbol="AAPL",
         task_id="task",
@@ -693,9 +728,7 @@ def test_signed_ridge_residual_recovers_direction() -> None:
 
 
 def test_market_scores_are_calibrated_to_cross_sectional_percentiles() -> None:
-    calibrated = calibrate_market_scores(
-        {"LOW": 0.2, "MID_A": 0.6, "MID_B": 0.6, "HIGH": 0.9}
-    )
+    calibrated = calibrate_market_scores({"LOW": 0.2, "MID_A": 0.6, "MID_B": 0.6, "HIGH": 0.9})
     assert calibrated == {
         "LOW": 0.0,
         "MID_A": pytest.approx(0.5),

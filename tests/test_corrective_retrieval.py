@@ -150,6 +150,82 @@ def test_reprints_of_one_filing_do_not_consume_a_second_hit() -> None:
     assert [event.evidence_ids for event in output.events] == [["ev_filing"]]
 
 
+def test_distinct_exhibit_in_same_accession_is_retained():
+    filing = _evidence("ev_filing", accession_number="0001", document_content_hash="wrapper")
+    exhibit = _evidence("ev_exhibit", accession_number="0001", document_content_hash="release")
+    reprint = _evidence("ev_reprint", accession_number="0001", document_content_hash="release")
+    kept = dedupe_evidence([reprint, exhibit, filing])
+    assert {r.evidence_id for r in kept} == {"ev_filing", "ev_exhibit"}
+
+
+def test_retrieved_body_chunk_reaches_judge_and_extractor(monkeypatch):
+    from financial_strategy.agents.roles import scripted_responder
+    from financial_strategy.retrieval import corrective
+    from financial_strategy.retrieval.bm25 import RetrievalHit
+    from financial_strategy.schemas import EvidenceChunk
+
+    header = "FILING HEADER ONLY. "
+    body = "Current earnings: revenue grew 12% and guidance increased."
+    record = _evidence(
+        "ev_body",
+        document_text=header + body,
+        chunks=[
+            EvidenceChunk(chunk_id="header", start_char=0, end_char=len(header), content_hash="h"),
+            EvidenceChunk(
+                chunk_id="body",
+                start_char=len(header),
+                end_char=len(header + body),
+                content_hash="b",
+            ),
+        ],
+    )
+    monkeypatch.setattr(
+        corrective,
+        "search",
+        lambda *args, **kwargs: [RetrievalHit(record, score=1.0, chunk_id="body", text=body)],
+    )
+    suite = _suite()
+    captured = []
+
+    def respond(role, payload):
+        captured.append(payload)
+        return scripted_responder(role, payload)
+
+    suite.client.base.responder = respond
+    suite.company(_task(), "AAPL", [record], "snapshot")
+    judgment = next(p for p in captured if p.get("op") == "judge_retrieval")
+    extraction = next(p for p in captured if "revision_feedback" in p and "evidence" in p)
+    for payload in [judgment, extraction]:
+        assert payload["evidence"][0]["retrieved_chunk"] == {"chunk_id": "body", "text": body}
+        assert header not in payload["evidence"][0]["retrieved_chunk"]["text"]
+
+
+def test_synthesis_receives_authoritative_session_and_cutoff():
+    from test_llm_residual import _feature
+
+    from financial_strategy.agents.roles import CompanyAgentOutput, scripted_responder
+    from financial_strategy.schemas import MacroContext
+
+    suite = _suite()
+    task = _task()
+    seen = []
+
+    def respond(role, payload):
+        if role == "synthesis":
+            seen.append(payload)
+        return scripted_responder(role, payload)
+
+    suite.client.base.responder = respond
+    suite.synthesize(
+        task,
+        _feature(),
+        CompanyAgentOutput(events=[], claims=[]),
+        MacroContext(task_id=task.task_id, events=[], evidence_ids=[]),
+    )
+    assert seen[0]["target_session"] == task.target_session.isoformat()
+    assert seen[0]["decision_cutoff"] == task.decision_cutoff.isoformat()
+
+
 def test_second_rewrite_is_recorded_as_a_gap() -> None:
     raw = RetrievalJudgment(
         company_match=True,

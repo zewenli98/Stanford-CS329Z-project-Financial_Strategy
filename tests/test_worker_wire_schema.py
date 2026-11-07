@@ -3,6 +3,43 @@ from financial_strategy.llm.client import request_hash
 from financial_strategy.llm.structured import worker_response_schema
 
 
+def test_company_wire_closes_nested_events_metrics_and_quotes():
+    from financial_strategy.agents.roles import CompanyAgentOutput
+    from financial_strategy.llm.structured import closed_response_schema
+
+    wire = closed_response_schema(CompanyAgentOutput)
+
+    def check(node):
+        if isinstance(node, dict):
+            if node.get("type") == "object":
+                assert node["additionalProperties"] is False
+                assert set(node["required"]) == set(node.get("properties", {}))
+            assert "default" not in node
+            for value in node.values():
+                check(value)
+        elif isinstance(node, list):
+            for value in node:
+                check(value)
+
+    check(wire["schema"])
+    assert wire["strict"] is True
+    assert set(wire["schema"]["properties"]) == {"events", "claims", "metrics"}
+    assert wire["schema"]["$defs"]["EvidenceCitation"]["properties"]["quote"]["maxLength"] == 800
+
+
+def test_company_wire_version_changes_request_identity(monkeypatch):
+    from financial_strategy.agents.roles import CompanyAgentOutput
+
+    before = request_hash(
+        "company_evidence", {}, CompanyAgentOutput, "model", "v1", "initial", 2048
+    )
+    monkeypatch.setattr(
+        "financial_strategy.llm.client.COMPANY_WIRE_VERSION", "next_company_protocol"
+    )
+    after = request_hash("company_evidence", {}, CompanyAgentOutput, "model", "v1", "initial", 2048)
+    assert before != after
+
+
 def test_single_action_wire_schema_is_closed_and_nullable():
     wire = worker_response_schema(WorkerAction)
     assert wire["strict"] is True
